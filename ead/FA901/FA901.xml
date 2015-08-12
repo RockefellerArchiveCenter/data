@@ -1,0 +1,77 @@
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" repositoryencoding="iso15511">
+    <eadid>FA901.xml</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper type="filing">Rockefeller University records, Service Departments, Safety</titleproper>
+        <titleproper>A Guide to the Rockefeller University records, Service Departments, Safety
+ <num>FA901</num></titleproper>
+      </titlestmt>
+      <publicationstmt>
+        <publisher>Rockefeller Archive Center</publisher>
+        <address>
+          <addressline>15 Dayton Avenue</addressline>
+          <addressline>Sleepy Hollow 10591</addressline>
+          <addressline>archive@rockarch.org</addressline>
+          <addressline>URL: <extptr xlink:href="http://www.rockarch.org" xlink:show="new" xlink:title="http://www.rockarch.org" xlink:type="simple"/></addressline>
+        </address>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation>This finding aid was produced using ArchivesSpace on <date>2015-08-11 20:11:39 -0400</date>.</creation>
+      <langusage>English</langusage>
+      <descrules>Describing Archives: A Content Standard</descrules>
+    </profiledesc>
+  </eadheader>
+  <archdesc level="collection">
+    <did>
+      <langmaterial>
+        <language langcode="eng">English</language>
+      </langmaterial>
+      <repository>
+        <corpname>Rockefeller Archive Center</corpname>
+      </repository>
+      <unittitle>Rockefeller University records, Service Departments, Safety</unittitle>
+      <unitid>FA901</unitid>
+      <physdesc altrender="whole">
+        <extent altrender="materialtype spaceoccupied">0.44 Cubic Feet</extent>
+        <extent altrender="carrier">1 box</extent>
+      </physdesc>
+      <unitdate normal="1979/1985" type="inclusive">1979-1985</unitdate>
+    </did>
+    <accessrestrict id="aspace_a6cc7174e4129c7d01da499b82fb0c10">
+      <head>Conditions Governing Access</head>
+      <p>Collection is open for scholarly research.</p>
+    </accessrestrict>
+    <fileplan id="aspace_0c36a64aa25692d4dcfea7c833ddac89">
+      <head>File Plan</head>
+      <p>Former Classification: I 291</p>
+    </fileplan>
+    <prefercite id="aspace_814e506301a57997d65e14fa8c32054d">
+      <head>Preferred Citation</head>
+      <p>Information regarding the Rockefeller Archive Center's preferred elements and forms of citation can be found at <extref href="http://www.rockarch.org/research/citations.php">http://www.rockarch.org/research/citations.php</extref></p>
+    </prefercite>
+    <phystech id="aspace_8006d0058ebd380413f9d06749704a69">
+      <head>Physical Characteristics and Technical Requirements</head>
+      <p>Materials requiring specialized equipment for access (film, audio, video, slides) may be restricted from scholarly research dependent on availability of the applicable equipment. </p>
+      <p>Brittle or damaged items, or materials otherwise in need of preservation care, may be restricted from scholarly research at the discretion of the RAC Head of Archival Services/RAC Head of Reference.</p>
+    </phystech>
+    <dsc>
+      <c id="aspace_ref5_5ps" level="file">
+        <did>
+          <unittitle>Correspondence</unittitle>
+          <unitdate normal="1979/1985" type="inclusive">1979-1985</unitdate>
+          <container id="aspace_dd659e58945e76123ccc7387f6d5dd0c" label="mixed materials" type="box">1</container>
+          <container id="aspace_4f20e2bc44980ce1ea54cb5263d0f961" parent="aspace_dd659e58945e76123ccc7387f6d5dd0c" type="folder">1</container>
+        </did>
+      </c>
+      <c id="aspace_ref6_551" level="file">
+        <did>
+          <unittitle>Manual</unittitle>
+          <unitdate normal="1985/1985" type="inclusive">1985</unitdate>
+          <container id="aspace_bc49222dd19bfe113281d329d35d09e2" label="mixed materials" type="box">1</container>
+        </did>
+      </c>
+    </dsc>
+  </archdesc>
+</ead>

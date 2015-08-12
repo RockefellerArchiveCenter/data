@@ -1,0 +1,109 @@
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="under_revision" langencoding="iso639-2b" repositoryencoding="iso15511">
+    <eadid>FA930.xml</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper type="filing">Rockefeller University records, Rockefeller University Press, Journal of Cell Biology, Editors Meetings, Minutes, Series 2</titleproper>
+        <titleproper>A Guide to the Rockefeller University records, Rockefeller University Press, Journal of Cell Biology, Editors Meetings, Minutes, Series 2
+ <num>FA930</num></titleproper>
+      </titlestmt>
+      <publicationstmt>
+        <publisher>Rockefeller Archive Center</publisher>
+        <address>
+          <addressline>15 Dayton Avenue</addressline>
+          <addressline>Sleepy Hollow 10591</addressline>
+          <addressline>archive@rockarch.org</addressline>
+          <addressline>URL: <extptr xlink:href="http://www.rockarch.org" xlink:show="new" xlink:title="http://www.rockarch.org" xlink:type="simple"/></addressline>
+        </address>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation>This finding aid was produced using ArchivesSpace on <date>2015-08-11 20:23:56 -0400</date>.</creation>
+    </profiledesc>
+    <revisiondesc>
+      <date>2008 October 21</date>
+      <item>Paper finding aid converted to EAD/XML by AureXus in 2010. Imported into the Archvists’ Toolkit by Becky Robbins.</item>
+    </revisiondesc>
+  </eadheader>
+  <archdesc level="series">
+    <did>
+      <langmaterial>
+        <language langcode="eng">English</language>
+      </langmaterial>
+      <repository>
+        <corpname>Rockefeller Archive Center</corpname>
+      </repository>
+      <unittitle>Rockefeller University records, Rockefeller University Press, Journal of Cell Biology, Editors Meetings, Minutes, Series 2</unittitle>
+      <origination label="creator">
+        <corpname source="library of congress authority files">Rockefeller University</corpname>
+      </origination>
+      <origination label="creator">
+        <corpname source="library of congress authority files">Rockefeller Institute for Medical Research</corpname>
+      </origination>
+      <unitid>FA930</unitid>
+      <physdesc altrender="whole">
+        <extent altrender="materialtype spaceoccupied">0.44 Cubic Feet</extent>
+        <extent altrender="carrier">1 box.</extent>
+      </physdesc>
+      <unitdate normal="1956/1980" type="inclusive">1956-1980</unitdate>
+      <physdesc id="aspace_bf88d84c577058a944e248917937288d">1 box.</physdesc>
+    </did>
+    <phystech id="aspace_b0756cff2cc21d9e73fc89e4efe34fda">
+      <head>Physical Characteristics and Technical Requirements note</head>
+      <p>Materials requiring specialized equipment for access (film, audio, video, slides) may be closed to research dependent on availability of the applicable equipment</p>
+      <p>Brittle or damaged items, or materials otherwise in need of preservation care, may be closed to researchers at the discretion of the RAC Head of Archival Services/Head of Reference.</p>
+    </phystech>
+    <prefercite id="aspace_9224f113db70c98d97597afcb4a25314">
+      <head>Preferred Citation note</head>
+      <p>Information regarding the Rockefeller Archive Center's preferred elements and forms of citation can be found at <extref href="http://www.rockarch.org/research/citations.php">http://www.rockarch.org/research/citations.php</extref></p>
+    </prefercite>
+    <otherfindaid id="aspace_5a600a58b6ae744e8297a75ef7c32980">
+      <head>Other Finding Aids</head>
+      <p>FA929 Rockefeller University records, Rockefeller University Press, Journal of Cell Biology, Microfiche, Series 1.</p>
+    </otherfindaid>
+    <arrangement id="aspace_5aefc3c4db59666beb0af565e01c0f2b">
+      <head>Arrangement</head>
+      <p>Journal of Cell Biology records are arranged into 2 series:</p>
+      <p>Series 1: Microfiche.
+Series 2: Editors Meetings, Minutes.</p>
+    </arrangement>
+    <accessrestrict id="aspace_087e3587c3ba76d619e596d19f2c2908">
+      <head>Conditions Governing Access</head>
+      <p>Series 2 is open for scholarly research.</p>
+    </accessrestrict>
+    <fileplan id="aspace_270cfee7e5bb0f3bccad77134eef368d">
+      <head>File Plan note</head>
+      <p>Former Classification: I 518-2</p>
+    </fileplan>
+    <controlaccess>
+      <subject source="lcsh">Medical education</subject>
+      <subject source="lcsh">Medical technology</subject>
+      <subject source="lcsh">Medical sciences</subject>
+      <subject source="lcsh">Life sciences</subject>
+      <subject source="lcsh">Biology -- Research</subject>
+      <subject source="lcsh">Medical research</subject>
+      <subject source="lcsh">Cell and biomolecular sciences</subject>
+      <subject source="lcsh">Science -- Study and teaching</subject>
+      <subject source="lcsh">Medicine, Preventive</subject>
+      <corpname source="library of congress authority files">Rockefeller University</corpname>
+      <corpname source="library of congress authority files">Rockefeller Institute for Medical Research</corpname>
+    </controlaccess>
+    <dsc>
+      <c id="aspace_ref2608_f4w" level="series">
+        <did>
+          <unittitle>Editors Meetings, Minutes</unittitle>
+          <unitid>2</unitid>
+          <unitdate type="inclusive">1956-1980</unitdate>
+        </did>
+        <c id="aspace_ref403_vuj" level="file">
+          <did>
+            <unittitle>Minutes</unittitle>
+            <unitdate normal="1956/1980" type="inclusive">1956-1980</unitdate>
+            <container id="aspace_1900d10ef1a341e30041943d77c84eb5" label="mixed materials" type="box">1</container>
+            <container id="aspace_5ac638f691a36df00111b1eb7abc9bd0" parent="aspace_1900d10ef1a341e30041943d77c84eb5" type="folder">1</container>
+          </did>
+        </c>
+      </c>
+    </dsc>
+  </archdesc>
+</ead>

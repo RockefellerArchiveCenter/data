@@ -1,0 +1,66 @@
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" repositoryencoding="iso15511">
+    <eadid>test4.xml</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper type="filing">Ford Foundation records, Grants A-B test4</titleproper>
+        <titleproper>A Guide to the Ford Foundation records, Grants A-B test4 <num>test4</num></titleproper>
+      </titlestmt>
+      <publicationstmt>
+        <publisher>Rockefeller Archive Center</publisher>
+        <address>
+          <addressline>15 Dayton Avenue</addressline>
+          <addressline>Sleepy Hollow 10591</addressline>
+          <addressline>archive@rockarch.org</addressline>
+          <addressline>URL: <extptr xlink:href="http://www.rockarch.org" xlink:show="new" xlink:title="http://www.rockarch.org" xlink:type="simple"/></addressline>
+        </address>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation>This finding aid was produced using ArchivesSpace on <date>2015-08-11 22:00:40 -0400</date>.</creation>
+      <langusage>English</langusage>
+      <descrules>Describing Archives: A Content Standard</descrules>
+    </profiledesc>
+  </eadheader>
+  <archdesc level="collection">
+    <did>
+      <langmaterial>
+        <language langcode="eng">English</language>
+      </langmaterial>
+      <repository>
+        <corpname>Rockefeller Archive Center</corpname>
+      </repository>
+      <unittitle>Ford Foundation records, Grants A-B</unittitle>
+      <origination label="creator">
+        <corpname source="lcnaf">Ford Foundation</corpname>
+      </origination>
+      <unitid>test4</unitid>
+      <physdesc altrender="whole">
+        <extent altrender="materialtype spaceoccupied">9281.0 microfilm reels.</extent>
+      </physdesc>
+      <unitdate normal="1936/2005" type="inclusive">1936-2005</unitdate>
+    </did>
+    <controlaccess>
+      <corpname source="lcnaf">Ford Foundation</corpname>
+    </controlaccess>
+    <dsc>
+      <c id="aspace_6d7906cbccd5a82c5986d72f3cceb9f4" level="series">
+        <did>
+          <unittitle>Ford Foundation Grants - A to B</unittitle>
+        </did>
+        <c id="aspace_0523a760b92be131b52a5fdbb06928f5" level="file">
+          <did>
+            <unittitle>!nara (09601330)</unittitle>
+            <unitdate normal="1996/2001" type="inclusive">1996 April 01-2001 December 31</unitdate>
+            <container id="aspace_6b9f55cf254965b380db674d90727368" label="mixed materials" type="Reel">8970</container>
+            <container id="aspace_2b3e347c8de9ac2701891ec98c44cf86" label="mixed materials" type="Reel">2</container>
+          </did>
+          <controlaccess>
+            <geogname source="lcsh">Namibia</geogname>
+            <corpname source="local">!nara</corpname>
+          </controlaccess>
+        </c>
+      </c>
+    </dsc>
+  </archdesc>
+</ead>

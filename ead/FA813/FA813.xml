@@ -1,0 +1,910 @@
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="under_revision" langencoding="iso639-2b" repositoryencoding="iso15511">
+    <eadid>FA813.xml</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper type="filing">Rockefeller University records, Director, Herbert Spencer Gasser, Subject Files, Series 4</titleproper>
+        <titleproper>Rockefeller University records, Director, Herbert Spencer Gasser, Subject Files, Series 4
+ <num>FA813</num></titleproper>
+        <author>Finding aid prepared by Ruth Sternfeld</author>
+      </titlestmt>
+      <publicationstmt>
+        <publisher>Rockefeller Archive Center</publisher>
+        <p>
+          <date>1977</date>
+        </p>
+        <address>
+          <addressline>15 Dayton Avenue</addressline>
+          <addressline>Sleepy Hollow 10591</addressline>
+          <addressline>archive@rockarch.org</addressline>
+          <addressline>URL: <extptr xlink:href="http://www.rockarch.org" xlink:show="new" xlink:title="http://www.rockarch.org" xlink:type="simple"/></addressline>
+        </address>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation>This finding aid was produced using ArchivesSpace on <date>2015-08-11 19:44:47 -0400</date>.</creation>
+    </profiledesc>
+    <revisiondesc>
+      <date>20 August 2010</date>
+      <item>Paper finding aid converted to EAD/XML by AureXus in 2010. Imported into the Archvists’ Toolkit by Becky Robbins.</item>
+    </revisiondesc>
+  </eadheader>
+  <archdesc level="series">
+    <did>
+      <langmaterial>
+        <language langcode="eng">English</language>
+      </langmaterial>
+      <repository>
+        <corpname>Rockefeller Archive Center</corpname>
+      </repository>
+      <unittitle>Rockefeller University records, Director, Herbert Spencer Gasser, Subject Files, Series 4</unittitle>
+      <origination label="creator">
+        <corpname source="library of congress authority files">Rockefeller University</corpname>
+      </origination>
+      <origination label="creator">
+        <persname role="aut" source="library of congress authority files">Gasser, Herbert S. (Herbert Spencer)</persname>
+      </origination>
+      <origination label="creator">
+        <corpname role="aut" source="library of congress authority files">Rockefeller Institute for Medical Research</corpname>
+      </origination>
+      <unitid>FA813</unitid>
+      <physdesc altrender="whole">
+        <extent altrender="materialtype spaceoccupied">0.88 Cubic Feet</extent>
+        <extent altrender="carrier">2 boxes</extent>
+      </physdesc>
+      <unitdate normal="1935/1953" type="inclusive">1935-1953</unitdate>
+      <physdesc id="aspace_828f54e91002c57e6dd9cd8bfb256f81">2 boxes.
+</physdesc>
+    </did>
+    <relatedmaterial id="aspace_543f7451a1c3758943478c999a40ab88">
+      <head>Related Archival Materials note</head>
+      <p>Herbert Spencer Gasser was Director of The Rockefeller Institute for Medical Research 1935-1953. During his tenure he continued many of the administrative routines which had been established during the directorship of Simon Flexner. Thus, much administrative correspondence, in particular, matters dealing with personnel and administration of the physical plant are to be found in the papers of the Business Manager, Edric B. Smith, who served also, as Secretary of the Board of Trustees.</p>
+      <p>See FA137 Rockefeller University records, Business Manager, Subject Files, Series 3. 
+See FA809 Rockefeller University records, Business Manager, Series 4.</p>
+    </relatedmaterial>
+    <bioghist id="aspace_c0b3e03c15aace34d6dce96793f81de9">
+      <head>Biographical/Historical note</head>
+      <p>Herbert Spencer Gasser, 1888-1963, physiologist, was Director of The Rockefeller Institute for Medical Research, 1935-1953. His early work at the University of Wisconsin and at Washington University was done on circulation and respiration, including the mechanism through which the heart is accelerated in exercise and the rate of decreased oxidation in the respiratory center. Later at Washington University and at Cornell University Medical College his major interest was in the physiology of nerve, developing electrophysiological techniques through the development of vacuum tube amplification and the cathode ray oscillograph. In collaboration with Joseph Erlanger, also of Washington University, he developed an exhaustive determination of the constants of nerve fibers and the classification of nerve fibers in accordance with their properties. The two men shared the Nobel Prize in Medicine and Physiology in 1944 for this work.</p>
+      <chronlist>
+        <head>Biographical Note</head>
+        <chronitem>
+          <date>1888</date>
+          <eventgrp>
+            <event>Born July 5 Platteville, Wisconsin</event>
+          </eventgrp>
+        </chronitem>
+        <chronitem>
+          <date>1907</date>
+          <eventgrp>
+            <event>Graduate State Normal School of Wisconsin, Platteville</event>
+          </eventgrp>
+        </chronitem>
+        <chronitem>
+          <date>1910</date>
+          <eventgrp>
+            <event>A.B. University of Wisconsin</event>
+          </eventgrp>
+        </chronitem>
+        <chronitem>
+          <date>1911</date>
+          <eventgrp>
+            <event>A.M. University of Wisconsin</event>
+          </eventgrp>
+        </chronitem>
+        <chronitem>
+          <date>1911-1912</date>
+          <eventgrp>
+            <event>Assistant in physiology University Wisconsin</event>
+          </eventgrp>
+        </chronitem>
+        <chronitem>
+          <date>1912-1913</date>
+          <eventgrp>
+            <event>Instructor in physiology, University Wisconsin</event>
+          </eventgrp>
+        </chronitem>
+        <chronitem>
+          <date>1915</date>
+          <eventgrp>
+            <event>M.D. Johns Hopkins University Medical School</event>
+          </eventgrp>
+        </chronitem>
+        <chronitem>
+          <date>1915-1916</date>
+          <eventgrp>
+            <event>Instructor in pharmacology, University Wisconsin</event>
+          </eventgrp>
+        </chronitem>
+        <chronitem>
+          <date>1916-1918</date>
+          <eventgrp>
+            <event>Instructor in physiology, Washington University St. Louis</event>
+          </eventgrp>
+        </chronitem>
+        <chronitem>
+          <date>1918-1920</date>
+          <eventgrp>
+            <event>Associate in physiology, Washington University</event>
+          </eventgrp>
+        </chronitem>
+        <chronitem>
+          <date>1920-1921</date>
+          <eventgrp>
+            <event>Associate Professor in physiology, Washington University</event>
+          </eventgrp>
+        </chronitem>
+        <chronitem>
+          <date>1921-1931</date>
+          <eventgrp>
+            <event>Professor in pharmacology, Washington University</event>
+          </eventgrp>
+        </chronitem>
+        <chronitem>
+          <date>1923-1925</date>
+          <eventgrp>
+            <event>Study abroad: University College, London; National Institute of Medical Research, London; Sorbonne, Paris; University of Munich</event>
+          </eventgrp>
+        </chronitem>
+        <chronitem>
+          <date>1931-1935</date>
+          <eventgrp>
+            <event>Professor physiology, Cornell University Medical College New York, New York</event>
+          </eventgrp>
+        </chronitem>
+        <chronitem>
+          <date>1935-1953</date>
+          <eventgrp>
+            <event>Director, The Rockefeller Institute for Medical Research, New York, New York</event>
+          </eventgrp>
+        </chronitem>
+        <chronitem>
+          <date>1953</date>
+          <eventgrp>
+            <event>June, retired as Director; returned to work in his laboratory; Member Emeritus RIMR</event>
+          </eventgrp>
+        </chronitem>
+        <chronitem>
+          <date>1963</date>
+          <eventgrp>
+            <event>Died May 11 New York Hospital, New York, N.Y. Cremated; ashes sent to sister. Interred family plot, Platteville, Wis.</event>
+          </eventgrp>
+        </chronitem>
+      </chronlist>
+      <chronlist>
+        <head>Prizes</head>
+        <chronitem>
+          <date>1944</date>
+          <eventgrp>
+            <event>Nobel Prize in Physiology and Medicine Shared with Dr. Joseph Erlanger</event>
+          </eventgrp>
+        </chronitem>
+        <chronitem>
+          <date>1954</date>
+          <eventgrp>
+            <event>Kober Medal, Association of American Physicians</event>
+          </eventgrp>
+        </chronitem>
+      </chronlist>
+      <p>Clubs Sigma Xi, Gamma Alpha, Alpha Omega Alpha, Century Club, Quadrangle Club</p>
+      <chronlist>
+        <head>Honorary Degrees</head>
+        <chronitem>
+          <date>1936</date>
+          <eventgrp>
+            <event>D. Sc. university of Pennsylvania</event>
+          </eventgrp>
+        </chronitem>
+        <chronitem>
+          <date>1940</date>
+          <eventgrp>
+            <event>D. Sc. University of Rochester</event>
+          </eventgrp>
+        </chronitem>
+        <chronitem>
+          <date>1940</date>
+          <eventgrp>
+            <event>LL. D. Washington University</event>
+          </eventgrp>
+        </chronitem>
+        <chronitem>
+          <date>1941</date>
+          <eventgrp>
+            <event>D. Sc. University of Wisconsin</event>
+          </eventgrp>
+        </chronitem>
+        <chronitem>
+          <date>1945</date>
+          <eventgrp>
+            <event>D. Sc. Columbia University</event>
+          </eventgrp>
+        </chronitem>
+        <chronitem>
+          <date>1947</date>
+          <eventgrp>
+            <event>LL. D. Johns Hopkins University</event>
+          </eventgrp>
+        </chronitem>
+        <chronitem>
+          <date>1947</date>
+          <eventgrp>
+            <event>D. Sc. Oxford University</event>
+          </eventgrp>
+        </chronitem>
+        <chronitem>
+          <date>1948</date>
+          <eventgrp>
+            <event>D. Sc. Harvard University</event>
+          </eventgrp>
+        </chronitem>
+        <chronitem>
+          <date>1949</date>
+          <eventgrp>
+            <event>Doctor Honoris Causa, Université Libre de Bruxelles</event>
+          </eventgrp>
+        </chronitem>
+        <chronitem>
+          <date>1949</date>
+          <eventgrp>
+            <event>Doctor of Medicine, Honorary. Université Catholique de Louvain</event>
+          </eventgrp>
+        </chronitem>
+        <chronitem>
+          <date>1953</date>
+          <eventgrp>
+            <event>Honorifique de docteur. Université de Paris</event>
+          </eventgrp>
+        </chronitem>
+        <chronitem>
+          <date>1959</date>
+          <eventgrp>
+            <event>D. Sc. The Rockefeller University</event>
+          </eventgrp>
+        </chronitem>
+      </chronlist>
+      <chronlist>
+        <head>Served</head>
+        <chronitem>
+          <date>1918</date>
+          <eventgrp>
+            <event>Pharmacologist, Chemical Warfare Service</event>
+          </eventgrp>
+        </chronitem>
+        <chronitem>
+          <date>1936</date>
+          <eventgrp>
+            <event>Johnson Foundation Lecturer, University of Pennsylvania</event>
+          </eventgrp>
+        </chronitem>
+        <chronitem>
+          <date>1937-</date>
+          <eventgrp>
+            <event>Rockefeller Foundation Trustee</event>
+          </eventgrp>
+        </chronitem>
+        <chronitem>
+          <date>1937-</date>
+          <eventgrp>
+            <event>Russell Sage Institute of Pathology. Board of Directors</event>
+          </eventgrp>
+        </chronitem>
+        <chronitem>
+          <date>1941-</date>
+          <eventgrp>
+            <event>Princeton University. Dept. of Biology</event>
+          </eventgrp>
+        </chronitem>
+        <chronitem>
+          <date>1941-1944</date>
+          <eventgrp>
+            <event>National Defense Research Committee Division 9</event>
+          </eventgrp>
+        </chronitem>
+        <chronitem>
+          <date>1945</date>
+          <eventgrp>
+            <event>Research Board for National Security (Member)</event>
+          </eventgrp>
+        </chronitem>
+        <chronitem>
+          <date>1947</date>
+          <eventgrp>
+            <event>Massachusetts General Hospital, Scientific Advisory Committee</event>
+          </eventgrp>
+        </chronitem>
+      </chronlist>
+      <p>Member of American Societies, American Academy of Arts and Sciences, Fellow, American Association for the Advancement of Science, Fellow, American Neurological Association (Associate Member), American Philosophical Society, American Physiological Society, American Society of Pharmacology and Experimental Therapeutics, American Society of Electroencephalography (Honorary), Association for Research in Nervous and Mental Disease, Association of American Physicians, Harvey Society (Councilor, Vice President, President), History of Science Society, National Academy of Sciences, Society for Experimental Biology and Medicine (Pres. 1937-1939), New York State Society for Medical Research (Active Member, 1952) , Foreign Societies, Academie Royale de Médecine de Belgique, correspondence member, Accademia della Scienze dell'Istituto di Bologna, correspondence member, Asociación Médica Argentina, Honorary Member, Finnish Academy of Sciences, Honorary Foreign Member, Physiological Society (British) Honorary Member, Royal Society of Edinburgh, Honorary Member, Royal Society of London, Honorary Member, Royal Swedish Academy of Sciences, Foreign Member, Sociedad Argentina de Biologia, Honorary Member, Société Philomathique de Paris, Corresponding Member</p>
+    </bioghist>
+    <acqinfo id="aspace_fad45ca205123a9edd7ae2337170ebc3">
+      <head>Immediate Source of Acquisition note</head>
+      <p>The Herbert Spencer Gasser collection was deposited with the Rockefeller University Archives by The University.</p>
+    </acqinfo>
+    <fileplan id="aspace_6913d969d49853a673fc8c8c89696134">
+      <head>File Plan note</head>
+      <p>Former Classification: I 302-4</p>
+    </fileplan>
+    <processinfo id="aspace_8b878b7764d54578d82ec9f051e54bd5">
+      <head>Processing Information note</head>
+      <p>Processed by Ruth Sternfeld, 1977.</p>
+    </processinfo>
+    <accessrestrict id="aspace_b326ca0f3f6172e54ab070c78f03131e">
+      <head>Conditions Governing Access note</head>
+      <p>This collection is open for scholarly research.</p>
+    </accessrestrict>
+    <prefercite id="aspace_9143a5724b7d80e163cfa53a166dfa9c">
+      <head>Preferred Citation note</head>
+      <p>Information regarding the Rockefeller Archive Center's preferred elements and forms of citation can be found at <extref href="http://www.rockarch.org/research/citations.php">http://www.rockarch.org/research/citations.php</extref></p>
+    </prefercite>
+    <otherfindaid id="aspace_5dbca56cdf08df717bed380d11906ac8">
+      <head>Other Finding Aids</head>
+      <p>FA143 Rockefeller University records, Herbert Spenser Gasser, Correspondence, Series 2.</p>
+      <p>FA814 Rockefeller University records, Herbert Spenser Gasser, Biography, Series 6.</p>
+    </otherfindaid>
+    <phystech id="aspace_d159102b81c2c73393bfde988217e888">
+      <head>Physical Characteristics and Technical Requirements note</head>
+      <p>Materials requiring specialized equipment for access (film, audio, video, slides) may be restricted from scholarly research dependent on availability of the applicable equipment.</p>
+      <p>Brittle or damaged items, or materials otherwise in need of preservation care, may be restricted from scholarly research at the discretion of the RAC Head of Archival Services/RAC Head of Reference.</p>
+    </phystech>
+    <controlaccess>
+      <subject source="lcsh">Medical research</subject>
+      <subject source="lcsh">Medical sciences</subject>
+      <subject source="lcsh">Viruses -- Research</subject>
+      <subject source="lcsh">Physiology</subject>
+      <corpname source="library of congress authority files">Princeton University</corpname>
+      <corpname source="library of congress authority files">Rockefeller University</corpname>
+      <persname role="aut" source="library of congress authority files">Gasser, Herbert S. (Herbert Spencer)</persname>
+      <corpname role="aut" source="library of congress authority files">Rockefeller Institute for Medical Research</corpname>
+      <persname source="library of congress authority files">Flexner, Simon</persname>
+      <corpname source="library of congress authority files">National Academy of Sciences (U.S.)</corpname>
+    </controlaccess>
+    <dsc>
+      <c id="aspace_ref608_4wu" level="series">
+        <did>
+          <unittitle>Subject files</unittitle>
+          <unitid>4</unitid>
+          <unitdate normal="1935/1953" type="inclusive">1935-1953</unitdate>
+          <physdesc id="aspace_3ca2f2908f31dd25991e4b324c9b4275">2 boxes</physdesc>
+        </did>
+        <arrangement id="aspace_460352466d3468a1d57cc94d3a09fa56">
+          <head>Arrangement note</head>
+          <p>Arranged in alphabetical order.</p>
+        </arrangement>
+        <scopecontent id="aspace_cb90d8cd2a88b40014b755afe80360a6">
+          <head>Scope and Contents note</head>
+          <p>Rockefeller Institute for Medical Research Director's subject file.</p>
+          <p>One archive box of about five inches consists of materials originally arranged in a subject sequence in the Director's office.</p>
+        </scopecontent>
+        <c id="aspace_ref609_um8" level="file">
+          <did>
+            <unittitle>Annual Scientific Reports</unittitle>
+            <container id="aspace_a474c2646605203a526aa24574b3fa12" label="mixed materials" type="box">1</container>
+          </did>
+          <c id="aspace_ref610_ixr" level="file">
+            <did>
+              <unittitle>Abstracts made for Director's Report</unittitle>
+            </did>
+          </c>
+          <c id="aspace_ref611_kca" level="file">
+            <did>
+              <unittitle>Summaries covering 13 years</unittitle>
+              <unitdate normal="1939/1951" type="inclusive">1939-1951</unitdate>
+              <physdesc id="aspace_089e201f1e97bc3041577d803928cff4">Handwritten, penciled</physdesc>
+            </did>
+            <scopecontent id="aspace_d9173bfcab737efc38a848a2a01949ef">
+              <head>Scope and Contents note</head>
+              <p>Not all the dates are clear. 2 sets undated (possibly 1939, 1940) ; 1941, 1942,1943, 1944, Apr. 1945, 1946, Apr. 1947, 1948, 1949, 1950, 1951.</p>
+            </scopecontent>
+          </c>
+        </c>
+        <c id="aspace_ref614_app" level="file">
+          <did>
+            <unittitle>Cole, Rufus</unittitle>
+            <container id="aspace_83c39b5c4594580a5873b1f7935fa0a2" label="mixed materials" type="box">1</container>
+          </did>
+          <c id="aspace_ref615_lmy" level="file">
+            <did>
+              <unittitle>Biographical data. Minute adopted by Board of Trustees, RIMR on Cole retirement; Press release on Cole retirement. Typescript copy of address made by Dr. Gasser at Cole retirement dinner</unittitle>
+              <unitdate type="inclusive">1937 May 13</unitdate>
+            </did>
+          </c>
+        </c>
+        <c id="aspace_ref616_lgu" level="file">
+          <did>
+            <unittitle>Commission on Neurotropic Virus Diseases</unittitle>
+            <unitdate normal="1942/1945" type="inclusive">1942-1945</unitdate>
+            <container id="aspace_4d7deb910e8b7d0451d5282d11a0fac4" label="mixed materials" type="box">1</container>
+          </did>
+          <c id="aspace_ref617_4f2" level="file">
+            <did>
+              <unittitle>Correspondence between Dr. Gasser, Mr. Debevoise Edric Smith and Francis G. Blake for War Department and John R. Paul for War Department and Yale Medical School on contract involving work of Peter Olitsky Leslie Webster and A. Sabin</unittitle>
+            </did>
+          </c>
+        </c>
+        <c id="aspace_ref618_4um" level="file">
+          <did>
+            <unittitle>Copyrights</unittitle>
+            <container id="aspace_78d107d62d1e6348e419f94cba1b2b8e" label="mixed materials" type="box">1</container>
+          </did>
+          <c id="aspace_ref619_vuu" level="file">
+            <did>
+              <unittitle>Permissions granted from Journal Experimental Medicine</unittitle>
+            </did>
+          </c>
+        </c>
+        <c id="aspace_ref620_anx" level="file">
+          <did>
+            <unittitle>Debevoise, Thomas M.</unittitle>
+            <unitdate normal="1939/1952" type="inclusive">1939-1952</unitdate>
+            <container id="aspace_6262727f59b202cc14fd3a27b5135589" label="mixed materials" type="box">1</container>
+          </did>
+          <c id="aspace_ref621_k0r" level="file">
+            <did>
+              <unittitle>Correspondence which deals with press reports of retirements of Alexis Carrel and others; New York State Society for Medical Research and anti-vivisection legislation; Princeton sale; by-law changes as to outside compensation for Institute personnel or emeriti; function of the budget committee; tax exemptions as an educational institution; the Winterberg bequest</unittitle>
+            </did>
+          </c>
+        </c>
+        <c id="aspace_ref622_5br" level="file">
+          <did>
+            <unittitle>Flexner, Simon</unittitle>
+            <container id="aspace_4e18e83001d9509fbf589efa75af6db5" label="mixed materials" type="box">1</container>
+          </did>
+          <scopecontent id="aspace_1bd8643b72a1411d22dd548d13fe0c05">
+            <head>Scope and Contents note</head>
+            <p>Deals with S.F.'s last illness and addresses for Memorial Meeting. Correspondence with Judge Learned Hand, Peyton Rous, John D. Rockefeller, Jr., and Raymond Fosdick. Includes copy of address by G. Ramon (Institut Pasteur) and sent by secretary of Academic des Sciences, Paris.</p>
+          </scopecontent>
+        </c>
+        <c id="aspace_ref624_evq" level="file">
+          <did>
+            <unittitle>Lavoisier painting by David</unittitle>
+            <container id="aspace_bdc14449b74d7875b4cec354326b81cc" label="mixed materials" type="box">1</container>
+          </did>
+          <c id="aspace_ref625_udy" level="file">
+            <did>
+              <unittitle>Requests to borrow</unittitle>
+            </did>
+          </c>
+        </c>
+        <c id="aspace_ref626_es3" level="file">
+          <did>
+            <unittitle>League of Nations</unittitle>
+            <unitdate normal="1940/1940" type="inclusive">1940</unitdate>
+            <container id="aspace_f47bfbb04a358a1d8afaecaba449d13a" label="mixed materials" type="box">1</container>
+          </did>
+          <c id="aspace_ref627_bxr" level="file">
+            <did>
+              <unittitle>Correspondence from Princeton University, Institute for Advanced Study, RIMR Princeton inviting science sections of League to take up residence in Princeton for duration of the war</unittitle>
+            </did>
+          </c>
+        </c>
+        <c id="aspace_ref628_4kq" level="file">
+          <did>
+            <unittitle>Little, Ralph B.</unittitle>
+            <unitdate normal="1950/1952" type="inclusive">1950-1952</unitdate>
+            <container id="aspace_a86e0a6bc1fc598ec6bd815c5734dd6a" label="mixed materials" type="box">1</container>
+          </did>
+          <c id="aspace_ref629_el8" level="file">
+            <did>
+              <unittitle>Correspondence between Dr. Gasser and the University of Pa. arranging a work situation for Ralph B. Little veterinarian, after closing of Princeton labs</unittitle>
+            </did>
+          </c>
+        </c>
+        <c id="aspace_ref630_16v" level="file">
+          <did>
+            <unittitle>National Academy of Sciences</unittitle>
+            <unitdate normal="1951/1956" type="inclusive">1951-1956</unitdate>
+            <container id="aspace_31c334801628dc7369024f0ab407d67a" label="mixed materials" type="box">1</container>
+          </did>
+          <scopecontent id="aspace_4e4f8925e4842a0b94777594ae931155">
+            <head>Scope and Contents note</head>
+            <p>Primarily nominations and voting for new members. Includes bibliography and evaluation for D.W. Woolley nomination and 1952 telegram announcing election to membership of P.D. McMaster and D.W. Woolley. 1962 October 10 letter granting H.S. Gasser emeritus status.</p>
+          </scopecontent>
+        </c>
+        <c id="aspace_ref632_p5b" level="file">
+          <did>
+            <unittitle>Princeton Integration with New York City Laboratories</unittitle>
+            <physdesc id="aspace_1ca8e06b8f9b75e2048e3aa5cba0eaac">3 folders</physdesc>
+            <container id="aspace_cf0861e637b744e49e225f7277e0d12a" label="mixed materials" type="box">1</container>
+          </did>
+          <c id="aspace_ref634_h0j" level="file">
+            <did>
+              <unittitle>History</unittitle>
+            </did>
+            <scopecontent id="aspace_5aa2ba75e8a4d32ef873f967caef4f32">
+              <head>Scope and Contents note</head>
+              <p>Copies of materials from the files of J.D. Rockefeller including correspondence with Seth Low (president of Columbia University) and letters written to him by T.M. Prudden and W.H. Welch when queried about usefulness of developing a research institute modeled after the Pasteur Institute in the United States. Materials brought together to help understand the original thinking in developing RIMR in New York City. Handwritten summary by H.S. Gasser.</p>
+            </scopecontent>
+          </c>
+          <c id="aspace_ref636_gm2" level="file">
+            <did>
+              <unittitle>Notes</unittitle>
+            </did>
+            <scopecontent id="aspace_ab0b9d6d35be988f8d4ff83490873c65">
+              <head>Scope and Contents note</head>
+              <p>Considerations for integration. Background notes of considerations leading to 2 May 1947 Trustee action to move toward integration. Includes 1943 6 page N.R.S. (Norman Stoll) holograph reporting on conference with C.T. (Carl TenBroeck). Handwritten notes by HSG evaluating the scientific work of the Institute at Princeton to determine what could not have been carried on in New York City; notes on factors to be considered in making a move to NYC; copy of property appraisal in NYC by Douglas Gibbons; copy of 1947 report requested by JDR, Jr. of HSG for an evaluation of how best to insure financial stability for the Institute's continued productivity.</p>
+            </scopecontent>
+          </c>
+          <c id="aspace_ref638_688" level="file">
+            <did>
+              <unittitle>Procedure</unittitle>
+              <unitdate type="inclusive">1947 May-1950</unitdate>
+            </did>
+            <scopecontent id="aspace_5bd2ae89ec4e6c81ece3ffc4633696e9">
+              <head>Scope and Contents note</head>
+              <p>Copy of H.S. Gasser 1947 report to John D. Rockefeller, Jr. Gasser correspondence with Carl TenBroeck (19 items), Richard Shope, John H. Northrop, John D. Rockefeller, Jr., Harold W. Dodds (President of Princeton). Notes on meetings with Carl Ten Broeck, Northrop, and Shope and joint letter from Princeton Dept. employees reacting to integration decision. Copy of Separation Benefits established by RI for those employees to be terminated in move; notes and plans on moving benefits.</p>
+            </scopecontent>
+          </c>
+        </c>
+        <c id="aspace_ref640_98x" level="file">
+          <did>
+            <unittitle>Princeton sale</unittitle>
+            <unitdate normal="1947/1951" type="inclusive">1947-1951</unitdate>
+            <container id="aspace_fe42098f108f69dd483969b9acd67f7d" label="mixed materials" type="box">1</container>
+          </did>
+          <c id="aspace_ref641_454" level="file">
+            <did>
+              <unittitle>Primarily correspondence with Lindsley F. Kimball in regard to sale of Princeton property after integration with New York City laboratories voted. Final sale in 1951 to Princeton University for James Forrestal Research Center in jet propulsion and related sciences</unittitle>
+            </did>
+          </c>
+        </c>
+        <c id="aspace_ref642_vih" level="file">
+          <did>
+            <unittitle>Promotion summaries</unittitle>
+            <physdesc id="aspace_554d8b8d03cd86d316377c53ccb19957">2 folders</physdesc>
+            <container id="aspace_d6ebca0e3b29da3ca31597b64bd5cd19" label="mixed materials" type="box">1</container>
+          </did>
+          <scopecontent id="aspace_70eb5a7737da18f4dd13d876268227da">
+            <head>Scope and Contents note</head>
+            <p>2 folders which consist of summary of scientific work, some letters of recommendation, in some instances list of publications and a short biography is included.</p>
+          </scopecontent>
+          <arrangement id="aspace_04fc537f4c3a663702e56b6dfa071000">
+            <head>Arrangement note</head>
+            <p>Arranged in alphabetical order.</p>
+          </arrangement>
+          <c id="aspace_ref644_gvk" level="file">
+            <did>
+              <unittitle>A-K</unittitle>
+            </did>
+            <c id="aspace_ref645_h7a" level="file">
+              <did>
+                <unittitle>Archibald, Reginald (by Donald Van Slyke)</unittitle>
+              </did>
+            </c>
+            <c id="aspace_ref646_f1d" level="file">
+              <did>
+                <unittitle>Braun, Armin C. (by L.O. Kunkel; H.S. Gasser)</unittitle>
+              </did>
+            </c>
+            <c id="aspace_ref647_hyu" level="file">
+              <did>
+                <unittitle>Chang, Hsiang-Tung</unittitle>
+              </did>
+            </c>
+            <c id="aspace_ref648_02b" level="file">
+              <did>
+                <unittitle>Chase, Merrill W.</unittitle>
+              </did>
+            </c>
+            <c id="aspace_ref649_hs8" level="file">
+              <did>
+                <unittitle>Dole, Vincent</unittitle>
+              </did>
+            </c>
+            <c id="aspace_ref650_cad" level="file">
+              <did>
+                <unittitle>Goebel, Walther F. (handwritten by H.S. Gasser)</unittitle>
+              </did>
+            </c>
+            <c id="aspace_ref651_xba" level="file">
+              <did>
+                <unittitle>Granick, Sam (handwritten summary by H.S. Gasser)</unittitle>
+              </did>
+            </c>
+            <c id="aspace_ref652_whn" level="file">
+              <did>
+                <unittitle>Hirsch, James G.</unittitle>
+              </did>
+            </c>
+            <c id="aspace_ref653_g0z" level="file">
+              <did>
+                <unittitle>Hotchkiss, Rollin Douglas (biography, bibliography, handwritten presentation for membership)</unittitle>
+              </did>
+            </c>
+            <c id="aspace_ref654_ru4" level="file">
+              <did>
+                <unittitle>Hunt, Carlton C. (bibliography, biography, summary)</unittitle>
+              </did>
+            </c>
+            <c id="aspace_ref655_g0b" level="file">
+              <did>
+                <unittitle>Kunitz, Moses (biography, handwritten summary, photo of crystals)</unittitle>
+              </did>
+            </c>
+            <c id="aspace_ref656_fwr" level="file">
+              <did>
+                <unittitle>Kunkel, H.G. (biographical sketch, summary of scientific work and covering letter by T.M. Rivers)</unittitle>
+              </did>
+            </c>
+          </c>
+          <c id="aspace_ref657_bbt" level="file">
+            <did>
+              <unittitle>L-W</unittitle>
+            </did>
+            <c id="aspace_ref658_d7a" level="file">
+              <did>
+                <unittitle>Lancefield, R.C. (biog. sketch; summary of work to 1942)</unittitle>
+                <unitdate normal="1942/1942" type="inclusive">1942</unitdate>
+              </did>
+            </c>
+            <c id="aspace_ref659_85o" level="file">
+              <did>
+                <unittitle>Lloyd, David P.C. (handwritten evaluation by HSG)</unittitle>
+              </did>
+            </c>
+            <c id="aspace_ref660_fro" level="file">
+              <did>
+                <unittitle>Longsworth, Lewis G. (biog., biblio, summary of work)</unittitle>
+              </did>
+            </c>
+            <c id="aspace_ref661_7yd" level="file">
+              <did>
+                <unittitle>Lorente de No, R. (handwritten summary by HSG)</unittitle>
+              </did>
+            </c>
+            <c id="aspace_ref662_zlw" level="file">
+              <did>
+                <unittitle>Maramorosch, Karl</unittitle>
+              </did>
+            </c>
+            <c id="aspace_ref663_w8x" level="file">
+              <did>
+                <unittitle>Merrifield, R.B. (Promotion recommended by D.W. Woolley)</unittitle>
+              </did>
+            </c>
+            <c id="aspace_ref664_qcy" level="file">
+              <did>
+                <unittitle>Mirsky, A.E. (Direction of work and papers published)</unittitle>
+              </did>
+            </c>
+            <c id="aspace_ref665_jzh" level="file">
+              <did>
+                <unittitle>Murphy, James S. (Recommendation by J.H. Northrop)</unittitle>
+              </did>
+            </c>
+            <c id="aspace_ref666_9ex" level="file">
+              <did>
+                <unittitle>Palade, G. (biography and summary of work by HSG)</unittitle>
+              </did>
+            </c>
+            <c id="aspace_ref667_kzi" level="file">
+              <did>
+                <unittitle>Porter, K.R. (biography and summary of work by HSG)</unittitle>
+              </did>
+            </c>
+            <c id="aspace_ref668_dcu" level="file">
+              <did>
+                <unittitle>Schmitt, F.O. Handwritten presentation by HSG of desirability of building a department for the study of cellular organization. Provoked by unsuccessful attempt to bring F.O. Schmitt to RI</unittitle>
+              </did>
+            </c>
+            <c id="aspace_ref669_ask" level="file">
+              <did>
+                <unittitle>Shaw, Elliott (Biography, bibliography and summary of work at RI)</unittitle>
+              </did>
+            </c>
+            <c id="aspace_ref670_ug8" level="file">
+              <did>
+                <unittitle>Shedlovsky, Theodore</unittitle>
+              </did>
+            </c>
+            <c id="aspace_ref671_83r" level="file">
+              <did>
+                <unittitle>Stern, Herbert (recommendation by A.E. Mirsky)</unittitle>
+              </did>
+            </c>
+            <c id="aspace_ref672_n1n" level="file">
+              <did>
+                <unittitle>Tallen, Harris H. (recommendation by Moore and Stein)</unittitle>
+              </did>
+            </c>
+            <c id="aspace_ref673_czr" level="file">
+              <did>
+                <unittitle>Tamm, Igor (summary of work)</unittitle>
+              </did>
+            </c>
+            <c id="aspace_ref674_qrh" level="file">
+              <did>
+                <unittitle>Wood, Harrison F. (summary of work)</unittitle>
+              </did>
+            </c>
+            <c id="aspace_ref675_xsc" level="file">
+              <did>
+                <unittitle>Barry, Guy (recommendation by Walther Goebel)</unittitle>
+              </did>
+            </c>
+            <c id="aspace_ref676_7ce" level="file">
+              <did>
+                <unittitle>Jesaitis, Margeris (recommendation by Walther Goebel)</unittitle>
+              </did>
+            </c>
+          </c>
+        </c>
+        <c id="aspace_ref679_s6o" level="file">
+          <did>
+            <unittitle>Secretary's file</unittitle>
+            <unitdate normal="1935/1952" type="inclusive">1935-1952</unitdate>
+            <container id="aspace_c6a5ab388e531c5205d979e2adee021a" label="mixed materials" type="box">1</container>
+          </did>
+          <scopecontent id="aspace_f14b75c9ad0e917a4befa47e666d1c21">
+            <head>Scope and Contents note</head>
+            <p>Miss Von der Osten and Miss von Berg were both secretary to Dr. Gasser during this period. The file consists primarily of copies of letters sent to Dr. Gasser from his secretary while he was away from the office, either on professional business or on vacation. Includes his letter to his secretary informing her of his addresses en route or giving certain instructions.</p>
+            <p>Included are 28 pages of assorted items; notes, packing slips, instructions from the period 1954-1961 when laboratory was run with the aid of a technician.</p>
+          </scopecontent>
+        </c>
+        <c id="aspace_ref681_yhp" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Addition to collection</unittitle>
+            <physdesc id="aspace_c0e243b329c44cbae207c3a3d23e6891">circa 4", (5" Letter)</physdesc>
+            <container id="aspace_89cc80fed5fa97d1faa625a523ba3b2a" label="mixed materials" type="box">2</container>
+          </did>
+          <scopecontent id="aspace_94a49c64842a74967965f0043eab6413">
+            <head>Scope and Contents note</head>
+            <p>H.S. Gasser material found in inactive files of the RU Corporate Secretary/Faculty Administrator.</p>
+          </scopecontent>
+          <acqinfo id="aspace_f5ead104dc7ed836463ee5031ab5eff3">
+            <head>Immediate Source of Acquisition note</head>
+            <p>Received February 1987 from Ms. Lila J. Magie.</p>
+          </acqinfo>
+          <c id="aspace_ref683_hxf" level="file">
+            <did>
+              <unittitle>Biographical material</unittitle>
+              <unitdate type="inclusive">1964 November</unitdate>
+              <container id="aspace_2a211ecb75c169f739ff1843d45cfbb2" label="mixed materials" type="box">2</container>
+              <container id="aspace_b1449640c39e0b5221318bc38430286a" parent="aspace_2a211ecb75c169f739ff1843d45cfbb2" type="folder">1</container>
+            </did>
+            <scopecontent id="aspace_96d1d44f5a1b57aa160dab6daefc3b36">
+              <head>Scope and Contents note</head>
+              <p>Includes 1935 news release re Directorship and HSG biography; RI obituary and reprint of Bio. Mem. of Fell. Roy. Soc., Nov 1964, Vol. 10.</p>
+            </scopecontent>
+          </c>
+          <c id="aspace_ref685_ab8" level="file">
+            <did>
+              <unittitle>Clippings</unittitle>
+              <container id="aspace_3fc81dd1805de4c1d6d9dcea1b8e0c2d" label="mixed materials" type="box">2</container>
+              <container id="aspace_96e01568f7e59abc7b312c46b130a77e" parent="aspace_3fc81dd1805de4c1d6d9dcea1b8e0c2d" type="folder">2</container>
+            </did>
+            <scopecontent id="aspace_0882f704782a1e6bc32b8fa5bef587e3">
+              <head>Scope and Contents note</head>
+              <p>Includes re Directorship (1935) ; Nobel Prize (1944) ; death (1963) ; Robert Peter Coin (1965).</p>
+            </scopecontent>
+          </c>
+          <c id="aspace_ref687_6rd" level="file">
+            <did>
+              <unittitle>Photographs. Portraits, Nobel medal and citation</unittitle>
+              <container id="aspace_70f3331f43acaf515589d8c42330ec70" label="mixed materials" type="box">2</container>
+              <container id="aspace_e91eaa45b005406e1298669cc12dd9f3" parent="aspace_70f3331f43acaf515589d8c42330ec70" type="folder">3</container>
+            </did>
+          </c>
+          <c id="aspace_ref688_rxd" level="file">
+            <did>
+              <unittitle>Report on future needs of RIMR</unittitle>
+              <unitdate normal="1946/1946" type="inclusive">1946</unitdate>
+              <container id="aspace_e578c31ca2308ac6aa01bb90ee95d3a6" label="mixed materials" type="box">2</container>
+              <container id="aspace_9dcd135f30e3184ddcb6ed0762680dc5" parent="aspace_e578c31ca2308ac6aa01bb90ee95d3a6" type="folder">4</container>
+            </did>
+          </c>
+          <c id="aspace_ref689_cdd" level="file">
+            <did>
+              <unittitle>Correspondence</unittitle>
+            </did>
+            <c id="aspace_ref690_o6y" level="file">
+              <did>
+                <unittitle>Bronk, Detlev W.</unittitle>
+                <unitdate normal="1944/1967" type="inclusive">1944-1967</unitdate>
+              </did>
+              <c id="aspace_ref691_nur" level="file">
+                <did>
+                  <unitdate normal="1944/1944" type="inclusive">1944</unitdate>
+                  <container id="aspace_b240167f0cc48a094683f42c927e520a" label="mixed materials" type="box">2</container>
+                  <container id="aspace_7c9be073cd8fc98074e63d31a363ae1e" parent="aspace_b240167f0cc48a094683f42c927e520a" type="folder">5</container>
+                </did>
+                <scopecontent id="aspace_75f843bde346a29b24b12b8fcfa58d5f">
+                  <head>Scope and Contents note</head>
+                  <p>[See Mabel Bright/C. Belknap, 8 Jan 1964, folder 8 below].</p>
+                </scopecontent>
+              </c>
+              <c id="aspace_ref693_j8r" level="file">
+                <did>
+                  <unitdate normal="1956/1962" type="inclusive">1956-1962</unitdate>
+                  <container id="aspace_8ae07df9abd8eb710d6a9ad293297596" label="mixed materials" type="box">2</container>
+                  <container id="aspace_df425e0053ad4b671e8948f467300dca" parent="aspace_8ae07df9abd8eb710d6a9ad293297596" type="folder">6</container>
+                </did>
+              </c>
+              <c id="aspace_ref694_okj" level="file">
+                <did>
+                  <unitdate normal="1963/1963" type="inclusive">1963</unitdate>
+                  <container id="aspace_1002f5b142fcc2665e35950b080c9f18" label="mixed materials" type="box">2</container>
+                  <container id="aspace_383cea0fcc5d88cf0aa1da6832c37e1d" parent="aspace_1002f5b142fcc2665e35950b080c9f18" type="folder">7</container>
+                </did>
+              </c>
+              <c id="aspace_ref695_9fo" level="file">
+                <did>
+                  <unitdate normal="1964/1967" type="inclusive">1964-1965 1967</unitdate>
+                  <container id="aspace_ffcaba6f58914636c3140e481d63310b" label="mixed materials" type="box">2</container>
+                  <container id="aspace_4d4b114bda0cfb67f71c60c144440106" parent="aspace_ffcaba6f58914636c3140e481d63310b" type="folder">8</container>
+                </did>
+              </c>
+            </c>
+            <c id="aspace_ref696_hi7" level="file">
+              <did>
+                <unittitle>Carter and Jones, Insurance</unittitle>
+                <unitdate normal="1937/1944" type="inclusive">1937-1944</unitdate>
+                <container id="aspace_e2f8aba933302d6d90e93b4e41975466" label="mixed materials" type="box">2</container>
+                <container id="aspace_c1fc125fb56f7a4221247764b0c4556f" parent="aspace_e2f8aba933302d6d90e93b4e41975466" type="folder">9</container>
+              </did>
+            </c>
+            <c id="aspace_ref697_tsb" level="file">
+              <did>
+                <unittitle>Flinn, Waldo F.</unittitle>
+                <unitdate normal="1935/1965" type="inclusive">1935-1965</unitdate>
+              </did>
+              <c id="aspace_ref698_156" level="file">
+                <did>
+                  <unitdate normal="1935/1936" type="inclusive">1935-1936</unitdate>
+                  <container id="aspace_47c9d77f85c73e9df9c902b4cbf63f90" label="mixed materials" type="box">2</container>
+                  <container id="aspace_2cba63242ee0c17890e86e1e80716f3e" parent="aspace_47c9d77f85c73e9df9c902b4cbf63f90" type="folder">10</container>
+                </did>
+              </c>
+              <c id="aspace_ref699_hdf" level="file">
+                <did>
+                  <unitdate normal="1937/1965" type="inclusive">1937-1955 1964-1965</unitdate>
+                  <container id="aspace_1fbadce83d80e7bc7e78e291a1f75dd2" label="mixed materials" type="box">2</container>
+                  <container id="aspace_520e5fe336d4863a040f54534e4e2afc" parent="aspace_1fbadce83d80e7bc7e78e291a1f75dd2" type="folder">11</container>
+                </did>
+              </c>
+            </c>
+            <c id="aspace_ref700_in2" level="file">
+              <did>
+                <unittitle>Smith, E.B.</unittitle>
+                <unitdate normal="1935/1956" type="inclusive">1935-1956</unitdate>
+              </did>
+              <c id="aspace_ref701_sty" level="file">
+                <did>
+                  <unitdate normal="1935/1936" type="inclusive">1935-1936</unitdate>
+                  <container id="aspace_428108da0c94a6b060cc3c465b5507a6" label="mixed materials" type="box">2</container>
+                  <container id="aspace_7e7eb966bda8dbe86679141287f441b8" parent="aspace_428108da0c94a6b060cc3c465b5507a6" type="folder">12</container>
+                </did>
+              </c>
+              <c id="aspace_ref702_967" level="file">
+                <did>
+                  <unitdate normal="1937/1940" type="inclusive">1937-1940</unitdate>
+                  <container id="aspace_ecffb9dc3ca26ee5b9c4b9b57cdf7375" label="mixed materials" type="box">2</container>
+                  <container id="aspace_8cbd4cbb7c6ea7cad553e5c36454ad9f" parent="aspace_ecffb9dc3ca26ee5b9c4b9b57cdf7375" type="folder">13</container>
+                </did>
+              </c>
+              <c id="aspace_ref703_lpr" level="file">
+                <did>
+                  <unitdate normal="1941/1946" type="inclusive">1941-1946</unitdate>
+                  <container id="aspace_891e5a7ac27243cbf31abcc5411e88d4" label="mixed materials" type="box">2</container>
+                  <container id="aspace_b5d4c7e2924580f6fb38195944203531" parent="aspace_891e5a7ac27243cbf31abcc5411e88d4" type="folder">14</container>
+                </did>
+              </c>
+              <c id="aspace_ref704_pf9" level="file">
+                <did>
+                  <unitdate normal="1947/1956" type="inclusive">1947-1956</unitdate>
+                  <container id="aspace_c3bc6a2689292d3047b11e6661ff3b82" label="mixed materials" type="box">2</container>
+                  <container id="aspace_df027630ef3003803ad1d389114d7f18" parent="aspace_c3bc6a2689292d3047b11e6661ff3b82" type="folder">15</container>
+                </did>
+              </c>
+            </c>
+          </c>
+          <c id="aspace_ref705_qq0" level="file">
+            <did>
+              <unittitle>Laboratory expenses</unittitle>
+              <unitdate normal="1961/1962" type="inclusive">circa 1961-1962</unitdate>
+              <container id="aspace_94341a7f540e7009dfea88b41ea36517" label="mixed materials" type="box">2</container>
+              <container id="aspace_8c5302e5c042dbea3d4597995612c666" parent="aspace_94341a7f540e7009dfea88b41ea36517" type="folder">16</container>
+            </did>
+          </c>
+        </c>
+      </c>
+    </dsc>
+  </archdesc>
+</ead>
