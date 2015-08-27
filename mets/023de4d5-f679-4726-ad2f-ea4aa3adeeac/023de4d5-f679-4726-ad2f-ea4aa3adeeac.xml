@@ -1,1 +1,110 @@
-{"error":{"id":["Wanted type Integer but got '<built-in function id>'"]}}
+<?xml version="1.0" encoding="UTF-8"?>
+<mets xmlns="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/mets/mets.xsd">
+  <dmdSec ID="1466">
+    <mdWrap MDTYPE="MODS">
+      <xmlData>
+        <mods version="3.4" xmlns="http://www.loc.gov/mods/v3">
+          <mods:titleInfo>
+            <mods:title>1966</mods:title>
+          </mods:titleInfo>
+          <mods:typeOfResource>text</mods:typeOfResource>
+          <mods:originInfo>
+            <mods:dateCreated>1966</mods:dateCreated>
+          </mods:originInfo>
+          <mods:language>
+            <mods:languageTerm type="code">eng</mods:languageTerm>
+          </mods:language>
+          <mods:physicalDescription/>
+          <mods:note type="originalsloc">46fc4b35-3177-4be2-8c88-4eaa68b77a06</mods:note>
+          <mods:accessCondition type="restrictionOnAccess">As the author is deceased, the Rockefeller Foundation restriction on the diaries of living officers no longer applies. The Rockefeller Foundation twenty-year embargo has also expired for these materials.</mods:accessCondition>
+          <mods:accessCondition type="useAndReproduction">To the extent that the Rockefeller Foundation owns copyright in these materials, it has given the Rockefeller Archive Center the authority to grant permission to cite and publish material from the collection for scholarly purposes.</mods:accessCondition>
+          <mods:note displayLabel="Scope and Contents note" type="note">While on extended trips to Colombia and Nigeria, Dr. Down’s surveys the status and progress of public health and specifically, evaluates the progress and future of RF involvement in both countries.  Epidemiological research at laboratories and public health institutions are also surveyed and Dr. Down’s discusses relevant investigations in the diary entries. After returning to the US, Dr. Downs reports to San Juan, Puerto Rico for the annual meeting of the American Society of Tropical Medicine and Hygiene. Diary entries during his stay in San Juan address relevant public health issues and epidemiological research.</mods:note>
+          <mods:physicalDescription>
+            <mods:note>&lt;extent&gt;26 pages&lt;/extent&gt;</mods:note>
+          </mods:physicalDescription>
+          <mods:subject authority="lcsh">
+            <mods:topic>Arboviruses</mods:topic>
+          </mods:subject>
+          <mods:subject authority="lcsh">
+            <mods:topic>Diaries </mods:topic>
+          </mods:subject>
+          <mods:subject authority="lcsh">
+            <mods:topic>Epidemiology</mods:topic>
+          </mods:subject>
+          <mods:subject authority="lcsh">
+            <mods:topic>Public health</mods:topic>
+          </mods:subject>
+          <mods:identifier type="local">023de4d5-f679-4726-ad2f-ea4aa3adeeac</mods:identifier>
+          <mods:name authority="library of congress authority files" type="corporate">
+            <mods:namePart type="family">Rockefeller Foundation</mods:namePart>
+            <mods:role>
+              <mods:roleTerm authority="marcrelator" type="text">creator</mods:roleTerm>
+            </mods:role>
+          </mods:name>
+          <mods:name authority="library of congress authority files" type="personal">
+            <mods:namePart type="family">Downs</mods:namePart>
+            <mods:namePart type="termsOfAddress"></mods:namePart>
+            <mods:namePart type="termsOfAddress"></mods:namePart>
+            <mods:namePart type="given">Wilbur G.</mods:namePart>
+            <mods:role>
+              <mods:roleTerm authority="marcrelator" type="text">creator</mods:roleTerm>
+            </mods:role>
+          </mods:name>
+          <mods:relatedItem displayLabel="resource" type="host">
+            <mods:name>Rockefeller Foundation records, officers' diaries, RG 12, A-E</mods:name>
+            <mods:identifier>FA391.xml</mods:identifier>
+          </mods:relatedItem>
+          <mods:relatedItem displayLabel="component" type="host">
+            <mods:name>1966</mods:name>
+            <mods:identifier>ref745_f8g</mods:identifier>
+          </mods:relatedItem>
+        </mods>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec>
+    <techMD ID="1466">
+      <mdWrap MDTYPE="PREMIS:OBJECT">
+        <xmlData>
+          <object version="2.2" xmlns="info:lc/xmlns/premis-v2" xsi:schemaLocation="info:lc/xmlns/premis-v2 http://www.loc.gov/standards/premis/v2/premis-v2-2.xsd" xsi:type="file">
+            <objectIdentifier>
+              <objectIdentifierType>ArchivesSpace identifier</objectIdentifierType>
+              <objectIdentifierValue>1466</objectIdentifierValue>
+            </objectIdentifier>
+            <objectCharacteristics>
+              <fixity>
+                <messageDigestAlgorithm/>
+                <messageDigest/>
+              </fixity>
+              <size/>
+              <format>
+                <formatDesignation>
+                  <formatName/>
+                  <formatVersion/>
+                </formatDesignation>
+              </format>
+            </objectCharacteristics>
+          </object>
+        </xmlData>
+      </mdWrap>
+    </techMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="translation missing: en.enumerations.file_version_use_statement.service-edited">
+      <file AMDID="1466" GROUPID="1466" ID="1466">
+        <FLocat xlink:href="http://storage.rockarch.org/023de4d5-f679-4726-ad2f-ea4aa3adeeac-rac_rfdiaries_12-2_downs_1941-1971_020.pdf"/>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="logical">
+    <div DMDID="1466" LABEL="1966" ORDER="1" TYPE="item">
+      <fptr FILEID="1466"/>
+    </div>
+  </structMap>
+  <structMap TYPE="physical">
+    <div DMDID="1466" LABEL="1966" ORDER="1" TYPE="item">
+      <fptr FILEID="1466"/>
+    </div>
+  </structMap>
+</mets>
+

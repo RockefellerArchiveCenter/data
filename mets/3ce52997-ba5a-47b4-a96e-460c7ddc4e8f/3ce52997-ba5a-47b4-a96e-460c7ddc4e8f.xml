@@ -1,1 +1,79 @@
-{"error":{"id":["Wanted type Integer but got '<built-in function id>'"]}}
+<?xml version="1.0" encoding="UTF-8"?>
+<mets xmlns="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/mets/mets.xsd">
+  <dmdSec ID="2017">
+    <mdWrap MDTYPE="MODS">
+      <xmlData>
+        <mods version="3.4" xmlns="http://www.loc.gov/mods/v3">
+          <mods:titleInfo>
+            <mods:title>Memoranda</mods:title>
+          </mods:titleInfo>
+          <mods:typeOfResource>text</mods:typeOfResource>
+          <mods:originInfo>
+            <mods:dateCreated>1924</mods:dateCreated>
+          </mods:originInfo>
+          <mods:language>
+            <mods:languageTerm type="code">eng</mods:languageTerm>
+          </mods:language>
+          <mods:physicalDescription/>
+          <mods:note type="originalsloc">dba21e0a-7cf3-469f-9d15-1a8696828165</mods:note>
+          <mods:accessCondition type="restrictionOnAccess">As the author is deceased, the Rockefeller Foundation restriction on the diaries of living officers no longer applies. The Rockefeller Foundation twenty-year embargo has also expired for these materials.</mods:accessCondition>
+          <mods:accessCondition type="useAndReproduction">To the extent that the Rockefeller Foundation owns copyright in these materials, it has given the Rockefeller Archive Center the authority to grant permission to cite and publish material from the collection for scholarly purposes.</mods:accessCondition>
+          <mods:identifier type="local">3ce52997-ba5a-47b4-a96e-460c7ddc4e8f</mods:identifier>
+          <mods:relatedItem displayLabel="resource" type="host">
+            <mods:name>Rockefeller Foundation records, officers' diaries, RG 12, A-E</mods:name>
+            <mods:identifier>FA391.xml</mods:identifier>
+          </mods:relatedItem>
+          <mods:relatedItem displayLabel="component" type="host">
+            <mods:name>Memoranda, 1924</mods:name>
+            <mods:identifier>ref819_67g</mods:identifier>
+          </mods:relatedItem>
+        </mods>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec>
+    <techMD ID="2017">
+      <mdWrap MDTYPE="PREMIS:OBJECT">
+        <xmlData>
+          <object version="2.2" xmlns="info:lc/xmlns/premis-v2" xsi:schemaLocation="info:lc/xmlns/premis-v2 http://www.loc.gov/standards/premis/v2/premis-v2-2.xsd" xsi:type="file">
+            <objectIdentifier>
+              <objectIdentifierType>ArchivesSpace identifier</objectIdentifierType>
+              <objectIdentifierValue>2017</objectIdentifierValue>
+            </objectIdentifier>
+            <objectCharacteristics>
+              <fixity>
+                <messageDigestAlgorithm/>
+                <messageDigest/>
+              </fixity>
+              <size/>
+              <format>
+                <formatDesignation>
+                  <formatName/>
+                  <formatVersion/>
+                </formatDesignation>
+              </format>
+            </objectCharacteristics>
+          </object>
+        </xmlData>
+      </mdWrap>
+    </techMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="translation missing: en.enumerations.file_version_use_statement.service-edited">
+      <file AMDID="2017" GROUPID="2017" ID="2017">
+        <FLocat xlink:href="http://storage.rockarch.org/3ce52997-ba5a-47b4-a96e-460c7ddc4e8f-rac_rfdiaries_12-2_Embree_Edwin_1923-1927_004.pdf"/>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="logical">
+    <div DMDID="2017" LABEL="Memoranda" ORDER="1" TYPE="item">
+      <fptr FILEID="2017"/>
+    </div>
+  </structMap>
+  <structMap TYPE="physical">
+    <div DMDID="2017" LABEL="Memoranda" ORDER="1" TYPE="item">
+      <fptr FILEID="2017"/>
+    </div>
+  </structMap>
+</mets>
+
