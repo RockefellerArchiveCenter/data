@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mets xmlns="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/mets/mets.xsd">
+  <dmdSec ID="2567">
+    <mdWrap MDTYPE="MODS">
+      <xmlData>
+        <mods version="3.4" xmlns="http://www.loc.gov/mods/v3">
+          <mods:titleInfo>
+            <mods:title>Copy of schedule of non-grant expenses from Jan 1 2010 to May 12 2010.xls</mods:title>
+          </mods:titleInfo>
+          <mods:typeOfResource>text</mods:typeOfResource>
+          <mods:originInfo>
+            <mods:dateCreated>2010 May</mods:dateCreated>
+          </mods:originInfo>
+          <mods:language>
+            <mods:languageTerm type="code"></mods:languageTerm>
+          </mods:language>
+          <mods:physicalDescription/>
+          <mods:identifier type="local">copy-of-schedule-of-non-grant</mods:identifier>
+          <mods:relatedItem displayLabel="resource" type="host">
+            <mods:name>Taconic Foundation records</mods:name>
+            <mods:identifier>FA407test.xml</mods:identifier>
+          </mods:relatedItem>
+          <mods:relatedItem displayLabel="component" type="host">
+            <mods:name>Meeting Materials and Notes, 2010 May</mods:name>
+            <mods:identifier>aspace_ref2696_nsb</mods:identifier>
+          </mods:relatedItem>
+        </mods>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec>
+    <techMD ID="2576">
+      <mdWrap MDTYPE="PREMIS:OBJECT">
+        <xmlData>
+          <object version="2.2" xmlns="info:lc/xmlns/premis-v2" xsi:schemaLocation="info:lc/xmlns/premis-v2 http://www.loc.gov/standards/premis/v2/premis-v2-2.xsd" xsi:type="file">
+            <objectIdentifier>
+              <objectIdentifierType>ArchivesSpace identifier</objectIdentifierType>
+              <objectIdentifierValue>2576</objectIdentifierValue>
+            </objectIdentifier>
+            <objectCharacteristics>
+              <fixity>
+                <messageDigestAlgorithm/>
+                <messageDigest/>
+              </fixity>
+              <size/>
+              <format>
+                <formatDesignation>
+                  <formatName/>
+                  <formatVersion/>
+                </formatDesignation>
+              </format>
+            </objectCharacteristics>
+          </object>
+        </xmlData>
+      </mdWrap>
+    </techMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="Text-Data">
+      <file AMDID="2576" GROUPID="2567" ID="2576">
+        <FLocat xlink:href="http://storage.rockarch.org/taconic-test/Copy-of-Schedule-of-non-grant-expenses-from-Jan-1-2-10-to-May-12-2010.xls"/>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="logical">
+    <div DMDID="2567" LABEL="Copy of schedule of non-grant expenses from Jan 1 2010 to May 12 2010.xls" ORDER="1" TYPE="item">
+      <fptr FILEID="2576"/>
+    </div>
+  </structMap>
+  <structMap TYPE="physical">
+    <div DMDID="2567" LABEL="Copy of schedule of non-grant expenses from Jan 1 2010 to May 12 2010.xls" ORDER="1" TYPE="item">
+      <fptr FILEID="2576"/>
+    </div>
+  </structMap>
+</mets>
+

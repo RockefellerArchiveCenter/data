@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mets xmlns="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/mets/mets.xsd">
+  <dmdSec ID="2573">
+    <mdWrap MDTYPE="MODS">
+      <xmlData>
+        <mods version="3.4" xmlns="http://www.loc.gov/mods/v3">
+          <mods:titleInfo>
+            <mods:title>Secret in the White Cell Drs. James Hirsch and Zanvil Cohn: 1966</mods:title>
+          </mods:titleInfo>
+          <mods:typeOfResource>text</mods:typeOfResource>
+          <mods:originInfo/>
+          <mods:language>
+            <mods:languageTerm type="code"></mods:languageTerm>
+          </mods:language>
+          <mods:physicalDescription/>
+          <mods:note type="originalsloc">53efe0c2-0825-493c-b415-931844590469</mods:note>
+          <mods:accessCondition type="useAndReproduction">conditions governing use</mods:accessCondition>
+          <mods:accessCondition type="restrictionOnAccess">note</mods:accessCondition>
+          <mods:identifier type="local">a35422ad-db54-4922-942d-44691fef9d2c</mods:identifier>
+          <mods:relatedItem displayLabel="resource" type="host">
+            <mods:name>Zanvil A. Cohn papers, Rockefeller University Faculty</mods:name>
+            <mods:identifier>FA1105.xml</mods:identifier>
+          </mods:relatedItem>
+          <mods:relatedItem displayLabel="component" type="host">
+            <mods:name>Secret in the White Cell Drs. James Hirsch and Zanvil Cohn: 1966</mods:name>
+            <mods:identifier>ref12_fyj</mods:identifier>
+          </mods:relatedItem>
+        </mods>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec>
+    <techMD ID="2580">
+      <mdWrap MDTYPE="PREMIS:OBJECT">
+        <xmlData>
+          <object version="2.2" xmlns="info:lc/xmlns/premis-v2" xsi:schemaLocation="info:lc/xmlns/premis-v2 http://www.loc.gov/standards/premis/v2/premis-v2-2.xsd" xsi:type="file">
+            <objectIdentifier>
+              <objectIdentifierType>ArchivesSpace identifier</objectIdentifierType>
+              <objectIdentifierValue>2580</objectIdentifierValue>
+            </objectIdentifier>
+            <objectCharacteristics>
+              <fixity>
+                <messageDigestAlgorithm/>
+                <messageDigest/>
+              </fixity>
+              <size/>
+              <format>
+                <formatDesignation>
+                  <formatName/>
+                  <formatVersion/>
+                </formatDesignation>
+              </format>
+            </objectCharacteristics>
+          </object>
+        </xmlData>
+      </mdWrap>
+    </techMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="translation missing: en.enumerations.file_version_use_statement.Service-Edited">
+      <file AMDID="2580" GROUPID="2573" ID="2580">
+        <FLocat xlink:href="http://storage.rockarch.org/a35422ad-db54-4922-942d-44691fef9d2c-rac_rfdiaries_12-2_barnard_1948-1952_001.pdf"/>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="logical">
+    <div DMDID="2573" LABEL="Secret in the White Cell Drs. James Hirsch and Zanvil Cohn: 1966" ORDER="1" TYPE="item">
+      <fptr FILEID="2580"/>
+    </div>
+  </structMap>
+  <structMap TYPE="physical">
+    <div DMDID="2573" LABEL="Secret in the White Cell Drs. James Hirsch and Zanvil Cohn: 1966" ORDER="1" TYPE="item">
+      <fptr FILEID="2580"/>
+    </div>
+  </structMap>
+</mets>
+

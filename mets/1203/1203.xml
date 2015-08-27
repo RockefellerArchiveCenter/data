@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mets xmlns="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/mets/mets.xsd">
+  <dmdSec ID="2563">
+    <mdWrap MDTYPE="MODS">
+      <xmlData>
+        <mods version="3.4" xmlns="http://www.loc.gov/mods/v3">
+          <mods:titleInfo>
+            <mods:title>1203.doc</mods:title>
+          </mods:titleInfo>
+          <mods:typeOfResource>text</mods:typeOfResource>
+          <mods:originInfo>
+            <mods:dateCreated>2003 December</mods:dateCreated>
+          </mods:originInfo>
+          <mods:language>
+            <mods:languageTerm type="code">eng</mods:languageTerm>
+          </mods:language>
+          <mods:physicalDescription/>
+          <mods:identifier type="local">1203</mods:identifier>
+          <mods:relatedItem displayLabel="resource" type="host">
+            <mods:name>Taconic Foundation records</mods:name>
+            <mods:identifier>FA407test.xml</mods:identifier>
+          </mods:relatedItem>
+          <mods:relatedItem displayLabel="component" type="host">
+            <mods:name>Meeting Materials and Notes, 2003 December</mods:name>
+            <mods:identifier>aspace_ref1395_llk</mods:identifier>
+          </mods:relatedItem>
+        </mods>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec>
+    <techMD ID="2578">
+      <mdWrap MDTYPE="PREMIS:OBJECT">
+        <xmlData>
+          <object version="2.2" xmlns="info:lc/xmlns/premis-v2" xsi:schemaLocation="info:lc/xmlns/premis-v2 http://www.loc.gov/standards/premis/v2/premis-v2-2.xsd" xsi:type="file">
+            <objectIdentifier>
+              <objectIdentifierType>ArchivesSpace identifier</objectIdentifierType>
+              <objectIdentifierValue>2578</objectIdentifierValue>
+            </objectIdentifier>
+            <objectCharacteristics>
+              <fixity>
+                <messageDigestAlgorithm/>
+                <messageDigest/>
+              </fixity>
+              <size/>
+              <format>
+                <formatDesignation>
+                  <formatName/>
+                  <formatVersion/>
+                </formatDesignation>
+              </format>
+            </objectCharacteristics>
+          </object>
+        </xmlData>
+      </mdWrap>
+    </techMD>
+    <rightsMD>
+      <mdWrap MDTYPE="PREMIS:RIGHTS">
+        <xmlData>
+          <rightsStatement version="2.2" xmlns="info:lc/xmlns/premis-v2" xsi:schemaLocation="info:lc/xmlns/premis-v2 http://www.loc.gov/standards/premis/v2/premis-v2-2.xsd" xsi:type="file">
+            <rightsStatementIdentifier>
+              <rightsStatementIdentifierType>UUID</rightsStatementIdentifierType>
+              <rightsStatementIdentifierValue>d14419dd35fbbf8b08ff12080a5a85cb</rightsStatementIdentifierValue>
+            </rightsStatementIdentifier>
+            <rightsBasis>Copyright</rightsBasis>
+            <copyrightInformation>
+              <copyrightStatus>copyrighted</copyrightStatus>
+              <copyrightJurisdiction>US</copyrightJurisdiction>
+              <copyrightNote>type note</copyrightNote>
+              <copyrightApplicableDates>
+                <endDate>2015-05-01</endDate>
+              </copyrightApplicableDates>
+            </copyrightInformation>
+            <rightsGranted>
+              <act>restrictionspermissions</act>
+              <restriction/>
+              <termOfGrant>
+                <startDate>2015-04-30</startDate>
+                <endDate>2015-05-01</endDate>
+              </termOfGrant>
+              <rightsGrantedNote>note</rightsGrantedNote>
+            </rightsGranted>
+          </rightsStatement>
+        </xmlData>
+      </mdWrap>
+    </rightsMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="translation missing: en.enumerations.file_version_use_statement.text-service">
+      <file AMDID="2578" GROUPID="2563" ID="2578">
+        <FLocat xlink:href="http://storage.rockarch.org/taconic-test/1203.doc"/>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="logical">
+    <div DMDID="2563" LABEL="1203.doc" ORDER="1" TYPE="item">
+      <fptr FILEID="2578"/>
+    </div>
+  </structMap>
+  <structMap TYPE="physical">
+    <div DMDID="2563" LABEL="1203.doc" ORDER="1" TYPE="item">
+      <fptr FILEID="2578"/>
+    </div>
+  </structMap>
+</mets>
+

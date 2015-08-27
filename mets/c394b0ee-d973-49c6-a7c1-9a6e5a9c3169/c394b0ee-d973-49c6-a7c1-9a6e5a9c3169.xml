@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mets xmlns="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/mets/mets.xsd">
+  <dmdSec ID="2572">
+    <mdWrap MDTYPE="MODS">
+      <xmlData>
+        <mods version="3.4" xmlns="http://www.loc.gov/mods/v3">
+          <mods:titleInfo>
+            <mods:title>Box 4</mods:title>
+          </mods:titleInfo>
+          <mods:typeOfResource>text</mods:typeOfResource>
+          <mods:originInfo/>
+          <mods:language>
+            <mods:languageTerm type="code"></mods:languageTerm>
+          </mods:language>
+          <mods:physicalDescription/>
+          <mods:note type="originalsloc">53efe0c2-0825-493c-b415-931844590469</mods:note>
+          <mods:accessCondition type="useAndReproduction">conditions governing use</mods:accessCondition>
+          <mods:accessCondition type="restrictionOnAccess">conditions governing access</mods:accessCondition>
+          <mods:identifier type="local">c394b0ee-d973-49c6-a7c1-9a6e5a9c3169</mods:identifier>
+          <mods:relatedItem displayLabel="resource" type="host">
+            <mods:name>Zanvil A. Cohn papers, Rockefeller University Faculty</mods:name>
+            <mods:identifier>FA1105.xml</mods:identifier>
+          </mods:relatedItem>
+          <mods:relatedItem displayLabel="component" type="host">
+            <mods:name>Box 4</mods:name>
+            <mods:identifier>ref10_9pq</mods:identifier>
+          </mods:relatedItem>
+        </mods>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec>
+    <techMD ID="2579">
+      <mdWrap MDTYPE="PREMIS:OBJECT">
+        <xmlData>
+          <object version="2.2" xmlns="info:lc/xmlns/premis-v2" xsi:schemaLocation="info:lc/xmlns/premis-v2 http://www.loc.gov/standards/premis/v2/premis-v2-2.xsd" xsi:type="file">
+            <objectIdentifier>
+              <objectIdentifierType>ArchivesSpace identifier</objectIdentifierType>
+              <objectIdentifierValue>2579</objectIdentifierValue>
+            </objectIdentifier>
+            <objectCharacteristics>
+              <fixity>
+                <messageDigestAlgorithm/>
+                <messageDigest/>
+              </fixity>
+              <size/>
+              <format>
+                <formatDesignation>
+                  <formatName/>
+                  <formatVersion/>
+                </formatDesignation>
+              </format>
+            </objectCharacteristics>
+          </object>
+        </xmlData>
+      </mdWrap>
+    </techMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="translation missing: en.enumerations.file_version_use_statement.Service-Edited">
+      <file AMDID="2579" GROUPID="2572" ID="2579">
+        <FLocat xlink:href="http://storage.rockarch.org/c394b0ee-d973-49c6-a7c1-9a6e5a9c3169-rac_rfdiaries_12-2_barnard_1948-1952_001.pdf"/>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="logical">
+    <div DMDID="2572" LABEL="Box 4" ORDER="1" TYPE="item">
+      <fptr FILEID="2579"/>
+    </div>
+  </structMap>
+  <structMap TYPE="physical">
+    <div DMDID="2572" LABEL="Box 4" ORDER="1" TYPE="item">
+      <fptr FILEID="2579"/>
+    </div>
+  </structMap>
+</mets>
+

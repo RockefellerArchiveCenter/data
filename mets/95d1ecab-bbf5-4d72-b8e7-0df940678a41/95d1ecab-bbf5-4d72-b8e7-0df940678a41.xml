@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mets xmlns="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/mets/mets.xsd">
+  <dmdSec ID="2555">
+    <mdWrap MDTYPE="MODS">
+      <xmlData>
+        <mods version="3.4" xmlns="http://www.loc.gov/mods/v3">
+          <mods:titleInfo>
+            <mods:title>The Rockefeller University Ralph Steinman, Zanvil A. Cohn, and James G. Hirsch Video Clips: 8/1993, 1962, 1967, 1967 </mods:title>
+          </mods:titleInfo>
+          <mods:typeOfResource>text</mods:typeOfResource>
+          <mods:originInfo/>
+          <mods:language>
+            <mods:languageTerm type="code"></mods:languageTerm>
+          </mods:language>
+          <mods:physicalDescription/>
+          <mods:note type="originalsloc">53efe0c2-0825-493c-b415-931844590469</mods:note>
+          <mods:identifier type="local">95d1ecab-bbf5-4d72-b8e7-0df940678a41</mods:identifier>
+          <mods:relatedItem displayLabel="resource" type="host">
+            <mods:name>Zanvil A. Cohn papers, Rockefeller University Faculty</mods:name>
+            <mods:identifier>FA1105.xml</mods:identifier>
+          </mods:relatedItem>
+          <mods:relatedItem displayLabel="component" type="host">
+            <mods:name>The Rockefeller University Ralph Steinman, Zanvil A. Cohn, and James G. Hirsch Video Clips: 8/1993, 1962, 1967, 1967 </mods:name>
+            <mods:identifier>ref11_cjf</mods:identifier>
+          </mods:relatedItem>
+        </mods>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec>
+    <techMD ID="2558">
+      <mdWrap MDTYPE="PREMIS:OBJECT">
+        <xmlData>
+          <object version="2.2" xmlns="info:lc/xmlns/premis-v2" xsi:schemaLocation="info:lc/xmlns/premis-v2 http://www.loc.gov/standards/premis/v2/premis-v2-2.xsd" xsi:type="file">
+            <objectIdentifier>
+              <objectIdentifierType>ArchivesSpace identifier</objectIdentifierType>
+              <objectIdentifierValue>2558</objectIdentifierValue>
+            </objectIdentifier>
+            <objectCharacteristics>
+              <fixity>
+                <messageDigestAlgorithm/>
+                <messageDigest/>
+              </fixity>
+              <size/>
+              <format>
+                <formatDesignation>
+                  <formatName/>
+                  <formatVersion/>
+                </formatDesignation>
+              </format>
+            </objectCharacteristics>
+          </object>
+        </xmlData>
+      </mdWrap>
+    </techMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="translation missing: en.enumerations.file_version_use_statement.Service-Edited">
+      <file AMDID="2558" GROUPID="2555" ID="2558">
+        <FLocat xlink:href="http://storage.rockarch.org/a50f6e93-6a8d-4eb5-92fd-4501796af89d/objects/95d1ecab-bbf5-4d72-b8e7-0df940678a41-rac_rfdiaries_12-2_barnard_1948-1952_001.pdf"/>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="logical">
+    <div DMDID="2555" LABEL="The Rockefeller University Ralph Steinman, Zanvil A. Cohn, and James G. Hirsch Video Clips: 8/1993, 1962, 1967, 1967 " ORDER="1" TYPE="item">
+      <fptr FILEID="2558"/>
+    </div>
+  </structMap>
+  <structMap TYPE="physical">
+    <div DMDID="2555" LABEL="The Rockefeller University Ralph Steinman, Zanvil A. Cohn, and James G. Hirsch Video Clips: 8/1993, 1962, 1967, 1967 " ORDER="1" TYPE="item">
+      <fptr FILEID="2558"/>
+    </div>
+  </structMap>
+</mets>
+
