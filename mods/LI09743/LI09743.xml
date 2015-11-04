@@ -3,6 +3,18 @@
   <titleInfo>
     <title>Encoded Archival Description tag library, version 2002</title>
   </titleInfo>
+  <name>
+    <namePart>Library of Congress. Network Development and MARC Standards Office </namePart>
+    <role>
+      <roleTerm type="text" authority="lcnaf">aut</roleTerm>
+    </role>
+  </name>
+  <name>
+    <namePart>Society of American Archivists. Encoded Archival Description Working Group </namePart>
+    <role>
+      <roleTerm type="text" authority="lcnaf">aut</roleTerm>
+    </role>
+  </name>
   <originInfo>
     <place>
       <placeTerm type="text">Chicago</placeTerm>
@@ -10,18 +22,16 @@
     <publisher>Society of American Archivists</publisher>
     <dateIssued>2002</dateIssued>
   </originInfo>
+  <physicalDescription>
+    <extent>1 Bound Volumes</extent>
+  </physicalDescription>
+  <relatedItem type="series">
+    <titleInfo>
+      <title>EAD technical document ;; no. 2; Variation: EAD technical document ;; no. 2.</title>
+    </titleInfo>
+  </relatedItem>
   <subject authority="lcsh">
     <topic>Encoded Archival Description (Document type definition)</topic>
-  </subject>
-  <subject authority="lcnaf">
-    <name type="corporate">
-      <namePart>Library of Congress. Network Development and MARC Standards Office</namePart>
-    </name>
-  </subject>
-  <subject authority="lcnaf">
-    <name type="corporate">
-      <namePart>Society of American Archivists. Encoded Archival Description Working Group</namePart>
-    </name>
   </subject>
   <identifier type="isbn">1931666008</identifier>
   <genre>volume</genre>
