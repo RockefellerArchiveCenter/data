@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mets xmlns="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/mets/mets.xsd">
+  <dmdSec ID="1229">
+    <mdWrap MDTYPE="MODS">
+      <xmlData>
+        <mods version="3.4" xmlns="http://www.loc.gov/mods/v3">
+          <mods:titleInfo>
+            <mods:title>National Council of State Public Welfare Administrators</mods:title>
+          </mods:titleInfo>
+          <mods:typeOfResource>text</mods:typeOfResource>
+          <mods:originInfo>
+            <mods:dateCreated>1982</mods:dateCreated>
+          </mods:originInfo>
+          <mods:language>
+            <mods:languageTerm type="code">eng</mods:languageTerm>
+          </mods:language>
+          <mods:physicalDescription/>
+          <mods:note type="originalsloc">1817a4eb-1e57-4dc8-910b-52a0060d0374</mods:note>
+          <mods:accessCondition type="restrictionOnAccess">No restrictions on access.</mods:accessCondition>
+          <mods:accessCondition type="useAndReproduction">To the extent that the donor owns copyright in these materials, he/she has given the Rockefeller Archive Center the authority to grant permission to cite and publish material from the collection for scholarly purposes; however, copyright in some items may be held by their respective creators.  Please consult an archivist for further details.</mods:accessCondition>
+          <mods:identifier type="local">ba488823-5e89-45af-9dd2-5f733cdd6bde</mods:identifier>
+          <mods:relatedItem displayLabel="resource" type="host">
+            <mods:name>Foundation for Child Development records</mods:name>
+            <mods:identifier>FA019.xml</mods:identifier>
+          </mods:relatedItem>
+          <mods:relatedItem displayLabel="component" type="host">
+            <mods:name>National Council of State Public Welfare Administrators, 1982</mods:name>
+            <mods:identifier>ref650_5kk</mods:identifier>
+          </mods:relatedItem>
+        </mods>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec>
+    <techMD ID="1229">
+      <mdWrap MDTYPE="PREMIS:OBJECT">
+        <xmlData>
+          <object version="2.2" xmlns="info:lc/xmlns/premis-v2" xsi:schemaLocation="info:lc/xmlns/premis-v2 http://www.loc.gov/standards/premis/v2/premis-v2-2.xsd" xsi:type="file">
+            <objectIdentifier>
+              <objectIdentifierType>ArchivesSpace identifier</objectIdentifierType>
+              <objectIdentifierValue>1229</objectIdentifierValue>
+            </objectIdentifier>
+            <objectCharacteristics>
+              <fixity>
+                <messageDigestAlgorithm/>
+                <messageDigest/>
+              </fixity>
+              <size/>
+              <format>
+                <formatDesignation>
+                  <formatName/>
+                  <formatVersion/>
+                </formatDesignation>
+              </format>
+            </objectCharacteristics>
+          </object>
+        </xmlData>
+      </mdWrap>
+    </techMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="Image-Service">
+      <file AMDID="1229" GROUPID="1229" ID="1229">
+        <FLocat xlink:href="http://storage.rockarch.org/ba488823-5e89-45af-9dd2-5f733cdd6bde-FCD001_031_00001.pdf"/>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="logical">
+    <div DMDID="1229" LABEL="National Council of State Public Welfare Administrators" ORDER="1" TYPE="item">
+      <fptr FILEID="1229"/>
+    </div>
+  </structMap>
+  <structMap TYPE="physical">
+    <div DMDID="1229" LABEL="National Council of State Public Welfare Administrators" ORDER="1" TYPE="item">
+      <fptr FILEID="1229"/>
+    </div>
+  </structMap>
+</mets>
+

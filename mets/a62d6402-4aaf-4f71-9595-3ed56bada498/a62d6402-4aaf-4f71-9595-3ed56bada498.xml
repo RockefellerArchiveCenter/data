@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mets xmlns="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/mets/mets.xsd">
+  <dmdSec ID="1941">
+    <mdWrap MDTYPE="MODS">
+      <xmlData>
+        <mods version="3.4" xmlns="http://www.loc.gov/mods/v3">
+          <mods:titleInfo>
+            <mods:title>1951 January-April</mods:title>
+          </mods:titleInfo>
+          <mods:typeOfResource>text</mods:typeOfResource>
+          <mods:originInfo>
+            <mods:dateCreated>1951 January-April</mods:dateCreated>
+          </mods:originInfo>
+          <mods:language>
+            <mods:languageTerm type="code">eng</mods:languageTerm>
+          </mods:language>
+          <mods:physicalDescription/>
+          <mods:note displayLabel="Scope and Contents note" type="note">The diary is arranged by interview and visit. George K. Strode is a director of the International Health Division (IHD). The IHD continues its investigation and control of diseases important to the field public health. The IHD also promotes public health education with fellowships and travel grants. Strode received program updates from staff members and interviews professionals in the field of public health.
+
+</mods:note>
+          <mods:subject authority="lcsh">
+            <mods:topic>Malaria</mods:topic>
+          </mods:subject>
+          <mods:subject authority="lcsh">
+            <mods:topic>Nursing</mods:topic>
+          </mods:subject>
+          <mods:subject authority="lcsh">
+            <mods:topic>Public health</mods:topic>
+          </mods:subject>
+          <mods:subject authority="lcsh">
+            <mods:topic>Anopheles gambiae</mods:topic>
+          </mods:subject>
+          <mods:subject authority="lcsh">
+            <mods:topic>Medical education</mods:topic>
+          </mods:subject>
+          <mods:subject authority="lcsh">
+            <mods:topic>United States</mods:topic>
+          </mods:subject>
+          <mods:subject authority="lcsh">
+            <mods:topic>Yellow fever</mods:topic>
+          </mods:subject>
+          <mods:identifier type="local">a62d6402-4aaf-4f71-9595-3ed56bada498</mods:identifier>
+          <mods:name authority="lcnaf" type="personal">
+            <mods:namePart type="family">Strode</mods:namePart>
+            <mods:namePart type="termsOfAddress"></mods:namePart>
+            <mods:namePart type="termsOfAddress"></mods:namePart>
+            <mods:namePart type="given">George K.</mods:namePart>
+            <mods:role>
+              <mods:roleTerm authority="marcrelator" type="text">creator</mods:roleTerm>
+            </mods:role>
+          </mods:name>
+          <mods:name authority="lcnaf" type="corporate">
+            <mods:namePart type="family">Rockefeller Foundation</mods:namePart>
+            <mods:namePart>International Health Division</mods:namePart>
+            <mods:role>
+              <mods:roleTerm authority="marcrelator" type="text">creator</mods:roleTerm>
+            </mods:role>
+          </mods:name>
+          <mods:relatedItem displayLabel="resource" type="host">
+            <mods:name>Rockefeller Foundation records, officers' diaries, RG 12, S-Z</mods:name>
+            <mods:identifier>FA394.xml</mods:identifier>
+          </mods:relatedItem>
+          <mods:relatedItem displayLabel="component" type="host">
+            <mods:name>1951 January-April</mods:name>
+            <mods:identifier>ref407_dju</mods:identifier>
+          </mods:relatedItem>
+        </mods>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec>
+    <techMD ID="1941">
+      <mdWrap MDTYPE="PREMIS:OBJECT">
+        <xmlData>
+          <object version="2.2" xmlns="info:lc/xmlns/premis-v2" xsi:schemaLocation="info:lc/xmlns/premis-v2 http://www.loc.gov/standards/premis/v2/premis-v2-2.xsd" xsi:type="file">
+            <objectIdentifier>
+              <objectIdentifierType>ArchivesSpace identifier</objectIdentifierType>
+              <objectIdentifierValue>1941</objectIdentifierValue>
+            </objectIdentifier>
+            <objectCharacteristics>
+              <fixity>
+                <messageDigestAlgorithm/>
+                <messageDigest/>
+              </fixity>
+              <size/>
+              <format>
+                <formatDesignation>
+                  <formatName/>
+                  <formatVersion/>
+                </formatDesignation>
+              </format>
+            </objectCharacteristics>
+          </object>
+        </xmlData>
+      </mdWrap>
+    </techMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="Service-Edited">
+      <file AMDID="1941" GROUPID="1941" ID="1941">
+        <FLocat xlink:href="http://storage.rockarch.org/a62d6402-4aaf-4f71-9595-3ed56bada498-rac_rfdiaries_12-2_strode_1927-1951_053.pdf"/>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="logical">
+    <div DMDID="1941" LABEL="1951 January-April" ORDER="1" TYPE="item">
+      <fptr FILEID="1941"/>
+    </div>
+  </structMap>
+  <structMap TYPE="physical">
+    <div DMDID="1941" LABEL="1951 January-April" ORDER="1" TYPE="item">
+      <fptr FILEID="1941"/>
+    </div>
+  </structMap>
+</mets>
+

@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mets xmlns="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/mets/mets.xsd">
+  <dmdSec ID="461">
+    <mdWrap MDTYPE="MODS">
+      <xmlData>
+        <mods version="3.4" xmlns="http://www.loc.gov/mods/v3">
+          <mods:titleInfo>
+            <mods:title>The Association for the Aid of Crippled Children, Biennial Report</mods:title>
+          </mods:titleInfo>
+          <mods:typeOfResource>text</mods:typeOfResource>
+          <mods:originInfo>
+            <mods:dateCreated>1962-1963/1963-1964</mods:dateCreated>
+          </mods:originInfo>
+          <mods:language>
+            <mods:languageTerm type="code">eng</mods:languageTerm>
+          </mods:language>
+          <mods:physicalDescription/>
+          <mods:note type="originalsloc">9a8506e2-87f0-4aad-acc2-7c6ee4ac9a92</mods:note>
+          <mods:accessCondition type="restrictionOnAccess">No restrictions on access.</mods:accessCondition>
+          <mods:accessCondition type="useAndReproduction">no content</mods:accessCondition>
+          <mods:identifier type="local">e6312106-9c29-43a9-95c4-0cc5b82e20f8</mods:identifier>
+          <mods:relatedItem displayLabel="resource" type="host">
+            <mods:name>Foundation for Child Development records</mods:name>
+            <mods:identifier>FA019.xml</mods:identifier>
+          </mods:relatedItem>
+          <mods:relatedItem displayLabel="component" type="host">
+            <mods:name>The Association for the Aid of Crippled Children, Biennial Report, 1962-1963/1963-1964</mods:name>
+            <mods:identifier>ref750_jtm</mods:identifier>
+          </mods:relatedItem>
+        </mods>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec>
+    <techMD ID="461">
+      <mdWrap MDTYPE="PREMIS:OBJECT">
+        <xmlData>
+          <object version="2.2" xmlns="info:lc/xmlns/premis-v2" xsi:schemaLocation="info:lc/xmlns/premis-v2 http://www.loc.gov/standards/premis/v2/premis-v2-2.xsd" xsi:type="file">
+            <objectIdentifier>
+              <objectIdentifierType>ArchivesSpace identifier</objectIdentifierType>
+              <objectIdentifierValue>461</objectIdentifierValue>
+            </objectIdentifier>
+            <objectCharacteristics>
+              <fixity>
+                <messageDigestAlgorithm/>
+                <messageDigest/>
+              </fixity>
+              <size/>
+              <format>
+                <formatDesignation>
+                  <formatName/>
+                  <formatVersion/>
+                </formatDesignation>
+              </format>
+            </objectCharacteristics>
+          </object>
+        </xmlData>
+      </mdWrap>
+    </techMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="Image-Service">
+      <file AMDID="461" GROUPID="461" ID="461">
+        <FLocat xlink:href="http://storage.rockarch.org/e6312106-9c29-43a9-95c4-0cc5b82e20f8-FCD001_033_00374.pdf"/>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="logical">
+    <div DMDID="461" LABEL="The Association for the Aid of Crippled Children, Biennial Report" ORDER="1" TYPE="item">
+      <fptr FILEID="461"/>
+    </div>
+  </structMap>
+  <structMap TYPE="physical">
+    <div DMDID="461" LABEL="The Association for the Aid of Crippled Children, Biennial Report" ORDER="1" TYPE="item">
+      <fptr FILEID="461"/>
+    </div>
+  </structMap>
+</mets>
+

@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mets xmlns="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/mets/mets.xsd">
+  <dmdSec ID="339">
+    <mdWrap MDTYPE="MODS">
+      <xmlData>
+        <mods version="3.4" xmlns="http://www.loc.gov/mods/v3">
+          <mods:titleInfo>
+            <mods:title>Katharine E. Bull</mods:title>
+          </mods:titleInfo>
+          <mods:typeOfResource>text</mods:typeOfResource>
+          <mods:originInfo>
+            <mods:dateCreated>1954, 1957, 1959, 1960, 1962, 1965, 1972, 1974, 1980, 1984</mods:dateCreated>
+          </mods:originInfo>
+          <mods:language>
+            <mods:languageTerm type="code">eng</mods:languageTerm>
+          </mods:language>
+          <mods:physicalDescription/>
+          <mods:note type="originalsloc">3691b821-b162-42b8-b756-eaa02a2a9c61</mods:note>
+          <mods:accessCondition type="restrictionOnAccess">No restrictions on access.</mods:accessCondition>
+          <mods:accessCondition type="useAndReproduction">To the extent that the donor owns copyright in these materials, he/she has given the Rockefeller Archive Center the authority to grant permission to cite and publish material from the collection for scholarly purposes; however, copyright in some items may be held by their respective creators. Please consult an archivist for further details.</mods:accessCondition>
+          <mods:identifier type="local">5882160d-6dca-4875-b015-5cd3de2b28c9</mods:identifier>
+          <mods:relatedItem displayLabel="resource" type="host">
+            <mods:name>Foundation for Child Development records</mods:name>
+            <mods:identifier>FA019.xml</mods:identifier>
+          </mods:relatedItem>
+          <mods:relatedItem displayLabel="component" type="host">
+            <mods:name>Katharine E. Bull, 1954, 1957, 1959, 1960, 1962, 1965, 1972, 1974, 1980, 1984</mods:name>
+            <mods:identifier>ref563_3ud</mods:identifier>
+          </mods:relatedItem>
+        </mods>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec>
+    <techMD ID="339">
+      <mdWrap MDTYPE="PREMIS:OBJECT">
+        <xmlData>
+          <object version="2.2" xmlns="info:lc/xmlns/premis-v2" xsi:schemaLocation="info:lc/xmlns/premis-v2 http://www.loc.gov/standards/premis/v2/premis-v2-2.xsd" xsi:type="file">
+            <objectIdentifier>
+              <objectIdentifierType>ArchivesSpace identifier</objectIdentifierType>
+              <objectIdentifierValue>339</objectIdentifierValue>
+            </objectIdentifier>
+            <objectCharacteristics>
+              <fixity>
+                <messageDigestAlgorithm/>
+                <messageDigest/>
+              </fixity>
+              <size/>
+              <format>
+                <formatDesignation>
+                  <formatName/>
+                  <formatVersion/>
+                </formatDesignation>
+              </format>
+            </objectCharacteristics>
+          </object>
+        </xmlData>
+      </mdWrap>
+    </techMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="Image-Service">
+      <file AMDID="339" GROUPID="339" ID="339">
+        <FLocat xlink:href="http://storage.rockarch.org/5882160d-6dca-4875-b015-5cd3de2b28c9-FCD001_024_00992.pdf"/>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="logical">
+    <div DMDID="339" LABEL="Katharine E. Bull" ORDER="1" TYPE="item">
+      <fptr FILEID="339"/>
+    </div>
+  </structMap>
+  <structMap TYPE="physical">
+    <div DMDID="339" LABEL="Katharine E. Bull" ORDER="1" TYPE="item">
+      <fptr FILEID="339"/>
+    </div>
+  </structMap>
+</mets>
+

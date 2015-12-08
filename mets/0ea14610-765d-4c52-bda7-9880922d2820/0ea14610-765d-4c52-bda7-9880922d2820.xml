@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mets xmlns="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/mets/mets.xsd">
+  <dmdSec ID="1338">
+    <mdWrap MDTYPE="MODS">
+      <xmlData>
+        <mods version="3.4" xmlns="http://www.loc.gov/mods/v3">
+          <mods:titleInfo>
+            <mods:title>1925 December 4-1926 December 31</mods:title>
+          </mods:titleInfo>
+          <mods:typeOfResource>text</mods:typeOfResource>
+          <mods:originInfo>
+            <mods:dateCreated>1925 December 4-1926 December 31</mods:dateCreated>
+          </mods:originInfo>
+          <mods:language>
+            <mods:languageTerm type="code">eng</mods:languageTerm>
+          </mods:language>
+          <mods:physicalDescription/>
+          <mods:note type="originalsloc">a277fb2d-1d7b-40d5-b1bb-278a17651b3e</mods:note>
+          <mods:note displayLabel="Scope and Contents Note" type="note">Organized according to interview or visit, entries for this year record the meetings and conversations that took place between Beard and professionals and students in the field of nursing.  Nursing education programs—both domestic and international—are discussed and schools of nursing located within the U.S. are visited and surveyed. The subject matter of the diaries includes nursing and public health; women’s health; child health; maternal care; child care; and nursing education. A copy of “Listening On” a pamphlet published by the National Organization for Public Health Nursing (October 1926) is also included in this diary. (New York, Yale School of Nursing New Haven)
+</mods:note>
+          <mods:physicalDescription>
+            <mods:note>&lt;extent&gt;138 pages.&lt;/extent&gt;</mods:note>
+          </mods:physicalDescription>
+          <mods:accessCondition type="restrictionOnAccess">As the author is deceased, the Rockefeller Foundation restriction on the diaries of living officers no longer applies. The Rockefeller Foundation twenty-year embargo has also expired for these materials.</mods:accessCondition>
+          <mods:accessCondition type="useAndReproduction">To the extent that the Rockefeller Foundation owns copyright in these materials, it has given the Rockefeller Archive Center the authority to grant permission to cite and publish material from the collection for scholarly purposes.</mods:accessCondition>
+          <mods:subject authority="lcsh">
+            <mods:topic>Nursing</mods:topic>
+          </mods:subject>
+          <mods:subject authority="lcsh">
+            <mods:topic>Nursing care plans</mods:topic>
+          </mods:subject>
+          <mods:subject authority="lcsh">
+            <mods:topic>Diaries </mods:topic>
+          </mods:subject>
+          <mods:identifier type="local">0ea14610-765d-4c52-bda7-9880922d2820</mods:identifier>
+          <mods:subject>
+            <mods:name authority="lcnaf" type="corporate">
+              <mods:namePart type="family">Yale University. School of Nursing</mods:namePart>
+              <mods:role>
+                <mods:roleTerm authority="marcrelator" type="text">subject</mods:roleTerm>
+              </mods:role>
+            </mods:name>
+          </mods:subject>
+          <mods:name authority="lcnaf" type="corporate">
+            <mods:namePart type="family">Rockefeller Foundation</mods:namePart>
+            <mods:role>
+              <mods:roleTerm authority="marcrelator" type="text">creator</mods:roleTerm>
+            </mods:role>
+          </mods:name>
+          <mods:name authority="lcnaf" type="personal">
+            <mods:namePart type="family">Beard</mods:namePart>
+            <mods:namePart type="termsOfAddress"></mods:namePart>
+            <mods:namePart type="termsOfAddress"></mods:namePart>
+            <mods:namePart type="given">Mary</mods:namePart>
+            <mods:role>
+              <mods:roleTerm authority="marcrelator" type="text">creator</mods:roleTerm>
+            </mods:role>
+          </mods:name>
+          <mods:relatedItem displayLabel="resource" type="host">
+            <mods:name>Rockefeller Foundation records, officers' diaries, RG 12, A-E</mods:name>
+            <mods:identifier>FA391.xml</mods:identifier>
+          </mods:relatedItem>
+          <mods:relatedItem displayLabel="component" type="host">
+            <mods:name>1925 December 4-1926 December 31</mods:name>
+            <mods:identifier>ref157_vqs</mods:identifier>
+          </mods:relatedItem>
+        </mods>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec>
+    <techMD ID="1338">
+      <mdWrap MDTYPE="PREMIS:OBJECT">
+        <xmlData>
+          <object version="2.2" xmlns="info:lc/xmlns/premis-v2" xsi:schemaLocation="info:lc/xmlns/premis-v2 http://www.loc.gov/standards/premis/v2/premis-v2-2.xsd" xsi:type="file">
+            <objectIdentifier>
+              <objectIdentifierType>ArchivesSpace identifier</objectIdentifierType>
+              <objectIdentifierValue>1338</objectIdentifierValue>
+            </objectIdentifier>
+            <objectCharacteristics>
+              <fixity>
+                <messageDigestAlgorithm/>
+                <messageDigest/>
+              </fixity>
+              <size/>
+              <format>
+                <formatDesignation>
+                  <formatName/>
+                  <formatVersion/>
+                </formatDesignation>
+              </format>
+            </objectCharacteristics>
+          </object>
+        </xmlData>
+      </mdWrap>
+    </techMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="Service-Edited">
+      <file AMDID="1338" GROUPID="1338" ID="1338">
+        <FLocat xlink:href="http://storage.rockarch.org/0ea14610-765d-4c52-bda7-9880922d2820-rac_rfdiaries_12-2_beard_1925-1938_001.pdf"/>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="logical">
+    <div DMDID="1338" LABEL="1925 December 4-1926 December 31" ORDER="1" TYPE="item">
+      <fptr FILEID="1338"/>
+    </div>
+  </structMap>
+  <structMap TYPE="physical">
+    <div DMDID="1338" LABEL="1925 December 4-1926 December 31" ORDER="1" TYPE="item">
+      <fptr FILEID="1338"/>
+    </div>
+  </structMap>
+</mets>
+
