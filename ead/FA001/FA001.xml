@@ -1,5 +1,5 @@
 <ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
-  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="under_revision" langencoding="iso639-2b" repositoryencoding="iso15511">
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" repositoryencoding="iso15511">
     <eadid>FA001.xml</eadid>
     <filedesc>
       <titlestmt>
@@ -22,7 +22,7 @@
       </publicationstmt>
     </filedesc>
     <profiledesc>
-      <creation>This finding aid was produced using ArchivesSpace on <date>2015-11-22 00:39:14 -0500</date>.</creation>
+      <creation>This finding aid was produced using ArchivesSpace on <date>2016-08-09 00:00:13 -0400</date>.</creation>
       <langusage>English</langusage>
       <descrules>Describing Archives: A Content Standard</descrules>
     </profiledesc>
@@ -173,7 +173,7 @@
     </prefercite>
     <accessrestrict id="aspace_e48f7c0ce2df6b4a02b35d5b312ed0c1">
       <head>Conditions Governing Access</head>
-      <p>Collection is open for scholarly research with select materials restricated, as noted.</p>
+      <p>Open for research with select materials restricted are noted. Brittle or damaged items are available at the discretion of RAC. Researchers interested in accessing digital media (floppy disks, CDs, DVDs, etc.) or audiovisual material (audio cassettes, VHS, etc.) in this collection must use an access surrogate. The original items may not be accessed because of preservation concerns. To request an access surrogate be made, or if you are unsure if there is an access surrogate, please contact an archivist.</p>
     </accessrestrict>
     <controlaccess>
       <subject source="lcsh">World War II</subject>
@@ -208,8 +208,8 @@
           <did>
             <unittitle>American Philosophical Society Library: Max Bergmann Papers</unittitle>
             <unitdate type="inclusive">undated</unitdate>
-            <container id="aspace_b7f3cd2f9e67da18443810eff43d920e" label="Mixed Materials" type="box">1</container>
-            <container id="aspace_6b480f04984376ac51ff0a2f30e58197" parent="aspace_b7f3cd2f9e67da18443810eff43d920e" type="folder">1</container>
+            <container id="aspace_732841045682df54a631907b0e63144a" label="Mixed Materials" type="box">1</container>
+            <container id="aspace_fa7a492da1425329af9c94d63540ad72" parent="aspace_732841045682df54a631907b0e63144a" type="folder">1</container>
           </did>
         </c>
         <c id="aspace_ref251_nik" level="file">
@@ -221,16 +221,16 @@
           <did>
             <unittitle>Bergmann, Martha</unittitle>
             <unitdate normal="1944/1961" type="inclusive">1944–1961</unitdate>
-            <container id="aspace_b418039e869da2d8979ebed93718d269" label="Mixed Materials" type="box">1</container>
-            <container id="aspace_378fd053eb5ac225c252bf66207be3b3" parent="aspace_b418039e869da2d8979ebed93718d269" type="folder">2</container>
+            <container id="aspace_d7af34bba179f7c780e22f0fd702fd64" label="Mixed Materials" type="box">1</container>
+            <container id="aspace_528b2d2c1fe4c914a941596bb0db05ad" parent="aspace_d7af34bba179f7c780e22f0fd702fd64" type="folder">2</container>
           </did>
         </c>
         <c id="aspace_ref17_jad" level="file">
           <did>
             <unittitle>Biographical Synopses</unittitle>
             <unitdate normal="1944/1946" type="inclusive">1944, 1946</unitdate>
-            <container id="aspace_0c47e44ed86624cf0538dfbfd83e9e90" label="Mixed Materials" type="box">1</container>
-            <container id="aspace_5fbd9abc759a418f0f09c67f6d1959a4" parent="aspace_0c47e44ed86624cf0538dfbfd83e9e90" type="folder">3</container>
+            <container id="aspace_d6fb886cce7718b1912b16d7479c6d78" label="Mixed Materials" type="box">1</container>
+            <container id="aspace_c48a9f831238630ef2b262d7bbeb1ff2" parent="aspace_d6fb886cce7718b1912b16d7479c6d78" type="folder">3</container>
           </did>
         </c>
         <c id="aspace_ref18_4sg" level="file">
@@ -238,50 +238,50 @@
             <unittitle>Correspondence</unittitle>
             <unitdate normal="1933/1944" type="inclusive">1933–1944</unitdate>
             <physdesc id="aspace_8183bf6f4bffcfba96d529558fc56b5f">2 folders</physdesc>
-            <container id="aspace_f1a109f9fdf10c002bf5f87f593f9100" label="Mixed Materials" type="box">1</container>
-            <container id="aspace_6f30ca54c794da24a84f099a04334d01" parent="aspace_f1a109f9fdf10c002bf5f87f593f9100" type="folder">4</container>
-            <container id="aspace_dc8ad39408c2cc22eea1009f9543274f" label="Mixed Materials" type="box">1</container>
-            <container id="aspace_3018dce59bb0eeac53ff844f8a5c88a8" parent="aspace_dc8ad39408c2cc22eea1009f9543274f" type="folder">5</container>
+            <container id="aspace_741c22411b1fc98f0cd24eb6cfda74b6" label="Mixed Materials" type="box">1</container>
+            <container id="aspace_a2b2b2aacab395748e3b06f5e805aa36" parent="aspace_741c22411b1fc98f0cd24eb6cfda74b6" type="folder">4</container>
+            <container id="aspace_59921ea5d80fbac0fc89d868392209c4" label="Mixed Materials" type="box">1</container>
+            <container id="aspace_63b56b87aa4e32410b7f7a6057aacc4b" parent="aspace_59921ea5d80fbac0fc89d868392209c4" type="folder">5</container>
           </did>
         </c>
         <c id="aspace_ref19_29z" level="file">
           <did>
             <unittitle>Funeral Service</unittitle>
             <unitdate normal="1944/1945" type="inclusive">1944–1945</unitdate>
-            <container id="aspace_516d59959292201af6ec54dda4108534" label="Mixed Materials" type="box">1</container>
-            <container id="aspace_2c0b7fb54a89e4d62f2ac55a3097cd64" parent="aspace_516d59959292201af6ec54dda4108534" type="folder">6</container>
+            <container id="aspace_76fa36329421275be7ecbd1af4645b78" label="Mixed Materials" type="box">1</container>
+            <container id="aspace_e7f1bc57cc11492afa2bc578a72fd83b" parent="aspace_76fa36329421275be7ecbd1af4645b78" type="folder">6</container>
           </did>
         </c>
         <c id="aspace_ref20_40g" level="file">
           <did>
             <unittitle>Naturalization Documents</unittitle>
             <unitdate normal="1886/1945" type="inclusive">1886–1945</unitdate>
-            <container id="aspace_cab4faa27f9437c19dbde3ab1ebfb26e" label="Mixed Materials" type="box">1</container>
-            <container id="aspace_e05b57a160fee1a11c85140eccdabcb0" parent="aspace_cab4faa27f9437c19dbde3ab1ebfb26e" type="folder">7</container>
+            <container id="aspace_8003a21beb00fa130e12ee63ee8bdadd" label="Mixed Materials" type="box">1</container>
+            <container id="aspace_6549f1cbae67271276da53cf85f26133" parent="aspace_8003a21beb00fa130e12ee63ee8bdadd" type="folder">7</container>
           </did>
         </c>
         <c id="aspace_ref21_izk" level="file">
           <did>
             <unittitle>Photographs</unittitle>
             <unitdate normal="1920/1944" type="inclusive">[192?]–1944</unitdate>
-            <container id="aspace_7d462d7619d377d12ea4dad5f97f736e" label="Mixed Materials" type="box">1</container>
-            <container id="aspace_427cd45add4672e6847b3f3ff1141393" parent="aspace_7d462d7619d377d12ea4dad5f97f736e" type="folder">8</container>
+            <container id="aspace_d0d611c96121b180e05eb7580f29ec6d" label="Mixed Materials" type="box">1</container>
+            <container id="aspace_1be42a645989b7be93525880e02573e9" parent="aspace_d0d611c96121b180e05eb7580f29ec6d" type="folder">8</container>
           </did>
         </c>
         <c id="aspace_ref22_u0n" level="file">
           <did>
             <unittitle>Physical Examinations</unittitle>
             <unitdate normal="1924/1934" type="inclusive">1924?, 1934?</unitdate>
-            <container id="aspace_9543d539bfb51789044abaa1dbf0c4ad" label="Mixed Materials" type="box">1</container>
-            <container id="aspace_5269b866164975cdaac8747ca00c3529" parent="aspace_9543d539bfb51789044abaa1dbf0c4ad" type="folder">9</container>
+            <container id="aspace_13a5e0255607c7d23a5e29f31aaf09e6" label="Mixed Materials" type="box">1</container>
+            <container id="aspace_8939fbd8ff259cbd08c034b94ef8b36d" parent="aspace_13a5e0255607c7d23a5e29f31aaf09e6" type="folder">9</container>
           </did>
         </c>
         <c id="aspace_ref23_a8d" level="file">
           <did>
             <unittitle>Scientific Periodicals and Books from the Library of Dr. Max Bergmann</unittitle>
             <unitdate normal="1944/1944" type="inclusive">1944</unitdate>
-            <container id="aspace_7db6c0737d1870394c86afc50fa5f1fe" label="Mixed Materials" type="box">1</container>
-            <container id="aspace_e8b79ba07f54d48edf8ee8af63341d4d" parent="aspace_7db6c0737d1870394c86afc50fa5f1fe" type="folder">10</container>
+            <container id="aspace_7cab3eaf7d8e7167e2b2bb11c608ec3c" label="Mixed Materials" type="box">1</container>
+            <container id="aspace_c642c591c94a40bf3c9c7b62da194431" parent="aspace_7cab3eaf7d8e7167e2b2bb11c608ec3c" type="folder">10</container>
           </did>
         </c>
       </c>
@@ -308,192 +308,192 @@
           <did>
             <unittitle>A</unittitle>
             <unitdate normal="1940/1944" type="inclusive">1940–1944</unitdate>
-            <container id="aspace_26551c576726b143a0fd12cc7a19df08" label="Mixed Materials" type="box">1</container>
-            <container id="aspace_895fe7591d37a08ef16dba968867a18d" parent="aspace_26551c576726b143a0fd12cc7a19df08" type="folder">11</container>
+            <container id="aspace_aa409b6071c52c85a26bacf594e15ce9" label="Mixed Materials" type="box">1</container>
+            <container id="aspace_b510c8fd452a5296d276e88ea21343e4" parent="aspace_aa409b6071c52c85a26bacf594e15ce9" type="folder">11</container>
           </did>
         </c>
         <c id="aspace_ref29_jiy" level="file">
           <did>
             <unittitle>Account “K” NDRC</unittitle>
             <unitdate normal="1942/1945" type="inclusive">1942–1945</unitdate>
-            <container id="aspace_c27027fb476b9aacbe90eaa3c9cbaf1d" label="Mixed Materials" type="box">1</container>
-            <container id="aspace_fc523e0f14add14e5df1c86be89f4e0f" parent="aspace_c27027fb476b9aacbe90eaa3c9cbaf1d" type="folder">12</container>
+            <container id="aspace_f6a76a0ecb211478ede82efc6e2ce34c" label="Mixed Materials" type="box">1</container>
+            <container id="aspace_744c1aa9660867c2b888a91e8a1c5e86" parent="aspace_f6a76a0ecb211478ede82efc6e2ce34c" type="folder">12</container>
           </did>
         </c>
         <c id="aspace_ref30_685" level="file">
           <did>
             <unittitle>B</unittitle>
             <unitdate normal="1942/1945" type="inclusive">1942–1945</unitdate>
-            <container id="aspace_1a085644e4bfd4ddb95fa413385e2cfd" label="Mixed Materials" type="box">1</container>
-            <container id="aspace_24b2b32b4abfe5381cfa1af2da12d707" parent="aspace_1a085644e4bfd4ddb95fa413385e2cfd" type="folder">13</container>
+            <container id="aspace_ca365cdfca4117d082da2ad8c48547d5" label="Mixed Materials" type="box">1</container>
+            <container id="aspace_1411e7a2f7e79f6df8357d48064b8899" parent="aspace_ca365cdfca4117d082da2ad8c48547d5" type="folder">13</container>
           </did>
         </c>
         <c id="aspace_ref31_rj8" level="file">
           <did>
             <unittitle>Bergmann Appointments: Consultant Official Investigators</unittitle>
             <unitdate normal="1941/1943" type="inclusive">1941–1943</unitdate>
-            <container id="aspace_3d2e28aa1f2df3ac72a336c2eeeb0923" label="Mixed Materials" type="box">1</container>
-            <container id="aspace_d50664d6d0baf0d1612584f78de12d60" parent="aspace_3d2e28aa1f2df3ac72a336c2eeeb0923" type="folder">14</container>
+            <container id="aspace_d11f93b7ca69a217adbebf6846715d1d" label="Mixed Materials" type="box">1</container>
+            <container id="aspace_e4b0f64266c9750ec70670337d4f835a" parent="aspace_d11f93b7ca69a217adbebf6846715d1d" type="folder">14</container>
           </did>
         </c>
         <c id="aspace_ref32_te4" level="file">
           <did>
             <unittitle>Bergmann, Max Dr.</unittitle>
             <unitdate normal="1940/1944" type="inclusive">1940–1944</unitdate>
-            <container id="aspace_0843e287fdc24ab0178ce0878544ca17" label="Mixed Materials" type="box">1</container>
-            <container id="aspace_6893d9b915069c3fa14059ec9888a615" parent="aspace_0843e287fdc24ab0178ce0878544ca17" type="folder">15</container>
+            <container id="aspace_81e8cb97e0185b85e5452812a197d0c8" label="Mixed Materials" type="box">1</container>
+            <container id="aspace_9754caed03935b0bc6eb85edb4a6ea1a" parent="aspace_81e8cb97e0185b85e5452812a197d0c8" type="folder">15</container>
           </did>
         </c>
         <c id="aspace_ref33_cgu" level="file">
           <did>
             <unittitle>Bowman, Robert A.</unittitle>
             <unitdate normal="1941/1943" type="inclusive">1941–1943</unitdate>
-            <container id="aspace_f0e7f0c1bf742fa9aa3edfc9bdfc790b" label="Mixed Materials" type="box">1</container>
-            <container id="aspace_3e2d313683b26dbca8b8276d1bccd690" parent="aspace_f0e7f0c1bf742fa9aa3edfc9bdfc790b" type="folder">16</container>
+            <container id="aspace_43073eaecba6120eea57bdbe85e301ed" label="Mixed Materials" type="box">1</container>
+            <container id="aspace_798c5f92cb8af3a28be8213ca3b03fda" parent="aspace_43073eaecba6120eea57bdbe85e301ed" type="folder">16</container>
           </did>
         </c>
         <c id="aspace_ref34_bzf" level="file">
           <did>
             <unittitle>Bush, Vannevar</unittitle>
             <unitdate normal="1940/1944" type="inclusive">1940–1944</unitdate>
-            <container id="aspace_4f45f2aba659febe64d66806a2ebffe6" label="Mixed Materials" type="box">1</container>
-            <container id="aspace_9cd9421153ae9cc20c41a7a1df9f2f3d" parent="aspace_4f45f2aba659febe64d66806a2ebffe6" type="folder">17</container>
+            <container id="aspace_ebc1ac43eefddcad1089dcbf49e46bbc" label="Mixed Materials" type="box">1</container>
+            <container id="aspace_9905b8786c28d047b8e41943c3173825" parent="aspace_ebc1ac43eefddcad1089dcbf49e46bbc" type="folder">17</container>
           </did>
         </c>
         <c id="aspace_ref35_n9v" level="file">
           <did>
             <unittitle>C</unittitle>
             <unitdate normal="1934/1946" type="inclusive">1934–1946</unitdate>
-            <container id="aspace_9d3d77c0584da807815e74d8c52e73ae" label="Mixed Materials" type="box">2</container>
-            <container id="aspace_08c9c47c0337600d31ad84625939b027" parent="aspace_9d3d77c0584da807815e74d8c52e73ae" type="folder">1</container>
+            <container id="aspace_f1f637c77f06d61767fd2a6b0d44a019" label="Mixed Materials" type="box">2</container>
+            <container id="aspace_956b50697ebab3b52f0d186182896513" parent="aspace_f1f637c77f06d61767fd2a6b0d44a019" type="folder">1</container>
           </did>
         </c>
         <c id="aspace_ref36_0xc" level="file">
           <did>
             <unittitle>Cannan, R. K.</unittitle>
             <unitdate normal="1942/1944" type="inclusive">1942–1944</unitdate>
-            <container id="aspace_f647fcf3c5108bbd2d7d3e173db886d2" label="Mixed Materials" type="box">2</container>
-            <container id="aspace_c6783ea2e978fb04ccdacd6de560d379" parent="aspace_f647fcf3c5108bbd2d7d3e173db886d2" type="folder">2</container>
+            <container id="aspace_3e35bbc81bdaf70903064dd78ea1cb6e" label="Mixed Materials" type="box">2</container>
+            <container id="aspace_65b721db85c9127b723d4340edc9a176" parent="aspace_3e35bbc81bdaf70903064dd78ea1cb6e" type="folder">2</container>
           </did>
         </c>
         <c id="aspace_ref37_dol" level="file">
           <did>
             <unittitle>Chadwell, Harris M.</unittitle>
             <unitdate normal="1942/1942" type="inclusive">1942</unitdate>
-            <container id="aspace_7c2a0ed445ffa120cea2a7efe5af60b7" label="Mixed Materials" type="box">2</container>
-            <container id="aspace_973c0ed84dfefe8acbe48ae00736c40f" parent="aspace_7c2a0ed445ffa120cea2a7efe5af60b7" type="folder">3</container>
+            <container id="aspace_13c1aeb2a4c47f6bd7ec9132e9e54e46" label="Mixed Materials" type="box">2</container>
+            <container id="aspace_ffd2837a0b0b29e0505183dcddb2b74b" parent="aspace_13c1aeb2a4c47f6bd7ec9132e9e54e46" type="folder">3</container>
           </did>
         </c>
         <c id="aspace_ref38_4ol" level="file">
           <did>
             <unittitle>Campbell, Mrs. Marcia D.</unittitle>
             <unitdate normal="1943/1943" type="inclusive">1943</unitdate>
-            <container id="aspace_0aedd1aa35ae65ee9975bc8ae8731d6d" label="Mixed Materials" type="box">2</container>
-            <container id="aspace_75f4ff245ef35adafa0dee00760c1389" parent="aspace_0aedd1aa35ae65ee9975bc8ae8731d6d" type="folder">4</container>
+            <container id="aspace_d621a1ba38d4873aff80a25dbd927850" label="Mixed Materials" type="box">2</container>
+            <container id="aspace_62e75bf5d75877e39095e4a0d4beebea" parent="aspace_d621a1ba38d4873aff80a25dbd927850" type="folder">4</container>
           </did>
         </c>
         <c id="aspace_ref39_7t2" level="file">
           <did>
             <unittitle>Cohen, Barbett</unittitle>
             <unitdate normal="1942/1944" type="inclusive">1942–1944</unitdate>
-            <container id="aspace_4da2f04ea01141f8d8dc179bedbec2d3" label="Mixed Materials" type="box">2</container>
-            <container id="aspace_088628a3252ecfedd80053ed75aaf5e4" parent="aspace_4da2f04ea01141f8d8dc179bedbec2d3" type="folder">5</container>
+            <container id="aspace_64791af8b15fd0ae4793a084612172ba" label="Mixed Materials" type="box">2</container>
+            <container id="aspace_04de280cc60e72426bb8771744f75706" parent="aspace_64791af8b15fd0ae4793a084612172ba" type="folder">5</container>
           </did>
         </c>
         <c id="aspace_ref40_wi7" level="file">
           <did>
             <unittitle>Conner, Ralph A.</unittitle>
             <unitdate normal="1942/1942" type="inclusive">1942</unitdate>
-            <container id="aspace_5fadf01ceda9105a2f6abfd4c1f4d676" label="Mixed Materials" type="box">2</container>
-            <container id="aspace_28c8faa36be1b01c789217d825957c86" parent="aspace_5fadf01ceda9105a2f6abfd4c1f4d676" type="folder">6</container>
+            <container id="aspace_ccb8116b7ff412a3ab19b1eecbb355b2" label="Mixed Materials" type="box">2</container>
+            <container id="aspace_e0d36a8b06906db24b69ae7e0c7e55ea" parent="aspace_ccb8116b7ff412a3ab19b1eecbb355b2" type="folder">6</container>
           </did>
         </c>
         <c id="aspace_ref41_x2b" level="file">
           <did>
             <unittitle>Contract No. OEMsr–313</unittitle>
             <unitdate normal="1942/1945" type="inclusive">1942–1945</unitdate>
-            <container id="aspace_c22c78d7cdfb73a7f5c1adbe5e552d43" label="Mixed Materials" type="box">2</container>
-            <container id="aspace_5b03034cfbee91a2316cc54cb2635672" parent="aspace_c22c78d7cdfb73a7f5c1adbe5e552d43" type="folder">7</container>
+            <container id="aspace_7815793d0d05fef0bdc77050085cc47e" label="Mixed Materials" type="box">2</container>
+            <container id="aspace_584f74b07211c9068a197421e79c4cb4" parent="aspace_7815793d0d05fef0bdc77050085cc47e" type="folder">7</container>
           </did>
         </c>
         <c id="aspace_ref42_7m8" level="file">
           <did>
             <unittitle>Contract Symbol 881</unittitle>
             <unitdate normal="1942/1942" type="inclusive">1942</unitdate>
-            <container id="aspace_e2251ebc06e83f7fe839f2ced431f6a5" label="Mixed Materials" type="box">2</container>
-            <container id="aspace_c69a07b6fdcac5f1fc4432d76eb34569" parent="aspace_e2251ebc06e83f7fe839f2ced431f6a5" type="folder">8</container>
+            <container id="aspace_6509d52d74b969bde9a560d7dd3ff65d" label="Mixed Materials" type="box">2</container>
+            <container id="aspace_e5212471fbde6a1d6cd8057e627532a8" parent="aspace_6509d52d74b969bde9a560d7dd3ff65d" type="folder">8</container>
           </did>
         </c>
         <c id="aspace_ref43_o6d" level="file">
           <did>
             <unittitle>Cope, Arthur C.</unittitle>
             <unitdate normal="1942/1944" type="inclusive">1942–1944</unitdate>
-            <container id="aspace_c9896bbaca18bccb44eb6a2454c5756e" label="Mixed Materials" type="box">2</container>
-            <container id="aspace_cd111a6350df344835d174bba33c0c49" parent="aspace_c9896bbaca18bccb44eb6a2454c5756e" type="folder">9</container>
+            <container id="aspace_29a7e6201b0c69fb386a7c30ac13d056" label="Mixed Materials" type="box">2</container>
+            <container id="aspace_a46e7ba9ee6c6ac4b1f1f1ae8639d44c" parent="aspace_29a7e6201b0c69fb386a7c30ac13d056" type="folder">9</container>
           </did>
         </c>
         <c id="aspace_ref44_17x" level="file">
           <did>
             <unittitle>Cori, Carl F.</unittitle>
             <unitdate normal="1942/1944" type="inclusive">1942–1944</unitdate>
-            <container id="aspace_d17bef447f2ad8dd240921215de416be" label="Mixed Materials" type="box">2</container>
-            <container id="aspace_f9c3d1777d9a173c515b6753e6041622" parent="aspace_d17bef447f2ad8dd240921215de416be" type="folder">10</container>
+            <container id="aspace_09233fdbaa192970dec9eb0879ec7f16" label="Mixed Materials" type="box">2</container>
+            <container id="aspace_8ad4f880b79d90a329e3cd2403abd208" parent="aspace_09233fdbaa192970dec9eb0879ec7f16" type="folder">10</container>
           </did>
         </c>
         <c id="aspace_ref45_gv8" level="file">
           <did>
             <unittitle>D</unittitle>
             <unitdate normal="1940/1945" type="inclusive">1940–1945</unitdate>
-            <container id="aspace_23cbf0e94d6b9f6dd925372831ac4e71" label="Mixed Materials" type="box">2</container>
-            <container id="aspace_7ad8efa99e0972b0ae2f4af909641a46" parent="aspace_23cbf0e94d6b9f6dd925372831ac4e71" type="folder">11</container>
+            <container id="aspace_e0043fb25342ed717f2b6265cca7ee82" label="Mixed Materials" type="box">2</container>
+            <container id="aspace_40e5ff61fc341bdd27bbe8aaaa785069" parent="aspace_e0043fb25342ed717f2b6265cca7ee82" type="folder">11</container>
           </did>
         </c>
         <c id="aspace_ref46_fez" level="file">
           <did>
             <unittitle>DB 3 Reagent: Directions for use of</unittitle>
             <unitdate normal="1942/1943" type="inclusive">1942–1943</unitdate>
-            <container id="aspace_a328bf334a0ace15bdd1cacd5b555b97" label="Mixed Materials" type="box">2</container>
-            <container id="aspace_b30ad85c2e3b52d9ef19440681080bdf" parent="aspace_a328bf334a0ace15bdd1cacd5b555b97" type="folder">12</container>
+            <container id="aspace_84eb367275809863d6d8013ad6612c10" label="Mixed Materials" type="box">2</container>
+            <container id="aspace_2dbc64f57f8bacc1f1eb612ca6eb6516" parent="aspace_84eb367275809863d6d8013ad6612c10" type="folder">12</container>
           </did>
         </c>
         <c id="aspace_ref47_t3o" level="file">
           <did>
             <unittitle>Deferments Log</unittitle>
             <unitdate normal="1944/1945" type="inclusive">1944–1945</unitdate>
-            <container id="aspace_b3e10b3f8429f26657f90eb70233469f" label="Mixed Materials" type="box">2</container>
-            <container id="aspace_9ee0f30e6ac0a8fe46c35dc82610eee6" parent="aspace_b3e10b3f8429f26657f90eb70233469f" type="folder">13</container>
+            <container id="aspace_bf10281974949b0d25a700f8f1eaf32a" label="Mixed Materials" type="box">2</container>
+            <container id="aspace_a767a6d88eb206bf7c91612c179bcb2e" parent="aspace_bf10281974949b0d25a700f8f1eaf32a" type="folder">13</container>
           </did>
         </c>
         <c id="aspace_ref48_z51" level="file">
           <did>
             <unittitle>Directions</unittitle>
             <unitdate normal="1934/1943" type="inclusive">1934, 1943</unitdate>
-            <container id="aspace_d950dddb0fbeff761a45af36ed578a9a" label="Mixed Materials" type="box">2</container>
-            <container id="aspace_e4b556c554bb0ef599be5fadadbea424" parent="aspace_d950dddb0fbeff761a45af36ed578a9a" type="folder">14</container>
+            <container id="aspace_6302442740e91a24a6b13ba29fd289f0" label="Mixed Materials" type="box">2</container>
+            <container id="aspace_21d0616f2d8a41570d8316c946cfa336" parent="aspace_6302442740e91a24a6b13ba29fd289f0" type="folder">14</container>
           </did>
         </c>
         <c id="aspace_ref49_3io" level="file">
           <did>
             <unittitle>Discussion Log</unittitle>
             <unitdate normal="1943/1943" type="inclusive">1943</unitdate>
-            <container id="aspace_6c58bf550c7fab675f6638344c1df99f" label="Mixed Materials" type="box">2</container>
-            <container id="aspace_1f7f5a46ea09c265d11cb8d4ef958568" parent="aspace_6c58bf550c7fab675f6638344c1df99f" type="folder">15</container>
+            <container id="aspace_8f935cac0e5ef5fecae752f0535bafde" label="Mixed Materials" type="box">2</container>
+            <container id="aspace_266eebcf3e23b365d5eb1dcf293e4496" parent="aspace_8f935cac0e5ef5fecae752f0535bafde" type="folder">15</container>
           </did>
         </c>
         <c id="aspace_ref50_0uj" level="file">
           <did>
             <unittitle>Du Vigneaud, Vincent</unittitle>
             <unitdate normal="1942/1944" type="inclusive">1942–1944</unitdate>
-            <container id="aspace_1a46d3f922f1f53955b8125a88744464" label="Mixed Materials" type="box">2</container>
-            <container id="aspace_5e3d3ef23b630411ce753e8d871ddc45" parent="aspace_1a46d3f922f1f53955b8125a88744464" type="folder">16</container>
+            <container id="aspace_dd855f07fae8a09bb1e27f1d5b0223cc" label="Mixed Materials" type="box">2</container>
+            <container id="aspace_c98e07c4350c090bb808ef5dcc6d8c02" parent="aspace_dd855f07fae8a09bb1e27f1d5b0223cc" type="folder">16</container>
           </did>
         </c>
         <c id="aspace_ref51_k02" level="file">
           <did>
             <unittitle>E</unittitle>
             <unitdate normal="1942/1944" type="inclusive">1942–1944</unitdate>
-            <container id="aspace_f8dff363142d5e327c245eccb0a580e1" label="Mixed Materials" type="box">2</container>
-            <container id="aspace_08300478e3866c8cddff8ecb736442a7" parent="aspace_f8dff363142d5e327c245eccb0a580e1" type="folder">17</container>
+            <container id="aspace_692478300f8988ae2bf16397fc2d42d8" label="Mixed Materials" type="box">2</container>
+            <container id="aspace_29fce2c3a6e77d1181b7f41216b5d3c9" parent="aspace_692478300f8988ae2bf16397fc2d42d8" type="folder">17</container>
           </did>
           <fileplan id="aspace_d87e5eea2f7e11245e57b4b08e9fbdeb">
             <head>File Plan</head>
@@ -504,288 +504,288 @@
           <did>
             <unittitle>Espionage Act</unittitle>
             <unitdate normal="1940/1945" type="inclusive">1940–1945</unitdate>
-            <container id="aspace_56ebe464ff4dc22867815ddcf44f4385" label="Mixed Materials" type="box">2</container>
-            <container id="aspace_f05fe9b8c1e434829e7da17326ef6e03" parent="aspace_56ebe464ff4dc22867815ddcf44f4385" type="folder">18</container>
+            <container id="aspace_2ba6c998b84c44732cb2692ace7731cc" label="Mixed Materials" type="box">2</container>
+            <container id="aspace_6066363e70335c1ed9000d4be28bed74" parent="aspace_2ba6c998b84c44732cb2692ace7731cc" type="folder">18</container>
           </did>
         </c>
         <c id="aspace_ref53_bhh" level="file">
           <did>
             <unittitle>F</unittitle>
             <unitdate normal="1941/1944" type="inclusive">1941–1944</unitdate>
-            <container id="aspace_26e5bb750b6a5b3f2aa88f7a8b8bdfe7" label="Mixed Materials" type="box">2</container>
-            <container id="aspace_66163090e9718567447bb45d217da1fb" parent="aspace_26e5bb750b6a5b3f2aa88f7a8b8bdfe7" type="folder">19</container>
+            <container id="aspace_d619df6e1ad80243b29f27c1721641a3" label="Mixed Materials" type="box">2</container>
+            <container id="aspace_ac335d3b18afcf799cca3b4eb2602a14" parent="aspace_d619df6e1ad80243b29f27c1721641a3" type="folder">19</container>
           </did>
         </c>
         <c id="aspace_ref54_gne" level="file">
           <did>
             <unittitle>Failey, Crawford F.</unittitle>
             <unitdate normal="1942/1944" type="inclusive">1942–1944</unitdate>
-            <container id="aspace_59a81cefbe40ad50cd5146f17629d5ea" label="Mixed Materials" type="box">2</container>
-            <container id="aspace_db062ba9c1aa4504e5657b923ed48517" parent="aspace_59a81cefbe40ad50cd5146f17629d5ea" type="folder">20</container>
+            <container id="aspace_07cacc1973a182b42b0190536684b159" label="Mixed Materials" type="box">2</container>
+            <container id="aspace_913e77439ae457843404abee244ba055" parent="aspace_07cacc1973a182b42b0190536684b159" type="folder">20</container>
           </did>
         </c>
         <c id="aspace_ref55_xdz" level="file">
           <did>
             <unittitle>Friedenwald, Jonas S.</unittitle>
             <unitdate normal="1942/1944" type="inclusive">1942–1944</unitdate>
-            <container id="aspace_d6abbb0e0570e4503efb7872fcdfb018" label="Mixed Materials" type="box">2</container>
-            <container id="aspace_5c31d6a5ee694e87f9a5ae041c916b6f" parent="aspace_d6abbb0e0570e4503efb7872fcdfb018" type="folder">21</container>
+            <container id="aspace_495c71de9f069231b1d472938cbc0aa2" label="Mixed Materials" type="box">2</container>
+            <container id="aspace_37e3483e3216569134e6508ebb66212d" parent="aspace_495c71de9f069231b1d472938cbc0aa2" type="folder">21</container>
           </did>
         </c>
         <c id="aspace_ref56_21r" level="file">
           <did>
             <unittitle>Fruton, Joseph S.</unittitle>
             <unitdate normal="1942/1946" type="inclusive">1942–1946</unitdate>
-            <container id="aspace_b8c60c98fc0e6aa540520930334f8d92" label="Mixed Materials" type="box">3</container>
-            <container id="aspace_ab87ff9cd8d13b253555ce4c0c7c4dfd" parent="aspace_b8c60c98fc0e6aa540520930334f8d92" type="folder">1</container>
+            <container id="aspace_cfc37efeb318de1126ee8c6b613b671b" label="Mixed Materials" type="box">3</container>
+            <container id="aspace_89d46699d359fe0870e6d7577629331c" parent="aspace_cfc37efeb318de1126ee8c6b613b671b" type="folder">1</container>
           </did>
         </c>
         <c id="aspace_ref57_my1" level="file">
           <did>
             <unittitle>G</unittitle>
             <unitdate normal="1940/1945" type="inclusive">1940–1945</unitdate>
-            <container id="aspace_6c439c2dd8196f94e9ba99a476d9838d" label="Mixed Materials" type="box">3</container>
-            <container id="aspace_f4200c30d4e66c9b9a4262f28151dbb8" parent="aspace_6c439c2dd8196f94e9ba99a476d9838d" type="folder">2</container>
+            <container id="aspace_052988e8a53d10ef3b5365a3c7d98ed2" label="Mixed Materials" type="box">3</container>
+            <container id="aspace_0627f41b4109a424bdd57daed47c6e49" parent="aspace_052988e8a53d10ef3b5365a3c7d98ed2" type="folder">2</container>
           </did>
         </c>
         <c id="aspace_ref58_tda" level="file">
           <did>
             <unittitle>Gasser, H. S.</unittitle>
             <unitdate normal="1941/1944" type="inclusive">1941–1944</unitdate>
-            <container id="aspace_fda3c023c5fe4474803692951d1de888" label="Mixed Materials" type="box">3</container>
-            <container id="aspace_e03ff3c6e54139b4e3ec3b72f58d0f85" parent="aspace_fda3c023c5fe4474803692951d1de888" type="folder">3</container>
+            <container id="aspace_223e81f13a4b5892e1f35346e0e44fb2" label="Mixed Materials" type="box">3</container>
+            <container id="aspace_796ca54f840c288cf4d8a9bff38bf1e7" parent="aspace_223e81f13a4b5892e1f35346e0e44fb2" type="folder">3</container>
           </did>
         </c>
         <c id="aspace_ref59_qat" level="file">
           <did>
             <unittitle>Golumbic, Calvin</unittitle>
             <unitdate normal="1941/1945" type="inclusive">1941–1945</unitdate>
-            <container id="aspace_c86c9445933dc3ab6c563b8fdc1922e8" label="Mixed Materials" type="box">3</container>
-            <container id="aspace_59f49139aeed369d159eed29412250fe" parent="aspace_c86c9445933dc3ab6c563b8fdc1922e8" type="folder">4</container>
+            <container id="aspace_7e891ac95ae14baf380228537434fa78" label="Mixed Materials" type="box">3</container>
+            <container id="aspace_fe3b2608720d63fe40a035ecdd4c9e59" parent="aspace_7e891ac95ae14baf380228537434fa78" type="folder">4</container>
           </did>
         </c>
         <c id="aspace_ref60_5w7" level="file">
           <did>
             <unittitle>H</unittitle>
             <unitdate normal="1941/1944" type="inclusive">1941–1944</unitdate>
-            <container id="aspace_10c97c8fec2abbcb8b76c5cbd7f6bf9f" label="Mixed Materials" type="box">3</container>
-            <container id="aspace_d32494412f12cb00714632594209e0db" parent="aspace_10c97c8fec2abbcb8b76c5cbd7f6bf9f" type="folder">5</container>
+            <container id="aspace_83bc52ba583f4df0291f5a8beb865113" label="Mixed Materials" type="box">3</container>
+            <container id="aspace_ca5f6c15c36ee101d3ea1f680867262c" parent="aspace_83bc52ba583f4df0291f5a8beb865113" type="folder">5</container>
           </did>
         </c>
         <c id="aspace_ref61_5jp" level="file">
           <did>
             <unittitle>I</unittitle>
             <unitdate normal="1941/1945" type="inclusive">1941–1945</unitdate>
-            <container id="aspace_8d6ace8e37d45b278d07d0a04a0fc233" label="Mixed Materials" type="box">3</container>
-            <container id="aspace_725755a9cea24b0ee3423bf901992dbc" parent="aspace_8d6ace8e37d45b278d07d0a04a0fc233" type="folder">6</container>
+            <container id="aspace_59c83d8eccb670910115af8d07ff8818" label="Mixed Materials" type="box">3</container>
+            <container id="aspace_1ea95eecc6fea16e4e5123efc8b86f00" parent="aspace_59c83d8eccb670910115af8d07ff8818" type="folder">6</container>
           </did>
         </c>
         <c id="aspace_ref62_kfy" level="file">
           <did>
             <unittitle>Indexes to Reports</unittitle>
             <unitdate normal="1944/1944" type="inclusive">1944</unitdate>
-            <container id="aspace_022b4ece308510df45fdaafb45e855da" label="Mixed Materials" type="box">3</container>
-            <container id="aspace_7c14442b3ab5bb31ac4f564801da74a1" parent="aspace_022b4ece308510df45fdaafb45e855da" type="folder">7</container>
+            <container id="aspace_dd38c086e05a48e6c83a152d53f34dd1" label="Mixed Materials" type="box">3</container>
+            <container id="aspace_1d0ed7a8481981ca79b851a68ddb09c7" parent="aspace_dd38c086e05a48e6c83a152d53f34dd1" type="folder">7</container>
           </did>
         </c>
         <c id="aspace_ref63_y4a" level="file">
           <did>
             <unittitle>J</unittitle>
             <unitdate normal="1942/1944" type="inclusive">1942–1944</unitdate>
-            <container id="aspace_aad7be311f4aca0711587dd487519fdd" label="Mixed Materials" type="box">3</container>
-            <container id="aspace_b84aa7b16ae147372fcff302a165e009" parent="aspace_aad7be311f4aca0711587dd487519fdd" type="folder">8</container>
+            <container id="aspace_40302b789eae46627d635d2c5c67f78c" label="Mixed Materials" type="box">3</container>
+            <container id="aspace_174b32d5fb9a256c740cafc305a6de56" parent="aspace_40302b789eae46627d635d2c5c67f78c" type="folder">8</container>
           </did>
         </c>
         <c id="aspace_ref64_rb3" level="file">
           <did>
             <unittitle>K</unittitle>
             <unitdate normal="1942/1944" type="inclusive">1942–1944</unitdate>
-            <container id="aspace_8dd621f420c859f2e53d238f747f3143" label="Mixed Materials" type="box">3</container>
-            <container id="aspace_bf713beada8d7c77b40408b4780f63c1" parent="aspace_8dd621f420c859f2e53d238f747f3143" type="folder">9</container>
+            <container id="aspace_ca741431073152c4ca08f4f949f60f00" label="Mixed Materials" type="box">3</container>
+            <container id="aspace_ed352514f8ba7210d7d7c84287d20946" parent="aspace_ca741431073152c4ca08f4f949f60f00" type="folder">9</container>
           </did>
         </c>
         <c id="aspace_ref65_i8r" level="file">
           <did>
             <unittitle>KB 16: Correspondence</unittitle>
             <unitdate normal="1942/1942" type="inclusive">1942</unitdate>
-            <container id="aspace_fbbcec31f3f3595e0955230822933980" label="Mixed Materials" type="box">3</container>
-            <container id="aspace_45d225f857ddd233b9b95751eb5b795d" parent="aspace_fbbcec31f3f3595e0955230822933980" type="folder">10</container>
+            <container id="aspace_0758d41431f41eb51e9da290ecec5817" label="Mixed Materials" type="box">3</container>
+            <container id="aspace_bfef20d66417e0be8723bab96efc00ea" parent="aspace_0758d41431f41eb51e9da290ecec5817" type="folder">10</container>
           </did>
         </c>
         <c id="aspace_ref66_k7d" level="file">
           <did>
             <unittitle>Kelley, Dr. Louise</unittitle>
             <unitdate normal="1942/1945" type="inclusive">1942–1945</unitdate>
-            <container id="aspace_c94d8b87a7d7921cd01d1d60a49b07a9" label="Mixed Materials" type="box">3</container>
-            <container id="aspace_e803ad9802c7f267e7c2c42f30c66436" parent="aspace_c94d8b87a7d7921cd01d1d60a49b07a9" type="folder">11</container>
+            <container id="aspace_e14822e5e539ab3a91c7c796f9caa8b1" label="Mixed Materials" type="box">3</container>
+            <container id="aspace_9a0e95a0aec57af5b1120a042954a60d" parent="aspace_e14822e5e539ab3a91c7c796f9caa8b1" type="folder">11</container>
           </did>
         </c>
         <c id="aspace_ref67_j0t" level="file">
           <did>
             <unittitle>L</unittitle>
             <unitdate normal="1942/1944" type="inclusive">1942–1944</unitdate>
-            <container id="aspace_47be890195c6a82bf79ce8a0dd89179a" label="Mixed Materials" type="box">3</container>
-            <container id="aspace_462618a533d00d36b52105a9f21536c3" parent="aspace_47be890195c6a82bf79ce8a0dd89179a" type="folder">12</container>
+            <container id="aspace_134c616653744f037fd75060579b5750" label="Mixed Materials" type="box">3</container>
+            <container id="aspace_a38e0d48c9dd4153975f1e3c3f26a08a" parent="aspace_134c616653744f037fd75060579b5750" type="folder">12</container>
           </did>
         </c>
         <c id="aspace_ref68_33u" level="file">
           <did>
             <unittitle>Literature I</unittitle>
             <unitdate normal="1943/1945" type="inclusive">1943–1945</unitdate>
-            <container id="aspace_ac216d4260295e4a88bcbc058994398f" label="Mixed Materials" type="box">3</container>
-            <container id="aspace_b4481b6a7efd6b471ef8c883a15012b1" parent="aspace_ac216d4260295e4a88bcbc058994398f" type="folder">13</container>
+            <container id="aspace_3c50d3e26dfb181d7a64af581ff43ae1" label="Mixed Materials" type="box">3</container>
+            <container id="aspace_7a08990c63e1d8a4e808a468ca79ca25" parent="aspace_3c50d3e26dfb181d7a64af581ff43ae1" type="folder">13</container>
           </did>
         </c>
         <c id="aspace_ref69_1hd" level="file">
           <did>
             <unittitle>Literature II: A. G. Ogston and R. A. Peters</unittitle>
             <unitdate normal="1940/1943" type="inclusive">1940–1943</unitdate>
-            <container id="aspace_62c5fd90c62e38cfddb86e8f416040c0" label="Mixed Materials" type="box">3</container>
-            <container id="aspace_949291125c57ecff7cf9592faa6e2d79" parent="aspace_62c5fd90c62e38cfddb86e8f416040c0" type="folder">14</container>
+            <container id="aspace_d85066bc06a4d92bb8c5c5984c7fca05" label="Mixed Materials" type="box">3</container>
+            <container id="aspace_7c72342f4be5e7277568fdf10e988c80" parent="aspace_d85066bc06a4d92bb8c5c5984c7fca05" type="folder">14</container>
           </did>
         </c>
         <c id="aspace_ref70_cey" level="file">
           <did>
             <unittitle>Literature III: E thru L</unittitle>
             <unitdate normal="1942/1944" type="inclusive">1942–1944</unitdate>
-            <container id="aspace_f50baa2c181cf056e68ee0b6ff590664" label="Mixed Materials" type="box">3</container>
-            <container id="aspace_2e3b78d488d630942454892cf7b84891" parent="aspace_f50baa2c181cf056e68ee0b6ff590664" type="folder">15</container>
+            <container id="aspace_68093aee1a676a0a370457fc96f958db" label="Mixed Materials" type="box">3</container>
+            <container id="aspace_b048e348c9418d82d1c390efe00af6b1" parent="aspace_68093aee1a676a0a370457fc96f958db" type="folder">15</container>
           </did>
         </c>
         <c id="aspace_ref71_li3" level="file">
           <did>
             <unittitle>Literature IV: Miscellaneous</unittitle>
             <unitdate normal="1942/1943" type="inclusive">1942–1943</unitdate>
-            <container id="aspace_e29b11a7b0dc6182bc85e9873c739eec" label="Mixed Materials" type="box">3</container>
-            <container id="aspace_ea94d9951acd436138a01252dc45bb6a" parent="aspace_e29b11a7b0dc6182bc85e9873c739eec" type="folder">16</container>
+            <container id="aspace_080bb256d91920ed993eda9d5f4ec1ce" label="Mixed Materials" type="box">3</container>
+            <container id="aspace_b8bb7b05c15fafe45040449fc49d62b5" parent="aspace_080bb256d91920ed993eda9d5f4ec1ce" type="folder">16</container>
           </did>
         </c>
         <c id="aspace_ref72_1pa" level="file">
           <did>
             <unittitle>Literature V: A thru D</unittitle>
             <unitdate normal="1942/1944" type="inclusive">1942–1944</unitdate>
-            <container id="aspace_880dff9d49f4b263bdb97f55a1a84b15" label="Mixed Materials" type="box">3</container>
-            <container id="aspace_b975c9f21d8f04af20615b98eb0d0ce5" parent="aspace_880dff9d49f4b263bdb97f55a1a84b15" type="folder">17</container>
+            <container id="aspace_e71c196aad2cd975c975908b6ad2664d" label="Mixed Materials" type="box">3</container>
+            <container id="aspace_2c4dfd1347bba8175ad5ad7f165e0eec" parent="aspace_e71c196aad2cd975c975908b6ad2664d" type="folder">17</container>
           </did>
         </c>
         <c id="aspace_ref73_1tw" level="file">
           <did>
             <unittitle>Literature VI: M thru P</unittitle>
             <unitdate normal="1942/1944" type="inclusive">1942–1944</unitdate>
-            <container id="aspace_4bd74f1f5e3a1e630c509b72b05854d9" label="Mixed Materials" type="box">3</container>
-            <container id="aspace_3905ff3bd15aff6f3d53189b91158d27" parent="aspace_4bd74f1f5e3a1e630c509b72b05854d9" type="folder">18</container>
+            <container id="aspace_e983b1e829c30ca3e970c31b15623959" label="Mixed Materials" type="box">3</container>
+            <container id="aspace_80bf0c560065a7dfed76f7e613d0c96b" parent="aspace_e983b1e829c30ca3e970c31b15623959" type="folder">18</container>
           </did>
         </c>
         <c id="aspace_ref74_x5k" level="file">
           <did>
             <unittitle>Literature VII: Michael Heidelberger</unittitle>
             <unitdate normal="1943/1943" type="inclusive">1943</unitdate>
-            <container id="aspace_f8abac97e4d6be37d6c8a9e2cc60d865" label="Mixed Materials" type="box">3</container>
-            <container id="aspace_3184f6892b46700c37d8f8e2dde706b3" parent="aspace_f8abac97e4d6be37d6c8a9e2cc60d865" type="folder">19</container>
+            <container id="aspace_26aa5c55a3d888695384d623bbdc8e5c" label="Mixed Materials" type="box">3</container>
+            <container id="aspace_60112fd39055348b43302588271ca415" parent="aspace_26aa5c55a3d888695384d623bbdc8e5c" type="folder">19</container>
           </did>
         </c>
         <c id="aspace_ref75_8au" level="file">
           <did>
             <unittitle>Literature VIII: Edgewood Arsenal</unittitle>
             <unitdate normal="1943/1944" type="inclusive">1943–1944</unitdate>
-            <container id="aspace_214dc585dcb9e22b9a5a39039da01752" label="Mixed Materials" type="box">3</container>
-            <container id="aspace_5b116d215ea7fec995ebb5d06323fff2" parent="aspace_214dc585dcb9e22b9a5a39039da01752" type="folder">20</container>
+            <container id="aspace_2002eb9f1403cbdac1354f4ffce27a1e" label="Mixed Materials" type="box">3</container>
+            <container id="aspace_1cb146a29b3e219c0d2856f3fb518ac6" parent="aspace_2002eb9f1403cbdac1354f4ffce27a1e" type="folder">20</container>
           </did>
         </c>
         <c id="aspace_ref76_6qx" level="file">
           <did>
             <unittitle>Literature IX: Howe Laboratory</unittitle>
             <unitdate normal="1942/1944" type="inclusive">1942–1944</unitdate>
-            <container id="aspace_ba3ac6b7fd63af981e9bdaf65ee512ec" label="Mixed Materials" type="box">4</container>
-            <container id="aspace_69fbae187179a96a4210f092d4f06259" parent="aspace_ba3ac6b7fd63af981e9bdaf65ee512ec" type="folder">1</container>
+            <container id="aspace_583426d962020608ba0849bb825dbadd" label="Mixed Materials" type="box">4</container>
+            <container id="aspace_8489dbcb86915496f9d01f82e3b3e96b" parent="aspace_583426d962020608ba0849bb825dbadd" type="folder">1</container>
           </did>
         </c>
         <c id="aspace_ref77_diu" level="file">
           <did>
             <unittitle>Literature X: Salter, William T.</unittitle>
             <unitdate normal="1942/1944" type="inclusive">1942–1944</unitdate>
-            <container id="aspace_aeacc40ca4cf70a48a5d38b9a11150e7" label="Mixed Materials" type="box">4</container>
-            <container id="aspace_9140950ccffc31a3f10b65500aff6dac" parent="aspace_aeacc40ca4cf70a48a5d38b9a11150e7" type="folder">2</container>
+            <container id="aspace_df0fcedaaf726b93856c58935f7095f4" label="Mixed Materials" type="box">4</container>
+            <container id="aspace_b86b4381594ea712fc9ebca5932d65d7" parent="aspace_df0fcedaaf726b93856c58935f7095f4" type="folder">2</container>
           </did>
         </c>
         <c id="aspace_ref78_22l" level="file">
           <did>
             <unittitle>Literature XI: Skipper, H. E.</unittitle>
             <unitdate normal="1943/1943" type="inclusive">1943</unitdate>
-            <container id="aspace_94a6803387da3bfe63fa0655b460cc07" label="Mixed Materials" type="box">4</container>
-            <container id="aspace_c8ac08720e04cd3bd8ca24dab74e748c" parent="aspace_94a6803387da3bfe63fa0655b460cc07" type="folder">3</container>
+            <container id="aspace_d1a568bb251d4a07ef75d03e558c8008" label="Mixed Materials" type="box">4</container>
+            <container id="aspace_daf5c5500d87e7b9a0ff73fe4434604b" parent="aspace_d1a568bb251d4a07ef75d03e558c8008" type="folder">3</container>
           </did>
         </c>
         <c id="aspace_ref79_ff8" level="file">
           <did>
             <unittitle>Literature XII: Porton Reports</unittitle>
             <unitdate normal="1942/1944" type="inclusive">1942–1944</unitdate>
-            <container id="aspace_e4c351711f5f62f74428943b872a32bd" label="Mixed Materials" type="box">4</container>
-            <container id="aspace_d64ea91a0a90084f2fa600e0b5c13c0d" parent="aspace_e4c351711f5f62f74428943b872a32bd" type="folder">4</container>
+            <container id="aspace_f40f41ac2765bc330ccfeef2ae19e909" label="Mixed Materials" type="box">4</container>
+            <container id="aspace_f870bbe4f52bf1ee57fdf3f1d2906b58" parent="aspace_f40f41ac2765bc330ccfeef2ae19e909" type="folder">4</container>
           </did>
         </c>
         <c id="aspace_ref80_4ho" level="file">
           <did>
             <unittitle>Literature XIII: Q thru Z</unittitle>
             <unitdate normal="1941/1944" type="inclusive">1941–1944</unitdate>
-            <container id="aspace_ce1810da6cd009e5dc0284debe22f768" label="Mixed Materials" type="box">4</container>
-            <container id="aspace_9b0963108fc3b20e2057847f59d2b78f" parent="aspace_ce1810da6cd009e5dc0284debe22f768" type="folder">5</container>
+            <container id="aspace_820dbd58810a5b012e981b87712d1520" label="Mixed Materials" type="box">4</container>
+            <container id="aspace_aadf48f308e471f62a6d300a348de302" parent="aspace_820dbd58810a5b012e981b87712d1520" type="folder">5</container>
           </did>
         </c>
         <c id="aspace_ref81_i6u" level="file">
           <did>
             <unittitle>Literature XIV: Wilmer Institute</unittitle>
             <unitdate normal="1942/1943" type="inclusive">1942–1943</unitdate>
-            <container id="aspace_6723100cb64f1f903aa1bee8acf68a67" label="Mixed Materials" type="box">4</container>
-            <container id="aspace_ccb0a04d322df88bf06c00ff3c477b46" parent="aspace_6723100cb64f1f903aa1bee8acf68a67" type="folder">6</container>
+            <container id="aspace_4dcdf578ffe512ecae0f34cf229b3c65" label="Mixed Materials" type="box">4</container>
+            <container id="aspace_655e21478a6652994a2b318965e3a982" parent="aspace_4dcdf578ffe512ecae0f34cf229b3c65" type="folder">6</container>
           </did>
         </c>
         <c id="aspace_ref82_r1j" level="file">
           <did>
             <unittitle>M</unittitle>
             <unitdate normal="1941/1944" type="inclusive">1941–1944</unitdate>
-            <container id="aspace_0a7c33e7ae65ff16f782d81b4bd61699" label="Mixed Materials" type="box">4</container>
-            <container id="aspace_ed8f3f1ca69af927dcba8036d7800d5e" parent="aspace_0a7c33e7ae65ff16f782d81b4bd61699" type="folder">7</container>
+            <container id="aspace_d14f844b1a0144b01badd1e0208af97d" label="Mixed Materials" type="box">4</container>
+            <container id="aspace_7d1e37411bd1015097ec9bc1fc6e81da" parent="aspace_d14f844b1a0144b01badd1e0208af97d" type="folder">7</container>
           </did>
         </c>
         <c id="aspace_ref83_846" level="file">
           <did>
             <unittitle>Mail</unittitle>
             <unitdate normal="1941/1944" type="inclusive">1941–1944</unitdate>
-            <container id="aspace_a1bf5d0b4fa735168661f90faacd5edd" label="Mixed Materials" type="box">4</container>
-            <container id="aspace_959123e80bbfe20919494e25fe93d44e" parent="aspace_a1bf5d0b4fa735168661f90faacd5edd" type="folder">8</container>
+            <container id="aspace_e878759cf905ab5e8c5f55d570128352" label="Mixed Materials" type="box">4</container>
+            <container id="aspace_f634eca4cf69c72911b702da609e927b" parent="aspace_e878759cf905ab5e8c5f55d570128352" type="folder">8</container>
           </did>
         </c>
         <c id="aspace_ref84_71s" level="file">
           <did>
             <unittitle>Material Received</unittitle>
             <unitdate normal="1942/1942" type="inclusive">1942</unitdate>
-            <container id="aspace_81a7084c8818446e29797734ba20c4fb" label="Mixed Materials" type="box">4</container>
-            <container id="aspace_166db52f6d8316186ec05e612a601302" parent="aspace_81a7084c8818446e29797734ba20c4fb" type="folder">9</container>
+            <container id="aspace_c9f8ce609ba9aef33cba64c7a6a2f2ef" label="Mixed Materials" type="box">4</container>
+            <container id="aspace_b3aa3856cebd9fa846240c57ea724b11" parent="aspace_c9f8ce609ba9aef33cba64c7a6a2f2ef" type="folder">9</container>
           </did>
         </c>
         <c id="aspace_ref85_gml" level="file">
           <did>
             <unittitle>McClean, Franklin C.</unittitle>
             <unitdate normal="1942/1944" type="inclusive">1942–1944</unitdate>
-            <container id="aspace_7c8d155f4c5ecb72364e7228b660e184" label="Mixed Materials" type="box">4</container>
-            <container id="aspace_14c0a83dbc09b39f0925be45a9695ef9" parent="aspace_7c8d155f4c5ecb72364e7228b660e184" type="folder">10</container>
+            <container id="aspace_0284d4a8e0a9e97422f814e96c739079" label="Mixed Materials" type="box">4</container>
+            <container id="aspace_acadc1f24424e37a772ff5e5b88d8e65" parent="aspace_0284d4a8e0a9e97422f814e96c739079" type="folder">10</container>
           </did>
         </c>
         <c id="aspace_ref86_xjg" level="file">
           <did>
             <unittitle>McMaster, Philip D.</unittitle>
             <unitdate normal="1942/1944" type="inclusive">1942–1944</unitdate>
-            <container id="aspace_552796f8c3c7af50cac9846628924827" label="Mixed Materials" type="box">4</container>
-            <container id="aspace_800ddd0efc5bce84f5a51fd11660aa60" parent="aspace_552796f8c3c7af50cac9846628924827" type="folder">11</container>
+            <container id="aspace_8bcd6bfd6aa9357238b8add1a065df1a" label="Mixed Materials" type="box">4</container>
+            <container id="aspace_d5964f92ea5f040d918802efe1561dcc" parent="aspace_8bcd6bfd6aa9357238b8add1a065df1a" type="folder">11</container>
           </did>
         </c>
         <c id="aspace_ref87_t5g" level="file">
           <did>
             <unittitle>Me</unittitle>
             <unitdate normal="1942/1944" type="inclusive">1942–1944</unitdate>
-            <container id="aspace_2029152fec3792ff5a30fbecc330379d" label="Mixed Materials" type="box">4</container>
-            <container id="aspace_6d5cb18d44c15e972210fa59986193eb" parent="aspace_2029152fec3792ff5a30fbecc330379d" type="folder">12</container>
+            <container id="aspace_ffbf1306188931d7e29d3c04ccaa2fd0" label="Mixed Materials" type="box">4</container>
+            <container id="aspace_3efad3d621e9e1c2e88fdb8b042b281c" parent="aspace_ffbf1306188931d7e29d3c04ccaa2fd0" type="folder">12</container>
           </did>
         </c>
         <c id="aspace_ref88_mx5" level="file">
@@ -796,16 +796,16 @@
             <did>
               <unittitle>Invitations</unittitle>
               <unitdate type="inclusive">1941–1944</unitdate>
-              <container id="aspace_ca54fc52683819dc393e9758942185aa" label="Mixed Materials" type="box">4</container>
-              <container id="aspace_f66efc699c6a70f3f3f2ceae12206881" parent="aspace_ca54fc52683819dc393e9758942185aa" type="folder">13</container>
+              <container id="aspace_3f8e24b599bd52078844c8f141549919" label="Mixed Materials" type="box">4</container>
+              <container id="aspace_baed92c062fbb3e86fef4b3a5a320ee2" parent="aspace_3f8e24b599bd52078844c8f141549919" type="folder">13</container>
             </did>
           </c>
           <c id="aspace_ref90_4ln" level="file">
             <did>
               <unittitle>Minutes and Notes</unittitle>
               <unitdate type="inclusive">1942–1944</unitdate>
-              <container id="aspace_f588a3eb55b00fb6bd275ab5698c4e9b" label="Mixed Materials" type="box">4</container>
-              <container id="aspace_f448bdc4dcc477d32511a3c6a48883b7" parent="aspace_f588a3eb55b00fb6bd275ab5698c4e9b" type="folder">14</container>
+              <container id="aspace_0a1eb052c841ffae5ab1d9e281a1f6e7" label="Mixed Materials" type="box">4</container>
+              <container id="aspace_48e5115cac5d4c70712fd85b2c67c5d4" parent="aspace_0a1eb052c841ffae5ab1d9e281a1f6e7" type="folder">14</container>
             </did>
           </c>
         </c>
@@ -813,100 +813,100 @@
           <did>
             <unittitle>Moore, Stanford </unittitle>
             <unitdate normal="1942/1946" type="inclusive">undated, 1942–1946</unitdate>
-            <container id="aspace_aac50702018982a196a619676bbb8ba5" label="Mixed Materials" type="box">4</container>
-            <container id="aspace_ab0f529ccc4e24370b0944f491a47aba" parent="aspace_aac50702018982a196a619676bbb8ba5" type="folder">15</container>
-            <container id="aspace_5ebf9123c15b003f7e155e7b813962df" label="Mixed Materials" type="box">5</container>
-            <container id="aspace_e54919f7bf01279816d6ca46a7b0bbeb" parent="aspace_5ebf9123c15b003f7e155e7b813962df" type="folder">1</container>
+            <container id="aspace_b87fd55e35034f83c5c0a8fae32e2040" label="Mixed Materials" type="box">4</container>
+            <container id="aspace_e0d6abab1ae0865e5ec2ace789de85cf" parent="aspace_b87fd55e35034f83c5c0a8fae32e2040" type="folder">15</container>
+            <container id="aspace_ae01cd522fa3e045cd71607dc9fd957a" label="Mixed Materials" type="box">5</container>
+            <container id="aspace_594279fb4766ac62de82a33eea38ba72" parent="aspace_ae01cd522fa3e045cd71607dc9fd957a" type="folder">1</container>
           </did>
         </c>
         <c id="aspace_ref92_440" level="file">
           <did>
             <unittitle>N</unittitle>
             <unitdate normal="1941/1946" type="inclusive">1941–1946</unitdate>
-            <container id="aspace_45aa17411a545ff990b273c7e44d5b6a" label="Mixed Materials" type="box">5</container>
-            <container id="aspace_f3a18c076f7f9a70f1718478d789d8b6" parent="aspace_45aa17411a545ff990b273c7e44d5b6a" type="folder">2</container>
+            <container id="aspace_a081ff4d74b0c282c58a6d6023831e8a" label="Mixed Materials" type="box">5</container>
+            <container id="aspace_3f1c80dcfb14411b9fae75ab64271c03" parent="aspace_a081ff4d74b0c282c58a6d6023831e8a" type="folder">2</container>
           </did>
         </c>
         <c id="aspace_ref93_mdy" level="file">
           <did>
             <unittitle>Nagy, Stephen</unittitle>
             <unitdate normal="1942/1944" type="inclusive">1942–1944</unitdate>
-            <container id="aspace_b07b8fb7adbe394fa982cdd73187714e" label="Mixed Materials" type="box">5</container>
-            <container id="aspace_ace920cb6418c56d75ee17229b8f15a5" parent="aspace_b07b8fb7adbe394fa982cdd73187714e" type="folder">3</container>
+            <container id="aspace_03e547efc005162d542a67cd785af98b" label="Mixed Materials" type="box">5</container>
+            <container id="aspace_c631fcf5963eaa1704ef44afde6402a7" parent="aspace_03e547efc005162d542a67cd785af98b" type="folder">3</container>
           </did>
         </c>
         <c id="aspace_ref94_uvd" level="file">
           <did>
             <unittitle>Northrop, John H.</unittitle>
             <unitdate normal="1941/1944" type="inclusive">1941–1944</unitdate>
-            <container id="aspace_93d886d73ebe45fc2fe77a442c7ac140" label="Mixed Materials" type="box">5</container>
-            <container id="aspace_56070e02b9c32189d280dc8c99c86ead" parent="aspace_93d886d73ebe45fc2fe77a442c7ac140" type="folder">4</container>
+            <container id="aspace_d9fef6649ce54b86d203963c4293b819" label="Mixed Materials" type="box">5</container>
+            <container id="aspace_27e009a1985a5f6d4541e0941b790c42" parent="aspace_d9fef6649ce54b86d203963c4293b819" type="folder">4</container>
           </did>
         </c>
         <c id="aspace_ref95_qg0" level="file">
           <did>
             <unittitle>O</unittitle>
             <unitdate normal="1941/1945" type="inclusive">1941–1945</unitdate>
-            <container id="aspace_1604cda27cd4110b9becef76da273d74" label="Mixed Materials" type="box">5</container>
-            <container id="aspace_999359f2be251bed50dd70233646424a" parent="aspace_1604cda27cd4110b9becef76da273d74" type="folder">5</container>
+            <container id="aspace_daf362831aaeac80b01280455e351fbc" label="Mixed Materials" type="box">5</container>
+            <container id="aspace_2153642be23a1293f6255dc486d3a7ee" parent="aspace_daf362831aaeac80b01280455e351fbc" type="folder">5</container>
           </did>
         </c>
         <c id="aspace_ref96_iqk" level="file">
           <did>
             <unittitle>Office Memorandum (2 folders)</unittitle>
             <unitdate normal="1940/1945" type="inclusive">1940–1945</unitdate>
-            <container id="aspace_c40761d564059a4feec218e5bb61f71e" label="Mixed Materials" type="box">5</container>
-            <container id="aspace_32355fc3ba531e55115a0a8cb85e3ba6" parent="aspace_c40761d564059a4feec218e5bb61f71e" type="folder">6</container>
-            <container id="aspace_031924614e52a431a7663811719c1e84" label="Mixed Materials" type="box">5</container>
-            <container id="aspace_e480095b251da0a4fcf6b63d6742b119" parent="aspace_031924614e52a431a7663811719c1e84" type="folder">7</container>
+            <container id="aspace_289dd399bfdde5439d4345eb52ef21c7" label="Mixed Materials" type="box">5</container>
+            <container id="aspace_966623ce0926dfe04c2809bca99ac560" parent="aspace_289dd399bfdde5439d4345eb52ef21c7" type="folder">6</container>
+            <container id="aspace_b62ee1bb96e5fd5dec3460b39085f9d3" label="Mixed Materials" type="box">5</container>
+            <container id="aspace_185e26df7d8f9cc8093b620302bbe702" parent="aspace_b62ee1bb96e5fd5dec3460b39085f9d3" type="folder">7</container>
           </did>
         </c>
         <c id="aspace_ref97_pb4" level="file">
           <did>
             <unittitle>P</unittitle>
             <unitdate normal="1941/1944" type="inclusive">1941–1944</unitdate>
-            <container id="aspace_364c140a55155fb2f1a57444af227aa3" label="Mixed Materials" type="box">5</container>
-            <container id="aspace_59a4c5a475e50116995b89962e41c051" parent="aspace_364c140a55155fb2f1a57444af227aa3" type="folder">8</container>
+            <container id="aspace_1db0e1ccf65256f1d672721e034e9737" label="Mixed Materials" type="box">5</container>
+            <container id="aspace_5f7c36b97e6653bfadfd5bceda66b767" parent="aspace_1db0e1ccf65256f1d672721e034e9737" type="folder">8</container>
           </did>
         </c>
         <c id="aspace_ref98_ckk" level="file">
           <did>
             <unittitle>Pending</unittitle>
             <unitdate normal="1942/1946" type="inclusive">1942–1946</unitdate>
-            <container id="aspace_c05962fbeff0503c210865931736852b" label="Mixed Materials" type="box">5</container>
-            <container id="aspace_27579c802d9f6a1a506e6ff9a8ec6ba2" parent="aspace_c05962fbeff0503c210865931736852b" type="folder">9</container>
+            <container id="aspace_1bd636a45dd0e3cf2f29342ae0cbd513" label="Mixed Materials" type="box">5</container>
+            <container id="aspace_f41d50bf22cc29b912388a3c3ee032b4" parent="aspace_1bd636a45dd0e3cf2f29342ae0cbd513" type="folder">9</container>
           </did>
         </c>
         <c id="aspace_ref99_ixu" level="file">
           <did>
             <unittitle>Penetration Work</unittitle>
             <unitdate normal="1943/1944" type="inclusive">1943–1944</unitdate>
-            <container id="aspace_7f486fddc968e12770cc14d40b4deb10" label="Mixed Materials" type="box">5</container>
-            <container id="aspace_37937d99b469b5c46c1e67f6d28eb45e" parent="aspace_7f486fddc968e12770cc14d40b4deb10" type="folder">10</container>
+            <container id="aspace_659cc0b4f10f3715b098190c11d447f0" label="Mixed Materials" type="box">5</container>
+            <container id="aspace_09514ee8610ecceb6bc39e6517153d97" parent="aspace_659cc0b4f10f3715b098190c11d447f0" type="folder">10</container>
           </did>
         </c>
         <c id="aspace_ref100_yhh" level="file">
           <did>
             <unittitle>Q</unittitle>
             <unitdate normal="1942/1944" type="inclusive">1942–1944</unitdate>
-            <container id="aspace_e080bf58adec4bdee90e3d0879750903" label="Mixed Materials" type="box">5</container>
-            <container id="aspace_3b9ed400a3e28a99d5f279495d1111ed" parent="aspace_e080bf58adec4bdee90e3d0879750903" type="folder">11</container>
+            <container id="aspace_e4e782ed358ae7598bf695f89c349d75" label="Mixed Materials" type="box">5</container>
+            <container id="aspace_037b9d96e515893449e46e678946fee9" parent="aspace_e4e782ed358ae7598bf695f89c349d75" type="folder">11</container>
           </did>
         </c>
         <c id="aspace_ref101_1iw" level="file">
           <did>
             <unittitle>R</unittitle>
             <unitdate normal="1942/1945" type="inclusive">1942–1945</unitdate>
-            <container id="aspace_3b7caa37beba5806081e250e81b16e8d" label="Mixed Materials" type="box">5</container>
-            <container id="aspace_c0391fd3934fca0ebb0babb3ffcbce6b" parent="aspace_3b7caa37beba5806081e250e81b16e8d" type="folder">12</container>
+            <container id="aspace_e61cc912383beaa110cc05fd95571dda" label="Mixed Materials" type="box">5</container>
+            <container id="aspace_7b9a74b60cea9c9c47a5582bf43c3efd" parent="aspace_e61cc912383beaa110cc05fd95571dda" type="folder">12</container>
           </did>
         </c>
         <c id="aspace_ref102_bbs" level="file">
           <did>
             <unittitle>Renshaw, Birdseye</unittitle>
             <unitdate normal="1943/1945" type="inclusive">1943–1945</unitdate>
-            <container id="aspace_33d49bc687f6d245c4d1714e71b05480" label="Mixed Materials" type="box">5</container>
-            <container id="aspace_1050ed87f4cbb6c1c22d122df8d8b8a8" parent="aspace_33d49bc687f6d245c4d1714e71b05480" type="folder">13</container>
+            <container id="aspace_d85e9ff620f45c06251f5a5dcc4ea018" label="Mixed Materials" type="box">5</container>
+            <container id="aspace_af0c3e3054771c44b082f7c6d4c110f2" parent="aspace_d85e9ff620f45c06251f5a5dcc4ea018" type="folder">13</container>
           </did>
         </c>
         <c id="aspace_ref103_l9f" level="file">
@@ -917,84 +917,84 @@
             <did>
               <unittitle>A reports</unittitle>
               <unitdate normal="1942/1944" type="inclusive">1942–1944</unitdate>
-              <container id="aspace_a7d956245de268a6466a5c97d78ecad3" label="Mixed Materials" type="box">5</container>
-              <container id="aspace_a92ce541adfe6ede0ac649024bd453d6" parent="aspace_a7d956245de268a6466a5c97d78ecad3" type="folder">14</container>
+              <container id="aspace_423449ade04f1d58d53980c11c9768c5" label="Mixed Materials" type="box">5</container>
+              <container id="aspace_72592e8dbefe5eab656a28c446e79418" parent="aspace_423449ade04f1d58d53980c11c9768c5" type="folder">14</container>
             </did>
           </c>
           <c id="aspace_ref105_xmi" level="file">
             <did>
               <unittitle>B reports (2 folders)</unittitle>
               <unitdate normal="1941/1945" type="inclusive">1941–1945</unitdate>
-              <container id="aspace_adf692ecb0e5aed8e1091b026a116ed1" label="Mixed Materials" type="box">6</container>
-              <container id="aspace_0dfc94481a46426139ae7d1e57e2752e" parent="aspace_adf692ecb0e5aed8e1091b026a116ed1" type="folder">1</container>
-              <container id="aspace_3f4c7e3012e410771d80ad472261540a" label="Mixed Materials" type="box">6</container>
-              <container id="aspace_b13806d913bb2538cef9527b7f1ca698" parent="aspace_3f4c7e3012e410771d80ad472261540a" type="folder">2</container>
+              <container id="aspace_dfdc8de69fd7cb4712be40df3877b00f" label="Mixed Materials" type="box">6</container>
+              <container id="aspace_f481b50d9602e99663ba87326de48855" parent="aspace_dfdc8de69fd7cb4712be40df3877b00f" type="folder">1</container>
+              <container id="aspace_d5ee318afb1de096ee29ae1d4f0aabec" label="Mixed Materials" type="box">6</container>
+              <container id="aspace_8f455f37ffc472cab4dab2c17771b5a7" parent="aspace_d5ee318afb1de096ee29ae1d4f0aabec" type="folder">2</container>
             </did>
           </c>
           <c id="aspace_ref106_2ss" level="file">
             <did>
               <unittitle>Bushnell Weekly News Letters</unittitle>
               <unitdate normal="1944/1945" type="inclusive">1944–1945</unitdate>
-              <container id="aspace_d4181020b4108e4476a75275ed86452c" label="Mixed Materials" type="box">6</container>
-              <container id="aspace_096c7d0ef5f1086baf900ef087107adf" parent="aspace_d4181020b4108e4476a75275ed86452c" type="folder">3</container>
+              <container id="aspace_5b9ef64b3662dfe4a31995ed8e523793" label="Mixed Materials" type="box">6</container>
+              <container id="aspace_97c79aae1b797dc76272fcf6712d395b" parent="aspace_5b9ef64b3662dfe4a31995ed8e523793" type="folder">3</container>
             </did>
           </c>
           <c id="aspace_ref107_bbo" level="file">
             <did>
               <unittitle>C reports</unittitle>
               <unitdate normal="1942/1945" type="inclusive">1942–1945</unitdate>
-              <container id="aspace_d4ca7eca2d9c2b2e498b7e6b47b4488d" label="Mixed Materials" type="box">6</container>
-              <container id="aspace_fc38cf5a665d5849b670eb996df78724" parent="aspace_d4ca7eca2d9c2b2e498b7e6b47b4488d" type="folder">4</container>
+              <container id="aspace_06d9a4ca44476d10604139757d778b7d" label="Mixed Materials" type="box">6</container>
+              <container id="aspace_5526402835eb07724a4fbc795a6d4e21" parent="aspace_06d9a4ca44476d10604139757d778b7d" type="folder">4</container>
             </did>
           </c>
           <c id="aspace_ref108_mjt" level="file">
             <did>
               <unittitle>CMR Reports</unittitle>
               <unitdate normal="1943/1945" type="inclusive">1943–1945</unitdate>
-              <container id="aspace_cf19a97a2025553a744ad97ebba1f870" label="Mixed Materials" type="box">6</container>
-              <container id="aspace_08fd9fd54c5b1494d45ad04b288751a0" parent="aspace_cf19a97a2025553a744ad97ebba1f870" type="folder">5</container>
+              <container id="aspace_e1770104b3d2af613b67c77f46d545ff" label="Mixed Materials" type="box">6</container>
+              <container id="aspace_c0205d2796cca2e1dd70ac107c56a860" parent="aspace_e1770104b3d2af613b67c77f46d545ff" type="folder">5</container>
             </did>
           </c>
           <c id="aspace_ref109_nq7" level="file">
             <did>
               <unittitle>Miscellaneous</unittitle>
               <unitdate normal="1942/1946" type="inclusive">1942–1946</unitdate>
-              <container id="aspace_c0d07d0788b6a0e1043adaa9c18b62fa" label="Mixed Materials" type="box">6</container>
-              <container id="aspace_eb26154c9a17924ebb575447ca828353" parent="aspace_c0d07d0788b6a0e1043adaa9c18b62fa" type="folder">6</container>
+              <container id="aspace_88e79083b20292062b35e3e938af53e3" label="Mixed Materials" type="box">6</container>
+              <container id="aspace_39fb7668290bed79d3be6780a3b743a7" parent="aspace_88e79083b20292062b35e3e938af53e3" type="folder">6</container>
             </did>
           </c>
           <c id="aspace_ref110_j9l" level="file">
             <did>
               <unittitle>Moore, Stanford</unittitle>
               <unitdate normal="1943/1944" type="inclusive">1943–1944</unitdate>
-              <container id="aspace_87f5e30ffddf2b0e207054f2024d3448" label="Mixed Materials" type="box">6</container>
-              <container id="aspace_42d1d36e7d057cd68df1c33aa5e96edf" parent="aspace_87f5e30ffddf2b0e207054f2024d3448" type="folder">7</container>
+              <container id="aspace_38900b95e4aeb1bf87111d3f1f08da9a" label="Mixed Materials" type="box">6</container>
+              <container id="aspace_138976a6f47abec35a80c02350e0491b" parent="aspace_38900b95e4aeb1bf87111d3f1f08da9a" type="folder">7</container>
             </did>
           </c>
           <c id="aspace_ref111_c57" level="file">
             <did>
               <unittitle>Progress Reports</unittitle>
               <unitdate normal="1942/1945" type="inclusive">1942–1945</unitdate>
-              <container id="aspace_9e69e52b5c49b8e7d2d95f568621a7aa" label="Mixed Materials" type="box">7</container>
-              <container id="aspace_547edbde0d3686a914b92ca59035bd72" parent="aspace_9e69e52b5c49b8e7d2d95f568621a7aa" type="folder">1</container>
+              <container id="aspace_e08de766f321468c7633166d9bde1540" label="Mixed Materials" type="box">7</container>
+              <container id="aspace_e9a88d817526dc04fe7ff26eb8028961" parent="aspace_e08de766f321468c7633166d9bde1540" type="folder">1</container>
             </did>
           </c>
           <c id="aspace_ref112_kii" level="file">
             <did>
               <unittitle>Reports Returned to Washington</unittitle>
               <unitdate normal="1946/1946" type="inclusive">1946</unitdate>
-              <container id="aspace_6b030ba995f421e03d05cbf4544f6250" label="Mixed Materials" type="box">7</container>
-              <container id="aspace_909843fc65fae8c84aeec7f6befca6c3" parent="aspace_6b030ba995f421e03d05cbf4544f6250" type="folder">2</container>
+              <container id="aspace_2b49ca4dcdfcc0528a11955af7a9c82b" label="Mixed Materials" type="box">7</container>
+              <container id="aspace_fce4b77e23cfe1bde1c4d19a4f452bf3" parent="aspace_2b49ca4dcdfcc0528a11955af7a9c82b" type="folder">2</container>
             </did>
           </c>
           <c id="aspace_ref113_g3k" level="file">
             <did>
               <unittitle>Special Reports (2 folders)</unittitle>
               <unitdate normal="1942/1945" type="inclusive">1942–1945</unitdate>
-              <container id="aspace_cdc3d116d91d621869a39bb9464612fa" label="Mixed Materials" type="box">7</container>
-              <container id="aspace_abda33d23a85bc1a9dd331be23494f3f" parent="aspace_cdc3d116d91d621869a39bb9464612fa" type="folder">3</container>
-              <container id="aspace_bdc89beeecfefc7a04ffb037a1f6dc0b" label="Mixed Materials" type="box">7</container>
-              <container id="aspace_d20905322acbe84a33e5e4226cddbfa8" parent="aspace_bdc89beeecfefc7a04ffb037a1f6dc0b" type="folder">4</container>
+              <container id="aspace_9674c96695e2c3c70005634e75d612ff" label="Mixed Materials" type="box">7</container>
+              <container id="aspace_294ede9b38d9cf445bf53f4850e6b3c4" parent="aspace_9674c96695e2c3c70005634e75d612ff" type="folder">3</container>
+              <container id="aspace_6f1ba9f9bec276bd03fdf0d87d49d7aa" label="Mixed Materials" type="box">7</container>
+              <container id="aspace_30ebbda40f9cc87a7fa534a11b63ce7b" parent="aspace_6f1ba9f9bec276bd03fdf0d87d49d7aa" type="folder">4</container>
             </did>
           </c>
         </c>
@@ -1006,8 +1006,8 @@
             <did>
               <unittitle>9:5:1</unittitle>
               <unitdate normal="1942/1945" type="inclusive">1942–1945</unitdate>
-              <container id="aspace_f0b02dfbf1ed8199156d7e97174e78d3" label="Mixed Materials" type="box">7</container>
-              <container id="aspace_270cb68083c5f189372e10afa2c6e3dc" parent="aspace_f0b02dfbf1ed8199156d7e97174e78d3" type="folder">5</container>
+              <container id="aspace_cb8019ef8ac972635ee32e63c45ef6f8" label="Mixed Materials" type="box">7</container>
+              <container id="aspace_d50d63e8245ec2f74b99f1c9992cf299" parent="aspace_cb8019ef8ac972635ee32e63c45ef6f8" type="folder">5</container>
             </did>
             <fileplan id="aspace_79433624f29a670f4b0f71cfd3ca24b2">
               <head>File Plan</head>
@@ -1018,8 +1018,8 @@
             <did>
               <unittitle>Borrowed Log</unittitle>
               <unitdate normal="1944/1945" type="inclusive">1944–1945</unitdate>
-              <container id="aspace_46252dbbfe877c30f12e0c4fc942ff4d" label="Mixed Materials" type="box">7</container>
-              <container id="aspace_2a26ae1592afadc40dc4cf28d1dff4b8" parent="aspace_46252dbbfe877c30f12e0c4fc942ff4d" type="folder">6</container>
+              <container id="aspace_1221dd51c2da60dd234ee971b6a20e11" label="Mixed Materials" type="box">7</container>
+              <container id="aspace_447d77500dd3c25f9afdc122b32ce5b8" parent="aspace_1221dd51c2da60dd234ee971b6a20e11" type="folder">6</container>
             </did>
             <fileplan id="aspace_09435ffccc3ce6483ba430fc2d9448d9">
               <head>File Plan</head>
@@ -1030,8 +1030,8 @@
             <did>
               <unittitle>CMR</unittitle>
               <unitdate normal="1943/1945" type="inclusive">1943–1945</unitdate>
-              <container id="aspace_5e9794d948262ec8b25be05d98b82b65" label="Mixed Materials" type="box">7</container>
-              <container id="aspace_21e4d8e4231c05b1af10a5ed8ac29ed9" parent="aspace_5e9794d948262ec8b25be05d98b82b65" type="folder">7</container>
+              <container id="aspace_7764a1f94eb4b574f3de78029c889c8a" label="Mixed Materials" type="box">7</container>
+              <container id="aspace_a83371d79394eedaa6b45923845c52b5" parent="aspace_7764a1f94eb4b574f3de78029c889c8a" type="folder">7</container>
             </did>
             <fileplan id="aspace_7f89b2aab3be3c36e308f523b8695b6f">
               <head>File Plan</head>
@@ -1042,8 +1042,8 @@
             <did>
               <unittitle>Disposition of Extra Copies</unittitle>
               <unitdate normal="1942/1945" type="inclusive">1942–1945</unitdate>
-              <container id="aspace_0f02ee3ede5bece2a2aeb19445ad7255" label="Mixed Materials" type="box">7</container>
-              <container id="aspace_ddc13b23a59e11cea3141eba42b1acc7" parent="aspace_0f02ee3ede5bece2a2aeb19445ad7255" type="folder">8</container>
+              <container id="aspace_2c6975b1a9a70853fcfaa0c5f7ed8b4a" label="Mixed Materials" type="box">7</container>
+              <container id="aspace_cc5e4d0a429951b7e80d708d5ac34290" parent="aspace_2c6975b1a9a70853fcfaa0c5f7ed8b4a" type="folder">8</container>
             </did>
             <fileplan id="aspace_aaf2a977d0362e8ae9490a40cde0cdd9">
               <head>File Plan</head>
@@ -1054,8 +1054,8 @@
             <did>
               <unittitle>Received, A–B–C</unittitle>
               <unitdate normal="1942/1945" type="inclusive">1942–1945</unitdate>
-              <container id="aspace_0c107d48716be9b4ed55b45a29a47ccb" label="Mixed Materials" type="box">7</container>
-              <container id="aspace_4a998d997a0a2927944854b2ac3d8140" parent="aspace_0c107d48716be9b4ed55b45a29a47ccb" type="folder">9</container>
+              <container id="aspace_e853a3f031a030dd050ad1c826530d31" label="Mixed Materials" type="box">7</container>
+              <container id="aspace_650612484749f816cb2f7fe2bb90916e" parent="aspace_e853a3f031a030dd050ad1c826530d31" type="folder">9</container>
             </did>
             <fileplan id="aspace_26603437e2364f469cf020f051f0e04b">
               <head>File Plan</head>
@@ -1066,8 +1066,8 @@
             <did>
               <unittitle>Received Log</unittitle>
               <unitdate normal="1943/1945" type="inclusive">1943–1945</unitdate>
-              <container id="aspace_0f083e971d818f46c725d04638831a6e" label="Mixed Materials" type="box">7</container>
-              <container id="aspace_e5aa961dc978bb162fe53d6bf2579836" parent="aspace_0f083e971d818f46c725d04638831a6e" type="folder">10</container>
+              <container id="aspace_60d6b2fd5dc0520c255c4d9b1e619290" label="Mixed Materials" type="box">7</container>
+              <container id="aspace_4a3863bbaac346c63b067cbe3266e6a2" parent="aspace_60d6b2fd5dc0520c255c4d9b1e619290" type="folder">10</container>
             </did>
             <fileplan id="aspace_6dba95a6c9f4d3cd55439be2cca0c6fd">
               <head>File Plan</head>
@@ -1078,12 +1078,12 @@
             <did>
               <unittitle>Received, Other Progress Reports (3 folders)</unittitle>
               <unitdate normal="1942/1945" type="inclusive">1942–1945</unitdate>
-              <container id="aspace_dad8f8ae2a4bc96e18028e8d258fe206" label="Mixed Materials" type="box">8</container>
-              <container id="aspace_1aa887f6780c5f91e3db8df8a72fe530" parent="aspace_dad8f8ae2a4bc96e18028e8d258fe206" type="folder">1</container>
-              <container id="aspace_895721dd2e6a64775a00065ca802cc9e" label="Mixed Materials" type="box">8</container>
-              <container id="aspace_bbfbc4d14e1c9e3b87c276cc7ae1d87b" parent="aspace_895721dd2e6a64775a00065ca802cc9e" type="folder">2</container>
-              <container id="aspace_0589ba48c9ac072b61e8b404668c796b" label="Mixed Materials" type="box">7</container>
-              <container id="aspace_f49fc2d34ea7ebdedd24062ab46d8cb8" parent="aspace_0589ba48c9ac072b61e8b404668c796b" type="folder">11</container>
+              <container id="aspace_e4c174d6c1a8f0b81499fac55686c4c2" label="Mixed Materials" type="box">8</container>
+              <container id="aspace_7c7fe9aef0b67b51f7e8ecd634124f9a" parent="aspace_e4c174d6c1a8f0b81499fac55686c4c2" type="folder">1</container>
+              <container id="aspace_68478529da5e9b8fc9dd4bc1d885a26e" label="Mixed Materials" type="box">8</container>
+              <container id="aspace_5d3e5497d2abe1b1fffadeaf94322c4c" parent="aspace_68478529da5e9b8fc9dd4bc1d885a26e" type="folder">2</container>
+              <container id="aspace_4105160d55f1432c11d9c10ba501d623" label="Mixed Materials" type="box">7</container>
+              <container id="aspace_62929e16a7165770d63ff6c15a363394" parent="aspace_4105160d55f1432c11d9c10ba501d623" type="folder">11</container>
             </did>
             <fileplan id="aspace_702d07424d3dba1444b4ea4cda4654d0">
               <head>File Plan</head>
@@ -1098,8 +1098,8 @@
             <did>
               <unittitle>Returned to Washington</unittitle>
               <unitdate normal="1946/1946" type="inclusive">1946</unitdate>
-              <container id="aspace_b2c0881a0d58c1cce789a80fc2049b3a" label="Mixed Materials" type="box">8</container>
-              <container id="aspace_d1602b0865f169be22f013fe90d1d93a" parent="aspace_b2c0881a0d58c1cce789a80fc2049b3a" type="folder">3</container>
+              <container id="aspace_0310e5af6bda403c198f6518dcd062b7" label="Mixed Materials" type="box">8</container>
+              <container id="aspace_21de3657b8deacf1592726b55d8911ad" parent="aspace_0310e5af6bda403c198f6518dcd062b7" type="folder">3</container>
             </did>
           </c>
         </c>
@@ -1107,42 +1107,42 @@
           <did>
             <unittitle>S</unittitle>
             <unitdate normal="1941/1945" type="inclusive">1941–1945</unitdate>
-            <container id="aspace_696036a8a33e0a4f02b874f673deb109" label="Mixed Materials" type="box">8</container>
-            <container id="aspace_04e4d53c76ac6d62b403b360817925aa" parent="aspace_696036a8a33e0a4f02b874f673deb109" type="folder">4</container>
+            <container id="aspace_d05ee7e0b25c7307407e0a91bebb4481" label="Mixed Materials" type="box">8</container>
+            <container id="aspace_c54cdd60633fd33d5f9fbd2f4d6e0fdf" parent="aspace_d05ee7e0b25c7307407e0a91bebb4481" type="folder">4</container>
           </did>
         </c>
         <c id="aspace_ref124_l1u" level="file">
           <did>
             <unittitle>S 1130 Compound</unittitle>
             <unitdate normal="1942/1943" type="inclusive">1942–1943</unitdate>
-            <container id="aspace_b453ea4162cae37981b26db37669eac4" label="Mixed Materials" type="box">8</container>
-            <container id="aspace_28fbf3b5e8f52831d44c1f997c82181d" parent="aspace_b453ea4162cae37981b26db37669eac4" type="folder">5</container>
+            <container id="aspace_36b44f533cf7086ca50e77f87730761c" label="Mixed Materials" type="box">8</container>
+            <container id="aspace_b4363b36d98a7a36f51dcf5eddfa5f66" parent="aspace_36b44f533cf7086ca50e77f87730761c" type="folder">5</container>
           </did>
         </c>
         <c id="aspace_ref125_wwb" level="file">
           <did>
             <unittitle>Samples: Received and Sent Out</unittitle>
             <unitdate normal="1942/1944" type="inclusive">1942–1944</unitdate>
-            <container id="aspace_3d9610082eb6a04ceee2d38e3c0e2822" label="Mixed Materials" type="box">8</container>
-            <container id="aspace_64da3b59a1b6b66da9c606c0edb83e63" parent="aspace_3d9610082eb6a04ceee2d38e3c0e2822" type="folder">6</container>
+            <container id="aspace_a6ae218be0e42d1bc53b49e27591827d" label="Mixed Materials" type="box">8</container>
+            <container id="aspace_6ac958e1fff28e50ede5b9f484c2a4c3" parent="aspace_a6ae218be0e42d1bc53b49e27591827d" type="folder">6</container>
           </did>
         </c>
         <c id="aspace_ref126_c4n" level="file">
           <did>
             <unittitle>Selective Service Deferment (2 folders)</unittitle>
             <unitdate normal="1941/1945" type="inclusive">1941–1945</unitdate>
-            <container id="aspace_72bd04cae0df575708d4578193f049a3" label="Mixed Materials" type="box">8</container>
-            <container id="aspace_87ace2303c141eff42b2cd02b0fdba4a" parent="aspace_72bd04cae0df575708d4578193f049a3" type="folder">7</container>
-            <container id="aspace_569bf12a3b26b69d731c2d5a3e441993" label="Mixed Materials" type="box">8</container>
-            <container id="aspace_754e610e26847041760e202926d5e123" parent="aspace_569bf12a3b26b69d731c2d5a3e441993" type="folder">8</container>
+            <container id="aspace_4aa86aa0290b8d7ea7d95a7e41d761a8" label="Mixed Materials" type="box">8</container>
+            <container id="aspace_170e8c77cf596d1f5261f5a1c8581423" parent="aspace_4aa86aa0290b8d7ea7d95a7e41d761a8" type="folder">7</container>
+            <container id="aspace_295d348b2c394192bb44bb346092416f" label="Mixed Materials" type="box">8</container>
+            <container id="aspace_7abcda946aae3999671cfea8b9e4a9c7" parent="aspace_295d348b2c394192bb44bb346092416f" type="folder">8</container>
           </did>
         </c>
         <c id="aspace_ref127_76j" level="file">
           <did>
             <unittitle>Shriner, R. L.</unittitle>
             <unitdate normal="1943/1943" type="inclusive">1943</unitdate>
-            <container id="aspace_aef96b7a912e577338b18ca9c492d2f9" label="Mixed Materials" type="box">8</container>
-            <container id="aspace_a252262990b99f5eae8ddae6ffc608bc" parent="aspace_aef96b7a912e577338b18ca9c492d2f9" type="folder">9</container>
+            <container id="aspace_e7ed5e4aa45b059f0b3cfbf0c6151cc4" label="Mixed Materials" type="box">8</container>
+            <container id="aspace_1b57d338e941127dd49d092a9c17cfd5" parent="aspace_e7ed5e4aa45b059f0b3cfbf0c6151cc4" type="folder">9</container>
           </did>
         </c>
         <c id="aspace_ref128_a3a" level="file">
@@ -1153,32 +1153,32 @@
             <did>
               <unittitle>I. Miscellaneous Correspondence</unittitle>
               <unitdate normal="1942/1945" type="inclusive">1942–1945</unitdate>
-              <container id="aspace_1713093def08627537a1b5fc02c6a349" label="Mixed Materials" type="box">8</container>
-              <container id="aspace_2a5dc9687f76f7167d55babb8b948e18" parent="aspace_1713093def08627537a1b5fc02c6a349" type="folder">10</container>
+              <container id="aspace_34744c8b27ec8a0f1184deed8c10f533" label="Mixed Materials" type="box">8</container>
+              <container id="aspace_5f7f7c85eed1b725a9446c9e504ac1a6" parent="aspace_34744c8b27ec8a0f1184deed8c10f533" type="folder">10</container>
             </did>
           </c>
           <c id="aspace_ref130_ksq" level="file">
             <did>
               <unittitle>II. Invitations to Meetings</unittitle>
               <unitdate normal="1942/1942" type="inclusive">1942</unitdate>
-              <container id="aspace_7ca113edc67395227107b8e1e23f0b52" label="Mixed Materials" type="box">9</container>
-              <container id="aspace_0e3aede4336feea9696019b39f25bd65" parent="aspace_7ca113edc67395227107b8e1e23f0b52" type="folder">1</container>
+              <container id="aspace_ce42af62196a37bbfc11d5941f30df8d" label="Mixed Materials" type="box">9</container>
+              <container id="aspace_c6a7a07f610c5373ed786e1ae94046ab" parent="aspace_ce42af62196a37bbfc11d5941f30df8d" type="folder">1</container>
             </did>
           </c>
           <c id="aspace_ref131_0p5" level="file">
             <did>
               <unittitle>III. Reports</unittitle>
               <unitdate normal="1942/1945" type="inclusive">1942–1945</unitdate>
-              <container id="aspace_e31587552848b8ea6e612900fec5a62c" label="Mixed Materials" type="box">9</container>
-              <container id="aspace_8e809b5340d8c8563e9b933fc495fe88" parent="aspace_e31587552848b8ea6e612900fec5a62c" type="folder">2</container>
+              <container id="aspace_29f521a039a450ae54d88055ea38f830" label="Mixed Materials" type="box">9</container>
+              <container id="aspace_283b1732cb7e94f74b0b6de9aab36d99" parent="aspace_29f521a039a450ae54d88055ea38f830" type="folder">2</container>
             </did>
           </c>
           <c id="aspace_ref132_qm8" level="file">
             <did>
               <unittitle>IV. Samples Sent</unittitle>
               <unitdate normal="1942/1944" type="inclusive">1942–1944</unitdate>
-              <container id="aspace_332bb4f81b267db85139c906c0c1933c" label="Mixed Materials" type="box">9</container>
-              <container id="aspace_dfd1b2540c66dfd686d9b693aca2a12c" parent="aspace_332bb4f81b267db85139c906c0c1933c" type="folder">3</container>
+              <container id="aspace_2d1a586e899bdacf2fbdf49e5321dbd2" label="Mixed Materials" type="box">9</container>
+              <container id="aspace_0ec5324af684d874dd91cbf854086e87" parent="aspace_2d1a586e899bdacf2fbdf49e5321dbd2" type="folder">3</container>
             </did>
           </c>
         </c>
@@ -1190,16 +1190,16 @@
             <did>
               <unittitle>General</unittitle>
               <unitdate normal="1942/1945" type="inclusive">1942–1945</unitdate>
-              <container id="aspace_b7746191964969fc1aafe61ebdbfe955" label="Mixed Materials" type="box">9</container>
-              <container id="aspace_8146fa74cd3df09015f451296c2bcf34" parent="aspace_b7746191964969fc1aafe61ebdbfe955" type="folder">4</container>
+              <container id="aspace_398fbd6e3c5c948a49b6c8f204253d90" label="Mixed Materials" type="box">9</container>
+              <container id="aspace_d4aea5841315688d6631466000abc518" parent="aspace_398fbd6e3c5c948a49b6c8f204253d90" type="folder">4</container>
             </did>
           </c>
           <c id="aspace_ref135_xub" level="file">
             <did>
               <unittitle>C.W. Agents Program</unittitle>
               <unitdate normal="1943/1943" type="inclusive">1943</unitdate>
-              <container id="aspace_e9f14610155178262c25276649dc7877" label="Mixed Materials" type="box">9</container>
-              <container id="aspace_f2b8253633f4f13c06e9f8e7b5f9cae7" parent="aspace_e9f14610155178262c25276649dc7877" type="folder">5</container>
+              <container id="aspace_9ca380a7dda51995614ab6c7663db463" label="Mixed Materials" type="box">9</container>
+              <container id="aspace_3124dce3a22c86acde9fff13d0c456a3" parent="aspace_9ca380a7dda51995614ab6c7663db463" type="folder">5</container>
             </did>
           </c>
         </c>
@@ -1207,104 +1207,104 @@
           <did>
             <unittitle>Stein, William H.</unittitle>
             <unitdate normal="1942/1946" type="inclusive">1942–1946</unitdate>
-            <container id="aspace_591fe7fb3b114130639589482a71acc7" label="Mixed Materials" type="box">9</container>
-            <container id="aspace_4d2869fc94b8cd4da6a10eb72d3365da" parent="aspace_591fe7fb3b114130639589482a71acc7" type="folder">6</container>
+            <container id="aspace_e8e34baf1405bdad025234fa202f5a32" label="Mixed Materials" type="box">9</container>
+            <container id="aspace_b353f88babdbb8a6eb1fdc0897b920db" parent="aspace_e8e34baf1405bdad025234fa202f5a32" type="folder">6</container>
           </did>
         </c>
         <c id="aspace_ref137_9bh" level="file">
           <did>
             <unittitle>Stewart, Irvin</unittitle>
             <unitdate normal="1942/1945" type="inclusive">1942–1945</unitdate>
-            <container id="aspace_ae4ccf697a6991e4102464332435f950" label="Mixed Materials" type="box">9</container>
-            <container id="aspace_83b6697873e0e8fb6ad4ccf931a49702" parent="aspace_ae4ccf697a6991e4102464332435f950" type="folder">7</container>
+            <container id="aspace_8dbc7e8b68c31a69cd62bcdd0c7ed5f0" label="Mixed Materials" type="box">9</container>
+            <container id="aspace_934b949215e879819cccbfd29d6372b6" parent="aspace_8dbc7e8b68c31a69cd62bcdd0c7ed5f0" type="folder">7</container>
           </did>
         </c>
         <c id="aspace_ref138_9p2" level="file">
           <did>
             <unittitle>Stock, C. Chester</unittitle>
             <unitdate normal="1942/1944" type="inclusive">1942–1944</unitdate>
-            <container id="aspace_d10d3d59fb4bb0a16ab41c2f05cf27ed" label="Mixed Materials" type="box">9</container>
-            <container id="aspace_f4d2db12502ea56c9d77c56833db4c7d" parent="aspace_d10d3d59fb4bb0a16ab41c2f05cf27ed" type="folder">8</container>
+            <container id="aspace_a3cecbbe233b95f50d7405fa1d97c49c" label="Mixed Materials" type="box">9</container>
+            <container id="aspace_82ff4b91dbaf01c3919da2b6ff5d0d2e" parent="aspace_a3cecbbe233b95f50d7405fa1d97c49c" type="folder">8</container>
           </did>
         </c>
         <c id="aspace_ref139_jmz" level="file">
           <did>
             <unittitle>T</unittitle>
             <unitdate normal="1942/1945" type="inclusive">1942–1945</unitdate>
-            <container id="aspace_c0e3fd72c065cffa4d2509528ca9f352" label="Mixed Materials" type="box">9</container>
-            <container id="aspace_bb05324e8895989c9e085aad156b33a8" parent="aspace_c0e3fd72c065cffa4d2509528ca9f352" type="folder">9</container>
+            <container id="aspace_03c0f0a174693529acbb3cff23a42224" label="Mixed Materials" type="box">9</container>
+            <container id="aspace_23a452ec7770a3009e6894e29490cf17" parent="aspace_03c0f0a174693529acbb3cff23a42224" type="folder">9</container>
           </did>
         </c>
         <c id="aspace_ref140_ffe" level="file">
           <did>
             <unittitle>Telephone Numbers</unittitle>
             <unitdate normal="1941/1942" type="inclusive">1941, 1942</unitdate>
-            <container id="aspace_7859b4828183001b4bf6d82ba5d5b9f9" label="Mixed Materials" type="box">9</container>
-            <container id="aspace_fe44d4c8327b367051432c1adb303289" parent="aspace_7859b4828183001b4bf6d82ba5d5b9f9" type="folder">10</container>
+            <container id="aspace_5c86690734ee4db3230313792da6d2d3" label="Mixed Materials" type="box">9</container>
+            <container id="aspace_39320e99e8965012f06fb60f2da934a5" parent="aspace_5c86690734ee4db3230313792da6d2d3" type="folder">10</container>
           </did>
         </c>
         <c id="aspace_ref141_apv" level="file">
           <did>
             <unittitle>Substituted Thioureases: Yoe and Overholser</unittitle>
             <unitdate type="inclusive">undated</unitdate>
-            <container id="aspace_be31a4a7f08407b88ea308a3845e7422" label="Mixed Materials" type="box">9</container>
-            <container id="aspace_9d029b09e8f61e79d0c18ae11082128b" parent="aspace_be31a4a7f08407b88ea308a3845e7422" type="folder">11</container>
+            <container id="aspace_ac6a28421290d4101b2d2f9294c132d9" label="Mixed Materials" type="box">9</container>
+            <container id="aspace_5037add039a82b1731975ba4a5660154" parent="aspace_ac6a28421290d4101b2d2f9294c132d9" type="folder">11</container>
           </did>
         </c>
         <c id="aspace_ref142_aah" level="file">
           <did>
             <unittitle>Travel</unittitle>
             <unitdate normal="1942/1942" type="inclusive">1942</unitdate>
-            <container id="aspace_a55aef5a58bf65bdb2d3fa6cb38bbb42" label="Mixed Materials" type="box">9</container>
-            <container id="aspace_7e55d69f07fd490a77913c50b212eb45" parent="aspace_a55aef5a58bf65bdb2d3fa6cb38bbb42" type="folder">12</container>
+            <container id="aspace_84ff2c3ae2f674bc4ab221fab03a7193" label="Mixed Materials" type="box">9</container>
+            <container id="aspace_326bbef86fd6f9ab7d6b95f2a1fe2f59" parent="aspace_84ff2c3ae2f674bc4ab221fab03a7193" type="folder">12</container>
           </did>
         </c>
         <c id="aspace_ref143_ts1" level="file">
           <did>
             <unittitle>U</unittitle>
             <unitdate normal="1942/1943" type="inclusive">1942–1943</unitdate>
-            <container id="aspace_fa9e75a50e1b73d58a549c9f2222f826" label="Mixed Materials" type="box">9</container>
-            <container id="aspace_c204903c0154b5e642b1f28ff2aaec9b" parent="aspace_fa9e75a50e1b73d58a549c9f2222f826" type="folder">13</container>
+            <container id="aspace_b7733f19f65eccce438adbb7ca59fd02" label="Mixed Materials" type="box">9</container>
+            <container id="aspace_0c4b754832e5cea3c4dacaee25335438" parent="aspace_b7733f19f65eccce438adbb7ca59fd02" type="folder">13</container>
           </did>
         </c>
         <c id="aspace_ref144_4n4" level="file">
           <did>
             <unittitle>V</unittitle>
             <unitdate normal="1942/1944" type="inclusive">1942–1944</unitdate>
-            <container id="aspace_5c124550939358d6cc1e7769aa6f5320" label="Mixed Materials" type="box">9</container>
-            <container id="aspace_83ced360b67458dbaf1e980bb5c53ed5" parent="aspace_5c124550939358d6cc1e7769aa6f5320" type="folder">14</container>
+            <container id="aspace_1c61c61b901fcca1f1b55bb9d438a698" label="Mixed Materials" type="box">9</container>
+            <container id="aspace_f70d40fafd5f6c21d878773733d66e18" parent="aspace_1c61c61b901fcca1f1b55bb9d438a698" type="folder">14</container>
           </did>
         </c>
         <c id="aspace_ref145_eru" level="file">
           <did>
             <unittitle>Vickery, H. B.</unittitle>
             <unitdate normal="1942/1942" type="inclusive">1942</unitdate>
-            <container id="aspace_6707f7ed91d7d515f9ed60ca5158bc62" label="Mixed Materials" type="box">9</container>
-            <container id="aspace_81011f4a8712892f64969e8e32d46cde" parent="aspace_6707f7ed91d7d515f9ed60ca5158bc62" type="folder">15</container>
+            <container id="aspace_7c8e9e5376e5a30ec6aedf6d3c67e3fc" label="Mixed Materials" type="box">9</container>
+            <container id="aspace_5da3530bd0ec4c0c5ab52f46aa9a1cb0" parent="aspace_7c8e9e5376e5a30ec6aedf6d3c67e3fc" type="folder">15</container>
           </did>
         </c>
         <c id="aspace_ref146_2qp" level="file">
           <did>
             <unittitle>W</unittitle>
             <unitdate normal="1942/1944" type="inclusive">1942–1944</unitdate>
-            <container id="aspace_5db6ee285f5213348eafb6d4e0575487" label="Mixed Materials" type="box">9</container>
-            <container id="aspace_8a8d021031a9fe96dd2987a133a29f03" parent="aspace_5db6ee285f5213348eafb6d4e0575487" type="folder">16</container>
+            <container id="aspace_135d46eb65adc96851ff30066dd9d715" label="Mixed Materials" type="box">9</container>
+            <container id="aspace_5976fb89539fc65de96b3f3f0ef249df" parent="aspace_135d46eb65adc96851ff30066dd9d715" type="folder">16</container>
           </did>
         </c>
         <c id="aspace_ref147_3rj" level="file">
           <did>
             <unittitle>W Agent</unittitle>
             <unitdate normal="1943/1945" type="inclusive">1943–1945</unitdate>
-            <container id="aspace_9ad1b19f393533be420fe1a1e68d016c" label="Mixed Materials" type="box">9</container>
-            <container id="aspace_be81bfb1a7e979c8a5ecc63607a9ac08" parent="aspace_9ad1b19f393533be420fe1a1e68d016c" type="folder">17</container>
+            <container id="aspace_166eef882cb11a89c7d1ed73b3518d0e" label="Mixed Materials" type="box">9</container>
+            <container id="aspace_29bca97bc905b513f399a921eb8fa810" parent="aspace_166eef882cb11a89c7d1ed73b3518d0e" type="folder">17</container>
           </did>
         </c>
         <c id="aspace_ref148_yuy" level="file">
           <did>
             <unittitle>X–Y–Z</unittitle>
             <unitdate normal="1942/1945" type="inclusive">1942–1945</unitdate>
-            <container id="aspace_d645a750f5754da34d3e72bd97cb1801" label="Mixed Materials" type="box">9</container>
-            <container id="aspace_3ad9c1a224206cab0ec4d381cfbfa728" parent="aspace_d645a750f5754da34d3e72bd97cb1801" type="folder">18</container>
+            <container id="aspace_bdc1cef1a2e30a7ba44a0d47e6917201" label="Mixed Materials" type="box">9</container>
+            <container id="aspace_b5da13b6500c8b278c4f1c587ce084bd" parent="aspace_bdc1cef1a2e30a7ba44a0d47e6917201" type="folder">18</container>
           </did>
         </c>
       </c>
@@ -1330,8 +1330,8 @@
           <did>
             <unittitle>British Reports</unittitle>
             <unitdate normal="1941/1942" type="inclusive">undated, 1941–1942</unitdate>
-            <container id="aspace_f12f19113161ef6e114a52aa2ec8330d" label="Mixed Materials" type="box">10</container>
-            <container id="aspace_dfaee3d89181b8bfc6336379cb9a0792" parent="aspace_f12f19113161ef6e114a52aa2ec8330d" type="folder">1</container>
+            <container id="aspace_caa025ee320dc20fba16672c93241243" label="Mixed Materials" type="box">10</container>
+            <container id="aspace_06d10e057f30cd3b4771c210eb249878" parent="aspace_caa025ee320dc20fba16672c93241243" type="folder">1</container>
           </did>
         </c>
         <c id="aspace_ref154_8ib" level="file">
@@ -1342,58 +1342,58 @@
             <did>
               <unittitle>KB–16 Report</unittitle>
               <unitdate type="inclusive">undated</unitdate>
-              <container id="aspace_039beb43066f51b3779571a5554a101a" label="Mixed Materials" type="box">10</container>
-              <container id="aspace_204351ec10936b389b473a482ae1b75f" parent="aspace_039beb43066f51b3779571a5554a101a" type="folder">2</container>
+              <container id="aspace_9b932758077c4d1b3c020b772960d962" label="Mixed Materials" type="box">10</container>
+              <container id="aspace_01590ce0dbb5cdb02d54959546251a38" parent="aspace_9b932758077c4d1b3c020b772960d962" type="folder">2</container>
             </did>
           </c>
           <c id="aspace_ref156_p1d" level="file">
             <did>
               <unittitle>N–Mustards Reports (8 folders)</unittitle>
               <unitdate type="inclusive">[194?]</unitdate>
-              <container id="aspace_c34d359863e011d915330003da455361" label="Mixed Materials" type="box">10</container>
-              <container id="aspace_b94b7a3dcc7ae7c299882bc603e371ee" parent="aspace_c34d359863e011d915330003da455361" type="folder">4</container>
-              <container id="aspace_1f229ae22757d9471aa5cc73beb4fd32" label="Mixed Materials" type="box">10</container>
-              <container id="aspace_7f3ff2417403fec7dd6a2cc065a1680c" parent="aspace_1f229ae22757d9471aa5cc73beb4fd32" type="folder">5</container>
-              <container id="aspace_20c9cae72c5d943e815c8dd8ab2b2fdc" label="Mixed Materials" type="box">10</container>
-              <container id="aspace_d3deeec4b6e68ac6b579071e3570a612" parent="aspace_20c9cae72c5d943e815c8dd8ab2b2fdc" type="folder">6</container>
-              <container id="aspace_265ea0af01501a2ae15b01541cba1243" label="Mixed Materials" type="box">10</container>
-              <container id="aspace_0b18d6a7aa7ee55cd2303032b05d235e" parent="aspace_265ea0af01501a2ae15b01541cba1243" type="folder">7</container>
-              <container id="aspace_18575bd55fd725057511e7f5cad77f3f" label="Mixed Materials" type="box">10</container>
-              <container id="aspace_2756cf76574294f7fe1b33c64ff2465b" parent="aspace_18575bd55fd725057511e7f5cad77f3f" type="folder">8</container>
-              <container id="aspace_31d23b3f86f68316aaf98b7bd449df6d" label="Mixed Materials" type="box">10</container>
-              <container id="aspace_ab7eff37ce82fa52ecbf77e17f1a23c5" parent="aspace_31d23b3f86f68316aaf98b7bd449df6d" type="folder">9</container>
-              <container id="aspace_b7c75e2faf07601e33fbe89153b151ae" label="Mixed Materials" type="box">10</container>
-              <container id="aspace_6a52be6a20d7f11dc85b9218da36dce8" parent="aspace_b7c75e2faf07601e33fbe89153b151ae" type="folder">10</container>
-              <container id="aspace_6ba411be031638498d72c953fad74056" label="Mixed Materials" type="box">10</container>
-              <container id="aspace_8aacbfb204e7227b00c41a61c56c2943" parent="aspace_6ba411be031638498d72c953fad74056" type="folder">3</container>
+              <container id="aspace_ae93860e5432e2be2bef1b15ed1fc92c" label="Mixed Materials" type="box">10</container>
+              <container id="aspace_99215cd9dffdf1bcc381e520f3b07cec" parent="aspace_ae93860e5432e2be2bef1b15ed1fc92c" type="folder">4</container>
+              <container id="aspace_876a661b7cb25a4704c61d300cf06f8c" label="Mixed Materials" type="box">10</container>
+              <container id="aspace_d359682343991c564a30e7087626b610" parent="aspace_876a661b7cb25a4704c61d300cf06f8c" type="folder">5</container>
+              <container id="aspace_3672ee95ff7326e6c120b6e04f846094" label="Mixed Materials" type="box">10</container>
+              <container id="aspace_f1e954ff0adcd5c86795f6ca3ee5140c" parent="aspace_3672ee95ff7326e6c120b6e04f846094" type="folder">6</container>
+              <container id="aspace_dd5c72248e0d88779c533bd34b9a6ca1" label="Mixed Materials" type="box">10</container>
+              <container id="aspace_12f20e565c48f5084da0513596ec6b77" parent="aspace_dd5c72248e0d88779c533bd34b9a6ca1" type="folder">7</container>
+              <container id="aspace_2b71148ba863e6af76a44fff65359276" label="Mixed Materials" type="box">10</container>
+              <container id="aspace_c28915092055b781d7ec8c4af220c78e" parent="aspace_2b71148ba863e6af76a44fff65359276" type="folder">8</container>
+              <container id="aspace_8ebf87829ea78d4f1ae9b80ab4350cf5" label="Mixed Materials" type="box">10</container>
+              <container id="aspace_556d92c656e236343b88cc2536f2693d" parent="aspace_8ebf87829ea78d4f1ae9b80ab4350cf5" type="folder">9</container>
+              <container id="aspace_22f3e2e750fc33506dd319d8e164f403" label="Mixed Materials" type="box">10</container>
+              <container id="aspace_59abdf73459abb1f7d646ec649943785" parent="aspace_22f3e2e750fc33506dd319d8e164f403" type="folder">10</container>
+              <container id="aspace_726117697b02df33529e20379059fe48" label="Mixed Materials" type="box">10</container>
+              <container id="aspace_4d39f7837d4c78cee407183b23f4d700" parent="aspace_726117697b02df33529e20379059fe48" type="folder">3</container>
             </did>
           </c>
           <c id="aspace_ref157_upy" level="file">
             <did>
               <unittitle>Penetration Report</unittitle>
               <unitdate normal="1946/1946" type="inclusive">1946</unitdate>
-              <container id="aspace_2675d1eef885b35659410d9eaf8be75b" label="Mixed Materials" type="box">10</container>
-              <container id="aspace_0593d829eff2ce901b37eeda124f6770" parent="aspace_2675d1eef885b35659410d9eaf8be75b" type="folder">11</container>
+              <container id="aspace_333b89f654d8e217b581e949c4074948" label="Mixed Materials" type="box">10</container>
+              <container id="aspace_fc2d0a9395578d865804dfb234286398" parent="aspace_333b89f654d8e217b581e949c4074948" type="folder">11</container>
             </did>
           </c>
           <c id="aspace_ref158_w3v" level="file">
             <did>
               <unittitle>S–Mustards Reports (7 folders)</unittitle>
               <unitdate type="inclusive">[194?]</unitdate>
-              <container id="aspace_53193027a53069a68a5d7a2df28a2651" label="Mixed Materials" type="box">10</container>
-              <container id="aspace_89c7c7e94bf2755bb9baea1eda4276ff" parent="aspace_53193027a53069a68a5d7a2df28a2651" type="folder">12</container>
-              <container id="aspace_c7fddbb6434c3bd7713b322d7193f311" label="Mixed Materials" type="box">10</container>
-              <container id="aspace_46444230f1dddab73db20c25876aa7c7" parent="aspace_c7fddbb6434c3bd7713b322d7193f311" type="folder">13</container>
-              <container id="aspace_5d514d81bbf241ed2ce149344df303da" label="Mixed Materials" type="box">10</container>
-              <container id="aspace_169c45b8b5bf8fdf280423306cec47d6" parent="aspace_5d514d81bbf241ed2ce149344df303da" type="folder">14</container>
-              <container id="aspace_4d063110f5747e4bf3a33bbbda2717f2" label="Mixed Materials" type="box">10</container>
-              <container id="aspace_bf3f95e5d52785e3c448477f0fa273a3" parent="aspace_4d063110f5747e4bf3a33bbbda2717f2" type="folder">15</container>
-              <container id="aspace_5619fadc2bb9094096aad4d6a9d5fa59" label="Mixed Materials" type="box">10</container>
-              <container id="aspace_e3c575300ea75c2b4b5aa81e1872f8d4" parent="aspace_5619fadc2bb9094096aad4d6a9d5fa59" type="folder">16</container>
-              <container id="aspace_5d1810398710688649620d0a16149958" label="Mixed Materials" type="box">10</container>
-              <container id="aspace_741f45a6db970d33d3cc800068bb5f00" parent="aspace_5d1810398710688649620d0a16149958" type="folder">17</container>
-              <container id="aspace_5938680c07ae3ee6225602d901434eb6" label="Mixed Materials" type="box">10</container>
-              <container id="aspace_94932076dd7295973af283e9b39be111" parent="aspace_5938680c07ae3ee6225602d901434eb6" type="folder">18</container>
+              <container id="aspace_b9d376912584fa87a0b3ef2de0ab6a8e" label="Mixed Materials" type="box">10</container>
+              <container id="aspace_0cdfdf28c7519cbf33c9c729ffad5be5" parent="aspace_b9d376912584fa87a0b3ef2de0ab6a8e" type="folder">12</container>
+              <container id="aspace_c5d4f1739c53677d4fbbeee35bfe3155" label="Mixed Materials" type="box">10</container>
+              <container id="aspace_e9e068b052d16d05dcde3f0a6fc27b2a" parent="aspace_c5d4f1739c53677d4fbbeee35bfe3155" type="folder">13</container>
+              <container id="aspace_091ec67bc5022323f8ad4e612c8edbf8" label="Mixed Materials" type="box">10</container>
+              <container id="aspace_ad84b3f879baf39ecb17b7c9a6ba2a2a" parent="aspace_091ec67bc5022323f8ad4e612c8edbf8" type="folder">14</container>
+              <container id="aspace_e925fd5db14d340597bb2a0f18de93a3" label="Mixed Materials" type="box">10</container>
+              <container id="aspace_0fd2680f09129d8f1866fbffc02cffe5" parent="aspace_e925fd5db14d340597bb2a0f18de93a3" type="folder">15</container>
+              <container id="aspace_b6268f935d31fab697173223e0b00077" label="Mixed Materials" type="box">10</container>
+              <container id="aspace_57566eaf6a9cd07b07ef1951e72065a3" parent="aspace_b6268f935d31fab697173223e0b00077" type="folder">16</container>
+              <container id="aspace_dab1fd068dfc8f64a00c6fea06650f2d" label="Mixed Materials" type="box">10</container>
+              <container id="aspace_267952d4348975d3895120d1fd8c7edc" parent="aspace_dab1fd068dfc8f64a00c6fea06650f2d" type="folder">17</container>
+              <container id="aspace_117204d2ebd2c905d3feb1112b446741" label="Mixed Materials" type="box">10</container>
+              <container id="aspace_191721c1715dd2f5154e07d991652171" parent="aspace_117204d2ebd2c905d3feb1112b446741" type="folder">18</container>
             </did>
           </c>
         </c>
@@ -1405,80 +1405,80 @@
             <did>
               <unittitle>Chemical Reactions of Divinyl Sulfone, H Sulfone, and Divinyl Sulfoxide</unittitle>
               <unitdate normal="1944/1944" type="inclusive">1944</unitdate>
-              <container id="aspace_1ca482b1981b4e2f9bf982f3a1866f53" label="Mixed Materials" type="box">10</container>
-              <container id="aspace_7b1d04beec29a39a1117422dbf54885d" parent="aspace_1ca482b1981b4e2f9bf982f3a1866f53" type="folder">19</container>
+              <container id="aspace_6652467061f01d681926f61cdf4b5699" label="Mixed Materials" type="box">10</container>
+              <container id="aspace_ccdefea0179291ef5fc4511a83708b83" parent="aspace_6652467061f01d681926f61cdf4b5699" type="folder">19</container>
             </did>
           </c>
           <c id="aspace_ref161_vow" level="file">
             <did>
               <unittitle>Chemical Reactions of the Nitrogen Mustards</unittitle>
               <unitdate normal="1944/1944" type="inclusive">1944</unitdate>
-              <container id="aspace_b64912f75543c5fc7945b16d08a4755e" label="Mixed Materials" type="box">10</container>
-              <container id="aspace_a990977944fb6e0285a2efabf7cc9052" parent="aspace_b64912f75543c5fc7945b16d08a4755e" type="folder">20</container>
+              <container id="aspace_c45db0b32598faf9ff95e0de563c8b8e" label="Mixed Materials" type="box">10</container>
+              <container id="aspace_a8f0b39bec1eb9784becd6e36b182d32" parent="aspace_c45db0b32598faf9ff95e0de563c8b8e" type="folder">20</container>
             </did>
           </c>
           <c id="aspace_ref162_usa" level="file">
             <did>
               <unittitle>Chemical Reactions of Semi–H and H</unittitle>
               <unitdate normal="1944/1944" type="inclusive">1944</unitdate>
-              <container id="aspace_c3dd0f3dc6d2a96b7ad63bf5c0040527" label="Mixed Materials" type="box">10</container>
-              <container id="aspace_5d27a42ca544ef8503356d54560f9b8e" parent="aspace_c3dd0f3dc6d2a96b7ad63bf5c0040527" type="folder">21</container>
+              <container id="aspace_bdfc5c8b4ecd735f05223d5d68801e7f" label="Mixed Materials" type="box">10</container>
+              <container id="aspace_a67a6960e9c1ba5d95733d04bc672e31" parent="aspace_bdfc5c8b4ecd735f05223d5d68801e7f" type="folder">21</container>
             </did>
           </c>
           <c id="aspace_ref163_c2i" level="file">
             <did>
               <unittitle>The Chemistry of Q</unittitle>
               <unitdate normal="1944/1944" type="inclusive">1944</unitdate>
-              <container id="aspace_388f820e1e692d160c80dde6432a069c" label="Mixed Materials" type="box">10</container>
-              <container id="aspace_099fd6c2fbacb6e149c5aed08765d608" parent="aspace_388f820e1e692d160c80dde6432a069c" type="folder">22</container>
+              <container id="aspace_ef4805c08a23a006c1c85c6c5e5644ef" label="Mixed Materials" type="box">10</container>
+              <container id="aspace_8660765d99e4032115ecf7ffd442d12b" parent="aspace_ef4805c08a23a006c1c85c6c5e5644ef" type="folder">22</container>
             </did>
           </c>
           <c id="aspace_ref164_7dk" level="file">
             <did>
               <unittitle>The Chemistry of Sulfonium Salts Related to H</unittitle>
               <unitdate normal="1944/1944" type="inclusive">1944</unitdate>
-              <container id="aspace_62132a79a4645e3687add5545ef31d1f" label="Mixed Materials" type="box">10</container>
-              <container id="aspace_3b7b4a4a270f3d17f1d5fc126a8798ec" parent="aspace_62132a79a4645e3687add5545ef31d1f" type="folder">23</container>
+              <container id="aspace_e33266cd695ecb3f35c59d3bf62fbd95" label="Mixed Materials" type="box">10</container>
+              <container id="aspace_99f69a27063d22b41eea6a6145fa1a4b" parent="aspace_e33266cd695ecb3f35c59d3bf62fbd95" type="folder">23</container>
             </did>
           </c>
           <c id="aspace_ref165_stv" level="file">
             <did>
               <unittitle>N–Nitroso–N–Chloroethylcarbamic Acid Methyl Ester (TL 186)</unittitle>
               <unitdate normal="1942/1942" type="inclusive">1942</unitdate>
-              <container id="aspace_f086ab084dfa93eca04c7cb3ace248d6" label="Mixed Materials" type="box">10</container>
-              <container id="aspace_3e80d634416f7acf680e579c122d876c" parent="aspace_f086ab084dfa93eca04c7cb3ace248d6" type="folder">24</container>
+              <container id="aspace_4b64810e1ce5f08f87dd8abebcfe83e7" label="Mixed Materials" type="box">10</container>
+              <container id="aspace_9ff4d717534ac58eea3bd40387ef1628" parent="aspace_4b64810e1ce5f08f87dd8abebcfe83e7" type="folder">24</container>
             </did>
           </c>
           <c id="aspace_ref166_dju" level="file">
             <did>
               <unittitle>The Penetration of Vesicant Vapors into Human Skin</unittitle>
               <unitdate normal="1945/1945" type="inclusive">1945</unitdate>
-              <container id="aspace_e7949e45aff228e0b53f2923b339fc65" label="Mixed Materials" type="box">10</container>
-              <container id="aspace_d106c48fa59bcba2b2642b3aa32e77ef" parent="aspace_e7949e45aff228e0b53f2923b339fc65" type="folder">25</container>
+              <container id="aspace_2ae278233255cfa796a6a51a20adf7a5" label="Mixed Materials" type="box">10</container>
+              <container id="aspace_be2a83b1d424129cd5ec682ab6bb670c" parent="aspace_2ae278233255cfa796a6a51a20adf7a5" type="folder">25</container>
             </did>
           </c>
           <c id="aspace_ref167_iad" level="file">
             <did>
               <unittitle>The Reactions of Amine Mustards with Chemical Constituents of Biological Systems</unittitle>
               <unitdate normal="1943/1943" type="inclusive">1943</unitdate>
-              <container id="aspace_7049395b6fc66fa06f308828e312738b" label="Mixed Materials" type="box">10</container>
-              <container id="aspace_a04507d8167a300a94042054de4ec391" parent="aspace_7049395b6fc66fa06f308828e312738b" type="folder">26</container>
+              <container id="aspace_e3fb2ee1c3b46489ab68691eb0637b5c" label="Mixed Materials" type="box">10</container>
+              <container id="aspace_86b1123a6dd814dc86cd5c865a0ab553" parent="aspace_e3fb2ee1c3b46489ab68691eb0637b5c" type="folder">26</container>
             </did>
           </c>
           <c id="aspace_ref168_o8z" level="file">
             <did>
               <unittitle>The Reactions of DH, TL 146, TL 329, and TL 145 with Some Chemical Constituents of Biological Systems</unittitle>
               <unitdate normal="1943/1943" type="inclusive">1943</unitdate>
-              <container id="aspace_018d38a3303df04157ce43fef7895cc4" label="Mixed Materials" type="box">10</container>
-              <container id="aspace_195e8d21f667af4518646278a82af39e" parent="aspace_018d38a3303df04157ce43fef7895cc4" type="folder">27</container>
+              <container id="aspace_af6845b25111460cacdc33fb49ba4e17" label="Mixed Materials" type="box">10</container>
+              <container id="aspace_a66bc3f61ce540915a7ccc86da448539" parent="aspace_af6845b25111460cacdc33fb49ba4e17" type="folder">27</container>
             </did>
           </c>
           <c id="aspace_ref169_dfr" level="file">
             <did>
               <unittitle>Some Reactions of Mustard Gas with Proteins and Proteolytic Enzymes</unittitle>
               <unitdate normal="1943/1943" type="inclusive">1943</unitdate>
-              <container id="aspace_a133f28c818e7f07c0321147e517f5ad" label="Mixed Materials" type="box">10</container>
-              <container id="aspace_c49e531c4ce9ad039a876abd4d70f9fa" parent="aspace_a133f28c818e7f07c0321147e517f5ad" type="folder">28</container>
+              <container id="aspace_459a1f5fe50c9f5fc003afabc89f7ba6" label="Mixed Materials" type="box">10</container>
+              <container id="aspace_e4f31aa2ba7ccf1c0bb3328541656097" parent="aspace_459a1f5fe50c9f5fc003afabc89f7ba6" type="folder">28</container>
             </did>
           </c>
         </c>
@@ -1490,152 +1490,152 @@
             <did>
               <unittitle>December</unittitle>
               <unitdate normal="1941/1941" type="inclusive">1941</unitdate>
-              <container id="aspace_706c3a794d882e71bba1f6e7811b6fd8" label="Mixed Materials" type="box">10</container>
-              <container id="aspace_6a90a2cbf3d51d6a45405ffb560e9476" parent="aspace_706c3a794d882e71bba1f6e7811b6fd8" type="folder">29</container>
+              <container id="aspace_febba5d130f166d496440bbc5fd29aef" label="Mixed Materials" type="box">10</container>
+              <container id="aspace_5f9d84e8ceb96cc61252ffa92a09d77c" parent="aspace_febba5d130f166d496440bbc5fd29aef" type="folder">29</container>
             </did>
           </c>
           <c id="aspace_ref172_umq" level="file">
             <did>
               <unittitle>January – February</unittitle>
               <unitdate normal="1942/1942" type="inclusive">1942</unitdate>
-              <container id="aspace_7de0f4b5aa827ba4759a7ad5fc49fa96" label="Mixed Materials" type="box">10</container>
-              <container id="aspace_a66c01895b7e5f2d85977db9f0087cab" parent="aspace_7de0f4b5aa827ba4759a7ad5fc49fa96" type="folder">30</container>
+              <container id="aspace_b75599d7b262a50fbd9ad2d37b110eb0" label="Mixed Materials" type="box">10</container>
+              <container id="aspace_5a7b3f6161734787b4fe259ccbe16b71" parent="aspace_b75599d7b262a50fbd9ad2d37b110eb0" type="folder">30</container>
             </did>
           </c>
           <c id="aspace_ref173_wmt" level="file">
             <did>
               <unittitle>March – April</unittitle>
               <unitdate normal="1942/1942" type="inclusive">1942</unitdate>
-              <container id="aspace_9691770d1094bf690beb1a207f1950f2" label="Mixed Materials" type="box">10</container>
-              <container id="aspace_eb975d864a83ce162754322c2b461d6d" parent="aspace_9691770d1094bf690beb1a207f1950f2" type="folder">31</container>
+              <container id="aspace_7c04f96521f4ca06503e57d1dce569a2" label="Mixed Materials" type="box">10</container>
+              <container id="aspace_dc4deac4917621f3415a7be08078e518" parent="aspace_7c04f96521f4ca06503e57d1dce569a2" type="folder">31</container>
             </did>
           </c>
           <c id="aspace_ref174_aqg" level="file">
             <did>
               <unittitle>May – June</unittitle>
               <unitdate normal="1942/1942" type="inclusive">1942</unitdate>
-              <container id="aspace_8f200166be1e09cf9afad342855d6de7" label="Mixed Materials" type="box">10</container>
-              <container id="aspace_8eced72b722175209e5d7db5b8158db4" parent="aspace_8f200166be1e09cf9afad342855d6de7" type="folder">32</container>
+              <container id="aspace_b215dc77b47343a56e983e17d8452d4a" label="Mixed Materials" type="box">10</container>
+              <container id="aspace_f08bf52fb785764f55c2fe4d3e39e169" parent="aspace_b215dc77b47343a56e983e17d8452d4a" type="folder">32</container>
             </did>
           </c>
           <c id="aspace_ref175_39i" level="file">
             <did>
               <unittitle>July – August</unittitle>
               <unitdate normal="1942/1942" type="inclusive">1942</unitdate>
-              <container id="aspace_2609f261542615a986f3885c496dd843" label="Mixed Materials" type="box">10</container>
-              <container id="aspace_ce843d717f8d3e4598ba478c0db7c51a" parent="aspace_2609f261542615a986f3885c496dd843" type="folder">33</container>
+              <container id="aspace_628e872426d8be514f8fe4c6c4a1c010" label="Mixed Materials" type="box">10</container>
+              <container id="aspace_624feed79535d48fd6b1407d2d2b16a9" parent="aspace_628e872426d8be514f8fe4c6c4a1c010" type="folder">33</container>
             </did>
           </c>
           <c id="aspace_ref176_8mq" level="file">
             <did>
               <unittitle>September – October</unittitle>
               <unitdate normal="1942/1942" type="inclusive">1942</unitdate>
-              <container id="aspace_932905e6025cd21729ee5b2c7d34e055" label="Mixed Materials" type="box">10</container>
-              <container id="aspace_c47fc64583c042f09e4a1b981445b957" parent="aspace_932905e6025cd21729ee5b2c7d34e055" type="folder">34</container>
+              <container id="aspace_cabe755c1ae43900f696f64c3720ed8a" label="Mixed Materials" type="box">10</container>
+              <container id="aspace_7f84031c1683acfc6c1732da8b7b5a15" parent="aspace_cabe755c1ae43900f696f64c3720ed8a" type="folder">34</container>
             </did>
           </c>
           <c id="aspace_ref177_vpl" level="file">
             <did>
               <unittitle>November – December</unittitle>
               <unitdate normal="1942/1942" type="inclusive">1942</unitdate>
-              <container id="aspace_d46d62bb8dc300132bfe225de0f30d5f" label="Mixed Materials" type="box">11</container>
-              <container id="aspace_e62af63480dba3fb32cee4dfb95857f6" parent="aspace_d46d62bb8dc300132bfe225de0f30d5f" type="folder">1</container>
+              <container id="aspace_13e887bb636046bfb2e857aa6e6f62a0" label="Mixed Materials" type="box">11</container>
+              <container id="aspace_759d348c1e71ac661fc999f04b898247" parent="aspace_13e887bb636046bfb2e857aa6e6f62a0" type="folder">1</container>
             </did>
           </c>
           <c id="aspace_ref178_lrl" level="file">
             <did>
               <unittitle>January – February</unittitle>
               <unitdate normal="1943/1943" type="inclusive">1943</unitdate>
-              <container id="aspace_e88cde93044ef077cbff1003871e6459" label="Mixed Materials" type="box">11</container>
-              <container id="aspace_18cfa2611cd886c0c40241c9582361da" parent="aspace_e88cde93044ef077cbff1003871e6459" type="folder">2</container>
+              <container id="aspace_853d527755e1e28691858a6f15b37302" label="Mixed Materials" type="box">11</container>
+              <container id="aspace_db36abdd2d79d9d88964c4355bf3301d" parent="aspace_853d527755e1e28691858a6f15b37302" type="folder">2</container>
             </did>
           </c>
           <c id="aspace_ref179_q38" level="file">
             <did>
               <unittitle>March – April</unittitle>
               <unitdate normal="1943/1943" type="inclusive">1943</unitdate>
-              <container id="aspace_9c97f30d714b56b7805ae785a12933ff" label="Mixed Materials" type="box">11</container>
-              <container id="aspace_f739f49d9ccb4843f6b950cdd7803c31" parent="aspace_9c97f30d714b56b7805ae785a12933ff" type="folder">3</container>
+              <container id="aspace_41021b622d647848d6830b2178dd9006" label="Mixed Materials" type="box">11</container>
+              <container id="aspace_06537bc59bde75a51b709fb423b644b5" parent="aspace_41021b622d647848d6830b2178dd9006" type="folder">3</container>
             </did>
           </c>
           <c id="aspace_ref180_yka" level="file">
             <did>
               <unittitle>May – June</unittitle>
               <unitdate normal="1943/1943" type="inclusive">1943</unitdate>
-              <container id="aspace_29276faf47a0359bb7bd3d9cb71a8b11" label="Mixed Materials" type="box">11</container>
-              <container id="aspace_a78e60b0c1394fc5804ef36f9da61f4c" parent="aspace_29276faf47a0359bb7bd3d9cb71a8b11" type="folder">4</container>
+              <container id="aspace_541f088fe8adc65b269b6a6539f55154" label="Mixed Materials" type="box">11</container>
+              <container id="aspace_377af13a35ab849786a69c0ca6ef15a7" parent="aspace_541f088fe8adc65b269b6a6539f55154" type="folder">4</container>
             </did>
           </c>
           <c id="aspace_ref181_f9d" level="file">
             <did>
               <unittitle>July – August</unittitle>
               <unitdate normal="1943/1943" type="inclusive">1943</unitdate>
-              <container id="aspace_473bed2d0c81cc795f207eac04c503d0" label="Mixed Materials" type="box">11</container>
-              <container id="aspace_dcabce5eb5f4b1ab4959864e810ec04d" parent="aspace_473bed2d0c81cc795f207eac04c503d0" type="folder">5</container>
+              <container id="aspace_0959184bbcf9278704ce9f3864ae8b9b" label="Mixed Materials" type="box">11</container>
+              <container id="aspace_4d64592d3f69565ddb7f4c6839e0aad0" parent="aspace_0959184bbcf9278704ce9f3864ae8b9b" type="folder">5</container>
             </did>
           </c>
           <c id="aspace_ref182_ih7" level="file">
             <did>
               <unittitle>September – October</unittitle>
               <unitdate normal="1943/1943" type="inclusive">1943</unitdate>
-              <container id="aspace_76a72c685d3a2407b81a1b74ce432d66" label="Mixed Materials" type="box">11</container>
-              <container id="aspace_dd152f07c9370806b6b2673da4448d07" parent="aspace_76a72c685d3a2407b81a1b74ce432d66" type="folder">6</container>
+              <container id="aspace_590e50359c48779a2546e14eed5a5aea" label="Mixed Materials" type="box">11</container>
+              <container id="aspace_0419571a6132a94f46817662aeb9c569" parent="aspace_590e50359c48779a2546e14eed5a5aea" type="folder">6</container>
             </did>
           </c>
           <c id="aspace_ref183_v59" level="file">
             <did>
               <unittitle>November – December</unittitle>
               <unitdate normal="1943/1943" type="inclusive">1943</unitdate>
-              <container id="aspace_362aa51ee2af781dbbe3ced40eefa4b0" label="Mixed Materials" type="box">11</container>
-              <container id="aspace_d50bedb70e97c09c2b20b55bdb18bca0" parent="aspace_362aa51ee2af781dbbe3ced40eefa4b0" type="folder">7</container>
+              <container id="aspace_f2fa3665c8a0fd6169a2615fe713bb5b" label="Mixed Materials" type="box">11</container>
+              <container id="aspace_de9c8ef23131dab8ab8a54bee5ae3db8" parent="aspace_f2fa3665c8a0fd6169a2615fe713bb5b" type="folder">7</container>
             </did>
           </c>
           <c id="aspace_ref184_uxh" level="file">
             <did>
               <unittitle>January – February</unittitle>
               <unitdate normal="1944/1944" type="inclusive">1944</unitdate>
-              <container id="aspace_4f1d9e9501029948ba4f77bcbcaafeb2" label="Mixed Materials" type="box">11</container>
-              <container id="aspace_689e60963b2c825438d8e5b5ea71c9ed" parent="aspace_4f1d9e9501029948ba4f77bcbcaafeb2" type="folder">8</container>
+              <container id="aspace_c773f5aef505519342e4bcb8d7c5ca25" label="Mixed Materials" type="box">11</container>
+              <container id="aspace_f402a0152364c16f8c285d09117d488b" parent="aspace_c773f5aef505519342e4bcb8d7c5ca25" type="folder">8</container>
             </did>
           </c>
           <c id="aspace_ref185_aqh" level="file">
             <did>
               <unittitle>March – April</unittitle>
               <unitdate normal="1944/1944" type="inclusive">1944</unitdate>
-              <container id="aspace_d9fa81bcc9fc0473e41375a7d8d68183" label="Mixed Materials" type="box">11</container>
-              <container id="aspace_f8ad62e883b9501cb698bc5ef50ddf5c" parent="aspace_d9fa81bcc9fc0473e41375a7d8d68183" type="folder">9</container>
+              <container id="aspace_961386a8adeb12dfc7af18c28f181ff6" label="Mixed Materials" type="box">11</container>
+              <container id="aspace_e512abd686c606c190877624ff702f93" parent="aspace_961386a8adeb12dfc7af18c28f181ff6" type="folder">9</container>
             </did>
           </c>
           <c id="aspace_ref186_ry1" level="file">
             <did>
               <unittitle>May – June</unittitle>
               <unitdate normal="1944/1944" type="inclusive">1944</unitdate>
-              <container id="aspace_6964254a50a8138bd07ec60d6ddc2fba" label="Mixed Materials" type="box">11</container>
-              <container id="aspace_434e03689813f3a0a308e679d0bc3267" parent="aspace_6964254a50a8138bd07ec60d6ddc2fba" type="folder">10</container>
+              <container id="aspace_77cde244d23370bb0b967537a5b5d5cc" label="Mixed Materials" type="box">11</container>
+              <container id="aspace_66609e2154c03d6105044623c7615a39" parent="aspace_77cde244d23370bb0b967537a5b5d5cc" type="folder">10</container>
             </did>
           </c>
           <c id="aspace_ref187_8lt" level="file">
             <did>
               <unittitle>July – August</unittitle>
               <unitdate normal="1944/1944" type="inclusive">1944</unitdate>
-              <container id="aspace_faddeaba50b9d4f2d912d814f8ac762b" label="Mixed Materials" type="box">11</container>
-              <container id="aspace_5f03f002f837839c900a2640a764ab91" parent="aspace_faddeaba50b9d4f2d912d814f8ac762b" type="folder">11</container>
+              <container id="aspace_6dba03824031adf144c1867897e2d0a2" label="Mixed Materials" type="box">11</container>
+              <container id="aspace_3be3ac79dc5d7b694276f9783fd60d8a" parent="aspace_6dba03824031adf144c1867897e2d0a2" type="folder">11</container>
             </did>
           </c>
           <c id="aspace_ref188_mi5" level="file">
             <did>
               <unittitle>September – October</unittitle>
               <unitdate normal="1944/1944" type="inclusive">1944</unitdate>
-              <container id="aspace_ff9ea5afe28632acf95feca57d9a59e3" label="Mixed Materials" type="box">11</container>
-              <container id="aspace_c0e9321d3d8a9207574a915235182da2" parent="aspace_ff9ea5afe28632acf95feca57d9a59e3" type="folder">12</container>
+              <container id="aspace_0b0b9cb6a7c012be9954c9fc7b49280b" label="Mixed Materials" type="box">11</container>
+              <container id="aspace_4420d093340d174bd8f7ce07a64fcaef" parent="aspace_0b0b9cb6a7c012be9954c9fc7b49280b" type="folder">12</container>
             </did>
           </c>
           <c id="aspace_ref189_lhg" level="file">
             <did>
               <unittitle>November – December</unittitle>
               <unitdate normal="1944/1944" type="inclusive">1944</unitdate>
-              <container id="aspace_997478febf3a95ea614f1b9b2b1f8c1b" label="Mixed Materials" type="box">11</container>
-              <container id="aspace_c8c6ee8965dd0cf02cdad9adb2d20026" parent="aspace_997478febf3a95ea614f1b9b2b1f8c1b" type="folder">13</container>
+              <container id="aspace_ad149d57187e606def426e59a24cac64" label="Mixed Materials" type="box">11</container>
+              <container id="aspace_6f8debe9edec38115823b983560b9a34" parent="aspace_ad149d57187e606def426e59a24cac64" type="folder">13</container>
             </did>
           </c>
         </c>
@@ -1643,8 +1643,8 @@
           <did>
             <unittitle>Laboratory Scientific and Volunteer Staff</unittitle>
             <unitdate normal="1934/1945" type="inclusive">1934–1945</unitdate>
-            <container id="aspace_15b4e857a8e924f3cce98d644979611a" label="Mixed Materials" type="box">11</container>
-            <container id="aspace_71bd47f9cb355ac1383db4198f186c55" parent="aspace_15b4e857a8e924f3cce98d644979611a" type="folder">14</container>
+            <container id="aspace_255791ed90ffff4936cb270a949bb033" label="Mixed Materials" type="box">11</container>
+            <container id="aspace_22f51f8ca99e7650776585474065bf30" parent="aspace_255791ed90ffff4936cb270a949bb033" type="folder">14</container>
           </did>
         </c>
         <c id="aspace_ref191_s5a" level="file">
@@ -1655,16 +1655,16 @@
             <did>
               <unittitle>Laboratory Notes</unittitle>
               <unitdate normal="1942/1942" type="inclusive">1942</unitdate>
-              <container id="aspace_a9733fd8b855452a212f16446f2b1be3" label="Mixed Materials" type="box">11</container>
-              <container id="aspace_d643dec2558d71ad67df7a9d2e3c34e3" parent="aspace_a9733fd8b855452a212f16446f2b1be3" type="folder">15</container>
+              <container id="aspace_6f4c66f0d8ff3ef904223d132791831f" label="Mixed Materials" type="box">11</container>
+              <container id="aspace_068b8c8c6444d9fd01356f7da5b2c124" parent="aspace_6f4c66f0d8ff3ef904223d132791831f" type="folder">15</container>
             </did>
           </c>
           <c id="aspace_ref193_2hk" level="file">
             <did>
               <unittitle>Literature Notes</unittitle>
               <unitdate normal="1942/1942" type="inclusive">1942</unitdate>
-              <container id="aspace_83d0a32c497e2c4177e6c85e164f640b" label="Mixed Materials" type="box">11</container>
-              <container id="aspace_90eb335cfb312e5f0b9c50c3d56142d0" parent="aspace_83d0a32c497e2c4177e6c85e164f640b" type="folder">16</container>
+              <container id="aspace_70bf65de7d85ca274fb4e8c06828e4df" label="Mixed Materials" type="box">11</container>
+              <container id="aspace_b7613d1836897c3ec290da5730047300" parent="aspace_70bf65de7d85ca274fb4e8c06828e4df" type="folder">16</container>
             </did>
           </c>
         </c>
@@ -1672,8 +1672,8 @@
           <did>
             <unittitle>Report Summaries: Copy Instructions</unittitle>
             <unitdate normal="1942/1943" type="inclusive">1942–1943</unitdate>
-            <container id="aspace_f0108516827892943ee7868ef0e6f315" label="Mixed Materials" type="box">11</container>
-            <container id="aspace_6f9b9773004706ac85c02dcd205f9d4d" parent="aspace_f0108516827892943ee7868ef0e6f315" type="folder">17</container>
+            <container id="aspace_b5e6efdba38cff1c8fc4a13a7a7c7d2b" label="Mixed Materials" type="box">11</container>
+            <container id="aspace_ee4d370c385493aed38851a8956dcb6c" parent="aspace_b5e6efdba38cff1c8fc4a13a7a7c7d2b" type="folder">17</container>
           </did>
         </c>
         <c id="aspace_ref195_ion" level="file">
@@ -1684,112 +1684,112 @@
             <did>
               <unittitle>Chapter 19. Chemical Reactions of the Sulfur and Nitrogen Mustards</unittitle>
               <unitdate normal="1946/1946" type="inclusive">undated, 1946</unitdate>
-              <container id="aspace_2bd40e3eb342c2a1a1ee67f08c61fc62" label="Mixed Materials" type="box">11</container>
-              <container id="aspace_dab75d921a65d61558d69ee4db370698" parent="aspace_2bd40e3eb342c2a1a1ee67f08c61fc62" type="folder">18</container>
+              <container id="aspace_7c81f2478e2fef547c9adbb027841a36" label="Mixed Materials" type="box">11</container>
+              <container id="aspace_d4a09482565348940ed099c341cc7181" parent="aspace_7c81f2478e2fef547c9adbb027841a36" type="folder">18</container>
             </did>
           </c>
           <c id="aspace_ref197_4b5" level="file">
             <did>
               <unittitle>Laboratory Notes</unittitle>
               <unitdate normal="1942/1942" type="inclusive">1942</unitdate>
-              <container id="aspace_0f927df3c7df57b55291576249952b5a" label="Mixed Materials" type="box">11</container>
-              <container id="aspace_102e917f63a52cafa6344f4ce8ca65ad" parent="aspace_0f927df3c7df57b55291576249952b5a" type="folder">19</container>
+              <container id="aspace_3ccdf8ea3db69eba94ddc58c64b0b06a" label="Mixed Materials" type="box">11</container>
+              <container id="aspace_a1d0e72ffb686fe037ffdb797e4e952a" parent="aspace_3ccdf8ea3db69eba94ddc58c64b0b06a" type="folder">19</container>
             </did>
           </c>
           <c id="aspace_ref198_co1" level="file">
             <did>
               <unittitle>Laboratory Notes</unittitle>
               <unitdate normal="1943/1944" type="inclusive">1943–1944</unitdate>
-              <container id="aspace_76679047cec827204207b314dacfd654" label="Mixed Materials" type="box">11</container>
-              <container id="aspace_67cb5d88a351d8ef1e1d72552cd71609" parent="aspace_76679047cec827204207b314dacfd654" type="folder">20</container>
+              <container id="aspace_2b8bad181eeb6c6db616b7446bf2f787" label="Mixed Materials" type="box">11</container>
+              <container id="aspace_0c5919e3185a8a86cc3a29f3578d9a8b" parent="aspace_2b8bad181eeb6c6db616b7446bf2f787" type="folder">20</container>
             </did>
           </c>
           <c id="aspace_ref199_3ry" level="file">
             <did>
               <unittitle>Literature Notes – 1130</unittitle>
               <unitdate normal="1942/1942" type="inclusive">1942</unitdate>
-              <container id="aspace_00608c8d325e13fbe1ce82414de52a28" label="Mixed Materials" type="box">12</container>
-              <container id="aspace_42a73b3898b83c042e3df1c72352ecf6" parent="aspace_00608c8d325e13fbe1ce82414de52a28" type="folder">1</container>
+              <container id="aspace_2ad0c5d00eb5c5ba53c4f046ff0f52dc" label="Mixed Materials" type="box">12</container>
+              <container id="aspace_1ec59526642f88dd79c6f6b3c34b1225" parent="aspace_2ad0c5d00eb5c5ba53c4f046ff0f52dc" type="folder">1</container>
             </did>
           </c>
           <c id="aspace_ref200_0i2" level="file">
             <did>
               <unittitle>Literature Notes – H (Chemical)</unittitle>
               <unitdate normal="1940/1945" type="inclusive">1940–1945</unitdate>
-              <container id="aspace_26e15f984df334bc0931988d5c127823" label="Mixed Materials" type="box">12</container>
-              <container id="aspace_7ab93cef15f58ae7ad4318225ff60b92" parent="aspace_26e15f984df334bc0931988d5c127823" type="folder">2</container>
+              <container id="aspace_d105b55380e2e30bcd8d84e345f63d57" label="Mixed Materials" type="box">12</container>
+              <container id="aspace_f5b4dac5de6be43fffa8ffa9dcd52f96" parent="aspace_d105b55380e2e30bcd8d84e345f63d57" type="folder">2</container>
             </did>
           </c>
           <c id="aspace_ref201_2ii" level="file">
             <did>
               <unittitle>Literature Notes – H (Physiological)</unittitle>
               <unitdate normal="1942/1944" type="inclusive">1942–1944</unitdate>
-              <container id="aspace_a02e933be5a24935a7ac541e5114b081" label="Mixed Materials" type="box">12</container>
-              <container id="aspace_e9f16b9658525ec4d25ac139dee66d9d" parent="aspace_a02e933be5a24935a7ac541e5114b081" type="folder">3</container>
+              <container id="aspace_7f3a218ebf54b57f50ddcf22a5c4d168" label="Mixed Materials" type="box">12</container>
+              <container id="aspace_2e0c40c2ff3dfa2ffeccb965480e0a75" parent="aspace_7f3a218ebf54b57f50ddcf22a5c4d168" type="folder">3</container>
             </did>
           </c>
           <c id="aspace_ref202_m9a" level="file">
             <did>
               <unittitle>Literature Notes – H and Divinyl Sulfone</unittitle>
               <unitdate normal="1941/1944" type="inclusive">1941–1944</unitdate>
-              <container id="aspace_cafce471beec6dd1be3a5e2bfa726e4a" label="Mixed Materials" type="box">12</container>
-              <container id="aspace_35626f23682304d2c28e40ae478f7df5" parent="aspace_cafce471beec6dd1be3a5e2bfa726e4a" type="folder">4</container>
+              <container id="aspace_e16008f8e767e78a8dde7f48e26818fd" label="Mixed Materials" type="box">12</container>
+              <container id="aspace_2341998a92323a8136c6682ec1c0c982" parent="aspace_e16008f8e767e78a8dde7f48e26818fd" type="folder">4</container>
             </did>
           </c>
           <c id="aspace_ref203_wmz" level="file">
             <did>
               <unittitle>Literature Notes – MFA</unittitle>
               <unitdate normal="1942/1944" type="inclusive">undated, 1942–1944</unitdate>
-              <container id="aspace_7ae0702738d5f4b8e35d063650d6d534" label="Mixed Materials" type="box">12</container>
-              <container id="aspace_8a90577811f80187a2c66a63cf634501" parent="aspace_7ae0702738d5f4b8e35d063650d6d534" type="folder">5</container>
+              <container id="aspace_44e19325acdef579891b804defe26cd4" label="Mixed Materials" type="box">12</container>
+              <container id="aspace_3e4685bf4f24d741d777a58c403a4061" parent="aspace_44e19325acdef579891b804defe26cd4" type="folder">5</container>
             </did>
           </c>
           <c id="aspace_ref204_3wc" level="file">
             <did>
               <unittitle>Literature Notes – N–Mustards</unittitle>
               <unitdate normal="1942/1944" type="inclusive">1942–1944</unitdate>
-              <container id="aspace_e2256e3095486beb6bd6b563b5ad6308" label="Mixed Materials" type="box">12</container>
-              <container id="aspace_05b4f5fc0361c32471faa029ccf8066c" parent="aspace_e2256e3095486beb6bd6b563b5ad6308" type="folder">6</container>
+              <container id="aspace_04bddd0220f2d094a67d27cb3b825752" label="Mixed Materials" type="box">12</container>
+              <container id="aspace_059e1f8e17c11a1bb04333b8b9a73fce" parent="aspace_04bddd0220f2d094a67d27cb3b825752" type="folder">6</container>
             </did>
           </c>
           <c id="aspace_ref205_lcd" level="file">
             <did>
               <unittitle>Literature Notes – Other Agents</unittitle>
               <unitdate normal="1942/1944" type="inclusive">undated, 1942–1944</unitdate>
-              <container id="aspace_2380e85121569a02f278a8fc5c77edb5" label="Mixed Materials" type="box">12</container>
-              <container id="aspace_59285a1b162c25fcd9bf00f8815ad056" parent="aspace_2380e85121569a02f278a8fc5c77edb5" type="folder">7</container>
+              <container id="aspace_aac8c0b7c37f328ece014cf52e2b4346" label="Mixed Materials" type="box">12</container>
+              <container id="aspace_b39827986227fbdbf0fd480af77d85bf" parent="aspace_aac8c0b7c37f328ece014cf52e2b4346" type="folder">7</container>
             </did>
           </c>
           <c id="aspace_ref206_mzy" level="file">
             <did>
               <unittitle>Literature Notes – Q and Related Compounds</unittitle>
               <unitdate normal="1943/1943" type="inclusive">undated, 1943</unitdate>
-              <container id="aspace_1ba22bfd4a18d1a67549ef22b7598d89" label="Mixed Materials" type="box">12</container>
-              <container id="aspace_aefa22dc406841130a3cad0cca725b4c" parent="aspace_1ba22bfd4a18d1a67549ef22b7598d89" type="folder">8</container>
+              <container id="aspace_1b3d9a8fa237db68a29386ea1848c803" label="Mixed Materials" type="box">12</container>
+              <container id="aspace_74fa3349df76688eaf5d4c50ee14ef1a" parent="aspace_1b3d9a8fa237db68a29386ea1848c803" type="folder">8</container>
             </did>
           </c>
           <c id="aspace_ref207_mam" level="file">
             <did>
               <unittitle>Literature Notes – W Agent</unittitle>
               <unitdate normal="1943/1943" type="inclusive">undated, 1943</unitdate>
-              <container id="aspace_d4d44ff60af4dc0c3e1cb68c8fe02f8b" label="Mixed Materials" type="box">12</container>
-              <container id="aspace_8587106f24253a05bba0b391ec07e0ef" parent="aspace_d4d44ff60af4dc0c3e1cb68c8fe02f8b" type="folder">9</container>
+              <container id="aspace_66db537d7c6403f954737066c2b49036" label="Mixed Materials" type="box">12</container>
+              <container id="aspace_ec2292cb04e6743e1a3ad0bb5c7417f4" parent="aspace_66db537d7c6403f954737066c2b49036" type="folder">9</container>
             </did>
           </c>
           <c id="aspace_ref208_r5x" level="file">
             <did>
               <unittitle>Special Notes</unittitle>
               <unitdate normal="1942/1942" type="inclusive">1942</unitdate>
-              <container id="aspace_798162d00bb79a4bb576024a9e3596cc" label="Mixed Materials" type="box">12</container>
-              <container id="aspace_8e7caaccb4acfd6d99085961122f753d" parent="aspace_798162d00bb79a4bb576024a9e3596cc" type="folder">10</container>
+              <container id="aspace_fa94e621af1c2bb5a4d124c77a251c10" label="Mixed Materials" type="box">12</container>
+              <container id="aspace_5b313b1bfb611412e0a6a47276063184" parent="aspace_fa94e621af1c2bb5a4d124c77a251c10" type="folder">10</container>
             </did>
           </c>
           <c id="aspace_ref209_rq7" level="file">
             <did>
               <unittitle>TL 110</unittitle>
               <unitdate normal="1943/1943" type="inclusive">undated, 1943</unitdate>
-              <container id="aspace_16fa334b9699ced02f5ebccd261ca260" label="Mixed Materials" type="box">12</container>
-              <container id="aspace_2cea14a2314075976399d5b277f2b8bb" parent="aspace_16fa334b9699ced02f5ebccd261ca260" type="folder">11</container>
+              <container id="aspace_ababe9e6071aa19722efdf38632e5ee4" label="Mixed Materials" type="box">12</container>
+              <container id="aspace_91b465864b6b611edeaa8435012c0e85" parent="aspace_ababe9e6071aa19722efdf38632e5ee4" type="folder">11</container>
             </did>
           </c>
         </c>
@@ -1815,24 +1815,24 @@
           <did>
             <unittitle>Collected Papers: Bibliography</unittitle>
             <unitdate normal="1946/1946" type="inclusive">[1946+]</unitdate>
-            <container id="aspace_66f1eb7c9977d5112efc742b2f8d6385" label="Mixed Materials" type="box">12</container>
-            <container id="aspace_4bfd1e875531a09a23a245eb6f8da30e" parent="aspace_66f1eb7c9977d5112efc742b2f8d6385" type="folder">12</container>
+            <container id="aspace_3ed30185fcd6d32ea0f07175bb528c43" label="Mixed Materials" type="box">12</container>
+            <container id="aspace_40927f659a68d003c48d801545c49102" parent="aspace_3ed30185fcd6d32ea0f07175bb528c43" type="folder">12</container>
           </did>
         </c>
         <c id="aspace_ref215_6v6" level="file">
           <did>
             <unittitle>Reprint Index</unittitle>
             <unitdate normal="1911/1926" type="inclusive">1911–1926</unitdate>
-            <container id="aspace_a4ab6ef7ea6bfa8f517382f593e2f026" label="Mixed Materials" type="box">12</container>
-            <container id="aspace_db76795172e49c9cb1dfe297182440bc" parent="aspace_a4ab6ef7ea6bfa8f517382f593e2f026" type="folder">13</container>
+            <container id="aspace_79596e80a0156d1e987b40b5a4954029" label="Mixed Materials" type="box">12</container>
+            <container id="aspace_4cbf01e9c2e78110f05fef204a956fd6" parent="aspace_79596e80a0156d1e987b40b5a4954029" type="folder">13</container>
           </did>
         </c>
         <c id="aspace_ref216_9vh" level="file">
           <did>
             <unittitle>Reprint Lists</unittitle>
             <unitdate normal="1926/1941" type="inclusive">[1926+, 1941+]</unitdate>
-            <container id="aspace_90ef78eae340be76705515ae4d9dac36" label="Mixed Materials" type="box">12</container>
-            <container id="aspace_84e9372e9857357c672d392c41002670" parent="aspace_90ef78eae340be76705515ae4d9dac36" type="folder">14</container>
+            <container id="aspace_4bb0bdb8665d80b33939cde92ccad117" label="Mixed Materials" type="box">12</container>
+            <container id="aspace_31887eec3a7dcc9460b1fedac111fbc7" parent="aspace_4bb0bdb8665d80b33939cde92ccad117" type="folder">14</container>
           </did>
         </c>
         <c id="aspace_ref217_m7d" level="file">
@@ -1843,240 +1843,240 @@
             <did>
               <unittitle>1–10</unittitle>
               <unitdate normal="1911/1921" type="inclusive">1911–1921</unitdate>
-              <container id="aspace_6dc2c1a61d4975bf26571def372c7ec4" label="Mixed Materials" type="box">12</container>
-              <container id="aspace_824b00601373b3b3dd50b60dc20f2154" parent="aspace_6dc2c1a61d4975bf26571def372c7ec4" type="folder">15</container>
+              <container id="aspace_07d064a1b56499a326e7e511f5f50656" label="Mixed Materials" type="box">12</container>
+              <container id="aspace_557c3af518439da41fba23b171a37a2e" parent="aspace_07d064a1b56499a326e7e511f5f50656" type="folder">15</container>
             </did>
           </c>
           <c id="aspace_ref219_ebt" level="file">
             <did>
               <unittitle>11–20</unittitle>
               <unitdate normal="1921/1922" type="inclusive">1921–1922</unitdate>
-              <container id="aspace_2149dd2e299020f518f4b1194fc51ec2" label="Mixed Materials" type="box">12</container>
-              <container id="aspace_47f37693c33919d47b48f3459a27c72f" parent="aspace_2149dd2e299020f518f4b1194fc51ec2" type="folder">16</container>
+              <container id="aspace_71783cbbc8ec20b527ec9244d5383dc2" label="Mixed Materials" type="box">12</container>
+              <container id="aspace_c94424e151d9957a053de965bb3ce19c" parent="aspace_71783cbbc8ec20b527ec9244d5383dc2" type="folder">16</container>
             </did>
           </c>
           <c id="aspace_ref220_wj2" level="file">
             <did>
               <unittitle>21–30</unittitle>
               <unitdate normal="1922/1923" type="inclusive">1922–1923</unitdate>
-              <container id="aspace_b29e6e1f7acfd0401a058d787c4b38ba" label="Mixed Materials" type="box">12</container>
-              <container id="aspace_965b4c25b403a681ed1e6b018c95bedd" parent="aspace_b29e6e1f7acfd0401a058d787c4b38ba" type="folder">17</container>
+              <container id="aspace_e847c592bdc5e21df52d914235fe9798" label="Mixed Materials" type="box">12</container>
+              <container id="aspace_d35872ce38e1ea5a0fe51b375b19e7ca" parent="aspace_e847c592bdc5e21df52d914235fe9798" type="folder">17</container>
             </did>
           </c>
           <c id="aspace_ref221_gip" level="file">
             <did>
               <unittitle>31–40</unittitle>
               <unitdate normal="1923/1924" type="inclusive">1923–1924</unitdate>
-              <container id="aspace_60c906b79671214b8ab61cbac8c9a7cd" label="Mixed Materials" type="box">12</container>
-              <container id="aspace_cad11f08a8c4ed1d29aeb985b6310c99" parent="aspace_60c906b79671214b8ab61cbac8c9a7cd" type="folder">18</container>
+              <container id="aspace_ac1335d98ea61a5683fa52fc9e30d885" label="Mixed Materials" type="box">12</container>
+              <container id="aspace_b48e5d3e78626d95862b7fc495b584f7" parent="aspace_ac1335d98ea61a5683fa52fc9e30d885" type="folder">18</container>
             </did>
           </c>
           <c id="aspace_ref222_0yw" level="file">
             <did>
               <unittitle>41–50</unittitle>
               <unitdate normal="1924/1925" type="inclusive">1924–1925</unitdate>
-              <container id="aspace_fe1b2b4e3bc6633c0dda084521caa77d" label="Mixed Materials" type="box">13</container>
-              <container id="aspace_975b33ce5c04fa5338372cb4089c4352" parent="aspace_fe1b2b4e3bc6633c0dda084521caa77d" type="folder">1</container>
+              <container id="aspace_4f873038286fc9174bc482298c800bc2" label="Mixed Materials" type="box">13</container>
+              <container id="aspace_6ab0d9881bf142acd0c390344f254be0" parent="aspace_4f873038286fc9174bc482298c800bc2" type="folder">1</container>
             </did>
           </c>
           <c id="aspace_ref223_uj1" level="file">
             <did>
               <unittitle>51–60</unittitle>
               <unitdate normal="1925/1925" type="inclusive">1925</unitdate>
-              <container id="aspace_c2cf2d391df0d61917b008be0a366d49" label="Mixed Materials" type="box">13</container>
-              <container id="aspace_38e6f94c1877beee9d298bd7ba8ea7c1" parent="aspace_c2cf2d391df0d61917b008be0a366d49" type="folder">2</container>
+              <container id="aspace_d244801d84d51122f1a67548a536292b" label="Mixed Materials" type="box">13</container>
+              <container id="aspace_2e27bd7f58fa74f87b1d66a51cd58ab1" parent="aspace_d244801d84d51122f1a67548a536292b" type="folder">2</container>
             </did>
           </c>
           <c id="aspace_ref224_40d" level="file">
             <did>
               <unittitle>61–70</unittitle>
               <unitdate normal="1925/1926" type="inclusive">1925–1926</unitdate>
-              <container id="aspace_ebe414a7f0fd67137043c9a343f667b8" label="Mixed Materials" type="box">13</container>
-              <container id="aspace_019bb7b698e9a66e0be783ae057b2201" parent="aspace_ebe414a7f0fd67137043c9a343f667b8" type="folder">3</container>
+              <container id="aspace_d3f351238e20d53abc8c383b8b276737" label="Mixed Materials" type="box">13</container>
+              <container id="aspace_d49156305044504eb24200556200df9b" parent="aspace_d3f351238e20d53abc8c383b8b276737" type="folder">3</container>
             </did>
           </c>
           <c id="aspace_ref225_wd2" level="file">
             <did>
               <unittitle>71–80</unittitle>
               <unitdate normal="1926/1926" type="inclusive">1926</unitdate>
-              <container id="aspace_0af65bee5bd3bcb8c0ea4bcae11313df" label="Mixed Materials" type="box">13</container>
-              <container id="aspace_52cba6442c693d259baec840f04efd5d" parent="aspace_0af65bee5bd3bcb8c0ea4bcae11313df" type="folder">4</container>
+              <container id="aspace_ba90ad284cb214709b4e35feef0b8fb5" label="Mixed Materials" type="box">13</container>
+              <container id="aspace_ef73471c3830a5c4f7abb0f19d76fdbc" parent="aspace_ba90ad284cb214709b4e35feef0b8fb5" type="folder">4</container>
             </did>
           </c>
           <c id="aspace_ref226_e7i" level="file">
             <did>
               <unittitle>81–90</unittitle>
               <unitdate normal="1926/1927" type="inclusive">1926–1927</unitdate>
-              <container id="aspace_69888ca14d9ad018d3eb63c6e9520bf3" label="Mixed Materials" type="box">13</container>
-              <container id="aspace_7de366f31fdc82da8c30cf84182a44b5" parent="aspace_69888ca14d9ad018d3eb63c6e9520bf3" type="folder">5</container>
+              <container id="aspace_30c24b0451f5e377cf19a3621f90053e" label="Mixed Materials" type="box">13</container>
+              <container id="aspace_3e08b99ff3b86c2665e467bc7fc92fd1" parent="aspace_30c24b0451f5e377cf19a3621f90053e" type="folder">5</container>
             </did>
           </c>
           <c id="aspace_ref227_j7d" level="file">
             <did>
               <unittitle>91–100</unittitle>
               <unitdate normal="1928/1928" type="inclusive">1928</unitdate>
-              <container id="aspace_50064ce1fefc7c6ff93666edb90b253f" label="Mixed Materials" type="box">13</container>
-              <container id="aspace_68d63f9e47ae52d901a9fd4ce96c959e" parent="aspace_50064ce1fefc7c6ff93666edb90b253f" type="folder">6</container>
+              <container id="aspace_d65c23aa74d76c3905a74b72d2771899" label="Mixed Materials" type="box">13</container>
+              <container id="aspace_3a6bb2e168a0e442412b93102bd7b269" parent="aspace_d65c23aa74d76c3905a74b72d2771899" type="folder">6</container>
             </did>
           </c>
           <c id="aspace_ref228_eai" level="file">
             <did>
               <unittitle>101–110</unittitle>
               <unitdate normal="1928/1929" type="inclusive">1928–1929</unitdate>
-              <container id="aspace_bb62ffc8e2e76dd93f599704e0ad0bb4" label="Mixed Materials" type="box">13</container>
-              <container id="aspace_eb6d1bd81d9408fa83dfc77cd61f0cd1" parent="aspace_bb62ffc8e2e76dd93f599704e0ad0bb4" type="folder">7</container>
+              <container id="aspace_e6b2651f2f14f475ae964587186593e9" label="Mixed Materials" type="box">13</container>
+              <container id="aspace_9fcccf95c276f4b26983f1c69323ff93" parent="aspace_e6b2651f2f14f475ae964587186593e9" type="folder">7</container>
             </did>
           </c>
           <c id="aspace_ref229_l4g" level="file">
             <did>
               <unittitle>111–120</unittitle>
               <unitdate normal="1929/1929" type="inclusive">1929</unitdate>
-              <container id="aspace_3b3e29076b45fa575ec9ab819709987d" label="Mixed Materials" type="box">13</container>
-              <container id="aspace_7bff0e1aa8ccc1ddf9f86b4b458dd731" parent="aspace_3b3e29076b45fa575ec9ab819709987d" type="folder">8</container>
+              <container id="aspace_7d4a484750ffa3ca66627804efc8a94e" label="Mixed Materials" type="box">13</container>
+              <container id="aspace_1eb9f523125fb7abdeff6d5746412f1f" parent="aspace_7d4a484750ffa3ca66627804efc8a94e" type="folder">8</container>
             </did>
           </c>
           <c id="aspace_ref230_qnx" level="file">
             <did>
               <unittitle>121–130</unittitle>
               <unitdate normal="1929/1930" type="inclusive">1929–1930</unitdate>
-              <container id="aspace_6f00d6889d75510c87b64cffaf866be1" label="Mixed Materials" type="box">13</container>
-              <container id="aspace_1cffadaf4e023c831c8078c432ac6a08" parent="aspace_6f00d6889d75510c87b64cffaf866be1" type="folder">9</container>
+              <container id="aspace_96dca7d935350e55745948afdcd8b0ba" label="Mixed Materials" type="box">13</container>
+              <container id="aspace_f9766c73d42e73e724276a9a01fc5678" parent="aspace_96dca7d935350e55745948afdcd8b0ba" type="folder">9</container>
             </did>
           </c>
           <c id="aspace_ref231_m5f" level="file">
             <did>
               <unittitle>131–140</unittitle>
               <unitdate normal="1930/1930" type="inclusive">1930</unitdate>
-              <container id="aspace_3234fe7f2e28481868e7dd11a6f22980" label="Mixed Materials" type="box">13</container>
-              <container id="aspace_58b3e09d34e6a44ac0a2029905c3393d" parent="aspace_3234fe7f2e28481868e7dd11a6f22980" type="folder">10</container>
+              <container id="aspace_69bd5994862925da0334b134da642ede" label="Mixed Materials" type="box">13</container>
+              <container id="aspace_ff5de43aa8ce27b9473faabb11b5c2a8" parent="aspace_69bd5994862925da0334b134da642ede" type="folder">10</container>
             </did>
           </c>
           <c id="aspace_ref232_go1" level="file">
             <did>
               <unittitle>141–150</unittitle>
               <unitdate normal="1930/1931" type="inclusive">1930–1931</unitdate>
-              <container id="aspace_6e390a6b6c3fd7d002e881d3d94fbe81" label="Mixed Materials" type="box">13</container>
-              <container id="aspace_d450d8b43eda764278c4842caafd6e9c" parent="aspace_6e390a6b6c3fd7d002e881d3d94fbe81" type="folder">11</container>
+              <container id="aspace_3f8030ae9f0a05f4925b2ad645e894c5" label="Mixed Materials" type="box">13</container>
+              <container id="aspace_fde5ef95a807edefefa288634c333e26" parent="aspace_3f8030ae9f0a05f4925b2ad645e894c5" type="folder">11</container>
             </did>
           </c>
           <c id="aspace_ref233_j6r" level="file">
             <did>
               <unittitle>151–160</unittitle>
               <unitdate normal="1931/1931" type="inclusive">1931</unitdate>
-              <container id="aspace_ef311361c069d6cd48b37de12b3a7062" label="Mixed Materials" type="box">13</container>
-              <container id="aspace_217d2d39a5f7c695ff062341f0fcb3db" parent="aspace_ef311361c069d6cd48b37de12b3a7062" type="folder">12</container>
+              <container id="aspace_2f8ea3be27524341ee168624e16e2bee" label="Mixed Materials" type="box">13</container>
+              <container id="aspace_d1682f7e6b16995a1e6cdfc2e96d4d3f" parent="aspace_2f8ea3be27524341ee168624e16e2bee" type="folder">12</container>
             </did>
           </c>
           <c id="aspace_ref234_5il" level="file">
             <did>
               <unittitle>161–170</unittitle>
               <unitdate normal="1932/1932" type="inclusive">1932</unitdate>
-              <container id="aspace_e1a7babef32aba0177065b82c7ab8880" label="Mixed Materials" type="box">13</container>
-              <container id="aspace_5e9bf22d7f3e2536a673e13970f7867f" parent="aspace_e1a7babef32aba0177065b82c7ab8880" type="folder">13</container>
+              <container id="aspace_8d041a9804d7d58b0a3f4001e3a4a3f0" label="Mixed Materials" type="box">13</container>
+              <container id="aspace_45187ec8df9d3a17f12b25054db0272f" parent="aspace_8d041a9804d7d58b0a3f4001e3a4a3f0" type="folder">13</container>
             </did>
           </c>
           <c id="aspace_ref235_qve" level="file">
             <did>
               <unittitle>171–180</unittitle>
               <unitdate normal="1932/1932" type="inclusive">1932</unitdate>
-              <container id="aspace_f3736ec5658655c0310f90ffda9c079e" label="Mixed Materials" type="box">13</container>
-              <container id="aspace_eb38ce9e91571244aabd1d13a0cb56e1" parent="aspace_f3736ec5658655c0310f90ffda9c079e" type="folder">14</container>
+              <container id="aspace_629da8e62fe03d4706f64af6ee107fb3" label="Mixed Materials" type="box">13</container>
+              <container id="aspace_94f98f4f6812aca8d8d088077fd1cde8" parent="aspace_629da8e62fe03d4706f64af6ee107fb3" type="folder">14</container>
             </did>
           </c>
           <c id="aspace_ref236_w43" level="file">
             <did>
               <unittitle>181–190</unittitle>
               <unitdate normal="1932/1933" type="inclusive">1932–1933</unitdate>
-              <container id="aspace_91c966b9bbb73abd6ee66fde64d55790" label="Mixed Materials" type="box">13</container>
-              <container id="aspace_1bbe05910931d7bbd5e5ea4b28f65fe3" parent="aspace_91c966b9bbb73abd6ee66fde64d55790" type="folder">15</container>
+              <container id="aspace_98e38b705a10006468232272d3c20f9d" label="Mixed Materials" type="box">13</container>
+              <container id="aspace_a74194f03b7e64ab6f32f417663689bc" parent="aspace_98e38b705a10006468232272d3c20f9d" type="folder">15</container>
             </did>
           </c>
           <c id="aspace_ref237_rsi" level="file">
             <did>
               <unittitle>191–200</unittitle>
               <unitdate normal="1933/1934" type="inclusive">1933–1934</unitdate>
-              <container id="aspace_3f4c42242eba3989b3faa26b1b27072f" label="Mixed Materials" type="box">14</container>
-              <container id="aspace_063ddd4dcba901f349bb19832c83d8f4" parent="aspace_3f4c42242eba3989b3faa26b1b27072f" type="folder">1</container>
+              <container id="aspace_2807366ba9ff42ce2c67f86012de6346" label="Mixed Materials" type="box">14</container>
+              <container id="aspace_949f16ce82d56295b5c61e5b1bcb07fd" parent="aspace_2807366ba9ff42ce2c67f86012de6346" type="folder">1</container>
             </did>
           </c>
           <c id="aspace_ref238_qq0" level="file">
             <did>
               <unittitle>201–210</unittitle>
               <unitdate normal="1934/1934" type="inclusive">1934</unitdate>
-              <container id="aspace_d5df9ff36f287d23c6f5c025ea3eb894" label="Mixed Materials" type="box">14</container>
-              <container id="aspace_d6c3ca2831188c105dc8f4827bbd7ded" parent="aspace_d5df9ff36f287d23c6f5c025ea3eb894" type="folder">2</container>
+              <container id="aspace_3b037207ffce416f1a7c98846872af2d" label="Mixed Materials" type="box">14</container>
+              <container id="aspace_361acc3e72dcc7a16edf0be0cdc5cc0d" parent="aspace_3b037207ffce416f1a7c98846872af2d" type="folder">2</container>
             </did>
           </c>
           <c id="aspace_ref239_k4d" level="file">
             <did>
               <unittitle>211–220</unittitle>
               <unitdate normal="1934/1935" type="inclusive">1934–1935</unitdate>
-              <container id="aspace_9d692f98c21ba97f8adcd0d835246105" label="Mixed Materials" type="box">14</container>
-              <container id="aspace_4ceb3f51110a874c51f60891d8d5ad0b" parent="aspace_9d692f98c21ba97f8adcd0d835246105" type="folder">3</container>
+              <container id="aspace_91d48b1b4179d35eb223470026a342d3" label="Mixed Materials" type="box">14</container>
+              <container id="aspace_8c0054963dbf2066b1dc66a09fe83ece" parent="aspace_91d48b1b4179d35eb223470026a342d3" type="folder">3</container>
             </did>
           </c>
           <c id="aspace_ref240_yvz" level="file">
             <did>
               <unittitle>221–230</unittitle>
               <unitdate normal="1936/1937" type="inclusive">1936–1937</unitdate>
-              <container id="aspace_2787886d1f077cdbd7f6e5e7d6fded3a" label="Mixed Materials" type="box">14</container>
-              <container id="aspace_55f13f31349747cb194240c7e4d2c644" parent="aspace_2787886d1f077cdbd7f6e5e7d6fded3a" type="folder">4</container>
+              <container id="aspace_bcc9c37432345983d34aa2a6c1dcec33" label="Mixed Materials" type="box">14</container>
+              <container id="aspace_bd9d1043a9ed8aefeaa2e5447792e6a0" parent="aspace_bcc9c37432345983d34aa2a6c1dcec33" type="folder">4</container>
             </did>
           </c>
           <c id="aspace_ref241_9ad" level="file">
             <did>
               <unittitle>231–240</unittitle>
               <unitdate normal="1937/1938" type="inclusive">1937–1938</unitdate>
-              <container id="aspace_0b8ac43cbd7b38d78d733382d2e9193c" label="Mixed Materials" type="box">14</container>
-              <container id="aspace_30a70308958dc4309da7f6efb42882bc" parent="aspace_0b8ac43cbd7b38d78d733382d2e9193c" type="folder">5</container>
+              <container id="aspace_7864a29fc254d1d5aa6d9d6ba6097b5f" label="Mixed Materials" type="box">14</container>
+              <container id="aspace_e13df35ebc24405a5be0280e8b26627e" parent="aspace_7864a29fc254d1d5aa6d9d6ba6097b5f" type="folder">5</container>
             </did>
           </c>
           <c id="aspace_ref242_266" level="file">
             <did>
               <unittitle>241–250</unittitle>
               <unitdate normal="1937/1939" type="inclusive">1937–1939</unitdate>
-              <container id="aspace_6d098c5b4f19c0dd68bf897d02a093b9" label="Mixed Materials" type="box">14</container>
-              <container id="aspace_e21e42a3255a738c4ac6c1f5d9d91cea" parent="aspace_6d098c5b4f19c0dd68bf897d02a093b9" type="folder">6</container>
+              <container id="aspace_28b16d1b666a5e50736972806b1d5db5" label="Mixed Materials" type="box">14</container>
+              <container id="aspace_18785d05dc185082a49888f68c9f23ee" parent="aspace_28b16d1b666a5e50736972806b1d5db5" type="folder">6</container>
             </did>
           </c>
           <c id="aspace_ref243_pum" level="file">
             <did>
               <unittitle>251–260</unittitle>
               <unitdate normal="1939/1940" type="inclusive">1939–1940</unitdate>
-              <container id="aspace_151e076a65c3a2deeb652a6126835a80" label="Mixed Materials" type="box">14</container>
-              <container id="aspace_80573d8f8788dc273e117db18918817b" parent="aspace_151e076a65c3a2deeb652a6126835a80" type="folder">7</container>
+              <container id="aspace_06137b28733d432b8172b6e5f79fed21" label="Mixed Materials" type="box">14</container>
+              <container id="aspace_db2e5a1b3c22132749c0d079b42fafd9" parent="aspace_06137b28733d432b8172b6e5f79fed21" type="folder">7</container>
             </did>
           </c>
           <c id="aspace_ref244_iq9" level="file">
             <did>
               <unittitle>261–270</unittitle>
               <unitdate normal="1940/1941" type="inclusive">1940–1941</unitdate>
-              <container id="aspace_d1c388a1f329141b38bf339db0c7521b" label="Mixed Materials" type="box">14</container>
-              <container id="aspace_d5ba74998d54a34c2b757aa53b075806" parent="aspace_d1c388a1f329141b38bf339db0c7521b" type="folder">8</container>
+              <container id="aspace_19c8db6aaea669d66d8368b419eb5974" label="Mixed Materials" type="box">14</container>
+              <container id="aspace_1fd5b093de6eb91bb060e7fe433a8700" parent="aspace_19c8db6aaea669d66d8368b419eb5974" type="folder">8</container>
             </did>
           </c>
           <c id="aspace_ref245_llb" level="file">
             <did>
               <unittitle>271–280</unittitle>
               <unitdate normal="1941/1942" type="inclusive">1941–1942</unitdate>
-              <container id="aspace_096941a96b30d03f07eb2c5778c5b328" label="Mixed Materials" type="box">14</container>
-              <container id="aspace_a52462d1e7dcb664961cef68ccf3cd36" parent="aspace_096941a96b30d03f07eb2c5778c5b328" type="folder">9</container>
+              <container id="aspace_40e0ace311a92cfef29b651eeb9f0c84" label="Mixed Materials" type="box">14</container>
+              <container id="aspace_09e6ee23a01495a7b0f9e9588242dded" parent="aspace_40e0ace311a92cfef29b651eeb9f0c84" type="folder">9</container>
             </did>
           </c>
           <c id="aspace_ref246_od0" level="file">
             <did>
               <unittitle>281–290</unittitle>
               <unitdate normal="1942/1945" type="inclusive">1942–1945</unitdate>
-              <container id="aspace_0606c18d863a7e0801355f52be8c5739" label="Mixed Materials" type="box">14</container>
-              <container id="aspace_fe967c40727f8d0e28d4463575e5e224" parent="aspace_0606c18d863a7e0801355f52be8c5739" type="folder">10</container>
+              <container id="aspace_25b49854f102e59d991f931e8476eb8c" label="Mixed Materials" type="box">14</container>
+              <container id="aspace_f8bb19926cb9f182dffc81be14f90bab" parent="aspace_25b49854f102e59d991f931e8476eb8c" type="folder">10</container>
             </did>
           </c>
           <c id="aspace_ref247_1b6" level="file">
             <did>
               <unittitle>Un–numbered</unittitle>
               <unitdate normal="1926/1946" type="inclusive">1926–1946</unitdate>
-              <container id="aspace_912c5f8b657588ae46b1a410d33177db" label="Mixed Materials" type="box">14</container>
-              <container id="aspace_d3aab277ec8e4ab57b5a1cbfe183765d" parent="aspace_912c5f8b657588ae46b1a410d33177db" type="folder">11</container>
+              <container id="aspace_62ea5fc22fe8c4f4d9f147f84be9edf6" label="Mixed Materials" type="box">14</container>
+              <container id="aspace_9416098cee92a64f1b6dc707d73b059b" parent="aspace_62ea5fc22fe8c4f4d9f147f84be9edf6" type="folder">11</container>
             </did>
           </c>
         </c>
@@ -2106,128 +2106,128 @@
           <did>
             <unittitle>Literature II: A. G. Ogston and R. A. Peters</unittitle>
             <unitdate normal="1940/1943" type="inclusive">1940-1943</unitdate>
-            <container id="aspace_9cade186c51b5409a9b9d1ce127060ec" label="Mixed Materials" type="box">15</container>
-            <container id="aspace_ef42e859ddf30a35616a7a107d699764" parent="aspace_9cade186c51b5409a9b9d1ce127060ec" type="folder">1</container>
+            <container id="aspace_0beb4ab79cc9be10826112ef8c71577f" label="Mixed Materials" type="box">15</container>
+            <container id="aspace_d2ccb70f83fefa8bef835c392a991086" parent="aspace_0beb4ab79cc9be10826112ef8c71577f" type="folder">1</container>
           </did>
         </c>
         <c id="aspace_ref265_efh" level="file">
           <did>
             <unittitle>Literature III: E thru L</unittitle>
             <unitdate normal="1942/1944" type="inclusive">1942-1944</unitdate>
-            <container id="aspace_2ac892060eee18714bed28ab97c9a939" label="Mixed Materials" type="box">15</container>
-            <container id="aspace_3b52c21cc5c73445ef9326f5f6b69d48" parent="aspace_2ac892060eee18714bed28ab97c9a939" type="folder">2</container>
+            <container id="aspace_cd9f9eb528f8f864a0250c9dbb9f2102" label="Mixed Materials" type="box">15</container>
+            <container id="aspace_d822d0c6f5f77ad6b712d224896d4368" parent="aspace_cd9f9eb528f8f864a0250c9dbb9f2102" type="folder">2</container>
           </did>
         </c>
         <c id="aspace_ref266_myn" level="file">
           <did>
             <unittitle>Literature IV: Miscellaneous</unittitle>
             <unitdate normal="1942/1943" type="inclusive">1942-1943</unitdate>
-            <container id="aspace_9b32f2f0b3170c9f57bfa34f8317e058" label="Mixed Materials" type="box">15</container>
-            <container id="aspace_fe65483bff5322f64417288be603b094" parent="aspace_9b32f2f0b3170c9f57bfa34f8317e058" type="folder">3</container>
+            <container id="aspace_5615e09900bde9876cb66630253f89ad" label="Mixed Materials" type="box">15</container>
+            <container id="aspace_ecc51cffac8027522d751456892cf0ed" parent="aspace_5615e09900bde9876cb66630253f89ad" type="folder">3</container>
           </did>
         </c>
         <c id="aspace_ref268_sta" level="file">
           <did>
             <unittitle>Literature V: A thru D</unittitle>
             <unitdate normal="1942/1944" type="inclusive">1942-1944</unitdate>
-            <container id="aspace_0e8aabf2c9459888188acdfde3469ca6" label="Mixed Materials" type="box">15</container>
-            <container id="aspace_90de1e64b98a7501c35a149c1ee3b671" parent="aspace_0e8aabf2c9459888188acdfde3469ca6" type="folder">4</container>
+            <container id="aspace_0744b3517a9aa21b1b452c3f1a0beebb" label="Mixed Materials" type="box">15</container>
+            <container id="aspace_9ce537b15b8f0a3e03ac9b2b999a422a" parent="aspace_0744b3517a9aa21b1b452c3f1a0beebb" type="folder">4</container>
           </did>
         </c>
         <c id="aspace_ref270_duz" level="file">
           <did>
             <unittitle>Literature VI: M thru P</unittitle>
             <unitdate normal="1942/1944" type="inclusive">1942-1944</unitdate>
-            <container id="aspace_d120d7fc76f72ded100ec1da97d0bc1b" label="Mixed Materials" type="box">15</container>
-            <container id="aspace_5f3d19ea3a14fbb02537392ddd1b9883" parent="aspace_d120d7fc76f72ded100ec1da97d0bc1b" type="folder">5</container>
+            <container id="aspace_eeb5b98536d5fe715e034c173d3d9420" label="Mixed Materials" type="box">15</container>
+            <container id="aspace_db9b62ef195dac71e1d48da467c9924c" parent="aspace_eeb5b98536d5fe715e034c173d3d9420" type="folder">5</container>
           </did>
         </c>
         <c id="aspace_ref273_pxq" level="file">
           <did>
             <unittitle>Literature XII: Porton Reports</unittitle>
             <unitdate normal="1942/1944" type="inclusive">1942-1944</unitdate>
-            <container id="aspace_bd805b7af38647e6de04052c63597654" label="Mixed Materials" type="box">15</container>
-            <container id="aspace_b4431e0a54f8c6017c2ec8c6c5fa2f8f" parent="aspace_bd805b7af38647e6de04052c63597654" type="folder">6</container>
+            <container id="aspace_6b04cef6f6f7a09ead1a76e8ba3811ed" label="Mixed Materials" type="box">15</container>
+            <container id="aspace_8f38385fb18a3ba767f04260ef77b628" parent="aspace_6b04cef6f6f7a09ead1a76e8ba3811ed" type="folder">6</container>
           </did>
         </c>
         <c id="aspace_ref275_k1g" level="file">
           <did>
             <unittitle>Literature XIII: Q thru Z</unittitle>
             <unitdate normal="1941/1944" type="inclusive">1941-1944</unitdate>
-            <container id="aspace_8b0c44325ebfca6499634e3a108b8271" label="Mixed Materials" type="box">15</container>
-            <container id="aspace_2477319a5f38e134c89340cdd2eae8bc" parent="aspace_8b0c44325ebfca6499634e3a108b8271" type="folder">7</container>
+            <container id="aspace_722444a01022b1270d160bd18f6a7044" label="Mixed Materials" type="box">15</container>
+            <container id="aspace_a6ed071e69b4173a721200d05afa5df2" parent="aspace_722444a01022b1270d160bd18f6a7044" type="folder">7</container>
           </did>
         </c>
         <c id="aspace_ref277_92a" level="file">
           <did>
             <unittitle>M</unittitle>
             <unitdate normal="1941/1944" type="inclusive">1941–1944</unitdate>
-            <container id="aspace_3af4c112b18fdf383f60723cc0d1ba88" label="Mixed Materials" type="box">15</container>
-            <container id="aspace_3eaee22138e5fe2764cdc385cbb6a648" parent="aspace_3af4c112b18fdf383f60723cc0d1ba88" type="folder">8</container>
+            <container id="aspace_9e17bff5a98f384fddf3c978a3499dbc" label="Mixed Materials" type="box">15</container>
+            <container id="aspace_f972d734b8cb88c3521137dcb18481e1" parent="aspace_9e17bff5a98f384fddf3c978a3499dbc" type="folder">8</container>
           </did>
         </c>
         <c id="aspace_ref279_2ji" level="file">
           <did>
             <unittitle>Research: British Notes</unittitle>
             <unitdate normal="1941/1942" type="inclusive">undated, 1941–1942</unitdate>
-            <container id="aspace_08c70fbee096e4e5e4287f9247afdde1" label="Mixed Materials" type="box">15</container>
-            <container id="aspace_0ed4f71a3570ee2e55e2dcfcf2894aba" parent="aspace_08c70fbee096e4e5e4287f9247afdde1" type="folder">9</container>
+            <container id="aspace_f7caf254949e1d8cccd081fd9e438ea1" label="Mixed Materials" type="box">15</container>
+            <container id="aspace_6b772df326fdb399c9ea63ef9f61b02b" parent="aspace_f7caf254949e1d8cccd081fd9e438ea1" type="folder">9</container>
           </did>
         </c>
         <c id="aspace_ref281_dm8" level="file">
           <did>
             <unittitle>Literature Notes – H (Chemical)</unittitle>
             <unitdate normal="1940/1945" type="inclusive">1940-1945</unitdate>
-            <container id="aspace_43440b0db4cb46c51303a6b316b9c1fa" label="Mixed Materials" type="box">15</container>
-            <container id="aspace_cc407c5c2744456d529ed8a69f26277f" parent="aspace_43440b0db4cb46c51303a6b316b9c1fa" type="folder">10</container>
+            <container id="aspace_9b5986efd9cc64c88989b9c366897b54" label="Mixed Materials" type="box">15</container>
+            <container id="aspace_edb31f66db13faee657229329bec0f2d" parent="aspace_9b5986efd9cc64c88989b9c366897b54" type="folder">10</container>
           </did>
         </c>
         <c id="aspace_ref283_76e" level="file">
           <did>
             <unittitle>Literature Notes – H (Physiological)</unittitle>
             <unitdate normal="1942/1944" type="inclusive">1942-1944</unitdate>
-            <container id="aspace_c0a09eb2db468f721714cd4207c193dd" label="Mixed Materials" type="box">15</container>
-            <container id="aspace_de121eb27bc2baa8c224c17ae7d8af8a" parent="aspace_c0a09eb2db468f721714cd4207c193dd" type="folder">11</container>
+            <container id="aspace_97ded364b461bbee0f84efb67f4d654b" label="Mixed Materials" type="box">15</container>
+            <container id="aspace_9742ea6a29b209c84ea4641a9b568d7b" parent="aspace_97ded364b461bbee0f84efb67f4d654b" type="folder">11</container>
           </did>
         </c>
         <c id="aspace_ref285_u8z" level="file">
           <did>
             <unittitle>Literature Notes – H and Divinyl Sulfone</unittitle>
             <unitdate normal="1941/1944" type="inclusive">1941-1944</unitdate>
-            <container id="aspace_835bd823131e33b77d17bcc78d2bb807" label="Mixed Materials" type="box">15</container>
-            <container id="aspace_2c71d757b0d74e0c603b0615aea153cc" parent="aspace_835bd823131e33b77d17bcc78d2bb807" type="folder">12</container>
+            <container id="aspace_df2ef75d546098b9d4a02337e874f5cc" label="Mixed Materials" type="box">15</container>
+            <container id="aspace_a8c3712d8195f0a84f118f231e6befb0" parent="aspace_df2ef75d546098b9d4a02337e874f5cc" type="folder">12</container>
           </did>
         </c>
         <c id="aspace_ref287_p66" level="file">
           <did>
             <unittitle>Literature Notes – MFA</unittitle>
             <unitdate normal="1942/1944" type="inclusive">undated, 1942-1944</unitdate>
-            <container id="aspace_4f15a59dc37b2135cfab562d72957eca" label="Mixed Materials" type="box">15</container>
-            <container id="aspace_0a82a8c4df33914c13681907738bdd7a" parent="aspace_4f15a59dc37b2135cfab562d72957eca" type="folder">13</container>
+            <container id="aspace_0456d170c9c9d3c75f2133cc07158e96" label="Mixed Materials" type="box">15</container>
+            <container id="aspace_be91eb25335a98ddef47ec1e55f50b65" parent="aspace_0456d170c9c9d3c75f2133cc07158e96" type="folder">13</container>
           </did>
         </c>
         <c id="aspace_ref289_789" level="file">
           <did>
             <unittitle>Literature Notes – N–Mustards</unittitle>
             <unitdate normal="1942/1944" type="inclusive">1942-1944</unitdate>
-            <container id="aspace_318ec442628b72dd74630aaf478d4bb1" label="Mixed Materials" type="box">15</container>
-            <container id="aspace_68c60cd0a4dbfacd99597d2108decb98" parent="aspace_318ec442628b72dd74630aaf478d4bb1" type="folder">14</container>
+            <container id="aspace_620e42c942f87e64b716361dd4c5d1a9" label="Mixed Materials" type="box">15</container>
+            <container id="aspace_7c30d1f85de117a642e328ad914bd942" parent="aspace_620e42c942f87e64b716361dd4c5d1a9" type="folder">14</container>
           </did>
         </c>
         <c id="aspace_ref291_nf0" level="item">
           <did>
             <unittitle>Literature Notes – Other Agents</unittitle>
             <unitdate normal="1942/1944" type="inclusive">undated, 1942-1944</unitdate>
-            <container id="aspace_f68021bfe2f02f8a8906f9c9ebb89646" label="Mixed Materials" type="box">15</container>
-            <container id="aspace_3f870e0a473340396f547e117d913320" parent="aspace_f68021bfe2f02f8a8906f9c9ebb89646" type="folder">15</container>
+            <container id="aspace_451c77bc441cca7148828cf98a0eaf95" label="Mixed Materials" type="box">15</container>
+            <container id="aspace_bda4edff91a72924c6b7d30b654347b1" parent="aspace_451c77bc441cca7148828cf98a0eaf95" type="folder">15</container>
           </did>
         </c>
         <c id="aspace_ref293_42k" level="file">
           <did>
             <unittitle>Literature Notes – W Agent</unittitle>
             <unitdate normal="1943/1943" type="inclusive">undated, 1943</unitdate>
-            <container id="aspace_51b54f404491630066aa143ffe577a79" label="Mixed Materials" type="box">15</container>
-            <container id="aspace_29dfd41d0cd6afc5cfadaa38d943baea" parent="aspace_51b54f404491630066aa143ffe577a79" type="folder">16</container>
+            <container id="aspace_cfa89af1775f6139314f1fa9ecc678c1" label="Mixed Materials" type="box">15</container>
+            <container id="aspace_e7ac3e26384bcad85c9b7bdc4111c10a" parent="aspace_cfa89af1775f6139314f1fa9ecc678c1" type="folder">16</container>
           </did>
         </c>
       </c>
@@ -2244,19 +2244,19 @@
         <c id="aspace_ref575_rv5" level="file">
           <did>
             <unittitle>Lantern slides</unittitle>
-            <container id="aspace_897ab6c0428562844ac6b9f6d6b3eb6b" label="Still Image" type="box">17</container>
+            <container id="aspace_b37cebfd49096a21b98d4f086a0e0797" label="Still Image" type="box">17</container>
           </did>
         </c>
         <c id="aspace_ref576_g6j" level="file">
           <did>
             <unittitle>Lantern slides</unittitle>
-            <container id="aspace_d6280734a170aeadba00e7c706a8fd63" label="Still Image" type="box">18</container>
+            <container id="aspace_7ca59f89ad739d7f8ed2b5396b8e9047" label="Still Image" type="box">18</container>
           </did>
         </c>
         <c id="aspace_ref577_0ty" level="file">
           <did>
             <unittitle>Lantern slides</unittitle>
-            <container id="aspace_93105e664961f32b381666fb36cec107" label="Still Image" type="box">19</container>
+            <container id="aspace_b922e67e2f07c98d31b4a4e3d7336eb0" label="Still Image" type="box">19</container>
           </did>
         </c>
       </c>
