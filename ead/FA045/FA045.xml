@@ -22,7 +22,7 @@
       </publicationstmt>
     </filedesc>
     <profiledesc>
-      <creation>This finding aid was produced using ArchivesSpace on <date>2015-11-23 23:48:26 -0500</date>.</creation>
+      <creation>This finding aid was produced using ArchivesSpace on <date>2016-08-10 00:01:39 -0400</date>.</creation>
       <langusage>English</langusage>
       <descrules>Describing Archives: A Content Standard</descrules>
     </profiledesc>
@@ -43,15 +43,6 @@
       </repository>
       <unittitle>Conrad W. Anner papers</unittitle>
       <origination label="creator">
-        <corpname role="ctb" source="lcnaf">Rockefeller Foundation</corpname>
-      </origination>
-      <origination label="creator">
-        <corpname role="ctb" source="lcnaf">China Medical Board (U.S)</corpname>
-      </origination>
-      <origination label="creator">
-        <corpname role="ctb" source="lcnaf">Rockefeller Foundation. China Medical Board</corpname>
-      </origination>
-      <origination label="creator">
         <persname role="aut" rules="dacs">Anner, Conrad W.</persname>
       </origination>
       <unitid>FA045</unitid>
@@ -65,17 +56,12 @@
     </did>
     <accessrestrict id="aspace_45c15997450f6408a45db0c0c18d6edb">
       <head>Conditions Governing Access</head>
-      <p>Open for scholarly research without restriction.</p>
+      <p>Open for research. Brittle or damaged items are available at the discretion of RAC. Researchers interested in accessing digital media (floppy disks, CDs, DVDs, etc.) or audiovisual material (audio cassettes, VHS, etc.) in this collection must use an access surrogate. The original items may not be accessed because of preservation concerns. To request an access surrogate be made, or if you are unsure if there is an access surrogate, please contact an archivist.</p>
     </accessrestrict>
     <userestrict id="aspace_d85aece369bb2ab75dfa3b5e44bf10b5">
       <head>Conditions Governing Use</head>
       <p>RAC users must abide by all applicable provisions of United States copyright law.  Reproduction/duplication of archival items is routinely provided in accordance with "fair use."  If the RAC does not hold copyright for an archival collection, or items within a collection, it is the user’s responsibility to contact the copyright holder, or make a fair effort to do so, prior to publication.</p>
     </userestrict>
-    <phystech id="aspace_840c1772f8d23f3601e852bd1b2a0b4c">
-      <head>Physical Characteristics and Technical Requirements</head>
-      <p>Materials requiring specialized equipment for access (film, audio, video, slides) may be closed to research dependent on availability of the applicable equipment </p>
-      <p>Brittle or damaged items, or materials otherwise in need of preservation care, may be closed to researchers at the discretion of the RAC Head of Archival Services/Head of Reference.</p>
-    </phystech>
     <prefercite id="aspace_74c268b9397ef4d28cbb6cb00c3ff887">
       <head>Preferred Citation</head>
       <p>Information regarding the Rockefeller Archive Center's preferred elements and forms of citation can be found at <extref href="http://www.rockarch.org/research/citations.php">http://www.rockarch.org/research/citations.php</extref></p>
@@ -109,29 +95,33 @@
       <head>Processing Information</head>
       <p>Claire Collier completed processing of the collection on November 14, 1986.</p>
     </processinfo>
+    <arrangement id="aspace_45601d878818ab7d429f3028bcbeb058">
+      <head>Arrangement</head>
+      <p>As received.</p>
+    </arrangement>
     <controlaccess>
+      <persname role="aut" rules="dacs">Anner, Conrad W.</persname>
       <corpname source="lcnaf">Colonial Williamsburg (Williamsburg, Va.)</corpname>
       <corpname role="ctb" source="lcnaf">Rockefeller Foundation</corpname>
       <corpname source="lcnaf">Peking. Union Medical College</corpname>
       <corpname role="ctb" source="lcnaf">China Medical Board (U.S)</corpname>
       <corpname role="ctb" source="lcnaf">Rockefeller Foundation. China Medical Board</corpname>
-      <persname role="aut" rules="dacs">Anner, Conrad W.</persname>
     </controlaccess>
     <dsc>
       <c id="aspace_ref6_42g" level="file">
         <did>
           <unittitle>Correspondence</unittitle>
           <unitdate normal="1912/1945" type="inclusive">1912-1945</unitdate>
-          <container id="aspace_46c5d1cf65c0071f5272c2b548151ae4" label="Mixed Materials" type="box">1</container>
-          <container id="aspace_e4baa1ee259e49a85c3e343b4c20d2b5" parent="aspace_46c5d1cf65c0071f5272c2b548151ae4" type="folder">1</container>
+          <container id="aspace_10b6a6a695248ac5647ed37d9cc895d6" label="Mixed Materials" type="box">1</container>
+          <container id="aspace_9e6e7e4ab201f098100961d881f75f90" parent="aspace_10b6a6a695248ac5647ed37d9cc895d6" type="folder">1</container>
         </did>
       </c>
       <c id="aspace_ref9_pf4" level="file">
         <did>
           <unittitle>Reports - Peking Union Medical College</unittitle>
           <unitdate normal="1912/1945" type="inclusive">1912-1945</unitdate>
-          <container id="aspace_f225870d9a4d241fb12d488b69d75775" label="Mixed Materials" type="box">1</container>
-          <container id="aspace_2ecdaac3be4b327e85968ba23ea44c72" parent="aspace_f225870d9a4d241fb12d488b69d75775" type="folder">2</container>
+          <container id="aspace_3bf8ffae87a8c5e8f8397b1d9a20c32e" label="Mixed Materials" type="box">1</container>
+          <container id="aspace_54561a9057abe936411f869ecd523820" parent="aspace_3bf8ffae87a8c5e8f8397b1d9a20c32e" type="folder">2</container>
         </did>
         <scopecontent id="aspace_c1735934bc6204a4f5bca8c4a0a85960">
           <head>Scope and Contents</head>
@@ -142,16 +132,16 @@
         <did>
           <unittitle>Print Made from an Antique Wood Cut Found in the Yellow Temple, Peking, China</unittitle>
           <unitdate normal="1912/1945" type="inclusive">1912-1945</unitdate>
-          <container id="aspace_908f2cc71a6f78c6ba939cb007761385" label="Mixed Materials" type="box">1</container>
-          <container id="aspace_aaadf49669f3503f49f7ab1c831b907e" parent="aspace_908f2cc71a6f78c6ba939cb007761385" type="folder">2a</container>
+          <container id="aspace_d8fdac72ab5545e3052083f3d98b5dff" label="Mixed Materials" type="box">1</container>
+          <container id="aspace_20e3b67b2fbd35f8f6dce7238667cfaa" parent="aspace_d8fdac72ab5545e3052083f3d98b5dff" type="folder">2a</container>
         </did>
       </c>
       <c id="aspace_ref12_73u" level="file">
         <did>
           <unittitle>Reports - Colonial Williamsburg</unittitle>
           <unitdate normal="1933/1934" type="inclusive">1933-1934</unitdate>
-          <container id="aspace_b5e8b36cd9373a11cacfd4318b49dfab" label="Mixed Materials" type="box">1</container>
-          <container id="aspace_601c8e38ef78ed3d7ac0194fe15fc3df" parent="aspace_b5e8b36cd9373a11cacfd4318b49dfab" type="folder">3</container>
+          <container id="aspace_6e713054b7a38f285a31a978d5013c9f" label="Mixed Materials" type="box">1</container>
+          <container id="aspace_faaabc534efcd0112ef68cdc9a261467" parent="aspace_6e713054b7a38f285a31a978d5013c9f" type="folder">3</container>
         </did>
         <scopecontent id="aspace_bc72b00567d3b870e9a493394503587f">
           <head>Scope and Contents</head>
@@ -174,43 +164,43 @@
         <c id="aspace_ref2876_5h2" level="file">
           <did>
             <unittitle>Thailand</unittitle>
-            <container id="aspace_2237897ff5824535b34e0cefc28729ed" label="Still Image" type="box">38</container>
-            <container id="aspace_542a0d0a754088dc3f215658a833eba1" parent="aspace_2237897ff5824535b34e0cefc28729ed" type="folder">378</container>
+            <container id="aspace_b3d498d181dfae4482829cd37ae99c4c" label="Still Image" type="box">38</container>
+            <container id="aspace_41ee15c5877086a800f68e2f373855d0" parent="aspace_b3d498d181dfae4482829cd37ae99c4c" type="folder">378</container>
           </did>
         </c>
         <c id="aspace_ref2882_tmo" level="file">
           <did>
             <unittitle>China 1</unittitle>
-            <container id="aspace_fcfde2da8dfcbf61695eec2e2c64ecc5" label="Still Image" type="box">38</container>
-            <container id="aspace_51f62244877cefcaef04cb21466f9073" parent="aspace_fcfde2da8dfcbf61695eec2e2c64ecc5" type="folder">379</container>
+            <container id="aspace_04c4a58e8fc5c60f6727c775b47f763d" label="Still Image" type="box">38</container>
+            <container id="aspace_87fe1d593260fdbce18f925d4ed70a6e" parent="aspace_04c4a58e8fc5c60f6727c775b47f763d" type="folder">379</container>
           </did>
         </c>
         <c id="aspace_ref2888_ec3" level="file">
           <did>
             <unittitle>China</unittitle>
-            <container id="aspace_a43eda2ebd9186a3d3c85646045c2518" label="Still Image" type="box">38</container>
-            <container id="aspace_46c008f8f25a3ff2aadea1076f348c0e" parent="aspace_a43eda2ebd9186a3d3c85646045c2518" type="folder">380</container>
+            <container id="aspace_51e1f93b6d725d6d579fd97273765148" label="Still Image" type="box">38</container>
+            <container id="aspace_b22826313f6a56aa6f922fe924febb34" parent="aspace_51e1f93b6d725d6d579fd97273765148" type="folder">380</container>
           </did>
         </c>
         <c id="aspace_ref2894_bei" level="file">
           <did>
             <unittitle>China</unittitle>
-            <container id="aspace_8138811e6f7ee9e73c0565f61f628011" label="Still Image" type="box">38</container>
-            <container id="aspace_f21fe49013077a8ff878fb4bf6b9c23b" parent="aspace_8138811e6f7ee9e73c0565f61f628011" type="folder">381</container>
+            <container id="aspace_713c5dc1741213c591b170cf6523f32f" label="Still Image" type="box">38</container>
+            <container id="aspace_82eeb4e8dd6a0d2dc6808c341bcd5cc3" parent="aspace_713c5dc1741213c591b170cf6523f32f" type="folder">381</container>
           </did>
         </c>
         <c id="aspace_ref2900_1vy" level="file">
           <did>
             <unittitle>China</unittitle>
-            <container id="aspace_2d9fbf0e4323ac8ca0044adf85687285" label="Still Image" type="box">39</container>
-            <container id="aspace_5743583c7ccb2cb1dae69de49aa237a8" parent="aspace_2d9fbf0e4323ac8ca0044adf85687285" type="folder">382</container>
+            <container id="aspace_c0cb4deef0d05decf74c3b31efc99832" label="Still Image" type="box">39</container>
+            <container id="aspace_8be3e89c1857556d0602b4b762bbdc90" parent="aspace_c0cb4deef0d05decf74c3b31efc99832" type="folder">382</container>
           </did>
         </c>
         <c id="aspace_ref2906_whr" level="file">
           <did>
             <unittitle>Peking Union Medical College</unittitle>
-            <container id="aspace_47b73067f493fd96fa4e1f2f33b7e1b6" label="Still Image" type="box">39</container>
-            <container id="aspace_e7ec6bfc98372c73a189ce53818c2cc0" parent="aspace_47b73067f493fd96fa4e1f2f33b7e1b6" type="folder">383</container>
+            <container id="aspace_9d630a050427d37b1824c164c3852144" label="Still Image" type="box">39</container>
+            <container id="aspace_75f19a37825b2fb9dc7b8d8454448772" parent="aspace_9d630a050427d37b1824c164c3852144" type="folder">383</container>
           </did>
         </c>
         <c id="aspace_ref2912_lj5" level="file">
