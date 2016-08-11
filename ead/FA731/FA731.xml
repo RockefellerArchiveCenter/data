@@ -18,7 +18,7 @@
       </publicationstmt>
     </filedesc>
     <profiledesc>
-      <creation>This finding aid was produced using ArchivesSpace on <date>2016-01-06 01:17:29 -0500</date>.</creation>
+      <creation>This finding aid was produced using ArchivesSpace on <date>2016-08-11 00:09:37 -0400</date>.</creation>
       <langusage>English</langusage>
       <descrules>Describing Archives: A Content Standard</descrules>
     </profiledesc>
@@ -42,11 +42,6 @@
       </physdesc>
       <unitdate normal="1983/1993" type="inclusive">1983-1993</unitdate>
     </did>
-    <accessrestrict id="aspace_dd1e0f875181f81046e1dc86502a9265">
-      <head>Conditions Governing Access</head>
-      <p>Material more than ten years old is open for scholarly research.
-Select individual files are restricted, as noted. Permission to access these files must be obtained from the Ford Foundation before scholarly access is permitted.</p>
-    </accessrestrict>
     <userestrict id="aspace_8d62aee43af25c35ee42b1f5b860f2f6">
       <head>Conditions Governing Use</head>
       <p>Completion of a use agreement is required prior to providing scholarly access. See RAC Head of Reference (or applicable designee) for details.
@@ -62,11 +57,18 @@ Ford Foundation holds title, copyright and literary rights in the collection, in
       <head>Preferred Citation</head>
       <p>Information regarding the Rockefeller Archive Center's preferred elements and forms of citation can be found at <extref href="http://www.rockarch.org/research/citations.php">http://www.rockarch.org/research/citations.php</extref></p>
     </prefercite>
-    <phystech id="aspace_c68e39678ce534cbcc6b03937c0893ff">
-      <head>Physical Characteristics and Technical Requirements</head>
-      <p>Materials requiring specialized equipment for access (film, audio, video, slides) may be restricted from scholarly research dependent on availability of the applicable equipment. </p>
-      <p>Brittle or damaged items, or materials otherwise in need of preservation care, may be restricted from scholarly research at the discretion of the RAC Head of Archival Services/RAC Head of Reference.</p>
-    </phystech>
+    <accessrestrict id="aspace_a9e0bf16f529875cf550d879503d458f">
+      <head>Conditions Governing Access</head>
+      <p>Records more than 10 years old are open for research with select materials restricted as noted. Brittle or damaged items are available at the discretion of RAC.</p>
+    </accessrestrict>
+    <arrangement id="aspace_f30830b8af60cb872746d2171c45296c">
+      <head>Arrangement</head>
+      <p>As received.</p>
+    </arrangement>
+    <scopecontent id="aspace_fccbffedefae4021f6d9492ff7fd473b">
+      <head>Scope and Contents</head>
+      <p>Program related correspondence, memoranda and background material.</p>
+    </scopecontent>
     <controlaccess>
       <corpname role="aut" source="lcnaf">Ford Foundation</corpname>
     </controlaccess>
@@ -75,16 +77,16 @@ Ford Foundation holds title, copyright and literary rights in the collection, in
         <did>
           <unittitle>Culture programs, India</unittitle>
           <unitdate normal="1983/1983" type="inclusive">1983</unitdate>
-          <container id="aspace_13a5e8182af48b8b04854ae9d1a489ab" label="Mixed Materials" type="box">1 (19563)</container>
-          <container id="aspace_535616fd6f00ac030e27371e70fe296a" parent="aspace_13a5e8182af48b8b04854ae9d1a489ab" type="folder">1</container>
+          <container id="aspace_bd7781867d92da0d938a6975b4acc1e4" label="Mixed Materials" type="box">1 (19563)</container>
+          <container id="aspace_8cfb8c376f64a7cb1bdd47e45414cc55" parent="aspace_bd7781867d92da0d938a6975b4acc1e4" type="folder">1</container>
         </did>
       </c>
       <c id="aspace_ref2_dd2" level="file">
         <did>
           <unittitle>RE: "Ford Foundation Support for the Arts in the United States"</unittitle>
           <unitdate normal="1986/1986" type="inclusive">1986</unitdate>
-          <container id="aspace_557519e19cb8b4239d60e046a13240a6" label="Mixed Materials" type="box">1 (19563)</container>
-          <container id="aspace_25dacb3a6d4b059e4bf7d6e5394ccf9e" parent="aspace_557519e19cb8b4239d60e046a13240a6" type="folder">2</container>
+          <container id="aspace_218251a81f37336c842ac594f1bf5a0f" label="Mixed Materials" type="box">1 (19563)</container>
+          <container id="aspace_eeb675eb2094b63433bde4ac77d0195d" parent="aspace_218251a81f37336c842ac594f1bf5a0f" type="folder">2</container>
         </did>
         <scopecontent id="aspace_d8a78b695e09a0e0ac6ee97018a14e7d">
           <head>Scope and Contents</head>
@@ -95,24 +97,24 @@ Ford Foundation holds title, copyright and literary rights in the collection, in
         <did>
           <unittitle>Background information for Board Chairman, Edison Spencer, for his talk to arts leaders</unittitle>
           <unitdate normal="1990/1990" type="inclusive">1990</unitdate>
-          <container id="aspace_a96cb2c433a3df0ff04a13e192f8ab37" label="Mixed Materials" type="box">1 (19563)</container>
-          <container id="aspace_b723775d6ffef3c99967a4d91a4f6959" parent="aspace_a96cb2c433a3df0ff04a13e192f8ab37" type="folder">3</container>
+          <container id="aspace_3771e2bbadc24165d72993a8554ff21b" label="Mixed Materials" type="box">1 (19563)</container>
+          <container id="aspace_81cac1552e5ae79e67a914cf66389e15" parent="aspace_3771e2bbadc24165d72993a8554ff21b" type="folder">3</container>
         </did>
       </c>
       <c id="aspace_ref5_42i" level="file">
         <did>
           <unittitle>Memoranda</unittitle>
           <unitdate normal="1985/1993" type="inclusive">1985-1993</unitdate>
-          <container id="aspace_f932a18f313ee50587e9df2292a388a3" label="Mixed Materials" type="box">1 (19563)</container>
-          <container id="aspace_eccdc4ab1113e8b8cb799a0fb82cffe1" parent="aspace_f932a18f313ee50587e9df2292a388a3" type="folder">4</container>
+          <container id="aspace_078a2ab597cf2a61d41e427a9e4cacfd" label="Mixed Materials" type="box">1 (19563)</container>
+          <container id="aspace_b1e2bd6b3935b724d56d451923d5087a" parent="aspace_078a2ab597cf2a61d41e427a9e4cacfd" type="folder">4</container>
         </did>
       </c>
       <c id="aspace_ref6_iim" level="file">
         <did>
           <unittitle>Soviet and Eastern European Study Group, Cultural exchange memoranda</unittitle>
           <unitdate normal="1989/1991" type="inclusive">1989-1991</unitdate>
-          <container id="aspace_59c1062dc0cb257e0f0a1f9b0f8451ce" label="Mixed Materials" type="box">1 (19563)</container>
-          <container id="aspace_f9a2bbc945575999c367cb808b85d7cf" parent="aspace_59c1062dc0cb257e0f0a1f9b0f8451ce" type="folder">5</container>
+          <container id="aspace_1a8cd5bdea515dc4dbeeb607fc1bff63" label="Mixed Materials" type="box">1 (19563)</container>
+          <container id="aspace_a9ebc5566e787748e4d02b98338257ad" parent="aspace_1a8cd5bdea515dc4dbeeb607fc1bff63" type="folder">5</container>
         </did>
       </c>
     </dsc>

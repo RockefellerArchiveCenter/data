@@ -18,7 +18,7 @@
       </publicationstmt>
     </filedesc>
     <profiledesc>
-      <creation>This finding aid was produced using ArchivesSpace on <date>2015-09-18 18:00:00 -0400</date>.</creation>
+      <creation>This finding aid was produced using ArchivesSpace on <date>2016-08-11 00:00:41 -0400</date>.</creation>
     </profiledesc>
     <revisiondesc>
       <date>2010 October 12</date>
@@ -49,11 +49,6 @@
       <head>Preferred Citation note</head>
       <p>Information regarding the Rockefeller Archive Center's preferred elements and forms of citation can be found at <extref href="http://www.rockarch.org/research/citations.php">http://www.rockarch.org/research/citations.php</extref></p>
     </prefercite>
-    <phystech id="aspace_226240924310591c961e0adea549dafb">
-      <head>Physical Characteristics and Technical Requirements note</head>
-      <p>Materials requiring specialized equipment for access (film, audio, video, slides) may be restricted from scholarly research dependent on availability of the applicable equipment.</p>
-      <p>Brittle or damaged items, or materials otherwise in need of preservation care, may be restricted from scholarly research at the discretion of the RAC Head of Archival Services/RAC Head of Reference.</p>
-    </phystech>
     <fileplan id="aspace_7fb524107f640bcef9eb4b4ac3dab764">
       <head>File Plan note</head>
       <p>Former Classification: I 360-9</p>
@@ -65,8 +60,16 @@
     </otherfindaid>
     <accessrestrict id="aspace_95383a70086be796d7f2f38dc091ff3b">
       <head>Conditions Governing Access note</head>
-      <p>This collection is open for scholarly research.</p>
+      <p>Open for research. Brittle or damaged items are available at the discretion of RAC. Researchers interested in accessing digital media (floppy disks, CDs, DVDs, etc.) or audiovisual material (audio cassettes, VHS, etc.) in this collection must use an access surrogate. The original items may not be accessed because of preservation concerns. To request an access surrogate be made, or if you are unsure if there is an access surrogate, please contact an archivist.</p>
     </accessrestrict>
+    <arrangement id="aspace_a584d7215fe98841104270a68f24eee4">
+      <head>Arrangement</head>
+      <p>Chronological by publication date.</p>
+    </arrangement>
+    <scopecontent id="aspace_2c7c365707ca3b20efba013cbcddbeec">
+      <head>Scope and Contents</head>
+      <p>This collection contains copies of "Beyond the Bench" from 1999-2000.</p>
+    </scopecontent>
     <controlaccess>
       <subject source="lcsh">Medical research</subject>
       <subject source="local">Philanthropy -- United States</subject>
@@ -80,16 +83,16 @@
         <did>
           <unittitle>Beyond the Bench, vol. 1</unittitle>
           <unitdate normal="1999/1999" type="inclusive">Spring/Summer 1999</unitdate>
-          <container id="aspace_c6181b13a10f4c71407427c79203b48d" label="Mixed Materials" type="box">1</container>
-          <container id="aspace_e1af1191a148903f5d2a636a299c1243" parent="aspace_c6181b13a10f4c71407427c79203b48d" type="folder">1</container>
+          <container id="aspace_c3914d9d0d8519924beb53dd8d806fe1" label="Mixed Materials" type="box">1</container>
+          <container id="aspace_e506c7d9553e2af69325b89451571489" parent="aspace_c3914d9d0d8519924beb53dd8d806fe1" type="folder">1</container>
         </did>
       </c>
       <c id="aspace_ref40_uoh" level="file">
         <did>
           <unittitle>Beyond the Bench, vol. 2</unittitle>
           <unitdate normal="2000/2000" type="inclusive">Fall 2000</unitdate>
-          <container id="aspace_41d41a5353f28283ae5e251840b38b77" label="Mixed Materials" type="box">1</container>
-          <container id="aspace_feee264a91323bf93e552bbd7c0a0c38" parent="aspace_41d41a5353f28283ae5e251840b38b77" type="folder">2</container>
+          <container id="aspace_57d36ff257fc0052b830abbd9c1f0b58" label="Mixed Materials" type="box">1</container>
+          <container id="aspace_f7b67de2e73db7cc845bb23ccb0062ec" parent="aspace_57d36ff257fc0052b830abbd9c1f0b58" type="folder">2</container>
         </did>
       </c>
     </dsc>

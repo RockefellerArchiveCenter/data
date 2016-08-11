@@ -18,7 +18,7 @@
       </publicationstmt>
     </filedesc>
     <profiledesc>
-      <creation>This finding aid was produced using ArchivesSpace on <date>2015-09-18 18:03:21 -0400</date>.</creation>
+      <creation>This finding aid was produced using ArchivesSpace on <date>2016-08-11 00:01:24 -0400</date>.</creation>
       <langusage>English</langusage>
       <descrules>Describing Archives: A Content Standard</descrules>
     </profiledesc>
@@ -33,7 +33,7 @@
       </repository>
       <unittitle>Neal Miller papers, Rockefeller University Faculty</unittitle>
       <origination label="creator">
-        <corpname role="aut" source="ingest">Rockefeller University.</corpname>
+        <persname role="aut" rules="dacs" source="local">Miller, Neal</persname>
       </origination>
       <unitid>FA1056</unitid>
       <physdesc altrender="whole">
@@ -48,7 +48,7 @@
     </prefercite>
     <accessrestrict id="aspace_9f610920a11902d69b15ca7f1902fb7c">
       <head>Conditions Governing Access note</head>
-      <p>Collection is open for scholarly research.</p>
+      <p>Open for researched. Brittle or damaged items are available at the discretion of RAC. Researchers interested in accessing digital media (floppy disks, CDs, DVDs, etc.) or audiovisual material (audio cassettes, VHS, etc.) in this collection must use an access surrogate. The original items may not be accessed because of preservation concerns. To request an access surrogate be made, or if you are unsure if there is an access surrogate, please contact an archivist.</p>
     </accessrestrict>
     <fileplan id="aspace_0b63e4b61874cf7870ea89b1b5b383b5">
       <head>File Plan note</head>
@@ -70,41 +70,37 @@
       <head>Arrangement</head>
       <p>Chronological.</p>
     </arrangement>
-    <phystech id="aspace_bc841bbb2006581894236f683bdb93cd">
-      <head>Physical Characteristics and Technical Requirements note</head>
-      <p>Materials requiring specialized equipment for access (film, audio, video, slides) may be restricted from scholarly research dependent on availability of the applicable equipment.</p>
-      <p>Brittle or damaged items, or materials otherwise in need of preservation care, may be restricted from scholarly research at the discretion of the RAC Head of Archival Services/RAC Head of Reference.</p>
-    </phystech>
     <controlaccess>
+      <persname role="aut" rules="dacs" source="local">Miller, Neal</persname>
       <corpname role="aut" source="ingest">Rockefeller University.</corpname>
     </controlaccess>
     <dsc>
       <c id="aspace_ref88_ghb" level="file">
         <did>
           <unitdate normal="1969/1970" type="inclusive">1969-1970</unitdate>
-          <container id="aspace_d7da31f17eba8136180fde409b402475" label="Mixed Materials" type="box">1</container>
-          <container id="aspace_d9103ed6d784796c37b13c1d9f36ad7c" parent="aspace_d7da31f17eba8136180fde409b402475" type="folder">1</container>
+          <container id="aspace_1edc60b408bc93d90a697d3605d146ff" label="Mixed Materials" type="box">1</container>
+          <container id="aspace_cde6c95ab48d613f2699329f26b754a9" parent="aspace_1edc60b408bc93d90a697d3605d146ff" type="folder">1</container>
         </did>
       </c>
       <c id="aspace_ref89_tqx" level="file">
         <did>
           <unitdate normal="1971/1973" type="inclusive">1971-1973</unitdate>
-          <container id="aspace_63007ccb3cd6809111077078f9e1d865" label="Mixed Materials" type="box">1</container>
-          <container id="aspace_e730b5efd11d1df9d5214f7f479cbdf3" parent="aspace_63007ccb3cd6809111077078f9e1d865" type="folder">2</container>
+          <container id="aspace_a5bcf2405b20706aa1c63e5552d3399c" label="Mixed Materials" type="box">1</container>
+          <container id="aspace_04b8ea44fe0135ce00be72f686d0c568" parent="aspace_a5bcf2405b20706aa1c63e5552d3399c" type="folder">2</container>
         </did>
       </c>
       <c id="aspace_ref90_ah2" level="file">
         <did>
           <unitdate normal="1974/1975" type="inclusive">1974-1975</unitdate>
-          <container id="aspace_8a3722014aaf13fe9e47a594b5e4f390" label="Mixed Materials" type="box">1</container>
-          <container id="aspace_fd7f460fe27526029a8eea6594f442f6" parent="aspace_8a3722014aaf13fe9e47a594b5e4f390" type="folder">3</container>
+          <container id="aspace_51e3f461df8d0854318739159fa28e3a" label="Mixed Materials" type="box">1</container>
+          <container id="aspace_3e3dcf686959e5f20036ea74397a5a82" parent="aspace_51e3f461df8d0854318739159fa28e3a" type="folder">3</container>
         </did>
       </c>
       <c id="aspace_ref91_hjs" level="file">
         <did>
           <unitdate normal="1976/1977" type="inclusive">1976-1977</unitdate>
-          <container id="aspace_78bc7f0b5b5ab4240f41a3ff40034f35" label="Mixed Materials" type="box">1</container>
-          <container id="aspace_531feee93aa624bdcd1d4a4c92bbea5c" parent="aspace_78bc7f0b5b5ab4240f41a3ff40034f35" type="folder">4</container>
+          <container id="aspace_496df7832af8f60af69f75875e23d439" label="Mixed Materials" type="box">1</container>
+          <container id="aspace_c62eef1b97ab97007fe456ca1d7fb7c4" parent="aspace_496df7832af8f60af69f75875e23d439" type="folder">4</container>
         </did>
       </c>
     </dsc>
