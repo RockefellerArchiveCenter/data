@@ -18,7 +18,7 @@
       </publicationstmt>
     </filedesc>
     <profiledesc>
-      <creation>This finding aid was produced using ArchivesSpace on <date>2015-09-19 07:25:10 -0400</date>.</creation>
+      <creation>This finding aid was produced using ArchivesSpace on <date>2016-08-12 00:15:22 -0400</date>.</creation>
     </profiledesc>
     <revisiondesc>
       <date>2010 October 11</date>
@@ -35,31 +35,10 @@
       </repository>
       <unittitle>Rockefeller University records, Vice President, C. Eugene Sunderlin</unittitle>
       <origination label="creator">
-        <persname source="lcnaf">Shannon, James A. (James Augustine)</persname>
-      </origination>
-      <origination label="creator">
-        <corpname source="lcnaf">Rockefeller Institute for Medical Research</corpname>
-      </origination>
-      <origination label="creator">
-        <persname rules="dacs">Sunderlin, Eugene</persname>
-      </origination>
-      <origination label="creator">
-        <persname rules="dacs">Whitaker, Douglas Merritt</persname>
-      </origination>
-      <origination label="creator">
-        <persname rules="dacs">Lyons, David J.</persname>
+        <persname role="aut" rules="dacs">Sunderlin, Eugene</persname>
       </origination>
       <origination label="creator">
         <corpname role="aut" source="lcnaf">Rockefeller University</corpname>
-      </origination>
-      <origination label="creator">
-        <persname source="lcnaf">Pfaffmann, Carl</persname>
-      </origination>
-      <origination label="creator">
-        <persname source="lcnaf">Rivers, Thomas M. (Thomas Milton)</persname>
-      </origination>
-      <origination label="creator">
-        <persname source="lcnaf">Horsfall, Frank Lappin</persname>
       </origination>
       <unitid>FA825</unitid>
       <physdesc altrender="whole">
@@ -86,49 +65,41 @@
       <head>File Plan note</head>
       <p>Former Classification: I 346</p>
     </fileplan>
-    <phystech id="aspace_7a21d710fbe20d98761d3a26849e0800">
-      <head>Physical Characteristics and Technical Requirements</head>
-      <p>Materials requiring specialized equipment for access (film, audio, video, slides) may be restricted from scholarly research dependent on availability of the applicable equipment. </p>
-      <p>Brittle or damaged items, or materials otherwise in need of preservation care, may be restricted from scholarly research at the discretion of the RAC Head of Archival Services/RAC Head of Reference.</p>
-    </phystech>
     <prefercite id="aspace_20d372eb205b76eb86f61744cb058eca">
       <head>Preferred Citation</head>
       <p>Information regarding the Rockefeller Archive Center's preferred elements and forms of citation can be found at <extref href="http://www.rockarch.org/research/citations.php">http://www.rockarch.org/research/citations.php</extref></p>
     </prefercite>
     <accessrestrict id="aspace_5afd566e773cfde63d29d74eb86c9af7">
       <head>Conditions Governing Access note</head>
-      <p>This collection is open for scholarly research.</p>
+      <p>This collection is open for scholarly research. Brittle or damaged items are available at the discretion of the RAC.</p>
     </accessrestrict>
     <bioghist id="aspace_fc64e8254af786ca1e65622e08fe0ff7">
       <head>Biographical / Historical</head>
       <p>Vice President, 1969-1976</p>
     </bioghist>
+    <scopecontent id="aspace_44ebc7590eeeb62e258ea602b64b13b4">
+      <head>Scope and Contents</head>
+      <p>Contains a small selection of correspondence and photographs.</p>
+    </scopecontent>
     <controlaccess>
-      <persname source="lcnaf">Shannon, James A. (James Augustine)</persname>
-      <corpname source="lcnaf">Rockefeller Institute for Medical Research</corpname>
-      <persname rules="dacs">Sunderlin, Eugene</persname>
-      <persname rules="dacs">Whitaker, Douglas Merritt</persname>
-      <persname rules="dacs">Lyons, David J.</persname>
+      <persname role="aut" rules="dacs">Sunderlin, Eugene</persname>
       <corpname role="aut" source="lcnaf">Rockefeller University</corpname>
-      <persname source="lcnaf">Pfaffmann, Carl</persname>
-      <persname source="lcnaf">Rivers, Thomas M. (Thomas Milton)</persname>
-      <persname source="lcnaf">Horsfall, Frank Lappin</persname>
     </controlaccess>
     <dsc>
       <c id="aspace_ref309_3qj" level="file">
         <did>
           <unittitle>Correspondence and photographs</unittitle>
           <unitdate normal="1968/1973" type="inclusive">1968-1973</unitdate>
-          <container id="aspace_6985f41b39e746fba7bcc612292f46be" label="Mixed Materials" type="box">1</container>
-          <container id="aspace_21aec3545a39dce99e8d4cab13d154d9" parent="aspace_6985f41b39e746fba7bcc612292f46be" type="folder">1</container>
+          <container id="aspace_5e1e60c07934e4de082727a19a875db8" label="Mixed Materials" type="box">1</container>
+          <container id="aspace_d6f425ef044de85fd1658398aa2e1cba" parent="aspace_5e1e60c07934e4de082727a19a875db8" type="folder">1</container>
         </did>
       </c>
       <c id="aspace_ref310_q6w" level="file">
         <did>
           <unittitle>Correspondence</unittitle>
           <unitdate normal="1973/1976" type="inclusive">1973-1976</unitdate>
-          <container id="aspace_3e52bfa16525d73bfbe07cfc463df76c" label="Mixed Materials" type="box">1</container>
-          <container id="aspace_53d80f3281a3587958354099c0069be0" parent="aspace_3e52bfa16525d73bfbe07cfc463df76c" type="folder">2</container>
+          <container id="aspace_096de151ec520749037e31b02f5aad6b" label="Mixed Materials" type="box">1</container>
+          <container id="aspace_98ac1277dc63c72a5a6c5b05bd9dcebb" parent="aspace_096de151ec520749037e31b02f5aad6b" type="folder">2</container>
         </did>
       </c>
     </dsc>

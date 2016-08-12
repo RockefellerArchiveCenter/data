@@ -18,7 +18,7 @@
       </publicationstmt>
     </filedesc>
     <profiledesc>
-      <creation>This finding aid was produced using ArchivesSpace on <date>2015-09-19 07:29:36 -0400</date>.</creation>
+      <creation>This finding aid was produced using ArchivesSpace on <date>2016-08-12 00:16:12 -0400</date>.</creation>
     </profiledesc>
     <revisiondesc>
       <date>2010 October 25</date>
@@ -35,19 +35,7 @@
       </repository>
       <unittitle>Rockefeller University records, Auxiliary Services, Women and Science</unittitle>
       <origination label="creator">
-        <corpname source="lcnaf">Rockefeller University</corpname>
-      </origination>
-      <origination label="creator">
-        <corpname source="lcnaf">New York University</corpname>
-      </origination>
-      <origination label="creator">
-        <corpname source="lcnaf">Rockefeller Institute for Medical Research</corpname>
-      </origination>
-      <origination label="creator">
-        <corpname source="lcnaf">Cornell University</corpname>
-      </origination>
-      <origination label="creator">
-        <corpname source="lcnaf">Cornell University. Medical College</corpname>
+        <corpname role="aut" source="lcnaf">Rockefeller University</corpname>
       </origination>
       <unitid>FA848</unitid>
       <physdesc altrender="whole">
@@ -63,19 +51,18 @@
       <head>Preferred Citation note</head>
       <p>Information regarding the Rockefeller Archive Center's preferred elements and forms of citation can be found at <extref href="http://www.rockarch.org/research/citations.php">http://www.rockarch.org/research/citations.php</extref></p>
     </prefercite>
-    <phystech id="aspace_272a22c2730cee9783544b7022b4ff39">
-      <head>Physical Characteristics and Technical Requirements note</head>
-      <p>Materials requiring specialized equipment for access (film, audio, video, slides) may be closed to research dependent on availability of the applicable equipment</p>
-      <p>Brittle or damaged items, or materials otherwise in need of preservation care, may be closed to researchers at the discretion of the RAC Head of Archival Services/Head of Reference.</p>
-    </phystech>
     <fileplan id="aspace_f41460ee77843614b6b9ede4bb87a8a5">
       <head>File Plan note</head>
       <p>Former Classification: I 876</p>
     </fileplan>
     <accessrestrict id="aspace_74d5d5cbd8aae82f0b7f00151e01fd54">
       <head>Conditions Governing Access note</head>
-      <p>This collection is open for scholarly research.</p>
+      <p>This collection is open for research. Brittle or damaged items are available at the discretion of RAC.</p>
     </accessrestrict>
+    <scopecontent id="aspace_357342ca4052ce5005d4b4bfa3e3e612">
+      <head>Scope and Contents</head>
+      <p>Includes brochures and programs.</p>
+    </scopecontent>
     <controlaccess>
       <subject source="lcsh">Life sciences</subject>
       <subject source="lcsh">Science -- Study and teaching</subject>
@@ -89,27 +76,23 @@
       <subject source="lcsh">Biochemistry</subject>
       <subject source="lcsh">Medical education</subject>
       <subject source="lcsh">Medical sciences</subject>
-      <corpname source="lcnaf">Rockefeller University</corpname>
-      <corpname source="lcnaf">New York University</corpname>
-      <corpname source="lcnaf">Rockefeller Institute for Medical Research</corpname>
-      <corpname source="lcnaf">Cornell University</corpname>
-      <corpname source="lcnaf">Cornell University. Medical College</corpname>
+      <corpname role="aut" source="lcnaf">Rockefeller University</corpname>
     </controlaccess>
     <dsc>
       <c id="aspace_ref286_jhy" level="file">
         <did>
           <unittitle>Brochures</unittitle>
           <unitdate normal="2000/2002" type="inclusive">2000-2002</unitdate>
-          <container id="aspace_cbaf3e90afe81b017f4f618cc3c9285e" label="Mixed Materials" type="box">1</container>
-          <container id="aspace_98685fa3e2682d135f84ad5e3b5c74bf" parent="aspace_cbaf3e90afe81b017f4f618cc3c9285e" type="folder">1</container>
+          <container id="aspace_0f8e63059aa69cdcfdd790225886514c" label="Mixed Materials" type="box">1</container>
+          <container id="aspace_91565aee944b7d8a8bec88d98196466e" parent="aspace_0f8e63059aa69cdcfdd790225886514c" type="folder">1</container>
         </did>
       </c>
       <c id="aspace_ref287_u8i" level="file">
         <did>
           <unittitle>Programs</unittitle>
           <unitdate normal="2001/2001" type="inclusive">2001</unitdate>
-          <container id="aspace_2fd077e14a190b64d53a99cd35f5380d" label="Mixed Materials" type="box">1</container>
-          <container id="aspace_b5a477d685b5ffefecf5d40c27b18b05" parent="aspace_2fd077e14a190b64d53a99cd35f5380d" type="folder">2</container>
+          <container id="aspace_986459008876e954bed740f7df86d462" label="Mixed Materials" type="box">1</container>
+          <container id="aspace_d08c6d5c9991f43550a7c7c315134bcd" parent="aspace_986459008876e954bed740f7df86d462" type="folder">2</container>
         </did>
       </c>
     </dsc>

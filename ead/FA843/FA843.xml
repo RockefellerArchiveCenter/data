@@ -18,7 +18,7 @@
       </publicationstmt>
     </filedesc>
     <profiledesc>
-      <creation>This finding aid was produced using ArchivesSpace on <date>2015-11-23 08:53:30 -0500</date>.</creation>
+      <creation>This finding aid was produced using ArchivesSpace on <date>2016-08-12 00:16:02 -0400</date>.</creation>
     </profiledesc>
     <revisiondesc>
       <date>2010 October 18</date>
@@ -34,9 +34,6 @@
         <corpname>Rockefeller Archive Center</corpname>
       </repository>
       <unittitle>Rockefeller University records, Courses for Students</unittitle>
-      <origination label="creator">
-        <persname source="lcnaf">Acheson, N. H.</persname>
-      </origination>
       <origination label="creator">
         <corpname role="ctb" source="lcnaf">Rockefeller Institute for Medical Research</corpname>
       </origination>
@@ -57,19 +54,22 @@
       <head>Preferred Citation note</head>
       <p>Information regarding the Rockefeller Archive Center's preferred elements and forms of citation can be found at <extref href="http://www.rockarch.org/research/citations.php">http://www.rockarch.org/research/citations.php</extref></p>
     </prefercite>
-    <phystech id="aspace_ca977a1ef7345e9701c7fe4331aee0cb">
-      <head>Physical Characteristics and Technical Requirements note</head>
-      <p>Materials requiring specialized equipment for access (film, audio, video, slides) may be closed to research dependent on availability of the applicable equipment</p>
-      <p>Brittle or damaged items, or materials otherwise in need of preservation care, may be closed to researchers at the discretion of the RAC Head of Archival Services/Head of Reference.</p>
-    </phystech>
     <fileplan id="aspace_3765e4c71ffa177fb9d5a4731e80ab79">
       <head>File Plan note</head>
       <p>Former Classification: I 470</p>
     </fileplan>
     <accessrestrict id="aspace_5f2c110d496d5785577d046125ccff1b">
       <head>Conditions Governing Access note</head>
-      <p>This collection is open for scholarly research.</p>
+      <p>This collection is open for research. Brittle or damaged items are available at the discretion of RAC.</p>
     </accessrestrict>
+    <scopecontent id="aspace_03d04ad77ea9b1f8590824a76bbb8495">
+      <head>Scope and Contents</head>
+      <p>Biochemistry and Animal Behavior courses including field courses.</p>
+    </scopecontent>
+    <arrangement id="aspace_5744211483077d2a65d9b25e1fa91e28">
+      <head>Arrangement</head>
+      <p>As received.</p>
+    </arrangement>
     <controlaccess>
       <subject source="lcsh">Arboviruses</subject>
       <subject source="lcsh">Biochemistry</subject>
@@ -84,7 +84,6 @@
       <subject source="lcsh">Medical education</subject>
       <subject source="lcsh">Animal behavior</subject>
       <subject source="lcsh">Biology -- Research</subject>
-      <persname source="lcnaf">Acheson, N. H.</persname>
       <corpname role="ctb" source="lcnaf">Rockefeller Institute for Medical Research</corpname>
       <corpname role="aut" source="lcnaf">Rockefeller University</corpname>
     </controlaccess>
@@ -93,7 +92,7 @@
         <did>
           <unittitle>General Biochemistry</unittitle>
           <unitdate normal="1964/1974" type="inclusive">1964-1974</unitdate>
-          <container id="aspace_0751cf922f04b748d6ca564072e882dc" label="Mixed Materials" type="box">1</container>
+          <container id="aspace_19d2e561942f6caf6e8491d4efe1d558" label="Mixed Materials" type="box">1</container>
         </did>
         <scopecontent id="aspace_fe3b7eae86ca383e9f2a803e0c22c741">
           <head>Scope and Contents note</head>
@@ -109,8 +108,8 @@
             <unittitle>Uganda</unittitle>
             <unitdate normal="1971/1971" type="inclusive">1971</unitdate>
             <physdesc id="aspace_fd3956b20f46715efe58a85beeb9928b">2 volumes</physdesc>
-            <container id="aspace_e4b44d5acacca6385cb97ffefae1f8ee" label="Mixed Materials" type="volume">2</container>
-            <container id="aspace_97b1ad0a75a910b361030a4f72714ec8" label="Mixed Materials" type="volume">1</container>
+            <container id="aspace_137056c1b031f038af01906b06a76044" label="Mixed Materials" type="volume">2</container>
+            <container id="aspace_dec6e71cd27c94f43ac3bbc43cb2bb01" label="Mixed Materials" type="volume">1</container>
           </did>
         </c>
         <c id="aspace_ref128_q57" level="file">
@@ -118,7 +117,7 @@
             <unittitle>Research reports</unittitle>
             <unitdate normal="1969/1969" type="inclusive">1969</unitdate>
             <physdesc id="aspace_e2d7c5195de8a2b5ed471b3f2e1ce1e1">1 volume</physdesc>
-            <container id="aspace_9bea6162ee0db52b619c0f690e56c98b" label="Mixed Materials" type="volume">3</container>
+            <container id="aspace_8120d029990b56ac33a1b12ce6b49eee" label="Mixed Materials" type="volume">3</container>
           </did>
         </c>
       </c>
@@ -126,7 +125,7 @@
         <did>
           <unittitle>General Biochemistry</unittitle>
           <unitdate normal="1975/1975" type="inclusive">1975-</unitdate>
-          <container id="aspace_002304b433cee3d0431410f6f6ee9add" label="Mixed Materials" type="box">2</container>
+          <container id="aspace_469bcc2600c5fef09107e3d0f95d637a" label="Mixed Materials" type="box">2</container>
         </did>
       </c>
     </dsc>
