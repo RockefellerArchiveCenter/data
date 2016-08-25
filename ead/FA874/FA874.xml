@@ -18,7 +18,7 @@
       </publicationstmt>
     </filedesc>
     <profiledesc>
-      <creation>This finding aid was produced using ArchivesSpace on <date>2015-09-19 07:34:21 -0400</date>.</creation>
+      <creation>This finding aid was produced using ArchivesSpace on <date>2016-08-24 14:09:52 -0400</date>.</creation>
     </profiledesc>
     <revisiondesc>
       <date>2010 August 19</date>
@@ -35,10 +35,10 @@
       </repository>
       <unittitle>Rockefeller University records, Special Events and Activities, Naval Research Unit at RIH</unittitle>
       <origination label="creator">
-        <corpname source="lcnaf">Rockefeller University</corpname>
+        <corpname role="aut" source="lcnaf">Rockefeller University</corpname>
       </origination>
       <origination label="creator">
-        <corpname source="lcnaf">Rockefeller Institute for Medical Research</corpname>
+        <corpname role="aut" source="lcnaf">Rockefeller Institute for Medical Research</corpname>
       </origination>
       <unitid>FA874</unitid>
       <physdesc altrender="whole">
@@ -50,14 +50,9 @@
         <extent>1 box.</extent>
       </physdesc>
     </did>
-    <phystech id="aspace_f540fd96e876328b724a75a989008d51">
-      <head>Physical Characteristics and Technical Requirements note</head>
-      <p>Materials requiring specialized equipment for access (film, audio, video, slides) may be closed to research dependent on availability of the applicable equipment</p>
-      <p>Brittle or damaged items, or materials otherwise in need of preservation care, may be closed to researchers at the discretion of the RAC Head of Archival Services/Head of Reference.</p>
-    </phystech>
     <accessrestrict id="aspace_bcd60433697e0cefc25872f96e212750">
       <head>Conditions Governing Access</head>
-      <p>Open to scholarly research</p>
+      <p>Open for research. Brittle or damaged items are available at the discretion of RAC.</p>
     </accessrestrict>
     <prefercite id="aspace_71daaece83231fdddfb123a7042a06de">
       <head>Preferred Citation note</head>
@@ -72,6 +67,14 @@
       <p>FA221 Rockefeller University records, Vice President, Thomas Milton Rivers, Administrative Correspondence, Series 2</p>
       <p>Box 3 Correspondence NAMRU #2.</p>
     </relatedmaterial>
+    <scopecontent id="aspace_bd656b2514decfa7091936d056626821">
+      <head>Scope and Contents</head>
+      <p>Documents the Naval research unit at the Rockefeller Insitute Hospital.</p>
+    </scopecontent>
+    <arrangement id="aspace_43dd0b3ca9e0df86e5f8f498f7b1e04c">
+      <head>Arrangement</head>
+      <p>As received.</p>
+    </arrangement>
     <controlaccess>
       <subject source="lcsh">Medical sciences</subject>
       <subject source="lcsh">Genetics</subject>
@@ -83,24 +86,18 @@
       <subject source="lcsh">Biology -- Research</subject>
       <subject source="lcsh">Medicine, Preventive</subject>
       <subject source="lcsh">Medical research</subject>
-      <corpname source="lcnaf">Rockefeller University</corpname>
-      <persname source="lcnaf">MacLeod, Colin M. (Colin Munro)</persname>
-      <corpname source="lcnaf">Rockefeller Institute for Medical Research</corpname>
-      <persname source="lcnaf">Avery, Oswald Theodore</persname>
-      <persname source="lcnaf">McCarty, Maclyn</persname>
-      <persname source="lcnaf">Seitz, Frederick</persname>
     </controlaccess>
     <dsc>
-      <c id="aspace_ref602_xi4" level="subseries">
+      <c id="aspace_ref602_xi4" level="file">
         <did>
           <unittitle>Naval Research Unit on Guam No. 2</unittitle>
-          <container id="aspace_12d908a91930a2e902cf1ae0f700c2f6" label="Mixed Materials" type="box">1</container>
+          <container id="aspace_be669b668516d1c3232673f56b213748" label="Mixed Materials" type="box">1</container>
         </did>
       </c>
-      <c id="aspace_ref601_cf9" level="subseries">
+      <c id="aspace_ref601_cf9" level="file">
         <did>
           <unittitle>Naval Auxiliary Hospital No. 2</unittitle>
-          <container id="aspace_80d8cd6fb155cda34a8b2ef266a4de97" label="Mixed Materials" type="box">1</container>
+          <container id="aspace_60b6553fc1e065db38e98b70194a112a" label="Mixed Materials" type="box">1</container>
         </did>
       </c>
     </dsc>

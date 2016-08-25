@@ -18,7 +18,7 @@
       </publicationstmt>
     </filedesc>
     <profiledesc>
-      <creation>This finding aid was produced using ArchivesSpace on <date>2015-09-19 07:39:08 -0400</date>.</creation>
+      <creation>This finding aid was produced using ArchivesSpace on <date>2016-08-24 14:16:32 -0400</date>.</creation>
     </profiledesc>
     <revisiondesc>
       <date>2010 August 19</date>
@@ -35,9 +35,6 @@
       </repository>
       <unittitle>Rockefeller University records, Special Events and Activities, Peggy Rockefeller Concert Series</unittitle>
       <origination label="creator">
-        <corpname source="lcnaf">Rockefeller Institute for Medical Research</corpname>
-      </origination>
-      <origination label="creator">
         <corpname role="aut" source="lcnaf">Rockefeller University</corpname>
       </origination>
       <unitid>FA897</unitid>
@@ -50,11 +47,6 @@
         <extent>1 box.</extent>
       </physdesc>
     </did>
-    <phystech id="aspace_e0cf2c3ac716ca6ae8d2260c97b27011">
-      <head>Physical Characteristics and Technical Requirements note</head>
-      <p>Materials requiring specialized equipment for access (film, audio, video, slides) may be closed to research dependent on availability of the applicable equipment</p>
-      <p>Brittle or damaged items, or materials otherwise in need of preservation care, may be closed to researchers at the discretion of the RAC Head of Archival Services/Head of Reference.</p>
-    </phystech>
     <prefercite id="aspace_ca87bfd1e11eab07759c0e93bce517db">
       <head>Preferred Citation note</head>
       <p>Information regarding the Rockefeller Archive Center's preferred elements and forms of citation can be found at <extref href="http://www.rockarch.org/research/citations.php">http://www.rockarch.org/research/citations.php</extref></p>
@@ -65,7 +57,7 @@
     </fileplan>
     <accessrestrict id="aspace_78a0b16c670c3d24a91a824dadf15d81">
       <head>Conditions Governing Access</head>
-      <p>Collection is open for scholarly research.</p>
+      <p>Collection is open for research. Brittle or damaged items are available at the discretion of RAC.</p>
     </accessrestrict>
     <bioghist id="aspace_fd6c300525cae74d09dac29f2decb3a5">
       <head>Biographical / Historical</head>
@@ -79,6 +71,10 @@
       <head>Arrangement</head>
       <p>Chronological</p>
     </arrangement>
+    <scopecontent id="aspace_edf59d2a842106668ecef1a03cf98f94">
+      <head>Scope and Contents</head>
+      <p>Programs and pamphlets.</p>
+    </scopecontent>
     <controlaccess>
       <geogname source="lcsh">China</geogname>
       <subject source="lcsh">Vivisection</subject>
@@ -90,52 +86,46 @@
       <subject source="lcsh">Cell and biomolecular sciences</subject>
       <subject source="lcsh">Medicine, Preventive</subject>
       <subject source="lcsh">Medical sciences</subject>
-      <persname source="lcnaf">Avery, Oswald Theodore</persname>
-      <persname source="lcnaf">MacLeod, Colin M. (Colin Munro)</persname>
-      <persname source="lcnaf">Seitz, Frederick</persname>
-      <persname source="lcnaf">McCarty, Maclyn</persname>
-      <corpname source="lcnaf">Rockefeller Institute for Medical Research</corpname>
-      <corpname role="aut" source="lcnaf">Rockefeller University</corpname>
     </controlaccess>
     <dsc>
       <c id="aspace_ref1344_1jr" level="file">
         <did>
           <unittitle>Programs</unittitle>
           <unitdate normal="2000/2001" type="inclusive">2000-2001</unitdate>
-          <container id="aspace_c3cb65cd2b45e5eca89de1960699313c" label="Mixed Materials" type="box">1</container>
-          <container id="aspace_a68bfa0740717850afcf1dd24342723a" parent="aspace_c3cb65cd2b45e5eca89de1960699313c" type="folder">1</container>
+          <container id="aspace_2ebd4a9e0fbca9990a525a010baa1315" label="Mixed Materials" type="box">1</container>
+          <container id="aspace_cb5a1436fd498217756a8cd72c070fec" parent="aspace_2ebd4a9e0fbca9990a525a010baa1315" type="folder">1</container>
         </did>
       </c>
       <c id="aspace_ref1345_55i" level="file">
         <did>
           <unittitle>Pamphlet</unittitle>
           <unitdate normal="2001/2002" type="inclusive">2001-2002</unitdate>
-          <container id="aspace_aee5f013145d5d3228f92c78698fe057" label="Mixed Materials" type="box">1</container>
-          <container id="aspace_36c0d811ba6b6eec1587fbb609d6cc0e" parent="aspace_aee5f013145d5d3228f92c78698fe057" type="folder">2</container>
+          <container id="aspace_5e3e6885334c2d12262e259bef240ef4" label="Mixed Materials" type="box">1</container>
+          <container id="aspace_8503a723e528b474cafc8a62c9ef4c03" parent="aspace_5e3e6885334c2d12262e259bef240ef4" type="folder">2</container>
         </did>
       </c>
       <c id="aspace_ref1346_85i" level="file">
         <did>
           <unittitle>Pamphlet</unittitle>
           <unitdate normal="2002/2003" type="inclusive">2002-2003</unitdate>
-          <container id="aspace_567ff5167b895d1a4b585dde2a237af8" label="Mixed Materials" type="box">1</container>
-          <container id="aspace_4694d0e010cf179369538e681c64761a" parent="aspace_567ff5167b895d1a4b585dde2a237af8" type="folder">3</container>
+          <container id="aspace_9d40d911a57b992ee2c3c70b95d81bc1" label="Mixed Materials" type="box">1</container>
+          <container id="aspace_75e0e176a4a8006cd79c15b3672c0b2d" parent="aspace_9d40d911a57b992ee2c3c70b95d81bc1" type="folder">3</container>
         </did>
       </c>
       <c id="aspace_ref1347_efz" level="file">
         <did>
           <unittitle>Programs</unittitle>
           <unitdate normal="2002/2003" type="inclusive">2002-2003</unitdate>
-          <container id="aspace_049bef52a5a759d3dc26a3be41e6e11e" label="Mixed Materials" type="box">1</container>
-          <container id="aspace_719ec74087861a27b57b249436ad68dd" parent="aspace_049bef52a5a759d3dc26a3be41e6e11e" type="folder">4</container>
+          <container id="aspace_c6e67c826e0dbc2b24ce478cd566a2ee" label="Mixed Materials" type="box">1</container>
+          <container id="aspace_f33e89cf6a71fa2961e83dc74f5e1ab1" parent="aspace_c6e67c826e0dbc2b24ce478cd566a2ee" type="folder">4</container>
         </did>
       </c>
       <c id="aspace_ref1348_sp7" level="file">
         <did>
           <unittitle>Pamphlets</unittitle>
           <unitdate normal="2003/2006" type="inclusive">2003-2006</unitdate>
-          <container id="aspace_df133b4768694f2f960686c0c97282c0" label="Mixed Materials" type="box">1</container>
-          <container id="aspace_b68cd4286613636cdfe7113be063a576" parent="aspace_df133b4768694f2f960686c0c97282c0" type="folder">5</container>
+          <container id="aspace_af4639dcc4294eeacfa2837fcef0d0a7" label="Mixed Materials" type="box">1</container>
+          <container id="aspace_b17ef2712bfd5c09b10604a0cdb5be46" parent="aspace_af4639dcc4294eeacfa2837fcef0d0a7" type="folder">5</container>
         </did>
       </c>
     </dsc>

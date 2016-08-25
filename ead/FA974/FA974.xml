@@ -18,7 +18,7 @@
       </publicationstmt>
     </filedesc>
     <profiledesc>
-      <creation>This finding aid was produced using ArchivesSpace on <date>2015-09-19 07:58:39 -0400</date>.</creation>
+      <creation>This finding aid was produced using ArchivesSpace on <date>2016-08-24 14:53:21 -0400</date>.</creation>
       <langusage>English</langusage>
       <descrules>Describing Archives: A Content Standard</descrules>
     </profiledesc>
@@ -45,7 +45,7 @@
     </did>
     <accessrestrict id="aspace_1d2b1d40089a835fb5c309a75f7db38b">
       <head>Conditions Governing Access</head>
-      <p>Collection is open for scholarly research.</p>
+      <p>Collection is open for research. Brittle or damaged items are available at the discretion of RAC.</p>
     </accessrestrict>
     <fileplan id="aspace_30a49b172d9b046eec40da89ec3c70cd">
       <head>File Plan</head>
@@ -55,69 +55,65 @@
       <head>Preferred Citation</head>
       <p>Information regarding the Rockefeller Archive Center's preferred elements and forms of citation can be found at <extref href="http://www.rockarch.org/research/citations.php">http://www.rockarch.org/research/citations.php</extref></p>
     </prefercite>
-    <phystech id="aspace_6d7b684d9fe5f912620de9d65ae7b982">
-      <head>Physical Characteristics and Technical Requirements</head>
-      <p>Materials requiring specialized equipment for access (film, audio, video, slides) may be restricted from scholarly research dependent on availability of the applicable equipment. </p>
-      <p>Brittle or damaged items, or materials otherwise in need of preservation care, may be restricted from scholarly research at the discretion of the RAC Head of Archival Services/RAC Head of Reference.</p>
-    </phystech>
-    <controlaccess>
-      <corpname role="aut" source="ingest">Rockefeller University.</corpname>
-    </controlaccess>
+    <scopecontent id="aspace_b12286bc89f4b8da96c0d013b1df00eb">
+      <head>Scope and Contents</head>
+      <p>Material documenting memberships, publications, by-laws and other related files.</p>
+    </scopecontent>
     <dsc>
       <c id="aspace_ref6_4lr" level="file">
         <did>
           <unittitle>By-Laws</unittitle>
           <unitdate normal="1969/1980" type="inclusive">1969-1980</unitdate>
-          <container id="aspace_11dd812f2f1c79a7b61a7bc056bbcfa6" label="Mixed Materials" type="box">1</container>
-          <container id="aspace_8cdb0226a9c3d938ff5da1f2dab91181" parent="aspace_11dd812f2f1c79a7b61a7bc056bbcfa6" type="folder">1</container>
+          <container id="aspace_ac7ae8de3c942833f64fe7160b23108d" label="Mixed Materials" type="box">1</container>
+          <container id="aspace_70272034d8e0d6d11f5da6d213f5b9e4" parent="aspace_ac7ae8de3c942833f64fe7160b23108d" type="folder">1</container>
         </did>
       </c>
       <c id="aspace_ref7_394" level="file">
         <did>
           <unittitle>Ballots, Elections</unittitle>
           <unitdate normal="1976/1978" type="inclusive">1976-1978</unitdate>
-          <container id="aspace_c00b0c874f98df95f37bbbba1a8b65cc" label="Mixed Materials" type="box">1</container>
-          <container id="aspace_b50df7e0c661e4ebc94721989b92818a" parent="aspace_c00b0c874f98df95f37bbbba1a8b65cc" type="folder">2</container>
+          <container id="aspace_2807f3fd252290bf0d5564ea146a8752" label="Mixed Materials" type="box">1</container>
+          <container id="aspace_0011ecd07f3d16664caa5ff0b4f5517d" parent="aspace_2807f3fd252290bf0d5564ea146a8752" type="folder">2</container>
         </did>
       </c>
       <c id="aspace_ref8_b7a" level="file">
         <did>
           <unittitle>General Announcements</unittitle>
           <unitdate normal="1972/1979" type="inclusive">1972-1979</unitdate>
-          <container id="aspace_3237e52b0ef65aeb780e9f4834623546" label="Mixed Materials" type="box">1</container>
-          <container id="aspace_40e4fc6457797d19a7ee9e6f1059e585" parent="aspace_3237e52b0ef65aeb780e9f4834623546" type="folder">3</container>
+          <container id="aspace_a9977cc515a679713aee30d9574fc5f6" label="Mixed Materials" type="box">1</container>
+          <container id="aspace_eddbf6ea6b7a45e03d6b0f0eccdfd09e" parent="aspace_a9977cc515a679713aee30d9574fc5f6" type="folder">3</container>
         </did>
       </c>
       <c id="aspace_ref9_iq6" level="file">
         <did>
           <unittitle>Mailings</unittitle>
           <unitdate normal="1969/1977" type="inclusive">1969-1977</unitdate>
-          <container id="aspace_a10edf7cde158e34e94c8889bc7cfd5d" label="Mixed Materials" type="box">1</container>
-          <container id="aspace_4db16f3a7940d1f3f6c3e9c571f79f3e" parent="aspace_a10edf7cde158e34e94c8889bc7cfd5d" type="folder">4</container>
+          <container id="aspace_7e8217ed31d3e6f0e4eff155d02aa4e7" label="Mixed Materials" type="box">1</container>
+          <container id="aspace_6b8beba4a6a4d4d939085fe8fc9fe790" parent="aspace_7e8217ed31d3e6f0e4eff155d02aa4e7" type="folder">4</container>
         </did>
       </c>
       <c id="aspace_ref10_rsw" level="file">
         <did>
           <unittitle>Membership Lists</unittitle>
           <unitdate normal="1969/1970" type="inclusive">1969-1970</unitdate>
-          <container id="aspace_0f46f5974795767ff48e1eed5c13ff18" label="Mixed Materials" type="box">1</container>
-          <container id="aspace_9eb75906fb3e161c4600bdff79f5f891" parent="aspace_0f46f5974795767ff48e1eed5c13ff18" type="folder">5</container>
+          <container id="aspace_676986ee4611c0d4c587eb27d43ad622" label="Mixed Materials" type="box">1</container>
+          <container id="aspace_2d59857416ce0936092f6812e23d202b" parent="aspace_676986ee4611c0d4c587eb27d43ad622" type="folder">5</container>
         </did>
       </c>
       <c id="aspace_ref11_ur2" level="file">
         <did>
           <unittitle>Programs for Meetings</unittitle>
           <unitdate normal="1972/1980" type="inclusive">1972-1980</unitdate>
-          <container id="aspace_89c1612e50d6ce8df23f0273f322ee75" label="Mixed Materials" type="box">1</container>
-          <container id="aspace_e168d49f931dd491bc5a4c270f077098" parent="aspace_89c1612e50d6ce8df23f0273f322ee75" type="folder">6</container>
+          <container id="aspace_9f888226c032909e55e3b6e7a7adafe5" label="Mixed Materials" type="box">1</container>
+          <container id="aspace_606ccc683c36de762302558a8a48b658" parent="aspace_9f888226c032909e55e3b6e7a7adafe5" type="folder">6</container>
         </did>
       </c>
       <c id="aspace_ref12_dvx" level="file">
         <did>
           <unittitle>Publications</unittitle>
           <unitdate normal="1974/1974" type="inclusive">1974</unitdate>
-          <container id="aspace_d5752975b36cb1dc382aa5abbc19f880" label="Mixed Materials" type="box">1</container>
-          <container id="aspace_b2a64c40f0a7400c68a5577cc39f01f3" parent="aspace_d5752975b36cb1dc382aa5abbc19f880" type="folder">7</container>
+          <container id="aspace_86c4d0205a078724111531740bc5a8b7" label="Mixed Materials" type="box">1</container>
+          <container id="aspace_3ed70a944dac2949bbb9505597ad0209" parent="aspace_86c4d0205a078724111531740bc5a8b7" type="folder">7</container>
         </did>
       </c>
     </dsc>

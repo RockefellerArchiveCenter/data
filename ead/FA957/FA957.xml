@@ -18,7 +18,7 @@
       </publicationstmt>
     </filedesc>
     <profiledesc>
-      <creation>This finding aid was produced using ArchivesSpace on <date>2015-09-19 07:52:58 -0400</date>.</creation>
+      <creation>This finding aid was produced using ArchivesSpace on <date>2016-08-24 14:39:54 -0400</date>.</creation>
     </profiledesc>
     <revisiondesc>
       <date>2008 October 21</date>
@@ -35,10 +35,10 @@
       </repository>
       <unittitle>Rockefeller University records, Rockefeller University Press, Visit to China</unittitle>
       <origination label="creator">
-        <corpname source="lcnaf">Rockefeller University</corpname>
+        <corpname role="aut" source="lcnaf">Rockefeller University</corpname>
       </origination>
       <origination label="creator">
-        <corpname source="lcnaf">Rockefeller Institute for Medical Research</corpname>
+        <corpname role="aut" rules="dacs">Rockefeller University Press</corpname>
       </origination>
       <unitid>FA957</unitid>
       <physdesc altrender="whole">
@@ -48,11 +48,6 @@
       <unitdate normal="1977/1977" type="inclusive">1977</unitdate>
       <physdesc id="aspace_81dad885085e01f45bee361d58b1888d">1 box.</physdesc>
     </did>
-    <phystech id="aspace_a54ca7e9696b5bc5d6a5c43043ecf068">
-      <head>Physical Characteristics and Technical Requirements note</head>
-      <p>Materials requiring specialized equipment for access (film, audio, video, slides) may be closed to research dependent on availability of the applicable equipment</p>
-      <p>Brittle or damaged items, or materials otherwise in need of preservation care, may be closed to researchers at the discretion of the RAC Head of Archival Services/Head of Reference.</p>
-    </phystech>
     <prefercite id="aspace_d6887e8ad0429094aa79328ab1191f70">
       <head>Preferred Citation note</head>
       <p>Information regarding the Rockefeller Archive Center's preferred elements and forms of citation can be found at <extref href="http://www.rockarch.org/research/citations.php">http://www.rockarch.org/research/citations.php</extref></p>
@@ -76,13 +71,17 @@
     </relatedmaterial>
     <accessrestrict id="aspace_68d9b29c6167c57cedeb405a1846e370">
       <head>Conditions Governing Access</head>
-      <p>Collection is open for scholarly research.</p>
+      <p>Collection is open for research. Brittle or damaged items are available at the discretion of RAC.</p>
     </accessrestrict>
     <bioghist id="aspace_c6573f6507700e1c6bf9dbbcae2eff9d">
       <head>Biographical / Historical</head>
       <p>A group of Rockefeller University scientists made a trip to China, May 5 to May 22, 1977 to learn the situation as it exists in 1977 at a group of universities and research institutions in that country. The trip was made by a 20 person delegation. Arrangements for the trip involved two years of planning, arranged at the request of Dr. Seitz.</p>
       <p>The officers and faculty members of the University on the delegation were: Purnell W. Choppin, M.D., Zanvill A. Cohn, M.D., James G. Hirsch, M.D., Maclyn McCarty, M.D., William Trager, Ph.D., Bruce Merrifield, Ph.D., Rodney W. Nichols, Floyd Ratliff, Ph.D., Frederick Seitz, Ph.D., Norton Zinder, Ph.D.</p>
     </bioghist>
+    <scopecontent id="aspace_62defa24da70eeb4f944c46702a1a48e">
+      <head>Scope and Contents</head>
+      <p>Report documents the trip.</p>
+    </scopecontent>
     <controlaccess>
       <subject source="lcsh">Cell and biomolecular sciences</subject>
       <subject source="lcsh">Medicine, Preventive</subject>
@@ -93,15 +92,13 @@
       <subject source="lcsh">Medical sciences</subject>
       <subject source="lcsh">Medical research</subject>
       <subject source="lcsh">Science -- Study and teaching</subject>
-      <corpname source="lcnaf">Rockefeller University</corpname>
-      <corpname source="lcnaf">Rockefeller Institute for Medical Research</corpname>
     </controlaccess>
     <dsc>
       <c id="aspace_ref2585_0z2" level="file">
         <did>
           <unittitle>Report on a visit to the People's Republic of China</unittitle>
           <unitdate normal="1977/1977" type="inclusive">1977</unitdate>
-          <container id="aspace_d21c23c6df518cb9e3da46e53d737b29" label="Mixed Materials" type="box">1</container>
+          <container id="aspace_bf858e405564d7f93311937b6d8d1aad" label="Mixed Materials" type="box">1</container>
         </did>
         <scopecontent id="aspace_f4f02eeaa23bc2506a5228ba28e8972c">
           <head>Scope and Contents note</head>

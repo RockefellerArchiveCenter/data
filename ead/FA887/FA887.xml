@@ -18,7 +18,7 @@
       </publicationstmt>
     </filedesc>
     <profiledesc>
-      <creation>This finding aid was produced using ArchivesSpace on <date>2015-09-19 07:37:09 -0400</date>.</creation>
+      <creation>This finding aid was produced using ArchivesSpace on <date>2016-08-24 14:13:54 -0400</date>.</creation>
     </profiledesc>
     <revisiondesc>
       <date>2010 August 19</date>
@@ -35,10 +35,7 @@
       </repository>
       <unittitle>Rockefeller University records, Special Events and Activities, Symposium on the 35th Anniversary of Avery et al. papers</unittitle>
       <origination label="creator">
-        <corpname source="lcnaf">Rockefeller Institute for Medical Research</corpname>
-      </origination>
-      <origination label="creator">
-        <corpname source="lcnaf">Rockefeller University</corpname>
+        <corpname role="aut" source="lcnaf">Rockefeller University</corpname>
       </origination>
       <unitid>FA887</unitid>
       <physdesc altrender="whole">
@@ -52,13 +49,8 @@
     </did>
     <accessrestrict id="aspace_21a02b33410d5c6e72a1f1a8dd3c63b6">
       <head>Conditions Governing Access</head>
-      <p>Collection is open for scholarly research.</p>
+      <p>Collection is open for research. Brittle or damaged items are available at the discretion of RAC. Researchers interested in accessing digital media (floppy disks, CDs, DVDs, etc.) or audiovisual material (audio cassettes, VHS, etc.) in this collection must use an access surrogate. The original items may not be accessed because of preservation concerns. To request an access surrogate be made, or if you are unsure if there is an access surrogate, please contact an archivist.</p>
     </accessrestrict>
-    <phystech id="aspace_f9293532f06c690ab1c37a717af12e19">
-      <head>Physical Characteristics and Technical Requirements note</head>
-      <p>Materials requiring specialized equipment for access (film, audio, video, slides) may be closed to research dependent on availability of the applicable equipment</p>
-      <p>Brittle or damaged items, or materials otherwise in need of preservation care, may be closed to researchers at the discretion of the RAC Head of Archival Services/Head of Reference.</p>
-    </phystech>
     <prefercite id="aspace_7259623060c5c6b2de3e703bbbfe61ce">
       <head>Preferred Citation note</head>
       <p>Information regarding the Rockefeller Archive Center's preferred elements and forms of citation can be found at <extref href="http://www.rockarch.org/research/citations.php">http://www.rockarch.org/research/citations.php</extref></p>
@@ -72,6 +64,10 @@
       <head>Biographical / Historical</head>
       <p>Symposium February 2, 1979 at RU celebrating the 35th anniversary of publication of: Avery, Oswald T., MacLeod, Colin and McCarty, Maclyn "Studies on the chemical nature of the substance inducing transformation of pneumococcal types" Published in: JOURNAL OF EXPERIMENTAL MEDICINE 79 (1944) 137-158.</p>
     </bioghist>
+    <scopecontent id="aspace_21e01fca2d4d6f462e4a17cefb3b2ead">
+      <head>Scope and Contents</head>
+      <p>Primarily contains photographic materials and copies.</p>
+    </scopecontent>
     <controlaccess>
       <subject source="lcsh">Medical sciences</subject>
       <geogname source="lcsh">China</geogname>
@@ -83,33 +79,27 @@
       <subject source="lcsh">DNA</subject>
       <subject source="lcsh">Medicine, Preventive</subject>
       <subject source="lcsh">Vivisection</subject>
-      <corpname source="lcnaf">Rockefeller Institute for Medical Research</corpname>
-      <persname source="lcnaf">Avery, Oswald Theodore</persname>
-      <persname source="lcnaf">MacLeod, Colin M. (Colin Munro)</persname>
-      <corpname source="lcnaf">Rockefeller University</corpname>
-      <persname source="lcnaf">McCarty, Maclyn</persname>
-      <persname source="lcnaf">Seitz, Frederick</persname>
     </controlaccess>
     <dsc>
       <c id="aspace_ref1192_jk7" level="file">
         <did>
           <unittitle>Copy of symposium transcribed from tapes; photocopy of slides used in addresses</unittitle>
-          <container id="aspace_6abed8375afd999bf4cb747000a3d5db" label="Mixed Materials" type="box">1</container>
-          <container id="aspace_0c44871afa4fb181dd0cdf54ab5066a4" parent="aspace_6abed8375afd999bf4cb747000a3d5db" type="folder">1</container>
+          <container id="aspace_7c6478647f72c2e1eb2b35bb3dabd9a9" label="Mixed Materials" type="box">1</container>
+          <container id="aspace_a41083112320b253a614bc032174c162" parent="aspace_7c6478647f72c2e1eb2b35bb3dabd9a9" type="folder">1</container>
         </did>
       </c>
       <c id="aspace_ref1193_6u8" level="file">
         <did>
           <unittitle>Addresses by Joshua Lederberg, René Dubos and Maclyn McCarty</unittitle>
-          <container id="aspace_710cfb7e4613d590e499b2361c1ca189" label="Mixed Materials" type="box">1</container>
-          <container id="aspace_90ef58ce797b1d94e4438a31d2ed4542" parent="aspace_710cfb7e4613d590e499b2361c1ca189" type="folder">1</container>
+          <container id="aspace_85c3501078f72632c4f0bba41ead9415" label="Mixed Materials" type="box">1</container>
+          <container id="aspace_6446ca85be23c53bd8f1f707d469bca3" parent="aspace_85c3501078f72632c4f0bba41ead9415" type="folder">1</container>
         </did>
       </c>
       <c id="aspace_ref1194_o2b" level="file">
         <did>
           <unittitle>Roll of slides</unittitle>
           <physdesc id="aspace_176495c5db1fb695b522575886f1d6e2">roll; package</physdesc>
-          <container id="aspace_181aabda9ef8b474697768b30c11f010" label="Mixed Materials" type="box">1</container>
+          <container id="aspace_ad6d57c568b1e712876f4bf8508eaec0" label="Mixed Materials" type="box">1</container>
         </did>
       </c>
     </dsc>

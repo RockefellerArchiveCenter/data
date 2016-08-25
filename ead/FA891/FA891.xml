@@ -18,7 +18,7 @@
       </publicationstmt>
     </filedesc>
     <profiledesc>
-      <creation>This finding aid was produced using ArchivesSpace on <date>2015-11-23 09:03:56 -0500</date>.</creation>
+      <creation>This finding aid was produced using ArchivesSpace on <date>2016-08-24 14:14:59 -0400</date>.</creation>
     </profiledesc>
     <revisiondesc>
       <date>2010 August 19</date>
@@ -35,7 +35,7 @@
       </repository>
       <unittitle>Rockefeller University records, Special Events and Activities, Swedish Industrial Delegation to the United States</unittitle>
       <origination label="creator">
-        <corpname source="lcnaf">Rockefeller Institute for Medical Research</corpname>
+        <corpname role="ctb" source="lcnaf">Rockefeller Institute for Medical Research</corpname>
       </origination>
       <origination label="creator">
         <corpname role="aut" source="lcnaf">Rockefeller University</corpname>
@@ -50,11 +50,6 @@
         <extent>1 box.</extent>
       </physdesc>
     </did>
-    <phystech id="aspace_05572ee5e80c4ed69d2bb59bfaa5be1f">
-      <head>Physical Characteristics and Technical Requirements note</head>
-      <p>Materials requiring specialized equipment for access (film, audio, video, slides) may be closed to research dependent on availability of the applicable equipment</p>
-      <p>Brittle or damaged items, or materials otherwise in need of preservation care, may be closed to researchers at the discretion of the RAC Head of Archival Services/Head of Reference.</p>
-    </phystech>
     <prefercite id="aspace_5a2a7ce85651e4e1d7cc0c92cb674109">
       <head>Preferred Citation note</head>
       <p>Information regarding the Rockefeller Archive Center's preferred elements and forms of citation can be found at <extref href="http://www.rockarch.org/research/citations.php">http://www.rockarch.org/research/citations.php</extref></p>
@@ -75,6 +70,10 @@
       <head>Arrangement</head>
       <p>Chronological.</p>
     </arrangement>
+    <accessrestrict id="aspace_e81b78a64c4f8863cf7d1b1217a613b3">
+      <head>Conditions Governing Access</head>
+      <p>Collection is open for reserch. Brittle or damaged items are available at the discretion of RAC.</p>
+    </accessrestrict>
     <controlaccess>
       <subject source="lcsh">Medical research</subject>
       <subject source="lcsh">Medicine, Preventive</subject>
@@ -86,12 +85,6 @@
       <subject source="lcsh">Cell and biomolecular sciences</subject>
       <subject source="lcsh">Medical care</subject>
       <subject source="lcsh">DNA</subject>
-      <persname source="lcnaf">Avery, Oswald Theodore</persname>
-      <persname source="lcnaf">MacLeod, Colin M. (Colin Munro)</persname>
-      <persname source="lcnaf">McCarty, Maclyn</persname>
-      <corpname source="lcnaf">Rockefeller Institute for Medical Research</corpname>
-      <persname source="lcnaf">Seitz, Frederick</persname>
-      <corpname role="aut" source="lcnaf">Rockefeller University</corpname>
     </controlaccess>
     <dsc>
       <c id="aspace_ref1267_q4u" level="file">
@@ -113,22 +106,22 @@
         <c id="aspace_ref1269_kl4" level="file">
           <did>
             <unitdate normal="1981/1981" type="inclusive">1981 October - 1981 November 12</unitdate>
-            <container id="aspace_bebe19a7cc21560bdf86954ee8fa91a5" label="Mixed Materials" type="box">1</container>
-            <container id="aspace_a12354ff30387d20b2427ed403cd09c7" parent="aspace_bebe19a7cc21560bdf86954ee8fa91a5" type="folder">1</container>
+            <container id="aspace_d4cf76236308ba5cd871a8eb54a949a4" label="Mixed Materials (559919.1.318)" type="box">1</container>
+            <container id="aspace_46338e613b7344c3f2f5980e8f4efa4d" parent="aspace_d4cf76236308ba5cd871a8eb54a949a4" type="folder">1</container>
           </did>
         </c>
         <c id="aspace_ref1270_pdi" level="file">
           <did>
             <unitdate normal="1981/1981" type="inclusive">1981 November 13 - 1981 December 31</unitdate>
-            <container id="aspace_130d519fe49198ece569fc833a7992c8" label="Mixed Materials" type="box">1</container>
-            <container id="aspace_8071c26376fe6d1cef4fccd67362500a" parent="aspace_130d519fe49198ece569fc833a7992c8" type="folder">2</container>
+            <container id="aspace_d48af2c398071f49df8afb59f1600697" label="Mixed Materials (559919.1.318)" type="box">1</container>
+            <container id="aspace_1ccd53de91cbba2735e6c5f633d15fcc" parent="aspace_d48af2c398071f49df8afb59f1600697" type="folder">2</container>
           </did>
         </c>
         <c id="aspace_ref1271_5y9" level="file">
           <did>
             <unitdate normal="1982/1982" type="inclusive">1982</unitdate>
-            <container id="aspace_078841e2b5b368f04f69b4a4424c879f" label="Mixed Materials" type="box">1</container>
-            <container id="aspace_ef2f0de8cac72925814f8476a8da77c7" parent="aspace_078841e2b5b368f04f69b4a4424c879f" type="folder">3</container>
+            <container id="aspace_baa26ed06180e88e76117434d227d36f" label="Mixed Materials (559919.1.318)" type="box">1</container>
+            <container id="aspace_5c3c7f55ed56e37448f560f0b0c65819" parent="aspace_baa26ed06180e88e76117434d227d36f" type="folder">3</container>
           </did>
         </c>
       </c>
@@ -139,8 +132,8 @@
             <extent altrender="materialtype spaceoccupied">1 Folder(s)</extent>
           </physdesc>
           <unitdate normal="1981/1981" type="inclusive">1981</unitdate>
-          <container id="aspace_37ebacc4985050fc0e9fe82485f2099d" label="Mixed Materials" type="box">1</container>
-          <container id="aspace_7b704646aec96efd389aaf5603abe098" parent="aspace_37ebacc4985050fc0e9fe82485f2099d" type="folder">4</container>
+          <container id="aspace_0b4b849e64d7ca4b1b6d7e10072f12a2" label="Mixed Materials (559919.1.318)" type="box">1</container>
+          <container id="aspace_ac2e49823ef5cc650e3737e7b0bb4ed8" parent="aspace_0b4b849e64d7ca4b1b6d7e10072f12a2" type="folder">4</container>
         </did>
         <scopecontent id="aspace_7f682a8f46e2cfe02f6a16ce229cb511">
           <head>Scope and Contents note</head>
@@ -154,8 +147,8 @@
             <extent altrender="materialtype spaceoccupied">1 Folder(s)</extent>
           </physdesc>
           <unitdate normal="1981/1981" type="inclusive">1981</unitdate>
-          <container id="aspace_34668f07461a9e33a43586dd27f8a790" label="Mixed Materials" type="box">1</container>
-          <container id="aspace_22e7941383193ff399bdad027ebefede" parent="aspace_34668f07461a9e33a43586dd27f8a790" type="folder">5</container>
+          <container id="aspace_3c2b49896cc81b7408d452ec8edc1ccc" label="Mixed Materials (559919.1.318)" type="box">1</container>
+          <container id="aspace_11885919e8ac14beed9809d1cd28503e" parent="aspace_3c2b49896cc81b7408d452ec8edc1ccc" type="folder">5</container>
         </did>
         <scopecontent id="aspace_bd7de50a2f7e5fd9ee8013587ed79669">
           <head>Scope and Contents note</head>

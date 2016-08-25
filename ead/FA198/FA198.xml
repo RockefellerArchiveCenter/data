@@ -22,7 +22,7 @@
       </publicationstmt>
     </filedesc>
     <profiledesc>
-      <creation>This finding aid was produced using ArchivesSpace on <date>2015-09-18 19:08:07 -0400</date>.</creation>
+      <creation>This finding aid was produced using ArchivesSpace on <date>2016-08-22 21:33:39 -0400</date>.</creation>
     </profiledesc>
     <revisiondesc>
       <change>
@@ -40,12 +40,6 @@
         <corpname>Rockefeller Archive Center</corpname>
       </repository>
       <unittitle>James K. Senior papers, Rockefeller Institute for Medical Research Scientific Staff</unittitle>
-      <origination label="creator">
-        <corpname role="ctb" source="lcnaf">Rockefeller University</corpname>
-      </origination>
-      <origination label="creator">
-        <corpname role="ctb" source="lcnaf">Rockefeller Institute for Medical Research</corpname>
-      </origination>
       <origination label="creator">
         <persname role="aut" source="lcnaf">Senior, James K. (James Kuhn)</persname>
       </origination>
@@ -67,11 +61,6 @@
       <head>Arrangement note</head>
       <p>Sequential.</p>
     </arrangement>
-    <phystech id="aspace_4927395f974cda983d9420d52099e1ba">
-      <head>Physical Characteristics and Technical Requirements</head>
-      <p>Materials requiring specialized equipment for access (film, audio, video, slides) may be closed to research dependent on availability of the applicable equipment </p>
-      <p>Brittle or damaged items, or materials otherwise in need of preservation care, may be closed to researchers at the discretion of the RAC Head of Archival Services/Head of Reference.</p>
-    </phystech>
     <prefercite id="aspace_315ffb88bab109f140e2abe80f9e703b">
       <head>Preferred Citation</head>
       <p>Information regarding the Rockefeller Archive Center's preferred elements and forms of citation can be found at <extref href="http://www.rockarch.org/research/citations.php">http://www.rockarch.org/research/citations.php</extref></p>
@@ -82,27 +71,26 @@
     </fileplan>
     <accessrestrict id="aspace_fdce0fbd9fae2df36ec6ee7d4097d02c">
       <head>Conditions Governing Access note</head>
-      <p>This collection is open for research.</p>
+      <p>Open for research. Brittle or damaged items are available at the discretion of RAC.</p>
     </accessrestrict>
     <controlaccess>
       <corpname role="ctb" source="lcnaf">Rockefeller University</corpname>
       <corpname role="ctb" source="lcnaf">Rockefeller Institute for Medical Research</corpname>
-      <persname role="aut" source="lcnaf">Senior, James K. (James Kuhn)</persname>
     </controlaccess>
     <dsc>
       <c id="aspace_ref7_v8x" level="file">
         <did>
           <unittitle>Laboratory Notebook 101-200</unittitle>
           <unitdate normal="1915/1915" type="inclusive">1915</unitdate>
-          <container id="aspace_cb1c368bd3cf8b10657f8e1bca58d472" label="Mixed Materials" type="box">1</container>
-          <container id="aspace_a213892b8532e468cf43140660e463fd" parent="aspace_cb1c368bd3cf8b10657f8e1bca58d472" type="folder">1</container>
+          <container id="aspace_f810a1a760610dcd2ed8536ebdc3d6e1" label="Mixed Materials" type="box">1</container>
+          <container id="aspace_e7a6ee33806fa15c71dbfc12afed0a9e" parent="aspace_f810a1a760610dcd2ed8536ebdc3d6e1" type="folder">1</container>
         </did>
       </c>
       <c id="aspace_ref8_0jx" level="file">
         <did>
           <unittitle>Laboratory Notebook 201-300</unittitle>
-          <container id="aspace_da264b950fc143aa3a6b5d5e0a0b4ee9" label="Mixed Materials" type="box">1</container>
-          <container id="aspace_94f217fb8150f6a791792de51dcde115" parent="aspace_da264b950fc143aa3a6b5d5e0a0b4ee9" type="folder">2</container>
+          <container id="aspace_0e22f3e6fb4872a2dc4b33862dbdcc0e" label="Mixed Materials" type="box">1</container>
+          <container id="aspace_f0d76de9d772cd9b20788c82f352647c" parent="aspace_0e22f3e6fb4872a2dc4b33862dbdcc0e" type="folder">2</container>
         </did>
       </c>
     </dsc>

@@ -18,7 +18,7 @@
       </publicationstmt>
     </filedesc>
     <profiledesc>
-      <creation>This finding aid was produced using ArchivesSpace on <date>2015-09-19 07:38:33 -0400</date>.</creation>
+      <creation>This finding aid was produced using ArchivesSpace on <date>2016-08-24 14:15:45 -0400</date>.</creation>
     </profiledesc>
     <revisiondesc>
       <date>2010 August 19</date>
@@ -38,7 +38,7 @@
         <corpname role="aut" source="lcnaf">Rockefeller University</corpname>
       </origination>
       <origination label="creator">
-        <corpname source="lcnaf">Rockefeller Institute for Medical Research</corpname>
+        <corpname role="ctb" source="lcnaf">Rockefeller Institute for Medical Research</corpname>
       </origination>
       <unitid>FA894</unitid>
       <physdesc altrender="whole">
@@ -49,11 +49,6 @@
         <extent>2 boxes.</extent>
       </physdesc>
     </did>
-    <phystech id="aspace_008222fc24676d93d9833cdbab407e53">
-      <head>Physical Characteristics and Technical Requirements note</head>
-      <p>Materials requiring specialized equipment for access (film, audio, video, slides) may be closed to research dependent on availability of the applicable equipment</p>
-      <p>Brittle or damaged items, or materials otherwise in need of preservation care, may be closed to researchers at the discretion of the RAC Head of Archival Services/Head of Reference.</p>
-    </phystech>
     <prefercite id="aspace_db9c086ae4aa4efdb56ca41c0e322ae5">
       <head>Preferred Citation note</head>
       <p>Information regarding the Rockefeller Archive Center's preferred elements and forms of citation can be found at <extref href="http://www.rockarch.org/research/citations.php">http://www.rockarch.org/research/citations.php</extref></p>
@@ -64,8 +59,12 @@
     </fileplan>
     <accessrestrict id="aspace_49c4c0dba250a32a7c4a398a57da8cc5">
       <head>Conditions Governing Access</head>
-      <p>Collection is open for scholarly research, with select materials restricted as noted.</p>
+      <p>Collection is open for research with select materials restricted as noted. Brittle or damged items are available at the discretion of RAC.</p>
     </accessrestrict>
+    <scopecontent id="aspace_753da7d54a071a6fd3c8625c9fe67136">
+      <head>Scope and Contents</head>
+      <p>Documents the University Centennial and associated events.</p>
+    </scopecontent>
     <controlaccess>
       <geogname source="lcsh">China</geogname>
       <subject source="lcsh">Medical care</subject>
@@ -77,12 +76,6 @@
       <subject source="lcsh">Vivisection</subject>
       <subject source="lcsh">DNA</subject>
       <subject source="lcsh">Genetics</subject>
-      <persname source="lcnaf">MacLeod, Colin M. (Colin Munro)</persname>
-      <corpname role="aut" source="lcnaf">Rockefeller University</corpname>
-      <persname source="lcnaf">McCarty, Maclyn</persname>
-      <corpname source="lcnaf">Rockefeller Institute for Medical Research</corpname>
-      <persname source="lcnaf">Avery, Oswald Theodore</persname>
-      <persname source="lcnaf">Seitz, Frederick</persname>
     </controlaccess>
     <dsc>
       <c id="aspace_ref1314_qjv" level="file">
@@ -90,8 +83,8 @@
           <unittitle>"The Emergence of Modern Philanthropy, The Rockefeller Story" - Video of Program 7 December 1999</unittitle>
           <unitdate normal="1999/1999" type="inclusive">1999 December 7</unitdate>
           <physdesc id="aspace_a64f30f49db904fdf0f6ce76cc1b6429">Video</physdesc>
-          <container id="aspace_833184f5c6b384cdb8fff251610b23be" label="Mixed Materials" type="box">1</container>
-          <container id="aspace_a2758d1b6dbfe35e017250e7534f68d8" parent="aspace_833184f5c6b384cdb8fff251610b23be" type="folder">1</container>
+          <container id="aspace_dbdda885f20f3a52c1f983b97947f436" label="Mixed Materials" type="box">1</container>
+          <container id="aspace_84992d64b57566d0bdabc89705bae68b" parent="aspace_dbdda885f20f3a52c1f983b97947f436" type="folder">1</container>
         </did>
         <accessrestrict id="aspace_8b03b3b2ac85b76e457c5b46f369ca8e">
           <head>Conditions Governing Access</head>
@@ -102,63 +95,63 @@
         <did>
           <unittitle>Centennial Exhibitions - brochure 2000</unittitle>
           <unitdate normal="2000/2000" type="inclusive">2000</unitdate>
-          <container id="aspace_8b00b80c351dc4b59eca6cf09985c9db" label="Mixed Materials" type="box">1</container>
-          <container id="aspace_221521e96c06418f0dedc9b7521645cd" parent="aspace_8b00b80c351dc4b59eca6cf09985c9db" type="folder">2</container>
+          <container id="aspace_8c9d0091e99f31fdccee6b8b7029dcba" label="Mixed Materials" type="box">1</container>
+          <container id="aspace_0f2005aba64f127c5e78d2a3cd34b52e" parent="aspace_8c9d0091e99f31fdccee6b8b7029dcba" type="folder">2</container>
         </did>
       </c>
       <c id="aspace_ref1316_zrl" level="file">
         <did>
           <unittitle>"Creating a Tradition of Biomedical Research" - RU Centennial History Conference 2000</unittitle>
           <unitdate normal="2000/2000" type="inclusive">2000</unitdate>
-          <container id="aspace_79225453e9edc785c461a17c2b023290" label="Mixed Materials" type="box">1</container>
-          <container id="aspace_78dd4a2d34270cd174485cd07d1d7b48" parent="aspace_79225453e9edc785c461a17c2b023290" type="folder">3</container>
+          <container id="aspace_7ab394fb557c499e1130c552c3a834b0" label="Mixed Materials" type="box">1</container>
+          <container id="aspace_531ca33a33d8f7d05c44b3d43243a030" parent="aspace_7ab394fb557c499e1130c552c3a834b0" type="folder">3</container>
         </did>
       </c>
       <c id="aspace_ref1317_tsy" level="file">
         <did>
           <unittitle>"At the Crossroads of Science" - Centennial Lecture on Science and Society</unittitle>
           <unitdate normal="2000/2000" type="inclusive">2000 November 13</unitdate>
-          <container id="aspace_cbe35e197e623b82ac6cecf63f68d65c" label="Mixed Materials" type="box">1</container>
-          <container id="aspace_b3c2178a0ccd513a282cbbe53160223a" parent="aspace_cbe35e197e623b82ac6cecf63f68d65c" type="folder">4</container>
+          <container id="aspace_e97dbcbf197ac3ca915ab0d1428d69c6" label="Mixed Materials" type="box">1</container>
+          <container id="aspace_2c1406f16f14d361347943628d57fa4c" parent="aspace_e97dbcbf197ac3ca915ab0d1428d69c6" type="folder">4</container>
         </did>
       </c>
       <c id="aspace_ref1318_omy" level="file">
         <did>
           <unittitle>"Philanthropy in a Global Century" - The Rockefeller University Council - program</unittitle>
           <unitdate normal="2000/2000" type="inclusive">2000 December 5</unitdate>
-          <container id="aspace_4312fc5198657c733b4b0430d31a46bd" label="Mixed Materials" type="box">1</container>
-          <container id="aspace_79a630cf2dbaec1b7c47d954f217c92e" parent="aspace_4312fc5198657c733b4b0430d31a46bd" type="folder">5</container>
+          <container id="aspace_2a17d952bc1ba002cd320a1131ec2f97" label="Mixed Materials" type="box">1</container>
+          <container id="aspace_857b70f4e64556fdf1ddc80a87ca5863" parent="aspace_2a17d952bc1ba002cd320a1131ec2f97" type="folder">5</container>
         </did>
       </c>
       <c id="aspace_ref1319_cc9" level="file">
         <did>
           <unittitle>Centennial Convocation</unittitle>
           <unitdate normal="2001/2001" type="inclusive">2001 June</unitdate>
-          <container id="aspace_99cf81991f43baa4dc6c25c098f4bf27" label="Mixed Materials" type="box">1</container>
-          <container id="aspace_7484993ceb61787b7469e40db41439a4" parent="aspace_99cf81991f43baa4dc6c25c098f4bf27" type="folder">6</container>
+          <container id="aspace_10a4e3d194a05f2cd82ad9f046ed65e5" label="Mixed Materials" type="box">1</container>
+          <container id="aspace_5018e9abe24f61d564ff5ff1a1c2151d" parent="aspace_10a4e3d194a05f2cd82ad9f046ed65e5" type="folder">6</container>
         </did>
       </c>
       <c id="aspace_ref1320_sfd" level="file">
         <did>
           <unittitle>Centennial Employee Picnic</unittitle>
           <unitdate normal="2001/2001" type="inclusive">2001 June 22</unitdate>
-          <container id="aspace_4d010c2e16cdfbd5ab71a92dafbfa27d" label="Mixed Materials" type="box">1</container>
-          <container id="aspace_2c493e858da79745861dcff33e021c7b" parent="aspace_4d010c2e16cdfbd5ab71a92dafbfa27d" type="folder">7</container>
+          <container id="aspace_b1b5c0759eb857c707386c9609cf992f" label="Mixed Materials" type="box">1</container>
+          <container id="aspace_6a9106fbf7aaed17c68e6349ffc06c6a" parent="aspace_b1b5c0759eb857c707386c9609cf992f" type="folder">7</container>
         </did>
       </c>
       <c id="aspace_ref1321_so0" level="file">
         <did>
           <unittitle>Rockefeller University Centennial Calendar Academic Year 2001</unittitle>
           <unitdate normal="2001/2001" type="inclusive">2001</unitdate>
-          <container id="aspace_7197e03f308c4d2fc4546a552c747734" label="Mixed Materials" type="box">1</container>
-          <container id="aspace_bc7625dae952e59df412aa01b7a72724" parent="aspace_7197e03f308c4d2fc4546a552c747734" type="folder">8</container>
+          <container id="aspace_3050a8eab2582605ba458528464b1013" label="Mixed Materials" type="box">1</container>
+          <container id="aspace_48cdaa562e2da10844f1d29e24a478a2" parent="aspace_3050a8eab2582605ba458528464b1013" type="folder">8</container>
         </did>
       </c>
       <c id="aspace_ref1322_9uj" level="file">
         <did>
           <unittitle>"Discovering the Rockefeller University" - Newsletter</unittitle>
-          <container id="aspace_d559575c1aea5bab25ab391a4ebc0b9b" label="Mixed Materials" type="box">1</container>
-          <container id="aspace_234a352f87a1fd0f1d6c4f86eda246c9" parent="aspace_d559575c1aea5bab25ab391a4ebc0b9b" type="folder">9</container>
+          <container id="aspace_3036c83f8e2d04b25bcd14a2678cda6c" label="Mixed Materials" type="box">1</container>
+          <container id="aspace_d2247113b0b3238e0d5be5cdb533ddb7" parent="aspace_3036c83f8e2d04b25bcd14a2678cda6c" type="folder">9</container>
         </did>
       </c>
       <c id="aspace_ref1323_wb3" level="file">
@@ -166,8 +159,8 @@
           <unittitle>Centennial Film - Final Version November 2001</unittitle>
           <unitdate normal="2001/2001" type="inclusive">2001 November</unitdate>
           <physdesc id="aspace_a27cc9e572de90703de65f187955f2c0">VHS video cassette</physdesc>
-          <container id="aspace_7db8ce1f9f31aeacb501f58ff51eca28" label="Mixed Materials" type="box">1</container>
-          <container id="aspace_58d567c4b911392bc3c8bbbe24768ecd" parent="aspace_7db8ce1f9f31aeacb501f58ff51eca28" type="folder">10</container>
+          <container id="aspace_7362267e3c3471151fb02e903d0cdd17" label="Mixed Materials" type="box">1</container>
+          <container id="aspace_b491492ff93e9df8c508396c13562930" parent="aspace_7362267e3c3471151fb02e903d0cdd17" type="folder">10</container>
         </did>
         <accessrestrict id="aspace_c1a25e7a14f19aa7ab36e4136e871f44">
           <head>Conditions Governing Access</head>
@@ -178,16 +171,16 @@
         <did>
           <unittitle>Centennial Symposium - Celebration of Excellence in Neuroscience</unittitle>
           <unitdate normal="2001/2001" type="inclusive">2001 October 23-24</unitdate>
-          <container id="aspace_bea07d477f60f4c2495ea400c4fb4367" label="Mixed Materials" type="box">1</container>
-          <container id="aspace_44966d044808fca29096a29303d80ca9" parent="aspace_bea07d477f60f4c2495ea400c4fb4367" type="folder">11</container>
+          <container id="aspace_af98e96528fc87affcc4f2bbb822ea57" label="Mixed Materials" type="box">1</container>
+          <container id="aspace_df439e2762f035268b3e2831c90856d9" parent="aspace_af98e96528fc87affcc4f2bbb822ea57" type="folder">11</container>
         </did>
       </c>
       <c id="aspace_ref1325_x41" level="file">
         <did>
           <unittitle>Centennial Symposium - From Gene to Organism</unittitle>
           <unitdate normal="2002/2002" type="inclusive">2002 February 28-March 1</unitdate>
-          <container id="aspace_8da03bf5f2db5642a7d6cc006cdb41bf" label="Mixed Materials" type="box">1</container>
-          <container id="aspace_e1011b4fca6372059771d7173d37b91d" parent="aspace_8da03bf5f2db5642a7d6cc006cdb41bf" type="folder">12</container>
+          <container id="aspace_bfb53bbe7234c721b3370f9fff244f8f" label="Mixed Materials" type="box">1</container>
+          <container id="aspace_955fdfda5ae1f1cce96d72ba41f3ee1e" parent="aspace_bfb53bbe7234c721b3370f9fff244f8f" type="folder">12</container>
         </did>
       </c>
       <c id="aspace_ref1326_1lk" level="file">
@@ -195,7 +188,7 @@
           <unittitle>RU Centennial History Conference</unittitle>
           <unitdate normal="2000/2000" type="inclusive">2000 November</unitdate>
           <physdesc id="aspace_4f334893223366180aaba6befe42ce7d">9 VHS cassettes of meeting</physdesc>
-          <container id="aspace_2706bd36ec7f9287e03222167fc611a3" label="Mixed Materials" type="box">2</container>
+          <container id="aspace_5c6db9e6a1d59670d7aef5c474c27d29" label="Mixed Materials" type="box">2</container>
         </did>
         <accessrestrict id="aspace_61784b5ca52ac131247acd219678cc2f">
           <head>Conditions Governing Access</head>

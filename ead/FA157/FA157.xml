@@ -18,7 +18,7 @@
       </publicationstmt>
     </filedesc>
     <profiledesc>
-      <creation>This finding aid was produced using ArchivesSpace on <date>2015-09-18 18:52:00 -0400</date>.</creation>
+      <creation>This finding aid was produced using ArchivesSpace on <date>2016-08-22 20:57:49 -0400</date>.</creation>
     </profiledesc>
     <revisiondesc>
       <change>
@@ -36,12 +36,6 @@
         <corpname>Rockefeller Archive Center</corpname>
       </repository>
       <unittitle>Paul H. de Kruif papers, Rockefeller Institute for Medical Research Scientific Staff</unittitle>
-      <origination label="creator">
-        <corpname role="ctb" source="lcnaf">Rockefeller University</corpname>
-      </origination>
-      <origination label="creator">
-        <corpname role="ctb" source="lcnaf">Rockefeller Institute for Medical Research</corpname>
-      </origination>
       <origination label="creator">
         <persname role="aut" source="lcnaf">De Kruif, Paul, 1890-1971</persname>
       </origination>
@@ -65,11 +59,6 @@
       <head>Arrangement note</head>
       <p>Arranged by series.</p>
     </arrangement>
-    <phystech id="aspace_c6686a3651a1582c1775fc61e673f756">
-      <head>Physical Characteristics and Technical Requirements</head>
-      <p>Materials requiring specialized equipment for access (film, audio, video, slides) may be closed to research dependent on availability of the applicable equipment </p>
-      <p>Brittle or damaged items, or materials otherwise in need of preservation care, may be closed to researchers at the discretion of the RAC Head of Archival Services/Head of Reference.</p>
-    </phystech>
     <prefercite id="aspace_f52fcae13b2bed639c3dda03b9e4e540">
       <head>Preferred Citation</head>
       <p>Information regarding the Rockefeller Archive Center's preferred elements and forms of citation can be found at <extref href="http://www.rockarch.org/research/citations.php">http://www.rockarch.org/research/citations.php</extref></p>
@@ -98,8 +87,12 @@
     </relatedmaterial>
     <accessrestrict id="aspace_9f5dc701a635e225f245e4c6b90428c6">
       <head>Conditions Governing Access note</head>
-      <p>This collection is open for research.</p>
+      <p>Open for researched. Brittle or damaged items are available at the discretion of RAC.</p>
     </accessrestrict>
+    <scopecontent id="aspace_4d862dc3b32efdb64af7f3be4c89cb06">
+      <head>Scope and Contents</head>
+      <p>Types of records include: correspondence and printed material.</p>
+    </scopecontent>
     <controlaccess>
       <subject source="lcsh">Bacteriology</subject>
       <subject source="lcsh">Bacteria</subject>
@@ -108,15 +101,14 @@
       <subject source="lcsh">Biology -- Research</subject>
       <corpname role="ctb" source="lcnaf">Rockefeller University</corpname>
       <corpname role="ctb" source="lcnaf">Rockefeller Institute for Medical Research</corpname>
-      <persname role="aut" source="lcnaf">De Kruif, Paul, 1890-1971</persname>
     </controlaccess>
     <dsc>
       <c id="aspace_ref8_wkw" level="file">
         <did>
           <unittitle>Correspondence</unittitle>
           <unitdate normal="1919/1940" type="inclusive">1919-1940</unitdate>
-          <container id="aspace_b9326f9d7a2a2887763228e6fb622922" label="Mixed Materials" type="box">1</container>
-          <container id="aspace_3d4a5a281b82ff87a35d4c89ad5f9860" parent="aspace_b9326f9d7a2a2887763228e6fb622922" type="folder">1-4</container>
+          <container id="aspace_be96d98c932f749ff2155052a1ed2c0e" label="Mixed Materials" type="box">1</container>
+          <container id="aspace_07bc779f91fa0a60e506144cd4745650" parent="aspace_be96d98c932f749ff2155052a1ed2c0e" type="folder">1-4</container>
         </did>
         <scopecontent id="aspace_08f89244d6b0f30a2f3131d717bacc37">
           <head>Scope and Contents note</head>
@@ -128,8 +120,8 @@
         <did>
           <unittitle>Kruif publications</unittitle>
           <unitdate normal="1922/1926" type="inclusive">1922-1926</unitdate>
-          <container id="aspace_acc9a6b6fe5d4607cda43054f83c20a4" label="Mixed Materials" type="box">1</container>
-          <container id="aspace_81c966f0cb5efb5c907c7b82ff77cd68" parent="aspace_acc9a6b6fe5d4607cda43054f83c20a4" type="folder">5</container>
+          <container id="aspace_69a0bfe53836ef4e60055ca8f7d109d7" label="Mixed Materials" type="box">1</container>
+          <container id="aspace_68234b18d5ab31eaff3ea3eb74ed4e4e" parent="aspace_69a0bfe53836ef4e60055ca8f7d109d7" type="folder">5</container>
         </did>
         <scopecontent id="aspace_207156af7aefe45f76d860d56086b35e">
           <head>Scope and Contents note</head>
@@ -140,24 +132,24 @@
         <did>
           <unittitle>Photographs of de Kruif and Leon E. A. Gratia of Belgium, ca. 1921 and April 23, 1921</unittitle>
           <unitdate normal="1921/1921" type="inclusive">1921</unitdate>
-          <container id="aspace_47abb703971f5d93fa1ade4ccdef1344" label="Mixed Materials" type="box">1</container>
-          <container id="aspace_29e0cd0c5d573b8bb790a4bf8c578b0b" parent="aspace_47abb703971f5d93fa1ade4ccdef1344" type="folder">6</container>
+          <container id="aspace_69fe9db96f6986b9cb5a225699ff8867" label="Mixed Materials" type="box">1</container>
+          <container id="aspace_cb2c776bee4f7246014ae20ef8dd6775" parent="aspace_69fe9db96f6986b9cb5a225699ff8867" type="folder">6</container>
         </did>
       </c>
       <c id="aspace_ref13_4rg" level="file">
         <did>
           <unittitle>New York Times obituary and biographical note from what appears to be WHO'S WHO</unittitle>
           <unitdate type="inclusive">1971 March 2</unitdate>
-          <container id="aspace_b27eaa5b628693f55c1b9b90b9b24571" label="Mixed Materials" type="box">1</container>
-          <container id="aspace_becc4463a0f80d9dde9034ddadc4cfe3" parent="aspace_b27eaa5b628693f55c1b9b90b9b24571" type="folder">7</container>
+          <container id="aspace_9c8b581279b8258b032d18f67fe3f2c6" label="Mixed Materials" type="box">1</container>
+          <container id="aspace_aaf719cc994564f2d537ca2f611a6141" parent="aspace_9c8b581279b8258b032d18f67fe3f2c6" type="folder">7</container>
         </did>
       </c>
       <c id="aspace_ref14_zpf" level="file">
         <did>
           <unittitle>"Hospital Practice" Vol. 14</unittitle>
           <unitdate type="inclusive">1979 February</unitdate>
-          <container id="aspace_8afd2150c59ac0664e7997437031dfe7" label="Mixed Materials" type="box">1</container>
-          <container id="aspace_06f0a3ecc10068caa8e24a887d6bc7ad" parent="aspace_8afd2150c59ac0664e7997437031dfe7" type="folder">8</container>
+          <container id="aspace_2b3953dcc9bef3e5b1396df7b93aea9a" label="Mixed Materials" type="box">1</container>
+          <container id="aspace_a23f424b54f1108014e3a070dc797850" parent="aspace_2b3953dcc9bef3e5b1396df7b93aea9a" type="folder">8</container>
         </did>
         <scopecontent id="aspace_3471e099db5b77809259da3a86a15660">
           <head>Scope and Contents note</head>
@@ -168,8 +160,8 @@
         <did>
           <unittitle>Correspondence</unittitle>
           <unitdate normal="1931/1931" type="inclusive">1931</unitdate>
-          <container id="aspace_585b6611be0172d2742d47761c73bac7" label="Mixed Materials" type="box">1</container>
-          <container id="aspace_748d2d736aa1184e7b09410d351fa85b" parent="aspace_585b6611be0172d2742d47761c73bac7" type="folder">9</container>
+          <container id="aspace_bbda8659dc300e4cc6df6bb4810ae7b0" label="Mixed Materials" type="box">1</container>
+          <container id="aspace_4ea11153f5492bc2f2a4eea47184a487" parent="aspace_bbda8659dc300e4cc6df6bb4810ae7b0" type="folder">9</container>
         </did>
         <scopecontent id="aspace_77f51b433399917e0dccb6c2a69e0df0">
           <head>Scope and Contents note</head>

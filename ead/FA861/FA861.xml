@@ -18,7 +18,8 @@
       </publicationstmt>
     </filedesc>
     <profiledesc>
-      <creation>This finding aid was produced using ArchivesSpace on <date>2015-09-19 07:32:21 -0400</date>.</creation>
+      <creation>This finding aid was produced using ArchivesSpace on <date>2016-08-24 14:07:15 -0400</date>.</creation>
+      <descrules>Describing Archives: A Content Standard</descrules>
     </profiledesc>
     <revisiondesc>
       <date>2010 November 12</date>
@@ -35,13 +36,10 @@
       </repository>
       <unittitle>Rockefeller University records, Corporation, Board of Trustees, Rockefeller University Council</unittitle>
       <origination label="creator">
-        <corpname source="lcnaf">Rockefeller Institute for Medical Research</corpname>
+        <corpname role="aut" source="lcnaf">Rockefeller Institute for Medical Research</corpname>
       </origination>
       <origination label="creator">
         <corpname role="aut" source="lcnaf">Rockefeller University</corpname>
-      </origination>
-      <origination label="creator">
-        <persname source="lcnaf">Gates, Frederick Taylor</persname>
       </origination>
       <unitid>FA861</unitid>
       <physdesc altrender="whole">
@@ -178,11 +176,6 @@
         </chronitem>
       </chronlist>
     </bioghist>
-    <phystech id="aspace_fd6e43074bf854e1dc6df8d10f00c45a">
-      <head>Physical Characteristics and Technical Requirements note</head>
-      <p>Materials requiring specialized equipment for access (film, audio, video, slides) may be closed to research dependent on availability of the applicable equipment</p>
-      <p>Brittle or damaged items, or materials otherwise in need of preservation care, may be closed to researchers at the discretion of the RAC Head of Archival Services/Head of Reference.</p>
-    </phystech>
     <prefercite id="aspace_d345f80a8cb443bc73a1b76bb31f603b">
       <head>Preferred Citation note</head>
       <p>Information regarding the Rockefeller Archive Center's preferred elements and forms of citation can be found at <extref href="http://www.rockarch.org/research/citations.php">http://www.rockarch.org/research/citations.php</extref></p>
@@ -223,19 +216,18 @@
     </bioghist>
     <accessrestrict id="aspace_aa6e12869691fe44e9d39198d2ae5a67">
       <head>Conditions Governing Access note</head>
-      <p>This collection is open for scholarly research.</p>
+      <p>This collection is open for research. Brittle or damaged items are available at the discretion.</p>
     </accessrestrict>
-    <controlaccess>
-      <corpname source="lcnaf">Rockefeller Institute for Medical Research</corpname>
-      <corpname role="aut" source="lcnaf">Rockefeller University</corpname>
-      <persname source="lcnaf">Gates, Frederick Taylor</persname>
-    </controlaccess>
+    <scopecontent id="aspace_1594c46ae178744c0687b926efea39d0">
+      <head>Scope and Contents</head>
+      <p>Copies of publicity pertaining to appointments.</p>
+    </scopecontent>
     <dsc>
       <c id="aspace_ref599_4nb" level="file">
         <did>
           <unittitle>Xerox copies of publicity regarding appointments made to the Rockefeller University Council</unittitle>
           <unitdate normal="1973/1973" type="inclusive">1973-</unitdate>
-          <container id="aspace_83acb2abec484ece7e2a8b69c1b6ae7b" label="Mixed Materials" type="box">1</container>
+          <container id="aspace_57eb54108ae7cbe8c0b2c27e8038ee26" label="Mixed Materials" type="box">1</container>
         </did>
         <scopecontent id="aspace_bd639de8b4ee9a6d45fb80083f948a68">
           <head>Scope and Contents note</head>

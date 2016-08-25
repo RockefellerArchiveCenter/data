@@ -18,7 +18,7 @@
       </publicationstmt>
     </filedesc>
     <profiledesc>
-      <creation>This finding aid was produced using ArchivesSpace on <date>2015-09-19 07:59:34 -0400</date>.</creation>
+      <creation>This finding aid was produced using ArchivesSpace on <date>2016-08-24 14:54:24 -0400</date>.</creation>
       <langusage>English</langusage>
       <descrules>Describing Archives: A Content Standard</descrules>
     </profiledesc>
@@ -35,6 +35,9 @@
       <origination label="creator">
         <corpname role="aut" source="lcnaf">Rockefeller Institute for Medical Research</corpname>
       </origination>
+      <origination label="creator">
+        <persname role="aut" rules="dacs" source="local">Evans, Herbert M.</persname>
+      </origination>
       <unitid>FA980</unitid>
       <physdesc altrender="whole">
         <extent altrender="materialtype spaceoccupied">0.44 Cubic Feet</extent>
@@ -45,13 +48,8 @@
     </did>
     <accessrestrict id="aspace_9b0f0ec099cbbca8d062ebdeb5ff40bd">
       <head>Conditions Governing Access</head>
-      <p>Collection is open for scholarly research.</p>
+      <p>Collection is open for research. Brittle or damaged items are available at the discretion of RAC.</p>
     </accessrestrict>
-    <phystech id="aspace_ca9a64cbd0d658c937fb3b8506de6947">
-      <head>Physical Characteristics and Technical Requirements</head>
-      <p>Materials requiring specialized equipment for access (film, audio, video, slides) may be restricted from scholarly research dependent on availability of the applicable equipment. </p>
-      <p>Brittle or damaged items, or materials otherwise in need of preservation care, may be restricted from scholarly research at the discretion of the RAC Head of Archival Services/RAC Head of Reference.</p>
-    </phystech>
     <prefercite id="aspace_b5ad29a1a3a07c54735c26c746b8349e">
       <head>Preferred Citation</head>
       <p>Information regarding the Rockefeller Archive Center's preferred elements and forms of citation can be found at <extref href="http://www.rockarch.org/research/citations.php">http://www.rockarch.org/research/citations.php</extref></p>
@@ -100,15 +98,12 @@
         </chronitem>
       </chronlist>
     </bioghist>
-    <controlaccess>
-      <corpname role="aut" source="lcnaf">Rockefeller Institute for Medical Research</corpname>
-    </controlaccess>
     <dsc>
       <c id="aspace_ref7_b6v" level="file">
         <did>
           <unittitle>Correspondence</unittitle>
-          <container id="aspace_7ca7020e7ec7edb84e2fe6945f73c9d7" label="Mixed Materials" type="box">1</container>
-          <container id="aspace_e4851bb40621d76b78d6ffa649d79227" parent="aspace_7ca7020e7ec7edb84e2fe6945f73c9d7" type="folder">1</container>
+          <container id="aspace_a30e2d21034bbbde836fc5d0b99c7539" label="Mixed Materials" type="box">1</container>
+          <container id="aspace_fb515fb03544840f581f20f6c0d83240" parent="aspace_a30e2d21034bbbde836fc5d0b99c7539" type="folder">1</container>
         </did>
         <scopecontent id="aspace_82e3d32aac48d33ae0897f1aa138d97e">
           <head>Scope and Contents</head>
@@ -122,8 +117,8 @@
       <c id="aspace_ref8_x6g" level="file">
         <did>
           <unittitle>Correspondence, Photographs, News items, Budget records</unittitle>
-          <container id="aspace_8fd98c12141f0dbdacae71fe605fe959" label="Mixed Materials" type="box">1</container>
-          <container id="aspace_42f5c0a664cc9c5770acaba105f8949c" parent="aspace_8fd98c12141f0dbdacae71fe605fe959" type="folder">2</container>
+          <container id="aspace_a3ef63be14a260f656c573edbb2bffff" label="Mixed Materials" type="box">1</container>
+          <container id="aspace_0ccdf175d0183889f89e81eeeccc9a1d" parent="aspace_a3ef63be14a260f656c573edbb2bffff" type="folder">2</container>
         </did>
         <scopecontent id="aspace_488e1c61f083dd793583a499953c8f99">
           <head>Scope and Contents</head>

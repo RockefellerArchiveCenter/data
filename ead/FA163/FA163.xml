@@ -22,7 +22,7 @@
       </publicationstmt>
     </filedesc>
     <profiledesc>
-      <creation>This finding aid was produced using ArchivesSpace on <date>2015-11-22 09:13:12 -0500</date>.</creation>
+      <creation>This finding aid was produced using ArchivesSpace on <date>2016-08-22 21:03:54 -0400</date>.</creation>
     </profiledesc>
     <revisiondesc>
       <change>
@@ -42,12 +42,6 @@
       <unittitle>John D. Gregory papers, Rockefeller University Faculty</unittitle>
       <origination label="creator">
         <persname role="aut" source="lcnaf">Gregory, John D.</persname>
-      </origination>
-      <origination label="creator">
-        <corpname role="ctb" source="lcnaf">Rockefeller Institute for Medical Research</corpname>
-      </origination>
-      <origination label="creator">
-        <corpname role="ctb" source="lcnaf">Rockefeller University</corpname>
       </origination>
       <unitid>FA163</unitid>
       <physdesc altrender="whole">
@@ -74,13 +68,8 @@
     </fileplan>
     <accessrestrict id="aspace_7d28d1446e46230cf81237bc7d5f14c5">
       <head>Conditions Governing Access note</head>
-      <p>This collection is open for scholarly research.</p>
+      <p>Open for research. Brittle or damaged items are available at the discretion of RAC.</p>
     </accessrestrict>
-    <phystech id="aspace_2dcf8712aeaf5cafb2810b1cfd3b87ef">
-      <head>Physical Characteristics and Technical Requirements</head>
-      <p>Materials requiring specialized equipment for access (film, audio, video, slides) may be closed to research dependent on availability of the applicable equipment </p>
-      <p>Brittle or damaged items, or materials otherwise in need of preservation care, may be closed to researchers at the discretion of the RAC Head of Archival Services/Head of Reference.</p>
-    </phystech>
     <prefercite id="aspace_e7015e19751a01890db392700418abb3">
       <head>Preferred Citation</head>
       <p>Information regarding the Rockefeller Archive Center's preferred elements and forms of citation can be found at <extref href="http://www.rockarch.org/research/citations.php">http://www.rockarch.org/research/citations.php</extref></p>
@@ -89,6 +78,10 @@
       <head>Processing Information</head>
       <p>Level 1 Processing has been conducted to gain basic intellectual and physical control of the materials and assess immediate preservation needs. Material remains as received, in original folders and storage boxes.</p>
     </processinfo>
+    <scopecontent id="aspace_cb43839ed7242b9e74a820399367fe4a">
+      <head>Scope and Contents</head>
+      <p>This collection is comprised entirely of reprints.</p>
+    </scopecontent>
     <controlaccess>
       <subject source="lcsh">Biology -- Research</subject>
       <subject source="lcsh">Cell and biomolecular sciences</subject>
@@ -96,7 +89,6 @@
       <subject source="lcsh">Medical sciences</subject>
       <subject source="lcsh">Biochemistry</subject>
       <subject source="lcsh">Connective tissues</subject>
-      <persname role="aut" source="lcnaf">Gregory, John D.</persname>
       <corpname role="ctb" source="lcnaf">Rockefeller Institute for Medical Research</corpname>
       <corpname role="ctb" source="lcnaf">Rockefeller University</corpname>
     </controlaccess>
@@ -122,16 +114,16 @@
           <did>
             <unittitle>Reprints, #1-28</unittitle>
             <unitdate normal="1947/1962" type="inclusive">1947-1962</unitdate>
-            <container id="aspace_55b619421707680f2937e073d071fe14" label="Mixed Materials" type="box">1</container>
-            <container id="aspace_d7845ef636b999d344eafef0d4869b79" parent="aspace_55b619421707680f2937e073d071fe14" type="folder">1</container>
+            <container id="aspace_66004f04f785fa53fcb24ff0d770c496" label="Mixed Materials (157304.1.318)" type="box">1</container>
+            <container id="aspace_bcb6c994d523671b55fd7dc2fcd28a03" parent="aspace_66004f04f785fa53fcb24ff0d770c496" type="folder">1</container>
           </did>
         </c>
         <c id="aspace_ref8_9e4" level="file">
           <did>
             <unittitle>Reprints, #29-67</unittitle>
             <unitdate normal="1962/1990" type="inclusive">1962-1990</unitdate>
-            <container id="aspace_2c1bb32d78dc78b224b4a5339b14e7d3" label="Mixed Materials" type="box">1</container>
-            <container id="aspace_4f2bc8bf11016b94dc4a7983f17b8cf9" parent="aspace_2c1bb32d78dc78b224b4a5339b14e7d3" type="folder">2</container>
+            <container id="aspace_a4f64fb4728d26858e2e0d0c6c5b1574" label="Mixed Materials (157304.1.318)" type="box">1</container>
+            <container id="aspace_7d85e74b59deba42cfd78ab604d6da47" parent="aspace_a4f64fb4728d26858e2e0d0c6c5b1574" type="folder">2</container>
           </did>
         </c>
       </c>

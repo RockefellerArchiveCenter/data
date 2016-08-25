@@ -18,7 +18,7 @@
       </publicationstmt>
     </filedesc>
     <profiledesc>
-      <creation>This finding aid was produced using ArchivesSpace on <date>2015-11-22 08:57:46 -0500</date>.</creation>
+      <creation>This finding aid was produced using ArchivesSpace on <date>2016-08-22 20:52:15 -0400</date>.</creation>
     </profiledesc>
     <revisiondesc>
       <change>
@@ -73,10 +73,6 @@
       <head>Preferred Citation</head>
       <p>Information regarding the Rockefeller Archive Center's preferred elements and forms of citation can be found at <extref href="http://www.rockarch.org/research/citations.php">http://www.rockarch.org/research/citations.php</extref></p>
     </prefercite>
-    <phystech id="aspace_f930484b37346f0275709186b7d16f36">
-      <head>Physical Characteristics and Technical Requirements</head>
-      <p>Many of the volumes of scientific reports are in poor or brittle condition.</p>
-    </phystech>
     <processinfo id="aspace_af764134e6a53efe692fd71d0557424e">
       <head>Processing Information</head>
       <p>Standard processing by RAC.</p>
@@ -87,13 +83,16 @@
     </userestrict>
     <accessrestrict id="aspace_e013b7fddc2db627f82f3bf1007e9503">
       <head>Conditions Governing Access note</head>
-      <p>This collection is open for scholarly research.</p>
-      <p>Brittle or damaged items, or materials otherwise in need of preservation care, may be restricted from scholarly research at the discretion of the RAC Head of Archival Services/RAC Head of Reference.</p>
+      <p>Open for research with select materials restricted as noted. Brittle or damaged items are available at the discretion of RAC.</p>
     </accessrestrict>
     <altformavail id="aspace_61c03762db8a8504371f8d3cb7eb620a">
       <head>Existence and Location of Copies</head>
       <p>A complete set of all 42 volumes of scientific reports is also available at the Campus Office of the Rockefeller University Archives.</p>
     </altformavail>
+    <scopecontent id="aspace_2bbea31cc897ea947b67d69d8c09c2a4">
+      <head>Scope and Contents</head>
+      <p>Types of records include: reports.</p>
+    </scopecontent>
     <controlaccess>
       <subject source="lcsh">Trypanosomiasis</subject>
       <subject source="lcsh">Tryparsamide</subject>
@@ -105,19 +104,16 @@
       <subject source="lcsh">Medical research</subject>
       <subject source="lcsh">Medical education</subject>
       <subject source="lcsh">Medical sciences</subject>
-      <corpname role="ctb" source="lcnaf">Rockefeller Institute for Medical Research</corpname>
-      <corpname role="aut" source="lcnaf">Rockefeller University</corpname>
       <corpname rules="dacs">Rockefeller Institute Hospital. (Compiègne, France)</corpname>
       <corpname rules="dacs">Rockefeller Institute for Medical Research. War Demonstration Hospital</corpname>
-      <persname role="ctb" source="lcnaf">Gasser, Herbert S. (Herbert Spencer)</persname>
     </controlaccess>
     <dsc>
       <c id="aspace_ref51_k27" level="file">
         <did>
           <unitdate normal="1902/1908" type="inclusive">1902 April-1908 October</unitdate>
-          <container id="aspace_facee10acbcd63ba0f7e1f5743162192" label="Mixed Materials" type="box">1</container>
-          <container id="aspace_af4efcb52642bde506d5f9777316281a" parent="aspace_facee10acbcd63ba0f7e1f5743162192" type="folder">1</container>
-          <container id="aspace_24d70c0bdee2f8ab5f8461aa3eb0b076" parent="aspace_af4efcb52642bde506d5f9777316281a" type="volume">1</container>
+          <container id="aspace_6047705bac011b36c2fd2e433afdba9e" label="Mixed Materials" type="box">1</container>
+          <container id="aspace_4ea1e64028b20d1492ae78600a3c32e3" parent="aspace_6047705bac011b36c2fd2e433afdba9e" type="folder">1</container>
+          <container id="aspace_665c31a6010a9475f7819c72dedcd41d" parent="aspace_4ea1e64028b20d1492ae78600a3c32e3" type="volume">1</container>
         </did>
         <accessrestrict id="aspace_cdb72062f673e00ae53869b2189c825d">
           <head>Conditions Governing Access</head>
@@ -132,9 +128,9 @@
       <c id="aspace_ref52_5hj" level="file">
         <did>
           <unitdate normal="1909/1911" type="inclusive">1909 January-1911 October</unitdate>
-          <container id="aspace_f8d42d2e60ff11a2e225211aeceddad6" label="Mixed Materials" type="box">1</container>
-          <container id="aspace_572a8a762ca9492ba8824758504abd1c" parent="aspace_f8d42d2e60ff11a2e225211aeceddad6" type="folder">2</container>
-          <container id="aspace_7f988850ef145ffac5dd4bac62a29b8a" parent="aspace_572a8a762ca9492ba8824758504abd1c" type="volume">2</container>
+          <container id="aspace_1dd5a23425fea0466b2c9083063302df" label="Mixed Materials" type="box">1</container>
+          <container id="aspace_655919c65e0d7817cbc1ecb63bcd1fd3" parent="aspace_1dd5a23425fea0466b2c9083063302df" type="folder">2</container>
+          <container id="aspace_35adf4471c8af54c995088c6cdb14298" parent="aspace_655919c65e0d7817cbc1ecb63bcd1fd3" type="volume">2</container>
         </did>
         <accessrestrict id="aspace_b956d3ca3d3c921b63cead83f3d82844">
           <head>Conditions Governing Access</head>
@@ -149,9 +145,9 @@
       <c id="aspace_ref53_zdf" level="file">
         <did>
           <unitdate normal="1912/1914" type="inclusive">1912 January-1914 October</unitdate>
-          <container id="aspace_dd17507e635ccd9704fee94e6ffd7584" label="Mixed Materials" type="box">1</container>
-          <container id="aspace_16aaeb5346edf606106a8903c4db968e" parent="aspace_dd17507e635ccd9704fee94e6ffd7584" type="folder">3</container>
-          <container id="aspace_1ee8a47faef5f237c61ef46f7ead8073" parent="aspace_16aaeb5346edf606106a8903c4db968e" type="volume">3</container>
+          <container id="aspace_3cfc3649d05d50566f3e6a4dee6bc364" label="Mixed Materials" type="box">1</container>
+          <container id="aspace_81b52dc653d06f2ab0011eb1174b5fec" parent="aspace_3cfc3649d05d50566f3e6a4dee6bc364" type="folder">3</container>
+          <container id="aspace_e606a74c1e6b067d5b954c325d22872c" parent="aspace_81b52dc653d06f2ab0011eb1174b5fec" type="volume">3</container>
         </did>
         <accessrestrict id="aspace_bf64d47029e1e3a9c8a01688fd3b1871">
           <head>Conditions Governing Access</head>
@@ -176,9 +172,9 @@
       <c id="aspace_ref54_p8q" level="file">
         <did>
           <unitdate normal="1915/1916" type="inclusive">1915 January-1916 October</unitdate>
-          <container id="aspace_ca4852d158d28bc8c31f57299b8b2e1f" label="Mixed Materials" type="box">2</container>
-          <container id="aspace_e7f691cfe8efc2d92ff3abe5186fdc44" parent="aspace_ca4852d158d28bc8c31f57299b8b2e1f" type="folder">1</container>
-          <container id="aspace_94e1577d32092f276ff95066dd8cce6a" parent="aspace_e7f691cfe8efc2d92ff3abe5186fdc44" type="volume">4</container>
+          <container id="aspace_513b099311a3a87e09b83a089c135890" label="Mixed Materials" type="box">2</container>
+          <container id="aspace_d4655074dad6f945da2890fd29dbdf19" parent="aspace_513b099311a3a87e09b83a089c135890" type="folder">1</container>
+          <container id="aspace_79cb281eb520697c4e5901038a8a316c" parent="aspace_d4655074dad6f945da2890fd29dbdf19" type="volume">4</container>
         </did>
         <accessrestrict id="aspace_94c6218b373f85f9f8513a1a2d7c33d2">
           <head>Conditions Governing Access</head>
@@ -193,9 +189,9 @@
       <c id="aspace_ref55_l1m" level="file">
         <did>
           <unitdate normal="1917/1917" type="inclusive">1917 January-October</unitdate>
-          <container id="aspace_85d64243fbf63a5e3846f816693c65bc" label="Mixed Materials" type="box">2</container>
-          <container id="aspace_84c14f0db8e5e0dbaa4f62d718ef7e44" parent="aspace_85d64243fbf63a5e3846f816693c65bc" type="folder">2</container>
-          <container id="aspace_39c40b9965895d170757214034a57ee1" parent="aspace_84c14f0db8e5e0dbaa4f62d718ef7e44" type="volume">5</container>
+          <container id="aspace_b22a69eea67c7260e1cd599fede3686d" label="Mixed Materials" type="box">2</container>
+          <container id="aspace_80c76da0cec0f3b5648491cd529af07d" parent="aspace_b22a69eea67c7260e1cd599fede3686d" type="folder">2</container>
+          <container id="aspace_4972a011d8cc6a28de68e4f8f2cee29f" parent="aspace_80c76da0cec0f3b5648491cd529af07d" type="volume">5</container>
         </did>
         <accessrestrict id="aspace_82f4989922d3093267f735013809ba41">
           <head>Conditions Governing Access</head>
@@ -216,9 +212,9 @@
       <c id="aspace_ref56_bbu" level="file">
         <did>
           <unitdate normal="1918/1918" type="inclusive">1918 January-October</unitdate>
-          <container id="aspace_00dcf7400870d34a09e3daeae3212e31" label="Mixed Materials" type="box">3</container>
-          <container id="aspace_3cb46c8333f6261d97676a351354fe5f" parent="aspace_00dcf7400870d34a09e3daeae3212e31" type="folder">1</container>
-          <container id="aspace_50306c57a3b885ed2f213cc470063e60" parent="aspace_3cb46c8333f6261d97676a351354fe5f" type="volume">6</container>
+          <container id="aspace_557cf70f72dbd9dff23d8f3f70f88cdd" label="Mixed Materials" type="box">3</container>
+          <container id="aspace_2a72cf07c41d1870468b92bb3872deb4" parent="aspace_557cf70f72dbd9dff23d8f3f70f88cdd" type="folder">1</container>
+          <container id="aspace_9610a6902ec6a3f891b29718a786652a" parent="aspace_2a72cf07c41d1870468b92bb3872deb4" type="volume">6</container>
         </did>
         <accessrestrict id="aspace_0772e21d3798e8cc5c2d29847c7264ac">
           <head>Conditions Governing Access</head>
@@ -239,9 +235,9 @@
       <c id="aspace_ref57_gdh" level="file">
         <did>
           <unitdate normal="1919/1919" type="inclusive">1919 January-October</unitdate>
-          <container id="aspace_001f04ce8c976c26fe33d5871d8d5838" label="Mixed Materials" type="box">3</container>
-          <container id="aspace_bbd2926bb1ef9c6b54ea9b5de06f819f" parent="aspace_001f04ce8c976c26fe33d5871d8d5838" type="folder">2</container>
-          <container id="aspace_465b1570512de7d045edd74dc79885ec" parent="aspace_bbd2926bb1ef9c6b54ea9b5de06f819f" type="volume">7</container>
+          <container id="aspace_e09a8e569d8847a7749983a1777d958b" label="Mixed Materials" type="box">3</container>
+          <container id="aspace_c4da3c07d0c8fad4601699d2a527cd4c" parent="aspace_e09a8e569d8847a7749983a1777d958b" type="folder">2</container>
+          <container id="aspace_8c1fa0d844c3a84640dd3c0356056e21" parent="aspace_c4da3c07d0c8fad4601699d2a527cd4c" type="volume">7</container>
         </did>
         <accessrestrict id="aspace_e731e4879915ba0b22a367cd0c6720c8">
           <head>Conditions Governing Access</head>
@@ -266,9 +262,9 @@
       <c id="aspace_ref58_ox7" level="file">
         <did>
           <unitdate normal="1920/1920" type="inclusive">1920 January-October</unitdate>
-          <container id="aspace_4d122101be4317cf6da49b61706cec00" label="Mixed Materials" type="box">3</container>
-          <container id="aspace_b2a702949dc8d9cb2d63d1b87c33b9ca" parent="aspace_4d122101be4317cf6da49b61706cec00" type="folder">3</container>
-          <container id="aspace_712b7d2db8796a6493cbb9f562f49b63" parent="aspace_b2a702949dc8d9cb2d63d1b87c33b9ca" type="volume">8</container>
+          <container id="aspace_39964e26fa0bf802840e9beb9a7d515f" label="Mixed Materials" type="box">3</container>
+          <container id="aspace_fb46504227128efee7632525d0e5b518" parent="aspace_39964e26fa0bf802840e9beb9a7d515f" type="folder">3</container>
+          <container id="aspace_844e757df6886c4e05c912524debca73" parent="aspace_fb46504227128efee7632525d0e5b518" type="volume">8</container>
         </did>
         <scopecontent id="aspace_2d2c0cb18518d6e05795c535b272ca9a">
           <head>Scope and Contents</head>
@@ -287,9 +283,9 @@
       <c id="aspace_ref59_amh" level="file">
         <did>
           <unitdate normal="1921/1921" type="inclusive">1921 January-October</unitdate>
-          <container id="aspace_5940e6bc311e80a84b446fef2a111765" label="Mixed Materials" type="box">4</container>
-          <container id="aspace_82841612178223a4a4dd9e7a87ccaa5c" parent="aspace_5940e6bc311e80a84b446fef2a111765" type="folder">1</container>
-          <container id="aspace_ee4355e43cccef3e8c19dc6a41ca6f1c" parent="aspace_82841612178223a4a4dd9e7a87ccaa5c" type="volume">9</container>
+          <container id="aspace_a9581871047bfae1d85034d827b15f4d" label="Mixed Materials" type="box">4</container>
+          <container id="aspace_375ae59b78a263f121137fdcc1c5457d" parent="aspace_a9581871047bfae1d85034d827b15f4d" type="folder">1</container>
+          <container id="aspace_d810b8f17da62b4fb31185236c9d57aa" parent="aspace_375ae59b78a263f121137fdcc1c5457d" type="volume">9</container>
         </did>
         <accessrestrict id="aspace_45d8365664525d0afca8d78acfa0f731">
           <head>Conditions Governing Access</head>
@@ -304,9 +300,9 @@
       <c id="aspace_ref60_6po" level="file">
         <did>
           <unitdate normal="1922/1922" type="inclusive">1922 January-October</unitdate>
-          <container id="aspace_603aab02da0adf7b2f515d84889f2a9e" label="Mixed Materials" type="box">4</container>
-          <container id="aspace_03ec38f5dbb28b3f0c109cd39c92487c" parent="aspace_603aab02da0adf7b2f515d84889f2a9e" type="folder">2</container>
-          <container id="aspace_2ff44f955f88139fb667bba0c9ae13af" parent="aspace_03ec38f5dbb28b3f0c109cd39c92487c" type="volume">10</container>
+          <container id="aspace_b7ae5d17996c45fe9f29067dea7e4365" label="Mixed Materials" type="box">4</container>
+          <container id="aspace_06acac8c8e378a1e2d9a85ae2b7ca13a" parent="aspace_b7ae5d17996c45fe9f29067dea7e4365" type="folder">2</container>
+          <container id="aspace_a79417849d5686e45b1162e4ded038b0" parent="aspace_06acac8c8e378a1e2d9a85ae2b7ca13a" type="volume">10</container>
         </did>
         <scopecontent id="aspace_ae3bbe1dfcff127b6e604d50d159b05a">
           <head>Scope and Contents</head>
@@ -325,9 +321,9 @@
       <c id="aspace_ref61_yhr" level="file">
         <did>
           <unitdate normal="1922/1923" type="inclusive">1922-1923</unitdate>
-          <container id="aspace_cb2d6948a679dd18fa1f3668ea390714" label="Mixed Materials" type="box">5</container>
-          <container id="aspace_7eeb79b5ae33633d584d5dcd0cb15594" parent="aspace_cb2d6948a679dd18fa1f3668ea390714" type="folder">1</container>
-          <container id="aspace_ae372d336c9061d5b89242d84314608e" parent="aspace_7eeb79b5ae33633d584d5dcd0cb15594" type="volume">11</container>
+          <container id="aspace_29cd57a3e1ff5d92ab4179f514e5b60f" label="Mixed Materials" type="box">5</container>
+          <container id="aspace_41a6c2198568b6e580831a4e578d9130" parent="aspace_29cd57a3e1ff5d92ab4179f514e5b60f" type="folder">1</container>
+          <container id="aspace_c25191a58bc3639c39a0c4f95503ebf5" parent="aspace_41a6c2198568b6e580831a4e578d9130" type="volume">11</container>
         </did>
         <scopecontent id="aspace_d41ef3b2a9e5fd0ce39be57653de74f7">
           <head>Scope and Contents</head>
@@ -346,9 +342,9 @@
       <c id="aspace_ref62_k61" level="file">
         <did>
           <unitdate normal="1923/1924" type="inclusive">1923 October-1924 October</unitdate>
-          <container id="aspace_c5cd2dd28c3c63a8fbf1489db8eca3f2" label="Mixed Materials" type="box">5</container>
-          <container id="aspace_4cd7edffb3154771a20accb3d9e453b3" parent="aspace_c5cd2dd28c3c63a8fbf1489db8eca3f2" type="folder">2</container>
-          <container id="aspace_4c3c2883e5e59f3b85c66413f08a828e" parent="aspace_4cd7edffb3154771a20accb3d9e453b3" type="volume">12</container>
+          <container id="aspace_926e1bf0f48aad869378809dbd582a99" label="Mixed Materials" type="box">5</container>
+          <container id="aspace_93db644dc4929604786213ab27a537b2" parent="aspace_926e1bf0f48aad869378809dbd582a99" type="folder">2</container>
+          <container id="aspace_6a638f560b6d778bfa6b23761ef8fbf3" parent="aspace_93db644dc4929604786213ab27a537b2" type="volume">12</container>
         </did>
         <scopecontent id="aspace_b93ef1702f935af4472e44e7508a9221">
           <head>Scope and Contents</head>
@@ -369,9 +365,9 @@
       <c id="aspace_ref63_kes" level="file">
         <did>
           <unitdate normal="1924/1925" type="inclusive">1924 October-1925 October</unitdate>
-          <container id="aspace_16f391d0d2240c8b9036e251ef9246bd" label="Mixed Materials" type="box">6</container>
-          <container id="aspace_5dd1378d9e3307c528eb6894beb093f0" parent="aspace_16f391d0d2240c8b9036e251ef9246bd" type="folder">1</container>
-          <container id="aspace_c41d35a71a3e0600ac4fff5f91b51d7d" parent="aspace_5dd1378d9e3307c528eb6894beb093f0" type="volume">13</container>
+          <container id="aspace_020eb23586d3d934db831a13b9fc764a" label="Mixed Materials" type="box">6</container>
+          <container id="aspace_55e92d924c9c32ec6b6e0f6e3689fd04" parent="aspace_020eb23586d3d934db831a13b9fc764a" type="folder">1</container>
+          <container id="aspace_c96a6782f3922ad866d16d22253aa2e7" parent="aspace_55e92d924c9c32ec6b6e0f6e3689fd04" type="volume">13</container>
         </did>
         <scopecontent id="aspace_0e929392af3be056efee826c1ab9b52d">
           <head>Scope and Contents</head>
@@ -392,9 +388,9 @@
       <c id="aspace_ref64_t52" level="file">
         <did>
           <unitdate normal="1925/1926" type="inclusive">1925 October-1926 October</unitdate>
-          <container id="aspace_ec31fafc2ba34629acf9c3d0810ce2a0" label="Mixed Materials" type="box">7</container>
-          <container id="aspace_ff4d8be7dfc307732dfdb0f4ad501c1f" parent="aspace_ec31fafc2ba34629acf9c3d0810ce2a0" type="folder">1</container>
-          <container id="aspace_f26aa1e5391f6ffc835a97977a1f694d" parent="aspace_ff4d8be7dfc307732dfdb0f4ad501c1f" type="volume">14</container>
+          <container id="aspace_d51b4be105fc5cdc96d708d92bc09de3" label="Mixed Materials" type="box">7</container>
+          <container id="aspace_145a272c1bafb1122836572b130d0b6e" parent="aspace_d51b4be105fc5cdc96d708d92bc09de3" type="folder">1</container>
+          <container id="aspace_121dc1cc3c78efacc0729c5b2b785c24" parent="aspace_145a272c1bafb1122836572b130d0b6e" type="volume">14</container>
         </did>
         <scopecontent id="aspace_0fd1989f79eca5bd21c688117fc9376c">
           <head>Scope and Contents</head>
@@ -413,9 +409,9 @@
       <c id="aspace_ref65_xol" level="file">
         <did>
           <unitdate normal="1926/1927" type="inclusive">1926 October-1927 October</unitdate>
-          <container id="aspace_9bf1a8ac28db7ae41e79c36bf3a677ce" label="Mixed Materials" type="box">8</container>
-          <container id="aspace_29f45279a0ac3258632fc6e7356c7a1f" parent="aspace_9bf1a8ac28db7ae41e79c36bf3a677ce" type="folder">1</container>
-          <container id="aspace_91221305e49cb2efd79a83bf4f2cca99" parent="aspace_29f45279a0ac3258632fc6e7356c7a1f" type="volume">15</container>
+          <container id="aspace_002cd9e76cb0a43d03b84fa4d8130e7e" label="Mixed Materials" type="box">8</container>
+          <container id="aspace_91bfb5568993cdaf0662c3669452b07e" parent="aspace_002cd9e76cb0a43d03b84fa4d8130e7e" type="folder">1</container>
+          <container id="aspace_945f6d1003cca831291ebc7a98a46804" parent="aspace_91bfb5568993cdaf0662c3669452b07e" type="volume">15</container>
         </did>
         <accessrestrict id="aspace_c768af23be9effe750effc544f0848b8">
           <head>Conditions Governing Access</head>
@@ -430,9 +426,9 @@
       <c id="aspace_ref66_4ob" level="file">
         <did>
           <unitdate normal="1927/1928" type="inclusive">1927 October-1928 October</unitdate>
-          <container id="aspace_b05efa1c8b9c94f0e8e79b57a1ca6988" label="Mixed Materials" type="box">9</container>
-          <container id="aspace_ccb5a1bebf056960586a31e46c131089" parent="aspace_b05efa1c8b9c94f0e8e79b57a1ca6988" type="folder">1</container>
-          <container id="aspace_c8569175f94aa624ca43b6f45eb9724e" parent="aspace_ccb5a1bebf056960586a31e46c131089" type="volume">16</container>
+          <container id="aspace_e6694d9ae95ca0055235e2a319ebb215" label="Mixed Materials" type="box">9</container>
+          <container id="aspace_819120071731fc075da08e6e55063ae8" parent="aspace_e6694d9ae95ca0055235e2a319ebb215" type="folder">1</container>
+          <container id="aspace_a5b72823f01e43b3bcc3074d09058f97" parent="aspace_819120071731fc075da08e6e55063ae8" type="volume">16</container>
         </did>
         <accessrestrict id="aspace_1089ad8ed7fcc90ca8c4fd416258d183">
           <head>Conditions Governing Access</head>
@@ -447,9 +443,9 @@
       <c id="aspace_ref67_zad" level="file">
         <did>
           <unitdate normal="1928/1929" type="inclusive">1928 October-1929 October</unitdate>
-          <container id="aspace_d274d78662f754fa0818614221a5d74c" label="Mixed Materials" type="box">9</container>
-          <container id="aspace_7f5bdb42d24281a1e28fd3c699cbd485" parent="aspace_d274d78662f754fa0818614221a5d74c" type="folder">2</container>
-          <container id="aspace_4f3cd6bd2029c10dff12a663a1a0e248" parent="aspace_7f5bdb42d24281a1e28fd3c699cbd485" type="volume">17</container>
+          <container id="aspace_93096750e0300205feba802286ef40cf" label="Mixed Materials" type="box">9</container>
+          <container id="aspace_683a9d75f920a3f919b0f8cd9cff0107" parent="aspace_93096750e0300205feba802286ef40cf" type="folder">2</container>
+          <container id="aspace_47129bc6d280be4e96a8528fedae4744" parent="aspace_683a9d75f920a3f919b0f8cd9cff0107" type="volume">17</container>
         </did>
         <scopecontent id="aspace_fd59325a02d0d2b2920e262e23799ae9">
           <head>Scope and Contents</head>
@@ -468,9 +464,9 @@
       <c id="aspace_ref68_4db" level="file">
         <did>
           <unitdate normal="1929/1930" type="inclusive">1929 October-1930 October</unitdate>
-          <container id="aspace_723fdbba3b8f04d646c69a9c49998aec" label="Mixed Materials" type="box">10</container>
-          <container id="aspace_316c6dbfd47d89399f07e16919a8c53a" parent="aspace_723fdbba3b8f04d646c69a9c49998aec" type="folder">1</container>
-          <container id="aspace_0d74d4f91c570dcbab52a9a4f32c708c" parent="aspace_316c6dbfd47d89399f07e16919a8c53a" type="volume">18</container>
+          <container id="aspace_dc0b9bd900aabc3f2bd540e16f4c94da" label="Mixed Materials" type="box">10</container>
+          <container id="aspace_a909e0737dcd73e173c01a5062a4e246" parent="aspace_dc0b9bd900aabc3f2bd540e16f4c94da" type="folder">1</container>
+          <container id="aspace_c4e2d51f5e0cda4988fd2c2b7d7c82ca" parent="aspace_a909e0737dcd73e173c01a5062a4e246" type="volume">18</container>
         </did>
         <scopecontent id="aspace_d09067d0f0ba0e54c3cc4e6262b55b56">
           <head>Scope and Contents</head>
@@ -489,9 +485,9 @@
       <c id="aspace_ref69_tma" level="file">
         <did>
           <unitdate normal="1930/1931" type="inclusive">1930 October-1931 October</unitdate>
-          <container id="aspace_a81eb1d6a1edcc8680998d359078e413" label="Mixed Materials" type="box">10</container>
-          <container id="aspace_69fae477fc0ee10db58348396525cb0d" parent="aspace_a81eb1d6a1edcc8680998d359078e413" type="folder">2</container>
-          <container id="aspace_0a604a96b0fbbf6583dba0e5c0fa4686" parent="aspace_69fae477fc0ee10db58348396525cb0d" type="volume">19</container>
+          <container id="aspace_11bcd76f252f505c2b9c30ce98f9fad4" label="Mixed Materials" type="box">10</container>
+          <container id="aspace_d69f6324b64f2d3417bf80271f05c8a5" parent="aspace_11bcd76f252f505c2b9c30ce98f9fad4" type="folder">2</container>
+          <container id="aspace_184ba969465f3bf45a908dc02cf3a666" parent="aspace_d69f6324b64f2d3417bf80271f05c8a5" type="volume">19</container>
         </did>
         <accessrestrict id="aspace_cc55d1904984ec13a751b5e8dcd226e2">
           <head>Conditions Governing Access</head>
@@ -506,9 +502,9 @@
       <c id="aspace_ref70_5sk" level="file">
         <did>
           <unitdate normal="1931/1932" type="inclusive">1931 October-1932 October</unitdate>
-          <container id="aspace_211bc77a9ea64e140da5d12a639e8f6f" label="Mixed Materials" type="box">11</container>
-          <container id="aspace_a65ee2504b582f65202a60147b7aed5f" parent="aspace_211bc77a9ea64e140da5d12a639e8f6f" type="folder">1</container>
-          <container id="aspace_623a56d5e068dbfd73fae958c38d3159" parent="aspace_a65ee2504b582f65202a60147b7aed5f" type="volume">20</container>
+          <container id="aspace_b20e9e87c623b1c3537291b9ee335f9a" label="Mixed Materials" type="box">11</container>
+          <container id="aspace_38c5bf52723a16a796172ac499bdbacc" parent="aspace_b20e9e87c623b1c3537291b9ee335f9a" type="folder">1</container>
+          <container id="aspace_7aa76172fea41593272a2b6c605d410b" parent="aspace_38c5bf52723a16a796172ac499bdbacc" type="volume">20</container>
         </did>
         <accessrestrict id="aspace_5f1e18802c83a4235b88735a82bc1c20">
           <head>Conditions Governing Access</head>
@@ -523,9 +519,9 @@
       <c id="aspace_ref71_h8v" level="file">
         <did>
           <unitdate normal="1932/1933" type="inclusive">1932 October-1933 October</unitdate>
-          <container id="aspace_2d182bf70de303aefc93cbe936998f41" label="Mixed Materials" type="box">11</container>
-          <container id="aspace_79d797617498e9f426ec2cf30d70b431" parent="aspace_2d182bf70de303aefc93cbe936998f41" type="folder">2</container>
-          <container id="aspace_f6b105da7426910885a4f03705d39092" parent="aspace_79d797617498e9f426ec2cf30d70b431" type="volume">21</container>
+          <container id="aspace_c56475e22e7f5a4dd766a9aebb073cf4" label="Mixed Materials" type="box">11</container>
+          <container id="aspace_2a1cd7056eac9f96d5e12eaaee4398e5" parent="aspace_c56475e22e7f5a4dd766a9aebb073cf4" type="folder">2</container>
+          <container id="aspace_1bb5806bb7f99b6b4f6ae88701dc6500" parent="aspace_2a1cd7056eac9f96d5e12eaaee4398e5" type="volume">21</container>
         </did>
         <accessrestrict id="aspace_be09c3596c4145c45ee7f39af92c06da">
           <head>Conditions Governing Access</head>
@@ -540,9 +536,9 @@
       <c id="aspace_ref72_6in" level="file">
         <did>
           <unitdate normal="1933/1934" type="inclusive">1933 October-1934 October</unitdate>
-          <container id="aspace_3eb1fd14b24a2455ec684dd01730f313" label="Mixed Materials" type="box">12</container>
-          <container id="aspace_eebfd4b05a9c4ca68982387dfd0d4f41" parent="aspace_3eb1fd14b24a2455ec684dd01730f313" type="folder">1</container>
-          <container id="aspace_6777f0dbfa276d13ee25750371a10450" parent="aspace_eebfd4b05a9c4ca68982387dfd0d4f41" type="volume">22</container>
+          <container id="aspace_a36470d06d8f21b3487e705f82ff1092" label="Mixed Materials" type="box">12</container>
+          <container id="aspace_9f457aceabd14d5c7d95971b6171f24a" parent="aspace_a36470d06d8f21b3487e705f82ff1092" type="folder">1</container>
+          <container id="aspace_bcf685b1ad385df4ea1281b78c642a3c" parent="aspace_9f457aceabd14d5c7d95971b6171f24a" type="volume">22</container>
         </did>
         <scopecontent id="aspace_e3d8de4c458201bc69e49e7d5e4e3d3e">
           <head>Scope and Contents</head>
@@ -561,9 +557,9 @@
       <c id="aspace_ref73_x87" level="file">
         <did>
           <unitdate normal="1934/1935" type="inclusive">1934 October-1935 April</unitdate>
-          <container id="aspace_047e5e84a9543e55042a56db6adc50d0" label="Mixed Materials" type="box">12</container>
-          <container id="aspace_b3690d8a85219a904108081f7b08f7e0" parent="aspace_047e5e84a9543e55042a56db6adc50d0" type="folder">2</container>
-          <container id="aspace_f913585ad5e740b25e77d8cee03dbcea" parent="aspace_b3690d8a85219a904108081f7b08f7e0" type="volume">23</container>
+          <container id="aspace_5f4167363cdbad6fb404c96f7bc8066a" label="Mixed Materials" type="box">12</container>
+          <container id="aspace_6196785c6e5ad9e4413be9eb6fac69e3" parent="aspace_5f4167363cdbad6fb404c96f7bc8066a" type="folder">2</container>
+          <container id="aspace_b8222f1ae7fc6bff272ec8d2a10e7a94" parent="aspace_6196785c6e5ad9e4413be9eb6fac69e3" type="volume">23</container>
         </did>
         <scopecontent id="aspace_af1521c4a14133b5c9dffc963e67c141">
           <head>Scope and Contents</head>
@@ -582,9 +578,9 @@
       <c id="aspace_ref74_gp2" level="file">
         <did>
           <unitdate normal="1935/1936" type="inclusive">1935 October-1936 October</unitdate>
-          <container id="aspace_ad6265c8373c828ccdf83c2e184f13f6" label="Mixed Materials" type="box">12</container>
-          <container id="aspace_d3c8b7d402ec5bb4e2427835a4fe32fe" parent="aspace_ad6265c8373c828ccdf83c2e184f13f6" type="folder">3</container>
-          <container id="aspace_1809b0548ac7a848e25b14b44f90f1d4" parent="aspace_d3c8b7d402ec5bb4e2427835a4fe32fe" type="volume">24</container>
+          <container id="aspace_b1ba79e63f0786f12bc629d935503d48" label="Mixed Materials" type="box">12</container>
+          <container id="aspace_94950d17829f66ae20b05900aa1195b9" parent="aspace_b1ba79e63f0786f12bc629d935503d48" type="folder">3</container>
+          <container id="aspace_944498f1f596f9054d67489150c1fa47" parent="aspace_94950d17829f66ae20b05900aa1195b9" type="volume">24</container>
         </did>
         <accessrestrict id="aspace_d35efaaca0903b993fb3deec73695c03">
           <head>Conditions Governing Access</head>
@@ -599,9 +595,9 @@
       <c id="aspace_ref75_gkv" level="file">
         <did>
           <unitdate normal="1936/1937" type="inclusive">1936 October-1937 October</unitdate>
-          <container id="aspace_102d94743d7a6b9dd38d5c1333ceac7c" label="Mixed Materials" type="box">13</container>
-          <container id="aspace_38e1a366a48c6b92f27e544a4eb99c85" parent="aspace_102d94743d7a6b9dd38d5c1333ceac7c" type="folder">1</container>
-          <container id="aspace_1e5e8f5c817a5cfc11646ecc37188a33" parent="aspace_38e1a366a48c6b92f27e544a4eb99c85" type="volume">25</container>
+          <container id="aspace_e91ba48205ffff1c4c8518846c61c338" label="Mixed Materials" type="box">13</container>
+          <container id="aspace_ab80faf9101b5fc4604fa18c43753dab" parent="aspace_e91ba48205ffff1c4c8518846c61c338" type="folder">1</container>
+          <container id="aspace_73f200e47bf801ce730b669e76174ff6" parent="aspace_ab80faf9101b5fc4604fa18c43753dab" type="volume">25</container>
         </did>
         <scopecontent id="aspace_64ab9ecce39e4c04518c5c38526c6ad5">
           <head>Scope and Contents</head>
@@ -620,9 +616,9 @@
       <c id="aspace_ref76_h7t" level="file">
         <did>
           <unitdate normal="1937/1938" type="inclusive">1937 October-1938 October</unitdate>
-          <container id="aspace_0c7b8fb958a63cb5f597b054b5856838" label="Mixed Materials" type="box">13</container>
-          <container id="aspace_3a329e243697208031b3d4f7cfe9e766" parent="aspace_0c7b8fb958a63cb5f597b054b5856838" type="folder">2</container>
-          <container id="aspace_4d8dab684a4c9f44ed5408f2a33867a6" parent="aspace_3a329e243697208031b3d4f7cfe9e766" type="volume">26</container>
+          <container id="aspace_ec35eae8c780b50eebafe8304160d028" label="Mixed Materials" type="box">13</container>
+          <container id="aspace_22b528ee32bd45e82c2bc3058383754c" parent="aspace_ec35eae8c780b50eebafe8304160d028" type="folder">2</container>
+          <container id="aspace_b6971d94dd75f5a45ec2514ae6d7e12d" parent="aspace_22b528ee32bd45e82c2bc3058383754c" type="volume">26</container>
         </did>
         <scopecontent id="aspace_4e9ca5fb3e74b3db64fa287bac213f92">
           <head>Scope and Contents</head>
@@ -641,9 +637,9 @@
       <c id="aspace_ref77_0rr" level="file">
         <did>
           <unitdate normal="1938/1939" type="inclusive">1938 October-1939 October</unitdate>
-          <container id="aspace_e1e42218ddfa2eda6b415619d79fb39f" label="Mixed Materials" type="box">14</container>
-          <container id="aspace_adf1d83ccd9f555646230b3f593a0ac4" parent="aspace_e1e42218ddfa2eda6b415619d79fb39f" type="folder">1</container>
-          <container id="aspace_630f9b7303b6ce7ca06fce83cb339a64" parent="aspace_adf1d83ccd9f555646230b3f593a0ac4" type="volume">27</container>
+          <container id="aspace_413bbe000c1b4d7c679c0a246521af66" label="Mixed Materials" type="box">14</container>
+          <container id="aspace_d79b620a1b090a24f129e9762319f5b9" parent="aspace_413bbe000c1b4d7c679c0a246521af66" type="folder">1</container>
+          <container id="aspace_0d489c792e985b11d9580346d58ac7f5" parent="aspace_d79b620a1b090a24f129e9762319f5b9" type="volume">27</container>
         </did>
         <scopecontent id="aspace_ef841022b7c6df926fc6513c170c91ba">
           <head>Scope and Contents</head>
@@ -662,9 +658,9 @@
       <c id="aspace_ref78_j02" level="file">
         <did>
           <unitdate normal="1939/1940" type="inclusive">1939 October-1940 October</unitdate>
-          <container id="aspace_6d0dc228bf441022b325c3c4f711e02c" label="Mixed Materials" type="box">14</container>
-          <container id="aspace_fbc24700addccad259366e755729f409" parent="aspace_6d0dc228bf441022b325c3c4f711e02c" type="folder">2</container>
-          <container id="aspace_31209549777bdb9cbecfc0c0e9a59024" parent="aspace_fbc24700addccad259366e755729f409" type="volume">28</container>
+          <container id="aspace_278ba2ada5976a123201c5abe13df107" label="Mixed Materials" type="box">14</container>
+          <container id="aspace_a7a0fdbc1f830c0f71e5b385012e1a06" parent="aspace_278ba2ada5976a123201c5abe13df107" type="folder">2</container>
+          <container id="aspace_bb894cabcfdc724db081daae6b71b484" parent="aspace_a7a0fdbc1f830c0f71e5b385012e1a06" type="volume">28</container>
         </did>
         <accessrestrict id="aspace_9256682e7e32fe7bf449a3eeb2acc0f2">
           <head>Conditions Governing Access</head>
@@ -689,9 +685,9 @@
       <c id="aspace_ref79_7du" level="file">
         <did>
           <unitdate normal="1940/1941" type="inclusive">1940 October-1941 October</unitdate>
-          <container id="aspace_0a8a6ebb5c5877d5025e1b765cf3a46e" label="Mixed Materials" type="box">15</container>
-          <container id="aspace_74c691af88526ef2b94e8348403b35e4" parent="aspace_0a8a6ebb5c5877d5025e1b765cf3a46e" type="folder">1</container>
-          <container id="aspace_c2eac576ec8d4026d2d38ffdf65ffaa9" parent="aspace_74c691af88526ef2b94e8348403b35e4" type="volume">29</container>
+          <container id="aspace_0ff650aaf00f625ddbe784baebf7108b" label="Mixed Materials" type="box">15</container>
+          <container id="aspace_ad904a22cce23fb0a5c0ff3fe7a408f3" parent="aspace_0ff650aaf00f625ddbe784baebf7108b" type="folder">1</container>
+          <container id="aspace_81ed7e7b88b6764af009bc6459a247bb" parent="aspace_ad904a22cce23fb0a5c0ff3fe7a408f3" type="volume">29</container>
         </did>
         <accessrestrict id="aspace_0abff33a10ad3aeb04d147c67fb4ea7c">
           <head>Conditions Governing Access</head>
@@ -706,9 +702,9 @@
       <c id="aspace_ref80_4p6" level="file">
         <did>
           <unitdate normal="1941/1942" type="inclusive">1941 October-1942 October</unitdate>
-          <container id="aspace_d340b5242b5390b720960413212811d8" label="Mixed Materials" type="box">15</container>
-          <container id="aspace_e6646ff785bc6e957e76cb3f7b4336fd" parent="aspace_d340b5242b5390b720960413212811d8" type="folder">2</container>
-          <container id="aspace_84353fe640aed11ae00f36a0b41dbde2" parent="aspace_e6646ff785bc6e957e76cb3f7b4336fd" type="volume">30</container>
+          <container id="aspace_aed86c958d3b3b0657d6edf1a225631e" label="Mixed Materials" type="box">15</container>
+          <container id="aspace_99d5cac5d717ea5a3b583ccddcd97c64" parent="aspace_aed86c958d3b3b0657d6edf1a225631e" type="folder">2</container>
+          <container id="aspace_860148ee0bf2df2e34fcf1944fa8db0a" parent="aspace_99d5cac5d717ea5a3b583ccddcd97c64" type="volume">30</container>
         </did>
         <accessrestrict id="aspace_0cec31c4b445228eb39fd707bfd4ffd7">
           <head>Conditions Governing Access</head>
@@ -723,9 +719,9 @@
       <c id="aspace_ref81_yby" level="file">
         <did>
           <unitdate normal="1942/1943" type="inclusive">1942 October-1943 October</unitdate>
-          <container id="aspace_2c81593698669cbb4108ee32a457ff2c" label="Mixed Materials" type="box">16</container>
-          <container id="aspace_ecb073ffe104864c6a03dcb98ad04724" parent="aspace_2c81593698669cbb4108ee32a457ff2c" type="folder">1</container>
-          <container id="aspace_ea85736e3bfa1d4f4f9db1eb70a9bd98" parent="aspace_ecb073ffe104864c6a03dcb98ad04724" type="volume">31</container>
+          <container id="aspace_24a830fbed90582720ac6bf092c5b8e6" label="Mixed Materials" type="box">16</container>
+          <container id="aspace_8472007896306f089fa69366c7cb2e79" parent="aspace_24a830fbed90582720ac6bf092c5b8e6" type="folder">1</container>
+          <container id="aspace_e817de30789f294d448b201712cc0bb8" parent="aspace_8472007896306f089fa69366c7cb2e79" type="volume">31</container>
         </did>
         <accessrestrict id="aspace_032de9ae083796d36bc06240ad4dceb4">
           <head>Conditions Governing Access</head>
@@ -740,9 +736,9 @@
       <c id="aspace_ref82_57d" level="file">
         <did>
           <unitdate normal="1943/1944" type="inclusive">1943 October-1944 October</unitdate>
-          <container id="aspace_f4c91e02c790e7fe09640ce42c0a4a34" label="Mixed Materials" type="box">16</container>
-          <container id="aspace_50e8c1baaa630a58f9f59b76f6bc01ae" parent="aspace_f4c91e02c790e7fe09640ce42c0a4a34" type="folder">2</container>
-          <container id="aspace_0f9664ce7c759f3c8ef2c27049fb63e0" parent="aspace_50e8c1baaa630a58f9f59b76f6bc01ae" type="volume">32</container>
+          <container id="aspace_992c0f897e9d88abf9ff21d02e8de50a" label="Mixed Materials" type="box">16</container>
+          <container id="aspace_571883ff891d786c8bf5d103765861e0" parent="aspace_992c0f897e9d88abf9ff21d02e8de50a" type="folder">2</container>
+          <container id="aspace_62dd01670182e6fa9c9a6d4a5183c25a" parent="aspace_571883ff891d786c8bf5d103765861e0" type="volume">32</container>
         </did>
         <accessrestrict id="aspace_f783578c3165a0a62501380d6065f889">
           <head>Conditions Governing Access</head>
@@ -757,9 +753,9 @@
       <c id="aspace_ref83_y35" level="file">
         <did>
           <unitdate normal="1944/1945" type="inclusive">1944 October-1945 October</unitdate>
-          <container id="aspace_e46ebe1e518ecc0ee188f7b2f1d60b32" label="Mixed Materials" type="box">17</container>
-          <container id="aspace_32e3f6841ced2d7a8f181541fe6a063d" parent="aspace_e46ebe1e518ecc0ee188f7b2f1d60b32" type="folder">1</container>
-          <container id="aspace_a65ab80e993c86497c46b06321cfb146" parent="aspace_32e3f6841ced2d7a8f181541fe6a063d" type="volume">33</container>
+          <container id="aspace_cd16082933daccdbe0f8e2864c6ba114" label="Mixed Materials" type="box">17</container>
+          <container id="aspace_685f505cec35bc2e12ac865da7346793" parent="aspace_cd16082933daccdbe0f8e2864c6ba114" type="folder">1</container>
+          <container id="aspace_8cc9b773f9bf00cf1cdddf6c5eba724f" parent="aspace_685f505cec35bc2e12ac865da7346793" type="volume">33</container>
         </did>
         <accessrestrict id="aspace_bc741559848f063e725cce3449c03882">
           <head>Conditions Governing Access</head>
@@ -774,9 +770,9 @@
       <c id="aspace_ref96_7nv" level="file">
         <did>
           <unitdate normal="1944/1945" type="inclusive">1944 October-1945 October</unitdate>
-          <container id="aspace_d20191491afbaad017ebb6d3ba2c0c63" label="Mixed Materials" type="box">22</container>
-          <container id="aspace_408ace18a52c9f9f5aa4759c1a0e30af" parent="aspace_d20191491afbaad017ebb6d3ba2c0c63" type="folder">3</container>
-          <container id="aspace_39a3337767dbc7c4d7ebf0a8c561554e" parent="aspace_408ace18a52c9f9f5aa4759c1a0e30af" type="volume">33</container>
+          <container id="aspace_3d0c726ac7c2cdebdf16719864037784" label="Mixed Materials" type="box">22</container>
+          <container id="aspace_8054b69939338665e121b38f2b30f064" parent="aspace_3d0c726ac7c2cdebdf16719864037784" type="folder">3</container>
+          <container id="aspace_e4559bfee5a7a1d7f2bd3b846be32b81" parent="aspace_8054b69939338665e121b38f2b30f064" type="volume">33</container>
         </did>
         <altformavail id="aspace_598fdb72180e9ef0aeb7b08b59575144">
           <head>Existence and Location of Copies</head>
@@ -795,9 +791,9 @@
       <c id="aspace_ref84_wzq" level="file">
         <did>
           <unitdate normal="1945/1946" type="inclusive">1945 October-1946 October</unitdate>
-          <container id="aspace_2480afe67e7535dec9b6cd58a2ebe2e8" label="Mixed Materials" type="box">17</container>
-          <container id="aspace_dce231a6c08256029c656e13710742b6" parent="aspace_2480afe67e7535dec9b6cd58a2ebe2e8" type="folder">2</container>
-          <container id="aspace_48fdf88b8080c5078352da165913ac11" parent="aspace_dce231a6c08256029c656e13710742b6" type="volume">34</container>
+          <container id="aspace_863c566da0a5c509c581678c6cf7d2d0" label="Mixed Materials" type="box">17</container>
+          <container id="aspace_3985c4a5cc23e59802198d6f39a9873f" parent="aspace_863c566da0a5c509c581678c6cf7d2d0" type="folder">2</container>
+          <container id="aspace_5dc804e031def3ce1d7a5d0ce0d6a6ff" parent="aspace_3985c4a5cc23e59802198d6f39a9873f" type="volume">34</container>
         </did>
         <accessrestrict id="aspace_f61d58e3a8b7225cd2600d3276fafb28">
           <head>Conditions Governing Access</head>
@@ -812,9 +808,9 @@
       <c id="aspace_ref98_gh6" level="file">
         <did>
           <unitdate normal="1945/1946" type="inclusive">1945 October-1946 October</unitdate>
-          <container id="aspace_e66aa2b9ea0956fd17f4c2f95bfbb11c" label="Mixed Materials" type="box">23</container>
-          <container id="aspace_bda20995c7c77c6288d23aef87034235" parent="aspace_e66aa2b9ea0956fd17f4c2f95bfbb11c" type="folder">1</container>
-          <container id="aspace_56c86dc2373952d726101524ab034989" parent="aspace_bda20995c7c77c6288d23aef87034235" type="volume">34</container>
+          <container id="aspace_89cebdceefa96b23ba1d6ff818a4e701" label="Mixed Materials" type="box">23</container>
+          <container id="aspace_e752232c7db9182943deac34ab182b6f" parent="aspace_89cebdceefa96b23ba1d6ff818a4e701" type="folder">1</container>
+          <container id="aspace_a117696ea3bd5cb186aa0bc7a7b69a39" parent="aspace_e752232c7db9182943deac34ab182b6f" type="volume">34</container>
         </did>
         <altformavail id="aspace_0d6d5c1090021c6543496cb8019b2632">
           <head>Existence and Location of Copies</head>
@@ -833,9 +829,9 @@
       <c id="aspace_ref85_7p7" level="file">
         <did>
           <unitdate normal="1946/1947" type="inclusive">1946 October-1947 October</unitdate>
-          <container id="aspace_0cb29171ded05c0d8e1f540cf7d264a3" label="Mixed Materials" type="box">18</container>
-          <container id="aspace_f052ddf97eabcaf9a12b9e979dc7c375" parent="aspace_0cb29171ded05c0d8e1f540cf7d264a3" type="folder">1</container>
-          <container id="aspace_14fe3bebf7f8956bcc1b5840c9af44f5" parent="aspace_f052ddf97eabcaf9a12b9e979dc7c375" type="volume">35</container>
+          <container id="aspace_5312b82642a5af21cf22b8e730411641" label="Mixed Materials" type="box">18</container>
+          <container id="aspace_00a37578d28ccd482442ea56983d8cc7" parent="aspace_5312b82642a5af21cf22b8e730411641" type="folder">1</container>
+          <container id="aspace_38b87d79bf6caf3942c2c43b11949747" parent="aspace_00a37578d28ccd482442ea56983d8cc7" type="volume">35</container>
         </did>
         <accessrestrict id="aspace_42be8470a673c7273bb096e59a482f19">
           <head>Conditions Governing Access</head>
@@ -850,9 +846,9 @@
       <c id="aspace_ref99_n53" level="file">
         <did>
           <unitdate normal="1946/1947" type="inclusive">1946 October-1947 October</unitdate>
-          <container id="aspace_c479026b062de382511faf0925babd15" label="Mixed Materials" type="box">23</container>
-          <container id="aspace_3c0cce0b4d3946b3608c692d27665dd1" parent="aspace_c479026b062de382511faf0925babd15" type="folder">2</container>
-          <container id="aspace_3d5ae69c383c1a5e9757bcd9ad780a12" parent="aspace_3c0cce0b4d3946b3608c692d27665dd1" type="volume">35</container>
+          <container id="aspace_fc90eee1fc52ab5a98ac9af4dc62d55e" label="Mixed Materials" type="box">23</container>
+          <container id="aspace_8ee99c2b9f9a57418ca2b5735f332254" parent="aspace_fc90eee1fc52ab5a98ac9af4dc62d55e" type="folder">2</container>
+          <container id="aspace_feea4cb7b096752b11579ec346678d66" parent="aspace_8ee99c2b9f9a57418ca2b5735f332254" type="volume">35</container>
         </did>
         <altformavail id="aspace_05fda0fc23bc4090090062a42e80d86a">
           <head>Existence and Location of Copies</head>
@@ -871,9 +867,9 @@
       <c id="aspace_ref86_y19" level="file">
         <did>
           <unitdate normal="1947/1948" type="inclusive">1947 October-1948 October</unitdate>
-          <container id="aspace_f66a0e183e6601b747834c6b4451a4ed" label="Mixed Materials" type="box">18</container>
-          <container id="aspace_2ace2364630416d9ac92190f2bfcd2d1" parent="aspace_f66a0e183e6601b747834c6b4451a4ed" type="folder">2</container>
-          <container id="aspace_e2a75a641e9d093cfe3fbc89afdc8252" parent="aspace_2ace2364630416d9ac92190f2bfcd2d1" type="volume">36</container>
+          <container id="aspace_4efcd7453cd5b790a595486b30ff6a0d" label="Mixed Materials" type="box">18</container>
+          <container id="aspace_644e457cf387f99c7ea2b673718ba1e5" parent="aspace_4efcd7453cd5b790a595486b30ff6a0d" type="folder">2</container>
+          <container id="aspace_98122e6f669f25bc5107ee8ea74b0702" parent="aspace_644e457cf387f99c7ea2b673718ba1e5" type="volume">36</container>
         </did>
         <accessrestrict id="aspace_980c0868213e50269f4b52d60b3b446d">
           <head>Conditions Governing Access</head>
@@ -888,9 +884,9 @@
       <c id="aspace_ref102_6fi" level="file">
         <did>
           <unitdate normal="1947/1948" type="inclusive">1947 October-1948 October</unitdate>
-          <container id="aspace_f2e68f4d24392dfe5b2b7d5ad0d0cc20" label="Mixed Materials" type="box">24</container>
-          <container id="aspace_582bae84a3d22ef13ed81da049e7f1d2" parent="aspace_f2e68f4d24392dfe5b2b7d5ad0d0cc20" type="folder">1</container>
-          <container id="aspace_3c606d9e09c77dacca2b993426c1f12f" parent="aspace_582bae84a3d22ef13ed81da049e7f1d2" type="volume">36</container>
+          <container id="aspace_b8c9c9f320830d638a6246d74ad93623" label="Mixed Materials" type="box">24</container>
+          <container id="aspace_5324f87c517588034402f283be44b71c" parent="aspace_b8c9c9f320830d638a6246d74ad93623" type="folder">1</container>
+          <container id="aspace_5559f1c832224fd8c09d9022dd701499" parent="aspace_5324f87c517588034402f283be44b71c" type="volume">36</container>
         </did>
         <altformavail id="aspace_0440ed5d122e6b9f8b34c6b1ccefc91e">
           <head>Existence and Location of Copies</head>
@@ -909,9 +905,9 @@
       <c id="aspace_ref87_cop" level="file">
         <did>
           <unitdate normal="1948/1949" type="inclusive">1948 October-1949 October</unitdate>
-          <container id="aspace_5196cb027e8c2e83e314a33f30feaea0" label="Mixed Materials" type="box">19</container>
-          <container id="aspace_2dfc4082b097badca3fdb7ea9a54c135" parent="aspace_5196cb027e8c2e83e314a33f30feaea0" type="folder">1</container>
-          <container id="aspace_d46923c7e18ad0f8053a9c1cf57ec54f" parent="aspace_2dfc4082b097badca3fdb7ea9a54c135" type="volume">37</container>
+          <container id="aspace_32d50218cd6fb9da1012c1481d11b574" label="Mixed Materials" type="box">19</container>
+          <container id="aspace_1cfbb925aad4144ac6e935794a2689ae" parent="aspace_32d50218cd6fb9da1012c1481d11b574" type="folder">1</container>
+          <container id="aspace_64f47bb5077411042b73f65c3eb04f35" parent="aspace_1cfbb925aad4144ac6e935794a2689ae" type="volume">37</container>
         </did>
         <scopecontent id="aspace_69e4901503f46fb3f4f312ca5b9de152">
           <head>Scope and Contents</head>
@@ -930,9 +926,9 @@
       <c id="aspace_ref88_8k0" level="file">
         <did>
           <unitdate normal="1949/1950" type="inclusive">1949 October-1950 October</unitdate>
-          <container id="aspace_d3364b3bef38c4bfd9b4ad21b6887561" label="Mixed Materials" type="box">19</container>
-          <container id="aspace_6810a82cd9b161e70308fd4e179d9d36" parent="aspace_d3364b3bef38c4bfd9b4ad21b6887561" type="folder">2</container>
-          <container id="aspace_93eac7efdd63d223d90171980eb66718" parent="aspace_6810a82cd9b161e70308fd4e179d9d36" type="volume">38</container>
+          <container id="aspace_01a4b3a6395c940e1b5fe5e51f342585" label="Mixed Materials" type="box">19</container>
+          <container id="aspace_f0b65fca9c5bd094d95e0b5d4bbc84bf" parent="aspace_01a4b3a6395c940e1b5fe5e51f342585" type="folder">2</container>
+          <container id="aspace_d5634f001ebd044433ccf96d764d5d59" parent="aspace_f0b65fca9c5bd094d95e0b5d4bbc84bf" type="volume">38</container>
         </did>
         <accessrestrict id="aspace_b3c9bd524755d5fa1b96077e2197966c">
           <head>Conditions Governing Access</head>
@@ -947,9 +943,9 @@
       <c id="aspace_ref89_5oj" level="file">
         <did>
           <unitdate normal="1950/1951" type="inclusive">1950 October-1951 October</unitdate>
-          <container id="aspace_afe23bebe7bf4671282e5292b339e84a" label="Mixed Materials" type="box">20</container>
-          <container id="aspace_90eb57153e91513f34791cf6acfc6f06" parent="aspace_afe23bebe7bf4671282e5292b339e84a" type="folder">1</container>
-          <container id="aspace_d1cfd9ce1c3636d6bdb7aabedc002285" parent="aspace_90eb57153e91513f34791cf6acfc6f06" type="volume">39</container>
+          <container id="aspace_2d5f5a2abc5c11fa4cee23e987823ad6" label="Mixed Materials" type="box">20</container>
+          <container id="aspace_c596bfb1a15b5fb940b92b422bcccfbe" parent="aspace_2d5f5a2abc5c11fa4cee23e987823ad6" type="folder">1</container>
+          <container id="aspace_cbeefb236e065dec4229d08346ae0e6a" parent="aspace_c596bfb1a15b5fb940b92b422bcccfbe" type="volume">39</container>
         </did>
         <scopecontent id="aspace_f9699c4b4aa9df952c1c1621b190933f">
           <head>Scope and Contents</head>
@@ -971,8 +967,8 @@
           <unittitle>Supplement to the Report of the Members to the Corporation</unittitle>
           <unitdate normal="1951/1951" type="inclusive">1951 October 26</unitdate>
           <physdesc id="aspace_49a08a8c47ba3ef0701144f007590ac0">Pamphlet.</physdesc>
-          <container id="aspace_deadae51ebfa5f81fb6c29e17702900d" label="Mixed Materials" type="box">20</container>
-          <container id="aspace_283b6ac319fd8494357c2276b8623621" parent="aspace_deadae51ebfa5f81fb6c29e17702900d" type="folder">2</container>
+          <container id="aspace_ce04dc06f01d00a9b7b189f860ccc40e" label="Mixed Materials" type="box">20</container>
+          <container id="aspace_7d11c31a14fb7fd8b04106a1b9ff69e9" parent="aspace_ce04dc06f01d00a9b7b189f860ccc40e" type="folder">2</container>
         </did>
         <accessrestrict id="aspace_62cf2ae2348cd9ed958ded875684292c">
           <head>Conditions Governing Access</head>
@@ -987,9 +983,9 @@
       <c id="aspace_ref91_o4f" level="file">
         <did>
           <unitdate normal="1951/1952" type="inclusive">1951-1952</unitdate>
-          <container id="aspace_c95f25b42f904f37ac1fe12fadb3ce26" label="Mixed Materials" type="box">20</container>
-          <container id="aspace_84430b415a56dd2736555b7d373a1bc3" parent="aspace_c95f25b42f904f37ac1fe12fadb3ce26" type="folder">3</container>
-          <container id="aspace_01f66362037ac51460736a98abccccd7" parent="aspace_84430b415a56dd2736555b7d373a1bc3" type="volume">40</container>
+          <container id="aspace_4eccf64a3ed7daa75b2a254ce7f865ab" label="Mixed Materials" type="box">20</container>
+          <container id="aspace_d1833443f03209faf7b8eb6d672ca775" parent="aspace_4eccf64a3ed7daa75b2a254ce7f865ab" type="folder">3</container>
+          <container id="aspace_a18833573ce644751fdc47ce0c16192f" parent="aspace_d1833443f03209faf7b8eb6d672ca775" type="volume">40</container>
         </did>
         <accessrestrict id="aspace_7a678d5d2db4939087c12f10dc126485">
           <head>Conditions Governing Access</head>
@@ -1004,9 +1000,9 @@
       <c id="aspace_ref92_igx" level="file">
         <did>
           <unitdate normal="1952/1953" type="inclusive">1952-1953</unitdate>
-          <container id="aspace_09b45ace8a22c44bb1d09e840ee7959a" label="Mixed Materials" type="box">21</container>
-          <container id="aspace_0ca742cd34da1064c4fb346b2cabb418" parent="aspace_09b45ace8a22c44bb1d09e840ee7959a" type="folder">1</container>
-          <container id="aspace_e4dc3906e127a25f70fa9599dd93cdad" parent="aspace_0ca742cd34da1064c4fb346b2cabb418" type="volume">41</container>
+          <container id="aspace_0baa041eed049c31066bacbaf43f6e95" label="Mixed Materials" type="box">21</container>
+          <container id="aspace_5be08c21c1bd91caa9126266af009376" parent="aspace_0baa041eed049c31066bacbaf43f6e95" type="folder">1</container>
+          <container id="aspace_e332b62421c36265c738572918729782" parent="aspace_5be08c21c1bd91caa9126266af009376" type="volume">41</container>
         </did>
         <accessrestrict id="aspace_fc9fbabfb500a19972786ab7f756a2c3">
           <head>Conditions Governing Access</head>
@@ -1021,9 +1017,9 @@
       <c id="aspace_ref93_0e8" level="file">
         <did>
           <unitdate normal="1953/1954" type="inclusive">1953-1954</unitdate>
-          <container id="aspace_4e681c0bef130c37d2e179f7cafd18da" label="Mixed Materials" type="box">21</container>
-          <container id="aspace_0167c1a2e89b91df7f86a2caa4026d5d" parent="aspace_4e681c0bef130c37d2e179f7cafd18da" type="folder">2</container>
-          <container id="aspace_b99f4fddd27f339227ce858a85179092" parent="aspace_0167c1a2e89b91df7f86a2caa4026d5d" type="volume">42</container>
+          <container id="aspace_f3720697970d5bb48c5d423edecb1adc" label="Mixed Materials" type="box">21</container>
+          <container id="aspace_01c5707807311b77f33827275a7f9c36" parent="aspace_f3720697970d5bb48c5d423edecb1adc" type="folder">2</container>
+          <container id="aspace_c40d496dbf001049936a4742f0bca1ae" parent="aspace_01c5707807311b77f33827275a7f9c36" type="volume">42</container>
         </did>
         <accessrestrict id="aspace_0b2ca09bc9cd798abc18417069a5d075">
           <head>Conditions Governing Access</head>
@@ -1038,8 +1034,8 @@
       <c id="aspace_ref94_i0f" level="file">
         <did>
           <unitdate normal="1955/1955" type="inclusive">1955</unitdate>
-          <container id="aspace_f5eefe77ebcaa755df5ccfe23b8720c0" label="Mixed Materials" type="box">22</container>
-          <container id="aspace_7bc607563d64f341d29fff2167507f0c" parent="aspace_f5eefe77ebcaa755df5ccfe23b8720c0" type="folder">1</container>
+          <container id="aspace_a9fd46b566fdb71a8ae0e7c8a4c9470f" label="Mixed Materials" type="box">22</container>
+          <container id="aspace_84feb6bca3a07449ffc2df9cf935e688" parent="aspace_a9fd46b566fdb71a8ae0e7c8a4c9470f" type="folder">1</container>
         </did>
         <accessrestrict id="aspace_a76a41ac8a6681e4efe6022e1e21e356">
           <head>Conditions Governing Access</head>
@@ -1054,8 +1050,8 @@
       <c id="aspace_ref95_t3t" level="file">
         <did>
           <unitdate normal="1955/1955" type="inclusive">1955</unitdate>
-          <container id="aspace_b519e858e4a7ffb52af54dee6264736a" label="Mixed Materials" type="box">22</container>
-          <container id="aspace_354648370c2a1b8ea3fb0ec23af27e90" parent="aspace_b519e858e4a7ffb52af54dee6264736a" type="folder">2</container>
+          <container id="aspace_7f226cd445b4c5f0b1c51cad43238b0a" label="Mixed Materials" type="box">22</container>
+          <container id="aspace_5bac7083e14c4c6c746f9394c67b9c8c" parent="aspace_7f226cd445b4c5f0b1c51cad43238b0a" type="folder">2</container>
         </did>
         <accessrestrict id="aspace_7f50d05c9afe3389783a3059c3329eaf">
           <head>Conditions Governing Access</head>

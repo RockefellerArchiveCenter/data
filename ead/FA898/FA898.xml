@@ -18,7 +18,7 @@
       </publicationstmt>
     </filedesc>
     <profiledesc>
-      <creation>This finding aid was produced using ArchivesSpace on <date>2015-09-19 07:39:19 -0400</date>.</creation>
+      <creation>This finding aid was produced using ArchivesSpace on <date>2016-08-24 14:16:47 -0400</date>.</creation>
     </profiledesc>
     <revisiondesc>
       <date>2010 August 19</date>
@@ -38,7 +38,7 @@
         <corpname role="aut" source="lcnaf">Rockefeller University</corpname>
       </origination>
       <origination label="creator">
-        <corpname source="lcnaf">Rockefeller Institute for Medical Research</corpname>
+        <corpname role="ctb" source="lcnaf">Rockefeller Institute for Medical Research</corpname>
       </origination>
       <unitid>FA898</unitid>
       <physdesc altrender="whole">
@@ -51,11 +51,6 @@
         <extent>1 box.</extent>
       </physdesc>
     </did>
-    <phystech id="aspace_a5a5e234959f913251c4c5ea3626208b">
-      <head>Physical Characteristics and Technical Requirements note</head>
-      <p>Materials requiring specialized equipment for access (film, audio, video, slides) may be closed to research dependent on availability of the applicable equipment</p>
-      <p>Brittle or damaged items, or materials otherwise in need of preservation care, may be closed to researchers at the discretion of the RAC Head of Archival Services/Head of Reference.</p>
-    </phystech>
     <prefercite id="aspace_f9974a0517a378485645aba10406e7df">
       <head>Preferred Citation note</head>
       <p>Information regarding the Rockefeller Archive Center's preferred elements and forms of citation can be found at <extref href="http://www.rockarch.org/research/citations.php">http://www.rockarch.org/research/citations.php</extref></p>
@@ -66,8 +61,12 @@
     </fileplan>
     <accessrestrict id="aspace_c9b2d3a0ef5264a8c1a272dffe6d688b">
       <head>Conditions Governing Access</head>
-      <p>Collection is open for scholarly research.</p>
+      <p>Collection is open for research. Brittle or damaged items are available at the discretion of RAC.</p>
     </accessrestrict>
+    <scopecontent id="aspace_78e42cc206e95bb2c955cc707fd43db7">
+      <head>Scope and Contents</head>
+      <p>Lectures and symposia.</p>
+    </scopecontent>
     <controlaccess>
       <geogname source="lcsh">China</geogname>
       <subject source="lcsh">Medical sciences</subject>
@@ -79,100 +78,94 @@
       <subject source="lcsh">Medical care</subject>
       <subject source="lcsh">Biology -- Research</subject>
       <subject source="lcsh">Medical research</subject>
-      <persname source="lcnaf">Avery, Oswald Theodore</persname>
-      <corpname role="aut" source="lcnaf">Rockefeller University</corpname>
-      <persname source="lcnaf">Seitz, Frederick</persname>
-      <persname source="lcnaf">McCarty, Maclyn</persname>
-      <persname source="lcnaf">MacLeod, Colin M. (Colin Munro)</persname>
-      <corpname source="lcnaf">Rockefeller Institute for Medical Research</corpname>
     </controlaccess>
     <dsc>
       <c id="aspace_ref1354_85x" level="file">
         <did>
           <unittitle>Annual Cancer Symposium</unittitle>
           <unitdate normal="2004/2005" type="inclusive">2004-2005</unitdate>
-          <container id="aspace_33a723b307c644f2389ed2855c0e8ce8" label="Mixed Materials" type="box">1</container>
-          <container id="aspace_33ee1907587108bd2c13c129609306ed" parent="aspace_33a723b307c644f2389ed2855c0e8ce8" type="folder">1</container>
+          <container id="aspace_f5875655a83b7ca331e8b0b64854e74e" label="Mixed Materials" type="box">1</container>
+          <container id="aspace_9cedff382f61d8a8382b3a197bc7cbd3" parent="aspace_f5875655a83b7ca331e8b0b64854e74e" type="folder">1</container>
         </did>
       </c>
       <c id="aspace_ref1355_z35" level="file">
         <did>
           <unittitle>Cancer Biology Lectures</unittitle>
           <unitdate normal="2002/2003" type="inclusive">2002-2003</unitdate>
-          <container id="aspace_659ff59ed4d4fff3e124d66fef09ae40" label="Mixed Materials" type="box">1</container>
-          <container id="aspace_aa1d2eed9e895bbc490bf0de078de5ec" parent="aspace_659ff59ed4d4fff3e124d66fef09ae40" type="folder">2</container>
+          <container id="aspace_34d36ae0827581cb14c16852079ee2c1" label="Mixed Materials" type="box">1</container>
+          <container id="aspace_22106d600641e68c6bd91c5a174d7292" parent="aspace_34d36ae0827581cb14c16852079ee2c1" type="folder">2</container>
         </did>
       </c>
       <c id="aspace_ref1356_46b" level="file">
         <did>
           <unittitle>Insight - Talks on Science, Policy, and the Humanities</unittitle>
           <unitdate normal="2005/2005" type="inclusive">2005</unitdate>
-          <container id="aspace_a9372c8f1b4ae92f2d9424fb3e568469" label="Mixed Materials" type="box">1</container>
-          <container id="aspace_81348cf84bcd34769c56d2e98905f96f" parent="aspace_a9372c8f1b4ae92f2d9424fb3e568469" type="folder">3</container>
+          <container id="aspace_ebfea88cbde32bf75ae5a19abc92833d" label="Mixed Materials" type="box">1</container>
+          <container id="aspace_ef360319eb5b87319893bf6985eabef4" parent="aspace_ebfea88cbde32bf75ae5a19abc92833d" type="folder">3</container>
         </did>
       </c>
       <c id="aspace_ref1357_kbj" level="file">
         <did>
           <unittitle>Jerry A. Weisbach Lectures</unittitle>
           <unitdate normal="2002/2002" type="inclusive">2002</unitdate>
-          <container id="aspace_28c8fe83d3e49262485bdb8891feb6ad" label="Mixed Materials" type="box">1</container>
-          <container id="aspace_a3b9fe969c90032548be6fe08bb943c4" parent="aspace_28c8fe83d3e49262485bdb8891feb6ad" type="folder">4</container>
+          <container id="aspace_461c050d3c56cee579d2e2e83327b6a8" label="Mixed Materials" type="box">1</container>
+          <container id="aspace_06237f98eeea6f0d417695feea3f4ba5" parent="aspace_461c050d3c56cee579d2e2e83327b6a8" type="folder">4</container>
         </did>
       </c>
       <c id="aspace_ref1358_fwp" level="file">
         <did>
           <unittitle>Joshua A. Lederberg Distinguished Lectures in Molecular Genetics</unittitle>
           <unitdate normal="2002/2003" type="inclusive">2002-2003</unitdate>
-          <container id="aspace_cf6775bafc2a538794a3d60b13f1be20" label="Mixed Materials" type="box">1</container>
-          <container id="aspace_7f286b6958e1f966aa171d5e1c01b13c" parent="aspace_cf6775bafc2a538794a3d60b13f1be20" type="folder">5</container>
+          <container id="aspace_c58aa8e57f8335b65192fd498aa5a0f1" label="Mixed Materials" type="box">1</container>
+          <container id="aspace_b04f943e4d74566baa8f558c2fbbf921" parent="aspace_c58aa8e57f8335b65192fd498aa5a0f1" type="folder">5</container>
         </did>
       </c>
       <c id="aspace_ref1359_5u7" level="file">
         <did>
           <unittitle>Philip Levine Memorial Lectures</unittitle>
           <unitdate normal="2002/2003" type="inclusive">2002-2003</unitdate>
-          <container id="aspace_bb49f27c264ac9b17f418983687f60e2" label="Mixed Materials" type="box">1</container>
-          <container id="aspace_7b8e2b0b4fab63da29cf4538bd5eb51f" parent="aspace_bb49f27c264ac9b17f418983687f60e2" type="folder">6</container>
+          <container id="aspace_31bb65822089c6929b2cb3868a86e577" label="Mixed Materials" type="box">1</container>
+          <container id="aspace_f75b46d5480f1178c2bcdb42dc89b0d8" parent="aspace_31bb65822089c6929b2cb3868a86e577" type="folder">6</container>
         </did>
       </c>
       <c id="aspace_ref1360_0ah" level="file">
         <did>
           <unittitle>Richard M. Furlaud Distinguished Lectures</unittitle>
           <unitdate normal="2003/2003" type="inclusive">2003</unitdate>
-          <container id="aspace_cfb09baf4189c4fddedf23bca1d4c607" label="Mixed Materials" type="box">1</container>
-          <container id="aspace_44a2de35d7e9f6d85040e6eb7d91f5b9" parent="aspace_cfb09baf4189c4fddedf23bca1d4c607" type="folder">7</container>
+          <container id="aspace_8393ddbf193e71e5e1ec6bfe132f1fbf" label="Mixed Materials" type="box">1</container>
+          <container id="aspace_90982e06fc29f30cf5c4b711fb5a4be1" parent="aspace_8393ddbf193e71e5e1ec6bfe132f1fbf" type="folder">7</container>
         </did>
       </c>
       <c id="aspace_ref1361_myx" level="file">
         <did>
           <unittitle>Symposium of Honor of Robert G. Roeder's 60th Birthday</unittitle>
           <unitdate normal="2002/2002" type="inclusive">2002</unitdate>
-          <container id="aspace_cf32a8ce638ac582ac265963ea53339b" label="Mixed Materials" type="box">1</container>
-          <container id="aspace_8a0c5f9247361063e8ca2a5b2bd44ba0" parent="aspace_cf32a8ce638ac582ac265963ea53339b" type="folder">8</container>
+          <container id="aspace_1e5672823a5e0a581c887767623eb3eb" label="Mixed Materials" type="box">1</container>
+          <container id="aspace_d5335ce7d4ca47f65cfd4d59312374ff" parent="aspace_1e5672823a5e0a581c887767623eb3eb" type="folder">8</container>
         </did>
       </c>
       <c id="aspace_ref1362_e5p" level="file">
         <did>
           <unittitle>Symposium on Cellular Regulation in Development</unittitle>
           <unitdate normal="1996/1996" type="inclusive">1996</unitdate>
-          <container id="aspace_71b92eb521f8a1eacc4a35965dc7676e" label="Mixed Materials" type="box">1</container>
-          <container id="aspace_8190e9f69dbe9b8d3bfbe9d72e103e1d" parent="aspace_71b92eb521f8a1eacc4a35965dc7676e" type="folder">9</container>
+          <container id="aspace_5df500d53d99a6a097298ab855183902" label="Mixed Materials" type="box">1</container>
+          <container id="aspace_2e6039f20b7aa0f072a53efc9acc5bc3" parent="aspace_5df500d53d99a6a097298ab855183902" type="folder">9</container>
         </did>
       </c>
       <c id="aspace_ref1363_myc" level="file">
         <did>
           <unittitle>William H. Stein Memorial Lecture</unittitle>
           <unitdate normal="2001/2003" type="inclusive">2001-2003</unitdate>
-          <container id="aspace_e3bcdc53fb024a5a635f6ca4ca6219e4" label="Mixed Materials" type="box">1</container>
-          <container id="aspace_a1774b0d71a4cf1a8e4dde211cbbf528" parent="aspace_e3bcdc53fb024a5a635f6ca4ca6219e4" type="folder">10</container>
+          <container id="aspace_413a16bd7023595e8595db2d5666eb4f" label="Mixed Materials" type="box">1</container>
+          <container id="aspace_c6fe64067c2b2987eeae5b4f83a4d946" parent="aspace_413a16bd7023595e8595db2d5666eb4f" type="folder">10</container>
         </did>
       </c>
       <c id="aspace_ref1364_x83" level="file">
         <did>
           <unittitle>Zanvil A. Cohn Forum on Health Affairs</unittitle>
           <unitdate normal="2001/2003" type="inclusive">2001-2003</unitdate>
-          <container id="aspace_07d1a4b5af7d78475b2d478054d93c40" label="Mixed Materials" type="box">1</container>
-          <container id="aspace_4ebb7ec7680290ea8eb2b7facfcc88f8" parent="aspace_07d1a4b5af7d78475b2d478054d93c40" type="folder">11</container>
+          <container id="aspace_2f629bd5b87e3e50bffc5f73c163ea60" label="Mixed Materials" type="box">1</container>
+          <container id="aspace_fb46d44f5c3d8348df6ef64444164185" parent="aspace_2f629bd5b87e3e50bffc5f73c163ea60" type="folder">11</container>
         </did>
       </c>
     </dsc>

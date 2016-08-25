@@ -18,7 +18,7 @@
       </publicationstmt>
     </filedesc>
     <profiledesc>
-      <creation>This finding aid was produced using ArchivesSpace on <date>2015-09-19 07:39:42 -0400</date>.</creation>
+      <creation>This finding aid was produced using ArchivesSpace on <date>2016-08-24 14:17:16 -0400</date>.</creation>
       <langusage>English</langusage>
       <descrules>Describing Archives: A Content Standard</descrules>
     </profiledesc>
@@ -44,7 +44,7 @@
     </did>
     <accessrestrict id="aspace_a6cc7174e4129c7d01da499b82fb0c10">
       <head>Conditions Governing Access</head>
-      <p>Collection is open for scholarly research.</p>
+      <p>Collection is open for research. Brittle or damaged items are available at the discretion of RAC.</p>
     </accessrestrict>
     <fileplan id="aspace_0c36a64aa25692d4dcfea7c833ddac89">
       <head>File Plan</head>
@@ -54,28 +54,24 @@
       <head>Preferred Citation</head>
       <p>Information regarding the Rockefeller Archive Center's preferred elements and forms of citation can be found at <extref href="http://www.rockarch.org/research/citations.php">http://www.rockarch.org/research/citations.php</extref></p>
     </prefercite>
-    <phystech id="aspace_8006d0058ebd380413f9d06749704a69">
-      <head>Physical Characteristics and Technical Requirements</head>
-      <p>Materials requiring specialized equipment for access (film, audio, video, slides) may be restricted from scholarly research dependent on availability of the applicable equipment. </p>
-      <p>Brittle or damaged items, or materials otherwise in need of preservation care, may be restricted from scholarly research at the discretion of the RAC Head of Archival Services/RAC Head of Reference.</p>
-    </phystech>
-    <controlaccess>
-      <corpname role="aut" source="ingest">Rockefeller University.</corpname>
-    </controlaccess>
+    <scopecontent id="aspace_6ba136372075cd4d8f707c498a59551d">
+      <head>Scope and Contents</head>
+      <p>Correspondence and manual.</p>
+    </scopecontent>
     <dsc>
       <c id="aspace_ref5_5ps" level="file">
         <did>
           <unittitle>Correspondence</unittitle>
           <unitdate normal="1979/1985" type="inclusive">1979-1985</unitdate>
-          <container id="aspace_76f07525a345348b24fc127adfc8fdf0" label="Mixed Materials" type="box">1</container>
-          <container id="aspace_0fa9af547d18937fd1b3641a1d7eab96" parent="aspace_76f07525a345348b24fc127adfc8fdf0" type="folder">1</container>
+          <container id="aspace_d6be1d1bce21311e644173925e9f29a1" label="Mixed Materials" type="box">1</container>
+          <container id="aspace_aed301f83696a253da2549506002b08f" parent="aspace_d6be1d1bce21311e644173925e9f29a1" type="folder">1</container>
         </did>
       </c>
       <c id="aspace_ref6_551" level="file">
         <did>
           <unittitle>Manual</unittitle>
           <unitdate normal="1985/1985" type="inclusive">1985</unitdate>
-          <container id="aspace_62ef86feb8d7695fd7a1135dfed4a0a7" label="Mixed Materials" type="box">1</container>
+          <container id="aspace_8aa00175c5f2d67312ec87e6bb2b6a96" label="Mixed Materials" type="box">1</container>
         </did>
       </c>
     </dsc>

@@ -18,7 +18,7 @@
       </publicationstmt>
     </filedesc>
     <profiledesc>
-      <creation>This finding aid was produced using ArchivesSpace on <date>2015-09-19 07:38:45 -0400</date>.</creation>
+      <creation>This finding aid was produced using ArchivesSpace on <date>2016-08-24 14:16:02 -0400</date>.</creation>
     </profiledesc>
     <revisiondesc>
       <date>2010 August 19</date>
@@ -50,11 +50,6 @@
         <extent>1 box.</extent>
       </physdesc>
     </did>
-    <phystech id="aspace_58990ac29f96c1eb19c5978d65d5cf7b">
-      <head>Physical Characteristics and Technical Requirements note</head>
-      <p>Materials requiring specialized equipment for access (film, audio, video, slides) may be closed to research dependent on availability of the applicable equipment</p>
-      <p>Brittle or damaged items, or materials otherwise in need of preservation care, may be closed to researchers at the discretion of the RAC Head of Archival Services/Head of Reference.</p>
-    </phystech>
     <prefercite id="aspace_9c39a2e81259b42fb30e99bd5609b90a">
       <head>Preferred Citation note</head>
       <p>Information regarding the Rockefeller Archive Center's preferred elements and forms of citation can be found at <extref href="http://www.rockarch.org/research/citations.php">http://www.rockarch.org/research/citations.php</extref></p>
@@ -65,8 +60,12 @@
     </fileplan>
     <accessrestrict id="aspace_5f6e4313270f920d8c6d2007bc83d40f">
       <head>Conditions Governing Access</head>
-      <p>Collection is open for scholarly research.</p>
+      <p>Collection is open for research. Brittle or damaged items are available at the discretion of RAC.</p>
     </accessrestrict>
+    <scopecontent id="aspace_571987739e3f8f477878d41f6ee83e41">
+      <head>Scope and Contents</head>
+      <p>Consists of program and registration materials.</p>
+    </scopecontent>
     <controlaccess>
       <subject source="lcsh">Medical research</subject>
       <subject source="lcsh">Vivisection</subject>
@@ -78,9 +77,7 @@
       <geogname source="lcsh">China</geogname>
       <subject source="lcsh">Medical care</subject>
       <subject source="lcsh">Biology -- Research</subject>
-      <corpname role="aut" source="lcnaf">Rockefeller University</corpname>
       <persname source="lcnaf">Avery, Oswald Theodore</persname>
-      <corpname source="lcnaf">Rockefeller Institute for Medical Research</corpname>
       <persname source="lcnaf">MacLeod, Colin M. (Colin Munro)</persname>
       <persname source="lcnaf">Seitz, Frederick</persname>
       <persname source="lcnaf">McCarty, Maclyn</persname>
@@ -90,16 +87,16 @@
         <did>
           <unittitle>Program</unittitle>
           <unitdate type="inclusive">2001 May</unitdate>
-          <container id="aspace_4ba9e8ac03be7f6026c3af80170bbdaa" label="Mixed Materials" type="box">1</container>
-          <container id="aspace_b71211516db03e72c94bcb7d3eb591af" parent="aspace_4ba9e8ac03be7f6026c3af80170bbdaa" type="folder">1</container>
+          <container id="aspace_b4938b22b0bad4f7b81ae5febe56f60c" label="Mixed Materials" type="box">1</container>
+          <container id="aspace_12e10a225de09d989781085143ab3332" parent="aspace_b4938b22b0bad4f7b81ae5febe56f60c" type="folder">1</container>
         </did>
       </c>
       <c id="aspace_ref1333_7fo" level="file">
         <did>
           <unittitle>Registration material</unittitle>
           <unitdate type="inclusive">2001 May</unitdate>
-          <container id="aspace_f6c49fdb085e50a8559c0dbbba15a0f0" label="Mixed Materials" type="box">1</container>
-          <container id="aspace_36c7f275f0cced7b6e322f90fa55275e" parent="aspace_f6c49fdb085e50a8559c0dbbba15a0f0" type="folder">2</container>
+          <container id="aspace_1c68cce1c8cc586ac69348b8b2112d2e" label="Mixed Materials" type="box">1</container>
+          <container id="aspace_b92e50843f6dfc8156da8eda5741b759" parent="aspace_1c68cce1c8cc586ac69348b8b2112d2e" type="folder">2</container>
         </did>
       </c>
     </dsc>

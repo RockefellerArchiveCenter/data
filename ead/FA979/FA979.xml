@@ -18,7 +18,7 @@
       </publicationstmt>
     </filedesc>
     <profiledesc>
-      <creation>This finding aid was produced using ArchivesSpace on <date>2015-11-23 10:31:43 -0500</date>.</creation>
+      <creation>This finding aid was produced using ArchivesSpace on <date>2016-08-24 14:54:12 -0400</date>.</creation>
       <langusage>English</langusage>
       <descrules>Describing Archives: A Content Standard</descrules>
     </profiledesc>
@@ -35,6 +35,9 @@
       <origination label="creator">
         <corpname role="aut" source="ingest">Rockefeller Institute for Medical Research.</corpname>
       </origination>
+      <origination label="creator">
+        <persname role="aut" rules="local" source="local">Gowen, John W.</persname>
+      </origination>
       <unitid>FA979</unitid>
       <physdesc altrender="whole">
         <extent altrender="materialtype spaceoccupied">0.44 Cubic Feet</extent>
@@ -45,17 +48,12 @@
     </did>
     <accessrestrict id="aspace_30fe64d16473a75966a56759b59016c1">
       <head>Conditions Governing Access</head>
-      <p>Collection is open for scholarly research.</p>
+      <p>Collection is open for research. Brittle or damaged items are available at the discretion of RAC.</p>
     </accessrestrict>
     <fileplan id="aspace_53241dc03bc2857582d18c8e3b62d77d">
       <head>File Plan</head>
       <p>Former Classification: I 450 G747</p>
     </fileplan>
-    <phystech id="aspace_bf0c3242524e4b22843bb327b00f7acb">
-      <head>Physical Characteristics and Technical Requirements</head>
-      <p>Materials requiring specialized equipment for access (film, audio, video, slides) may be restricted from scholarly research dependent on availability of the applicable equipment. </p>
-      <p>Brittle or damaged items, or materials otherwise in need of preservation care, may be restricted from scholarly research at the discretion of the RAC Head of Archival Services/RAC Head of Reference.</p>
-    </phystech>
     <prefercite id="aspace_71e411fcffd506c0ab3fe8b420e99f1a">
       <head>Preferred Citation</head>
       <p>Information regarding the Rockefeller Archive Center's preferred elements and forms of citation can be found at <extref href="http://www.rockarch.org/research/citations.php">http://www.rockarch.org/research/citations.php</extref></p>
@@ -64,9 +62,10 @@
       <head>Processing Information</head>
       <p>CK, August 11, 1986.</p>
     </processinfo>
-    <controlaccess>
-      <corpname role="aut" source="ingest">Rockefeller Institute for Medical Research.</corpname>
-    </controlaccess>
+    <scopecontent id="aspace_5908afa9132d31474fa2f600795cc434">
+      <head>Scope and Contents</head>
+      <p>Administrative correspondence.</p>
+    </scopecontent>
     <dsc>
       <c id="aspace_ref6_9rv" level="file">
         <did>
@@ -76,50 +75,50 @@
         <c id="aspace_ref7_tdl" level="file">
           <did>
             <unitdate normal="1919/1923" type="inclusive">1919-1923</unitdate>
-            <container id="aspace_d7c46c41c6b22ede4de3c0c57b5e36c9" label="Mixed Materials" type="box">1</container>
-            <container id="aspace_736c17e0cf00ae1c2f265ebe2c0a4059" parent="aspace_d7c46c41c6b22ede4de3c0c57b5e36c9" type="folder">1</container>
+            <container id="aspace_b541cf0eac066d848be2c6f14b33b952" label="Mixed Materials (578493.1.318)" type="box">1</container>
+            <container id="aspace_8f30188e6ddbacbd44609268f3f910e9" parent="aspace_b541cf0eac066d848be2c6f14b33b952" type="folder">1</container>
           </did>
         </c>
         <c id="aspace_ref8_vc7" level="file">
           <did>
             <unitdate normal="1924/1925" type="inclusive">1924-1925</unitdate>
-            <container id="aspace_25bc4bca63881b47b136f69d329c9aef" label="Mixed Materials" type="box">1</container>
-            <container id="aspace_baba58ea39716dbefa97714d71952563" parent="aspace_25bc4bca63881b47b136f69d329c9aef" type="folder">2</container>
+            <container id="aspace_98aef78528a569ab4a880bbef736266e" label="Mixed Materials (578493.1.318)" type="box">1</container>
+            <container id="aspace_bb731c4f4ec96248079faa5411712812" parent="aspace_98aef78528a569ab4a880bbef736266e" type="folder">2</container>
           </did>
         </c>
         <c id="aspace_ref9_5wd" level="file">
           <did>
             <unitdate normal="1926/1926" type="inclusive">1926</unitdate>
-            <container id="aspace_0a8db234c7c3a2d978f7f41c14a88b58" label="Mixed Materials" type="box">1</container>
-            <container id="aspace_c3286ef3db3cd9674e930417f4168f38" parent="aspace_0a8db234c7c3a2d978f7f41c14a88b58" type="folder">3</container>
+            <container id="aspace_c23abe1e9e64953066ed5086961373a5" label="Mixed Materials (578493.1.318)" type="box">1</container>
+            <container id="aspace_fa0c6d33b2a39b684efcbfefb6bc8642" parent="aspace_c23abe1e9e64953066ed5086961373a5" type="folder">3</container>
           </did>
         </c>
         <c id="aspace_ref10_uxg" level="file">
           <did>
             <unitdate normal="1928/1930" type="inclusive">1928-1930</unitdate>
-            <container id="aspace_bdbd3049725d212761dd3606b73544a0" label="Mixed Materials" type="box">1</container>
-            <container id="aspace_5f3e2c49ae4930c7e304a7b963059a35" parent="aspace_bdbd3049725d212761dd3606b73544a0" type="folder">4</container>
+            <container id="aspace_dd7cdfd65756f9578389ab95c32f887c" label="Mixed Materials (578493.1.318)" type="box">1</container>
+            <container id="aspace_b3f1c20cbc306494de1e0c278142827d" parent="aspace_dd7cdfd65756f9578389ab95c32f887c" type="folder">4</container>
           </did>
         </c>
         <c id="aspace_ref11_1w6" level="file">
           <did>
             <unitdate normal="1932/1932" type="inclusive">1932</unitdate>
-            <container id="aspace_3ba968f6dc1fbec6e192d643cf9e6741" label="Mixed Materials" type="box">1</container>
-            <container id="aspace_6b40760af621d38f2ed7b5c3a0202fd4" parent="aspace_3ba968f6dc1fbec6e192d643cf9e6741" type="folder">5</container>
+            <container id="aspace_394d7f892ce60c7b4553889e0db13685" label="Mixed Materials (578493.1.318)" type="box">1</container>
+            <container id="aspace_78a70f89351333d5fd1a83257fc2c2e4" parent="aspace_394d7f892ce60c7b4553889e0db13685" type="folder">5</container>
           </did>
         </c>
         <c id="aspace_ref12_bo5" level="file">
           <did>
             <unitdate normal="1933/1933" type="inclusive">1933</unitdate>
-            <container id="aspace_d47d44582145bbea4dc6be04f61a1d59" label="Mixed Materials" type="box">1</container>
-            <container id="aspace_7f17c51267a2c07782500d44759ef6c9" parent="aspace_d47d44582145bbea4dc6be04f61a1d59" type="folder">6</container>
+            <container id="aspace_e2199caf1d491837d11051431377bbfc" label="Mixed Materials (578493.1.318)" type="box">1</container>
+            <container id="aspace_d17abc903aa0e83b60b0629fb43c7caa" parent="aspace_e2199caf1d491837d11051431377bbfc" type="folder">6</container>
           </did>
         </c>
         <c id="aspace_ref13_py3" level="file">
           <did>
             <unitdate normal="1934/1937" type="inclusive">1934-1937</unitdate>
-            <container id="aspace_fd3964a41730f6876128cd22f2bfe15f" label="Mixed Materials" type="box">1</container>
-            <container id="aspace_c60c20be3d121b0af97d6e708dfcb80d" parent="aspace_fd3964a41730f6876128cd22f2bfe15f" type="folder">7</container>
+            <container id="aspace_81046e1c5fdc70445a350cbbef0eab33" label="Mixed Materials (578493.1.318)" type="box">1</container>
+            <container id="aspace_63900d8fd010c26c08615606a1ea0c75" parent="aspace_81046e1c5fdc70445a350cbbef0eab33" type="folder">7</container>
           </did>
         </c>
       </c>
