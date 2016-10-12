@@ -1,0 +1,111 @@
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="under_revision" langencoding="iso639-2b" repositoryencoding="iso15511">
+    <eadid>FA924.xml</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper type="filing">Rockefeller University records, Rockefeller University Press, Journal of General Physiology, Microfiche and Accepted Manuscripts, Series 1</titleproper>
+        <titleproper>A Guide to the Rockefeller University records, Rockefeller University Press, Journal of General Physiology, Microfiche and Accepted Manuscripts, Series 1
+ <num>FA924</num></titleproper>
+      </titlestmt>
+      <publicationstmt>
+        <publisher>Rockefeller Archive Center</publisher>
+        <address>
+          <addressline>15 Dayton Avenue</addressline>
+          <addressline>Sleepy Hollow 10591</addressline>
+          <addressline>archive@rockarch.org</addressline>
+          <addressline>URL: <extptr xlink:href="http://www.rockarch.org" xlink:show="new" xlink:title="http://www.rockarch.org" xlink:type="simple"/></addressline>
+        </address>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation>This finding aid was produced using ArchivesSpace on <date>2016-10-12 00:00:18 -0400</date>.</creation>
+    </profiledesc>
+    <revisiondesc>
+      <date>2008 October 21</date>
+      <item>Paper finding aid converted to EAD/XML by AureXus in 2010. Imported into the Archvists’ Toolkit by Becky Robbins.</item>
+    </revisiondesc>
+  </eadheader>
+  <archdesc level="series">
+    <did>
+      <langmaterial>
+        <language langcode="eng">English</language>
+      </langmaterial>
+      <repository>
+        <corpname>Rockefeller Archive Center</corpname>
+      </repository>
+      <unittitle>Rockefeller University records, Rockefeller University Press, Journal of General Physiology, Microfiche and Accepted Manuscripts, Series 1</unittitle>
+      <origination label="creator">
+        <corpname role="aut" source="lcnaf">Rockefeller University</corpname>
+      </origination>
+      <origination label="creator">
+        <corpname role="aut" rules="dacs">Rockefeller University Press</corpname>
+      </origination>
+      <unitid>FA924</unitid>
+      <physdesc altrender="whole">
+        <extent altrender="materialtype spaceoccupied">5 Cubic Feet</extent>
+        <extent altrender="carrier">13 boxes</extent>
+      </physdesc>
+      <unitdate normal="1919/1980" type="inclusive">1919-1980</unitdate>
+      <physdesc id="aspace_b3181d6099ffa0d41bf0d7158c8160e1">13 boxes</physdesc>
+    </did>
+    <prefercite id="aspace_5a4844f9613e59ac76054480f2a13369">
+      <head>Preferred Citation note</head>
+      <p>Information regarding the Rockefeller Archive Center's preferred elements and forms of citation can be found at <extref href="http://www.rockarch.org/research/citations.php">http://www.rockarch.org/research/citations.php</extref></p>
+    </prefercite>
+    <scopecontent id="aspace_7aabef01c01d82e7bf15b7406d64c373">
+      <head>Scope and Contents</head>
+      <p>Includes microfiche copies of each issue of JGP, beginning in 1919, and accepted manuscripts from the 1940s through the 1960s.</p>
+    </scopecontent>
+    <arrangement id="aspace_b966424318f2bf6f48efc24960e9ae09">
+      <head>Arrangement</head>
+      <p>Arranged in chronological and alphabetical order.</p>
+    </arrangement>
+    <accessrestrict id="aspace_690efaad29a2ef4869d1a0ec16133560">
+      <head>Conditions Governing Access</head>
+      <p>Collection is open for research. Brittle or damaged items are available at the discretion of RAC.</p>
+    </accessrestrict>
+    <fileplan id="aspace_b2877b47de2ed0d478549df7fc5f75ee">
+      <head>File Plan note</head>
+      <p>Former Classification: I 517-1</p>
+    </fileplan>
+    <controlaccess>
+      <subject source="lcsh">Biology -- Research</subject>
+      <subject source="lcsh">Life sciences</subject>
+      <subject source="lcsh">Cell and biomolecular sciences</subject>
+      <subject source="lcsh">Science -- Study and teaching</subject>
+      <subject source="lcsh">Medical technology</subject>
+      <subject source="lcsh">Medical sciences</subject>
+      <subject source="lcsh">Medicine, Preventive</subject>
+      <subject source="lcsh">Medical research</subject>
+      <subject source="lcsh">Medical education</subject>
+    </controlaccess>
+    <dsc>
+      <c id="aspace_c0218bf702a23a08d595f824b33d8327" level="subseries">
+        <did>
+          <unittitle>Journal of General Physiology Microfiche</unittitle>
+        </did>
+        <c id="aspace_ref158_iu4" level="file">
+          <did>
+            <unittitle>Volume 1 (1919) - Volume 48 (1965)</unittitle>
+            <unitdate normal="1919/1965" type="inclusive">1919-1965</unitdate>
+            <container id="aspace_218d8d7a39c24a12b4700086e0b3eca5" label="Microform (A0000000076587)" type="box">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref159_nfa" level="file">
+          <did>
+            <unittitle>Volume 49 (1966) - Volume 61, Number 2 (1973)</unittitle>
+            <unitdate normal="1966/1973" type="inclusive">1966-1973</unitdate>
+            <container id="aspace_80ff823933ca0becd72ca2b0c0188bf4" label="Microform (A0000000076588)" type="box">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref160_reo" level="file">
+          <did>
+            <unittitle>Volume 61, Number 3 (1973) - Volume 76, Number (1980)</unittitle>
+            <unitdate normal="1973/1980" type="inclusive">1973-1980</unitdate>
+            <container id="aspace_122412ded149fca13ac3790b2de78593" label="Microform (A0000000076589)" type="box">3</container>
+          </did>
+        </c>
+      </c>
+    </dsc>
+  </archdesc>
+</ead>
