@@ -18,7 +18,7 @@
       </publicationstmt>
     </filedesc>
     <profiledesc>
-      <creation>This finding aid was produced using ArchivesSpace on <date>2017-03-02 03:49:03 -0500</date>.</creation>
+      <creation>This finding aid was produced using ArchivesSpace on <date>2017-11-18 00:02:44 -0500</date>.</creation>
     </profiledesc>
     <revisiondesc>
       <change>
@@ -90,8 +90,8 @@
     </odd>
     <controlaccess>
       <subject source="lcsh">Operations management</subject>
-      <corpname role="ctb" source="lcnaf">Rockefeller Institute for Medical Research</corpname>
-      <corpname role="aut" source="lcnaf">Rockefeller University</corpname>
+      <corpname role="ctb" source="naf">Rockefeller Institute for Medical Research</corpname>
+      <corpname role="aut" source="naf">Rockefeller University</corpname>
     </controlaccess>
     <dsc>
       <c id="84927d14c46a46fe994fe37c65958836" level="series">
@@ -105,21 +105,11 @@
           <unitdate normal="1904/1974" type="inclusive">1904-1974</unitdate>
           <unitdate normal="1956/1974" type="bulk">1956-1974</unitdate>
         </did>
-        <c id="21b9d7abc6f44eb1a266659bd4fc6833" level="file">
-          <did>
-            <unittitle>Animals</unittitle>
-            <unitdate normal="1905/1949" type="inclusive">1905-1949</unitdate>
-            <container id="d124aec54218ab890c9911d734fc3729" label="mixed materials (179977.1.318)" type="box">1</container>
-          </did>
-          <scopecontent id="83b3e92d7d5fa245bd1f03be55ad7e80">
-            <head>Scope and Contents note</head>
-            <p>Includes early correspondence dealing with stolen dogs. Arrangements to purchase animals abroad and problems of animal care and dwelling facilities. 1913 Henry James report on animal care facilities seen on European trip. Some requests for descriptive material on RIMR animal facilities; some items dealing with lost animals.</p>
-          </scopecontent>
-        </c>
         <c id="8d9dfb99ff7342f5baf91d3c6debd6bf" level="file">
           <did>
             <unittitle>A-C (various)</unittitle>
-            <container id="e7cbe7cb9676648c453d44bdc673fcb1" label="mixed materials (179977.1.318)" type="box">1</container>
+            <container id="97a9024d96b790ba29d1a44b450fccad" label="mixed materials (179977.1.318)" type="box">1</container>
+            <container id="e7951e40c9e4a4e75589c3f4b6a5664e" parent="97a9024d96b790ba29d1a44b450fccad" type="folder">1</container>
           </did>
           <c id="0ef6a2d3f2ad4e7fac0ca803798a489e" level="file">
             <did>
@@ -227,12 +217,24 @@
             </did>
           </c>
         </c>
+        <c id="21b9d7abc6f44eb1a266659bd4fc6833" level="file">
+          <did>
+            <unittitle>Animals</unittitle>
+            <unitdate normal="1905/1949" type="inclusive">1905-1949</unitdate>
+            <container id="d277a3dc9e8c60b6c5bd7163d178390b" label="mixed materials (179977.1.318)" type="box">1</container>
+            <container id="43728ea524295b4305f505c8908c17e1" parent="d277a3dc9e8c60b6c5bd7163d178390b" type="folder">2</container>
+          </did>
+          <scopecontent id="83b3e92d7d5fa245bd1f03be55ad7e80">
+            <head>Scope and Contents note</head>
+            <p>Includes early correspondence dealing with stolen dogs. Arrangements to purchase animals abroad and problems of animal care and dwelling facilities. 1913 Henry James report on animal care facilities seen on European trip. Some requests for descriptive material on RIMR animal facilities; some items dealing with lost animals.</p>
+          </scopecontent>
+        </c>
         <c id="f14a779c424a48c8a45b1b1d1d169d4e" level="file">
           <did>
             <unittitle>Budget</unittitle>
             <unitdate normal="1913/1961" type="inclusive">1913-1938; 1939-1961</unitdate>
-            <physdesc id="7609ce513c9954eda8839f8c4eedd79e">2 folders</physdesc>
-            <container id="2915c25fad09fd5cf146676b18638b4e" label="mixed materials (179977.1.318)" type="box">1</container>
+            <container id="0dd6f764892c0641e2b0316f5972f87e" label="mixed materials (179977.1.318)" type="box">1</container>
+            <container id="929817a9f1a7b816bbe683969629da6d" parent="0dd6f764892c0641e2b0316f5972f87e" type="folder">3-4</container>
           </did>
           <scopecontent id="47b30b108a5d416264c07be3ec3a091d">
             <head>Scope and Contents note</head>
@@ -242,7 +244,8 @@
         <c id="112ba517f8b34bb99a775315aca5a422" level="file">
           <did>
             <unittitle>Budget charts</unittitle>
-            <container id="678b23aa8523f5b90c9abe62fff380bf" label="mixed materials (179977.1.318)" type="box">1</container>
+            <container id="676a155350b037a65ba581a4391addef" label="mixed materials (179977.1.318)" type="box">1</container>
+            <container id="9b43517f1e7bd4c947aab663357f1416" parent="676a155350b037a65ba581a4391addef" type="folder">5</container>
           </did>
           <scopecontent id="533d540c24b133ddfea205aceed55f0a">
             <head>Scope and Contents note</head>
@@ -253,45 +256,44 @@
           <did>
             <unittitle>Budgets: unexpended balances</unittitle>
             <unitdate normal="1956/1961" type="inclusive">1956-1957; 1959-1961</unitdate>
-            <container id="0f8033467a87f0afb02e94d876f419db" label="mixed materials (179977.1.318)" type="box">1</container>
+            <container id="51f62eb4938f4e0486a5266228fa7148" label="mixed materials (179977.1.318)" type="box">1</container>
+            <container id="1d796ecd496f0844378e3eb0441295b4" parent="51f62eb4938f4e0486a5266228fa7148" type="folder">6</container>
           </did>
         </c>
         <c id="7c1a74adf1f04f358050ee1b26cc51f9" level="file">
           <did>
             <unittitle>Buildings</unittitle>
             <unitdate normal="1924/1956" type="inclusive">1924-1956</unitdate>
-            <container id="b1c5ab542bc6f6ae3dc7cd7214d09535" label="mixed materials (179977.1.318)" type="box">1</container>
+            <container id="da1eefc419d28bb322aa96167b6336f7" label="mixed materials (179977.1.318)" type="box">1</container>
+            <container id="ed17f8bcf3f27e535d27e76b7820be28" parent="da1eefc419d28bb322aa96167b6336f7" type="folder">7</container>
           </did>
           <scopecontent id="c88a841d990e395ca16c9287ab54b5c9">
             <head>Scope and Contents note</head>
             <p>Charts and information gathered on size of space assigned to various departments; unit costs; construction costs; trustees' expenditures; depreciation.</p>
           </scopecontent>
         </c>
-        <c id="df38308761ed44e4bd1697e8867afdbb" level="file">
+        <c id="94489a9a18944e5084ab2a26e0a182e1" level="file">
           <did>
-            <unittitle>Contingent Fund a. Potential Contingent Fund</unittitle>
-            <unitdate>undated</unitdate>
-            <physdesc id="e84201d00a6dd02ea663096db5b4b30a">2 folders</physdesc>
-            <container id="0396935f797093deca61754068021bd7" label="mixed materials (179977.1.318)" type="box">1</container>
+            <unittitle>Contingent Fund - Correspondence and approvals</unittitle>
+            <unitdate normal="1953/1955" type="inclusive">1953-1955</unitdate>
+            <container id="b80af6e81aec92b3b66c997b8c194b11" label="mixed materials (179977.1.318)" type="box">1</container>
+            <container id="80c598bbf027683804ecd09f22a49b1a" parent="b80af6e81aec92b3b66c997b8c194b11" type="folder">8</container>
           </did>
-          <c id="94489a9a18944e5084ab2a26e0a182e1" level="file">
-            <did>
-              <unittitle>Correspondence and approvals</unittitle>
-              <unitdate normal="1953/1955" type="inclusive">1953-1955</unitdate>
-            </did>
-          </c>
-          <c id="aa451e76924143f380255e8ee398af4f" level="file">
-            <did>
-              <unittitle>Signed authorizations</unittitle>
-              <unitdate normal="1954/1955" type="inclusive">1954-1955</unitdate>
-            </did>
-          </c>
+        </c>
+        <c id="aa451e76924143f380255e8ee398af4f" level="file">
+          <did>
+            <unittitle>Contingent Fund - Signed authorizations</unittitle>
+            <unitdate normal="1954/1955" type="inclusive">1954-1955</unitdate>
+            <container id="1a5aebf324fa6f6d4903e0f06209ecb5" label="mixed materials (179977.1.318)" type="box">1</container>
+            <container id="aea866774ad714fff9b6bff430b06249" parent="1a5aebf324fa6f6d4903e0f06209ecb5" type="folder">9</container>
+          </did>
         </c>
         <c id="cc3b88b0fcf747609d3e1a444ecf327f" level="file">
           <did>
-            <unittitle>Commitments and potential commitments</unittitle>
+            <unittitle>Contingent Funds - Commitments and potential commitments</unittitle>
             <unitdate normal="1955/1962" type="inclusive">1955-1962</unitdate>
-            <container id="054281878a1562f91cde2e28e8ab3091" label="mixed materials (179977.2.318)" type="box">2</container>
+            <container id="cafa9ff24b7c21d0cf48868de67bf5e3" label="mixed materials (179977.2.318)" type="box">2</container>
+            <container id="c392109636e91cca541e1ce606d70c3d" parent="cafa9ff24b7c21d0cf48868de67bf5e3" type="folder">1-6</container>
           </did>
           <scopecontent id="d9b3fb7dcb79005bb95e1064a336d0f9">
             <head>Scope and Contents note</head>
@@ -301,298 +303,193 @@
             <head>Arrangement note</head>
             <p>Correspondence arranged by item number on ledger sheets.</p>
           </arrangement>
-          <c id="e590691c4a714e92914d0a4fed16c980" level="file">
-            <did>
-              <unittitle>Potential</unittitle>
-              <unitdate normal="1955/1956" type="inclusive">1955-1956</unitdate>
-            </did>
-          </c>
-          <c id="ccea24f150f74a949523b82148570c14" level="file">
-            <did>
-              <unittitle>Committed</unittitle>
-              <unitdate normal="1955/1956" type="inclusive">1955-1956</unitdate>
-            </did>
-          </c>
-          <c id="08d916e2a4b14beab1cefb7e551c9235" level="file">
-            <did>
-              <unittitle>Potential</unittitle>
-              <unitdate normal="1956/1957" type="inclusive">1956-1957</unitdate>
-            </did>
-          </c>
-          <c id="6969b78194a84cef82c3591edfea13c3" level="file">
-            <did>
-              <unittitle>Potential</unittitle>
-              <unitdate normal="1957/1958" type="inclusive">1957-1958</unitdate>
-            </did>
-          </c>
-          <c id="c0ff84bfc7774d48913c91bd54f6093a" level="file">
-            <did>
-              <unittitle>Contingent-Potential</unittitle>
-              <unitdate normal="1958/1960" type="inclusive">1958-1959; 1959-1960</unitdate>
-            </did>
-          </c>
-          <c id="9a12cbbe94704f23b8376e6eb0868b18" level="file">
-            <did>
-              <unittitle>Contingent-Potential</unittitle>
-              <unitdate normal="1960/1962" type="inclusive">1960-1961; 1961-1962</unitdate>
-            </did>
-          </c>
         </c>
-        <c id="639ef15c026e4365b6dff95742884d16" level="file">
+        <c id="2cbf719a8e5c4bd59a6ff542ce2b34c2" level="file">
           <did>
-            <unittitle>Construction</unittitle>
-            <container id="802874a20b122f019c39dd47fce771b8" label="mixed materials (179977.3.318)" type="box">3</container>
+            <unittitle>Construction - Correspondence on Hospital construction</unittitle>
+            <unitdate normal="1930/1952" type="inclusive">1930-1952</unitdate>
+            <container id="81b5b53d8d15f2a16a931a319638e5f0" label="mixed materials (180014.3.318)" type="box">3</container>
+            <container id="cefb01c32e1fc5d5478f0b330134f65e" parent="81b5b53d8d15f2a16a931a319638e5f0" type="folder">1-2</container>
           </did>
-          <c id="2cbf719a8e5c4bd59a6ff542ce2b34c2" level="file">
-            <did>
-              <unittitle>Correspondence on Hospital construction</unittitle>
-              <container id="f9b124475c6ba152b4d64d5b1c34b3ea" label="mixed materials (180014.3.318)" type="box">3</container>
-            </did>
-            <c id="e1aeef1222d645f6bc08451663a0f8f6" level="file">
-              <did>
-                <unitdate normal="1930/1939" type="inclusive">1930-1939</unitdate>
-              </did>
-            </c>
-            <c id="f5faefac445f4e1b8b353f354e3b028f" level="file">
-              <did>
-                <unitdate normal="1946/1952" type="inclusive">1946-1952</unitdate>
-              </did>
-            </c>
-          </c>
-          <c id="fe5e1df72c904687a68a8d003d9951a7" level="file">
-            <did>
-              <unittitle>Primarily correspondence between Edric B. Smith, Walter A. Smith, Henry R. Shepley, Francis V. Bullfinch for Coolidge, Shepley, Bullfinch &amp; Abbott; Fred N. Severud, consulting engineer and Vermilyn-Brown Company</unittitle>
-              <container id="662e9c3f93599e12ab77458bf80f9ecf" label="mixed materials (180014.3.318)" type="box">3</container>
-            </did>
-            <scopecontent id="1170312d31d38ef1962ec821704ae044">
-              <head>Scope and Contents note</head>
-              <p>Includes drawings, suggestions, cost estimates, rising prices. Includes copies of 1946 correspondence between John D. Rockefeller, Jr. and Herbert S. Gasser.</p>
-            </scopecontent>
-          </c>
-          <c id="30fccc5f53ee46cd840054eb46da878d" level="file">
-            <did>
-              <unittitle>Specification Books</unittitle>
-              <unitdate normal="1915/1916" type="inclusive">1915-1916</unitdate>
-              <container id="6b1ef070f6d6a5d735aaba412253ceb8" label="mixed materials (180014.3.318)" type="box">3</container>
-            </did>
-            <c id="274b37cfe2db4bdeb823287b3acc0dcc" level="file">
-              <did>
-                <unittitle>Shepley, Rutan &amp; Coolidge, architects Six books, one each</unittitle>
-              </did>
-              <scopecontent id="594df7f5b22751898549657ae14f31c1">
-                <head>Scope and Contents note</head>
-                <p>Alterations to 5th floor and roof of administration bldg.</p>
-                <p>Power plant, heating system, refrigeration apparatus</p>
-                <p>Connecting corridor and tunnels</p>
-                <p>Power House and service building</p>
-                <p>Laboratory building</p>
-                <p>Animal House.</p>
-              </scopecontent>
-            </c>
-          </c>
         </c>
-        <c id="087497b8ad084083a60fbb5104cf5c1c" level="file">
+        <c id="93bb44d7326d4e51b37ebd7f0c5180eb" level="file">
           <did>
-            <unittitle>Hospital construction records</unittitle>
+            <unittitle>Hospital construction records - Electrical wiring and fixtures</unittitle>
             <unitdate normal="1946/1952" type="inclusive">1946-1952</unitdate>
-            <container id="2af891b1b95f9a15ab860f1db081246e" label="mixed materials (179977.4.318)" type="box">4</container>
+            <container id="2b5cb316dc297b2965bdeced988340f2" label="mixed materials (179977.4.318)" type="box">4</container>
+            <container id="b61739f40115b136e2bc8468b85338b5" parent="2b5cb316dc297b2965bdeced988340f2" type="folder">1</container>
           </did>
-          <c id="93bb44d7326d4e51b37ebd7f0c5180eb" level="file">
-            <did>
-              <unittitle>Electrical wiring and fixtures</unittitle>
-            </did>
-            <scopecontent id="1ed7f777bf8ad9ec9fca973fbc494b16">
-              <head>Scope and Contents note</head>
-              <p>Includes drawings and blueprints</p>
-            </scopecontent>
-          </c>
-          <c id="e1e8ec9a604442e2a6e78c263efa5ec8" level="file">
-            <did>
-              <unittitle>Electrical work on transformer vault under sidewalk</unittitle>
-            </did>
-            <scopecontent id="26002863ec8e78a04c660caff6e2e5c6">
-              <head>Scope and Contents note</head>
-              <p>Includes drawings and blueprints</p>
-            </scopecontent>
-          </c>
-          <c id="a7658a3649ae46e99b7d1e4ca16026c0" level="file">
-            <did>
-              <unittitle>Elevators. Specifications and bids</unittitle>
-            </did>
-          </c>
-          <c id="e9354a4df953458eb526660fe6210626" level="file">
-            <did>
-              <unittitle>Plumbing. Fred Brutschy Co., contractors</unittitle>
-            </did>
-          </c>
-          <c id="46da78a322764120a1cea2b241842b87" level="file">
-            <did>
-              <unittitle>Specifications, bids, correspondence on various items arranged in alphabetical order</unittitle>
-            </did>
-            <scopecontent id="1bc5a6575d33bf2811f3181f449713af">
-              <head>Scope and Contents note</head>
-              <p>Acoustical work</p>
-              <p>Air conditioning</p>
-              <p>Bathroom tiles, accessories</p>
-              <p>Carpenter work</p>
-              <p>Concrete floors</p>
-              <p>Curtains for cubicle</p>
-              <p>Flooring</p>
-              <p>Glass and glazing</p>
-              <p>Hardware</p>
-              <p>Iron work</p>
-              <p>Linen or laundry chute</p>
-              <p>Lockers</p>
-              <p>Marble and stonework</p>
-              <p>Metal furring and lathing</p>
-              <p>Pantry equipment</p>
-              <p>Plaster work</p>
-              <p>Refrigerator (Biologicals)</p>
-              <p>Reinforced concrete</p>
-              <p>Roofing</p>
-              <p>Steel doors</p>
-              <p>Structural steel</p>
-              <p>Tiles</p>
-              <p>Weatherstripping.</p>
-            </scopecontent>
-          </c>
-          <c id="5d1855def6b44cf49ec139fba2d335b0" level="file">
-            <did>
-              <unittitle>Construction items</unittitle>
-              <unitdate normal="1913/1953" type="inclusive">1913-1953</unitdate>
-            </did>
-            <scopecontent id="08963d02660f94b5ca6604e9ed0e2394">
-              <head>Scope and Contents note</head>
-              <p>Includes alterations to nurses residence; bills and payment records; graphs showing rise in construction costs (1913-1951) and changes in hourly labor wages.</p>
-            </scopecontent>
-          </c>
+          <scopecontent id="1ed7f777bf8ad9ec9fca973fbc494b16">
+            <head>Scope and Contents note</head>
+            <p>Includes drawings and blueprints</p>
+          </scopecontent>
+        </c>
+        <c id="e1e8ec9a604442e2a6e78c263efa5ec8" level="file">
+          <did>
+            <unittitle>Hospital construction records - Electrical work on transformer vault under sidewalk</unittitle>
+            <unitdate normal="1946/1952" type="inclusive">1946-1952</unitdate>
+            <container id="4c866eecc12edbcba0849549f3b7a61a" label="mixed materials (179977.4.318)" type="box">4</container>
+            <container id="eef37e63ba3045b55e0892660858a4ea" parent="4c866eecc12edbcba0849549f3b7a61a" type="folder">2</container>
+          </did>
+          <scopecontent id="26002863ec8e78a04c660caff6e2e5c6">
+            <head>Scope and Contents note</head>
+            <p>Includes drawings and blueprints</p>
+          </scopecontent>
+        </c>
+        <c id="a7658a3649ae46e99b7d1e4ca16026c0" level="file">
+          <did>
+            <unittitle>Hospital construction records - Elevators. Specifications and bids</unittitle>
+            <unitdate normal="1946/1952" type="inclusive">1946-1952</unitdate>
+            <container id="71196ca1262f2776d82aca5061a06f6e" label="mixed materials (179977.4.318)" type="box">4</container>
+            <container id="4a1a1658b1f2633515b91d14b066a82f" parent="71196ca1262f2776d82aca5061a06f6e" type="folder">3</container>
+          </did>
+        </c>
+        <c id="6872a2dd1f351c84b1223826fb81623e" level="file">
+          <did>
+            <unittitle>Hospital Construction - Plumbing</unittitle>
+            <container id="fa77c4af702d977d614421512d822686" label="mixed materials (179977.4.318)" type="box">4</container>
+            <container id="bd6e81fff208dcaa121d60ac32483ee0" parent="fa77c4af702d977d614421512d822686" type="folder">4</container>
+          </did>
+        </c>
+        <c id="c48200bbd904dad5fd8e645c02be72f5" level="file">
+          <did>
+            <unittitle>Hospital Construction - Miscellaneous</unittitle>
+            <unitdate normal="1946/1953" type="inclusive">1946-1953</unitdate>
+            <container id="cb55f1bbb7be4f84fc624fc46dfc20f3" label="mixed materials (179977.4.318)" type="box">4</container>
+            <container id="bf6c30476e2ad9607f332ef73648f247" parent="cb55f1bbb7be4f84fc624fc46dfc20f3" type="folder">5-6</container>
+          </did>
+        </c>
+        <c id="9391f321f8fc6c31f0ab311e23014645" level="file">
+          <did>
+            <unittitle>Hospital Construction - Bills and payment records</unittitle>
+            <container id="89e400c9090600a31de611af3dd543e4" label="mixed materials (179977.4.318)" type="box">4</container>
+            <container id="6277844d9194f4001474e11dd4113c3c" parent="89e400c9090600a31de611af3dd543e4" type="folder">7</container>
+          </did>
         </c>
         <c id="2721fac988b14f38992734558e4bba49" level="file">
           <did>
-            <unittitle>Plant Pathology building specifications in Princeton</unittitle>
+            <unittitle>Construction - Plant Pathology building specifications in Princeton</unittitle>
             <unitdate normal="1931/1931" type="inclusive">1931</unitdate>
-            <container id="c1844f80c2cdd7a019f92a520b6db2d5" label="mixed materials (179977.5.318)" type="box">5</container>
+            <container id="603d2371f4bcbc64324d7f38c77fb226" label="mixed materials (179977.5.318)" type="box">5</container>
+            <container id="7cbb156a7ad5806c3b30b5c15b2bb186" parent="603d2371f4bcbc64324d7f38c77fb226" type="folder">1</container>
           </did>
         </c>
         <c id="8f693530f0524eac9d108ef248df803c" level="file">
           <did>
-            <unittitle>Plant Pathology building in New York City</unittitle>
+            <unittitle>Construction - Plant Pathology building in New York City</unittitle>
             <unitdate normal="1947/1949" type="inclusive">1947-1949</unitdate>
-            <container id="a0cce9b3ed7fd6919ce4e64c25574903" label="mixed materials (179977.5.318)" type="box">5</container>
+            <container id="f85e274f957e9e8e28db930f8b8d22c9" label="mixed materials (179977.5.318)" type="box">5</container>
+            <container id="d365d89205fc84361c1331bcd4771b24" parent="f85e274f957e9e8e28db930f8b8d22c9" type="folder">2</container>
           </did>
           <scopecontent id="0675c53496cc35a4cee473f3712424d0">
             <head>Scope and Contents note</head>
             <p>Includes correspondence, agreements, cost statements from Coolidge, Shepley, Bullfinch &amp; Abbott; Lord &amp; Burnham; Alvord &amp; Swift; Fred Butschy Co.; Vermilya-Brown Co.</p>
           </scopecontent>
         </c>
-        <c id="e32546f09fe845e9aebccc632de53226" level="file">
+        <c id="9da2150248b140d69d70be3d72f12691" level="file">
           <did>
-            <unittitle>Corporation actions</unittitle>
-            <container id="8b1469d6002b5e19e451c572448fd5f8" label="mixed materials (179977.5.318)" type="box">5</container>
+            <unittitle>Corporate Actions - Consolidation of Princeton and New York City laboratories</unittitle>
+            <unitdate normal="1947/1948" type="inclusive">1947/1948</unitdate>
+            <container id="25597947b086a39b4be7c21bdbbaee5f" label="mixed materials (180030.5.318)" type="box">5</container>
+            <container id="b4557f0cf84c3e603ba9ab990f1f7559" parent="25597947b086a39b4be7c21bdbbaee5f" type="folder">3</container>
           </did>
-          <arrangement id="210aef778510044b04f53d2e822c87c0">
-            <head>Arrangement note</head>
-            <p>Arranged in alphabetical order.</p>
-          </arrangement>
-          <c id="9da2150248b140d69d70be3d72f12691" level="file">
-            <did>
-              <unittitle>Consolidation of Princeton and New York City laboratories</unittitle>
-              <unitdate normal="1947/1948" type="inclusive">1947/1948</unitdate>
-              <container id="5b424431684548a71c736450848da7ba" label="mixed materials (180030.5.318)" type="box">5</container>
-            </did>
-            <scopecontent id="8457e7a7af9049b39ca2ffc8d22f2544">
-              <head>Scope and Contents note</head>
-              <p>Includes background material, considerations, 1947 report from H.S. Gasser on budgetary considerations.</p>
-            </scopecontent>
-          </c>
-          <c id="53403eb5056a4d24ae85aa683eec5335" level="file">
-            <did>
-              <unittitle>Counsel</unittitle>
-              <unitdate normal="1928/1963" type="inclusive">1928-1963</unitdate>
-              <container id="87bb07c5837a9550e0953aa77ce41e04" label="mixed materials (180030.5.318)" type="box">5</container>
-            </did>
-            <scopecontent id="c41ea47a1be3ad6d3c6e26a04f5d3a5f">
-              <head>Scope and Contents note</head>
-              <p>Primarily correspondence with John E. Lockwood regarding meetings, minutes but also concerning the President's House. Some correspondence with George H.P. Dwight and some with John R.H. Blum.</p>
-            </scopecontent>
-          </c>
-          <c id="0a644b23be984305aa28ba7f9e469bca" level="file">
-            <did>
-              <unittitle>Director</unittitle>
-              <unitdate normal="1932/1952" type="inclusive">1932 1952</unitdate>
-              <container id="46ed0efff2b6a12e7d29254114766108" label="mixed materials (180030.5.318)" type="box">5</container>
-            </did>
-            <scopecontent id="8c4c0fb1173e9139c39c07509e2e68e5">
-              <head>Scope and Contents note</head>
-              <p>Correspondence and excerpts from meetings dealing with search for second Director of Institute. Also news releases and clippings. 1952 material includes report of Committee on Nomination and Review and some 1958 material on salary.</p>
-            </scopecontent>
-          </c>
-          <c id="1fda32a066454c8ba4d889f61e1f608a" level="file">
-            <did>
-              <unittitle>Endowment</unittitle>
-              <unitdate normal="1908/1951" type="inclusive">1908-1951</unitdate>
-              <container id="38e7808ab5ffe173cc545e73d8334a03" label="mixed materials (180030.5.318)" type="box">5</container>
-            </did>
-            <scopecontent id="68e58857ddeca6c1f32a3ee43ab9c860">
-              <head>Scope and Contents note</head>
-              <p>Correspondence, excerpts from Minutes and summaries dealing with endowments made by John D. Rockefeller, John D. Rockefeller, Jr., Rockefeller Foundation and General Education Board.</p>
-            </scopecontent>
-          </c>
-          <c id="085aeb723fbc4f0b8e1f2736a6faa739" level="file">
-            <did>
-              <unittitle>Endowment. Henry Rutherford Bequest for Cancer work</unittitle>
-              <unitdate normal="1913/1949" type="inclusive">1913-1949</unitdate>
-              <container id="fbbe7f024ba906e8da73aaf142bd6e64" label="mixed materials (180030.5.318)" type="box">5</container>
-            </did>
-          </c>
-          <c id="e81842ea5053493e9cef32dcfa35ee48" level="file">
-            <did>
-              <unittitle>Finance Committee</unittitle>
-              <unitdate normal="1937/1955" type="inclusive">1937-1955</unitdate>
-              <container id="cb997ea83f38e730f2fa7ddd3187d89f" label="mixed materials (180030.5.318)" type="box">5</container>
-            </did>
-            <scopecontent id="1a2e45325cb537586170e82644012a2e">
-              <head>Scope and Contents note</head>
-              <p>Budgetary plans including estimates of income and planned expenditures presented for consideration of finance committee. Includes excerpts and resolutions from Board of Trustees Minutes, 1925-1957.</p>
-            </scopecontent>
-          </c>
-          <c id="a787b0c42a0b43cdb13115ad8937fa94" level="file">
-            <did>
-              <unittitle>Treasurer's Office (Edward Robinson; Robert Letort)</unittitle>
-              <unitdate normal="1954/1956" type="inclusive">1954-1956</unitdate>
-              <container id="15e397460aa69d3aaf6fe781ae4b1c7f" label="mixed materials (180030.6.318)" type="box">6</container>
-            </did>
-          </c>
-          <c id="df15722f23ab470aba951f273d5d5976" level="file">
-            <did>
-              <unittitle>Treasurer's Office (Lindsley P. Kimball; William Dietz)</unittitle>
-              <unitdate normal="1959/1960" type="inclusive">1959-1960</unitdate>
-              <container id="8baa90c2f7e0617a5fd6c85ba24c35de" label="mixed materials (180030.6.318)" type="box">6</container>
-            </did>
-            <scopecontent id="8c4f2caafa904e43ccde534df40813ca">
-              <head>Scope and Contents note</head>
-              <p>Correspondence on budget and income; statements and financial reports.</p>
-            </scopecontent>
-          </c>
-          <c id="6bbba43baf974d0db09fe28092808a36" level="file">
-            <did>
-              <unittitle>Underwriting Fund against grants</unittitle>
-              <unitdate normal="1956/1962" type="inclusive">1956/1957-1961/1962</unitdate>
-              <container id="f689c50a8c8663ed28e0890011fdeee0" label="mixed materials (180030.6.318)" type="box">6</container>
-            </did>
-          </c>
+          <scopecontent id="8457e7a7af9049b39ca2ffc8d22f2544">
+            <head>Scope and Contents note</head>
+            <p>Includes background material, considerations, 1947 report from H.S. Gasser on budgetary considerations.</p>
+          </scopecontent>
+        </c>
+        <c id="53403eb5056a4d24ae85aa683eec5335" level="file">
+          <did>
+            <unittitle>Corporation Actions - Counsel</unittitle>
+            <unitdate normal="1928/1963" type="inclusive">1928-1963</unitdate>
+            <container id="1440c39639354b9a4b5171e0c3d731ad" label="mixed materials (180030.5.318)" type="box">5</container>
+            <container id="93a7563619d4b6fed7846a4b5ad19b33" parent="1440c39639354b9a4b5171e0c3d731ad" type="folder">4</container>
+          </did>
+          <scopecontent id="c41ea47a1be3ad6d3c6e26a04f5d3a5f">
+            <head>Scope and Contents note</head>
+            <p>Primarily correspondence with John E. Lockwood regarding meetings, minutes but also concerning the President's House. Some correspondence with George H.P. Dwight and some with John R.H. Blum.</p>
+          </scopecontent>
+        </c>
+        <c id="0a644b23be984305aa28ba7f9e469bca" level="file">
+          <did>
+            <unittitle>Corporation Actions - Director</unittitle>
+            <unitdate normal="1932/1952" type="inclusive">1932 1952</unitdate>
+            <container id="6f9e08124b9f0676ceaf60e4247290c2" label="mixed materials (180030.5.318)" type="box">5</container>
+            <container id="b609b31677279c769d3e22097bcdc623" parent="6f9e08124b9f0676ceaf60e4247290c2" type="folder">5</container>
+          </did>
+          <scopecontent id="8c4c0fb1173e9139c39c07509e2e68e5">
+            <head>Scope and Contents note</head>
+            <p>Correspondence and excerpts from meetings dealing with search for second Director of Institute. Also news releases and clippings. 1952 material includes report of Committee on Nomination and Review and some 1958 material on salary.</p>
+          </scopecontent>
+        </c>
+        <c id="1fda32a066454c8ba4d889f61e1f608a" level="file">
+          <did>
+            <unittitle>Corporation Actions - Endowment</unittitle>
+            <unitdate normal="1908/1951" type="inclusive">1908-1951</unitdate>
+            <container id="6cbf5410e8399abb095ea9688ebbbe31" label="mixed materials (180030.5.318)" type="box">5</container>
+            <container id="1a6766d183cb5610bff74353fc8d7f19" parent="6cbf5410e8399abb095ea9688ebbbe31" type="folder">6</container>
+          </did>
+          <scopecontent id="68e58857ddeca6c1f32a3ee43ab9c860">
+            <head>Scope and Contents note</head>
+            <p>Correspondence, excerpts from Minutes and summaries dealing with endowments made by John D. Rockefeller, John D. Rockefeller, Jr., Rockefeller Foundation and General Education Board.</p>
+          </scopecontent>
+        </c>
+        <c id="085aeb723fbc4f0b8e1f2736a6faa739" level="file">
+          <did>
+            <unittitle>Corporation Actions - Endowment. Henry Rutherford Bequest for Cancer work</unittitle>
+            <unitdate normal="1913/1949" type="inclusive">1913-1949</unitdate>
+            <container id="3927d1b30535d08f2ab6dd13812111d1" label="mixed materials (180030.5.318)" type="box">5</container>
+            <container id="d32f797ae73bcc4dd8564a65721e9207" parent="3927d1b30535d08f2ab6dd13812111d1" type="folder">7</container>
+          </did>
+        </c>
+        <c id="e81842ea5053493e9cef32dcfa35ee48" level="file">
+          <did>
+            <unittitle>Corporation Actions - Finance Committee</unittitle>
+            <unitdate normal="1937/1955" type="inclusive">1937-1955</unitdate>
+            <container id="613af46bbb89c7820f0ebba786e98d2f" label="mixed materials (180030.5.318)" type="box">5</container>
+            <container id="9422137e187c47d34eab96c6fd8e213c" parent="613af46bbb89c7820f0ebba786e98d2f" type="folder">8</container>
+          </did>
+          <scopecontent id="1a2e45325cb537586170e82644012a2e">
+            <head>Scope and Contents note</head>
+            <p>Budgetary plans including estimates of income and planned expenditures presented for consideration of finance committee. Includes excerpts and resolutions from Board of Trustees Minutes, 1925-1957.</p>
+          </scopecontent>
+        </c>
+        <c id="a787b0c42a0b43cdb13115ad8937fa94" level="file">
+          <did>
+            <unittitle>Corporation Actions - Treasurer's Office (Edward Robinson; Robert Letort)</unittitle>
+            <unitdate normal="1954/1956" type="inclusive">1954-1956</unitdate>
+            <container id="c0b1aae152d1408c14c00a6647b997b4" label="mixed materials (180030.6.318)" type="box">6</container>
+          </did>
+        </c>
+        <c id="df15722f23ab470aba951f273d5d5976" level="file">
+          <did>
+            <unittitle>Corporation Actions - Treasurer's Office (Lindsley P. Kimball; William Dietz)</unittitle>
+            <unitdate normal="1959/1960" type="inclusive">1959-1960</unitdate>
+            <container id="5016566a8bdbf0d187fe11fd10229e7b" label="mixed materials (180030.6.318)" type="box">6</container>
+          </did>
+          <scopecontent id="8c4f2caafa904e43ccde534df40813ca">
+            <head>Scope and Contents note</head>
+            <p>Correspondence on budget and income; statements and financial reports.</p>
+          </scopecontent>
+        </c>
+        <c id="6bbba43baf974d0db09fe28092808a36" level="file">
+          <did>
+            <unittitle>Corporation Actions - Underwriting Fund against grants</unittitle>
+            <unitdate normal="1956/1962" type="inclusive">1956/1957-1961/1962</unitdate>
+            <container id="099eb8d3b79e31b4bd5bbae4d57094a3" label="mixed materials (180030.6.318)" type="box">6</container>
+          </did>
         </c>
         <c id="af989bf9d81e4a42a777c73209ea4fb0" level="file">
           <did>
             <unittitle>Deferred Liabilities Reserve (lacks 1959) Primarily correspondence between W.R. Flinn and Bursar including requests for hold over from various laboratories and signed approvals by D.W. Bronk for hold-over amounts</unittitle>
             <unitdate normal="1956/1962" type="inclusive">1956-1962</unitdate>
-            <container id="8ebecdfb2fba0efb572e7169b76fb4d0" label="mixed materials (179977.6.318)" type="box">6</container>
+            <container id="fb3e149e412c80c8e961896e3ad4f82c" label="mixed materials (179977.6.318)" type="box">6</container>
           </did>
         </c>
         <c id="1da475fb5d5646adb3d26c63b7619d0b" level="file">
           <did>
             <unittitle>Descriptive pamphlet Correspondence about various editions</unittitle>
-            <container id="f49568b91fc5809f0d69bdd52e40fdc5" label="mixed materials (179977.6.318)" type="box">6</container>
+            <container id="97b1f2a42d3132135c837e1253013418" label="mixed materials (179977.6.318)" type="box">6</container>
           </did>
           <scopecontent id="5d86535f93249ab93e03329916c5bf11">
             <head>Scope and Contents note</head>
@@ -613,7 +510,7 @@
           <did>
             <unittitle>Dining facilities</unittitle>
             <unitdate normal="1929/1954" type="inclusive">1929-1954</unitdate>
-            <container id="51a68db14fb8cbf808c6cb734f1846e8" label="mixed materials (179977.6.318)" type="box">6</container>
+            <container id="843715f146949e71ded8094189b23d61" label="mixed materials (179977.6.318)" type="box">6</container>
           </did>
           <scopecontent id="16fdc0a52f0d2f35de36e26363285a44">
             <head>Scope and Contents note</head>
@@ -624,7 +521,7 @@
           <did>
             <unittitle>Dining facilities</unittitle>
             <unitdate normal="1949/1963" type="inclusive">1949-1963</unitdate>
-            <container id="d18952dc32566fb9d54c4fd4befcacd8" label="mixed materials (179977.6.318)" type="box">6</container>
+            <container id="fba9e712785500f5f3da66b5c12b0190" label="mixed materials (179977.6.318)" type="box">6</container>
           </did>
           <scopecontent id="cec37d05dab24fe2107e7291e88e4d88">
             <head>Scope and Contents note</head>
@@ -635,7 +532,7 @@
           <did>
             <unittitle>Dining facilities</unittitle>
             <unitdate normal="1957/1961" type="inclusive">1957-1961</unitdate>
-            <container id="7bef1ee1953af2906bc5c5ce33ec2253" label="mixed materials (179977.7.318)" type="box">7</container>
+            <container id="b6e90f80fe366a3697322bc820666bfe" label="mixed materials (179977.7.318)" type="box">7</container>
           </did>
           <scopecontent id="0d9f95c40fbe117ea099a7608b98fd8b">
             <head>Scope and Contents note</head>
@@ -646,7 +543,7 @@
           <did>
             <unittitle>Director's Apartment</unittitle>
             <unitdate normal="1931/1953" type="inclusive">1931-1953</unitdate>
-            <container id="d1cde8fe49d7489a7d1d960357848774" label="mixed materials (179977.7.318)" type="box">7</container>
+            <container id="dc5a10c6b721e030b901c2c757418380" label="mixed materials (179977.7.318)" type="box">7</container>
           </did>
           <scopecontent id="3613800e4bfad0d948d83cc7a045f917">
             <head>Scope and Contents note</head>
@@ -656,7 +553,7 @@
         <c id="9454eb4eb3524fb5bce62674dd7e25b4" level="file">
           <did>
             <unittitle>Electrocardiogram</unittitle>
-            <container id="7c219755db277ac800911ab9492192c0" label="mixed materials (179977.7.318)" type="box">7</container>
+            <container id="f81e54e5013c97920eb5a014958afb6f" label="mixed materials (179977.7.318)" type="box">7</container>
           </did>
           <scopecontent id="6f9d9360ec8adfb1d58b47dad9ebcc65">
             <head>Scope and Contents note</head>
@@ -666,7 +563,7 @@
         <c id="6d48e2dd290d4fbe97eeeb5f88dc2ec1" level="file">
           <did>
             <unittitle>Employee workman's compensation</unittitle>
-            <container id="55dec9d061b7aea1245730bdcd7b71b8" label="mixed materials (179977.7.318)" type="box">7</container>
+            <container id="152755c62f1f85535e61440ab48c7f1c" label="mixed materials (179977.7.318)" type="box">7</container>
           </did>
           <c id="5df726c850ac458482475eaa3651d150" level="file">
             <did>
@@ -685,7 +582,7 @@
           <did>
             <unittitle>Faculty appointments</unittitle>
             <unitdate normal="1958/1961" type="inclusive">1958-1961</unitdate>
-            <container id="ff58f9077027c68387f6f29fd973dd88" label="mixed materials (179977.7.318)" type="box">7</container>
+            <container id="5cde617b333ca0be36d135b779a0d083" label="mixed materials (179977.7.318)" type="box">7</container>
           </did>
           <scopecontent id="83b4f3b8d466891c4c384569998c4c42">
             <head>Scope and Contents note</head>
@@ -700,7 +597,7 @@
           <did>
             <unittitle>International Health Division</unittitle>
             <unitdate normal="1931/1950" type="inclusive">1931-1950</unitdate>
-            <container id="57d7a73e4073cbe3381c95316304ec92" label="mixed materials (179977.7.318)" type="box">7</container>
+            <container id="1437fec22739dbc888454ecbd5b2913b" label="mixed materials (179977.7.318)" type="box">7</container>
           </did>
           <scopecontent id="0bf71aebaaa97da4202da4f34a85abf3">
             <head>Scope and Contents note</head>
@@ -711,14 +608,14 @@
           <did>
             <unittitle>Neighborhood Development</unittitle>
             <unitdate normal="1925/1951" type="inclusive">1925-1951</unitdate>
-            <container id="22b5cb07fb258bc105e20d25971da829" label="mixed materials (179977.7.318)" type="box">7</container>
+            <container id="b1032039528410554fbdac0e002f9275" label="mixed materials (179977.7.318)" type="box">7</container>
           </did>
         </c>
         <c id="ac2963d060904c66ac03920f1011aeae" level="file">
           <did>
             <unittitle>O (Various); Pavlov, Ivan</unittitle>
             <unitdate normal="1921/1925" type="inclusive">1921-1925</unitdate>
-            <container id="7c7565f5e76a92243089ea4d767a4750" label="mixed materials (179977.7.318)" type="box">7</container>
+            <container id="05aff2d35ea7a53f0625922351b97852" label="mixed materials (179977.7.318)" type="box">7</container>
           </did>
           <scopecontent id="26c46050a8240867bde4ffbba6a5802a">
             <head>Scope and Contents note</head>
@@ -728,7 +625,7 @@
         <c id="8967034225004ab1b8702bedce4f23da" level="file">
           <did>
             <unittitle>Retirement; Pension plans</unittitle>
-            <container id="fd7b7bf0398952dfc805c857edb26fa6" label="mixed materials (179977.8.318)" type="box">8</container>
+            <container id="05a82715134e8c592f82655bd6f23885" label="mixed materials (179977.8.318)" type="box">8</container>
           </did>
           <c id="98f3835ddf6c41998e21981a8a4d916e" level="file">
             <did>
@@ -787,13 +684,13 @@
         <c id="6c81d92f46e94d7fb3764055a653daa1" level="file">
           <did>
             <unittitle>Scientific annual reports. Changes in form</unittitle>
-            <container id="fe523de878c349e46b1e44be164dc20a" label="mixed materials (179977.8.318)" type="box">8</container>
+            <container id="c18427e4daa481682f3859ab1fc8f858" label="mixed materials (179977.8.318)" type="box">8</container>
           </did>
         </c>
         <c id="e0749e403dca4297bd3c855b1f5febbc" level="file">
           <did>
             <unittitle>Scientific staff listings</unittitle>
-            <container id="c3b82788452d28a71ff50893d3c65da1" label="mixed materials (179977.8.318)" type="box">8</container>
+            <container id="f4bd187bbd39b456e190ca88f3f487a5" label="mixed materials (179977.8.318)" type="box">8</container>
           </did>
           <scopecontent id="1e63b478fabd3505c7647c9838490eca">
             <head>Scope and Contents note</head>
@@ -814,21 +711,21 @@
           <did>
             <unittitle>Scientific staff, correspondence regarding travel allowances</unittitle>
             <unitdate normal="1920/1949" type="inclusive">1920-1949</unitdate>
-            <container id="0e5ec8e70a335f923bb71117eb868796" label="mixed materials (179977.8.318)" type="box">8</container>
+            <container id="28b1399cac0cca2bcc31857f29bbc51e" label="mixed materials (179977.8.318)" type="box">8</container>
           </did>
         </c>
         <c id="adf35f70210544a49dd6418d606955a6" level="file">
           <did>
             <unittitle>Scientific staff, addresses of former RI scientists; Summer addresses of scientific staff</unittitle>
             <unitdate normal="1932/1939" type="inclusive">1932-1939</unitdate>
-            <container id="1800bc129e475ba495c662a5244af249" label="mixed materials (179977.8.318)" type="box">8</container>
+            <container id="89411439e33f3ca0edaa2418b4f3674f" label="mixed materials (179977.8.318)" type="box">8</container>
           </did>
         </c>
         <c id="3843c99980d346ffb96582482ce72854" level="file">
           <did>
             <unittitle>Scientific staff</unittitle>
             <unitdate normal="1930/1946" type="inclusive">1930-1941 1946</unitdate>
-            <container id="efbfa11b55e2ab83512f3176f2c51fd6" label="mixed materials (179977.9.318)" type="box">9</container>
+            <container id="37652dffc150ae541c5394b16fed589d" label="mixed materials (179977.9.318)" type="box">9</container>
           </did>
           <scopecontent id="14f55f1b180bd110005e9954e21b4df2">
             <head>Scope and Contents note</head>
@@ -839,7 +736,7 @@
           <did>
             <unittitle>Sigerist, Henry</unittitle>
             <unitdate normal="1916/1937" type="inclusive">1916-1937</unitdate>
-            <container id="05a98738be528cce09f54005d157d9c7" label="mixed materials (179977.9.318)" type="box">9</container>
+            <container id="46fe07ac228059fecf82e43aebebde23" label="mixed materials (179977.9.318)" type="box">9</container>
           </did>
           <scopecontent id="cfb203ac0a61e8f9fddd28ec912553ef">
             <head>Scope and Contents note</head>
@@ -850,7 +747,7 @@
           <did>
             <unittitle>Smithsonian Institution</unittitle>
             <unitdate normal="1912/1942" type="inclusive">1912-1942</unitdate>
-            <container id="dfd566cfdfc537e1bdcb2812ce19546a" label="mixed materials (179977.9.318)" type="box">9</container>
+            <container id="e82fdd605532c1c98a7cd89644fc0bba" label="mixed materials (179977.9.318)" type="box">9</container>
           </did>
           <scopecontent id="66db6821cb40ea1c5863b2fae45308cc">
             <head>Scope and Contents note</head>
@@ -861,14 +758,14 @@
           <did>
             <unittitle>Society of American Bacteriologists meeting announcement</unittitle>
             <unitdate normal="1952/1952" type="inclusive">1952</unitdate>
-            <container id="467316a35585033b1105eb9c26eadd28" label="mixed materials (179977.9.318)" type="box">9</container>
+            <container id="c348e58d58909ff1332891710baa8dff" label="mixed materials (179977.9.318)" type="box">9</container>
           </did>
         </c>
         <c id="3702215bd90c4376bc60018b1e167570" level="file">
           <did>
             <unittitle>Students</unittitle>
             <unitdate normal="1955/1961" type="inclusive">1955-1961</unitdate>
-            <container id="20fc345d182f2d85334fc65c45a33b9d" label="mixed materials (179977.9.318)" type="box">9</container>
+            <container id="97f122263fa48cc055cbbf883f4ecfa1" label="mixed materials (179977.9.318)" type="box">9</container>
           </did>
           <scopecontent id="a53edbe608d94025570c712289092441">
             <head>Scope and Contents note</head>
@@ -912,14 +809,14 @@
             <did>
               <unittitle>Reception given by Dr. and Mrs. Flexner, Cole T. Smith and Henry James</unittitle>
               <unitdate>1917 January 12</unitdate>
-              <container id="96ba3fa8cab010312771c816a3dbd30a" label="mixed materials (180077.9.318)" type="box">9</container>
+              <container id="a01acc066b092a9d62296c359c3b2fb0" label="mixed materials (180077.9.318)" type="box">9</container>
             </did>
           </c>
           <c id="6ef88e76806a4318973359a4dbb6e1db" level="file">
             <did>
               <unittitle>Reception in honor of 20th anniversary given by Mrs. Flexner for Scientific Directors</unittitle>
               <unitdate>1922 January 20</unitdate>
-              <container id="31f1de1605dd02977553361b3d0d7b55" label="mixed materials (180077.9.318)" type="box">9</container>
+              <container id="bdb7badb040accb63ccfbb82c029782c" label="mixed materials (180077.9.318)" type="box">9</container>
             </did>
             <scopecontent id="fc26f3decb8d889e3f1ab47d1393680c">
               <head>Scope and Contents note</head>
@@ -930,42 +827,42 @@
             <did>
               <unittitle>Plans for Dinner Dance to be given by Dr. and Mrs. Flexner. Cancelled because of S. Flexner illness</unittitle>
               <unitdate>1929 May 4</unitdate>
-              <container id="c83a5e02d6750ab942415d4aeaa1b542" label="mixed materials (180077.9.318)" type="box">9</container>
+              <container id="1fb9ac4187a0b868ee9ca98550744e60" label="mixed materials (180077.9.318)" type="box">9</container>
             </did>
           </c>
           <c id="e03874d0591644c092fab3c3f98f89b1" level="file">
             <did>
               <unittitle>Plans for American Laboratory Theatre performance arranged by Dr. and Mrs. Flexner. Postponed</unittitle>
               <unitdate>1930 May 2</unitdate>
-              <container id="532e910257af74b493daa50db9e3fe28" label="mixed materials (180077.9.318)" type="box">9</container>
+              <container id="53b616c658d2d1b476f1d5e8aa76869c" label="mixed materials (180077.9.318)" type="box">9</container>
             </did>
           </c>
           <c id="710d346ce50747cf82d7cda77a9e2573" level="file">
             <did>
               <unittitle>Supper given by Dr. and Mrs. Flexner to meet Board of Scientific Directors</unittitle>
               <unitdate>1931 January 16</unitdate>
-              <container id="23358b1f2a8605a64e36cfb964c6feab" label="mixed materials (180077.9.318)" type="box">9</container>
+              <container id="c89d1dfea9e84ec22bec3147944d8230" label="mixed materials (180077.9.318)" type="box">9</container>
             </did>
           </c>
           <c id="f63dbf4b090d4668a2fba85c9a055d91" level="file">
             <did>
               <unittitle>Dr. and Mrs. S. Flexner At Home</unittitle>
               <unitdate>1932 April 8</unitdate>
-              <container id="23db38e3a333f5af8588166bd40fdf93" label="mixed materials (180077.9.318)" type="box">9</container>
+              <container id="ee7815ea7c73d71f995760851ae323ee" label="mixed materials (180077.9.318)" type="box">9</container>
             </did>
           </c>
           <c id="835476b4280e40d890099e2c7256a17a" level="file">
             <did>
               <unittitle>Dinner Dance given by Dr. and Mrs. Flexner</unittitle>
               <unitdate>1932 December 3</unitdate>
-              <container id="1365952df0cceca34dce2ec70d63fa66" label="mixed materials (180077.9.318)" type="box">9</container>
+              <container id="c79a9c04293a7126d1b45d8e4daf69eb" label="mixed materials (180077.9.318)" type="box">9</container>
             </did>
           </c>
           <c id="af5892bb77404ce7abde5b6e35db3c9b" level="file">
             <did>
               <unittitle>Reception by John D. Rockefeller, Jr. for Dr. S. Flexner</unittitle>
               <unitdate>1935 October 7</unitdate>
-              <container id="f78706a81fa19bb7b8b2d2410c73be64" label="mixed materials (180077.9.318)" type="box">9</container>
+              <container id="5898582cc2da2b0c2d541e69397fae3a" label="mixed materials (180077.9.318)" type="box">9</container>
             </did>
             <scopecontent id="a9b2b89ad226fac909a8d95aa7ad8b8b">
               <head>Scope and Contents note</head>
@@ -976,7 +873,7 @@
             <did>
               <unittitle>Physiological Congress (13th)</unittitle>
               <unitdate>1929 August 28</unitdate>
-              <container id="342e713f770a9b1e25092724d29d8b2d" label="mixed materials (180077.9.318)" type="box">9</container>
+              <container id="826653ac544deef30b9c0ef3d61f7080" label="mixed materials (180077.9.318)" type="box">9</container>
             </did>
             <scopecontent id="addab304f8829cc22c1380fc9faf69a8">
               <head>Scope and Contents note</head>
@@ -987,28 +884,28 @@
             <did>
               <unittitle>Karl Sudhoff lecture</unittitle>
               <unitdate>1929 October 22</unitdate>
-              <container id="340f33249d0f0350f90614367312330b" label="mixed materials (180077.9.318)" type="box">9</container>
+              <container id="9ce498aa85db219f6f798407451af4ac" label="mixed materials (180077.9.318)" type="box">9</container>
             </did>
           </c>
           <c id="070eb6e2f760432c99e550e4a21b3390" level="file">
             <did>
               <unittitle>Charles Singer lecture</unittitle>
               <unitdate>1930 May 13</unitdate>
-              <container id="133f6949ef8b6a68f23d64491e73d8f8" label="mixed materials (180077.9.318)" type="box">9</container>
+              <container id="c2a1e980de0bf529fffa17da68343147" label="mixed materials (180077.9.318)" type="box">9</container>
             </did>
           </c>
           <c id="44cc9301b4b84ba3b7efd5516f345884" level="file">
             <did>
               <unittitle>Henry E. Sigerest Lecture</unittitle>
               <unitdate>1931 November 11</unitdate>
-              <container id="856014b23b406f6722f13313c6c9b206" label="mixed materials (180077.9.318)" type="box">9</container>
+              <container id="a1ad804ec23397446603c513716204d0" label="mixed materials (180077.9.318)" type="box">9</container>
             </did>
           </c>
           <c id="340b369de2cf4196b0219a88cf3355b0" level="file">
             <did>
               <unittitle>William H. Welch sound film made in 1932 but exhibited in 1933 and again in 1942 February 6</unittitle>
               <unitdate>1933 January 18</unitdate>
-              <container id="25c41aade475de7d48f6ba5664106e24" label="mixed materials (180077.10.318)" type="box">10</container>
+              <container id="af3ec34084f2008cd534537134830e5b" label="mixed materials (180077.10.318)" type="box">10</container>
             </did>
             <accessrestrict id="95f7144767b8a30cf27ec80d55c4c2e7">
               <head>Conditions Governing Access</head>
@@ -1027,14 +924,14 @@
             <did>
               <unittitle>Reception to meet H.S. Gasser</unittitle>
               <unitdate>1935 November 26</unitdate>
-              <container id="cca2f2090160cccc307da1ec701799af" label="mixed materials (180077.10.318)" type="box">10</container>
+              <container id="898f283722c92c4fcf5df3f8acbcacbb" label="mixed materials (180077.10.318)" type="box">10</container>
             </did>
           </c>
           <c id="372dc442becb4ce9bf08d9fbe9bc8263" level="file">
             <did>
               <unittitle>Luncheons for Staff, Directors, Board usually including a speaker</unittitle>
               <unitdate normal="1919/1953" type="inclusive">1919-1953</unitdate>
-              <container id="a4792f8732ade743bdaca6adc3876307" label="mixed materials (180077.10.318)" type="box">10</container>
+              <container id="922ee34cf91a56d1d2213bb9d99d1664" label="mixed materials (180077.10.318)" type="box">10</container>
             </did>
             <scopecontent id="407660810b74f28d4c1b01c8c9c5ab51">
               <head>Scope and Contents note</head>
@@ -1045,28 +942,28 @@
             <did>
               <unittitle>Professor Einthoven of Leyden</unittitle>
               <unitdate>1924 November 26</unitdate>
-              <container id="54482b452fff17ecd176f5ffadb99e5d" label="mixed materials (180077.10.318)" type="box">10</container>
+              <container id="a82f6f8de5905d4ba312d2d0d9efbb9f" label="mixed materials (180077.10.318)" type="box">10</container>
             </did>
           </c>
           <c id="ba4fc666af2a46c78f5651d3892ae473" level="file">
             <did>
               <unittitle>In honor of P.A.T. Levene</unittitle>
               <unitdate>1930 January 13</unitdate>
-              <container id="bb1ceb10a5afda471d08d37264631e5a" label="mixed materials (180077.10.318)" type="box">10</container>
+              <container id="482e8b14f815d04f9f667456f65d1cc2" label="mixed materials (180077.10.318)" type="box">10</container>
             </did>
           </c>
           <c id="ffef1c7ae8c443b380ac31247183b0e9" level="file">
             <did>
               <unittitle>American Chemical Society Medicinal and Biological sections</unittitle>
               <unitdate>1935 April 26</unitdate>
-              <container id="f0df8af91e65ffa69c87115b58d49202" label="mixed materials (180077.10.318)" type="box">10</container>
+              <container id="2112b450b63125d0fff883f1f7367f9e" label="mixed materials (180077.10.318)" type="box">10</container>
             </did>
           </c>
           <c id="009cc0dd131d4f4080f0e0e28a5ae494" level="file">
             <did>
               <unittitle>Pasteur Vallery-Radot</unittitle>
               <unitdate>1935 May 10</unitdate>
-              <container id="749ac38bbf7288d5590dd822283fdd4e" label="mixed materials (180077.10.318)" type="box">10</container>
+              <container id="cd3a7b9161a4b5fc2490c6f8bbf7343f" label="mixed materials (180077.10.318)" type="box">10</container>
             </did>
             <scopecontent id="3c3bf9af7c3448a5b76bd067e77c4688">
               <head>Scope and Contents note</head>
@@ -1077,7 +974,7 @@
             <did>
               <unittitle>Reception for 3rd International Congress of Microbiology. Dr. Rivers President</unittitle>
               <unitdate>1939 September 4</unitdate>
-              <container id="a7c633e9940d41034472f9be59c7de9c" label="mixed materials (180077.10.318)" type="box">10</container>
+              <container id="e0d675a256937e1684398727c3c4342b" label="mixed materials (180077.10.318)" type="box">10</container>
             </did>
             <scopecontent id="5014d0b23bab640495178edbb5ac13e2">
               <head>Scope and Contents note</head>
@@ -1088,7 +985,7 @@
             <did>
               <unittitle>American Chemical Society smoker</unittitle>
               <unitdate>1947 September 18 1951 September 7</unitdate>
-              <container id="1bb768ae769b4c7c575f5d0ceb59fee2" label="mixed materials (180077.10.318)" type="box">10</container>
+              <container id="0e965032f33271db9af9843889794393" label="mixed materials (180077.10.318)" type="box">10</container>
             </did>
             <scopecontent id="90e98e1ce9092ac46f45fa64f2327851">
               <head>Scope and Contents note</head>
@@ -1099,7 +996,7 @@
             <did>
               <unittitle>Correspondence dealing with reserving rooms for various groups meeting at the Institute including seminars, guest lectures, luncheon meetings, "Growth" discussion group</unittitle>
               <unitdate normal="1948/1958" type="inclusive">1948-1958</unitdate>
-              <container id="6e7a420ccf3a6e6fda711617a294d6f5" label="mixed materials (180077.10.318)" type="box">10</container>
+              <container id="db8e5684975c148a89d0d6ed10d913b6" label="mixed materials (180077.10.318)" type="box">10</container>
             </did>
             <scopecontent id="7ca5c75c2bca56c52b8084a95f8670af">
               <head>Scope and Contents note</head>
@@ -1110,14 +1007,14 @@
             <did>
               <unittitle>Testimonial dinner for Dr. Gasser given at the University Club. Invitations sent by David Rockefeller</unittitle>
               <unitdate>1953 June 30</unitdate>
-              <container id="241bc4fc4ea340a4ac35656b7e336015" label="mixed materials (180077.10.318)" type="box">10</container>
+              <container id="f3386ab8080c4f8ec839f722ff4b4aeb" label="mixed materials (180077.10.318)" type="box">10</container>
             </did>
           </c>
           <c id="1e2383a435594f7dae188707ee06d8f5" level="file">
             <did>
               <unittitle>Reception for D.W. Bronk</unittitle>
               <unitdate>1954 January 22</unitdate>
-              <container id="efbd889846db4f080db1b1f17875ecf8" label="mixed materials (180077.10.318)" type="box">10</container>
+              <container id="6b9eafaa1e43337653cfecbef25120a6" label="mixed materials (180077.10.318)" type="box">10</container>
             </did>
             <scopecontent id="6173cf770dbe8d5c358462b0623996d1">
               <head>Scope and Contents note</head>
@@ -1128,7 +1025,7 @@
             <did>
               <unittitle>50th anniversary celebration of Institute's first laboratory building</unittitle>
               <unitdate>1954 October 15</unitdate>
-              <container id="68fa01acfb0ffa6b6f20b52819c6bbdd" label="mixed materials (180077.10.318)" type="box">10</container>
+              <container id="6d98406b17d631cffe8fa24925091dd3" label="mixed materials (180077.10.318)" type="box">10</container>
             </did>
             <scopecontent id="e5d7615145f7216487e82db91c20a18f">
               <head>Scope and Contents note</head>
@@ -1139,7 +1036,7 @@
             <did>
               <unittitle>Faculty/Student teas</unittitle>
               <unitdate normal="1954/1961" type="inclusive">1954-1961</unitdate>
-              <container id="335473710ba29f704085870840fadab4" label="mixed materials (180077.10.318)" type="box">10</container>
+              <container id="738d740c54f9084cbcd54e82252e500d" label="mixed materials (180077.10.318)" type="box">10</container>
             </did>
             <scopecontent id="ca926dc11e05e32bd39e78eee5d14868">
               <head>Scope and Contents note</head>
@@ -1150,7 +1047,7 @@
             <did>
               <unittitle>Society of American Bacteriologists</unittitle>
               <unitdate>1955 May 9</unitdate>
-              <container id="4e77f6542caadcbfb8c37f958f4084ad" label="mixed materials (180077.10.318)" type="box">10</container>
+              <container id="20b971d19830b7c2ae2109f441cf5ed2" label="mixed materials (180077.10.318)" type="box">10</container>
             </did>
             <scopecontent id="458d5fb57d2af8a5ec6abefdd3245d38">
               <head>Scope and Contents note</head>
@@ -1161,21 +1058,21 @@
             <did>
               <unittitle>Farewell party for Dr. Rivers and E.B. Smith on their retirement</unittitle>
               <unitdate>1955 October 20</unitdate>
-              <container id="043e1ebb39bd9917734e61213bce2083" label="mixed materials (180077.11.318)" type="box">11</container>
+              <container id="b2b0893ef1aa12f08640100b715d355b" label="mixed materials (180077.11.318)" type="box">11</container>
             </did>
           </c>
           <c id="727641fb671b4f1f9a75ebba1e9a726d" level="file">
             <did>
               <unittitle>Tea for Dr. Rivers and Dr. Gasser</unittitle>
               <unitdate>1958 January 17</unitdate>
-              <container id="5ae4b85c2cc9439a430c8e3e031f2a15" label="mixed materials (180077.11.318)" type="box">11</container>
+              <container id="3c63fc27e0f0bbb001c2b22b9cc96aaf" label="mixed materials (180077.11.318)" type="box">11</container>
             </did>
           </c>
           <c id="bcb9807e4d9b4ebf9f3d12e8f8819d98" level="file">
             <did>
               <unittitle>Christmas parties: 1955, 1956, 1957, 1958</unittitle>
               <unitdate normal="1955/1962" type="inclusive">1955-1962</unitdate>
-              <container id="4c5f245e3ce7653c7cb269607cbcbf47" label="mixed materials (180077.11.318)" type="box">11</container>
+              <container id="fd71a630c21c2f867d7accbc4e9b38e6" label="mixed materials (180077.11.318)" type="box">11</container>
             </did>
             <scopecontent id="4ec6e5196f9081cc5058a26ac9667803">
               <head>Scope and Contents note</head>
@@ -1186,7 +1083,7 @@
             <did>
               <unittitle>Events assorted by date held at Rockefeller Institute but not necessarily sponsored by RI</unittitle>
               <unitdate normal="1955/1962" type="inclusive">1955-1962</unitdate>
-              <container id="42a76a08843ca8a646a355453f5c40a2" label="mixed materials (180077.11.318)" type="box">11</container>
+              <container id="175cfd790e6a860b894e59347e85fa18" label="mixed materials (180077.11.318)" type="box">11</container>
             </did>
             <c id="b7aa403be0104a0794413d8e69f851ad" level="file">
               <did>
@@ -1301,7 +1198,7 @@
             <did>
               <unittitle>Medical Electronics</unittitle>
               <unitdate normal="1955/1963" type="inclusive">1955-1963</unitdate>
-              <container id="d16cf0408cec37d026666fb8cc4b23d0" label="mixed materials (180077.11.318)" type="box">11</container>
+              <container id="1c6a1f6bc0cb66d4edfe97e014adacf4" label="mixed materials (180077.11.318)" type="box">11</container>
             </did>
             <scopecontent id="c7985201882500cc0ff369ca929ee6ee">
               <head>Scope and Contents note</head>
@@ -1312,21 +1209,21 @@
             <did>
               <unittitle>National Academy of Sciences</unittitle>
               <unitdate>1957 November 18-20</unitdate>
-              <container id="d51ee003b8191bf0694f1bec93fe0c3e" label="mixed materials (180077.11.318)" type="box">11</container>
+              <container id="42d1b8d8e7cb67eb692dae604d982167" label="mixed materials (180077.11.318)" type="box">11</container>
             </did>
           </c>
           <c id="0bd4b6e84ec84e64ae3063280354002b" level="file">
             <did>
               <unittitle>Official Paul Weiss Press Conference (State Department on Brussels Fair)</unittitle>
               <unitdate normal="1958/1958" type="inclusive">1958</unitdate>
-              <container id="34146bf9d80d1ff337d9977e314ec1b9" label="mixed materials (180077.11.318)" type="box">11</container>
+              <container id="7467333240c4f6d446bdf7dcd5f20d33" label="mixed materials (180077.11.318)" type="box">11</container>
             </did>
           </c>
           <c id="4abcf52fc83242fea2a6ccdd82faa9d9" level="file">
             <did>
               <unittitle>Symposium on Molecular Biology</unittitle>
               <unitdate>1958 September 25-30</unitdate>
-              <container id="d1d49ffc7a8fcc53a7d3ade23c686130" label="mixed materials (180077.11.318)" type="box">11</container>
+              <container id="6bb5617b4e06491a6a17901ba0f9391b" label="mixed materials (180077.11.318)" type="box">11</container>
             </did>
             <scopecontent id="ae885f3bd21774771816dc8006202669">
               <head>Scope and Contents note</head>
@@ -1337,42 +1234,42 @@
             <did>
               <unittitle>David Rockefeller party (only expense list)</unittitle>
               <unitdate>1958 December 19</unitdate>
-              <container id="fa7b5b4a66f84b8f6646a3b286d77dda" label="mixed materials (180077.11.318)" type="box">11</container>
+              <container id="87880c34cc6c59440693032bf78ed49a" label="mixed materials (180077.11.318)" type="box">11</container>
             </did>
           </c>
           <c id="3d1bcbcb09844954bcb124146e5ac1ba" level="file">
             <did>
               <unittitle>Dr. Smillie retirement</unittitle>
               <unitdate>1958 September 28</unitdate>
-              <container id="bb3800ac7d0784b0c40edadb93980202" label="mixed materials (180077.11.318)" type="box">11</container>
+              <container id="369a35661de2856926882e97983b3865" label="mixed materials (180077.11.318)" type="box">11</container>
             </did>
           </c>
           <c id="3dcab2b5a3d54540a666af2f36df799c" level="file">
             <did>
               <unittitle>Fred Capalino retirement</unittitle>
               <unitdate>1959 September 30</unitdate>
-              <container id="8800f2e0662e4a042206d0670e996537" label="mixed materials (180077.11.318)" type="box">11</container>
+              <container id="4605e8a360512f4829bd3bad6afc414d" label="mixed materials (180077.11.318)" type="box">11</container>
             </did>
           </c>
           <c id="4555fbd32dd74a58ab428551988f1834" level="file">
             <did>
               <unittitle>Convocation expenses</unittitle>
               <unitdate normal="1959/1959" type="inclusive">1959</unitdate>
-              <container id="0a523169ab492f68e2ab9ba51861be47" label="mixed materials (180077.11.318)" type="box">11</container>
+              <container id="da2e9205bff230d2ea71a3b119405c2e" label="mixed materials (180077.11.318)" type="box">11</container>
             </did>
           </c>
           <c id="21a5f9b16aff4975bc313935141c57aa" level="file">
             <did>
               <unittitle>Symposium of Basic Research sponsored by Rockefeller Foundation, AAAS, Alfred P. Sloan Foundation</unittitle>
               <unitdate>1959 May 14-16</unitdate>
-              <container id="abc37c580f3a259060ab94f33444c0af" label="mixed materials (180077.11.318)" type="box">11</container>
+              <container id="2dafe4ac6fd4516d8e5afd6a1c6d1174" label="mixed materials (180077.11.318)" type="box">11</container>
             </did>
           </c>
           <c id="601a9a3cf99c428a8e604ffcace2257a" level="file">
             <did>
               <unittitle>Assorted seminars, meetings lectures and luncheons</unittitle>
               <unitdate normal="1959/1964" type="inclusive">1959-1964</unitdate>
-              <container id="41bcfc2431ff7653b45f2b9ee3a9a53c" label="mixed materials (180077.12.318)" type="box">12</container>
+              <container id="400f68fb3e2bbcb34bc63b4969a710f2" label="mixed materials (180077.12.318)" type="box">12</container>
             </did>
             <scopecontent id="8dc533e318bba719794c1d758b03c1fa">
               <head>Scope and Contents note</head>
@@ -1383,7 +1280,7 @@
             <did>
               <unittitle>CBS Great Challenge broadcast from Caspary Auditorium</unittitle>
               <unitdate normal="1960/1963" type="inclusive">1960 1961 1963</unitdate>
-              <container id="4dfbbef9412a092e416b7f14f76f7af5" label="mixed materials (180077.12.318)" type="box">12</container>
+              <container id="e4dad4a771a67bbf97ff2e9fe9ec474d" label="mixed materials (180077.12.318)" type="box">12</container>
             </did>
           </c>
         </c>
@@ -1391,21 +1288,21 @@
           <did>
             <unittitle>Tariff, Changes in tariff for imported scientific material</unittitle>
             <unitdate normal="1920/1922" type="inclusive">1920-1922</unitdate>
-            <container id="82a1e53e06d0ebaf405d5c32e8421633" label="mixed materials (179977.12.318)" type="box">12</container>
+            <container id="c41c872a0d794aa3ddf21ea90d617bb7" label="mixed materials (179977.12.318)" type="box">12</container>
           </did>
         </c>
         <c id="ab3878705c70488587df18c044bcb9bc" level="file">
           <did>
             <unittitle>Telegrams</unittitle>
             <unitdate normal="1942/1949" type="inclusive">1942 1949</unitdate>
-            <container id="6c87a5a7b83b2e54db395d83d96cf4d3" label="mixed materials (179977.12.318)" type="box">12</container>
+            <container id="3e7aac22c39dd4c555c43b8647715637" label="mixed materials (179977.12.318)" type="box">12</container>
           </did>
         </c>
         <c id="f342af8cbbfa434386dea6aa36104e92" level="file">
           <did>
             <unittitle>Telephone</unittitle>
             <unitdate normal="1929/1935" type="inclusive">1929-1935</unitdate>
-            <container id="96c29980b4d7d231a82c05fe6632b7db" label="mixed materials (179977.12.318)" type="box">12</container>
+            <container id="ed6f4da37f1fc841ae3cd0667fcd3496" label="mixed materials (179977.12.318)" type="box">12</container>
           </did>
           <scopecontent id="183228aac4f7a29b060e6c23d7f205db">
             <head>Scope and Contents note</head>
@@ -1415,7 +1312,7 @@
         <c id="b505f2ec505d45cfa5d6cf571b6fad59" level="file">
           <did>
             <unittitle>T (miscellaneous)</unittitle>
-            <container id="ee79b0e61d3fb20215802ba14b8b5689" label="mixed materials (179977.12.318)" type="box">12</container>
+            <container id="effdc8bdfbcddc5da6b29907e5dfc259" label="mixed materials (179977.12.318)" type="box">12</container>
           </did>
           <c id="49b515dea360419e93b2be9a69c5aec5" level="file">
             <did>
@@ -1451,14 +1348,14 @@
           <did>
             <unittitle>Tennis Courts: type of construction; scheduling of courts</unittitle>
             <unitdate normal="1916/1941" type="inclusive">1916-1932, 1933-1941</unitdate>
-            <container id="2e5759c7e585e80c6e5df0f4bbde0407" label="mixed materials (179977.12.318)" type="box">12</container>
+            <container id="894b91ef1da6f7ed6c38ffcbac9a75e6" label="mixed materials (179977.12.318)" type="box">12</container>
           </did>
         </c>
         <c id="65b3ef19f7d84af9b3a05cab850b9964" level="file">
           <did>
             <unittitle>Time clock</unittitle>
             <unitdate normal="1919/1957" type="inclusive">1919-1957</unitdate>
-            <container id="8fd559b9abd6bbffc439fa32e2910964" label="mixed materials (179977.12.318)" type="box">12</container>
+            <container id="28627b3b8b05646561756cad2b2b163f" label="mixed materials (179977.12.318)" type="box">12</container>
           </did>
           <scopecontent id="19b39e89228eebe36ae7f6f49c523a1f">
             <head>Scope and Contents note</head>
@@ -1469,7 +1366,7 @@
           <did>
             <unittitle>Tractor</unittitle>
             <unitdate normal="1947/1951" type="inclusive">1947-1951</unitdate>
-            <container id="ffbff9db80fc3292565fc6a63a301f30" label="mixed materials (179977.12.318)" type="box">12</container>
+            <container id="1731725185a644638da5bfbeb1fbc01c" label="mixed materials (179977.12.318)" type="box">12</container>
           </did>
           <scopecontent id="ff819131ec359c67fe8eec5fd230836c">
             <head>Scope and Contents note</head>
@@ -1480,7 +1377,7 @@
           <did>
             <unittitle>Travel</unittitle>
             <unitdate normal="1955/1961" type="inclusive">1955-1961</unitdate>
-            <container id="ee0ecfd061d718649356a4e9121f84cd" label="mixed materials (179977.12.318)" type="box">12</container>
+            <container id="2412b58dfd7075a6e9ced7e499d1a896" label="mixed materials (179977.12.318)" type="box">12</container>
           </did>
           <scopecontent id="c00b77000aee4aad06bd1109ab1b4925">
             <head>Scope and Contents note</head>
@@ -1491,7 +1388,7 @@
           <did>
             <unittitle>Tryparsamide</unittitle>
             <unitdate normal="1925/1925" type="inclusive">1925</unitdate>
-            <container id="55602cca992eba04a099109f4026b830" label="mixed materials (179977.12.318)" type="box">12</container>
+            <container id="5b15e5dcc50bfae87598d07188c57b54" label="mixed materials (179977.12.318)" type="box">12</container>
           </did>
           <scopecontent id="0c7685a121ace6b68bd0abc129938e05">
             <head>Scope and Contents note</head>
@@ -1502,7 +1399,7 @@
           <did>
             <unittitle>Tuberculosis</unittitle>
             <unitdate normal="1913/1953" type="inclusive">1913-1953</unitdate>
-            <container id="40547c47b3870c8e2320f201d59849c9" label="mixed materials (179977.12.318)" type="box">12</container>
+            <container id="0c72fd3512e3692e8a5e437e673b43f5" label="mixed materials (179977.12.318)" type="box">12</container>
           </did>
           <scopecontent id="01d71f3a261207210f472f8056f61c9b">
             <head>Scope and Contents note</head>
@@ -1513,7 +1410,7 @@
           <did>
             <unittitle>Unemployment</unittitle>
             <unitdate normal="1932/1934" type="inclusive">1932-1934</unitdate>
-            <container id="d93c5663322b2263a8ed1b9167143071" label="mixed materials (179977.12.318)" type="box">12</container>
+            <container id="664169828677c316eb18034e079cb896" label="mixed materials (179977.12.318)" type="box">12</container>
           </did>
           <scopecontent id="a33749a21e73049c13a5daf33b8eff2b">
             <head>Scope and Contents note</head>
@@ -1524,7 +1421,7 @@
           <did>
             <unittitle>Unions</unittitle>
             <unitdate normal="1933/1933" type="inclusive">1933</unitdate>
-            <container id="3f43f96eb9282920e0b96164663a33ee" label="mixed materials (179977.12.318)" type="box">12</container>
+            <container id="60b062dd08eaff019f7a5fd8f14eaa92" label="mixed materials (179977.12.318)" type="box">12</container>
           </did>
           <scopecontent id="ddda50d3a719eb7f33f8198a1be3bb69">
             <head>Scope and Contents note</head>
@@ -1535,13 +1432,13 @@
           <did>
             <unittitle>United Mine Workers, 1956; USO 1946; United States Pharmacopoeial Convention</unittitle>
             <unitdate normal="1956/1956" type="inclusive">1956</unitdate>
-            <container id="f89d5eaba101cd2beb67a3d6717c4079" label="mixed materials (179977.12.318)" type="box">12</container>
+            <container id="2d7f7c79a6a1aa0515447033c9c708ff" label="mixed materials (179977.12.318)" type="box">12</container>
           </did>
         </c>
         <c id="47a2dfc75ed343189d2fbedf01ff5553" level="file">
           <did>
             <unittitle>United States</unittitle>
-            <container id="ab047d304c526243d3a7e5f20eb8ae33" label="mixed materials (179977.13.318)" type="box">13</container>
+            <container id="907b87eee2c0c34640c6eb220a5f9610" label="mixed materials (179977.13.318)" type="box">13</container>
           </did>
           <c id="50265bc868644282a5c1fb4e81010527" level="file">
             <did>
@@ -1660,13 +1557,13 @@
         <c id="8fc1de538347455d8f05aad0e032daf8" level="file">
           <did>
             <unittitle>Uy, Milagras E. (Mrs. Jacoby) Dietition in the U.S. on a visitor's visa. Attempt to extend stay</unittitle>
-            <container id="01b663ec20625190fc0db634b886f457" label="mixed materials (179977.13.318)" type="box">13</container>
+            <container id="1830df1ad0f89473f45abd5ee3a9e719" label="mixed materials (179977.13.318)" type="box">13</container>
           </did>
         </c>
         <c id="a273d0fa5ad34a28a0eae22ba6e5c9f4" level="file">
           <did>
             <unittitle>V (Miscellaneous)</unittitle>
-            <container id="1b557c8e4280c4ee9fd5a8c45256ab22" label="mixed materials (179977.14.318)" type="box">14</container>
+            <container id="f11785d7137ec6f08454a930b80bcb06" label="mixed materials (179977.14.318)" type="box">14</container>
           </did>
           <c id="be5e233b1fa44236ae04fa90d9490c47" level="file">
             <did>
@@ -1713,7 +1610,7 @@
           <did>
             <unittitle>Vaccination</unittitle>
             <unitdate normal="1942/1957" type="inclusive">1942 1957</unitdate>
-            <container id="67a9d8126e8c1c9759cbad6b3509e4d0" label="mixed materials (179977.14.318)" type="box">14</container>
+            <container id="9a28a429854cb74ce9675e578b98543a" label="mixed materials (179977.14.318)" type="box">14</container>
           </did>
           <scopecontent id="33a5feffd6a5247a7c5fdb576ddffda8">
             <head>Scope and Contents note</head>
@@ -1724,20 +1621,20 @@
           <did>
             <unittitle>Van Cleve, James 1934-1942 former employee in lab of Dr. Rous and Dr. MacMaster</unittitle>
             <unitdate normal="1934/1942" type="inclusive">1934-1942</unitdate>
-            <container id="1394c0f0a322c171437ea952c933c5f4" label="mixed materials (179977.14.318)" type="box">14</container>
+            <container id="cf5857d7c90a3b3047df376b99260622" label="mixed materials (179977.14.318)" type="box">14</container>
           </did>
         </c>
         <c id="4d717bba9bac425cb10809fe327ceacf" level="file">
           <did>
             <unittitle>Vending machines</unittitle>
             <unitdate normal="1947/1961" type="inclusive">1947-1961</unitdate>
-            <container id="0d03e39452bfcccf903ae8388b3cd906" label="mixed materials (179977.14.318)" type="box">14</container>
+            <container id="b33c1453e76ea3c07a8e49d76a668606" label="mixed materials (179977.14.318)" type="box">14</container>
           </did>
         </c>
         <c id="4ec93006990d4b9b907a7cc87ff4387b" level="file">
           <did>
             <unittitle>Veterans Administration</unittitle>
-            <container id="8729beb8225a5f4949cf6c650d30369f" label="mixed materials (179977.14.318)" type="box">14</container>
+            <container id="ab7b3b1937bd1af9a22ff80b0d8bcb6a" label="mixed materials (179977.14.318)" type="box">14</container>
           </did>
           <c id="067dc6b41397424cbf09ad4c8bc965e9" level="file">
             <did>
@@ -1760,7 +1657,7 @@
           <did>
             <unittitle>Vibration 1932 report of investigation and measurement of vibrations in Power House</unittitle>
             <unitdate normal="1932/1932" type="inclusive">1932</unitdate>
-            <container id="9d6180d1453d28391f2e02cb4a1d3b03" label="mixed materials (179977.14.318)" type="box">14</container>
+            <container id="9bdd7f0b357f48fb4d9c6777fb96db8e" label="mixed materials (179977.14.318)" type="box">14</container>
           </did>
           <scopecontent id="2f645ec157b3462155a4fa9feadc73a7">
             <head>Scope and Contents note</head>
@@ -1771,7 +1668,7 @@
           <did>
             <unittitle>Visitors</unittitle>
             <physdesc id="b2ab6b3065d41ef77a8b96ae816b08c0">2 folders</physdesc>
-            <container id="e95d086a253671f75a072ac7f4f1ed07" label="mixed materials (179977.14.318)" type="box">14</container>
+            <container id="4fd4d798111150c2eedc399cd22697aa" label="mixed materials (179977.14.318)" type="box">14</container>
           </did>
           <scopecontent id="eeb41ab2cfb46aafb08ef02dd39992ba">
             <head>Scope and Contents note</head>
@@ -1792,7 +1689,7 @@
           <did>
             <unittitle>Vitamins</unittitle>
             <unitdate normal="1921/1924" type="inclusive">1921-1924</unitdate>
-            <container id="c3b784d6f5d9a017bb03573dfdcb02fb" label="mixed materials (179977.14.318)" type="box">14</container>
+            <container id="c6c9b808ddc4fff7ae19ed0cb33890d4" label="mixed materials (179977.14.318)" type="box">14</container>
           </did>
           <scopecontent id="11fcb36205ab7e206c6c7b4fb134da2e">
             <head>Scope and Contents note</head>
@@ -1807,8 +1704,8 @@
             <did>
               <unittitle>Wadsworth, Augustus B. 1930-1939 NY State Dept of Health</unittitle>
               <unitdate normal="1930/1939" type="inclusive">1930-1939</unitdate>
-              <container id="bb5a7698d08473a701dd1565d559c7cf" label="mixed materials (180188.15.318)" type="box">15</container>
-              <container id="98c2b79a1630cc7bcc0ba77ba0e6ff0f" parent="bb5a7698d08473a701dd1565d559c7cf" type="folder">1</container>
+              <container id="9bcfb8adbc1ece67b8c33d82017e6213" label="mixed materials (180188.15.318)" type="box">15</container>
+              <container id="554e4f38b27c72788623ebf0e5dffc96" parent="9bcfb8adbc1ece67b8c33d82017e6213" type="folder">1</container>
             </did>
           </c>
           <c id="3e8b1030fba946bfa44405aec783b8fb" level="file">
@@ -1820,399 +1717,399 @@
           <c id="403a6efc71af4a35a142a40caea42874" level="file">
             <did>
               <unittitle>Warren Steam Pipe</unittitle>
-              <container id="8a81cef6aba9a160415dc6c7f5a17460" label="mixed materials (180188.15.318)" type="box">15</container>
-              <container id="2dedf7b7f5c0e6bc869dc379fbbe22d9" parent="8a81cef6aba9a160415dc6c7f5a17460" type="folder">1</container>
+              <container id="dff213b8fd541324a7c246b7f7744bcd" label="mixed materials (180188.15.318)" type="box">15</container>
+              <container id="8422fd8eaf676c1f47e8341d98a59020" parent="dff213b8fd541324a7c246b7f7744bcd" type="folder">1</container>
             </did>
           </c>
           <c id="2251ace4a2934225a298294c8499a60a" level="file">
             <did>
               <unittitle>Warwick, David Branch. Residue of estate</unittitle>
               <unitdate normal="1940/1946" type="inclusive">1940-1946</unitdate>
-              <container id="22b7115c303291e4cedbc0fb53ea3557" label="mixed materials (180188.15.318)" type="box">15</container>
-              <container id="5bc8c19ca383d91d472491540ad28407" parent="22b7115c303291e4cedbc0fb53ea3557" type="folder">1</container>
+              <container id="0acc3119bc23cefd61881cfa68ce4ba3" label="mixed materials (180188.15.318)" type="box">15</container>
+              <container id="66a36cf43fd66f5fe667cf9b52f12884" parent="0acc3119bc23cefd61881cfa68ce4ba3" type="folder">1</container>
             </did>
           </c>
           <c id="49b52bad221c44e3acfd17767a6d21e5" level="file">
             <did>
               <unittitle>Washburn, F.L. University of Minn</unittitle>
               <unitdate normal="1921/1921" type="inclusive">1921</unitdate>
-              <container id="2333343f9120e263ee96733d17ee9d3f" label="mixed materials (180188.15.318)" type="box">15</container>
-              <container id="b94b0350897fe2c4a8e1be3497feb915" parent="2333343f9120e263ee96733d17ee9d3f" type="folder">1</container>
+              <container id="58962b570541dc3c52a731e69828a8d5" label="mixed materials (180188.15.318)" type="box">15</container>
+              <container id="4940ee7f7dc00ea31a27161a7ca8eb66" parent="58962b570541dc3c52a731e69828a8d5" type="folder">1</container>
             </did>
           </c>
           <c id="02dbfe9b1f0644ccbbe527080ffbb0a2" level="file">
             <did>
               <unittitle>Washburn, Geo. Request for Cholera vaccine</unittitle>
               <unitdate normal="1920/1920" type="inclusive">1920</unitdate>
-              <container id="c27584ecdc0eefa86e9ea528e4b77995" label="mixed materials (180188.15.318)" type="box">15</container>
-              <container id="d6674d5fe51e407084b322cca648d61e" parent="c27584ecdc0eefa86e9ea528e4b77995" type="folder">1</container>
+              <container id="812deba50857cca654fa32d4cfc50a50" label="mixed materials (180188.15.318)" type="box">15</container>
+              <container id="704548015d0f9cd1d4cdabd606dbed72" parent="812deba50857cca654fa32d4cfc50a50" type="folder">1</container>
             </did>
           </c>
           <c id="4d8511691b504730865b3936d55a2d21" level="file">
             <did>
               <unittitle>Watson Mfg.</unittitle>
-              <container id="73e83e7997a34464c58e3090a1dac9ed" label="mixed materials (180188.15.318)" type="box">15</container>
-              <container id="b3330dd69fd0ededd538359491298561" parent="73e83e7997a34464c58e3090a1dac9ed" type="folder">1</container>
+              <container id="b44b2ed46d6f061db5446fe924d2c1b7" label="mixed materials (180188.15.318)" type="box">15</container>
+              <container id="81b0035c39f0b2c81df54f6bdef055a9" parent="b44b2ed46d6f061db5446fe924d2c1b7" type="folder">1</container>
             </did>
           </c>
           <c id="12315f944ad745e3a9495aa995326c8f" level="file">
             <did>
               <unittitle>Weaver, Floyd C.</unittitle>
               <unitdate normal="1930/1930" type="inclusive">1930</unitdate>
-              <container id="f16a4c22c99dc1ae8f0dde7239e50919" label="mixed materials (180188.15.318)" type="box">15</container>
-              <container id="572e42f817065f98abc1f9ada2f948c2" parent="f16a4c22c99dc1ae8f0dde7239e50919" type="folder">1</container>
+              <container id="9228606191793427a67e8b0a00c95f8e" label="mixed materials (180188.15.318)" type="box">15</container>
+              <container id="cbb2d0281666be548c4060730adebeaf" parent="9228606191793427a67e8b0a00c95f8e" type="folder">1</container>
             </did>
           </c>
           <c id="bda38bb6d83d441e9e9805ea2c1b8452" level="file">
             <did>
               <unittitle>Webb, Anne 1956 inquiry on her affiliation with WW I unit at RIMR</unittitle>
               <unitdate normal="1956/1956" type="inclusive">1956</unitdate>
-              <container id="b278e82a16ec043234e6ef8caa8a9200" label="mixed materials (180188.15.318)" type="box">15</container>
-              <container id="87af3565b678496e375875b0566761eb" parent="b278e82a16ec043234e6ef8caa8a9200" type="folder">1</container>
+              <container id="4ef5b741479445e5d00f493fe5a8aafd" label="mixed materials (180188.15.318)" type="box">15</container>
+              <container id="37fd12f2fd58e0088fcd0abf9c1f2c60" parent="4ef5b741479445e5d00f493fe5a8aafd" type="folder">1</container>
             </did>
           </c>
           <c id="8d3da9e4a75243488b20386340b6625b" level="file">
             <did>
               <unittitle>Weber, Paul J. 1920-1921 photographer of Princeton laboratories</unittitle>
               <unitdate normal="1920/1921" type="inclusive">1920-1921</unitdate>
-              <container id="afcaa9e14a643819e2f8c839668056a6" label="mixed materials (180188.15.318)" type="box">15</container>
-              <container id="ecb19c22738afe64221976339e0a528e" parent="afcaa9e14a643819e2f8c839668056a6" type="folder">1</container>
+              <container id="db846dd794fd1e8ceb5bb082a8e4e006" label="mixed materials (180188.15.318)" type="box">15</container>
+              <container id="37130a9ece544201dbfc085ed438f310" parent="db846dd794fd1e8ceb5bb082a8e4e006" type="folder">1</container>
             </did>
           </c>
           <c id="257fa0a0469844bcafd35ed8e572be5e" level="file">
             <did>
               <unittitle>Webster Apartments</unittitle>
-              <container id="42d0d817a9b9054dcdf1ee343ba7ea69" label="mixed materials (180188.15.318)" type="box">15</container>
-              <container id="9cf20d33240609a1ce3f58491d78038f" parent="42d0d817a9b9054dcdf1ee343ba7ea69" type="folder">1</container>
+              <container id="79dee6d6f4a70e092b7f9f6396ba18b0" label="mixed materials (180188.15.318)" type="box">15</container>
+              <container id="b29623b6758aa8ed4667aef796ea07dc" parent="79dee6d6f4a70e092b7f9f6396ba18b0" type="folder">1</container>
             </did>
           </c>
           <c id="170d1c4262384e9aba6ce99fc1a635a5" level="file">
             <did>
               <unittitle>Webster, T.P.</unittitle>
               <unitdate normal="1935/1935" type="inclusive">1935</unitdate>
-              <container id="88f5d56260016164965be8c38d7a1123" label="mixed materials (180188.15.318)" type="box">15</container>
-              <container id="b566d3fbf293bcbb9132e112fe0ba5e8" parent="88f5d56260016164965be8c38d7a1123" type="folder">1</container>
+              <container id="96fd1529e4670a791ba7982f4bbfb217" label="mixed materials (180188.15.318)" type="box">15</container>
+              <container id="96dfe47d3e5402f7c1081e72838eb04f" parent="96fd1529e4670a791ba7982f4bbfb217" type="folder">1</container>
             </did>
           </c>
           <c id="773925cb5dca467da90fd010e16a1ee9" level="file">
             <did>
               <unittitle>Weeder, Mary A. on sleeping sickness</unittitle>
               <unitdate normal="1919/1919" type="inclusive">1919</unitdate>
-              <container id="e4133a2009fbc71f2b1eb48eb957d451" label="mixed materials (180188.15.318)" type="box">15</container>
-              <container id="8752f0b034b8dce2d3f0a1e1f696181b" parent="e4133a2009fbc71f2b1eb48eb957d451" type="folder">1</container>
+              <container id="e9b70caba59ce06e91fe6823d23e8d4b" label="mixed materials (180188.15.318)" type="box">15</container>
+              <container id="34572c7410517569e7f641d469bbb90e" parent="e9b70caba59ce06e91fe6823d23e8d4b" type="folder">1</container>
             </did>
           </c>
           <c id="e2b43cfe4728402faaf3866b77956141" level="file">
             <did>
               <unittitle>Wegeforth, Harry M. Zoological Society of San Diego</unittitle>
               <unitdate normal="1925/1925" type="inclusive">1925</unitdate>
-              <container id="938c7cb1bf7526cb94b1dbf316f773f8" label="mixed materials (180188.15.318)" type="box">15</container>
-              <container id="6526706abfe41bcfcd0e21095d352d71" parent="938c7cb1bf7526cb94b1dbf316f773f8" type="folder">1</container>
+              <container id="05095a7d06b9e744a27d7a134316c421" label="mixed materials (180188.15.318)" type="box">15</container>
+              <container id="0abf33a4b7991a19a18532a442c657e4" parent="05095a7d06b9e744a27d7a134316c421" type="folder">1</container>
             </did>
           </c>
           <c id="58f577b7e86b479b9e33f814b8c499a0" level="file">
             <did>
               <unittitle>Welch, W.M. Mfg.</unittitle>
               <unitdate normal="1932/1932" type="inclusive">1932</unitdate>
-              <container id="673b6aed06dd88cee51ce0c3514939ac" label="mixed materials (180188.15.318)" type="box">15</container>
-              <container id="2efb82f9ba6fcc5b12aa33a2bb88d81f" parent="673b6aed06dd88cee51ce0c3514939ac" type="folder">1</container>
+              <container id="8b8263d452df5c2cd11cf278ac29cd82" label="mixed materials (180188.15.318)" type="box">15</container>
+              <container id="051e2cdef41a4787f68be9a8b1235ac8" parent="8b8263d452df5c2cd11cf278ac29cd82" type="folder">1</container>
             </did>
           </c>
           <c id="d75ac08fb5174cd08d8d470dfd077b88" level="file">
             <did>
               <unittitle>Wells Architectural Iron Co.</unittitle>
-              <container id="ec4b4b587c4a76d826e1dac180575b1a" label="mixed materials (180188.15.318)" type="box">15</container>
-              <container id="23e0547e6c51441c6cc2c3feca180683" parent="ec4b4b587c4a76d826e1dac180575b1a" type="folder">1</container>
+              <container id="2f1c9f4e013b0847cb1dfce157ca4326" label="mixed materials (180188.15.318)" type="box">15</container>
+              <container id="d33f8949c65e4c539ba6bd64d7304e22" parent="2f1c9f4e013b0847cb1dfce157ca4326" type="folder">1</container>
             </did>
           </c>
           <c id="d769d22abb2149b890b6655aef3dcb0b" level="file">
             <did>
               <unittitle>Wessel Duval &amp; Co.</unittitle>
-              <container id="c8e33470969aada4043420076fad0d54" label="mixed materials (180188.15.318)" type="box">15</container>
-              <container id="0574dd45e3c627412b2a28cf8ac9d4a9" parent="c8e33470969aada4043420076fad0d54" type="folder">1</container>
+              <container id="58324bf5c79486bf35c68145ae887f9b" label="mixed materials (180188.15.318)" type="box">15</container>
+              <container id="90d1a50e10de036170b6428e7a7e5057" parent="58324bf5c79486bf35c68145ae887f9b" type="folder">1</container>
             </did>
           </c>
           <c id="25dea27c2892442493fba8c87afdc59a" level="file">
             <did>
               <unittitle>Westerberg &amp; Williams</unittitle>
               <unitdate normal="1913/1913" type="inclusive">1913</unitdate>
-              <container id="3d644453bc44e4b4bc39b734174c2a05" label="mixed materials (180188.15.318)" type="box">15</container>
-              <container id="de3e12f0972f9ed1c89d6e749f47b1b8" parent="3d644453bc44e4b4bc39b734174c2a05" type="folder">1</container>
+              <container id="a90a8855f7473c158b8a92a75fdec7a1" label="mixed materials (180188.15.318)" type="box">15</container>
+              <container id="745bf0ba6afee1bbca937666d26572dd" parent="a90a8855f7473c158b8a92a75fdec7a1" type="folder">1</container>
             </did>
           </c>
           <c id="93acde2cb2d24323aa3489e408b175cf" level="file">
             <did>
               <unittitle>Westinghouse Electric and Mfg.</unittitle>
               <unitdate normal="1917/1917" type="inclusive">1917</unitdate>
-              <container id="ec9ca5e9eaa1cbaaf28f856068cf8d57" label="mixed materials (180188.15.318)" type="box">15</container>
-              <container id="7f3a8f408f2c310b2c9336b994fc1ebb" parent="ec9ca5e9eaa1cbaaf28f856068cf8d57" type="folder">1</container>
+              <container id="206d46667ab75b29ea67615edaadf9b2" label="mixed materials (180188.15.318)" type="box">15</container>
+              <container id="24c0b7a54525e41bbfb23bc2e38c3ff0" parent="206d46667ab75b29ea67615edaadf9b2" type="folder">1</container>
             </did>
           </c>
           <c id="8fe3feae29404c58a7c66cdd553bbe81" level="file">
             <did>
               <unittitle>Wheeler, B.I.</unittitle>
-              <container id="eb9cf9f87e3b1a89970d2e3c3ec74ea1" label="mixed materials (180188.15.318)" type="box">15</container>
-              <container id="591eafc3ddf95f6cd5556f48405ac31d" parent="eb9cf9f87e3b1a89970d2e3c3ec74ea1" type="folder">1</container>
+              <container id="ab7252291e92b38a90aaecfddeeae49d" label="mixed materials (180188.15.318)" type="box">15</container>
+              <container id="affe6c11f81050647ff141cd725dd2ab" parent="ab7252291e92b38a90aaecfddeeae49d" type="folder">1</container>
             </did>
           </c>
           <c id="8989c922b72046ba95409f767041ca04" level="file">
             <did>
               <unittitle>Wheeler, C.H. Mfg.</unittitle>
-              <container id="bfe6cb196ef6b76c88892c2ffb9cead6" label="mixed materials (180188.15.318)" type="box">15</container>
-              <container id="99b83b5d6ca316372f815572ef77dd81" parent="bfe6cb196ef6b76c88892c2ffb9cead6" type="folder">1</container>
+              <container id="4d696e96ba42e9d3917a49128cf61018" label="mixed materials (180188.15.318)" type="box">15</container>
+              <container id="3797aa690ade1c5514d11a23feeb3253" parent="4d696e96ba42e9d3917a49128cf61018" type="folder">1</container>
             </did>
           </c>
           <c id="eb6fb7d471c34d549ecffdd9db94d07c" level="file">
             <did>
               <unittitle>Wheeler Condenser</unittitle>
-              <container id="69f6013fc32c47a6640ce64ae9aebb48" label="mixed materials (180188.15.318)" type="box">15</container>
-              <container id="9e6ce3823a21ab991c8dfcb11f6e035f" parent="69f6013fc32c47a6640ce64ae9aebb48" type="folder">1</container>
+              <container id="b3d26a8dbe4be217e1f9c91f0e4ffa25" label="mixed materials (180188.15.318)" type="box">15</container>
+              <container id="5ac6967fcc317948f058cc0129346662" parent="b3d26a8dbe4be217e1f9c91f0e4ffa25" type="folder">1</container>
             </did>
           </c>
           <c id="ecdcb876ee804c67a00f105bb6417187" level="file">
             <did>
               <unittitle>Whidden, R.W.</unittitle>
-              <container id="8090b9c7c11be42384e96a1e0b0a5933" label="mixed materials (180188.15.318)" type="box">15</container>
-              <container id="63b8e01712ce20d8a042b4e49de63638" parent="8090b9c7c11be42384e96a1e0b0a5933" type="folder">1</container>
+              <container id="37c56cb1e3163e012394bb4776b1fdb4" label="mixed materials (180188.15.318)" type="box">15</container>
+              <container id="d9b0b37625e5880e0b76c60c6f29e97d" parent="37c56cb1e3163e012394bb4776b1fdb4" type="folder">1</container>
             </did>
           </c>
           <c id="a6a93878ec3f4146b9aa02a3cbd84771" level="file">
             <did>
               <unittitle>Whipple, George. University of Rochester</unittitle>
               <unitdate normal="1924/1924" type="inclusive">1924</unitdate>
-              <container id="0f8299cd305863888ed80d4be36acf1a" label="mixed materials (180188.15.318)" type="box">15</container>
-              <container id="08dfd143b301db36d97e920b1aad9b33" parent="0f8299cd305863888ed80d4be36acf1a" type="folder">1</container>
+              <container id="acf1a673fc9d3e2ea21bbb5026eb19d3" label="mixed materials (180188.15.318)" type="box">15</container>
+              <container id="b1216d77142075396484bd4102e8cb6e" parent="acf1a673fc9d3e2ea21bbb5026eb19d3" type="folder">1</container>
             </did>
           </c>
           <c id="fb3b7234da7c4ec4b3dd3b61a71e22a0" level="file">
             <did>
               <unittitle>White, Alfred T.</unittitle>
-              <container id="15adafc67c15461b178607461db4da1b" label="mixed materials (180188.15.318)" type="box">15</container>
-              <container id="8f0073bf120f0bda51172e19c0c6eb19" parent="15adafc67c15461b178607461db4da1b" type="folder">1</container>
+              <container id="f3daa1bdc3a93182127c7a208ea203d0" label="mixed materials (180188.15.318)" type="box">15</container>
+              <container id="11ad078a4a5a0d95462c6ce227136222" parent="f3daa1bdc3a93182127c7a208ea203d0" type="folder">1</container>
             </did>
           </c>
           <c id="22f293907fb34f6eaaecd6e8c5867502" level="file">
             <did>
               <unittitle>White Enamel Refrigeration</unittitle>
-              <container id="ee97f8a5796ab3a50728e351e5653fa0" label="mixed materials (180188.15.318)" type="box">15</container>
-              <container id="ce896d09b78962e43fe0114fc2ab9a77" parent="ee97f8a5796ab3a50728e351e5653fa0" type="folder">1</container>
+              <container id="5afa928f0abe4fa432b94e5a2f3734e4" label="mixed materials (180188.15.318)" type="box">15</container>
+              <container id="ca9aeb3abfe765611c956116dee6c147" parent="5afa928f0abe4fa432b94e5a2f3734e4" type="folder">1</container>
             </did>
           </c>
           <c id="9dc54ccaf94f4c9fa53b328f5d714906" level="file">
             <did>
               <unittitle>White, H.C. Co.</unittitle>
-              <container id="e7f9009f92ad8841050533cfd959c4cb" label="mixed materials (180188.15.318)" type="box">15</container>
-              <container id="a46680e3630de662d7b043929dabdfc8" parent="e7f9009f92ad8841050533cfd959c4cb" type="folder">1</container>
+              <container id="019c9cd4d5b08ab0b9629e79a76a9b5a" label="mixed materials (180188.15.318)" type="box">15</container>
+              <container id="066a38fadd422173a8dfe1daa71b53ee" parent="019c9cd4d5b08ab0b9629e79a76a9b5a" type="folder">1</container>
             </did>
           </c>
           <c id="42810dfce80849659873aa553c52e232" level="file">
             <did>
               <unittitle>White Weld &amp; Co.</unittitle>
-              <container id="3955b315f9d2e4ef240d91f94ee917fe" label="mixed materials (180188.15.318)" type="box">15</container>
-              <container id="e23b019ed56ff3fdc54455c7d90737f5" parent="3955b315f9d2e4ef240d91f94ee917fe" type="folder">1</container>
+              <container id="950b35e2fb14251ec7293b72a1b79a15" label="mixed materials (180188.15.318)" type="box">15</container>
+              <container id="17bb260dd039c4534d751510c06a40ec" parent="950b35e2fb14251ec7293b72a1b79a15" type="folder">1</container>
             </did>
           </c>
           <c id="02ea7925c8b1407a8383b17193b54b66" level="file">
             <did>
               <unittitle>White, Wm. Wallace</unittitle>
-              <container id="973775e599e7da1df883e2ef4327ff87" label="mixed materials (180188.15.318)" type="box">15</container>
-              <container id="2ed05d906cb47566c661b1e0143fc43f" parent="973775e599e7da1df883e2ef4327ff87" type="folder">1</container>
+              <container id="72081ad6907ab157aec1b8deac69bc25" label="mixed materials (180188.15.318)" type="box">15</container>
+              <container id="62f439ae6641aca2a90ce3824199fcf4" parent="72081ad6907ab157aec1b8deac69bc25" type="folder">1</container>
             </did>
           </c>
           <c id="082cf71e3e274df6b62bf92b436ada30" level="file">
             <did>
               <unittitle>Whitenead &amp; Hoag. Employee badges</unittitle>
               <unitdate normal="1926/1927" type="inclusive">1926-1927</unitdate>
-              <container id="44f80d4ed2c4090b81e3881ddba977e8" label="mixed materials (180188.15.318)" type="box">15</container>
-              <container id="29d26dbbafc6637f9223d27806f4e3aa" parent="44f80d4ed2c4090b81e3881ddba977e8" type="folder">1</container>
+              <container id="756c123d96fb07b0133eb94596b57165" label="mixed materials (180188.15.318)" type="box">15</container>
+              <container id="1784c3495714031d285013985791300a" parent="756c123d96fb07b0133eb94596b57165" type="folder">1</container>
             </did>
           </c>
           <c id="27e1644588fd4d428fe6e681dace1837" level="file">
             <did>
               <unittitle>Whitney</unittitle>
-              <container id="9474b8fbb7c0c1df201f6103f592c386" label="mixed materials (180188.15.318)" type="box">15</container>
-              <container id="d5be958622701f0bbd6e914d34cb1736" parent="9474b8fbb7c0c1df201f6103f592c386" type="folder">1</container>
+              <container id="a1e99ee44421305861a462c5df139bbf" label="mixed materials (180188.15.318)" type="box">15</container>
+              <container id="4b759c8af9ce04d1fd093023dac5caa5" parent="a1e99ee44421305861a462c5df139bbf" type="folder">1</container>
             </did>
           </c>
           <c id="6a0555ecabc84b4eb8eb5a86d06fb340" level="file">
             <did>
               <unittitle>Wiegan, E.L. Co.</unittitle>
-              <container id="a987e6d6d49a8f19f22634e5484ab83b" label="mixed materials (180188.15.318)" type="box">15</container>
-              <container id="0bc028a312511b158654d3daf934f723" parent="a987e6d6d49a8f19f22634e5484ab83b" type="folder">2</container>
+              <container id="829be100c63c7f9fecfc168c335e67aa" label="mixed materials (180188.15.318)" type="box">15</container>
+              <container id="6be9ec03319584b9c1a95a27ba385d4c" parent="829be100c63c7f9fecfc168c335e67aa" type="folder">2</container>
             </did>
           </c>
           <c id="0aa289f68fcf4d6cb48bdc32ccfdd6fd" level="file">
             <did>
               <unittitle>Wiese, Randolph A.</unittitle>
-              <container id="357ebf55deb0fa0506b7a125e3cc4f0c" label="mixed materials (180188.15.318)" type="box">15</container>
-              <container id="8f75e1c8eb56d08603c067b248838162" parent="357ebf55deb0fa0506b7a125e3cc4f0c" type="folder">2</container>
+              <container id="0ec398165d4cff5f3f0dd26a075d5114" label="mixed materials (180188.15.318)" type="box">15</container>
+              <container id="434f9465baadfe8866f2f2ef53cd80f7" parent="0ec398165d4cff5f3f0dd26a075d5114" type="folder">2</container>
             </did>
           </c>
           <c id="c86094bd351145f9b0aaa205cfb63475" level="file">
             <did>
               <unittitle>Willey, Day Allen</unittitle>
-              <container id="4253de4946597d66f2334c8a09577b9b" label="mixed materials (180188.15.318)" type="box">15</container>
-              <container id="4b01b3ae459b9f87a73949bc5217ca11" parent="4253de4946597d66f2334c8a09577b9b" type="folder">2</container>
+              <container id="bf8b6573a52a5c966470e8c2e0a7862a" label="mixed materials (180188.15.318)" type="box">15</container>
+              <container id="c17449f44c79fc60087ffa67397ec297" parent="bf8b6573a52a5c966470e8c2e0a7862a" type="folder">2</container>
             </did>
           </c>
           <c id="03b87ab9b004413da78c7fa60bbd49d3" level="file">
             <did>
               <unittitle>Williams, Nelson</unittitle>
-              <container id="971a1ab19cf800811503cbff68dd7630" label="mixed materials (180188.15.318)" type="box">15</container>
-              <container id="2d1dcfaf3881c08adc3a6cb6b70360c7" parent="971a1ab19cf800811503cbff68dd7630" type="folder">2</container>
+              <container id="d7dd100ec0786f567668ad3b831bcc6c" label="mixed materials (180188.15.318)" type="box">15</container>
+              <container id="68978fa4766c610923c366e82bcbf14d" parent="d7dd100ec0786f567668ad3b831bcc6c" type="folder">2</container>
             </did>
           </c>
           <c id="03348dd863f3480384ef452e4a0983b5" level="file">
             <did>
               <unittitle>Williamson, B.B.</unittitle>
-              <container id="a303e9772fed2f6a184d8f2483c6d5aa" label="mixed materials (180188.15.318)" type="box">15</container>
-              <container id="bbec3aa046b46f95e9d111ca7e1d485b" parent="a303e9772fed2f6a184d8f2483c6d5aa" type="folder">2</container>
+              <container id="9fc34a09ac8db34845bf58c57e5da7af" label="mixed materials (180188.15.318)" type="box">15</container>
+              <container id="d9629d553a964d3dc02369321a722399" parent="9fc34a09ac8db34845bf58c57e5da7af" type="folder">2</container>
             </did>
           </c>
           <c id="b398fd953afb497b9397f59729749866" level="file">
             <did>
               <unittitle>Willmer, W.H. bibliography</unittitle>
               <unitdate>1924 December</unitdate>
-              <container id="b68231938fdd13a5594009e5655de486" label="mixed materials (180188.15.318)" type="box">15</container>
-              <container id="080fd509ed8842af001ae201d5560ab8" parent="b68231938fdd13a5594009e5655de486" type="folder">2</container>
+              <container id="3b68cb2d49cdd7ea6201e6c8a7ee011a" label="mixed materials (180188.15.318)" type="box">15</container>
+              <container id="9b7bc136afd1fd5cd243f8bf56aa2b7b" parent="3b68cb2d49cdd7ea6201e6c8a7ee011a" type="folder">2</container>
             </did>
           </c>
           <c id="33497d3b82cf4099b9cd77e6c69c8cb8" level="file">
             <did>
               <unittitle>Wilson, H.P. &amp; H.F. Co.</unittitle>
-              <container id="71c4a58da7be1ed64e81663b246fa17e" label="mixed materials (180188.15.318)" type="box">15</container>
-              <container id="eb2cb89bcf8fbbb1e4494d070becbd89" parent="71c4a58da7be1ed64e81663b246fa17e" type="folder">2</container>
+              <container id="9cad9855d76902b7b996ea6a931802f4" label="mixed materials (180188.15.318)" type="box">15</container>
+              <container id="3cfd9d94bedf2a450002e9e2ee9f4c72" parent="9cad9855d76902b7b996ea6a931802f4" type="folder">2</container>
             </did>
           </c>
           <c id="2da2aa0e45764880b0d1e93a41cabd05" level="file">
             <did>
               <unittitle>Wilson Welding</unittitle>
-              <container id="a9c25e51183741db92aa7abc08bf1918" label="mixed materials (180188.15.318)" type="box">15</container>
-              <container id="dedda52682bf3c0f2ca9a6d1247733d0" parent="a9c25e51183741db92aa7abc08bf1918" type="folder">2</container>
+              <container id="4877f04e75aac38f4acb3fa30c4804bb" label="mixed materials (180188.15.318)" type="box">15</container>
+              <container id="bdcc40d3c8a16470958f1224a757f3f1" parent="4877f04e75aac38f4acb3fa30c4804bb" type="folder">2</container>
             </did>
           </c>
           <c id="92667716da5d4c38b6c91cd3d24c8a72" level="file">
             <did>
               <unittitle>Winckler, G.A. cabinet maker</unittitle>
               <unitdate normal="1917/1917" type="inclusive">1917</unitdate>
-              <container id="019af2ecf8fb121a55e28589be71b8e0" label="mixed materials (180188.15.318)" type="box">15</container>
-              <container id="c71187edd93303b2cfe909bb5b6a2eb6" parent="019af2ecf8fb121a55e28589be71b8e0" type="folder">2</container>
+              <container id="6db39ed376593ebd51091c08bc04d5e2" label="mixed materials (180188.15.318)" type="box">15</container>
+              <container id="f366619fd21c8874f92a414b8be074cd" parent="6db39ed376593ebd51091c08bc04d5e2" type="folder">2</container>
             </did>
           </c>
           <c id="4a7a1a32b65e45878ce90410b67c8d59" level="file">
             <did>
               <unittitle>Wissmiller, George Employed as carpenter</unittitle>
               <unitdate normal="1927/1932" type="inclusive">1927-1932</unitdate>
-              <container id="01c87ef0e9ed159bf786935925c796ae" label="mixed materials (180188.15.318)" type="box">15</container>
-              <container id="315f476d0329f53938cdc5d8b92eacc8" parent="01c87ef0e9ed159bf786935925c796ae" type="folder">2</container>
+              <container id="194b5e9ae0307045f89e2728936f9e2e" label="mixed materials (180188.15.318)" type="box">15</container>
+              <container id="fe5e65320a334d0efb68176802dab9b3" parent="194b5e9ae0307045f89e2728936f9e2e" type="folder">2</container>
             </did>
           </c>
           <c id="cdcebee02e364bf1b78e951e960a5bfc" level="file">
             <did>
               <unittitle>Wisotsky, Charles 1933-1934 student request for chemicals Witney, Newell 1921-1926 former employee</unittitle>
               <unitdate normal="1921/1934" type="inclusive">1921-1934</unitdate>
-              <container id="f9805bce68fd660e9a49b2f45f4fb130" label="mixed materials (180188.15.318)" type="box">15</container>
-              <container id="889fa85e0df61dd10a3581eb1f11b67f" parent="f9805bce68fd660e9a49b2f45f4fb130" type="folder">2</container>
+              <container id="484a6f925197e76e8d7ac8ad4534d4b7" label="mixed materials (180188.15.318)" type="box">15</container>
+              <container id="0945b58350587e4f4990f83ad0cd983a" parent="484a6f925197e76e8d7ac8ad4534d4b7" type="folder">2</container>
             </did>
           </c>
           <c id="2df2ca96de2b47cabb9bafaf796ce215" level="file">
             <did>
               <unittitle>Wolff, Milliam F. sample lighting fixture</unittitle>
               <unitdate normal="1912/1912" type="inclusive">1912</unitdate>
-              <container id="ee7121cf6a7c0ad2675d683b297d9737" label="mixed materials (180188.15.318)" type="box">15</container>
-              <container id="bfeefc69a157dfa96436e7c758364a77" parent="ee7121cf6a7c0ad2675d683b297d9737" type="folder">2</container>
+              <container id="0f3da878a1c3c4e3260efe63715aec6e" label="mixed materials (180188.15.318)" type="box">15</container>
+              <container id="154429b08c054ec3e4c99041db4e6327" parent="0f3da878a1c3c4e3260efe63715aec6e" type="folder">2</container>
             </did>
           </c>
           <c id="46c6c675f6924dc59a5c5b4b7a6fb261" level="file">
             <did>
               <unittitle>Wood, Casey A. gift of Ceylanese Ola: palm leaf 'mss of sinholese medicine</unittitle>
               <unitdate normal="1928/1928" type="inclusive">1928</unitdate>
-              <container id="37563c04fc15103c8953b1556c9617e2" label="mixed materials (180188.15.318)" type="box">15</container>
-              <container id="45e7e158b73201fd44624b0fe8fa0396" parent="37563c04fc15103c8953b1556c9617e2" type="folder">2</container>
+              <container id="0aeee1533d792a95d88e11258fc3f1f0" label="mixed materials (180188.15.318)" type="box">15</container>
+              <container id="eaa2eeb914bed92b72b037c625784b73" parent="0aeee1533d792a95d88e11258fc3f1f0" type="folder">2</container>
             </did>
           </c>
           <c id="c101933f822e4c4ab9aecadefb432acb" level="file">
             <did>
               <unittitle>Wood, Francis C.M.D. Columbia University on Carrel transplants</unittitle>
               <unitdate normal="1913/1913" type="inclusive">1913</unitdate>
-              <container id="ce615d2c48bd83dab4b4471aa57f474e" label="mixed materials (180188.15.318)" type="box">15</container>
-              <container id="888d9d33eb8909c8934f192afcf9dae9" parent="ce615d2c48bd83dab4b4471aa57f474e" type="folder">2</container>
+              <container id="838de467965e09cb4e6513185798f7fb" label="mixed materials (180188.15.318)" type="box">15</container>
+              <container id="ec8a270b3c7444349731252fb4bef891" parent="838de467965e09cb4e6513185798f7fb" type="folder">2</container>
             </did>
           </c>
           <c id="58ea0e2450a3458d91555974696e5a0d" level="file">
             <did>
               <unittitle>Wood, Leonard. On dysentery vaccine</unittitle>
               <unitdate normal="1916/1916" type="inclusive">1916</unitdate>
-              <container id="05a7e20171f67564121a18b57bd2db6f" label="mixed materials (180188.15.318)" type="box">15</container>
-              <container id="ed04f46e417ef0402d59d7131cf1884e" parent="05a7e20171f67564121a18b57bd2db6f" type="folder">2</container>
+              <container id="406b57dd158edecaae18df9bea5af627" label="mixed materials (180188.15.318)" type="box">15</container>
+              <container id="1cde4b6cbc2c9038bee0d63f56c31dc3" parent="406b57dd158edecaae18df9bea5af627" type="folder">2</container>
             </did>
           </c>
           <c id="3d65601ac6ed472789785fdacfbbde9e" level="file">
             <did>
               <unittitle>Woodruff, F.H. &amp; Sons. lawn seed</unittitle>
               <unitdate normal="1932/1944" type="inclusive">1932-1944</unitdate>
-              <container id="75d055f3c3a3c89bd0f994b2e6d45247" label="mixed materials (180188.15.318)" type="box">15</container>
-              <container id="800dc8661fb09eab8181c937beae97e3" parent="75d055f3c3a3c89bd0f994b2e6d45247" type="folder">2</container>
+              <container id="3c7d4d2e34eb142849a55d53d691cc29" label="mixed materials (180188.15.318)" type="box">15</container>
+              <container id="dc3234e6f3961bbdea08ba59604e5cbe" parent="3c7d4d2e34eb142849a55d53d691cc29" type="folder">2</container>
             </did>
           </c>
           <c id="f226ffaf78084d438f0ddde25dbaf35d" level="file">
             <did>
               <unittitle>Woods, Arthur introduction of Teresa Masterson</unittitle>
-              <container id="384b6dd290ebe54b1e65fffa24ef6a93" label="mixed materials (180188.15.318)" type="box">15</container>
-              <container id="9eefcdec3f0b8be032510d150c47408b" parent="384b6dd290ebe54b1e65fffa24ef6a93" type="folder">2</container>
+              <container id="c7c1e357669f58350edd0d0459032b89" label="mixed materials (180188.15.318)" type="box">15</container>
+              <container id="d4bc4d7eb39f4c9a91829fb928c2f184" parent="c7c1e357669f58350edd0d0459032b89" type="folder">2</container>
             </did>
           </c>
           <c id="43a62b4594474607a7b337d911cccff4" level="file">
             <did>
               <unittitle>Woodstock Typewriter Co.</unittitle>
-              <container id="3bc529fd4cfab80ce079a0a536a0c311" label="mixed materials (180188.15.318)" type="box">15</container>
-              <container id="667b065a6488b68edfc350d1c20b7dfa" parent="3bc529fd4cfab80ce079a0a536a0c311" type="folder">2</container>
+              <container id="897ccba0d103cf136157fa58b628e7c8" label="mixed materials (180188.15.318)" type="box">15</container>
+              <container id="6072a134d981b7863b8a24925ddd11b2" parent="897ccba0d103cf136157fa58b628e7c8" type="folder">2</container>
             </did>
           </c>
           <c id="f8ca89ee551a48d6a4136ee1d4f80731" level="file">
             <did>
               <unittitle>Woodward, Geo. on sister's illness (Hodgkins disease)</unittitle>
-              <container id="cbf6cd6dab281c81dac59bfce3e5f8cd" label="mixed materials (180188.15.318)" type="box">15</container>
-              <container id="1f3e61aa3cf3d5362ef16fc6bf785046" parent="cbf6cd6dab281c81dac59bfce3e5f8cd" type="folder">2</container>
+              <container id="8d10b4f3a03258905cb1067d3fbaa359" label="mixed materials (180188.15.318)" type="box">15</container>
+              <container id="f8aecf674101306b90e48a56f7659a7f" parent="8d10b4f3a03258905cb1067d3fbaa359" type="folder">2</container>
             </did>
           </c>
           <c id="ec530a4256cf4f65987b103b1b94cc8f" level="file">
             <did>
               <unittitle>Works Progress Administration. area survey request</unittitle>
               <unitdate normal="1937/1938" type="inclusive">1937 1938</unitdate>
-              <container id="22173261b5e1ac839e95bdd4431a331b" label="mixed materials (180188.15.318)" type="box">15</container>
-              <container id="9209330a19d687342ff41c57494265b3" parent="22173261b5e1ac839e95bdd4431a331b" type="folder">2</container>
+              <container id="e9b205879050f41ccaefe692aaf814ac" label="mixed materials (180188.15.318)" type="box">15</container>
+              <container id="cb1a2f981a026a15c63b2a62c4a0fc08" parent="e9b205879050f41ccaefe692aaf814ac" type="folder">2</container>
             </did>
           </c>
           <c id="1de701de6cfa4c7d9af30bccbdcdcf46" level="file">
             <did>
               <unittitle>Wright &amp; Hanlon</unittitle>
-              <container id="d0a97f902043c3e47abb1fb05317ba25" label="mixed materials (180188.15.318)" type="box">15</container>
-              <container id="2f73753d4d8e4d65796e6f1ad14780c4" parent="d0a97f902043c3e47abb1fb05317ba25" type="folder">2</container>
+              <container id="af676c60440e9e62e291361fa2fe16dd" label="mixed materials (180188.15.318)" type="box">15</container>
+              <container id="7c4523afcfdced293d09a5d44d54afbc" parent="af676c60440e9e62e291361fa2fe16dd" type="folder">2</container>
             </did>
           </c>
           <c id="6868e82876664d2597b33b04ba16e309" level="file">
             <did>
               <unittitle>Wuest, Nicholas (illness, death and payments to widow</unittitle>
               <unitdate normal="1933/1942" type="inclusive">1933-1942</unitdate>
-              <container id="f86eec3241b43a5376448250c10ecff2" label="mixed materials (180188.15.318)" type="box">15</container>
-              <container id="4b1a96d37df30f8c1da9a312911e6f0c" parent="f86eec3241b43a5376448250c10ecff2" type="folder">2</container>
+              <container id="f9b3f7bf3e8961a6f8bd3f1220cea907" label="mixed materials (180188.15.318)" type="box">15</container>
+              <container id="91e12621a9cf9a265b71618c7bc196e9" parent="f9b3f7bf3e8961a6f8bd3f1220cea907" type="folder">2</container>
             </did>
           </c>
           <c id="8df3491ec98d4196bfd8d6aa8d6959a0" level="file">
             <did>
               <unittitle>Wulffleff, Elsie. Recommendation for past employee</unittitle>
               <unitdate normal="1913/1913" type="inclusive">1913</unitdate>
-              <container id="3ac647d4119c9969a2475c78fefa3154" label="mixed materials (180188.15.318)" type="box">15</container>
-              <container id="47beb8ca029fd5f35e25eb8aae7d3ede" parent="3ac647d4119c9969a2475c78fefa3154" type="folder">2</container>
+              <container id="00d7795ba32b46490d241b1c7f0bceef" label="mixed materials (180188.15.318)" type="box">15</container>
+              <container id="93ac2bb86be825d861eaa594c92373b1" parent="00d7795ba32b46490d241b1c7f0bceef" type="folder">2</container>
             </did>
           </c>
           <c id="f70a18605b4543b290eec2f7d05f4421" level="file">
             <did>
               <unittitle>Wyeth, John &amp; Brother</unittitle>
               <unitdate normal="1913/1913" type="inclusive">1913</unitdate>
-              <container id="08af62ed9ab685fc8136f4a6a5d35f98" label="mixed materials (180188.15.318)" type="box">15</container>
-              <container id="38298eac95017609a95f5015ab79ed23" parent="08af62ed9ab685fc8136f4a6a5d35f98" type="folder">2</container>
+              <container id="1e0a84e71b3d26c47985a648f7502c18" label="mixed materials (180188.15.318)" type="box">15</container>
+              <container id="c983bee5ac81b8853aaf6895281ab7f8" parent="1e0a84e71b3d26c47985a648f7502c18" type="folder">2</container>
             </did>
           </c>
         </c>
@@ -2220,7 +2117,7 @@
           <did>
             <unittitle>Wadley &amp; Smythe</unittitle>
             <unitdate normal="1916/1955" type="inclusive">1916-1955</unitdate>
-            <container id="74e2131a91c91db7c87bdad799b6388d" label="mixed materials (179977.15.318)" type="box">15</container>
+            <container id="82f6069abdeec8b0ba227b0d4f94963f" label="mixed materials (179977.15.318)" type="box">15</container>
           </did>
           <scopecontent id="a203aa644aa486776c58abd02234f42d">
             <head>Scope and Contents note</head>
@@ -2230,7 +2127,7 @@
         <c id="fd66826d9acb4b1388970566033d4bd4" level="file">
           <did>
             <unittitle>War</unittitle>
-            <container id="a4c21edcc9cac90e1cbeb48fa79b3293" label="mixed materials (179977.15.318)" type="box">15</container>
+            <container id="c41c903708fd6ca9c747db878374567c" label="mixed materials (179977.15.318)" type="box">15</container>
           </did>
           <c id="d84b2e5f93464171bc409a97f729dedf" level="file">
             <did>
@@ -2255,7 +2152,7 @@
           <did>
             <unittitle>Warburg, Otto</unittitle>
             <unitdate normal="1924/1949" type="inclusive">1924-1949</unitdate>
-            <container id="5b70c4a9015c389a4583f0c4263644d7" label="mixed materials (179977.15.318)" type="box">15</container>
+            <container id="ff5cdc381461caa2d5889c3af8b267d1" label="mixed materials (179977.15.318)" type="box">15</container>
           </did>
           <scopecontent id="a5b4e0338461545879f3305e8965272c">
             <head>Scope and Contents note</head>
@@ -2266,14 +2163,14 @@
           <did>
             <unittitle>Western Union Telegraph</unittitle>
             <unitdate normal="1913/1959" type="inclusive">1913-1959</unitdate>
-            <container id="493fc6997f0231b9c19abf30c15d4916" label="mixed materials (179977.15.318)" type="box">15</container>
+            <container id="7bc25ae6eb552ad6350ab37a11fa1442" label="mixed materials (179977.15.318)" type="box">15</container>
           </did>
         </c>
         <c id="72927fc8485945a4b0ce5000014d90a5" level="file">
           <did>
             <unittitle>White, William A. &amp; Sons</unittitle>
             <unitdate normal="1917/1942" type="inclusive">1917-1942</unitdate>
-            <container id="3bb9b713dfa0110f893cb6a0c4ae1fed" label="mixed materials (179977.15.318)" type="box">15</container>
+            <container id="d09c064ae95f0ff4cf475932e2fb395e" label="mixed materials (179977.15.318)" type="box">15</container>
           </did>
           <scopecontent id="b9c9b64f3fea83790f0068ade77f3757">
             <head>Scope and Contents note</head>
@@ -2284,7 +2181,7 @@
           <did>
             <unittitle>Wiesner, B.P.</unittitle>
             <unitdate normal="1940/1942" type="inclusive">1940-1942</unitdate>
-            <container id="2f9bc1d3610ec386222e8af485c55ed1" label="mixed materials (179977.15.318)" type="box">15</container>
+            <container id="757d9585aca0ad8ed47d5fed70032eca" label="mixed materials (179977.15.318)" type="box">15</container>
           </did>
           <scopecontent id="e383f9f3db8d001694a0fb4ebf261d18">
             <head>Scope and Contents note</head>
@@ -2294,7 +2191,7 @@
         <c id="ce8c97c83f4047e8923810a5d3a2c9ae" level="file">
           <did>
             <unittitle>Williamsburg restoration</unittitle>
-            <container id="39ea0c2ab831214fd31328ff77e92c47" label="mixed materials (179977.15.318)" type="box">15</container>
+            <container id="e85e6fbbc20f890bb8f1de83778f35f5" label="mixed materials (179977.15.318)" type="box">15</container>
           </did>
           <scopecontent id="65e3a0c0890df6f468f9f679cd5d659f">
             <head>Scope and Contents note</head>
@@ -2304,120 +2201,108 @@
         <c id="61ee8e0595814a0a93dacbe0736c4fa5" level="file">
           <did>
             <unittitle>Woodlawn Cemetery Pamphlets and map</unittitle>
-            <container id="7cdbd3d56d93b7d8abcc2289accf3fd9" label="mixed materials (179977.16.318)" type="box">16</container>
+            <container id="e0aa862b141c239979fadd8f7c72618b" label="mixed materials (179977.16.318)" type="box">16</container>
+            <container id="7d634663276c3337a075abb64a2a7b6c" parent="e0aa862b141c239979fadd8f7c72618b" type="folder">1</container>
           </did>
         </c>
         <c id="e0bc93cd546143769f1184361a48fd4e" level="file">
           <did>
             <unittitle>Working hours; wages</unittitle>
             <unitdate normal="1946/1954" type="inclusive">1946-1954</unitdate>
-            <container id="116440d935d3a5b244a9716c4d7d98ee" label="mixed materials (179977.16.318)" type="box">16</container>
+            <container id="f67333cff95c485ba0aac4b24a289c24" label="mixed materials (179977.16.318)" type="box">16</container>
+            <container id="c3a0c026cb3b891d7adc86ba4f9a4765" parent="f67333cff95c485ba0aac4b24a289c24" type="folder">2</container>
           </did>
         </c>
         <c id="9b8acb0bff624cf59527b653601865f7" level="file">
           <did>
             <unittitle>Workers, volunteer</unittitle>
             <unitdate normal="1927/1962" type="inclusive">1927-1962</unitdate>
-            <container id="50011e8644187cccba10135bcf3d0757" label="mixed materials (179977.16.318)" type="box">16</container>
+            <container id="3b024c4bec1ac3d7d179833b0ddaa56d" label="mixed materials (179977.16.318)" type="box">16</container>
+            <container id="26d7df2283c602015ccc3209fd78d10c" parent="3b024c4bec1ac3d7d179833b0ddaa56d" type="folder">3</container>
           </did>
         </c>
         <c id="3b6e66ebe4be4062b29221ca069e28ac" level="file">
           <did>
             <unittitle>Workman's compensation (see also Employee)</unittitle>
+            <unitdate normal="1913/1934" type="inclusive">1913-1934</unitdate>
             <physdesc id="ebe0301a150a98192e4f5764fd55e772">2 folders</physdesc>
-            <container id="6d54a134df20ab02bdaac8b0726449cf" label="mixed materials (179977.16.318)" type="box">16</container>
+            <container id="bb4d2412c7bbc938dd455731117773b7" label="mixed materials (179977.16.318)" type="box">16</container>
+            <container id="292eea821b7e04e63408123995f886ed" parent="bb4d2412c7bbc938dd455731117773b7" type="folder">4-5</container>
           </did>
           <scopecontent id="399a8d1a1d0a49744df03357d45f2ee4">
             <head>Scope and Contents note</head>
             <p>Includes legislation and other materials affecting RIMR Period of self insurance; Insurance Committee recommendations.</p>
           </scopecontent>
-          <c id="8829da7a4992416aa2f6b4851282d86c" level="file">
-            <did>
-              <unitdate normal="1913/1927" type="inclusive">1913-1927</unitdate>
-            </did>
-          </c>
-          <c id="9164a5f30fcf427c80f8ddb6b0911a52" level="file">
-            <did>
-              <unitdate normal="1928/1934" type="inclusive">1928-1934</unitdate>
-            </did>
-          </c>
         </c>
         <c id="2ec9fa0de32240c39fb85df0a2921443" level="file">
           <did>
             <unittitle>World Fair in New York City</unittitle>
-            <container id="add8ab340db0d8d20c85bf342e159846" label="mixed materials (179977.16.318)" type="box">16</container>
+            <unitdate normal="1936/1940" type="inclusive">1936-1940</unitdate>
+            <container id="d854ea44ea21f6f1d3a0371341ad1d00" label="mixed materials (179977.16.318)" type="box">16</container>
+            <container id="af9908b8765468a95493e7fb1193e74d" parent="d854ea44ea21f6f1d3a0371341ad1d00" type="folder">6</container>
           </did>
-          <c id="707960c1334b445fb6fb239c20c44c87" level="file">
-            <did>
-              <unittitle>Includes signed typescripts from Grover Whalen and Mayor La Guardia</unittitle>
-              <unitdate normal="1937/1940" type="inclusive">1937-1940</unitdate>
-            </did>
-          </c>
+          <scopecontent id="2d7c14bc06c3b15907dd5e8b5212d924">
+            <head>Scope and Contents</head>
+            <p>Includes signed typescripts from Grover Whalen and Mayor La Guardia</p>
+          </scopecontent>
         </c>
         <c id="40c19dafa576449eae593e62de264bbe" level="file">
           <did>
             <unittitle>X-Ray</unittitle>
-            <physdesc id="ace17b2fc6b905098fb5890fd1b35dc4">3 folders</physdesc>
-            <container id="e0510e01fab4a60d581f854f920b3e93" label="mixed materials (179977.16.318)" type="box">16</container>
+            <unitdate normal="1913/1956" type="inclusive">1913-1956</unitdate>
+            <container id="087101b04e0c32635efbbd9630646cd7" label="mixed materials (179977.16.318)" type="box">16</container>
+            <container id="c7e46d43b8921190c1eb0b2c13f226a8" parent="087101b04e0c32635efbbd9630646cd7" type="folder">7-9</container>
           </did>
-          <c id="c746b1fe429e4565a4f0aed6208a035a" level="file">
-            <did>
-              <unitdate normal="1913/1930" type="inclusive">1913-1930</unitdate>
-            </did>
-            <scopecontent id="1c98fc78dae267058ea9487b0e6f9db5">
-              <head>Scope and Contents note</head>
-              <p>Consists of early construction plans; equipment; personnel (Marion Hotopp and Christine McDonald); safety precautions.</p>
-            </scopecontent>
-          </c>
-          <c id="cb59b38b4f70425c836e21359897e838" level="file">
-            <did>
-              <unittitle>Primarily new equipment</unittitle>
-              <unitdate normal="1931/1936" type="inclusive">1931-1936</unitdate>
-            </did>
-          </c>
-          <c id="6d8a1776840f4288a54b07b45e45ad48" level="file">
-            <did>
-              <unittitle>New equipment</unittitle>
-              <unitdate normal="1937/1956" type="inclusive">1937-1956</unitdate>
-            </did>
-          </c>
         </c>
         <c id="bed61c0fab824c129ab4a816e5619a86" level="file">
           <did>
             <unittitle>Yale and Towne Mfg. Installation of locks</unittitle>
             <unitdate normal="1915/1950" type="inclusive">1915-1950</unitdate>
-            <container id="4cfeff87033a2a5d0f1e6551c2a35ae5" label="mixed materials (179977.17.318)" type="box">17</container>
+            <container id="62cdf31106b09ca3c73f6de52b129866" label="mixed materials (179977.17.318)" type="box">17</container>
+            <container id="02d1938029712c86c2c686fdd9201204" parent="62cdf31106b09ca3c73f6de52b129866" type="folder">1</container>
           </did>
         </c>
         <c id="be11d3c6560c4ab497bcde435c06ef20" level="file">
           <did>
             <unittitle>Yale University (with registrar)</unittitle>
-            <container id="142184037a55f046b513c22fefff6768" label="mixed materials (179977.17.318)" type="box">17</container>
+            <container id="477a845aca18ba6963a5306ee205e509" label="mixed materials (179977.17.318)" type="box">17</container>
+            <container id="4894703293d2038a9bbd8bef83524f84" parent="477a845aca18ba6963a5306ee205e509" type="folder">1</container>
           </did>
         </c>
         <c id="f96fd943b18e4d50ade7483317eac456" level="file">
           <did>
             <unittitle>Yellow Taxi</unittitle>
-            <container id="bed6b5634d124adcf161a1c952bc7a43" label="mixed materials (179977.17.318)" type="box">17</container>
+            <container id="70ed9154744b16296f5ec9e4dee027b6" label="mixed materials (179977.17.318)" type="box">17</container>
+            <container id="3a1c628b3d48c0a569bcf4c721370e0c" parent="70ed9154744b16296f5ec9e4dee027b6" type="folder">1</container>
+          </did>
+        </c>
+        <c id="7aa04419ea1b09b11b40656d4bbd3f31" level="file">
+          <did>
+            <unittitle>York Avenue Redevelopment; Yorkville Civic Council</unittitle>
+            <container id="a5fbdab30bb29890831524d569e59bb2" label="mixed materials (179977.17.318)" type="box">17</container>
+            <container id="e614b779b9a9900d33f5effb64149bbd" parent="a5fbdab30bb29890831524d569e59bb2" type="folder">2</container>
           </did>
         </c>
         <c id="177cf8c1fcd341aea6ab12d796a3e9e4" level="file">
           <did>
             <unittitle>Young, John discharged employee</unittitle>
             <unitdate normal="1936/1936" type="inclusive">1936</unitdate>
-            <container id="127bbf1c2b24face8db3cdaf157d2f84" label="mixed materials (179977.17.318)" type="box">17</container>
+            <container id="81366dd73f27e4472a6ef8e0cc373449" label="mixed materials (179977.17.318)" type="box">17</container>
+            <container id="924f3bbb5189a426a7bb1855a2a4b744" parent="81366dd73f27e4472a6ef8e0cc373449" type="folder">3</container>
           </did>
         </c>
         <c id="798dbd0c3a51460fb022407a4342e7ce" level="file">
           <did>
             <unittitle>Young, Saul employee who manufactured pH meter</unittitle>
-            <container id="765f97a10417563b4b4a9e2734725f86" label="mixed materials (179977.17.318)" type="box">17</container>
+            <container id="1dc92a6e4ce2ef056112a1112812fe70" label="mixed materials (179977.17.318)" type="box">17</container>
+            <container id="4ec1ee57a3662f29745330e4b128dc28" parent="1dc92a6e4ce2ef056112a1112812fe70" type="folder">3</container>
           </did>
         </c>
         <c id="2105ba07fa2f4dd784fc177a2ad6ae81" level="file">
           <did>
             <unittitle>Z (various)</unittitle>
-            <container id="bbec6cc5faa0e0f178d107371b17ee6f" label="mixed materials (179977.17.318)" type="box">17</container>
+            <container id="fbc041f0f593f26a3a787156c7d9942b" label="mixed materials (179977.17.318)" type="box">17</container>
+            <container id="50d295c14db896443797b4359e3f6c68" parent="fbc041f0f593f26a3a787156c7d9942b" type="folder">4</container>
           </did>
           <c id="a434a8e995064d4e9ec9031aee4a28f7" level="file">
             <did>
@@ -2459,7 +2344,8 @@
           <did>
             <unittitle>Zoning</unittitle>
             <unitdate normal="1928/1959" type="inclusive">1928-1959</unitdate>
-            <container id="afbfbb232bc16eb878836a1e6615a772" label="mixed materials (179977.17.318)" type="box">17</container>
+            <container id="74e2865e711ad98120c420dacbfcff76" label="mixed materials (179977.17.318)" type="box">17</container>
+            <container id="3380fdfe6d6d794966810852f5829156" parent="74e2865e711ad98120c420dacbfcff76" type="folder">5</container>
           </did>
           <scopecontent id="4ad3182517375fcd22850ffc1ddb46b6">
             <head>Scope and Contents note</head>
@@ -2489,33 +2375,28 @@
             <head>Processing Information</head>
             <p>Date received or inventoried: May, 1978.</p>
           </processinfo>
-          <c id="abba55827d124e449544c2f23ba0aa7e" level="file">
+          <c id="6c800e02d99d4aa8bbab2f071f164680" level="file">
             <did>
-              <unittitle>Buerkel and Co. Construction Engineers</unittitle>
+              <unittitle>Buerkel and Co. Construction Engineers - Correspondence between O.S. Staples and E.B. Smith</unittitle>
+              <unitdate normal="1904/1925" type="inclusive">1904-1925</unitdate>
+              <container id="e99302f3417c4eae5c0fc23e0fb5899c" label="mixed materials (180280.18.318)" type="box">18</container>
+              <container id="de26d8d467f4c4af6c47df7354df0781" parent="e99302f3417c4eae5c0fc23e0fb5899c" type="folder">1</container>
             </did>
-            <c id="6c800e02d99d4aa8bbab2f071f164680" level="file">
-              <did>
-                <unittitle>Correspondence between O.S. Staples and E.B. Smith</unittitle>
-                <unitdate normal="1904/1925" type="inclusive">1904-1925</unitdate>
-                <container id="ffbc910100dafc08f12bda30eeb5180f" label="mixed materials (180280.18.318)" type="box">18</container>
-                <container id="595a906bbedc6810482a3ac5f9bce2f0" parent="ffbc910100dafc08f12bda30eeb5180f" type="folder">1</container>
-              </did>
-            </c>
-            <c id="09a11f2ad0864f088d82f7c28d0e8c12" level="file">
-              <did>
-                <unittitle>On heating and ventilation work done in the Animal House, Power House and cooling systems</unittitle>
-                <unitdate normal="1927/1936" type="inclusive">1927-1936</unitdate>
-                <container id="b0d33357ab1a31fad51ed0e4d3e44bdb" label="mixed materials (180280.18.318)" type="box">18</container>
-                <container id="0df991f542d01e214beae59668af5d32" parent="b0d33357ab1a31fad51ed0e4d3e44bdb" type="folder">2</container>
-              </did>
-            </c>
+          </c>
+          <c id="09a11f2ad0864f088d82f7c28d0e8c12" level="file">
+            <did>
+              <unittitle>Buerkel and Co. Construction Engineers - On heating and ventilation work done in the Animal House, Power House and cooling systems</unittitle>
+              <unitdate normal="1927/1936" type="inclusive">1927-1936</unitdate>
+              <container id="26c3d9bc0ad9b168b5ae0df50ca21107" label="mixed materials (180280.18.318)" type="box">18</container>
+              <container id="1080621eccc718d493f1a98394a35421" parent="26c3d9bc0ad9b168b5ae0df50ca21107" type="folder">2</container>
+            </did>
           </c>
           <c id="794ce1b2110b4281821612db1b3f3b29" level="file">
             <did>
               <unittitle>Matthews Construction Co.</unittitle>
               <unitdate normal="1915/1917" type="inclusive">1915-1917</unitdate>
-              <container id="8f2203843fdb618b6e08c2e36ebf404e" label="mixed materials (180279.18.318)" type="box">18</container>
-              <container id="1affbcfda14af369129a588149150e39" parent="8f2203843fdb618b6e08c2e36ebf404e" type="folder">3</container>
+              <container id="fa834d7e22d28a769223674583cd902e" label="mixed materials (180279.18.318)" type="box">18</container>
+              <container id="f65d3bbbfe407d50c76b52bc86fc46bd" parent="fa834d7e22d28a769223674583cd902e" type="folder">3</container>
             </did>
             <scopecontent id="1736980203a86ba21cb13707f66a09f8">
               <head>Scope and Contents note</head>
@@ -2526,8 +2407,8 @@
             <did>
               <unittitle>Western Electric</unittitle>
               <unitdate normal="1916/1920" type="inclusive">1916-1920</unitdate>
-              <container id="044dc661b641c98523c00b08b42e8fad" label="mixed materials (180279.18.318)" type="box">18</container>
-              <container id="ffddd5a877f86b973066d8f6c20d43b1" parent="044dc661b641c98523c00b08b42e8fad" type="folder">4</container>
+              <container id="5454ec35dda4bc87d3b46ae677617235" label="mixed materials (180279.18.318)" type="box">18</container>
+              <container id="f6bdef0fffb1ea62b87a73e4a4cc520a" parent="5454ec35dda4bc87d3b46ae677617235" type="folder">4</container>
             </did>
             <scopecontent id="533d93f6ccefcef38fe73f80d46e5e96">
               <head>Scope and Contents note</head>
@@ -2538,16 +2419,16 @@
             <did>
               <unittitle>Isolation building</unittitle>
               <unitdate normal="1924/1926" type="inclusive">1924-1926 1948-1949 August</unitdate>
-              <container id="5550685e07ee2cde59e9363f75d977be" label="mixed materials (180279.18.318)" type="box">18</container>
-              <container id="8939c8fbc5cedbc8b47a25c9a8c08795" parent="5550685e07ee2cde59e9363f75d977be" type="folder">5</container>
+              <container id="08ed3403f1f2b22181464ff5539872a8" label="mixed materials (180279.18.318)" type="box">18</container>
+              <container id="8a722ddc4de5290f0b3df7570aaac3d6" parent="08ed3403f1f2b22181464ff5539872a8" type="folder">5</container>
             </did>
           </c>
           <c id="bdfcb7c667d944dd981c924c58163057" level="file">
             <did>
               <unittitle>Isolation Building</unittitle>
               <unitdate>1949 October-1956</unitdate>
-              <container id="4e008cdf4b83c7c607064903f16a4a15" label="mixed materials (180279.18.318)" type="box">18</container>
-              <container id="d77f9d1791dbf9c7bf3b3cb630998c81" parent="4e008cdf4b83c7c607064903f16a4a15" type="folder">6</container>
+              <container id="2db82d78e3749e5af09b303ffa5b2a07" label="mixed materials (180279.18.318)" type="box">18</container>
+              <container id="0d90a647bee42590a18ad4b734295153" parent="2db82d78e3749e5af09b303ffa5b2a07" type="folder">6</container>
             </did>
             <scopecontent id="fc0f4f7c7d1f6978e2ac028ec5423b45">
               <head>Scope and Contents note</head>
@@ -2558,8 +2439,8 @@
             <did>
               <unittitle>Fred Brutschy Company 1933-1951 Plumbing</unittitle>
               <unitdate normal="1929/1951" type="inclusive">1929-1951</unitdate>
-              <container id="12e2e39c07cae3fde80ef50cfff5c352" label="mixed materials (180279.18.318)" type="box">18</container>
-              <container id="06c08432ea77b9deeb3da9a18e1bb0d2" parent="12e2e39c07cae3fde80ef50cfff5c352" type="folder">7</container>
+              <container id="05625ceac44878cb4996011ff9ea393e" label="mixed materials (180279.18.318)" type="box">18</container>
+              <container id="7f638a3e648c2cb91d6529b43b43adf3" parent="05625ceac44878cb4996011ff9ea393e" type="folder">7</container>
             </did>
             <scopecontent id="07463b69d3840eef05ff3ee38d9671be">
               <head>Scope and Contents note</head>
@@ -2570,15 +2451,15 @@
             <did>
               <unittitle>Alvord and Swift. Steamfitters and cooling systems</unittitle>
               <unitdate normal="1933/1952" type="inclusive">1933-1952</unitdate>
-              <container id="85afdbea69483161513c7786571b0338" label="mixed materials (180279.18.318)" type="box">18</container>
-              <container id="1f0e967d73ca3d36d2ceb45a26f8f680" parent="85afdbea69483161513c7786571b0338" type="folder">8</container>
+              <container id="1625fc8daaa37c7535bc5b73d9255090" label="mixed materials (180279.18.318)" type="box">18</container>
+              <container id="d982dbd0501baa74f5106be5d0f2896f" parent="1625fc8daaa37c7535bc5b73d9255090" type="folder">8</container>
             </did>
           </c>
           <c id="e27d752b27e0496880857a8f18565b10" level="file">
             <did>
               <unittitle>Summaries and estimates in two groups</unittitle>
-              <container id="309a845273218442208113c177f90937" label="mixed materials (180279.18.318)" type="box">18</container>
-              <container id="3346d75ed6b0c164e29ceefd175dc410" parent="309a845273218442208113c177f90937" type="folder">9</container>
+              <container id="eb97d4f94e24d3246c197480d64bf836" label="mixed materials (180279.18.318)" type="box">18</container>
+              <container id="faacd2c572c5a70f6d28d6a3584c0af3" parent="eb97d4f94e24d3246c197480d64bf836" type="folder">9</container>
             </did>
             <c id="65821af271164fefa8d0ba422f9060ca" level="file">
               <did>
@@ -2601,8 +2482,8 @@
             <did>
               <unittitle>Coolidge Shepley Bulfinch &amp; Abbott</unittitle>
               <unitdate normal="1928/1959" type="inclusive">1928-1959</unitdate>
-              <container id="08002ad311a8c33c76581f89a51cc87b" label="mixed materials (180279.19.318)" type="box">19</container>
-              <container id="41a15b3a81e5e56ac9ca33dab03f389f" parent="08002ad311a8c33c76581f89a51cc87b" type="folder">1</container>
+              <container id="bc8c8325e90fddc3f92d1b8cc07d31cb" label="mixed materials (180279.19.318)" type="box">19</container>
+              <container id="233f00a2879b8141a401d428923d8b49" parent="bc8c8325e90fddc3f92d1b8cc07d31cb" type="folder">1</container>
             </did>
             <scopecontent id="199f0eb0ad7dfa79852c1aee38f0f29d">
               <head>Scope and Contents note</head>
@@ -2613,15 +2494,15 @@
             <did>
               <unittitle>Construction accounts</unittitle>
               <unitdate>1930 June-1933 June</unitdate>
-              <container id="5e43a97dfb1e7208245f4f796887fce9" label="mixed materials (180279.19.318)" type="box">19</container>
-              <container id="379b523636b1dc4f8c8bbe61eb2275c5" parent="5e43a97dfb1e7208245f4f796887fce9" type="folder">2</container>
+              <container id="32aef0c51e590ef1c35d356fb5285f54" label="mixed materials (180279.19.318)" type="box">19</container>
+              <container id="ce9dd06c97938f06ad3b9eb5ed20452d" parent="32aef0c51e590ef1c35d356fb5285f54" type="folder">2</container>
             </did>
           </c>
           <c id="a85e02977a5e453ab75d390af5276876" level="file">
             <did>
               <unittitle>T86; T100; T139</unittitle>
-              <container id="da7a4f97d359c110b8be196c9929e7ff" label="mixed materials (180279.19.318)" type="box">19</container>
-              <container id="4e986a6495fe19e4657f478103dd4ab6" parent="da7a4f97d359c110b8be196c9929e7ff" type="folder">3</container>
+              <container id="9ee5fd1376e19921a2f2e0b4e9a35d85" label="mixed materials (180279.19.318)" type="box">19</container>
+              <container id="486fa0f83724d9ef8194b33a08a20405" parent="9ee5fd1376e19921a2f2e0b4e9a35d85" type="folder">3</container>
             </did>
           </c>
           <c id="76530f21e11244daac0ceb737da7d961" level="file">
@@ -2629,32 +2510,32 @@
               <unittitle>Library, Assembly-Dining Hall, Pipe tunnel, animal House and connecting unit across 67th Street, generator in Power House and Power Plant additions; new high laboratory; low unit for combined animal and laboratory purposes; service entrance and connecting tunnel; laboratory and animal building at Princeton; greenhouses and tunnel at Princeton</unittitle>
               <unitdate normal="1930/1933" type="inclusive">1930/1931; 1931/1932; 1932/1933</unitdate>
               <physdesc id="1ac761f5a8aa4cbd4b4382105ba638f1">3 folders</physdesc>
-              <container id="cc434aa1cbf878f931c52f06e0eafe35" label="mixed materials (180279.19.318)" type="box">19</container>
-              <container id="e3b1ada004a8adebde4a69532e13cbed" parent="cc434aa1cbf878f931c52f06e0eafe35" type="folder">4</container>
+              <container id="a8cfbddb09bdae4c66c25e65c91b0fba" label="mixed materials (180279.19.318)" type="box">19</container>
+              <container id="455c9ce5def1c4991473fe387fd22d97" parent="a8cfbddb09bdae4c66c25e65c91b0fba" type="folder">4</container>
             </did>
           </c>
           <c id="10ca194dbd7b494b88256567164e1d7c" level="file">
             <did>
               <unittitle>Hospital addition</unittitle>
               <unitdate normal="1948/1950" type="inclusive">1948-1950 September 19</unitdate>
-              <container id="28731f767cdd6d8e6e72fc7648651125" label="mixed materials (180279.19.318)" type="box">19</container>
-              <container id="4f75167d29f6c20a9bfbaa95ad6bd3a1" parent="28731f767cdd6d8e6e72fc7648651125" type="folder">5</container>
+              <container id="3619674ef7f1fd3770e5d7886f3a163f" label="mixed materials (180279.19.318)" type="box">19</container>
+              <container id="719727d5269e98e87f9493b8e08d8a84" parent="3619674ef7f1fd3770e5d7886f3a163f" type="folder">5</container>
             </did>
           </c>
           <c id="47d9bba857fc4f90aabea80f427351d0" level="file">
             <did>
               <unittitle>Hospital addition</unittitle>
               <unitdate normal="1950/1950" type="inclusive">1950 September 26-1951 May 8</unitdate>
-              <container id="314f28e3b642aa35d154838e270c61d9" label="mixed materials (180279.19.318)" type="box">19</container>
-              <container id="572ba1342b167e5e24d03a958a4a1a3a" parent="314f28e3b642aa35d154838e270c61d9" type="folder">6</container>
+              <container id="6db290970ee6bcb4cee8769b4949c0ae" label="mixed materials (180279.19.318)" type="box">19</container>
+              <container id="3a33543350aaa97018a3eeba0089f580" parent="6db290970ee6bcb4cee8769b4949c0ae" type="folder">6</container>
             </did>
           </c>
           <c id="1e253ac099ce43e38df5f8cfc1ef3351" level="file">
             <did>
               <unittitle>Hospital addition</unittitle>
               <unitdate normal="1951/1951" type="inclusive">1951 May 15-1952 June 3</unitdate>
-              <container id="5b37a5f7db93c5a5224175d6d5092320" label="mixed materials (180279.19.318)" type="box">19</container>
-              <container id="0dfb4c9f97902805271a2fd1f957accd" parent="5b37a5f7db93c5a5224175d6d5092320" type="folder">7</container>
+              <container id="6e62dd14f967301400f5720b9801c99a" label="mixed materials (180279.19.318)" type="box">19</container>
+              <container id="eef5c47507b4a9b79024f7c29430b98d" parent="6e62dd14f967301400f5720b9801c99a" type="folder">7</container>
             </did>
             <scopecontent id="d2ad9b3ee1454bf439648b27745ecd03">
               <head>Scope and Contents note</head>
@@ -2665,16 +2546,16 @@
             <did>
               <unittitle>Hospital addition specifications</unittitle>
               <unitdate normal="1949/1949" type="inclusive">1949 March-1949 September</unitdate>
-              <container id="d72c2008b3ac479030a83f6f53210bb9" label="mixed materials (180279.20.318)" type="box">20</container>
-              <container id="0fde7befc79e35057f1f2632313b58fc" parent="d72c2008b3ac479030a83f6f53210bb9" type="folder">1</container>
+              <container id="4cde71c60d2b26b0beec217791542f34" label="mixed materials (180279.20.318)" type="box">20</container>
+              <container id="6535127b0c57093a2b1f23271c3ee697" parent="4cde71c60d2b26b0beec217791542f34" type="folder">1</container>
             </did>
           </c>
           <c id="577657bacb6c4175b2f2be8db2a969ac" level="file">
             <did>
               <unittitle>Hospital addition specifications</unittitle>
               <unitdate normal="1949/1950" type="inclusive">1949 October-1950 October</unitdate>
-              <container id="c56bbe2de4ce9c1bae00cd2a3f0efc8b" label="mixed materials (180279.20.318)" type="box">20</container>
-              <container id="5402454d2590662ea633c3aee1236396" parent="c56bbe2de4ce9c1bae00cd2a3f0efc8b" type="folder">2</container>
+              <container id="fd4cb25445962919544c5524e30ecd73" label="mixed materials (180279.20.318)" type="box">20</container>
+              <container id="3ac4ddedeeb7f360d1f9d70b8f153b5e" parent="fd4cb25445962919544c5524e30ecd73" type="folder">2</container>
             </did>
             <scopecontent id="c07d452be20cbc70a267aea121b50d65">
               <head>Scope and Contents note</head>
@@ -2685,8 +2566,8 @@
             <did>
               <unittitle>Hospital plumbing specifications</unittitle>
               <physdesc id="86b89d2bc476628a6f73b1e83ea69da7">49 pp. and addenda 1-6</physdesc>
-              <container id="658144fd26b6e5bf26ee3ea89b61a190" label="mixed materials (180279.20.318)" type="box">20</container>
-              <container id="25d9dd3fcf053e25f93c693c51a64bcb" parent="658144fd26b6e5bf26ee3ea89b61a190" type="folder">3</container>
+              <container id="58cf818956fbf54454cbb633fefd166d" label="mixed materials (180279.20.318)" type="box">20</container>
+              <container id="52b3e62145bb4f368e5da7d133f0d891" parent="58cf818956fbf54454cbb633fefd166d" type="folder">3</container>
             </did>
             <scopecontent id="0b8dd6704f6b836470836c13c3c72115">
               <head>Scope and Contents note</head>
@@ -2696,8 +2577,8 @@
           <c id="9b9c41d9fd98437fb1ad399d94231013" level="file">
             <did>
               <unittitle>Hospital electrical wiring, alarm systems, elevators</unittitle>
-              <container id="4388c891d7dfda24b4e2fbf5ab357395" label="mixed materials (180279.20.318)" type="box">20</container>
-              <container id="b7cb9458261ead6d4bff2d1b851f060a" parent="4388c891d7dfda24b4e2fbf5ab357395" type="folder">4</container>
+              <container id="9d0d051df8b159f3bfc1d3b31ea81859" label="mixed materials (180279.20.318)" type="box">20</container>
+              <container id="600d8362fc7e2d4c290bc163c8735128" parent="9d0d051df8b159f3bfc1d3b31ea81859" type="folder">4</container>
             </did>
             <scopecontent id="8fb3ce8c7940fb0cd32bf93b63d9ec07">
               <head>Scope and Contents note</head>
@@ -2709,8 +2590,8 @@
             <did>
               <unittitle>Hospital heating, ventilation, air-conditioning and refrigeration</unittitle>
               <unitdate normal="1949/1951" type="inclusive">1949 February-1951 March</unitdate>
-              <container id="fa5cd288bf99537f09a00d361c543fb2" label="mixed materials (180279.20.318)" type="box">20</container>
-              <container id="a542529d89c6bbc736bdb73d5828cb1f" parent="fa5cd288bf99537f09a00d361c543fb2" type="folder">5</container>
+              <container id="6799bf97460f610a1f91d1d48bd6ff04" label="mixed materials (180279.20.318)" type="box">20</container>
+              <container id="64e19ebf5f43df0d8c24e4b8a6979dd7" parent="6799bf97460f610a1f91d1d48bd6ff04" type="folder">5</container>
             </did>
             <scopecontent id="2d062bd580f8aabc00c31e3199bc2f21">
               <head>Scope and Contents note</head>
@@ -2721,16 +2602,16 @@
             <did>
               <unittitle>Hospital Food Service equipment</unittitle>
               <unitdate normal="1949/1951" type="inclusive">1949 June-1951 April</unitdate>
-              <container id="bad520e21df34e0193240b57a7d9fcb1" label="mixed materials (180279.20.318)" type="box">20</container>
-              <container id="e8b9621b89511a464a89803e491d5f8a" parent="bad520e21df34e0193240b57a7d9fcb1" type="folder">6</container>
+              <container id="ae4b58c0d7b7352cf9f8cec3c0416dd3" label="mixed materials (180279.20.318)" type="box">20</container>
+              <container id="6d9a9dc144d937780ad25a552b95c8d1" parent="ae4b58c0d7b7352cf9f8cec3c0416dd3" type="folder">6</container>
             </did>
           </c>
           <c id="adba17c48a614a7e9903b1d24286a017" level="file">
             <did>
               <unittitle>Refrigeration Plant and Cooling Tower</unittitle>
               <unitdate normal="1949/1952" type="inclusive">1949-1952</unitdate>
-              <container id="04445b64190d1f0fb3cdc47fa02bc50f" label="mixed materials (180279.20.318)" type="box">20</container>
-              <container id="8653cc5b66d6dc33b111aeb9406ce802" parent="04445b64190d1f0fb3cdc47fa02bc50f" type="folder">7</container>
+              <container id="1a740ced186359087d2c52c7ff054af2" label="mixed materials (180279.20.318)" type="box">20</container>
+              <container id="91700302fd40be7bedb554e809481303" parent="1a740ced186359087d2c52c7ff054af2" type="folder">7</container>
             </did>
             <scopecontent id="57b342c4a0adbb72db770f7ffe411853">
               <head>Scope and Contents note</head>
@@ -2741,8 +2622,8 @@
             <did>
               <unittitle>Power Plant addition</unittitle>
               <unitdate normal="1952/1955" type="inclusive">1952-1955</unitdate>
-              <container id="262aeef115871ed8684b4d3d13dc4b5b" label="mixed materials (180279.20.318)" type="box">20</container>
-              <container id="9ca6c3d55d7b1cae4da61f09577382b8" parent="262aeef115871ed8684b4d3d13dc4b5b" type="folder">8</container>
+              <container id="527b729156ae7f7f64fcefe0c54981d1" label="mixed materials (180279.20.318)" type="box">20</container>
+              <container id="8c052fae969916ca5bf135e36545a948" parent="527b729156ae7f7f64fcefe0c54981d1" type="folder">8</container>
             </did>
             <scopecontent id="7667c12d1b84c48b0d4cfd949cf166e4">
               <head>Scope and Contents note</head>
