@@ -1,1 +1,79 @@
-{"error":"wrong number of arguments (1 for 2)"}
+<?xml version="1.0" encoding="UTF-8"?>
+<mets xmlns="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/mets/mets.xsd">
+  <dmdSec ID="2463">
+    <mdWrap MDTYPE="MODS">
+      <xmlData>
+        <mods version="3.4" xmlns="http://www.loc.gov/mods/v3">
+          <mods:titleInfo>
+            <mods:title>Budget Committee</mods:title>
+          </mods:titleInfo>
+          <mods:typeOfResource>text</mods:typeOfResource>
+          <mods:originInfo>
+            <mods:dateCreated>27 September 1926</mods:dateCreated>
+          </mods:originInfo>
+          <mods:language>
+            <mods:languageTerm type="code">eng</mods:languageTerm>
+          </mods:language>
+          <mods:physicalDescription/>
+          <mods:note type="originalsloc">d43c66e0-ab1e-4258-bc34-4b87d66f2f8f</mods:note>
+          <mods:accessCondition type="restrictionOnAccess">As the author is deceased, the Rockefeller Foundation restriction on the diaries of living officers no longer applies. The Rockefeller Foundation twenty-year embargo has also expired for these materials.</mods:accessCondition>
+          <mods:accessCondition type="useAndReproduction">To the extent that the Rockefeller Foundation owns copyright in these materials, it has given the Rockefeller Archive Center the authority to grant permission to cite and publish material from the collection for scholarly purposes.</mods:accessCondition>
+          <mods:identifier type="local">ca3a97df-abec-48e0-a2c4-9392572bca0b</mods:identifier>
+          <mods:relatedItem displayLabel="resource" type="host">
+            <mods:name>Rockefeller Foundation records, officers' diaries, RG 12, S-Z</mods:name>
+            <mods:identifier>FA394.xml</mods:identifier>
+          </mods:relatedItem>
+          <mods:relatedItem displayLabel="component" type="host">
+            <mods:name>Budget Committee, 27 September 1926</mods:name>
+            <mods:identifier>14f970a209a0404e9002f1e6261b70c9</mods:identifier>
+          </mods:relatedItem>
+        </mods>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec>
+    <techMD ID="2463">
+      <mdWrap MDTYPE="PREMIS:OBJECT">
+        <xmlData>
+          <object version="2.2" xmlns="info:lc/xmlns/premis-v2" xsi:schemaLocation="info:lc/xmlns/premis-v2 http://www.loc.gov/standards/premis/v2/premis-v2-2.xsd" xsi:type="file">
+            <objectIdentifier>
+              <objectIdentifierType>ArchivesSpace identifier</objectIdentifierType>
+              <objectIdentifierValue>2463</objectIdentifierValue>
+            </objectIdentifier>
+            <objectCharacteristics>
+              <fixity>
+                <messageDigestAlgorithm/>
+                <messageDigest/>
+              </fixity>
+              <size/>
+              <format>
+                <formatDesignation>
+                  <formatName/>
+                  <formatVersion/>
+                </formatDesignation>
+              </format>
+            </objectCharacteristics>
+          </object>
+        </xmlData>
+      </mdWrap>
+    </techMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="translation missing: en.enumerations.file_version_use_statement.service-edited">
+      <file AMDID="2463" GROUPID="2463" ID="2463">
+        <FLocat xlink:href="http://storage.rockarch.org/ca3a97df-abec-48e0-a2c4-9392572bca0b-rac_rfdiaries_12-2_vincent_1917-1929_093.pdf"/>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="logical">
+    <div DMDID="2463" LABEL="Budget Committee" ORDER="1" TYPE="item">
+      <fptr FILEID="2463"/>
+    </div>
+  </structMap>
+  <structMap TYPE="physical">
+    <div DMDID="2463" LABEL="Budget Committee" ORDER="1" TYPE="item">
+      <fptr FILEID="2463"/>
+    </div>
+  </structMap>
+</mets>
+

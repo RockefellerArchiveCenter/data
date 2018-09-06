@@ -1,1 +1,79 @@
-{"error":"wrong number of arguments (1 for 2)"}
+<?xml version="1.0" encoding="UTF-8"?>
+<mets xmlns="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/mets/mets.xsd">
+  <dmdSec ID="2467">
+    <mdWrap MDTYPE="MODS">
+      <xmlData>
+        <mods version="3.4" xmlns="http://www.loc.gov/mods/v3">
+          <mods:titleInfo>
+            <mods:title>Diary: Gladys E. Russell</mods:title>
+          </mods:titleInfo>
+          <mods:typeOfResource>text</mods:typeOfResource>
+          <mods:originInfo>
+            <mods:dateCreated>15 February - 17 November 1926</mods:dateCreated>
+          </mods:originInfo>
+          <mods:language>
+            <mods:languageTerm type="code">eng</mods:languageTerm>
+          </mods:language>
+          <mods:physicalDescription/>
+          <mods:note type="originalsloc">d43c66e0-ab1e-4258-bc34-4b87d66f2f8f</mods:note>
+          <mods:accessCondition type="restrictionOnAccess">As the author is deceased, the Rockefeller Foundation restriction on the diaries of living officers no longer applies. The Rockefeller Foundation twenty-year embargo has also expired for these materials.</mods:accessCondition>
+          <mods:accessCondition type="useAndReproduction">To the extent that the Rockefeller Foundation owns copyright in these materials, it has given the Rockefeller Archive Center the authority to grant permission to cite and publish material from the collection for scholarly purposes.</mods:accessCondition>
+          <mods:identifier type="local">af01d343-4a21-40ca-82ef-f696c4a95aad</mods:identifier>
+          <mods:relatedItem displayLabel="resource" type="host">
+            <mods:name>Rockefeller Foundation records, officers' diaries, RG 12, S-Z</mods:name>
+            <mods:identifier>FA394.xml</mods:identifier>
+          </mods:relatedItem>
+          <mods:relatedItem displayLabel="component" type="host">
+            <mods:name>Diary: Gladys E. Russell, 15 February-17 November 1926</mods:name>
+            <mods:identifier>2a171d23a0ab4abca320ca2325378ce2</mods:identifier>
+          </mods:relatedItem>
+        </mods>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec>
+    <techMD ID="2467">
+      <mdWrap MDTYPE="PREMIS:OBJECT">
+        <xmlData>
+          <object version="2.2" xmlns="info:lc/xmlns/premis-v2" xsi:schemaLocation="info:lc/xmlns/premis-v2 http://www.loc.gov/standards/premis/v2/premis-v2-2.xsd" xsi:type="file">
+            <objectIdentifier>
+              <objectIdentifierType>ArchivesSpace identifier</objectIdentifierType>
+              <objectIdentifierValue>2467</objectIdentifierValue>
+            </objectIdentifier>
+            <objectCharacteristics>
+              <fixity>
+                <messageDigestAlgorithm/>
+                <messageDigest/>
+              </fixity>
+              <size/>
+              <format>
+                <formatDesignation>
+                  <formatName/>
+                  <formatVersion/>
+                </formatDesignation>
+              </format>
+            </objectCharacteristics>
+          </object>
+        </xmlData>
+      </mdWrap>
+    </techMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="translation missing: en.enumerations.file_version_use_statement.service-edited">
+      <file AMDID="2467" GROUPID="2467" ID="2467">
+        <FLocat xlink:href="http://storage.rockarch.org/af01d343-4a21-40ca-82ef-f696c4a95aad-rac_rfdiaries_12-2_vincent_1917-1929_097.pdf"/>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="logical">
+    <div DMDID="2467" LABEL="Diary: Gladys E. Russell" ORDER="1" TYPE="item">
+      <fptr FILEID="2467"/>
+    </div>
+  </structMap>
+  <structMap TYPE="physical">
+    <div DMDID="2467" LABEL="Diary: Gladys E. Russell" ORDER="1" TYPE="item">
+      <fptr FILEID="2467"/>
+    </div>
+  </structMap>
+</mets>
+

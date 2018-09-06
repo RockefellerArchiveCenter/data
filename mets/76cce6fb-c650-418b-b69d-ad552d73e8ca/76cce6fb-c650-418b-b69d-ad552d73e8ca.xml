@@ -1,1 +1,79 @@
-{"error":"wrong number of arguments (1 for 2)"}
+<?xml version="1.0" encoding="UTF-8"?>
+<mets xmlns="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/mets/mets.xsd">
+  <dmdSec ID="1532">
+    <mdWrap MDTYPE="MODS">
+      <xmlData>
+        <mods version="3.4" xmlns="http://www.loc.gov/mods/v3">
+          <mods:titleInfo>
+            <mods:title>1940 July-December</mods:title>
+          </mods:titleInfo>
+          <mods:typeOfResource>text</mods:typeOfResource>
+          <mods:originInfo>
+            <mods:dateCreated>1940 July-December</mods:dateCreated>
+          </mods:originInfo>
+          <mods:language>
+            <mods:languageTerm type="code">eng</mods:languageTerm>
+          </mods:language>
+          <mods:physicalDescription/>
+          <mods:note type="originalsloc">2c6fff87-071e-45ec-a0dd-19ec63c445ea</mods:note>
+          <mods:accessCondition type="restrictionOnAccess">As the author is deceased, the Rockefeller Foundation restriction on the diaries of living officers no longer applies. The Rockefeller Foundation twenty-year embargo has also expired for these materials.</mods:accessCondition>
+          <mods:accessCondition type="useAndReproduction">To the extent that the Rockefeller Foundation owns copyright in these materials, it has given the Rockefeller Archive Center the authority to grant permission to cite and publish material from the collection for scholarly purposes.</mods:accessCondition>
+          <mods:identifier type="local">76cce6fb-c650-418b-b69d-ad552d73e8ca</mods:identifier>
+          <mods:relatedItem displayLabel="resource" type="host">
+            <mods:name>Rockefeller Foundation records, officers' diaries, RG 12, S-Z</mods:name>
+            <mods:identifier>FA394.xml</mods:identifier>
+          </mods:relatedItem>
+          <mods:relatedItem displayLabel="component" type="host">
+            <mods:name>1940 July-December</mods:name>
+            <mods:identifier>b8647d27a39d49aeab978e4e91cf7a62</mods:identifier>
+          </mods:relatedItem>
+        </mods>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec>
+    <techMD ID="1532">
+      <mdWrap MDTYPE="PREMIS:OBJECT">
+        <xmlData>
+          <object version="2.2" xmlns="info:lc/xmlns/premis-v2" xsi:schemaLocation="info:lc/xmlns/premis-v2 http://www.loc.gov/standards/premis/v2/premis-v2-2.xsd" xsi:type="file">
+            <objectIdentifier>
+              <objectIdentifierType>ArchivesSpace identifier</objectIdentifierType>
+              <objectIdentifierValue>1532</objectIdentifierValue>
+            </objectIdentifier>
+            <objectCharacteristics>
+              <fixity>
+                <messageDigestAlgorithm/>
+                <messageDigest/>
+              </fixity>
+              <size/>
+              <format>
+                <formatDesignation>
+                  <formatName/>
+                  <formatVersion/>
+                </formatDesignation>
+              </format>
+            </objectCharacteristics>
+          </object>
+        </xmlData>
+      </mdWrap>
+    </techMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="translation missing: en.enumerations.file_version_use_statement.service-edited">
+      <file AMDID="1532" GROUPID="1532" ID="1532">
+        <FLocat xlink:href="http://storage.rockarch.org/76cce6fb-c650-418b-b69d-ad552d73e8ca-rac_rfdiaries_12-2_stevens_1932-1949_011.pdf"/>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="logical">
+    <div DMDID="1532" LABEL="1940 July-December" ORDER="1" TYPE="item">
+      <fptr FILEID="1532"/>
+    </div>
+  </structMap>
+  <structMap TYPE="physical">
+    <div DMDID="1532" LABEL="1940 July-December" ORDER="1" TYPE="item">
+      <fptr FILEID="1532"/>
+    </div>
+  </structMap>
+</mets>
+

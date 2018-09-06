@@ -1,1 +1,79 @@
-{"error":"wrong number of arguments (1 for 2)"}
+<?xml version="1.0" encoding="UTF-8"?>
+<mets xmlns="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/mets/mets.xsd">
+  <dmdSec ID="2481">
+    <mdWrap MDTYPE="MODS">
+      <xmlData>
+        <mods version="3.4" xmlns="http://www.loc.gov/mods/v3">
+          <mods:titleInfo>
+            <mods:title>1925 October-December</mods:title>
+          </mods:titleInfo>
+          <mods:typeOfResource>text</mods:typeOfResource>
+          <mods:originInfo>
+            <mods:dateCreated>1925 October-December</mods:dateCreated>
+          </mods:originInfo>
+          <mods:language>
+            <mods:languageTerm type="code">eng</mods:languageTerm>
+          </mods:language>
+          <mods:physicalDescription/>
+          <mods:note type="originalsloc">096e9d4c-9bd7-428b-a0f3-84d9c6895536</mods:note>
+          <mods:accessCondition type="restrictionOnAccess">No restrictions on access.</mods:accessCondition>
+          <mods:accessCondition type="useAndReproduction">To the extent that the donor owns copyright in these materials, he/she has given the Rockefeller Archive Center the authority to grant permission to cite and publish material from the collection for scholarly purposes; however, copyright in some items may be held by their respective creators.  Please consult an archivist for further details.</mods:accessCondition>
+          <mods:identifier type="local">aa625da0-2d3e-45ca-a37c-375e9887725e</mods:identifier>
+          <mods:relatedItem displayLabel="resource" type="host">
+            <mods:name>Rockefeller Foundation records, officers' diaries, RG 12, S-Z</mods:name>
+            <mods:identifier>FA394.xml</mods:identifier>
+          </mods:relatedItem>
+          <mods:relatedItem displayLabel="component" type="host">
+            <mods:name>1925 October-December</mods:name>
+            <mods:identifier>6566caf9cf0543a49420edb8a6bd751b</mods:identifier>
+          </mods:relatedItem>
+        </mods>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec>
+    <techMD ID="2859">
+      <mdWrap MDTYPE="PREMIS:OBJECT">
+        <xmlData>
+          <object version="2.2" xmlns="info:lc/xmlns/premis-v2" xsi:schemaLocation="info:lc/xmlns/premis-v2 http://www.loc.gov/standards/premis/v2/premis-v2-2.xsd" xsi:type="file">
+            <objectIdentifier>
+              <objectIdentifierType>ArchivesSpace identifier</objectIdentifierType>
+              <objectIdentifierValue>2859</objectIdentifierValue>
+            </objectIdentifier>
+            <objectCharacteristics>
+              <fixity>
+                <messageDigestAlgorithm/>
+                <messageDigest/>
+              </fixity>
+              <size/>
+              <format>
+                <formatDesignation>
+                  <formatName/>
+                  <formatVersion/>
+                </formatDesignation>
+              </format>
+            </objectCharacteristics>
+          </object>
+        </xmlData>
+      </mdWrap>
+    </techMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="translation missing: en.enumerations.file_version_use_statement.service-edited">
+      <file AMDID="2859" GROUPID="2481" ID="2859">
+        <FLocat xlink:href="http://storage.rockarch.org/aa625da0-2d3e-45ca-a37c-375e9887725e-rac_rfdiaries_12-2_walker_1925-1940_002.pdf&#10;"/>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="logical">
+    <div DMDID="2481" LABEL="1925 October-December" ORDER="1" TYPE="item">
+      <fptr FILEID="2859"/>
+    </div>
+  </structMap>
+  <structMap TYPE="physical">
+    <div DMDID="2481" LABEL="1925 October-December" ORDER="1" TYPE="item">
+      <fptr FILEID="2859"/>
+    </div>
+  </structMap>
+</mets>
+
