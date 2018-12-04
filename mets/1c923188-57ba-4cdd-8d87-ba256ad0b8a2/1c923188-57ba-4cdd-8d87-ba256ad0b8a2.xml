@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mets xmlns="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/mets/mets.xsd">
+  <dmdSec ID="2508">
+    <mdWrap MDTYPE="MODS">
+      <xmlData>
+        <mods version="3.4" xmlns="http://www.loc.gov/mods/v3">
+          <mods:titleInfo>
+            <mods:title>Heiser_1916_Vol.I.pdf</mods:title>
+          </mods:titleInfo>
+          <mods:typeOfResource/>
+          <mods:originInfo/>
+          <mods:language>
+            <mods:languageTerm type="code"></mods:languageTerm>
+          </mods:language>
+          <mods:physicalDescription/>
+          <mods:note type="originalsloc">6b2c43ae-778e-4555-ade5-e26d0a441b72</mods:note>
+          <mods:note type="note">Includes: Honolulu, Fiji Islands, Samoa, Tonga, New Zealand, Australia, Papua, Celebes, Java, Straits Settlements, Federated Malay States, Siam.</mods:note>
+          <mods:note type="note">This item was originally in Rockefeller Foundation records, International Health Board/Division records, RG 5, Series 2 Special Reports.</mods:note>
+          <mods:identifier type="local">1c923188-57ba-4cdd-8d87-ba256ad0b8a2</mods:identifier>
+          <mods:relatedItem displayLabel="resource" type="host">
+            <mods:name>Rockefeller Foundation records, officers' diaries, RG 12, F-L</mods:name>
+            <mods:identifier>FA392.xml</mods:identifier>
+          </mods:relatedItem>
+          <mods:relatedItem displayLabel="component" type="host">
+            <mods:name>Notes on the 1916 Trip, Vol I., 1916</mods:name>
+            <mods:identifier>f1f430b3a2d11621426358fa1eba180a</mods:identifier>
+          </mods:relatedItem>
+        </mods>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec>
+    <techMD ID="2896">
+      <mdWrap MDTYPE="PREMIS:OBJECT">
+        <xmlData>
+          <object version="2.2" xmlns="info:lc/xmlns/premis-v2" xsi:schemaLocation="info:lc/xmlns/premis-v2 http://www.loc.gov/standards/premis/v2/premis-v2-2.xsd" xsi:type="file">
+            <objectIdentifier>
+              <objectIdentifierType>ArchivesSpace identifier</objectIdentifierType>
+              <objectIdentifierValue>2896</objectIdentifierValue>
+            </objectIdentifier>
+            <objectCharacteristics>
+              <fixity>
+                <messageDigestAlgorithm/>
+                <messageDigest/>
+              </fixity>
+              <size>119083666</size>
+              <format>
+                <formatDesignation>
+                  <formatName>pdf</formatName>
+                  <formatVersion>Generic PDF</formatVersion>
+                </formatDesignation>
+              </format>
+            </objectCharacteristics>
+          </object>
+        </xmlData>
+      </mdWrap>
+    </techMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="">
+      <file AMDID="2896" GROUPID="2508" ID="2896">
+        <FLocat xlink:href="http://storage.rockarch.org/1c923188-57ba-4cdd-8d87-ba256ad0b8a2-Heiser_1916_Vol.I.pdf"/>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="logical">
+    <div DMDID="2508" LABEL="Heiser_1916_Vol.I.pdf" ORDER="1" TYPE="item">
+      <fptr FILEID="2896"/>
+    </div>
+  </structMap>
+  <structMap TYPE="physical">
+    <div DMDID="2508" LABEL="Heiser_1916_Vol.I.pdf" ORDER="1" TYPE="item">
+      <fptr FILEID="2896"/>
+    </div>
+  </structMap>
+</mets>
+
