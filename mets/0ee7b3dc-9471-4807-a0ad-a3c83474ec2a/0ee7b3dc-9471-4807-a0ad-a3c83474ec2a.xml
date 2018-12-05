@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mets xmlns="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/mets/mets.xsd">
+  <dmdSec ID="2503">
+    <mdWrap MDTYPE="MODS">
+      <xmlData>
+        <mods version="3.4" xmlns="http://www.loc.gov/mods/v3">
+          <mods:titleInfo>
+            <mods:title>Balfour_1945-1949.pdf</mods:title>
+          </mods:titleInfo>
+          <mods:typeOfResource/>
+          <mods:originInfo/>
+          <mods:language>
+            <mods:languageTerm type="code"></mods:languageTerm>
+          </mods:language>
+          <mods:physicalDescription/>
+          <mods:identifier type="local">0ee7b3dc-9471-4807-a0ad-a3c83474ec2a</mods:identifier>
+          <mods:relatedItem displayLabel="resource" type="host">
+            <mods:name>Rockefeller Foundation records, officers' diaries, RG 12, A-E</mods:name>
+            <mods:identifier>FA391.xml</mods:identifier>
+          </mods:relatedItem>
+          <mods:relatedItem displayLabel="component" type="host">
+            <mods:name>1945-1949</mods:name>
+            <mods:identifier>a34d0a4d4b464058b1c234ae27df5cb2</mods:identifier>
+          </mods:relatedItem>
+        </mods>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec>
+    <techMD ID="2900">
+      <mdWrap MDTYPE="PREMIS:OBJECT">
+        <xmlData>
+          <object version="2.2" xmlns="info:lc/xmlns/premis-v2" xsi:schemaLocation="info:lc/xmlns/premis-v2 http://www.loc.gov/standards/premis/v2/premis-v2-2.xsd" xsi:type="file">
+            <objectIdentifier>
+              <objectIdentifierType>ArchivesSpace identifier</objectIdentifierType>
+              <objectIdentifierValue>2900</objectIdentifierValue>
+            </objectIdentifier>
+            <objectCharacteristics>
+              <fixity>
+                <messageDigestAlgorithm/>
+                <messageDigest/>
+              </fixity>
+              <size/>
+              <format>
+                <formatDesignation>
+                  <formatName>pdf</formatName>
+                  <formatVersion>Generic PDF</formatVersion>
+                </formatDesignation>
+              </format>
+            </objectCharacteristics>
+          </object>
+        </xmlData>
+      </mdWrap>
+    </techMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="">
+      <file AMDID="2900" GROUPID="2503" ID="2900">
+        <FLocat xlink:href="http://storage.rockarch.org/0ee7b3dc-9471-4807-a0ad-a3c83474ec2a-Balfour_1945-1949.pdf"/>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="logical">
+    <div DMDID="2503" LABEL="Balfour_1945-1949.pdf" ORDER="1" TYPE="item">
+      <fptr FILEID="2900"/>
+    </div>
+  </structMap>
+  <structMap TYPE="physical">
+    <div DMDID="2503" LABEL="Balfour_1945-1949.pdf" ORDER="1" TYPE="item">
+      <fptr FILEID="2900"/>
+    </div>
+  </structMap>
+</mets>
+
