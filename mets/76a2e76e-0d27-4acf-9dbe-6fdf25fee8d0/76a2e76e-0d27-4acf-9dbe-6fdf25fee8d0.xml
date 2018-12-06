@@ -7,7 +7,7 @@
           <mods:titleInfo>
             <mods:title>Grand Street Settlement</mods:title>
           </mods:titleInfo>
-          <mods:typeOfResource>text</mods:typeOfResource>
+          <mods:typeOfResource>Text</mods:typeOfResource>
           <mods:originInfo>
             <mods:dateCreated>1988-1992</mods:dateCreated>
           </mods:originInfo>
@@ -25,20 +25,20 @@
           </mods:relatedItem>
           <mods:relatedItem displayLabel="component" type="host">
             <mods:name>Grand Street Settlement, 1988-1992</mods:name>
-            <mods:identifier>ref1336_i72</mods:identifier>
+            <mods:identifier>bdbf026d23e74d8b987eb95fa8802843</mods:identifier>
           </mods:relatedItem>
         </mods>
       </xmlData>
     </mdWrap>
   </dmdSec>
   <amdSec>
-    <techMD ID="827">
+    <techMD ID="3658">
       <mdWrap MDTYPE="PREMIS:OBJECT">
         <xmlData>
           <object version="2.2" xmlns="info:lc/xmlns/premis-v2" xsi:schemaLocation="info:lc/xmlns/premis-v2 http://www.loc.gov/standards/premis/v2/premis-v2-2.xsd" xsi:type="file">
             <objectIdentifier>
               <objectIdentifierType>ArchivesSpace identifier</objectIdentifierType>
-              <objectIdentifierValue>827</objectIdentifierValue>
+              <objectIdentifierValue>3658</objectIdentifierValue>
             </objectIdentifier>
             <objectCharacteristics>
               <fixity>
@@ -60,19 +60,19 @@
   </amdSec>
   <fileSec>
     <fileGrp USE="Image-Service">
-      <file AMDID="827" GROUPID="827" ID="827">
+      <file AMDID="3658" GROUPID="827" ID="3658">
         <FLocat xlink:href="http://storage.rockarch.org/76a2e76e-0d27-4acf-9dbe-6fdf25fee8d0-FCD001_069_00948.pdf"/>
       </file>
     </fileGrp>
   </fileSec>
   <structMap TYPE="logical">
     <div DMDID="827" LABEL="Grand Street Settlement" ORDER="1" TYPE="item">
-      <fptr FILEID="827"/>
+      <fptr FILEID="3658"/>
     </div>
   </structMap>
   <structMap TYPE="physical">
     <div DMDID="827" LABEL="Grand Street Settlement" ORDER="1" TYPE="item">
-      <fptr FILEID="827"/>
+      <fptr FILEID="3658"/>
     </div>
   </structMap>
 </mets>

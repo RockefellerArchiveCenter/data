@@ -7,7 +7,7 @@
           <mods:titleInfo>
             <mods:title>East Harlem Interfaith, Inc.</mods:title>
           </mods:titleInfo>
-          <mods:typeOfResource>text</mods:typeOfResource>
+          <mods:typeOfResource>Text</mods:typeOfResource>
           <mods:originInfo>
             <mods:dateCreated>1989</mods:dateCreated>
           </mods:originInfo>
@@ -25,20 +25,20 @@
           </mods:relatedItem>
           <mods:relatedItem displayLabel="component" type="host">
             <mods:name>East Harlem Interfaith, Inc., 1989</mods:name>
-            <mods:identifier>ref1306_3r1</mods:identifier>
+            <mods:identifier>a18f0565668e471aaae2456ae601a4ea</mods:identifier>
           </mods:relatedItem>
         </mods>
       </xmlData>
     </mdWrap>
   </dmdSec>
   <amdSec>
-    <techMD ID="801">
+    <techMD ID="3632">
       <mdWrap MDTYPE="PREMIS:OBJECT">
         <xmlData>
           <object version="2.2" xmlns="info:lc/xmlns/premis-v2" xsi:schemaLocation="info:lc/xmlns/premis-v2 http://www.loc.gov/standards/premis/v2/premis-v2-2.xsd" xsi:type="file">
             <objectIdentifier>
               <objectIdentifierType>ArchivesSpace identifier</objectIdentifierType>
-              <objectIdentifierValue>801</objectIdentifierValue>
+              <objectIdentifierValue>3632</objectIdentifierValue>
             </objectIdentifier>
             <objectCharacteristics>
               <fixity>
@@ -60,19 +60,19 @@
   </amdSec>
   <fileSec>
     <fileGrp USE="Image-Service">
-      <file AMDID="801" GROUPID="801" ID="801">
+      <file AMDID="3632" GROUPID="801" ID="3632">
         <FLocat xlink:href="http://storage.rockarch.org/958168d9-6d7e-4394-9592-2b2210e2c640-FCD001_066_00001.pdf"/>
       </file>
     </fileGrp>
   </fileSec>
   <structMap TYPE="logical">
     <div DMDID="801" LABEL="East Harlem Interfaith, Inc." ORDER="1" TYPE="item">
-      <fptr FILEID="801"/>
+      <fptr FILEID="3632"/>
     </div>
   </structMap>
   <structMap TYPE="physical">
     <div DMDID="801" LABEL="East Harlem Interfaith, Inc." ORDER="1" TYPE="item">
-      <fptr FILEID="801"/>
+      <fptr FILEID="3632"/>
     </div>
   </structMap>
 </mets>

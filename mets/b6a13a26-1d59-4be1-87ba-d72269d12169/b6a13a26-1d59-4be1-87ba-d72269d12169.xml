@@ -7,7 +7,7 @@
           <mods:titleInfo>
             <mods:title>Free University of Berlin</mods:title>
           </mods:titleInfo>
-          <mods:typeOfResource>text</mods:typeOfResource>
+          <mods:typeOfResource>Text</mods:typeOfResource>
           <mods:originInfo>
             <mods:dateCreated>1982</mods:dateCreated>
           </mods:originInfo>
@@ -25,20 +25,20 @@
           </mods:relatedItem>
           <mods:relatedItem displayLabel="component" type="host">
             <mods:name>Free University of Berlin, 1982</mods:name>
-            <mods:identifier>ref1327_d4q</mods:identifier>
+            <mods:identifier>0f58fe88f8bf4301a8ec44c471d3d42a</mods:identifier>
           </mods:relatedItem>
         </mods>
       </xmlData>
     </mdWrap>
   </dmdSec>
   <amdSec>
-    <techMD ID="818">
+    <techMD ID="3649">
       <mdWrap MDTYPE="PREMIS:OBJECT">
         <xmlData>
           <object version="2.2" xmlns="info:lc/xmlns/premis-v2" xsi:schemaLocation="info:lc/xmlns/premis-v2 http://www.loc.gov/standards/premis/v2/premis-v2-2.xsd" xsi:type="file">
             <objectIdentifier>
               <objectIdentifierType>ArchivesSpace identifier</objectIdentifierType>
-              <objectIdentifierValue>818</objectIdentifierValue>
+              <objectIdentifierValue>3649</objectIdentifierValue>
             </objectIdentifier>
             <objectCharacteristics>
               <fixity>
@@ -60,19 +60,19 @@
   </amdSec>
   <fileSec>
     <fileGrp USE="Image-Service">
-      <file AMDID="818" GROUPID="818" ID="818">
+      <file AMDID="3649" GROUPID="818" ID="3649">
         <FLocat xlink:href="http://storage.rockarch.org/b6a13a26-1d59-4be1-87ba-d72269d12169-FCD001_068_00726.pdf"/>
       </file>
     </fileGrp>
   </fileSec>
   <structMap TYPE="logical">
     <div DMDID="818" LABEL="Free University of Berlin" ORDER="1" TYPE="item">
-      <fptr FILEID="818"/>
+      <fptr FILEID="3649"/>
     </div>
   </structMap>
   <structMap TYPE="physical">
     <div DMDID="818" LABEL="Free University of Berlin" ORDER="1" TYPE="item">
-      <fptr FILEID="818"/>
+      <fptr FILEID="3649"/>
     </div>
   </structMap>
 </mets>

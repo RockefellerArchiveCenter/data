@@ -7,7 +7,7 @@
           <mods:titleInfo>
             <mods:title>Johns Hopkins University - Institute for Policy Studies</mods:title>
           </mods:titleInfo>
-          <mods:typeOfResource>text</mods:typeOfResource>
+          <mods:typeOfResource>Text</mods:typeOfResource>
           <mods:originInfo>
             <mods:dateCreated>1989-1991</mods:dateCreated>
           </mods:originInfo>
@@ -25,20 +25,20 @@
           </mods:relatedItem>
           <mods:relatedItem displayLabel="component" type="host">
             <mods:name>Johns Hopkins University - Institute for Policy Studies, 1989-1991</mods:name>
-            <mods:identifier>ref1355_zy7</mods:identifier>
+            <mods:identifier>a0904dd4965f4cb3884fa862da7c54cd</mods:identifier>
           </mods:relatedItem>
         </mods>
       </xmlData>
     </mdWrap>
   </dmdSec>
   <amdSec>
-    <techMD ID="836">
+    <techMD ID="3667">
       <mdWrap MDTYPE="PREMIS:OBJECT">
         <xmlData>
           <object version="2.2" xmlns="info:lc/xmlns/premis-v2" xsi:schemaLocation="info:lc/xmlns/premis-v2 http://www.loc.gov/standards/premis/v2/premis-v2-2.xsd" xsi:type="file">
             <objectIdentifier>
               <objectIdentifierType>ArchivesSpace identifier</objectIdentifierType>
-              <objectIdentifierValue>836</objectIdentifierValue>
+              <objectIdentifierValue>3667</objectIdentifierValue>
             </objectIdentifier>
             <objectCharacteristics>
               <fixity>
@@ -60,19 +60,19 @@
   </amdSec>
   <fileSec>
     <fileGrp USE="Image-Service">
-      <file AMDID="836" GROUPID="836" ID="836">
+      <file AMDID="3667" GROUPID="836" ID="3667">
         <FLocat xlink:href="http://storage.rockarch.org/c7c4b980-8ee7-4006-9697-1d80543629ad-FCD001_071_00736.pdf"/>
       </file>
     </fileGrp>
   </fileSec>
   <structMap TYPE="logical">
     <div DMDID="836" LABEL="Johns Hopkins University - Institute for Policy Studies" ORDER="1" TYPE="item">
-      <fptr FILEID="836"/>
+      <fptr FILEID="3667"/>
     </div>
   </structMap>
   <structMap TYPE="physical">
     <div DMDID="836" LABEL="Johns Hopkins University - Institute for Policy Studies" ORDER="1" TYPE="item">
-      <fptr FILEID="836"/>
+      <fptr FILEID="3667"/>
     </div>
   </structMap>
 </mets>

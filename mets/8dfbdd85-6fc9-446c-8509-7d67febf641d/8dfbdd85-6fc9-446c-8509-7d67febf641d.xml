@@ -7,7 +7,7 @@
           <mods:titleInfo>
             <mods:title>Victim Services Agency</mods:title>
           </mods:titleInfo>
-          <mods:typeOfResource>text</mods:typeOfResource>
+          <mods:typeOfResource>Text</mods:typeOfResource>
           <mods:originInfo>
             <mods:dateCreated>1979</mods:dateCreated>
           </mods:originInfo>
@@ -25,20 +25,20 @@
           </mods:relatedItem>
           <mods:relatedItem displayLabel="component" type="host">
             <mods:name>Victim Services Agency, 1979</mods:name>
-            <mods:identifier>ref1585_xng</mods:identifier>
+            <mods:identifier>862ec4e248e14300ad46ec120629d112</mods:identifier>
           </mods:relatedItem>
         </mods>
       </xmlData>
     </mdWrap>
   </dmdSec>
   <amdSec>
-    <techMD ID="1046">
+    <techMD ID="3854">
       <mdWrap MDTYPE="PREMIS:OBJECT">
         <xmlData>
           <object version="2.2" xmlns="info:lc/xmlns/premis-v2" xsi:schemaLocation="info:lc/xmlns/premis-v2 http://www.loc.gov/standards/premis/v2/premis-v2-2.xsd" xsi:type="file">
             <objectIdentifier>
               <objectIdentifierType>ArchivesSpace identifier</objectIdentifierType>
-              <objectIdentifierValue>1046</objectIdentifierValue>
+              <objectIdentifierValue>3854</objectIdentifierValue>
             </objectIdentifier>
             <objectCharacteristics>
               <fixity>
@@ -60,19 +60,19 @@
   </amdSec>
   <fileSec>
     <fileGrp USE="Image-Service">
-      <file AMDID="1046" GROUPID="1046" ID="1046">
+      <file AMDID="3854" GROUPID="1046" ID="3854">
         <FLocat xlink:href="http://storage.rockarch.org/8dfbdd85-6fc9-446c-8509-7d67febf641d-FCD001_101_00392.pdf"/>
       </file>
     </fileGrp>
   </fileSec>
   <structMap TYPE="logical">
     <div DMDID="1046" LABEL="Victim Services Agency" ORDER="1" TYPE="item">
-      <fptr FILEID="1046"/>
+      <fptr FILEID="3854"/>
     </div>
   </structMap>
   <structMap TYPE="physical">
     <div DMDID="1046" LABEL="Victim Services Agency" ORDER="1" TYPE="item">
-      <fptr FILEID="1046"/>
+      <fptr FILEID="3854"/>
     </div>
   </structMap>
 </mets>

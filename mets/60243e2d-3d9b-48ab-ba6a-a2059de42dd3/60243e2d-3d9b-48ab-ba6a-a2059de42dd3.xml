@@ -7,7 +7,7 @@
           <mods:titleInfo>
             <mods:title>Natural Resources Defense Council, Inc.</mods:title>
           </mods:titleInfo>
-          <mods:typeOfResource>text</mods:typeOfResource>
+          <mods:typeOfResource>Text</mods:typeOfResource>
           <mods:originInfo>
             <mods:dateCreated>1983-1984</mods:dateCreated>
           </mods:originInfo>
@@ -25,20 +25,20 @@
           </mods:relatedItem>
           <mods:relatedItem displayLabel="component" type="host">
             <mods:name>Natural Resources Defense Council, Inc., 1983-1984</mods:name>
-            <mods:identifier>ref1413_jx3</mods:identifier>
+            <mods:identifier>701cfa7d92354daa90da2a602ed073fe</mods:identifier>
           </mods:relatedItem>
         </mods>
       </xmlData>
     </mdWrap>
   </dmdSec>
   <amdSec>
-    <techMD ID="911">
+    <techMD ID="3739">
       <mdWrap MDTYPE="PREMIS:OBJECT">
         <xmlData>
           <object version="2.2" xmlns="info:lc/xmlns/premis-v2" xsi:schemaLocation="info:lc/xmlns/premis-v2 http://www.loc.gov/standards/premis/v2/premis-v2-2.xsd" xsi:type="file">
             <objectIdentifier>
               <objectIdentifierType>ArchivesSpace identifier</objectIdentifierType>
-              <objectIdentifierValue>911</objectIdentifierValue>
+              <objectIdentifierValue>3739</objectIdentifierValue>
             </objectIdentifier>
             <objectCharacteristics>
               <fixity>
@@ -60,19 +60,19 @@
   </amdSec>
   <fileSec>
     <fileGrp USE="Image-Service">
-      <file AMDID="911" GROUPID="911" ID="911">
+      <file AMDID="3739" GROUPID="911" ID="3739">
         <FLocat xlink:href="http://storage.rockarch.org/60243e2d-3d9b-48ab-ba6a-a2059de42dd3-FCD001_080_00500.pdf"/>
       </file>
     </fileGrp>
   </fileSec>
   <structMap TYPE="logical">
     <div DMDID="911" LABEL="Natural Resources Defense Council, Inc." ORDER="1" TYPE="item">
-      <fptr FILEID="911"/>
+      <fptr FILEID="3739"/>
     </div>
   </structMap>
   <structMap TYPE="physical">
     <div DMDID="911" LABEL="Natural Resources Defense Council, Inc." ORDER="1" TYPE="item">
-      <fptr FILEID="911"/>
+      <fptr FILEID="3739"/>
     </div>
   </structMap>
 </mets>

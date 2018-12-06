@@ -7,7 +7,7 @@
           <mods:titleInfo>
             <mods:title>Harvard University School of Public Health</mods:title>
           </mods:titleInfo>
-          <mods:typeOfResource>text</mods:typeOfResource>
+          <mods:typeOfResource>Text</mods:typeOfResource>
           <mods:originInfo>
             <mods:dateCreated>1990-1992</mods:dateCreated>
           </mods:originInfo>
@@ -25,20 +25,20 @@
           </mods:relatedItem>
           <mods:relatedItem displayLabel="component" type="host">
             <mods:name>Harvard University School of Public Health, 1990-1992</mods:name>
-            <mods:identifier>ref1342_26f</mods:identifier>
+            <mods:identifier>96e2628823004c5e83736c069ac3265c</mods:identifier>
           </mods:relatedItem>
         </mods>
       </xmlData>
     </mdWrap>
   </dmdSec>
   <amdSec>
-    <techMD ID="835">
+    <techMD ID="3666">
       <mdWrap MDTYPE="PREMIS:OBJECT">
         <xmlData>
           <object version="2.2" xmlns="info:lc/xmlns/premis-v2" xsi:schemaLocation="info:lc/xmlns/premis-v2 http://www.loc.gov/standards/premis/v2/premis-v2-2.xsd" xsi:type="file">
             <objectIdentifier>
               <objectIdentifierType>ArchivesSpace identifier</objectIdentifierType>
-              <objectIdentifierValue>835</objectIdentifierValue>
+              <objectIdentifierValue>3666</objectIdentifierValue>
             </objectIdentifier>
             <objectCharacteristics>
               <fixity>
@@ -60,19 +60,19 @@
   </amdSec>
   <fileSec>
     <fileGrp USE="Image-Service">
-      <file AMDID="835" GROUPID="835" ID="835">
+      <file AMDID="3666" GROUPID="835" ID="3666">
         <FLocat xlink:href="http://storage.rockarch.org/b516ee77-f93f-414b-9360-7bfa1698a0f3-FCD001_070_00781.pdf"/>
       </file>
     </fileGrp>
   </fileSec>
   <structMap TYPE="logical">
     <div DMDID="835" LABEL="Harvard University School of Public Health" ORDER="1" TYPE="item">
-      <fptr FILEID="835"/>
+      <fptr FILEID="3666"/>
     </div>
   </structMap>
   <structMap TYPE="physical">
     <div DMDID="835" LABEL="Harvard University School of Public Health" ORDER="1" TYPE="item">
-      <fptr FILEID="835"/>
+      <fptr FILEID="3666"/>
     </div>
   </structMap>
 </mets>

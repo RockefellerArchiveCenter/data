@@ -7,7 +7,7 @@
           <mods:titleInfo>
             <mods:title>Family Resource Coalition</mods:title>
           </mods:titleInfo>
-          <mods:typeOfResource>text</mods:typeOfResource>
+          <mods:typeOfResource>Text</mods:typeOfResource>
           <mods:originInfo>
             <mods:dateCreated>1993</mods:dateCreated>
           </mods:originInfo>
@@ -25,20 +25,20 @@
           </mods:relatedItem>
           <mods:relatedItem displayLabel="component" type="host">
             <mods:name>Family Resource Coalition, 1993</mods:name>
-            <mods:identifier>ref1314_vsf</mods:identifier>
+            <mods:identifier>fc1826fd87544567ac949ecedab9905a</mods:identifier>
           </mods:relatedItem>
         </mods>
       </xmlData>
     </mdWrap>
   </dmdSec>
   <amdSec>
-    <techMD ID="810">
+    <techMD ID="3641">
       <mdWrap MDTYPE="PREMIS:OBJECT">
         <xmlData>
           <object version="2.2" xmlns="info:lc/xmlns/premis-v2" xsi:schemaLocation="info:lc/xmlns/premis-v2 http://www.loc.gov/standards/premis/v2/premis-v2-2.xsd" xsi:type="file">
             <objectIdentifier>
               <objectIdentifierType>ArchivesSpace identifier</objectIdentifierType>
-              <objectIdentifierValue>810</objectIdentifierValue>
+              <objectIdentifierValue>3641</objectIdentifierValue>
             </objectIdentifier>
             <objectCharacteristics>
               <fixity>
@@ -60,19 +60,19 @@
   </amdSec>
   <fileSec>
     <fileGrp USE="Image-Service">
-      <file AMDID="810" GROUPID="810" ID="810">
+      <file AMDID="3641" GROUPID="810" ID="3641">
         <FLocat xlink:href="http://storage.rockarch.org/ba9bd9f5-0eb2-4cfb-8aa6-0847e29dfbcc-FCD001_067_00168.pdf"/>
       </file>
     </fileGrp>
   </fileSec>
   <structMap TYPE="logical">
     <div DMDID="810" LABEL="Family Resource Coalition" ORDER="1" TYPE="item">
-      <fptr FILEID="810"/>
+      <fptr FILEID="3641"/>
     </div>
   </structMap>
   <structMap TYPE="physical">
     <div DMDID="810" LABEL="Family Resource Coalition" ORDER="1" TYPE="item">
-      <fptr FILEID="810"/>
+      <fptr FILEID="3641"/>
     </div>
   </structMap>
 </mets>

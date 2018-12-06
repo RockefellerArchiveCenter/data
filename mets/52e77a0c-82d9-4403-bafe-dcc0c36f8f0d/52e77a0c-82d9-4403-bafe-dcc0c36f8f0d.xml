@@ -7,7 +7,7 @@
           <mods:titleInfo>
             <mods:title>Children's Resource and Information Service</mods:title>
           </mods:titleInfo>
-          <mods:typeOfResource>text</mods:typeOfResource>
+          <mods:typeOfResource>Text</mods:typeOfResource>
           <mods:originInfo>
             <mods:dateCreated>1982</mods:dateCreated>
           </mods:originInfo>
@@ -25,20 +25,20 @@
           </mods:relatedItem>
           <mods:relatedItem displayLabel="component" type="host">
             <mods:name>Children's Resource and Information Service, 1982</mods:name>
-            <mods:identifier>ref1270_vb9</mods:identifier>
+            <mods:identifier>2ae243422ecc44f5aaeb4a19a21129fd</mods:identifier>
           </mods:relatedItem>
         </mods>
       </xmlData>
     </mdWrap>
   </dmdSec>
   <amdSec>
-    <techMD ID="754">
+    <techMD ID="3587">
       <mdWrap MDTYPE="PREMIS:OBJECT">
         <xmlData>
           <object version="2.2" xmlns="info:lc/xmlns/premis-v2" xsi:schemaLocation="info:lc/xmlns/premis-v2 http://www.loc.gov/standards/premis/v2/premis-v2-2.xsd" xsi:type="file">
             <objectIdentifier>
               <objectIdentifierType>ArchivesSpace identifier</objectIdentifierType>
-              <objectIdentifierValue>754</objectIdentifierValue>
+              <objectIdentifierValue>3587</objectIdentifierValue>
             </objectIdentifier>
             <objectCharacteristics>
               <fixity>
@@ -60,19 +60,19 @@
   </amdSec>
   <fileSec>
     <fileGrp USE="Image-Service">
-      <file AMDID="754" GROUPID="754" ID="754">
+      <file AMDID="3587" GROUPID="754" ID="3587">
         <FLocat xlink:href="http://storage.rockarch.org/52e77a0c-82d9-4403-bafe-dcc0c36f8f0d-FCD001_061_00001.pdf"/>
       </file>
     </fileGrp>
   </fileSec>
   <structMap TYPE="logical">
     <div DMDID="754" LABEL="Children's Resource and Information Service" ORDER="1" TYPE="item">
-      <fptr FILEID="754"/>
+      <fptr FILEID="3587"/>
     </div>
   </structMap>
   <structMap TYPE="physical">
     <div DMDID="754" LABEL="Children's Resource and Information Service" ORDER="1" TYPE="item">
-      <fptr FILEID="754"/>
+      <fptr FILEID="3587"/>
     </div>
   </structMap>
 </mets>

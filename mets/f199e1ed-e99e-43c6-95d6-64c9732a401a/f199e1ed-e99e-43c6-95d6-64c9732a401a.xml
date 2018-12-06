@@ -7,7 +7,7 @@
           <mods:titleInfo>
             <mods:title>Child Welfare League of America</mods:title>
           </mods:titleInfo>
-          <mods:typeOfResource>text</mods:typeOfResource>
+          <mods:typeOfResource>Text</mods:typeOfResource>
           <mods:originInfo>
             <mods:dateCreated>1989-1991</mods:dateCreated>
           </mods:originInfo>
@@ -25,20 +25,20 @@
           </mods:relatedItem>
           <mods:relatedItem displayLabel="component" type="host">
             <mods:name>Child Welfare League of America, 1989-1991</mods:name>
-            <mods:identifier>ref1256_r3i</mods:identifier>
+            <mods:identifier>b48b5f77bfcb47149aba6d3c0523a052</mods:identifier>
           </mods:relatedItem>
         </mods>
       </xmlData>
     </mdWrap>
   </dmdSec>
   <amdSec>
-    <techMD ID="775">
+    <techMD ID="3607">
       <mdWrap MDTYPE="PREMIS:OBJECT">
         <xmlData>
           <object version="2.2" xmlns="info:lc/xmlns/premis-v2" xsi:schemaLocation="info:lc/xmlns/premis-v2 http://www.loc.gov/standards/premis/v2/premis-v2-2.xsd" xsi:type="file">
             <objectIdentifier>
               <objectIdentifierType>ArchivesSpace identifier</objectIdentifierType>
-              <objectIdentifierValue>775</objectIdentifierValue>
+              <objectIdentifierValue>3607</objectIdentifierValue>
             </objectIdentifier>
             <objectCharacteristics>
               <fixity>
@@ -60,19 +60,19 @@
   </amdSec>
   <fileSec>
     <fileGrp USE="Image-Service">
-      <file AMDID="775" GROUPID="775" ID="775">
+      <file AMDID="3607" GROUPID="775" ID="3607">
         <FLocat xlink:href="http://storage.rockarch.org/f199e1ed-e99e-43c6-95d6-64c9732a401a-FCD001_059_00258.pdf"/>
       </file>
     </fileGrp>
   </fileSec>
   <structMap TYPE="logical">
     <div DMDID="775" LABEL="Child Welfare League of America" ORDER="1" TYPE="item">
-      <fptr FILEID="775"/>
+      <fptr FILEID="3607"/>
     </div>
   </structMap>
   <structMap TYPE="physical">
     <div DMDID="775" LABEL="Child Welfare League of America" ORDER="1" TYPE="item">
-      <fptr FILEID="775"/>
+      <fptr FILEID="3607"/>
     </div>
   </structMap>
 </mets>

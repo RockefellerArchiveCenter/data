@@ -7,7 +7,7 @@
           <mods:titleInfo>
             <mods:title>Trip to Mexico, Central America, and Colombia</mods:title>
           </mods:titleInfo>
-          <mods:typeOfResource>text</mods:typeOfResource>
+          <mods:typeOfResource>Text</mods:typeOfResource>
           <mods:originInfo>
             <mods:dateCreated>1942 March 20-April 10</mods:dateCreated>
           </mods:originInfo>
@@ -25,20 +25,20 @@
           </mods:relatedItem>
           <mods:relatedItem displayLabel="component" type="host">
             <mods:name>Trip to Mexico, Central America, and Colombia, 1942 March 20-April 10</mods:name>
-            <mods:identifier>ref415_uby</mods:identifier>
+            <mods:identifier>0c33fe98547c48ccb175f8b6ca6b5d3e</mods:identifier>
           </mods:relatedItem>
         </mods>
       </xmlData>
     </mdWrap>
   </dmdSec>
   <amdSec>
-    <techMD ID="2243">
+    <techMD ID="4755">
       <mdWrap MDTYPE="PREMIS:OBJECT">
         <xmlData>
           <object version="2.2" xmlns="info:lc/xmlns/premis-v2" xsi:schemaLocation="info:lc/xmlns/premis-v2 http://www.loc.gov/standards/premis/v2/premis-v2-2.xsd" xsi:type="file">
             <objectIdentifier>
               <objectIdentifierType>ArchivesSpace identifier</objectIdentifierType>
-              <objectIdentifierValue>2243</objectIdentifierValue>
+              <objectIdentifierValue>4755</objectIdentifierValue>
             </objectIdentifier>
             <objectCharacteristics>
               <fixity>
@@ -59,20 +59,20 @@
     </techMD>
   </amdSec>
   <fileSec>
-    <fileGrp USE="Service-Edited">
-      <file AMDID="2243" GROUPID="2243" ID="2243">
+    <fileGrp USE="translation missing: en.enumerations.file_version_use_statement.service-edited">
+      <file AMDID="4755" GROUPID="2243" ID="4755">
         <FLocat xlink:href="http://storage.rockarch.org/8f114148-ac03-4cb7-b25c-ba15564cfba6-rac_rfdiaries_12-2_miller_1932-1959_023.pdf"/>
       </file>
     </fileGrp>
   </fileSec>
   <structMap TYPE="logical">
     <div DMDID="2243" LABEL="Trip to Mexico, Central America, and Colombia" ORDER="1" TYPE="item">
-      <fptr FILEID="2243"/>
+      <fptr FILEID="4755"/>
     </div>
   </structMap>
   <structMap TYPE="physical">
     <div DMDID="2243" LABEL="Trip to Mexico, Central America, and Colombia" ORDER="1" TYPE="item">
-      <fptr FILEID="2243"/>
+      <fptr FILEID="4755"/>
     </div>
   </structMap>
 </mets>

@@ -7,7 +7,7 @@
           <mods:titleInfo>
             <mods:title>United Neighborhood Houses of New York, Inc.</mods:title>
           </mods:titleInfo>
-          <mods:typeOfResource>text</mods:typeOfResource>
+          <mods:typeOfResource>Text</mods:typeOfResource>
           <mods:originInfo>
             <mods:dateCreated>1988-1990</mods:dateCreated>
           </mods:originInfo>
@@ -25,20 +25,20 @@
           </mods:relatedItem>
           <mods:relatedItem displayLabel="component" type="host">
             <mods:name>United Neighborhood Houses of New York, Inc., 1988-1990</mods:name>
-            <mods:identifier>ref1497_zq5</mods:identifier>
+            <mods:identifier>7948fab6699c4d61acba2bbb05d5ab7e</mods:identifier>
           </mods:relatedItem>
         </mods>
       </xmlData>
     </mdWrap>
   </dmdSec>
   <amdSec>
-    <techMD ID="985">
+    <techMD ID="3801">
       <mdWrap MDTYPE="PREMIS:OBJECT">
         <xmlData>
           <object version="2.2" xmlns="info:lc/xmlns/premis-v2" xsi:schemaLocation="info:lc/xmlns/premis-v2 http://www.loc.gov/standards/premis/v2/premis-v2-2.xsd" xsi:type="file">
             <objectIdentifier>
               <objectIdentifierType>ArchivesSpace identifier</objectIdentifierType>
-              <objectIdentifierValue>985</objectIdentifierValue>
+              <objectIdentifierValue>3801</objectIdentifierValue>
             </objectIdentifier>
             <objectCharacteristics>
               <fixity>
@@ -60,19 +60,19 @@
   </amdSec>
   <fileSec>
     <fileGrp USE="Image-Service">
-      <file AMDID="985" GROUPID="985" ID="985">
+      <file AMDID="3801" GROUPID="985" ID="3801">
         <FLocat xlink:href="http://storage.rockarch.org/2ac47b37-572a-4cb1-aed5-1fa9ef19d4cd-FCD001_092_00494.pdf"/>
       </file>
     </fileGrp>
   </fileSec>
   <structMap TYPE="logical">
     <div DMDID="985" LABEL="United Neighborhood Houses of New York, Inc." ORDER="1" TYPE="item">
-      <fptr FILEID="985"/>
+      <fptr FILEID="3801"/>
     </div>
   </structMap>
   <structMap TYPE="physical">
     <div DMDID="985" LABEL="United Neighborhood Houses of New York, Inc." ORDER="1" TYPE="item">
-      <fptr FILEID="985"/>
+      <fptr FILEID="3801"/>
     </div>
   </structMap>
 </mets>

@@ -7,7 +7,7 @@
           <mods:titleInfo>
             <mods:title>Community Food Resource Center</mods:title>
           </mods:titleInfo>
-          <mods:typeOfResource>text</mods:typeOfResource>
+          <mods:typeOfResource>Text</mods:typeOfResource>
           <mods:originInfo>
             <mods:dateCreated>1989-1992</mods:dateCreated>
           </mods:originInfo>
@@ -25,20 +25,20 @@
           </mods:relatedItem>
           <mods:relatedItem displayLabel="component" type="host">
             <mods:name>Community Food Resource Center, 1989-1992</mods:name>
-            <mods:identifier>ref1287_3zt</mods:identifier>
+            <mods:identifier>346acfbe0ec84604b440c9aa6e0119a4</mods:identifier>
           </mods:relatedItem>
         </mods>
       </xmlData>
     </mdWrap>
   </dmdSec>
   <amdSec>
-    <techMD ID="773">
+    <techMD ID="3605">
       <mdWrap MDTYPE="PREMIS:OBJECT">
         <xmlData>
           <object version="2.2" xmlns="info:lc/xmlns/premis-v2" xsi:schemaLocation="info:lc/xmlns/premis-v2 http://www.loc.gov/standards/premis/v2/premis-v2-2.xsd" xsi:type="file">
             <objectIdentifier>
               <objectIdentifierType>ArchivesSpace identifier</objectIdentifierType>
-              <objectIdentifierValue>773</objectIdentifierValue>
+              <objectIdentifierValue>3605</objectIdentifierValue>
             </objectIdentifier>
             <objectCharacteristics>
               <fixity>
@@ -60,19 +60,19 @@
   </amdSec>
   <fileSec>
     <fileGrp USE="Image-Service">
-      <file AMDID="773" GROUPID="773" ID="773">
+      <file AMDID="3605" GROUPID="773" ID="3605">
         <FLocat xlink:href="http://storage.rockarch.org/a8d71412-c355-4a50-9f34-49106bba97fb-FCD001_063_00100.pdf"/>
       </file>
     </fileGrp>
   </fileSec>
   <structMap TYPE="logical">
     <div DMDID="773" LABEL="Community Food Resource Center" ORDER="1" TYPE="item">
-      <fptr FILEID="773"/>
+      <fptr FILEID="3605"/>
     </div>
   </structMap>
   <structMap TYPE="physical">
     <div DMDID="773" LABEL="Community Food Resource Center" ORDER="1" TYPE="item">
-      <fptr FILEID="773"/>
+      <fptr FILEID="3605"/>
     </div>
   </structMap>
 </mets>

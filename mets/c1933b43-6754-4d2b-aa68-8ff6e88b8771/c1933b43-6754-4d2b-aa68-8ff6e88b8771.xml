@@ -7,7 +7,7 @@
           <mods:titleInfo>
             <mods:title>Association for the Aid of Crippled Children</mods:title>
           </mods:titleInfo>
-          <mods:typeOfResource>text</mods:typeOfResource>
+          <mods:typeOfResource>Text</mods:typeOfResource>
           <mods:originInfo>
             <mods:dateCreated>1918 and 1919</mods:dateCreated>
           </mods:originInfo>
@@ -25,20 +25,20 @@
           </mods:relatedItem>
           <mods:relatedItem displayLabel="component" type="host">
             <mods:name>Association for the Aid of Crippled Children, 1918 and 1919</mods:name>
-            <mods:identifier>ref686_71g</mods:identifier>
+            <mods:identifier>e4b77fc06ff1435a9f6a624240e686b2</mods:identifier>
           </mods:relatedItem>
         </mods>
       </xmlData>
     </mdWrap>
   </dmdSec>
   <amdSec>
-    <techMD ID="441">
+    <techMD ID="3290">
       <mdWrap MDTYPE="PREMIS:OBJECT">
         <xmlData>
           <object version="2.2" xmlns="info:lc/xmlns/premis-v2" xsi:schemaLocation="info:lc/xmlns/premis-v2 http://www.loc.gov/standards/premis/v2/premis-v2-2.xsd" xsi:type="file">
             <objectIdentifier>
               <objectIdentifierType>ArchivesSpace identifier</objectIdentifierType>
-              <objectIdentifierValue>441</objectIdentifierValue>
+              <objectIdentifierValue>3290</objectIdentifierValue>
             </objectIdentifier>
             <objectCharacteristics>
               <fixity>
@@ -60,19 +60,19 @@
   </amdSec>
   <fileSec>
     <fileGrp USE="Image-Service">
-      <file AMDID="441" GROUPID="441" ID="441">
+      <file AMDID="3290" GROUPID="441" ID="3290">
         <FLocat xlink:href="http://storage.rockarch.org/c1933b43-6754-4d2b-aa68-8ff6e88b8771-FCD001_032_00745.pdf"/>
       </file>
     </fileGrp>
   </fileSec>
   <structMap TYPE="logical">
     <div DMDID="441" LABEL="Association for the Aid of Crippled Children" ORDER="1" TYPE="item">
-      <fptr FILEID="441"/>
+      <fptr FILEID="3290"/>
     </div>
   </structMap>
   <structMap TYPE="physical">
     <div DMDID="441" LABEL="Association for the Aid of Crippled Children" ORDER="1" TYPE="item">
-      <fptr FILEID="441"/>
+      <fptr FILEID="3290"/>
     </div>
   </structMap>
 </mets>

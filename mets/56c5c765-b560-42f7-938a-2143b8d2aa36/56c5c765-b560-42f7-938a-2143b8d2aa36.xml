@@ -7,7 +7,7 @@
           <mods:titleInfo>
             <mods:title>Executive Committee</mods:title>
           </mods:titleInfo>
-          <mods:typeOfResource>text</mods:typeOfResource>
+          <mods:typeOfResource>Text</mods:typeOfResource>
           <mods:originInfo>
             <mods:dateCreated>October 11, 1950</mods:dateCreated>
           </mods:originInfo>
@@ -25,20 +25,20 @@
           </mods:relatedItem>
           <mods:relatedItem displayLabel="component" type="host">
             <mods:name>Executive Committee, October 11, 1950</mods:name>
-            <mods:identifier>ref384_01d</mods:identifier>
+            <mods:identifier>305aff7e0595430cba30dd14ccb7b4fa</mods:identifier>
           </mods:relatedItem>
         </mods>
       </xmlData>
     </mdWrap>
   </dmdSec>
   <amdSec>
-    <techMD ID="200">
+    <techMD ID="3114">
       <mdWrap MDTYPE="PREMIS:OBJECT">
         <xmlData>
           <object version="2.2" xmlns="info:lc/xmlns/premis-v2" xsi:schemaLocation="info:lc/xmlns/premis-v2 http://www.loc.gov/standards/premis/v2/premis-v2-2.xsd" xsi:type="file">
             <objectIdentifier>
               <objectIdentifierType>ArchivesSpace identifier</objectIdentifierType>
-              <objectIdentifierValue>200</objectIdentifierValue>
+              <objectIdentifierValue>3114</objectIdentifierValue>
             </objectIdentifier>
             <objectCharacteristics>
               <fixity>
@@ -60,19 +60,19 @@
   </amdSec>
   <fileSec>
     <fileGrp USE="Image-Service">
-      <file AMDID="200" GROUPID="200" ID="200">
+      <file AMDID="3114" GROUPID="200" ID="3114">
         <FLocat xlink:href="http://storage.rockarch.org/56c5c765-b560-42f7-938a-2143b8d2aa36-FCD001_019_00347.pdf"/>
       </file>
     </fileGrp>
   </fileSec>
   <structMap TYPE="logical">
     <div DMDID="200" LABEL="Executive Committee" ORDER="1" TYPE="item">
-      <fptr FILEID="200"/>
+      <fptr FILEID="3114"/>
     </div>
   </structMap>
   <structMap TYPE="physical">
     <div DMDID="200" LABEL="Executive Committee" ORDER="1" TYPE="item">
-      <fptr FILEID="200"/>
+      <fptr FILEID="3114"/>
     </div>
   </structMap>
 </mets>

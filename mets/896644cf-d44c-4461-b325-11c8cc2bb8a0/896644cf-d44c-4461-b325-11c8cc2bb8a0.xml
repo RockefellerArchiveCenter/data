@@ -7,7 +7,7 @@
           <mods:titleInfo>
             <mods:title>Aspen Institute for Humanistic Studies</mods:title>
           </mods:titleInfo>
-          <mods:typeOfResource>text</mods:typeOfResource>
+          <mods:typeOfResource>Text</mods:typeOfResource>
           <mods:originInfo>
             <mods:dateCreated>1982-1983</mods:dateCreated>
           </mods:originInfo>
@@ -25,20 +25,20 @@
           </mods:relatedItem>
           <mods:relatedItem displayLabel="component" type="host">
             <mods:name>Aspen Institute for Humanistic Studies, 1982-1983</mods:name>
-            <mods:identifier>ref1226_u5t</mods:identifier>
+            <mods:identifier>5d5ca8a7f8ff413ab5601a5e1f0b54e9</mods:identifier>
           </mods:relatedItem>
         </mods>
       </xmlData>
     </mdWrap>
   </dmdSec>
   <amdSec>
-    <techMD ID="719">
+    <techMD ID="3553">
       <mdWrap MDTYPE="PREMIS:OBJECT">
         <xmlData>
           <object version="2.2" xmlns="info:lc/xmlns/premis-v2" xsi:schemaLocation="info:lc/xmlns/premis-v2 http://www.loc.gov/standards/premis/v2/premis-v2-2.xsd" xsi:type="file">
             <objectIdentifier>
               <objectIdentifierType>ArchivesSpace identifier</objectIdentifierType>
-              <objectIdentifierValue>719</objectIdentifierValue>
+              <objectIdentifierValue>3553</objectIdentifierValue>
             </objectIdentifier>
             <objectCharacteristics>
               <fixity>
@@ -60,19 +60,19 @@
   </amdSec>
   <fileSec>
     <fileGrp USE="Image-Service">
-      <file AMDID="719" GROUPID="719" ID="719">
+      <file AMDID="3553" GROUPID="719" ID="3553">
         <FLocat xlink:href="http://storage.rockarch.org/896644cf-d44c-4461-b325-11c8cc2bb8a0-FCD001_054_00957.pdf"/>
       </file>
     </fileGrp>
   </fileSec>
   <structMap TYPE="logical">
     <div DMDID="719" LABEL="Aspen Institute for Humanistic Studies" ORDER="1" TYPE="item">
-      <fptr FILEID="719"/>
+      <fptr FILEID="3553"/>
     </div>
   </structMap>
   <structMap TYPE="physical">
     <div DMDID="719" LABEL="Aspen Institute for Humanistic Studies" ORDER="1" TYPE="item">
-      <fptr FILEID="719"/>
+      <fptr FILEID="3553"/>
     </div>
   </structMap>
 </mets>

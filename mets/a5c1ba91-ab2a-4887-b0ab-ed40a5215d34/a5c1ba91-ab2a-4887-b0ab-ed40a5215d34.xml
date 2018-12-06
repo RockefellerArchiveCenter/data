@@ -7,7 +7,7 @@
           <mods:titleInfo>
             <mods:title>National Center for Clinical Infant Programs</mods:title>
           </mods:titleInfo>
-          <mods:typeOfResource>text</mods:typeOfResource>
+          <mods:typeOfResource>Text</mods:typeOfResource>
           <mods:originInfo>
             <mods:dateCreated>1986-1989</mods:dateCreated>
           </mods:originInfo>
@@ -25,20 +25,20 @@
           </mods:relatedItem>
           <mods:relatedItem displayLabel="component" type="host">
             <mods:name>National Center for Clinical Infant Programs, 1986-1989</mods:name>
-            <mods:identifier>ref1399_lt8</mods:identifier>
+            <mods:identifier>e4736672dd5c4d38bad1389b24ec76dd</mods:identifier>
           </mods:relatedItem>
         </mods>
       </xmlData>
     </mdWrap>
   </dmdSec>
   <amdSec>
-    <techMD ID="888">
+    <techMD ID="3718">
       <mdWrap MDTYPE="PREMIS:OBJECT">
         <xmlData>
           <object version="2.2" xmlns="info:lc/xmlns/premis-v2" xsi:schemaLocation="info:lc/xmlns/premis-v2 http://www.loc.gov/standards/premis/v2/premis-v2-2.xsd" xsi:type="file">
             <objectIdentifier>
               <objectIdentifierType>ArchivesSpace identifier</objectIdentifierType>
-              <objectIdentifierValue>888</objectIdentifierValue>
+              <objectIdentifierValue>3718</objectIdentifierValue>
             </objectIdentifier>
             <objectCharacteristics>
               <fixity>
@@ -60,19 +60,19 @@
   </amdSec>
   <fileSec>
     <fileGrp USE="Image-Service">
-      <file AMDID="888" GROUPID="888" ID="888">
+      <file AMDID="3718" GROUPID="888" ID="3718">
         <FLocat xlink:href="http://storage.rockarch.org/a5c1ba91-ab2a-4887-b0ab-ed40a5215d34-FCD001_078_00527.pdf"/>
       </file>
     </fileGrp>
   </fileSec>
   <structMap TYPE="logical">
     <div DMDID="888" LABEL="National Center for Clinical Infant Programs" ORDER="1" TYPE="item">
-      <fptr FILEID="888"/>
+      <fptr FILEID="3718"/>
     </div>
   </structMap>
   <structMap TYPE="physical">
     <div DMDID="888" LABEL="National Center for Clinical Infant Programs" ORDER="1" TYPE="item">
-      <fptr FILEID="888"/>
+      <fptr FILEID="3718"/>
     </div>
   </structMap>
 </mets>

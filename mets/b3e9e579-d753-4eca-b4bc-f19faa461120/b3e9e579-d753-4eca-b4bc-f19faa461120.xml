@@ -7,7 +7,7 @@
           <mods:titleInfo>
             <mods:title>New York Community Trust</mods:title>
           </mods:titleInfo>
-          <mods:typeOfResource>text</mods:typeOfResource>
+          <mods:typeOfResource>Text</mods:typeOfResource>
           <mods:originInfo>
             <mods:dateCreated>1992</mods:dateCreated>
           </mods:originInfo>
@@ -25,20 +25,20 @@
           </mods:relatedItem>
           <mods:relatedItem displayLabel="component" type="host">
             <mods:name>New York Community Trust, 1992</mods:name>
-            <mods:identifier>ref1426_4wd</mods:identifier>
+            <mods:identifier>d2b6413696854750a0b567a9fdcd7a8c</mods:identifier>
           </mods:relatedItem>
         </mods>
       </xmlData>
     </mdWrap>
   </dmdSec>
   <amdSec>
-    <techMD ID="918">
+    <techMD ID="3746">
       <mdWrap MDTYPE="PREMIS:OBJECT">
         <xmlData>
           <object version="2.2" xmlns="info:lc/xmlns/premis-v2" xsi:schemaLocation="info:lc/xmlns/premis-v2 http://www.loc.gov/standards/premis/v2/premis-v2-2.xsd" xsi:type="file">
             <objectIdentifier>
               <objectIdentifierType>ArchivesSpace identifier</objectIdentifierType>
-              <objectIdentifierValue>918</objectIdentifierValue>
+              <objectIdentifierValue>3746</objectIdentifierValue>
             </objectIdentifier>
             <objectCharacteristics>
               <fixity>
@@ -60,19 +60,19 @@
   </amdSec>
   <fileSec>
     <fileGrp USE="Image-Service">
-      <file AMDID="918" GROUPID="918" ID="918">
+      <file AMDID="3746" GROUPID="918" ID="3746">
         <FLocat xlink:href="http://storage.rockarch.org/b3e9e579-d753-4eca-b4bc-f19faa461120-FCD001_081_00851.pdf"/>
       </file>
     </fileGrp>
   </fileSec>
   <structMap TYPE="logical">
     <div DMDID="918" LABEL="New York Community Trust" ORDER="1" TYPE="item">
-      <fptr FILEID="918"/>
+      <fptr FILEID="3746"/>
     </div>
   </structMap>
   <structMap TYPE="physical">
     <div DMDID="918" LABEL="New York Community Trust" ORDER="1" TYPE="item">
-      <fptr FILEID="918"/>
+      <fptr FILEID="3746"/>
     </div>
   </structMap>
 </mets>

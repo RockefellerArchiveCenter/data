@@ -7,7 +7,7 @@
           <mods:titleInfo>
             <mods:title>Investment Portfolios</mods:title>
           </mods:titleInfo>
-          <mods:typeOfResource>text</mods:typeOfResource>
+          <mods:typeOfResource>Text</mods:typeOfResource>
           <mods:originInfo>
             <mods:dateCreated>April-June 1988</mods:dateCreated>
           </mods:originInfo>
@@ -25,20 +25,20 @@
           </mods:relatedItem>
           <mods:relatedItem displayLabel="component" type="host">
             <mods:name>Investment Portfolios, April-June 1988</mods:name>
-            <mods:identifier>ref975_z2i</mods:identifier>
+            <mods:identifier>29a43a869cc44778930d9c7f3254c45b</mods:identifier>
           </mods:relatedItem>
         </mods>
       </xmlData>
     </mdWrap>
   </dmdSec>
   <amdSec>
-    <techMD ID="491">
+    <techMD ID="3340">
       <mdWrap MDTYPE="PREMIS:OBJECT">
         <xmlData>
           <object version="2.2" xmlns="info:lc/xmlns/premis-v2" xsi:schemaLocation="info:lc/xmlns/premis-v2 http://www.loc.gov/standards/premis/v2/premis-v2-2.xsd" xsi:type="file">
             <objectIdentifier>
               <objectIdentifierType>ArchivesSpace identifier</objectIdentifierType>
-              <objectIdentifierValue>491</objectIdentifierValue>
+              <objectIdentifierValue>3340</objectIdentifierValue>
             </objectIdentifier>
             <objectCharacteristics>
               <fixity>
@@ -60,19 +60,19 @@
   </amdSec>
   <fileSec>
     <fileGrp USE="Image-Service">
-      <file AMDID="491" GROUPID="491" ID="491">
+      <file AMDID="3340" GROUPID="491" ID="3340">
         <FLocat xlink:href="http://storage.rockarch.org/8760ab0b-209c-4768-bc3e-77dfcb0f64da-FCD001_035_00770.pdf"/>
       </file>
     </fileGrp>
   </fileSec>
   <structMap TYPE="logical">
     <div DMDID="491" LABEL="Investment Portfolios" ORDER="1" TYPE="item">
-      <fptr FILEID="491"/>
+      <fptr FILEID="3340"/>
     </div>
   </structMap>
   <structMap TYPE="physical">
     <div DMDID="491" LABEL="Investment Portfolios" ORDER="1" TYPE="item">
-      <fptr FILEID="491"/>
+      <fptr FILEID="3340"/>
     </div>
   </structMap>
 </mets>

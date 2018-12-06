@@ -7,7 +7,7 @@
           <mods:titleInfo>
             <mods:title>Institute of Judicial Administration</mods:title>
           </mods:titleInfo>
-          <mods:typeOfResource>text</mods:typeOfResource>
+          <mods:typeOfResource>Text</mods:typeOfResource>
           <mods:originInfo>
             <mods:dateCreated>1986-1988</mods:dateCreated>
           </mods:originInfo>
@@ -25,20 +25,20 @@
           </mods:relatedItem>
           <mods:relatedItem displayLabel="component" type="host">
             <mods:name>Institute of Judicial Administration, 1986-1988</mods:name>
-            <mods:identifier>ref1350_wk4</mods:identifier>
+            <mods:identifier>caecbfe5da2b42ea833d8e27a280f4c7</mods:identifier>
           </mods:relatedItem>
         </mods>
       </xmlData>
     </mdWrap>
   </dmdSec>
   <amdSec>
-    <techMD ID="848">
+    <techMD ID="3679">
       <mdWrap MDTYPE="PREMIS:OBJECT">
         <xmlData>
           <object version="2.2" xmlns="info:lc/xmlns/premis-v2" xsi:schemaLocation="info:lc/xmlns/premis-v2 http://www.loc.gov/standards/premis/v2/premis-v2-2.xsd" xsi:type="file">
             <objectIdentifier>
               <objectIdentifierType>ArchivesSpace identifier</objectIdentifierType>
-              <objectIdentifierValue>848</objectIdentifierValue>
+              <objectIdentifierValue>3679</objectIdentifierValue>
             </objectIdentifier>
             <objectCharacteristics>
               <fixity>
@@ -60,19 +60,19 @@
   </amdSec>
   <fileSec>
     <fileGrp USE="Image-Service">
-      <file AMDID="848" GROUPID="848" ID="848">
+      <file AMDID="3679" GROUPID="848" ID="3679">
         <FLocat xlink:href="http://storage.rockarch.org/4a6b2717-2ea8-48e1-bf0d-f8edb6f72578-FCD001_071_00234.pdf"/>
       </file>
     </fileGrp>
   </fileSec>
   <structMap TYPE="logical">
     <div DMDID="848" LABEL="Institute of Judicial Administration" ORDER="1" TYPE="item">
-      <fptr FILEID="848"/>
+      <fptr FILEID="3679"/>
     </div>
   </structMap>
   <structMap TYPE="physical">
     <div DMDID="848" LABEL="Institute of Judicial Administration" ORDER="1" TYPE="item">
-      <fptr FILEID="848"/>
+      <fptr FILEID="3679"/>
     </div>
   </structMap>
 </mets>

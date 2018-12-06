@@ -7,7 +7,7 @@
           <mods:titleInfo>
             <mods:title>Basic Competency Test</mods:title>
           </mods:titleInfo>
-          <mods:typeOfResource>text</mods:typeOfResource>
+          <mods:typeOfResource>Text</mods:typeOfResource>
           <mods:originInfo>
             <mods:dateCreated>1977-1979</mods:dateCreated>
           </mods:originInfo>
@@ -25,20 +25,20 @@
           </mods:relatedItem>
           <mods:relatedItem displayLabel="component" type="host">
             <mods:name>Basic Competency Test, 1977-1979</mods:name>
-            <mods:identifier>ref1528_ayk</mods:identifier>
+            <mods:identifier>c5c103c2d4264615a02a5b5df832b2e6</mods:identifier>
           </mods:relatedItem>
         </mods>
       </xmlData>
     </mdWrap>
   </dmdSec>
   <amdSec>
-    <techMD ID="1019">
+    <techMD ID="3828">
       <mdWrap MDTYPE="PREMIS:OBJECT">
         <xmlData>
           <object version="2.2" xmlns="info:lc/xmlns/premis-v2" xsi:schemaLocation="info:lc/xmlns/premis-v2 http://www.loc.gov/standards/premis/v2/premis-v2-2.xsd" xsi:type="file">
             <objectIdentifier>
               <objectIdentifierType>ArchivesSpace identifier</objectIdentifierType>
-              <objectIdentifierValue>1019</objectIdentifierValue>
+              <objectIdentifierValue>3828</objectIdentifierValue>
             </objectIdentifier>
             <objectCharacteristics>
               <fixity>
@@ -60,19 +60,19 @@
   </amdSec>
   <fileSec>
     <fileGrp USE="Image-Service">
-      <file AMDID="1019" GROUPID="1019" ID="1019">
+      <file AMDID="3828" GROUPID="1019" ID="3828">
         <FLocat xlink:href="http://storage.rockarch.org/fa8fbc1d-8594-4153-8675-e94774b0f616-FCD001_096_00001.pdf"/>
       </file>
     </fileGrp>
   </fileSec>
   <structMap TYPE="logical">
     <div DMDID="1019" LABEL="Basic Competency Test" ORDER="1" TYPE="item">
-      <fptr FILEID="1019"/>
+      <fptr FILEID="3828"/>
     </div>
   </structMap>
   <structMap TYPE="physical">
     <div DMDID="1019" LABEL="Basic Competency Test" ORDER="1" TYPE="item">
-      <fptr FILEID="1019"/>
+      <fptr FILEID="3828"/>
     </div>
   </structMap>
 </mets>

@@ -7,7 +7,7 @@
           <mods:titleInfo>
             <mods:title>Vanderbilt University</mods:title>
           </mods:titleInfo>
-          <mods:typeOfResource>text</mods:typeOfResource>
+          <mods:typeOfResource>Text</mods:typeOfResource>
           <mods:originInfo>
             <mods:dateCreated>1980-1983</mods:dateCreated>
           </mods:originInfo>
@@ -25,20 +25,20 @@
           </mods:relatedItem>
           <mods:relatedItem displayLabel="component" type="host">
             <mods:name>Vanderbilt University, 1980-1983</mods:name>
-            <mods:identifier>ref1515_a22</mods:identifier>
+            <mods:identifier>fc429acdc79146e488b290251bc5bafe</mods:identifier>
           </mods:relatedItem>
         </mods>
       </xmlData>
     </mdWrap>
   </dmdSec>
   <amdSec>
-    <techMD ID="1008">
+    <techMD ID="3818">
       <mdWrap MDTYPE="PREMIS:OBJECT">
         <xmlData>
           <object version="2.2" xmlns="info:lc/xmlns/premis-v2" xsi:schemaLocation="info:lc/xmlns/premis-v2 http://www.loc.gov/standards/premis/v2/premis-v2-2.xsd" xsi:type="file">
             <objectIdentifier>
               <objectIdentifierType>ArchivesSpace identifier</objectIdentifierType>
-              <objectIdentifierValue>1008</objectIdentifierValue>
+              <objectIdentifierValue>3818</objectIdentifierValue>
             </objectIdentifier>
             <objectCharacteristics>
               <fixity>
@@ -60,19 +60,19 @@
   </amdSec>
   <fileSec>
     <fileGrp USE="Image-Service">
-      <file AMDID="1008" GROUPID="1008" ID="1008">
+      <file AMDID="3818" GROUPID="1008" ID="3818">
         <FLocat xlink:href="http://storage.rockarch.org/ca1f2393-fd6c-4f93-8f3a-978cb35bd3a2-FCD001_094_00664.pdf"/>
       </file>
     </fileGrp>
   </fileSec>
   <structMap TYPE="logical">
     <div DMDID="1008" LABEL="Vanderbilt University" ORDER="1" TYPE="item">
-      <fptr FILEID="1008"/>
+      <fptr FILEID="3818"/>
     </div>
   </structMap>
   <structMap TYPE="physical">
     <div DMDID="1008" LABEL="Vanderbilt University" ORDER="1" TYPE="item">
-      <fptr FILEID="1008"/>
+      <fptr FILEID="3818"/>
     </div>
   </structMap>
 </mets>

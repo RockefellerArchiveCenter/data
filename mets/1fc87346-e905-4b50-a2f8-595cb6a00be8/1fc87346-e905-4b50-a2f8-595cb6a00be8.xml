@@ -7,7 +7,7 @@
           <mods:titleInfo>
             <mods:title>Little Sisters of the Assumption</mods:title>
           </mods:titleInfo>
-          <mods:typeOfResource>text</mods:typeOfResource>
+          <mods:typeOfResource>Text</mods:typeOfResource>
           <mods:originInfo>
             <mods:dateCreated>1986-1987, 1989-1990</mods:dateCreated>
           </mods:originInfo>
@@ -25,20 +25,20 @@
           </mods:relatedItem>
           <mods:relatedItem displayLabel="component" type="host">
             <mods:name>Little Sisters of the Assumption, 1986-1987, 1989-1990</mods:name>
-            <mods:identifier>ref1370_63e</mods:identifier>
+            <mods:identifier>e2364c01e03148ff86ea5fc03bf51e1a</mods:identifier>
           </mods:relatedItem>
         </mods>
       </xmlData>
     </mdWrap>
   </dmdSec>
   <amdSec>
-    <techMD ID="860">
+    <techMD ID="3691">
       <mdWrap MDTYPE="PREMIS:OBJECT">
         <xmlData>
           <object version="2.2" xmlns="info:lc/xmlns/premis-v2" xsi:schemaLocation="info:lc/xmlns/premis-v2 http://www.loc.gov/standards/premis/v2/premis-v2-2.xsd" xsi:type="file">
             <objectIdentifier>
               <objectIdentifierType>ArchivesSpace identifier</objectIdentifierType>
-              <objectIdentifierValue>860</objectIdentifierValue>
+              <objectIdentifierValue>3691</objectIdentifierValue>
             </objectIdentifier>
             <objectCharacteristics>
               <fixity>
@@ -60,19 +60,19 @@
   </amdSec>
   <fileSec>
     <fileGrp USE="Image-Service">
-      <file AMDID="860" GROUPID="860" ID="860">
+      <file AMDID="3691" GROUPID="860" ID="3691">
         <FLocat xlink:href="http://storage.rockarch.org/1fc87346-e905-4b50-a2f8-595cb6a00be8-FCD001_073_00767.pdf"/>
       </file>
     </fileGrp>
   </fileSec>
   <structMap TYPE="logical">
     <div DMDID="860" LABEL="Little Sisters of the Assumption" ORDER="1" TYPE="item">
-      <fptr FILEID="860"/>
+      <fptr FILEID="3691"/>
     </div>
   </structMap>
   <structMap TYPE="physical">
     <div DMDID="860" LABEL="Little Sisters of the Assumption" ORDER="1" TYPE="item">
-      <fptr FILEID="860"/>
+      <fptr FILEID="3691"/>
     </div>
   </structMap>
 </mets>

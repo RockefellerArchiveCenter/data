@@ -7,7 +7,7 @@
           <mods:titleInfo>
             <mods:title>Communications Consortium Media Center</mods:title>
           </mods:titleInfo>
-          <mods:typeOfResource>text</mods:typeOfResource>
+          <mods:typeOfResource>Text</mods:typeOfResource>
           <mods:originInfo>
             <mods:dateCreated>1991-1993</mods:dateCreated>
           </mods:originInfo>
@@ -25,20 +25,20 @@
           </mods:relatedItem>
           <mods:relatedItem displayLabel="component" type="host">
             <mods:name>Communications Consortium Media Center, 1991-1993</mods:name>
-            <mods:identifier>ref1286_wkc</mods:identifier>
+            <mods:identifier>cf42005dd26b49e2b299b677b59b6d25</mods:identifier>
           </mods:relatedItem>
         </mods>
       </xmlData>
     </mdWrap>
   </dmdSec>
   <amdSec>
-    <techMD ID="768">
+    <techMD ID="3600">
       <mdWrap MDTYPE="PREMIS:OBJECT">
         <xmlData>
           <object version="2.2" xmlns="info:lc/xmlns/premis-v2" xsi:schemaLocation="info:lc/xmlns/premis-v2 http://www.loc.gov/standards/premis/v2/premis-v2-2.xsd" xsi:type="file">
             <objectIdentifier>
               <objectIdentifierType>ArchivesSpace identifier</objectIdentifierType>
-              <objectIdentifierValue>768</objectIdentifierValue>
+              <objectIdentifierValue>3600</objectIdentifierValue>
             </objectIdentifier>
             <objectCharacteristics>
               <fixity>
@@ -60,19 +60,19 @@
   </amdSec>
   <fileSec>
     <fileGrp USE="Image-Service">
-      <file AMDID="768" GROUPID="768" ID="768">
+      <file AMDID="3600" GROUPID="768" ID="3600">
         <FLocat xlink:href="http://storage.rockarch.org/1f7f70d3-8ac1-418a-b4b9-af6d8bb81821-FCD001_063_00001.pdf"/>
       </file>
     </fileGrp>
   </fileSec>
   <structMap TYPE="logical">
     <div DMDID="768" LABEL="Communications Consortium Media Center" ORDER="1" TYPE="item">
-      <fptr FILEID="768"/>
+      <fptr FILEID="3600"/>
     </div>
   </structMap>
   <structMap TYPE="physical">
     <div DMDID="768" LABEL="Communications Consortium Media Center" ORDER="1" TYPE="item">
-      <fptr FILEID="768"/>
+      <fptr FILEID="3600"/>
     </div>
   </structMap>
 </mets>

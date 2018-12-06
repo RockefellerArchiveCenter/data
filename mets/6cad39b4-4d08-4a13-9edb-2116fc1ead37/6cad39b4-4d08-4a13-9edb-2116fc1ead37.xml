@@ -7,7 +7,7 @@
           <mods:titleInfo>
             <mods:title>Cynthia Garcia Coll</mods:title>
           </mods:titleInfo>
-          <mods:typeOfResource>text</mods:typeOfResource>
+          <mods:typeOfResource>Text</mods:typeOfResource>
           <mods:originInfo>
             <mods:dateCreated>1983, 1987</mods:dateCreated>
           </mods:originInfo>
@@ -25,20 +25,20 @@
           </mods:relatedItem>
           <mods:relatedItem displayLabel="component" type="host">
             <mods:name>Cynthia Garcia Coll, 1983, 1987</mods:name>
-            <mods:identifier>ref1730_pmr</mods:identifier>
+            <mods:identifier>f4b59a33954d4eb0a73970dd775dc74f</mods:identifier>
           </mods:relatedItem>
         </mods>
       </xmlData>
     </mdWrap>
   </dmdSec>
   <amdSec>
-    <techMD ID="1151">
+    <techMD ID="3867">
       <mdWrap MDTYPE="PREMIS:OBJECT">
         <xmlData>
           <object version="2.2" xmlns="info:lc/xmlns/premis-v2" xsi:schemaLocation="info:lc/xmlns/premis-v2 http://www.loc.gov/standards/premis/v2/premis-v2-2.xsd" xsi:type="file">
             <objectIdentifier>
               <objectIdentifierType>ArchivesSpace identifier</objectIdentifierType>
-              <objectIdentifierValue>1151</objectIdentifierValue>
+              <objectIdentifierValue>3867</objectIdentifierValue>
             </objectIdentifier>
             <objectCharacteristics>
               <fixity>
@@ -60,19 +60,19 @@
   </amdSec>
   <fileSec>
     <fileGrp USE="Image-Service">
-      <file AMDID="1151" GROUPID="1151" ID="1151">
+      <file AMDID="3867" GROUPID="1151" ID="3867">
         <FLocat xlink:href="http://storage.rockarch.org/6cad39b4-4d08-4a13-9edb-2116fc1ead37-FCD001_105_01005.pdf"/>
       </file>
     </fileGrp>
   </fileSec>
   <structMap TYPE="logical">
     <div DMDID="1151" LABEL="Cynthia Garcia Coll" ORDER="1" TYPE="item">
-      <fptr FILEID="1151"/>
+      <fptr FILEID="3867"/>
     </div>
   </structMap>
   <structMap TYPE="physical">
     <div DMDID="1151" LABEL="Cynthia Garcia Coll" ORDER="1" TYPE="item">
-      <fptr FILEID="1151"/>
+      <fptr FILEID="3867"/>
     </div>
   </structMap>
 </mets>

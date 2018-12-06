@@ -7,7 +7,7 @@
           <mods:titleInfo>
             <mods:title>Grants Approved (by Date)</mods:title>
           </mods:titleInfo>
-          <mods:typeOfResource>text</mods:typeOfResource>
+          <mods:typeOfResource>Text</mods:typeOfResource>
           <mods:originInfo>
             <mods:dateCreated>1972-1989</mods:dateCreated>
           </mods:originInfo>
@@ -25,20 +25,20 @@
           </mods:relatedItem>
           <mods:relatedItem displayLabel="component" type="host">
             <mods:name>Grants Approved (by Date), 1972-1989</mods:name>
-            <mods:identifier>ref1090_jng</mods:identifier>
+            <mods:identifier>256e43ec312d40ecbdaeb625e1711dc8</mods:identifier>
           </mods:relatedItem>
         </mods>
       </xmlData>
     </mdWrap>
   </dmdSec>
   <amdSec>
-    <techMD ID="596">
+    <techMD ID="3441">
       <mdWrap MDTYPE="PREMIS:OBJECT">
         <xmlData>
           <object version="2.2" xmlns="info:lc/xmlns/premis-v2" xsi:schemaLocation="info:lc/xmlns/premis-v2 http://www.loc.gov/standards/premis/v2/premis-v2-2.xsd" xsi:type="file">
             <objectIdentifier>
               <objectIdentifierType>ArchivesSpace identifier</objectIdentifierType>
-              <objectIdentifierValue>596</objectIdentifierValue>
+              <objectIdentifierValue>3441</objectIdentifierValue>
             </objectIdentifier>
             <objectCharacteristics>
               <fixity>
@@ -60,19 +60,19 @@
   </amdSec>
   <fileSec>
     <fileGrp USE="Image-Service">
-      <file AMDID="596" GROUPID="596" ID="596">
+      <file AMDID="3441" GROUPID="596" ID="3441">
         <FLocat xlink:href="http://storage.rockarch.org/17a27e1e-5ccc-4987-b0e1-7e9355d7c9d6-FCD001_043_00332.pdf"/>
       </file>
     </fileGrp>
   </fileSec>
   <structMap TYPE="logical">
     <div DMDID="596" LABEL="Grants Approved (by Date)" ORDER="1" TYPE="item">
-      <fptr FILEID="596"/>
+      <fptr FILEID="3441"/>
     </div>
   </structMap>
   <structMap TYPE="physical">
     <div DMDID="596" LABEL="Grants Approved (by Date)" ORDER="1" TYPE="item">
-      <fptr FILEID="596"/>
+      <fptr FILEID="3441"/>
     </div>
   </structMap>
 </mets>

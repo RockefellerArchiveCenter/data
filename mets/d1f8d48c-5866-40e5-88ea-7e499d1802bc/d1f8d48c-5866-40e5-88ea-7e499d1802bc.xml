@@ -7,7 +7,7 @@
           <mods:titleInfo>
             <mods:title>Case Western Reserve University</mods:title>
           </mods:titleInfo>
-          <mods:typeOfResource>text</mods:typeOfResource>
+          <mods:typeOfResource>Text</mods:typeOfResource>
           <mods:originInfo>
             <mods:dateCreated>1975-1974</mods:dateCreated>
           </mods:originInfo>
@@ -25,20 +25,20 @@
           </mods:relatedItem>
           <mods:relatedItem displayLabel="component" type="host">
             <mods:name>Case Western Reserve University, 1975-1974</mods:name>
-            <mods:identifier>ref1152_iol</mods:identifier>
+            <mods:identifier>6b0c558690804535b7c292123cf53125</mods:identifier>
           </mods:relatedItem>
         </mods>
       </xmlData>
     </mdWrap>
   </dmdSec>
   <amdSec>
-    <techMD ID="652">
+    <techMD ID="3492">
       <mdWrap MDTYPE="PREMIS:OBJECT">
         <xmlData>
           <object version="2.2" xmlns="info:lc/xmlns/premis-v2" xsi:schemaLocation="info:lc/xmlns/premis-v2 http://www.loc.gov/standards/premis/v2/premis-v2-2.xsd" xsi:type="file">
             <objectIdentifier>
               <objectIdentifierType>ArchivesSpace identifier</objectIdentifierType>
-              <objectIdentifierValue>652</objectIdentifierValue>
+              <objectIdentifierValue>3492</objectIdentifierValue>
             </objectIdentifier>
             <objectCharacteristics>
               <fixity>
@@ -60,19 +60,19 @@
   </amdSec>
   <fileSec>
     <fileGrp USE="Image-Service">
-      <file AMDID="652" GROUPID="652" ID="652">
+      <file AMDID="3492" GROUPID="652" ID="3492">
         <FLocat xlink:href="http://storage.rockarch.org/d1f8d48c-5866-40e5-88ea-7e499d1802bc-FCD001_047_00473.pdf"/>
       </file>
     </fileGrp>
   </fileSec>
   <structMap TYPE="logical">
     <div DMDID="652" LABEL="Case Western Reserve University" ORDER="1" TYPE="item">
-      <fptr FILEID="652"/>
+      <fptr FILEID="3492"/>
     </div>
   </structMap>
   <structMap TYPE="physical">
     <div DMDID="652" LABEL="Case Western Reserve University" ORDER="1" TYPE="item">
-      <fptr FILEID="652"/>
+      <fptr FILEID="3492"/>
     </div>
   </structMap>
 </mets>

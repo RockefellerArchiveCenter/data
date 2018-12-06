@@ -7,7 +7,7 @@
           <mods:titleInfo>
             <mods:title>Federal Tax Returns - Fiscal Year April 1, 1973-March 31, 1974</mods:title>
           </mods:titleInfo>
-          <mods:typeOfResource>text</mods:typeOfResource>
+          <mods:typeOfResource>Text</mods:typeOfResource>
           <mods:originInfo>
             <mods:dateCreated>April 1, 1973-March 31, 1974</mods:dateCreated>
           </mods:originInfo>
@@ -25,20 +25,20 @@
           </mods:relatedItem>
           <mods:relatedItem displayLabel="component" type="host">
             <mods:name>Federal Tax Returns - Fiscal Year April 1, 1973-March 31, 1974, April 1, 1973-March 31, 1974</mods:name>
-            <mods:identifier>ref1948_x07</mods:identifier>
+            <mods:identifier>1d068a4efb0b44f98d5fe874dbb04b46</mods:identifier>
           </mods:relatedItem>
         </mods>
       </xmlData>
     </mdWrap>
   </dmdSec>
   <amdSec>
-    <techMD ID="514">
+    <techMD ID="3362">
       <mdWrap MDTYPE="PREMIS:OBJECT">
         <xmlData>
           <object version="2.2" xmlns="info:lc/xmlns/premis-v2" xsi:schemaLocation="info:lc/xmlns/premis-v2 http://www.loc.gov/standards/premis/v2/premis-v2-2.xsd" xsi:type="file">
             <objectIdentifier>
               <objectIdentifierType>ArchivesSpace identifier</objectIdentifierType>
-              <objectIdentifierValue>514</objectIdentifierValue>
+              <objectIdentifierValue>3362</objectIdentifierValue>
             </objectIdentifier>
             <objectCharacteristics>
               <fixity>
@@ -60,19 +60,19 @@
   </amdSec>
   <fileSec>
     <fileGrp USE="Image-Service">
-      <file AMDID="514" GROUPID="514" ID="514">
+      <file AMDID="3362" GROUPID="514" ID="3362">
         <FLocat xlink:href="http://storage.rockarch.org/433e76dd-5755-4452-825d-801d0364702a-FCD001_036_00431.pdf"/>
       </file>
     </fileGrp>
   </fileSec>
   <structMap TYPE="logical">
     <div DMDID="514" LABEL="Federal Tax Returns - Fiscal Year April 1, 1973-March 31, 1974" ORDER="1" TYPE="item">
-      <fptr FILEID="514"/>
+      <fptr FILEID="3362"/>
     </div>
   </structMap>
   <structMap TYPE="physical">
     <div DMDID="514" LABEL="Federal Tax Returns - Fiscal Year April 1, 1973-March 31, 1974" ORDER="1" TYPE="item">
-      <fptr FILEID="514"/>
+      <fptr FILEID="3362"/>
     </div>
   </structMap>
 </mets>

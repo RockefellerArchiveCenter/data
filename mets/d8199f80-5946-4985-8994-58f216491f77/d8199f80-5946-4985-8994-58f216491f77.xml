@@ -7,7 +7,7 @@
           <mods:titleInfo>
             <mods:title>Budget Committee</mods:title>
           </mods:titleInfo>
-          <mods:typeOfResource>text</mods:typeOfResource>
+          <mods:typeOfResource>Text</mods:typeOfResource>
           <mods:originInfo>
             <mods:dateCreated>29 December 1925</mods:dateCreated>
           </mods:originInfo>
@@ -32,13 +32,13 @@
     </mdWrap>
   </dmdSec>
   <amdSec>
-    <techMD ID="2389">
+    <techMD ID="4901">
       <mdWrap MDTYPE="PREMIS:OBJECT">
         <xmlData>
           <object version="2.2" xmlns="info:lc/xmlns/premis-v2" xsi:schemaLocation="info:lc/xmlns/premis-v2 http://www.loc.gov/standards/premis/v2/premis-v2-2.xsd" xsi:type="file">
             <objectIdentifier>
               <objectIdentifierType>ArchivesSpace identifier</objectIdentifierType>
-              <objectIdentifierValue>2389</objectIdentifierValue>
+              <objectIdentifierValue>4901</objectIdentifierValue>
             </objectIdentifier>
             <objectCharacteristics>
               <fixity>
@@ -60,19 +60,19 @@
   </amdSec>
   <fileSec>
     <fileGrp USE="translation missing: en.enumerations.file_version_use_statement.service-edited">
-      <file AMDID="2389" GROUPID="2389" ID="2389">
+      <file AMDID="4901" GROUPID="2389" ID="4901">
         <FLocat xlink:href="http://storage.rockarch.org/d8199f80-5946-4985-8994-58f216491f77-rac_rfdiaries_12-2_vincent_1917-1929_072.pdf"/>
       </file>
     </fileGrp>
   </fileSec>
   <structMap TYPE="logical">
     <div DMDID="2389" LABEL="Budget Committee" ORDER="1" TYPE="item">
-      <fptr FILEID="2389"/>
+      <fptr FILEID="4901"/>
     </div>
   </structMap>
   <structMap TYPE="physical">
     <div DMDID="2389" LABEL="Budget Committee" ORDER="1" TYPE="item">
-      <fptr FILEID="2389"/>
+      <fptr FILEID="4901"/>
     </div>
   </structMap>
 </mets>

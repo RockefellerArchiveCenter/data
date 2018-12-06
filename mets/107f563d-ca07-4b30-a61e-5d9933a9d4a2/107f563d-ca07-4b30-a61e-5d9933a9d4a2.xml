@@ -7,7 +7,7 @@
           <mods:titleInfo>
             <mods:title>American Academy of Pediatrics</mods:title>
           </mods:titleInfo>
-          <mods:typeOfResource>text</mods:typeOfResource>
+          <mods:typeOfResource>Text</mods:typeOfResource>
           <mods:originInfo>
             <mods:dateCreated>1989-1991</mods:dateCreated>
           </mods:originInfo>
@@ -25,20 +25,20 @@
           </mods:relatedItem>
           <mods:relatedItem displayLabel="component" type="host">
             <mods:name>American Academy of Pediatrics, 1989-1991</mods:name>
-            <mods:identifier>ref1213_u2u</mods:identifier>
+            <mods:identifier>be13c95316a24766b982e743a680a995</mods:identifier>
           </mods:relatedItem>
         </mods>
       </xmlData>
     </mdWrap>
   </dmdSec>
   <amdSec>
-    <techMD ID="706">
+    <techMD ID="3540">
       <mdWrap MDTYPE="PREMIS:OBJECT">
         <xmlData>
           <object version="2.2" xmlns="info:lc/xmlns/premis-v2" xsi:schemaLocation="info:lc/xmlns/premis-v2 http://www.loc.gov/standards/premis/v2/premis-v2-2.xsd" xsi:type="file">
             <objectIdentifier>
               <objectIdentifierType>ArchivesSpace identifier</objectIdentifierType>
-              <objectIdentifierValue>706</objectIdentifierValue>
+              <objectIdentifierValue>3540</objectIdentifierValue>
             </objectIdentifier>
             <objectCharacteristics>
               <fixity>
@@ -60,19 +60,19 @@
   </amdSec>
   <fileSec>
     <fileGrp USE="Image-Service">
-      <file AMDID="706" GROUPID="706" ID="706">
+      <file AMDID="3540" GROUPID="706" ID="3540">
         <FLocat xlink:href="http://storage.rockarch.org/107f563d-ca07-4b30-a61e-5d9933a9d4a2-FCD001_052_00249.pdf"/>
       </file>
     </fileGrp>
   </fileSec>
   <structMap TYPE="logical">
     <div DMDID="706" LABEL="American Academy of Pediatrics" ORDER="1" TYPE="item">
-      <fptr FILEID="706"/>
+      <fptr FILEID="3540"/>
     </div>
   </structMap>
   <structMap TYPE="physical">
     <div DMDID="706" LABEL="American Academy of Pediatrics" ORDER="1" TYPE="item">
-      <fptr FILEID="706"/>
+      <fptr FILEID="3540"/>
     </div>
   </structMap>
 </mets>

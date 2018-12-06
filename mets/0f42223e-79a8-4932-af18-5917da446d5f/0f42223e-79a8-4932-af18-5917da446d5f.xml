@@ -7,7 +7,7 @@
           <mods:titleInfo>
             <mods:title>1922 Diary, Including Log of Journey to Europe</mods:title>
           </mods:titleInfo>
-          <mods:typeOfResource>text</mods:typeOfResource>
+          <mods:typeOfResource>Text</mods:typeOfResource>
           <mods:originInfo>
             <mods:dateCreated>1922</mods:dateCreated>
           </mods:originInfo>
@@ -25,20 +25,20 @@
           </mods:relatedItem>
           <mods:relatedItem displayLabel="component" type="host">
             <mods:name>1922 Diary, Including Log of Journey to Europe, 1922</mods:name>
-            <mods:identifier>ref1057_zsf</mods:identifier>
+            <mods:identifier>ff68056f428c42a7be46e1f777a0d9d9</mods:identifier>
           </mods:relatedItem>
         </mods>
       </xmlData>
     </mdWrap>
   </dmdSec>
   <amdSec>
-    <techMD ID="1376">
+    <techMD ID="4039">
       <mdWrap MDTYPE="PREMIS:OBJECT">
         <xmlData>
           <object version="2.2" xmlns="info:lc/xmlns/premis-v2" xsi:schemaLocation="info:lc/xmlns/premis-v2 http://www.loc.gov/standards/premis/v2/premis-v2-2.xsd" xsi:type="file">
             <objectIdentifier>
               <objectIdentifierType>ArchivesSpace identifier</objectIdentifierType>
-              <objectIdentifierValue>1376</objectIdentifierValue>
+              <objectIdentifierValue>4039</objectIdentifierValue>
             </objectIdentifier>
             <objectCharacteristics>
               <fixity>
@@ -59,20 +59,20 @@
     </techMD>
   </amdSec>
   <fileSec>
-    <fileGrp USE="Service-Edited">
-      <file AMDID="1376" GROUPID="1376" ID="1376">
+    <fileGrp USE="translation missing: en.enumerations.file_version_use_statement.service-edited">
+      <file AMDID="4039" GROUPID="1376" ID="4039">
         <FLocat xlink:href="http://storage.rockarch.org/0f42223e-79a8-4932-af18-5917da446d5f-rac_rfdiaries_12-2_rose_1911-1924_020.pdf"/>
       </file>
     </fileGrp>
   </fileSec>
   <structMap TYPE="logical">
     <div DMDID="1376" LABEL="1922 Diary, Including Log of Journey to Europe" ORDER="1" TYPE="item">
-      <fptr FILEID="1376"/>
+      <fptr FILEID="4039"/>
     </div>
   </structMap>
   <structMap TYPE="physical">
     <div DMDID="1376" LABEL="1922 Diary, Including Log of Journey to Europe" ORDER="1" TYPE="item">
-      <fptr FILEID="1376"/>
+      <fptr FILEID="4039"/>
     </div>
   </structMap>
 </mets>

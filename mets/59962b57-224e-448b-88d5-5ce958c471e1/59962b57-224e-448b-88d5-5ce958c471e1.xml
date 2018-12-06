@@ -7,7 +7,7 @@
           <mods:titleInfo>
             <mods:title>University of Arkansas at Little Rock</mods:title>
           </mods:titleInfo>
-          <mods:typeOfResource>text</mods:typeOfResource>
+          <mods:typeOfResource>Text</mods:typeOfResource>
           <mods:originInfo>
             <mods:dateCreated>1983-1985</mods:dateCreated>
           </mods:originInfo>
@@ -25,20 +25,20 @@
           </mods:relatedItem>
           <mods:relatedItem displayLabel="component" type="host">
             <mods:name>University of Arkansas at Little Rock, 1983-1985</mods:name>
-            <mods:identifier>ref1499_5p3</mods:identifier>
+            <mods:identifier>55e8116832f54048888e964e70ddca02</mods:identifier>
           </mods:relatedItem>
         </mods>
       </xmlData>
     </mdWrap>
   </dmdSec>
   <amdSec>
-    <techMD ID="990">
+    <techMD ID="3806">
       <mdWrap MDTYPE="PREMIS:OBJECT">
         <xmlData>
           <object version="2.2" xmlns="info:lc/xmlns/premis-v2" xsi:schemaLocation="info:lc/xmlns/premis-v2 http://www.loc.gov/standards/premis/v2/premis-v2-2.xsd" xsi:type="file">
             <objectIdentifier>
               <objectIdentifierType>ArchivesSpace identifier</objectIdentifierType>
-              <objectIdentifierValue>990</objectIdentifierValue>
+              <objectIdentifierValue>3806</objectIdentifierValue>
             </objectIdentifier>
             <objectCharacteristics>
               <fixity>
@@ -60,19 +60,19 @@
   </amdSec>
   <fileSec>
     <fileGrp USE="Image-Service">
-      <file AMDID="990" GROUPID="990" ID="990">
+      <file AMDID="3806" GROUPID="990" ID="3806">
         <FLocat xlink:href="http://storage.rockarch.org/59962b57-224e-448b-88d5-5ce958c471e1-FCD001_092_00730.pdf"/>
       </file>
     </fileGrp>
   </fileSec>
   <structMap TYPE="logical">
     <div DMDID="990" LABEL="University of Arkansas at Little Rock" ORDER="1" TYPE="item">
-      <fptr FILEID="990"/>
+      <fptr FILEID="3806"/>
     </div>
   </structMap>
   <structMap TYPE="physical">
     <div DMDID="990" LABEL="University of Arkansas at Little Rock" ORDER="1" TYPE="item">
-      <fptr FILEID="990"/>
+      <fptr FILEID="3806"/>
     </div>
   </structMap>
 </mets>

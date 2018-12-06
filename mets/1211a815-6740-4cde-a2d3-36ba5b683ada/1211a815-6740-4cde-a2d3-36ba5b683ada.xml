@@ -7,7 +7,7 @@
           <mods:titleInfo>
             <mods:title>Legal Advocacy on Behalf of Children</mods:title>
           </mods:titleInfo>
-          <mods:typeOfResource>text</mods:typeOfResource>
+          <mods:typeOfResource>Text</mods:typeOfResource>
           <mods:originInfo>
             <mods:dateCreated>1980</mods:dateCreated>
           </mods:originInfo>
@@ -25,20 +25,20 @@
           </mods:relatedItem>
           <mods:relatedItem displayLabel="component" type="host">
             <mods:name>Legal Advocacy on Behalf of Children, 1980</mods:name>
-            <mods:identifier>ref1363_6sc</mods:identifier>
+            <mods:identifier>aac060d0bed1427f8b6c934db659a1a7</mods:identifier>
           </mods:relatedItem>
         </mods>
       </xmlData>
     </mdWrap>
   </dmdSec>
   <amdSec>
-    <techMD ID="854">
+    <techMD ID="3685">
       <mdWrap MDTYPE="PREMIS:OBJECT">
         <xmlData>
           <object version="2.2" xmlns="info:lc/xmlns/premis-v2" xsi:schemaLocation="info:lc/xmlns/premis-v2 http://www.loc.gov/standards/premis/v2/premis-v2-2.xsd" xsi:type="file">
             <objectIdentifier>
               <objectIdentifierType>ArchivesSpace identifier</objectIdentifierType>
-              <objectIdentifierValue>854</objectIdentifierValue>
+              <objectIdentifierValue>3685</objectIdentifierValue>
             </objectIdentifier>
             <objectCharacteristics>
               <fixity>
@@ -60,19 +60,19 @@
   </amdSec>
   <fileSec>
     <fileGrp USE="Image-Service">
-      <file AMDID="854" GROUPID="854" ID="854">
+      <file AMDID="3685" GROUPID="854" ID="3685">
         <FLocat xlink:href="http://storage.rockarch.org/1211a815-6740-4cde-a2d3-36ba5b683ada-FCD001_072_00534.pdf"/>
       </file>
     </fileGrp>
   </fileSec>
   <structMap TYPE="logical">
     <div DMDID="854" LABEL="Legal Advocacy on Behalf of Children" ORDER="1" TYPE="item">
-      <fptr FILEID="854"/>
+      <fptr FILEID="3685"/>
     </div>
   </structMap>
   <structMap TYPE="physical">
     <div DMDID="854" LABEL="Legal Advocacy on Behalf of Children" ORDER="1" TYPE="item">
-      <fptr FILEID="854"/>
+      <fptr FILEID="3685"/>
     </div>
   </structMap>
 </mets>

@@ -7,7 +7,7 @@
           <mods:titleInfo>
             <mods:title>Journal - Central American Journey</mods:title>
           </mods:titleInfo>
-          <mods:typeOfResource>text</mods:typeOfResource>
+          <mods:typeOfResource>Text</mods:typeOfResource>
           <mods:originInfo>
             <mods:dateCreated>1915 November 11-December 13</mods:dateCreated>
           </mods:originInfo>
@@ -25,20 +25,20 @@
           </mods:relatedItem>
           <mods:relatedItem displayLabel="component" type="host">
             <mods:name>Journal - Central American Journey, 1915 November 11-December 13</mods:name>
-            <mods:identifier>ref240_lnt</mods:identifier>
+            <mods:identifier>fe5359750df54c12b1527b674db29273</mods:identifier>
           </mods:relatedItem>
         </mods>
       </xmlData>
     </mdWrap>
   </dmdSec>
   <amdSec>
-    <techMD ID="1294">
+    <techMD ID="3958">
       <mdWrap MDTYPE="PREMIS:OBJECT">
         <xmlData>
           <object version="2.2" xmlns="info:lc/xmlns/premis-v2" xsi:schemaLocation="info:lc/xmlns/premis-v2 http://www.loc.gov/standards/premis/v2/premis-v2-2.xsd" xsi:type="file">
             <objectIdentifier>
               <objectIdentifierType>ArchivesSpace identifier</objectIdentifierType>
-              <objectIdentifierValue>1294</objectIdentifierValue>
+              <objectIdentifierValue>3958</objectIdentifierValue>
             </objectIdentifier>
             <objectCharacteristics>
               <fixity>
@@ -59,20 +59,20 @@
     </techMD>
   </amdSec>
   <fileSec>
-    <fileGrp USE="Service-Edited">
-      <file AMDID="1294" GROUPID="1294" ID="1294">
+    <fileGrp USE="translation missing: en.enumerations.file_version_use_statement.service-edited">
+      <file AMDID="3958" GROUPID="1294" ID="3958">
         <FLocat xlink:href="http://storage.rockarch.org/aabb49c3-316e-42c9-b17b-daa6a53e5627-rac_rfdiaries_12-2_ferrell_1915-1927_001.pdf"/>
       </file>
     </fileGrp>
   </fileSec>
   <structMap TYPE="logical">
     <div DMDID="1294" LABEL="Journal - Central American Journey" ORDER="1" TYPE="item">
-      <fptr FILEID="1294"/>
+      <fptr FILEID="3958"/>
     </div>
   </structMap>
   <structMap TYPE="physical">
     <div DMDID="1294" LABEL="Journal - Central American Journey" ORDER="1" TYPE="item">
-      <fptr FILEID="1294"/>
+      <fptr FILEID="3958"/>
     </div>
   </structMap>
 </mets>

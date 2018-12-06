@@ -7,7 +7,7 @@
           <mods:titleInfo>
             <mods:title>Church of the Living Hope</mods:title>
           </mods:titleInfo>
-          <mods:typeOfResource>text</mods:typeOfResource>
+          <mods:typeOfResource>Text</mods:typeOfResource>
           <mods:originInfo>
             <mods:dateCreated>1986-1990</mods:dateCreated>
           </mods:originInfo>
@@ -25,20 +25,20 @@
           </mods:relatedItem>
           <mods:relatedItem displayLabel="component" type="host">
             <mods:name>Church of the Living Hope, 1986-1990</mods:name>
-            <mods:identifier>ref1272_kqz</mods:identifier>
+            <mods:identifier>f05074a876504243b2c4dbe9c08c0008</mods:identifier>
           </mods:relatedItem>
         </mods>
       </xmlData>
     </mdWrap>
   </dmdSec>
   <amdSec>
-    <techMD ID="752">
+    <techMD ID="3585">
       <mdWrap MDTYPE="PREMIS:OBJECT">
         <xmlData>
           <object version="2.2" xmlns="info:lc/xmlns/premis-v2" xsi:schemaLocation="info:lc/xmlns/premis-v2 http://www.loc.gov/standards/premis/v2/premis-v2-2.xsd" xsi:type="file">
             <objectIdentifier>
               <objectIdentifierType>ArchivesSpace identifier</objectIdentifierType>
-              <objectIdentifierValue>752</objectIdentifierValue>
+              <objectIdentifierValue>3585</objectIdentifierValue>
             </objectIdentifier>
             <objectCharacteristics>
               <fixity>
@@ -60,19 +60,19 @@
   </amdSec>
   <fileSec>
     <fileGrp USE="Image-Service">
-      <file AMDID="752" GROUPID="752" ID="752">
+      <file AMDID="3585" GROUPID="752" ID="3585">
         <FLocat xlink:href="http://storage.rockarch.org/f0c2459f-1b10-4de9-87eb-249a80905f8f-FCD001_061_00255.pdf"/>
       </file>
     </fileGrp>
   </fileSec>
   <structMap TYPE="logical">
     <div DMDID="752" LABEL="Church of the Living Hope" ORDER="1" TYPE="item">
-      <fptr FILEID="752"/>
+      <fptr FILEID="3585"/>
     </div>
   </structMap>
   <structMap TYPE="physical">
     <div DMDID="752" LABEL="Church of the Living Hope" ORDER="1" TYPE="item">
-      <fptr FILEID="752"/>
+      <fptr FILEID="3585"/>
     </div>
   </structMap>
 </mets>

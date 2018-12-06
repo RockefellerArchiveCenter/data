@@ -7,7 +7,7 @@
           <mods:titleInfo>
             <mods:title>Court Appointed Special Advocates, Family Court of the State of New York</mods:title>
           </mods:titleInfo>
-          <mods:typeOfResource>text</mods:typeOfResource>
+          <mods:typeOfResource>Text</mods:typeOfResource>
           <mods:originInfo>
             <mods:dateCreated>1990-1991</mods:dateCreated>
           </mods:originInfo>
@@ -25,20 +25,20 @@
           </mods:relatedItem>
           <mods:relatedItem displayLabel="component" type="host">
             <mods:name>Court Appointed Special Advocates, Family Court of the State of New York, 1990-1991</mods:name>
-            <mods:identifier>ref1300_cy6</mods:identifier>
+            <mods:identifier>ca31f45ea58b4ee9a37de520ee9f82ad</mods:identifier>
           </mods:relatedItem>
         </mods>
       </xmlData>
     </mdWrap>
   </dmdSec>
   <amdSec>
-    <techMD ID="789">
+    <techMD ID="3621">
       <mdWrap MDTYPE="PREMIS:OBJECT">
         <xmlData>
           <object version="2.2" xmlns="info:lc/xmlns/premis-v2" xsi:schemaLocation="info:lc/xmlns/premis-v2 http://www.loc.gov/standards/premis/v2/premis-v2-2.xsd" xsi:type="file">
             <objectIdentifier>
               <objectIdentifierType>ArchivesSpace identifier</objectIdentifierType>
-              <objectIdentifierValue>789</objectIdentifierValue>
+              <objectIdentifierValue>3621</objectIdentifierValue>
             </objectIdentifier>
             <objectCharacteristics>
               <fixity>
@@ -60,19 +60,19 @@
   </amdSec>
   <fileSec>
     <fileGrp USE="Image-Service">
-      <file AMDID="789" GROUPID="789" ID="789">
+      <file AMDID="3621" GROUPID="789" ID="3621">
         <FLocat xlink:href="http://storage.rockarch.org/db8433a1-257d-4be5-9ad3-9c6fdb2bdf3f-FCD001_064_00994.pdf"/>
       </file>
     </fileGrp>
   </fileSec>
   <structMap TYPE="logical">
     <div DMDID="789" LABEL="Court Appointed Special Advocates, Family Court of the State of New York" ORDER="1" TYPE="item">
-      <fptr FILEID="789"/>
+      <fptr FILEID="3621"/>
     </div>
   </structMap>
   <structMap TYPE="physical">
     <div DMDID="789" LABEL="Court Appointed Special Advocates, Family Court of the State of New York" ORDER="1" TYPE="item">
-      <fptr FILEID="789"/>
+      <fptr FILEID="3621"/>
     </div>
   </structMap>
 </mets>

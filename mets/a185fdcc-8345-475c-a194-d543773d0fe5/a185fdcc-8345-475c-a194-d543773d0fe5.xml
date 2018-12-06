@@ -7,7 +7,7 @@
           <mods:titleInfo>
             <mods:title>Trip Schedule</mods:title>
           </mods:titleInfo>
-          <mods:typeOfResource>text</mods:typeOfResource>
+          <mods:typeOfResource>Text</mods:typeOfResource>
           <mods:originInfo>
             <mods:dateCreated>1916-1917, 1919-1921</mods:dateCreated>
           </mods:originInfo>
@@ -25,20 +25,20 @@
           </mods:relatedItem>
           <mods:relatedItem displayLabel="component" type="host">
             <mods:name>Trip Schedule, 1916-1917, 1919-1921</mods:name>
-            <mods:identifier>ref642_81f</mods:identifier>
+            <mods:identifier>27738e3518f04590be36f8f3e03165bb</mods:identifier>
           </mods:relatedItem>
         </mods>
       </xmlData>
     </mdWrap>
   </dmdSec>
   <amdSec>
-    <techMD ID="1490">
+    <techMD ID="4153">
       <mdWrap MDTYPE="PREMIS:OBJECT">
         <xmlData>
           <object version="2.2" xmlns="info:lc/xmlns/premis-v2" xsi:schemaLocation="info:lc/xmlns/premis-v2 http://www.loc.gov/standards/premis/v2/premis-v2-2.xsd" xsi:type="file">
             <objectIdentifier>
               <objectIdentifierType>ArchivesSpace identifier</objectIdentifierType>
-              <objectIdentifierValue>1490</objectIdentifierValue>
+              <objectIdentifierValue>4153</objectIdentifierValue>
             </objectIdentifier>
             <objectCharacteristics>
               <fixity>
@@ -59,20 +59,20 @@
     </techMD>
   </amdSec>
   <fileSec>
-    <fileGrp USE="Service-Edited">
-      <file AMDID="1490" GROUPID="1490" ID="1490">
+    <fileGrp USE="translation missing: en.enumerations.file_version_use_statement.service-edited">
+      <file AMDID="4153" GROUPID="1490" ID="4153">
         <FLocat xlink:href="http://storage.rockarch.org/a185fdcc-8345-475c-a194-d543773d0fe5-rac_rfdiaries_12-2_pearce_1916-1930_001.pdf"/>
       </file>
     </fileGrp>
   </fileSec>
   <structMap TYPE="logical">
     <div DMDID="1490" LABEL="Trip Schedule" ORDER="1" TYPE="item">
-      <fptr FILEID="1490"/>
+      <fptr FILEID="4153"/>
     </div>
   </structMap>
   <structMap TYPE="physical">
     <div DMDID="1490" LABEL="Trip Schedule" ORDER="1" TYPE="item">
-      <fptr FILEID="1490"/>
+      <fptr FILEID="4153"/>
     </div>
   </structMap>
 </mets>

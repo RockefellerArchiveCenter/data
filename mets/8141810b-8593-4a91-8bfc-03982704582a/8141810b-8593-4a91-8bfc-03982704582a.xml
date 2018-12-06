@@ -7,7 +7,7 @@
           <mods:titleInfo>
             <mods:title>Agenda for Children Tomorrow</mods:title>
           </mods:titleInfo>
-          <mods:typeOfResource>text</mods:typeOfResource>
+          <mods:typeOfResource>Text</mods:typeOfResource>
           <mods:originInfo>
             <mods:dateCreated>1989-1990</mods:dateCreated>
           </mods:originInfo>
@@ -25,20 +25,20 @@
           </mods:relatedItem>
           <mods:relatedItem displayLabel="component" type="host">
             <mods:name>Agenda for Children Tomorrow, 1989-1990</mods:name>
-            <mods:identifier>ref1210_vlr</mods:identifier>
+            <mods:identifier>0b3d28443c4e45e3a69fe32c4bf0d8fd</mods:identifier>
           </mods:relatedItem>
         </mods>
       </xmlData>
     </mdWrap>
   </dmdSec>
   <amdSec>
-    <techMD ID="702">
+    <techMD ID="3536">
       <mdWrap MDTYPE="PREMIS:OBJECT">
         <xmlData>
           <object version="2.2" xmlns="info:lc/xmlns/premis-v2" xsi:schemaLocation="info:lc/xmlns/premis-v2 http://www.loc.gov/standards/premis/v2/premis-v2-2.xsd" xsi:type="file">
             <objectIdentifier>
               <objectIdentifierType>ArchivesSpace identifier</objectIdentifierType>
-              <objectIdentifierValue>702</objectIdentifierValue>
+              <objectIdentifierValue>3536</objectIdentifierValue>
             </objectIdentifier>
             <objectCharacteristics>
               <fixity>
@@ -60,19 +60,19 @@
   </amdSec>
   <fileSec>
     <fileGrp USE="Image-Service">
-      <file AMDID="702" GROUPID="702" ID="702">
+      <file AMDID="3536" GROUPID="702" ID="3536">
         <FLocat xlink:href="http://storage.rockarch.org/8141810b-8593-4a91-8bfc-03982704582a-FCD001_051_01074.pdf"/>
       </file>
     </fileGrp>
   </fileSec>
   <structMap TYPE="logical">
     <div DMDID="702" LABEL="Agenda for Children Tomorrow" ORDER="1" TYPE="item">
-      <fptr FILEID="702"/>
+      <fptr FILEID="3536"/>
     </div>
   </structMap>
   <structMap TYPE="physical">
     <div DMDID="702" LABEL="Agenda for Children Tomorrow" ORDER="1" TYPE="item">
-      <fptr FILEID="702"/>
+      <fptr FILEID="3536"/>
     </div>
   </structMap>
 </mets>

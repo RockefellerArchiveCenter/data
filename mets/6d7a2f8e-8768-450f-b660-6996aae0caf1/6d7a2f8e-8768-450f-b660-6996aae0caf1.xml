@@ -7,7 +7,7 @@
           <mods:titleInfo>
             <mods:title>New York State Bar Association</mods:title>
           </mods:titleInfo>
-          <mods:typeOfResource>text</mods:typeOfResource>
+          <mods:typeOfResource>Text</mods:typeOfResource>
           <mods:originInfo>
             <mods:dateCreated>1981-1983</mods:dateCreated>
           </mods:originInfo>
@@ -25,20 +25,20 @@
           </mods:relatedItem>
           <mods:relatedItem displayLabel="component" type="host">
             <mods:name>New York State Bar Association, 1981-1983</mods:name>
-            <mods:identifier>ref1434_zre</mods:identifier>
+            <mods:identifier>d3c87b336d474adfa02a5466b047f214</mods:identifier>
           </mods:relatedItem>
         </mods>
       </xmlData>
     </mdWrap>
   </dmdSec>
   <amdSec>
-    <techMD ID="921">
+    <techMD ID="3749">
       <mdWrap MDTYPE="PREMIS:OBJECT">
         <xmlData>
           <object version="2.2" xmlns="info:lc/xmlns/premis-v2" xsi:schemaLocation="info:lc/xmlns/premis-v2 http://www.loc.gov/standards/premis/v2/premis-v2-2.xsd" xsi:type="file">
             <objectIdentifier>
               <objectIdentifierType>ArchivesSpace identifier</objectIdentifierType>
-              <objectIdentifierValue>921</objectIdentifierValue>
+              <objectIdentifierValue>3749</objectIdentifierValue>
             </objectIdentifier>
             <objectCharacteristics>
               <fixity>
@@ -60,19 +60,19 @@
   </amdSec>
   <fileSec>
     <fileGrp USE="Image-Service">
-      <file AMDID="921" GROUPID="921" ID="921">
+      <file AMDID="3749" GROUPID="921" ID="3749">
         <FLocat xlink:href="http://storage.rockarch.org/6d7a2f8e-8768-450f-b660-6996aae0caf1-FCD001_082_00624.pdf"/>
       </file>
     </fileGrp>
   </fileSec>
   <structMap TYPE="logical">
     <div DMDID="921" LABEL="New York State Bar Association" ORDER="1" TYPE="item">
-      <fptr FILEID="921"/>
+      <fptr FILEID="3749"/>
     </div>
   </structMap>
   <structMap TYPE="physical">
     <div DMDID="921" LABEL="New York State Bar Association" ORDER="1" TYPE="item">
-      <fptr FILEID="921"/>
+      <fptr FILEID="3749"/>
     </div>
   </structMap>
 </mets>

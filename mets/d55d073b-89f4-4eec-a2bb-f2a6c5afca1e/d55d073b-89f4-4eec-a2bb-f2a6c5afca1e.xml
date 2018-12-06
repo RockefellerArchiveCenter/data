@@ -7,7 +7,7 @@
           <mods:titleInfo>
             <mods:title>Historical Information</mods:title>
           </mods:titleInfo>
-          <mods:typeOfResource>text</mods:typeOfResource>
+          <mods:typeOfResource>Text</mods:typeOfResource>
           <mods:originInfo>
             <mods:dateCreated>1911, 1972, 1975, 1977, 1984, 1987</mods:dateCreated>
           </mods:originInfo>
@@ -25,20 +25,20 @@
           </mods:relatedItem>
           <mods:relatedItem displayLabel="component" type="host">
             <mods:name>Historical Information, 1911, 1972, 1975, 1977, 1984, 1987</mods:name>
-            <mods:identifier>ref1093_08o</mods:identifier>
+            <mods:identifier>62f381f6ca2f4a0c9cd2d1a1a68a58b6</mods:identifier>
           </mods:relatedItem>
         </mods>
       </xmlData>
     </mdWrap>
   </dmdSec>
   <amdSec>
-    <techMD ID="589">
+    <techMD ID="3434">
       <mdWrap MDTYPE="PREMIS:OBJECT">
         <xmlData>
           <object version="2.2" xmlns="info:lc/xmlns/premis-v2" xsi:schemaLocation="info:lc/xmlns/premis-v2 http://www.loc.gov/standards/premis/v2/premis-v2-2.xsd" xsi:type="file">
             <objectIdentifier>
               <objectIdentifierType>ArchivesSpace identifier</objectIdentifierType>
-              <objectIdentifierValue>589</objectIdentifierValue>
+              <objectIdentifierValue>3434</objectIdentifierValue>
             </objectIdentifier>
             <objectCharacteristics>
               <fixity>
@@ -60,19 +60,19 @@
   </amdSec>
   <fileSec>
     <fileGrp USE="Image-Service">
-      <file AMDID="589" GROUPID="589" ID="589">
+      <file AMDID="3434" GROUPID="589" ID="3434">
         <FLocat xlink:href="http://storage.rockarch.org/d55d073b-89f4-4eec-a2bb-f2a6c5afca1e-FCD001_043_00635.pdf"/>
       </file>
     </fileGrp>
   </fileSec>
   <structMap TYPE="logical">
     <div DMDID="589" LABEL="Historical Information" ORDER="1" TYPE="item">
-      <fptr FILEID="589"/>
+      <fptr FILEID="3434"/>
     </div>
   </structMap>
   <structMap TYPE="physical">
     <div DMDID="589" LABEL="Historical Information" ORDER="1" TYPE="item">
-      <fptr FILEID="589"/>
+      <fptr FILEID="3434"/>
     </div>
   </structMap>
 </mets>

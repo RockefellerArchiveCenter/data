@@ -7,7 +7,7 @@
           <mods:titleInfo>
             <mods:title>Kindergarten Enrollment</mods:title>
           </mods:titleInfo>
-          <mods:typeOfResource>text</mods:typeOfResource>
+          <mods:typeOfResource>Text</mods:typeOfResource>
           <mods:originInfo>
             <mods:dateCreated>1970-1978</mods:dateCreated>
           </mods:originInfo>
@@ -25,20 +25,20 @@
           </mods:relatedItem>
           <mods:relatedItem displayLabel="component" type="host">
             <mods:name>Kindergarten Enrollment, 1970-1978</mods:name>
-            <mods:identifier>ref1556_5ks</mods:identifier>
+            <mods:identifier>1db59d86ef784c7eacade5f9129378af</mods:identifier>
           </mods:relatedItem>
         </mods>
       </xmlData>
     </mdWrap>
   </dmdSec>
   <amdSec>
-    <techMD ID="1257">
+    <techMD ID="3933">
       <mdWrap MDTYPE="PREMIS:OBJECT">
         <xmlData>
           <object version="2.2" xmlns="info:lc/xmlns/premis-v2" xsi:schemaLocation="info:lc/xmlns/premis-v2 http://www.loc.gov/standards/premis/v2/premis-v2-2.xsd" xsi:type="file">
             <objectIdentifier>
               <objectIdentifierType>ArchivesSpace identifier</objectIdentifierType>
-              <objectIdentifierValue>1257</objectIdentifierValue>
+              <objectIdentifierValue>3933</objectIdentifierValue>
             </objectIdentifier>
             <objectCharacteristics>
               <fixity>
@@ -60,19 +60,19 @@
   </amdSec>
   <fileSec>
     <fileGrp USE="Image-Service">
-      <file AMDID="1257" GROUPID="1257" ID="1257">
+      <file AMDID="3933" GROUPID="1257" ID="3933">
         <FLocat xlink:href="http://storage.rockarch.org/fa1a0cf2-165e-46f7-9291-d28efd68c69e-FCD001_098_00693.pdf"/>
       </file>
     </fileGrp>
   </fileSec>
   <structMap TYPE="logical">
     <div DMDID="1257" LABEL="Kindergarten Enrollment" ORDER="1" TYPE="item">
-      <fptr FILEID="1257"/>
+      <fptr FILEID="3933"/>
     </div>
   </structMap>
   <structMap TYPE="physical">
     <div DMDID="1257" LABEL="Kindergarten Enrollment" ORDER="1" TYPE="item">
-      <fptr FILEID="1257"/>
+      <fptr FILEID="3933"/>
     </div>
   </structMap>
 </mets>

@@ -7,7 +7,7 @@
           <mods:titleInfo>
             <mods:title>Albert Einstein College of Medicine</mods:title>
           </mods:titleInfo>
-          <mods:typeOfResource>text</mods:typeOfResource>
+          <mods:typeOfResource>Text</mods:typeOfResource>
           <mods:originInfo>
             <mods:dateCreated>1989-1990</mods:dateCreated>
           </mods:originInfo>
@@ -25,20 +25,20 @@
           </mods:relatedItem>
           <mods:relatedItem displayLabel="component" type="host">
             <mods:name>Albert Einstein College of Medicine, 1989-1990</mods:name>
-            <mods:identifier>ref1212_va3</mods:identifier>
+            <mods:identifier>8320b6e67a364ccb816610c74b83cb06</mods:identifier>
           </mods:relatedItem>
         </mods>
       </xmlData>
     </mdWrap>
   </dmdSec>
   <amdSec>
-    <techMD ID="708">
+    <techMD ID="3542">
       <mdWrap MDTYPE="PREMIS:OBJECT">
         <xmlData>
           <object version="2.2" xmlns="info:lc/xmlns/premis-v2" xsi:schemaLocation="info:lc/xmlns/premis-v2 http://www.loc.gov/standards/premis/v2/premis-v2-2.xsd" xsi:type="file">
             <objectIdentifier>
               <objectIdentifierType>ArchivesSpace identifier</objectIdentifierType>
-              <objectIdentifierValue>708</objectIdentifierValue>
+              <objectIdentifierValue>3542</objectIdentifierValue>
             </objectIdentifier>
             <objectCharacteristics>
               <fixity>
@@ -60,19 +60,19 @@
   </amdSec>
   <fileSec>
     <fileGrp USE="Image-Service">
-      <file AMDID="708" GROUPID="708" ID="708">
+      <file AMDID="3542" GROUPID="708" ID="3542">
         <FLocat xlink:href="http://storage.rockarch.org/d92c2777-dc09-4943-9126-d5d8450df70f-FCD001_052_00116.pdf"/>
       </file>
     </fileGrp>
   </fileSec>
   <structMap TYPE="logical">
     <div DMDID="708" LABEL="Albert Einstein College of Medicine" ORDER="1" TYPE="item">
-      <fptr FILEID="708"/>
+      <fptr FILEID="3542"/>
     </div>
   </structMap>
   <structMap TYPE="physical">
     <div DMDID="708" LABEL="Albert Einstein College of Medicine" ORDER="1" TYPE="item">
-      <fptr FILEID="708"/>
+      <fptr FILEID="3542"/>
     </div>
   </structMap>
 </mets>

@@ -7,7 +7,7 @@
           <mods:titleInfo>
             <mods:title>Scientists' Institute for Public Information</mods:title>
           </mods:titleInfo>
-          <mods:typeOfResource>text</mods:typeOfResource>
+          <mods:typeOfResource>Text</mods:typeOfResource>
           <mods:originInfo>
             <mods:dateCreated>1990-1991</mods:dateCreated>
           </mods:originInfo>
@@ -25,20 +25,20 @@
           </mods:relatedItem>
           <mods:relatedItem displayLabel="component" type="host">
             <mods:name>Scientists' Institute for Public Information, 1990-1991</mods:name>
-            <mods:identifier>ref1458_n09</mods:identifier>
+            <mods:identifier>b73c4a0e74824b66a621823bc3e9dc27</mods:identifier>
           </mods:relatedItem>
         </mods>
       </xmlData>
     </mdWrap>
   </dmdSec>
   <amdSec>
-    <techMD ID="947">
+    <techMD ID="3773">
       <mdWrap MDTYPE="PREMIS:OBJECT">
         <xmlData>
           <object version="2.2" xmlns="info:lc/xmlns/premis-v2" xsi:schemaLocation="info:lc/xmlns/premis-v2 http://www.loc.gov/standards/premis/v2/premis-v2-2.xsd" xsi:type="file">
             <objectIdentifier>
               <objectIdentifierType>ArchivesSpace identifier</objectIdentifierType>
-              <objectIdentifierValue>947</objectIdentifierValue>
+              <objectIdentifierValue>3773</objectIdentifierValue>
             </objectIdentifier>
             <objectCharacteristics>
               <fixity>
@@ -60,19 +60,19 @@
   </amdSec>
   <fileSec>
     <fileGrp USE="Image-Service">
-      <file AMDID="947" GROUPID="947" ID="947">
+      <file AMDID="3773" GROUPID="947" ID="3773">
         <FLocat xlink:href="http://storage.rockarch.org/a2de6758-1e78-42fd-9fd0-903f4ea14a16-FCD001_085_00577.pdf"/>
       </file>
     </fileGrp>
   </fileSec>
   <structMap TYPE="logical">
     <div DMDID="947" LABEL="Scientists' Institute for Public Information" ORDER="1" TYPE="item">
-      <fptr FILEID="947"/>
+      <fptr FILEID="3773"/>
     </div>
   </structMap>
   <structMap TYPE="physical">
     <div DMDID="947" LABEL="Scientists' Institute for Public Information" ORDER="1" TYPE="item">
-      <fptr FILEID="947"/>
+      <fptr FILEID="3773"/>
     </div>
   </structMap>
 </mets>

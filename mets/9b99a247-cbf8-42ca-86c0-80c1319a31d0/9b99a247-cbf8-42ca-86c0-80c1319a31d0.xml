@@ -7,7 +7,7 @@
           <mods:titleInfo>
             <mods:title>University of Chicago</mods:title>
           </mods:titleInfo>
-          <mods:typeOfResource>text</mods:typeOfResource>
+          <mods:typeOfResource>Text</mods:typeOfResource>
           <mods:originInfo>
             <mods:dateCreated>1987-1988</mods:dateCreated>
           </mods:originInfo>
@@ -25,20 +25,20 @@
           </mods:relatedItem>
           <mods:relatedItem displayLabel="component" type="host">
             <mods:name>University of Chicago, 1987-1988</mods:name>
-            <mods:identifier>ref1502_csm</mods:identifier>
+            <mods:identifier>a80661105d384ad38376ffa3e2dde988</mods:identifier>
           </mods:relatedItem>
         </mods>
       </xmlData>
     </mdWrap>
   </dmdSec>
   <amdSec>
-    <techMD ID="994">
+    <techMD ID="3810">
       <mdWrap MDTYPE="PREMIS:OBJECT">
         <xmlData>
           <object version="2.2" xmlns="info:lc/xmlns/premis-v2" xsi:schemaLocation="info:lc/xmlns/premis-v2 http://www.loc.gov/standards/premis/v2/premis-v2-2.xsd" xsi:type="file">
             <objectIdentifier>
               <objectIdentifierType>ArchivesSpace identifier</objectIdentifierType>
-              <objectIdentifierValue>994</objectIdentifierValue>
+              <objectIdentifierValue>3810</objectIdentifierValue>
             </objectIdentifier>
             <objectCharacteristics>
               <fixity>
@@ -60,19 +60,19 @@
   </amdSec>
   <fileSec>
     <fileGrp USE="Image-Service">
-      <file AMDID="994" GROUPID="994" ID="994">
+      <file AMDID="3810" GROUPID="994" ID="3810">
         <FLocat xlink:href="http://storage.rockarch.org/9b99a247-cbf8-42ca-86c0-80c1319a31d0-FCD001_093_00001.pdf"/>
       </file>
     </fileGrp>
   </fileSec>
   <structMap TYPE="logical">
     <div DMDID="994" LABEL="University of Chicago" ORDER="1" TYPE="item">
-      <fptr FILEID="994"/>
+      <fptr FILEID="3810"/>
     </div>
   </structMap>
   <structMap TYPE="physical">
     <div DMDID="994" LABEL="University of Chicago" ORDER="1" TYPE="item">
-      <fptr FILEID="994"/>
+      <fptr FILEID="3810"/>
     </div>
   </structMap>
 </mets>

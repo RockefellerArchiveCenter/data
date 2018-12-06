@@ -7,7 +7,7 @@
           <mods:titleInfo>
             <mods:title>Educational Broadcasting Corporation</mods:title>
           </mods:titleInfo>
-          <mods:typeOfResource>text</mods:typeOfResource>
+          <mods:typeOfResource>Text</mods:typeOfResource>
           <mods:originInfo>
             <mods:dateCreated>1989-1992</mods:dateCreated>
           </mods:originInfo>
@@ -25,20 +25,20 @@
           </mods:relatedItem>
           <mods:relatedItem displayLabel="component" type="host">
             <mods:name>Educational Broadcasting Corporation, 1989-1992</mods:name>
-            <mods:identifier>ref1309_oqw</mods:identifier>
+            <mods:identifier>9b2094ba550940f782a3e8769e445a68</mods:identifier>
           </mods:relatedItem>
         </mods>
       </xmlData>
     </mdWrap>
   </dmdSec>
   <amdSec>
-    <techMD ID="797">
+    <techMD ID="3629">
       <mdWrap MDTYPE="PREMIS:OBJECT">
         <xmlData>
           <object version="2.2" xmlns="info:lc/xmlns/premis-v2" xsi:schemaLocation="info:lc/xmlns/premis-v2 http://www.loc.gov/standards/premis/v2/premis-v2-2.xsd" xsi:type="file">
             <objectIdentifier>
               <objectIdentifierType>ArchivesSpace identifier</objectIdentifierType>
-              <objectIdentifierValue>797</objectIdentifierValue>
+              <objectIdentifierValue>3629</objectIdentifierValue>
             </objectIdentifier>
             <objectCharacteristics>
               <fixity>
@@ -60,19 +60,19 @@
   </amdSec>
   <fileSec>
     <fileGrp USE="Image-Service">
-      <file AMDID="797" GROUPID="797" ID="797">
+      <file AMDID="3629" GROUPID="797" ID="3629">
         <FLocat xlink:href="http://storage.rockarch.org/decf2791-f531-47c5-95dd-57872d1b01e2-FCD001_066_00382.pdf"/>
       </file>
     </fileGrp>
   </fileSec>
   <structMap TYPE="logical">
     <div DMDID="797" LABEL="Educational Broadcasting Corporation" ORDER="1" TYPE="item">
-      <fptr FILEID="797"/>
+      <fptr FILEID="3629"/>
     </div>
   </structMap>
   <structMap TYPE="physical">
     <div DMDID="797" LABEL="Educational Broadcasting Corporation" ORDER="1" TYPE="item">
-      <fptr FILEID="797"/>
+      <fptr FILEID="3629"/>
     </div>
   </structMap>
 </mets>

@@ -7,7 +7,7 @@
           <mods:titleInfo>
             <mods:title>The Research Foundation of the State University of New York</mods:title>
           </mods:titleInfo>
-          <mods:typeOfResource>text</mods:typeOfResource>
+          <mods:typeOfResource>Text</mods:typeOfResource>
           <mods:originInfo>
             <mods:dateCreated>1990-1993</mods:dateCreated>
           </mods:originInfo>
@@ -25,20 +25,20 @@
           </mods:relatedItem>
           <mods:relatedItem displayLabel="component" type="host">
             <mods:name>The Research Foundation of the State University of New York, 1990-1993</mods:name>
-            <mods:identifier>ref1451_0yb</mods:identifier>
+            <mods:identifier>14a00204df0d45cc83f50f94018557fb</mods:identifier>
           </mods:relatedItem>
         </mods>
       </xmlData>
     </mdWrap>
   </dmdSec>
   <amdSec>
-    <techMD ID="942">
+    <techMD ID="3768">
       <mdWrap MDTYPE="PREMIS:OBJECT">
         <xmlData>
           <object version="2.2" xmlns="info:lc/xmlns/premis-v2" xsi:schemaLocation="info:lc/xmlns/premis-v2 http://www.loc.gov/standards/premis/v2/premis-v2-2.xsd" xsi:type="file">
             <objectIdentifier>
               <objectIdentifierType>ArchivesSpace identifier</objectIdentifierType>
-              <objectIdentifierValue>942</objectIdentifierValue>
+              <objectIdentifierValue>3768</objectIdentifierValue>
             </objectIdentifier>
             <objectCharacteristics>
               <fixity>
@@ -60,19 +60,19 @@
   </amdSec>
   <fileSec>
     <fileGrp USE="Image-Service">
-      <file AMDID="942" GROUPID="942" ID="942">
+      <file AMDID="3768" GROUPID="942" ID="3768">
         <FLocat xlink:href="http://storage.rockarch.org/157e9122-252c-4049-9123-bcf755279c68-FCD001_084_00760.pdf"/>
       </file>
     </fileGrp>
   </fileSec>
   <structMap TYPE="logical">
     <div DMDID="942" LABEL="The Research Foundation of the State University of New York" ORDER="1" TYPE="item">
-      <fptr FILEID="942"/>
+      <fptr FILEID="3768"/>
     </div>
   </structMap>
   <structMap TYPE="physical">
     <div DMDID="942" LABEL="The Research Foundation of the State University of New York" ORDER="1" TYPE="item">
-      <fptr FILEID="942"/>
+      <fptr FILEID="3768"/>
     </div>
   </structMap>
 </mets>

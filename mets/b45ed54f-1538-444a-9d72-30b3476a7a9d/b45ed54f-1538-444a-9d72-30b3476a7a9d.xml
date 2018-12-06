@@ -7,7 +7,7 @@
           <mods:titleInfo>
             <mods:title>National Longitudinal Survey of Youth</mods:title>
           </mods:titleInfo>
-          <mods:typeOfResource>text</mods:typeOfResource>
+          <mods:typeOfResource>Text</mods:typeOfResource>
           <mods:originInfo>
             <mods:dateCreated>1987-1990</mods:dateCreated>
           </mods:originInfo>
@@ -25,20 +25,20 @@
           </mods:relatedItem>
           <mods:relatedItem displayLabel="component" type="host">
             <mods:name>National Longitudinal Survey of Youth, 1987-1990</mods:name>
-            <mods:identifier>ref1135_k6w</mods:identifier>
+            <mods:identifier>4c996c0dbf454ff9a06c2c6695edb74b</mods:identifier>
           </mods:relatedItem>
         </mods>
       </xmlData>
     </mdWrap>
   </dmdSec>
   <amdSec>
-    <techMD ID="636">
+    <techMD ID="3477">
       <mdWrap MDTYPE="PREMIS:OBJECT">
         <xmlData>
           <object version="2.2" xmlns="info:lc/xmlns/premis-v2" xsi:schemaLocation="info:lc/xmlns/premis-v2 http://www.loc.gov/standards/premis/v2/premis-v2-2.xsd" xsi:type="file">
             <objectIdentifier>
               <objectIdentifierType>ArchivesSpace identifier</objectIdentifierType>
-              <objectIdentifierValue>636</objectIdentifierValue>
+              <objectIdentifierValue>3477</objectIdentifierValue>
             </objectIdentifier>
             <objectCharacteristics>
               <fixity>
@@ -60,19 +60,19 @@
   </amdSec>
   <fileSec>
     <fileGrp USE="Image-Service">
-      <file AMDID="636" GROUPID="636" ID="636">
+      <file AMDID="3477" GROUPID="636" ID="3477">
         <FLocat xlink:href="http://storage.rockarch.org/b45ed54f-1538-444a-9d72-30b3476a7a9d-FCD001_046_00001.pdf"/>
       </file>
     </fileGrp>
   </fileSec>
   <structMap TYPE="logical">
     <div DMDID="636" LABEL="National Longitudinal Survey of Youth" ORDER="1" TYPE="item">
-      <fptr FILEID="636"/>
+      <fptr FILEID="3477"/>
     </div>
   </structMap>
   <structMap TYPE="physical">
     <div DMDID="636" LABEL="National Longitudinal Survey of Youth" ORDER="1" TYPE="item">
-      <fptr FILEID="636"/>
+      <fptr FILEID="3477"/>
     </div>
   </structMap>
 </mets>

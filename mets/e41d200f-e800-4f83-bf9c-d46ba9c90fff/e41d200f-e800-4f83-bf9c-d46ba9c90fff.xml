@@ -7,7 +7,7 @@
           <mods:titleInfo>
             <mods:title>Health Statistics</mods:title>
           </mods:titleInfo>
-          <mods:typeOfResource>text</mods:typeOfResource>
+          <mods:typeOfResource>Text</mods:typeOfResource>
           <mods:originInfo>
             <mods:dateCreated>1974-1975, 1977-1979</mods:dateCreated>
           </mods:originInfo>
@@ -25,20 +25,20 @@
           </mods:relatedItem>
           <mods:relatedItem displayLabel="component" type="host">
             <mods:name>Health Statistics, 1974-1975, 1977-1979</mods:name>
-            <mods:identifier>ref1554_squ</mods:identifier>
+            <mods:identifier>ba5564365ed240b19685d6c162279fb4</mods:identifier>
           </mods:relatedItem>
         </mods>
       </xmlData>
     </mdWrap>
   </dmdSec>
   <amdSec>
-    <techMD ID="1262">
+    <techMD ID="3938">
       <mdWrap MDTYPE="PREMIS:OBJECT">
         <xmlData>
           <object version="2.2" xmlns="info:lc/xmlns/premis-v2" xsi:schemaLocation="info:lc/xmlns/premis-v2 http://www.loc.gov/standards/premis/v2/premis-v2-2.xsd" xsi:type="file">
             <objectIdentifier>
               <objectIdentifierType>ArchivesSpace identifier</objectIdentifierType>
-              <objectIdentifierValue>1262</objectIdentifierValue>
+              <objectIdentifierValue>3938</objectIdentifierValue>
             </objectIdentifier>
             <objectCharacteristics>
               <fixity>
@@ -60,19 +60,19 @@
   </amdSec>
   <fileSec>
     <fileGrp USE="Image-Service">
-      <file AMDID="1262" GROUPID="1262" ID="1262">
+      <file AMDID="3938" GROUPID="1262" ID="3938">
         <FLocat xlink:href="http://storage.rockarch.org/e41d200f-e800-4f83-bf9c-d46ba9c90fff-FCD001_098_00505.pdf"/>
       </file>
     </fileGrp>
   </fileSec>
   <structMap TYPE="logical">
     <div DMDID="1262" LABEL="Health Statistics" ORDER="1" TYPE="item">
-      <fptr FILEID="1262"/>
+      <fptr FILEID="3938"/>
     </div>
   </structMap>
   <structMap TYPE="physical">
     <div DMDID="1262" LABEL="Health Statistics" ORDER="1" TYPE="item">
-      <fptr FILEID="1262"/>
+      <fptr FILEID="3938"/>
     </div>
   </structMap>
 </mets>

@@ -7,7 +7,7 @@
           <mods:titleInfo>
             <mods:title>Coalition for Children</mods:title>
           </mods:titleInfo>
-          <mods:typeOfResource>text</mods:typeOfResource>
+          <mods:typeOfResource>Text</mods:typeOfResource>
           <mods:originInfo>
             <mods:dateCreated>1986, 1988-1990</mods:dateCreated>
           </mods:originInfo>
@@ -25,20 +25,20 @@
           </mods:relatedItem>
           <mods:relatedItem displayLabel="component" type="host">
             <mods:name>Coalition for Children, 1986, 1988-1990</mods:name>
-            <mods:identifier>ref1280_8xu</mods:identifier>
+            <mods:identifier>da6c411e00124482a18373aaeef6b66f</mods:identifier>
           </mods:relatedItem>
         </mods>
       </xmlData>
     </mdWrap>
   </dmdSec>
   <amdSec>
-    <techMD ID="760">
+    <techMD ID="3593">
       <mdWrap MDTYPE="PREMIS:OBJECT">
         <xmlData>
           <object version="2.2" xmlns="info:lc/xmlns/premis-v2" xsi:schemaLocation="info:lc/xmlns/premis-v2 http://www.loc.gov/standards/premis/v2/premis-v2-2.xsd" xsi:type="file">
             <objectIdentifier>
               <objectIdentifierType>ArchivesSpace identifier</objectIdentifierType>
-              <objectIdentifierValue>760</objectIdentifierValue>
+              <objectIdentifierValue>3593</objectIdentifierValue>
             </objectIdentifier>
             <objectCharacteristics>
               <fixity>
@@ -60,19 +60,19 @@
   </amdSec>
   <fileSec>
     <fileGrp USE="Image-Service">
-      <file AMDID="760" GROUPID="760" ID="760">
+      <file AMDID="3593" GROUPID="760" ID="3593">
         <FLocat xlink:href="http://storage.rockarch.org/6d4c8767-f6b8-447f-806d-0941b0764171-FCD001_062_00096.pdf"/>
       </file>
     </fileGrp>
   </fileSec>
   <structMap TYPE="logical">
     <div DMDID="760" LABEL="Coalition for Children" ORDER="1" TYPE="item">
-      <fptr FILEID="760"/>
+      <fptr FILEID="3593"/>
     </div>
   </structMap>
   <structMap TYPE="physical">
     <div DMDID="760" LABEL="Coalition for Children" ORDER="1" TYPE="item">
-      <fptr FILEID="760"/>
+      <fptr FILEID="3593"/>
     </div>
   </structMap>
 </mets>

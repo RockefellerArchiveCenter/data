@@ -7,7 +7,7 @@
           <mods:titleInfo>
             <mods:title>1917 Conference with Peter Goldsmith</mods:title>
           </mods:titleInfo>
-          <mods:typeOfResource>text</mods:typeOfResource>
+          <mods:typeOfResource>Text</mods:typeOfResource>
           <mods:originInfo>
             <mods:dateCreated>January 29, 1917</mods:dateCreated>
           </mods:originInfo>
@@ -25,20 +25,20 @@
           </mods:relatedItem>
           <mods:relatedItem displayLabel="component" type="host">
             <mods:name>1917 Conference with Peter Goldsmith, January 29, 1917</mods:name>
-            <mods:identifier>ref1037_5hc</mods:identifier>
+            <mods:identifier>f76de221493f4663a5a499a9e25e0d66</mods:identifier>
           </mods:relatedItem>
         </mods>
       </xmlData>
     </mdWrap>
   </dmdSec>
   <amdSec>
-    <techMD ID="1372">
+    <techMD ID="4035">
       <mdWrap MDTYPE="PREMIS:OBJECT">
         <xmlData>
           <object version="2.2" xmlns="info:lc/xmlns/premis-v2" xsi:schemaLocation="info:lc/xmlns/premis-v2 http://www.loc.gov/standards/premis/v2/premis-v2-2.xsd" xsi:type="file">
             <objectIdentifier>
               <objectIdentifierType>ArchivesSpace identifier</objectIdentifierType>
-              <objectIdentifierValue>1372</objectIdentifierValue>
+              <objectIdentifierValue>4035</objectIdentifierValue>
             </objectIdentifier>
             <objectCharacteristics>
               <fixity>
@@ -59,20 +59,20 @@
     </techMD>
   </amdSec>
   <fileSec>
-    <fileGrp USE="Service-Edited">
-      <file AMDID="1372" GROUPID="1372" ID="1372">
+    <fileGrp USE="translation missing: en.enumerations.file_version_use_statement.service-edited">
+      <file AMDID="4035" GROUPID="1372" ID="4035">
         <FLocat xlink:href="http://storage.rockarch.org/7477ac18-f420-4c76-a955-481d336f81b2-rac_rfdiaries_12-2_rose_1911-1924_009.pdf"/>
       </file>
     </fileGrp>
   </fileSec>
   <structMap TYPE="logical">
     <div DMDID="1372" LABEL="1917 Conference with Peter Goldsmith" ORDER="1" TYPE="item">
-      <fptr FILEID="1372"/>
+      <fptr FILEID="4035"/>
     </div>
   </structMap>
   <structMap TYPE="physical">
     <div DMDID="1372" LABEL="1917 Conference with Peter Goldsmith" ORDER="1" TYPE="item">
-      <fptr FILEID="1372"/>
+      <fptr FILEID="4035"/>
     </div>
   </structMap>
 </mets>

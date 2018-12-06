@@ -7,7 +7,7 @@
           <mods:titleInfo>
             <mods:title>Trip to South America</mods:title>
           </mods:titleInfo>
-          <mods:typeOfResource>text</mods:typeOfResource>
+          <mods:typeOfResource>Text</mods:typeOfResource>
           <mods:originInfo>
             <mods:dateCreated>16 March- 21 May 1943</mods:dateCreated>
           </mods:originInfo>
@@ -32,13 +32,13 @@
     </mdWrap>
   </dmdSec>
   <amdSec>
-    <techMD ID="2328">
+    <techMD ID="4840">
       <mdWrap MDTYPE="PREMIS:OBJECT">
         <xmlData>
           <object version="2.2" xmlns="info:lc/xmlns/premis-v2" xsi:schemaLocation="info:lc/xmlns/premis-v2 http://www.loc.gov/standards/premis/v2/premis-v2-2.xsd" xsi:type="file">
             <objectIdentifier>
               <objectIdentifierType>ArchivesSpace identifier</objectIdentifierType>
-              <objectIdentifierValue>2328</objectIdentifierValue>
+              <objectIdentifierValue>4840</objectIdentifierValue>
             </objectIdentifier>
             <objectCharacteristics>
               <fixity>
@@ -60,19 +60,19 @@
   </amdSec>
   <fileSec>
     <fileGrp USE="translation missing: en.enumerations.file_version_use_statement.service-edited">
-      <file AMDID="2328" GROUPID="2328" ID="2328">
+      <file AMDID="4840" GROUPID="2328" ID="4840">
         <FLocat xlink:href="http://storage.rockarch.org/5e35bb44-c7b3-45b5-9a34-16c427a80c76-rac_rfdiaries_12-2_sawyer_1924-1944_057.pdf"/>
       </file>
     </fileGrp>
   </fileSec>
   <structMap TYPE="logical">
     <div DMDID="2328" LABEL="Trip to South America" ORDER="1" TYPE="item">
-      <fptr FILEID="2328"/>
+      <fptr FILEID="4840"/>
     </div>
   </structMap>
   <structMap TYPE="physical">
     <div DMDID="2328" LABEL="Trip to South America" ORDER="1" TYPE="item">
-      <fptr FILEID="2328"/>
+      <fptr FILEID="4840"/>
     </div>
   </structMap>
 </mets>

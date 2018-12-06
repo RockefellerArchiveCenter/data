@@ -7,7 +7,7 @@
           <mods:titleInfo>
             <mods:title>Legal Advocacy Workshop</mods:title>
           </mods:titleInfo>
-          <mods:typeOfResource>text</mods:typeOfResource>
+          <mods:typeOfResource>Text</mods:typeOfResource>
           <mods:originInfo>
             <mods:dateCreated>1979, 1981</mods:dateCreated>
           </mods:originInfo>
@@ -25,20 +25,20 @@
           </mods:relatedItem>
           <mods:relatedItem displayLabel="component" type="host">
             <mods:name>Legal Advocacy Workshop, 1979, 1981</mods:name>
-            <mods:identifier>ref1365_wn7</mods:identifier>
+            <mods:identifier>9dbe5882f8bc4669973383d621d37a97</mods:identifier>
           </mods:relatedItem>
         </mods>
       </xmlData>
     </mdWrap>
   </dmdSec>
   <amdSec>
-    <techMD ID="849">
+    <techMD ID="3680">
       <mdWrap MDTYPE="PREMIS:OBJECT">
         <xmlData>
           <object version="2.2" xmlns="info:lc/xmlns/premis-v2" xsi:schemaLocation="info:lc/xmlns/premis-v2 http://www.loc.gov/standards/premis/v2/premis-v2-2.xsd" xsi:type="file">
             <objectIdentifier>
               <objectIdentifierType>ArchivesSpace identifier</objectIdentifierType>
-              <objectIdentifierValue>849</objectIdentifierValue>
+              <objectIdentifierValue>3680</objectIdentifierValue>
             </objectIdentifier>
             <objectCharacteristics>
               <fixity>
@@ -60,19 +60,19 @@
   </amdSec>
   <fileSec>
     <fileGrp USE="Image-Service">
-      <file AMDID="849" GROUPID="849" ID="849">
+      <file AMDID="3680" GROUPID="849" ID="3680">
         <FLocat xlink:href="http://storage.rockarch.org/759ff0ab-1817-42ea-99a2-dee02fcf4fd4-FCD001_072_01005.pdf"/>
       </file>
     </fileGrp>
   </fileSec>
   <structMap TYPE="logical">
     <div DMDID="849" LABEL="Legal Advocacy Workshop" ORDER="1" TYPE="item">
-      <fptr FILEID="849"/>
+      <fptr FILEID="3680"/>
     </div>
   </structMap>
   <structMap TYPE="physical">
     <div DMDID="849" LABEL="Legal Advocacy Workshop" ORDER="1" TYPE="item">
-      <fptr FILEID="849"/>
+      <fptr FILEID="3680"/>
     </div>
   </structMap>
 </mets>

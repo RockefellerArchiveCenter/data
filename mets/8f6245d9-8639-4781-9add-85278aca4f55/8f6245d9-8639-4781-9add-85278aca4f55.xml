@@ -7,7 +7,7 @@
           <mods:titleInfo>
             <mods:title>1911 Rockefeller Sanitary Commission - Itineraries of the Administrative Secretary</mods:title>
           </mods:titleInfo>
-          <mods:typeOfResource>text</mods:typeOfResource>
+          <mods:typeOfResource>Text</mods:typeOfResource>
           <mods:originInfo>
             <mods:dateCreated>1911</mods:dateCreated>
           </mods:originInfo>
@@ -25,20 +25,20 @@
           </mods:relatedItem>
           <mods:relatedItem displayLabel="component" type="host">
             <mods:name>1911 Rockefeller Sanitary Commission - Itineraries of the Administrative Secretary, 1911</mods:name>
-            <mods:identifier>ref1022_1z1</mods:identifier>
+            <mods:identifier>8eb57d904ee148848730f152bea61aff</mods:identifier>
           </mods:relatedItem>
         </mods>
       </xmlData>
     </mdWrap>
   </dmdSec>
   <amdSec>
-    <techMD ID="1362">
+    <techMD ID="4025">
       <mdWrap MDTYPE="PREMIS:OBJECT">
         <xmlData>
           <object version="2.2" xmlns="info:lc/xmlns/premis-v2" xsi:schemaLocation="info:lc/xmlns/premis-v2 http://www.loc.gov/standards/premis/v2/premis-v2-2.xsd" xsi:type="file">
             <objectIdentifier>
               <objectIdentifierType>ArchivesSpace identifier</objectIdentifierType>
-              <objectIdentifierValue>1362</objectIdentifierValue>
+              <objectIdentifierValue>4025</objectIdentifierValue>
             </objectIdentifier>
             <objectCharacteristics>
               <fixity>
@@ -59,20 +59,20 @@
     </techMD>
   </amdSec>
   <fileSec>
-    <fileGrp USE="Service-Edited">
-      <file AMDID="1362" GROUPID="1362" ID="1362">
+    <fileGrp USE="translation missing: en.enumerations.file_version_use_statement.service-edited">
+      <file AMDID="4025" GROUPID="1362" ID="4025">
         <FLocat xlink:href="http://storage.rockarch.org/8f6245d9-8639-4781-9add-85278aca4f55-rac_rfdiaries_12-2_rose_1911-1924_001.pdf"/>
       </file>
     </fileGrp>
   </fileSec>
   <structMap TYPE="logical">
     <div DMDID="1362" LABEL="1911 Rockefeller Sanitary Commission - Itineraries of the Administrative Secretary" ORDER="1" TYPE="item">
-      <fptr FILEID="1362"/>
+      <fptr FILEID="4025"/>
     </div>
   </structMap>
   <structMap TYPE="physical">
     <div DMDID="1362" LABEL="1911 Rockefeller Sanitary Commission - Itineraries of the Administrative Secretary" ORDER="1" TYPE="item">
-      <fptr FILEID="1362"/>
+      <fptr FILEID="4025"/>
     </div>
   </structMap>
 </mets>

@@ -7,7 +7,7 @@
           <mods:titleInfo>
             <mods:title>New York City Criminal Justice Agency</mods:title>
           </mods:titleInfo>
-          <mods:typeOfResource>text</mods:typeOfResource>
+          <mods:typeOfResource>Text</mods:typeOfResource>
           <mods:originInfo>
             <mods:dateCreated>1981, 1985, 1988</mods:dateCreated>
           </mods:originInfo>
@@ -25,20 +25,20 @@
           </mods:relatedItem>
           <mods:relatedItem displayLabel="component" type="host">
             <mods:name>New York City Criminal Justice Agency, 1981, 1985, 1988</mods:name>
-            <mods:identifier>ref1418_gs4</mods:identifier>
+            <mods:identifier>f013a7b31ad2464fb6a7ec60f8a86fac</mods:identifier>
           </mods:relatedItem>
         </mods>
       </xmlData>
     </mdWrap>
   </dmdSec>
   <amdSec>
-    <techMD ID="902">
+    <techMD ID="3730">
       <mdWrap MDTYPE="PREMIS:OBJECT">
         <xmlData>
           <object version="2.2" xmlns="info:lc/xmlns/premis-v2" xsi:schemaLocation="info:lc/xmlns/premis-v2 http://www.loc.gov/standards/premis/v2/premis-v2-2.xsd" xsi:type="file">
             <objectIdentifier>
               <objectIdentifierType>ArchivesSpace identifier</objectIdentifierType>
-              <objectIdentifierValue>902</objectIdentifierValue>
+              <objectIdentifierValue>3730</objectIdentifierValue>
             </objectIdentifier>
             <objectCharacteristics>
               <fixity>
@@ -60,19 +60,19 @@
   </amdSec>
   <fileSec>
     <fileGrp USE="Image-Service">
-      <file AMDID="902" GROUPID="902" ID="902">
+      <file AMDID="3730" GROUPID="902" ID="3730">
         <FLocat xlink:href="http://storage.rockarch.org/15af7c15-af7e-431e-9d1f-58367b89cd01-FCD001_080_00645.pdf"/>
       </file>
     </fileGrp>
   </fileSec>
   <structMap TYPE="logical">
     <div DMDID="902" LABEL="New York City Criminal Justice Agency" ORDER="1" TYPE="item">
-      <fptr FILEID="902"/>
+      <fptr FILEID="3730"/>
     </div>
   </structMap>
   <structMap TYPE="physical">
     <div DMDID="902" LABEL="New York City Criminal Justice Agency" ORDER="1" TYPE="item">
-      <fptr FILEID="902"/>
+      <fptr FILEID="3730"/>
     </div>
   </structMap>
 </mets>

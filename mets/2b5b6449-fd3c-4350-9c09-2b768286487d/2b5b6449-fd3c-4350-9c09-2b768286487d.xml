@@ -7,7 +7,7 @@
           <mods:titleInfo>
             <mods:title>Riverdale Neighborhood Home</mods:title>
           </mods:titleInfo>
-          <mods:typeOfResource>text</mods:typeOfResource>
+          <mods:typeOfResource>Text</mods:typeOfResource>
           <mods:originInfo>
             <mods:dateCreated>1989</mods:dateCreated>
           </mods:originInfo>
@@ -25,20 +25,20 @@
           </mods:relatedItem>
           <mods:relatedItem displayLabel="component" type="host">
             <mods:name>Riverdale Neighborhood Home, 1989</mods:name>
-            <mods:identifier>ref1456_diu</mods:identifier>
+            <mods:identifier>b1148707bebd403ba8461e0e0a4cef66</mods:identifier>
           </mods:relatedItem>
         </mods>
       </xmlData>
     </mdWrap>
   </dmdSec>
   <amdSec>
-    <techMD ID="950">
+    <techMD ID="3776">
       <mdWrap MDTYPE="PREMIS:OBJECT">
         <xmlData>
           <object version="2.2" xmlns="info:lc/xmlns/premis-v2" xsi:schemaLocation="info:lc/xmlns/premis-v2 http://www.loc.gov/standards/premis/v2/premis-v2-2.xsd" xsi:type="file">
             <objectIdentifier>
               <objectIdentifierType>ArchivesSpace identifier</objectIdentifierType>
-              <objectIdentifierValue>950</objectIdentifierValue>
+              <objectIdentifierValue>3776</objectIdentifierValue>
             </objectIdentifier>
             <objectCharacteristics>
               <fixity>
@@ -60,19 +60,19 @@
   </amdSec>
   <fileSec>
     <fileGrp USE="Image-Service">
-      <file AMDID="950" GROUPID="950" ID="950">
+      <file AMDID="3776" GROUPID="950" ID="3776">
         <FLocat xlink:href="http://storage.rockarch.org/2b5b6449-fd3c-4350-9c09-2b768286487d-FCD001_085_00519.pdf"/>
       </file>
     </fileGrp>
   </fileSec>
   <structMap TYPE="logical">
     <div DMDID="950" LABEL="Riverdale Neighborhood Home" ORDER="1" TYPE="item">
-      <fptr FILEID="950"/>
+      <fptr FILEID="3776"/>
     </div>
   </structMap>
   <structMap TYPE="physical">
     <div DMDID="950" LABEL="Riverdale Neighborhood Home" ORDER="1" TYPE="item">
-      <fptr FILEID="950"/>
+      <fptr FILEID="3776"/>
     </div>
   </structMap>
 </mets>

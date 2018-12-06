@@ -7,7 +7,7 @@
           <mods:titleInfo>
             <mods:title>Far West Laboratory Project</mods:title>
           </mods:titleInfo>
-          <mods:typeOfResource>text</mods:typeOfResource>
+          <mods:typeOfResource>Text</mods:typeOfResource>
           <mods:originInfo>
             <mods:dateCreated>1991</mods:dateCreated>
           </mods:originInfo>
@@ -25,20 +25,20 @@
           </mods:relatedItem>
           <mods:relatedItem displayLabel="component" type="host">
             <mods:name>Far West Laboratory Project, 1991</mods:name>
-            <mods:identifier>ref1076_hc4</mods:identifier>
+            <mods:identifier>acaf3edf013b4c78aefdd773834c4591</mods:identifier>
           </mods:relatedItem>
         </mods>
       </xmlData>
     </mdWrap>
   </dmdSec>
   <amdSec>
-    <techMD ID="569">
+    <techMD ID="3414">
       <mdWrap MDTYPE="PREMIS:OBJECT">
         <xmlData>
           <object version="2.2" xmlns="info:lc/xmlns/premis-v2" xsi:schemaLocation="info:lc/xmlns/premis-v2 http://www.loc.gov/standards/premis/v2/premis-v2-2.xsd" xsi:type="file">
             <objectIdentifier>
               <objectIdentifierType>ArchivesSpace identifier</objectIdentifierType>
-              <objectIdentifierValue>569</objectIdentifierValue>
+              <objectIdentifierValue>3414</objectIdentifierValue>
             </objectIdentifier>
             <objectCharacteristics>
               <fixity>
@@ -60,19 +60,19 @@
   </amdSec>
   <fileSec>
     <fileGrp USE="Image-Service">
-      <file AMDID="569" GROUPID="569" ID="569">
+      <file AMDID="3414" GROUPID="569" ID="3414">
         <FLocat xlink:href="http://storage.rockarch.org/94d0036e-90ab-42ee-a933-f4af6b31ed9c-FCD001_040_00951.pdf"/>
       </file>
     </fileGrp>
   </fileSec>
   <structMap TYPE="logical">
     <div DMDID="569" LABEL="Far West Laboratory Project" ORDER="1" TYPE="item">
-      <fptr FILEID="569"/>
+      <fptr FILEID="3414"/>
     </div>
   </structMap>
   <structMap TYPE="physical">
     <div DMDID="569" LABEL="Far West Laboratory Project" ORDER="1" TYPE="item">
-      <fptr FILEID="569"/>
+      <fptr FILEID="3414"/>
     </div>
   </structMap>
 </mets>

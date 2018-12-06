@@ -7,7 +7,7 @@
           <mods:titleInfo>
             <mods:title>Special Memoranda</mods:title>
           </mods:titleInfo>
-          <mods:typeOfResource>text</mods:typeOfResource>
+          <mods:typeOfResource>Text</mods:typeOfResource>
           <mods:originInfo>
             <mods:dateCreated>1920</mods:dateCreated>
           </mods:originInfo>
@@ -25,20 +25,20 @@
           </mods:relatedItem>
           <mods:relatedItem displayLabel="component" type="host">
             <mods:name>Special Memoranda, 1920</mods:name>
-            <mods:identifier>ref780_rxf</mods:identifier>
+            <mods:identifier>111c02e1ac274bd5bf16e09f04c7d264</mods:identifier>
           </mods:relatedItem>
         </mods>
       </xmlData>
     </mdWrap>
   </dmdSec>
   <amdSec>
-    <techMD ID="2015">
+    <techMD ID="4527">
       <mdWrap MDTYPE="PREMIS:OBJECT">
         <xmlData>
           <object version="2.2" xmlns="info:lc/xmlns/premis-v2" xsi:schemaLocation="info:lc/xmlns/premis-v2 http://www.loc.gov/standards/premis/v2/premis-v2-2.xsd" xsi:type="file">
             <objectIdentifier>
               <objectIdentifierType>ArchivesSpace identifier</objectIdentifierType>
-              <objectIdentifierValue>2015</objectIdentifierValue>
+              <objectIdentifierValue>4527</objectIdentifierValue>
             </objectIdentifier>
             <objectCharacteristics>
               <fixity>
@@ -59,20 +59,20 @@
     </techMD>
   </amdSec>
   <fileSec>
-    <fileGrp USE="Service-Edited">
-      <file AMDID="2015" GROUPID="2015" ID="2015">
+    <fileGrp USE="translation missing: en.enumerations.file_version_use_statement.service-edited">
+      <file AMDID="4527" GROUPID="2015" ID="4527">
         <FLocat xlink:href="http://storage.rockarch.org/5e2d0607-7791-4cd1-a83c-80a1aaed6e5e-rac_rfdiaries_12-2_Embree_Edwin_1917-1922_011.pdf"/>
       </file>
     </fileGrp>
   </fileSec>
   <structMap TYPE="logical">
     <div DMDID="2015" LABEL="Special Memoranda" ORDER="1" TYPE="item">
-      <fptr FILEID="2015"/>
+      <fptr FILEID="4527"/>
     </div>
   </structMap>
   <structMap TYPE="physical">
     <div DMDID="2015" LABEL="Special Memoranda" ORDER="1" TYPE="item">
-      <fptr FILEID="2015"/>
+      <fptr FILEID="4527"/>
     </div>
   </structMap>
 </mets>

@@ -7,7 +7,7 @@
           <mods:titleInfo>
             <mods:title>Oral History Research Office, Columbia University</mods:title>
           </mods:titleInfo>
-          <mods:typeOfResource>text</mods:typeOfResource>
+          <mods:typeOfResource>Text</mods:typeOfResource>
           <mods:originInfo>
             <mods:dateCreated>1985</mods:dateCreated>
           </mods:originInfo>
@@ -25,20 +25,20 @@
           </mods:relatedItem>
           <mods:relatedItem displayLabel="component" type="host">
             <mods:name>Oral History Research Office, Columbia University, 1985</mods:name>
-            <mods:identifier>ref1095_h41</mods:identifier>
+            <mods:identifier>fa7874cb16fd45afb28af88823224291</mods:identifier>
           </mods:relatedItem>
         </mods>
       </xmlData>
     </mdWrap>
   </dmdSec>
   <amdSec>
-    <techMD ID="601">
+    <techMD ID="3446">
       <mdWrap MDTYPE="PREMIS:OBJECT">
         <xmlData>
           <object version="2.2" xmlns="info:lc/xmlns/premis-v2" xsi:schemaLocation="info:lc/xmlns/premis-v2 http://www.loc.gov/standards/premis/v2/premis-v2-2.xsd" xsi:type="file">
             <objectIdentifier>
               <objectIdentifierType>ArchivesSpace identifier</objectIdentifierType>
-              <objectIdentifierValue>601</objectIdentifierValue>
+              <objectIdentifierValue>3446</objectIdentifierValue>
             </objectIdentifier>
             <objectCharacteristics>
               <fixity>
@@ -60,19 +60,19 @@
   </amdSec>
   <fileSec>
     <fileGrp USE="Image-Service">
-      <file AMDID="601" GROUPID="601" ID="601">
+      <file AMDID="3446" GROUPID="601" ID="3446">
         <FLocat xlink:href="http://storage.rockarch.org/a6997750-c48b-422c-9589-aa328c848217-FCD001_043_00698.pdf"/>
       </file>
     </fileGrp>
   </fileSec>
   <structMap TYPE="logical">
     <div DMDID="601" LABEL="Oral History Research Office, Columbia University" ORDER="1" TYPE="item">
-      <fptr FILEID="601"/>
+      <fptr FILEID="3446"/>
     </div>
   </structMap>
   <structMap TYPE="physical">
     <div DMDID="601" LABEL="Oral History Research Office, Columbia University" ORDER="1" TYPE="item">
-      <fptr FILEID="601"/>
+      <fptr FILEID="3446"/>
     </div>
   </structMap>
 </mets>

@@ -7,7 +7,7 @@
           <mods:titleInfo>
             <mods:title>Bilingual Education</mods:title>
           </mods:titleInfo>
-          <mods:typeOfResource>text</mods:typeOfResource>
+          <mods:typeOfResource>Text</mods:typeOfResource>
           <mods:originInfo>
             <mods:dateCreated>1976-1979</mods:dateCreated>
           </mods:originInfo>
@@ -25,20 +25,20 @@
           </mods:relatedItem>
           <mods:relatedItem displayLabel="component" type="host">
             <mods:name>Bilingual Education, 1976-1979</mods:name>
-            <mods:identifier>ref1529_8xz</mods:identifier>
+            <mods:identifier>d9544e28f6d649a5baa16d05513624ec</mods:identifier>
           </mods:relatedItem>
         </mods>
       </xmlData>
     </mdWrap>
   </dmdSec>
   <amdSec>
-    <techMD ID="1021">
+    <techMD ID="3830">
       <mdWrap MDTYPE="PREMIS:OBJECT">
         <xmlData>
           <object version="2.2" xmlns="info:lc/xmlns/premis-v2" xsi:schemaLocation="info:lc/xmlns/premis-v2 http://www.loc.gov/standards/premis/v2/premis-v2-2.xsd" xsi:type="file">
             <objectIdentifier>
               <objectIdentifierType>ArchivesSpace identifier</objectIdentifierType>
-              <objectIdentifierValue>1021</objectIdentifierValue>
+              <objectIdentifierValue>3830</objectIdentifierValue>
             </objectIdentifier>
             <objectCharacteristics>
               <fixity>
@@ -60,19 +60,19 @@
   </amdSec>
   <fileSec>
     <fileGrp USE="Image-Service">
-      <file AMDID="1021" GROUPID="1021" ID="1021">
+      <file AMDID="3830" GROUPID="1021" ID="3830">
         <FLocat xlink:href="http://storage.rockarch.org/94ad7bb8-b2f5-4079-8bca-825c05b82d10-FCD001_096_00054.pdf"/>
       </file>
     </fileGrp>
   </fileSec>
   <structMap TYPE="logical">
     <div DMDID="1021" LABEL="Bilingual Education" ORDER="1" TYPE="item">
-      <fptr FILEID="1021"/>
+      <fptr FILEID="3830"/>
     </div>
   </structMap>
   <structMap TYPE="physical">
     <div DMDID="1021" LABEL="Bilingual Education" ORDER="1" TYPE="item">
-      <fptr FILEID="1021"/>
+      <fptr FILEID="3830"/>
     </div>
   </structMap>
 </mets>

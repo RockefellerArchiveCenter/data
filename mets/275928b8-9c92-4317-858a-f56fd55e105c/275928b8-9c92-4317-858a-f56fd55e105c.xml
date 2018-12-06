@@ -7,7 +7,7 @@
           <mods:titleInfo>
             <mods:title>New York Academy of Medicine</mods:title>
           </mods:titleInfo>
-          <mods:typeOfResource>text</mods:typeOfResource>
+          <mods:typeOfResource>Text</mods:typeOfResource>
           <mods:originInfo>
             <mods:dateCreated>1988-1989</mods:dateCreated>
           </mods:originInfo>
@@ -25,20 +25,20 @@
           </mods:relatedItem>
           <mods:relatedItem displayLabel="component" type="host">
             <mods:name>New York Academy of Medicine, 1988-1989</mods:name>
-            <mods:identifier>ref1415_cbx</mods:identifier>
+            <mods:identifier>76a2f50414ba4f35bc9c944d66eeaf40</mods:identifier>
           </mods:relatedItem>
         </mods>
       </xmlData>
     </mdWrap>
   </dmdSec>
   <amdSec>
-    <techMD ID="910">
+    <techMD ID="3738">
       <mdWrap MDTYPE="PREMIS:OBJECT">
         <xmlData>
           <object version="2.2" xmlns="info:lc/xmlns/premis-v2" xsi:schemaLocation="info:lc/xmlns/premis-v2 http://www.loc.gov/standards/premis/v2/premis-v2-2.xsd" xsi:type="file">
             <objectIdentifier>
               <objectIdentifierType>ArchivesSpace identifier</objectIdentifierType>
-              <objectIdentifierValue>910</objectIdentifierValue>
+              <objectIdentifierValue>3738</objectIdentifierValue>
             </objectIdentifier>
             <objectCharacteristics>
               <fixity>
@@ -60,19 +60,19 @@
   </amdSec>
   <fileSec>
     <fileGrp USE="Image-Service">
-      <file AMDID="910" GROUPID="910" ID="910">
+      <file AMDID="3738" GROUPID="910" ID="3738">
         <FLocat xlink:href="http://storage.rockarch.org/275928b8-9c92-4317-858a-f56fd55e105c-FCD001_080_00552.pdf"/>
       </file>
     </fileGrp>
   </fileSec>
   <structMap TYPE="logical">
     <div DMDID="910" LABEL="New York Academy of Medicine" ORDER="1" TYPE="item">
-      <fptr FILEID="910"/>
+      <fptr FILEID="3738"/>
     </div>
   </structMap>
   <structMap TYPE="physical">
     <div DMDID="910" LABEL="New York Academy of Medicine" ORDER="1" TYPE="item">
-      <fptr FILEID="910"/>
+      <fptr FILEID="3738"/>
     </div>
   </structMap>
 </mets>

@@ -7,7 +7,7 @@
           <mods:titleInfo>
             <mods:title>Fund for the City of New York</mods:title>
           </mods:titleInfo>
-          <mods:typeOfResource>text</mods:typeOfResource>
+          <mods:typeOfResource>Text</mods:typeOfResource>
           <mods:originInfo>
             <mods:dateCreated>1977, 1979</mods:dateCreated>
           </mods:originInfo>
@@ -25,20 +25,20 @@
           </mods:relatedItem>
           <mods:relatedItem displayLabel="component" type="host">
             <mods:name>Fund for the City of New York, 1977, 1979</mods:name>
-            <mods:identifier>ref1331_glm</mods:identifier>
+            <mods:identifier>435ea85ca7e144d4861631691b216517</mods:identifier>
           </mods:relatedItem>
         </mods>
       </xmlData>
     </mdWrap>
   </dmdSec>
   <amdSec>
-    <techMD ID="825">
+    <techMD ID="3656">
       <mdWrap MDTYPE="PREMIS:OBJECT">
         <xmlData>
           <object version="2.2" xmlns="info:lc/xmlns/premis-v2" xsi:schemaLocation="info:lc/xmlns/premis-v2 http://www.loc.gov/standards/premis/v2/premis-v2-2.xsd" xsi:type="file">
             <objectIdentifier>
               <objectIdentifierType>ArchivesSpace identifier</objectIdentifierType>
-              <objectIdentifierValue>825</objectIdentifierValue>
+              <objectIdentifierValue>3656</objectIdentifierValue>
             </objectIdentifier>
             <objectCharacteristics>
               <fixity>
@@ -60,19 +60,19 @@
   </amdSec>
   <fileSec>
     <fileGrp USE="Image-Service">
-      <file AMDID="825" GROUPID="825" ID="825">
+      <file AMDID="3656" GROUPID="825" ID="3656">
         <FLocat xlink:href="http://storage.rockarch.org/d40f1203-0f41-4f2a-931c-9ade585c1c1f-FCD001_069_00204.pdf"/>
       </file>
     </fileGrp>
   </fileSec>
   <structMap TYPE="logical">
     <div DMDID="825" LABEL="Fund for the City of New York" ORDER="1" TYPE="item">
-      <fptr FILEID="825"/>
+      <fptr FILEID="3656"/>
     </div>
   </structMap>
   <structMap TYPE="physical">
     <div DMDID="825" LABEL="Fund for the City of New York" ORDER="1" TYPE="item">
-      <fptr FILEID="825"/>
+      <fptr FILEID="3656"/>
     </div>
   </structMap>
 </mets>

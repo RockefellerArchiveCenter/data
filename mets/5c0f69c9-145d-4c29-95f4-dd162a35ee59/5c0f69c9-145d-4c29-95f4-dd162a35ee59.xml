@@ -7,7 +7,7 @@
           <mods:titleInfo>
             <mods:title>Child Abuse Data</mods:title>
           </mods:titleInfo>
-          <mods:typeOfResource>text</mods:typeOfResource>
+          <mods:typeOfResource>Text</mods:typeOfResource>
           <mods:originInfo>
             <mods:dateCreated>1976, 1978-1980</mods:dateCreated>
           </mods:originInfo>
@@ -25,20 +25,20 @@
           </mods:relatedItem>
           <mods:relatedItem displayLabel="component" type="host">
             <mods:name>Child Abuse Data, 1976, 1978-1980</mods:name>
-            <mods:identifier>ref1532_mmt</mods:identifier>
+            <mods:identifier>f822596ce9bc44efa280ea3227a02df5</mods:identifier>
           </mods:relatedItem>
         </mods>
       </xmlData>
     </mdWrap>
   </dmdSec>
   <amdSec>
-    <techMD ID="1018">
+    <techMD ID="3827">
       <mdWrap MDTYPE="PREMIS:OBJECT">
         <xmlData>
           <object version="2.2" xmlns="info:lc/xmlns/premis-v2" xsi:schemaLocation="info:lc/xmlns/premis-v2 http://www.loc.gov/standards/premis/v2/premis-v2-2.xsd" xsi:type="file">
             <objectIdentifier>
               <objectIdentifierType>ArchivesSpace identifier</objectIdentifierType>
-              <objectIdentifierValue>1018</objectIdentifierValue>
+              <objectIdentifierValue>3827</objectIdentifierValue>
             </objectIdentifier>
             <objectCharacteristics>
               <fixity>
@@ -60,19 +60,19 @@
   </amdSec>
   <fileSec>
     <fileGrp USE="Image-Service">
-      <file AMDID="1018" GROUPID="1018" ID="1018">
+      <file AMDID="3827" GROUPID="1018" ID="3827">
         <FLocat xlink:href="http://storage.rockarch.org/5c0f69c9-145d-4c29-95f4-dd162a35ee59-FCD001_096_00300.pdf"/>
       </file>
     </fileGrp>
   </fileSec>
   <structMap TYPE="logical">
     <div DMDID="1018" LABEL="Child Abuse Data" ORDER="1" TYPE="item">
-      <fptr FILEID="1018"/>
+      <fptr FILEID="3827"/>
     </div>
   </structMap>
   <structMap TYPE="physical">
     <div DMDID="1018" LABEL="Child Abuse Data" ORDER="1" TYPE="item">
-      <fptr FILEID="1018"/>
+      <fptr FILEID="3827"/>
     </div>
   </structMap>
 </mets>

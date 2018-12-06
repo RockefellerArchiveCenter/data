@@ -7,7 +7,7 @@
           <mods:titleInfo>
             <mods:title>Board of Directors</mods:title>
           </mods:titleInfo>
-          <mods:typeOfResource>text</mods:typeOfResource>
+          <mods:typeOfResource>Text</mods:typeOfResource>
           <mods:originInfo>
             <mods:dateCreated>May 27, 1981</mods:dateCreated>
           </mods:originInfo>
@@ -25,20 +25,20 @@
           </mods:relatedItem>
           <mods:relatedItem displayLabel="component" type="host">
             <mods:name>Board of Directors, May 27, 1981</mods:name>
-            <mods:identifier>ref1113_dg0</mods:identifier>
+            <mods:identifier>2964e226fb5245fc93b602aa3db1020d</mods:identifier>
           </mods:relatedItem>
         </mods>
       </xmlData>
     </mdWrap>
   </dmdSec>
   <amdSec>
-    <techMD ID="618">
+    <techMD ID="3463">
       <mdWrap MDTYPE="PREMIS:OBJECT">
         <xmlData>
           <object version="2.2" xmlns="info:lc/xmlns/premis-v2" xsi:schemaLocation="info:lc/xmlns/premis-v2 http://www.loc.gov/standards/premis/v2/premis-v2-2.xsd" xsi:type="file">
             <objectIdentifier>
               <objectIdentifierType>ArchivesSpace identifier</objectIdentifierType>
-              <objectIdentifierValue>618</objectIdentifierValue>
+              <objectIdentifierValue>3463</objectIdentifierValue>
             </objectIdentifier>
             <objectCharacteristics>
               <fixity>
@@ -60,19 +60,19 @@
   </amdSec>
   <fileSec>
     <fileGrp USE="Image-Service">
-      <file AMDID="618" GROUPID="618" ID="618">
+      <file AMDID="3463" GROUPID="618" ID="3463">
         <FLocat xlink:href="http://storage.rockarch.org/a59a8c82-9de7-4fa9-bf75-da58c15b9142-FCD001_044_00259.pdf"/>
       </file>
     </fileGrp>
   </fileSec>
   <structMap TYPE="logical">
     <div DMDID="618" LABEL="Board of Directors" ORDER="1" TYPE="item">
-      <fptr FILEID="618"/>
+      <fptr FILEID="3463"/>
     </div>
   </structMap>
   <structMap TYPE="physical">
     <div DMDID="618" LABEL="Board of Directors" ORDER="1" TYPE="item">
-      <fptr FILEID="618"/>
+      <fptr FILEID="3463"/>
     </div>
   </structMap>
 </mets>

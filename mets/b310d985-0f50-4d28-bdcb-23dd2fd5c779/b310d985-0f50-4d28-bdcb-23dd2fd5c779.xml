@@ -7,7 +7,7 @@
           <mods:titleInfo>
             <mods:title>University of Virginia</mods:title>
           </mods:titleInfo>
-          <mods:typeOfResource>text</mods:typeOfResource>
+          <mods:typeOfResource>Text</mods:typeOfResource>
           <mods:originInfo>
             <mods:dateCreated>1975-1979</mods:dateCreated>
           </mods:originInfo>
@@ -25,20 +25,20 @@
           </mods:relatedItem>
           <mods:relatedItem displayLabel="component" type="host">
             <mods:name>University of Virginia, 1975-1979</mods:name>
-            <mods:identifier>ref1198_k5m</mods:identifier>
+            <mods:identifier>970e0a4c833c48f884fce837c9f8efd7</mods:identifier>
           </mods:relatedItem>
         </mods>
       </xmlData>
     </mdWrap>
   </dmdSec>
   <amdSec>
-    <techMD ID="693">
+    <techMD ID="3529">
       <mdWrap MDTYPE="PREMIS:OBJECT">
         <xmlData>
           <object version="2.2" xmlns="info:lc/xmlns/premis-v2" xsi:schemaLocation="info:lc/xmlns/premis-v2 http://www.loc.gov/standards/premis/v2/premis-v2-2.xsd" xsi:type="file">
             <objectIdentifier>
               <objectIdentifierType>ArchivesSpace identifier</objectIdentifierType>
-              <objectIdentifierValue>693</objectIdentifierValue>
+              <objectIdentifierValue>3529</objectIdentifierValue>
             </objectIdentifier>
             <objectCharacteristics>
               <fixity>
@@ -60,19 +60,19 @@
   </amdSec>
   <fileSec>
     <fileGrp USE="Image-Service">
-      <file AMDID="693" GROUPID="693" ID="693">
+      <file AMDID="3529" GROUPID="693" ID="3529">
         <FLocat xlink:href="http://storage.rockarch.org/b310d985-0f50-4d28-bdcb-23dd2fd5c779-FCD001_050_00921.pdf"/>
       </file>
     </fileGrp>
   </fileSec>
   <structMap TYPE="logical">
     <div DMDID="693" LABEL="University of Virginia" ORDER="1" TYPE="item">
-      <fptr FILEID="693"/>
+      <fptr FILEID="3529"/>
     </div>
   </structMap>
   <structMap TYPE="physical">
     <div DMDID="693" LABEL="University of Virginia" ORDER="1" TYPE="item">
-      <fptr FILEID="693"/>
+      <fptr FILEID="3529"/>
     </div>
   </structMap>
 </mets>

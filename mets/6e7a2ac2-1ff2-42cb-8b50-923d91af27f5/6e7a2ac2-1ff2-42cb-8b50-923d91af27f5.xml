@@ -7,7 +7,7 @@
           <mods:titleInfo>
             <mods:title>Pre-school Enrollment</mods:title>
           </mods:titleInfo>
-          <mods:typeOfResource>text</mods:typeOfResource>
+          <mods:typeOfResource>Text</mods:typeOfResource>
           <mods:originInfo>
             <mods:dateCreated>1969-1978</mods:dateCreated>
           </mods:originInfo>
@@ -25,20 +25,20 @@
           </mods:relatedItem>
           <mods:relatedItem displayLabel="component" type="host">
             <mods:name>Pre-school Enrollment, 1969-1978</mods:name>
-            <mods:identifier>ref1561_23l</mods:identifier>
+            <mods:identifier>15ab17b7b2594384abc4e643869462e0</mods:identifier>
           </mods:relatedItem>
         </mods>
       </xmlData>
     </mdWrap>
   </dmdSec>
   <amdSec>
-    <techMD ID="1268">
+    <techMD ID="3944">
       <mdWrap MDTYPE="PREMIS:OBJECT">
         <xmlData>
           <object version="2.2" xmlns="info:lc/xmlns/premis-v2" xsi:schemaLocation="info:lc/xmlns/premis-v2 http://www.loc.gov/standards/premis/v2/premis-v2-2.xsd" xsi:type="file">
             <objectIdentifier>
               <objectIdentifierType>ArchivesSpace identifier</objectIdentifierType>
-              <objectIdentifierValue>1268</objectIdentifierValue>
+              <objectIdentifierValue>3944</objectIdentifierValue>
             </objectIdentifier>
             <objectCharacteristics>
               <fixity>
@@ -60,19 +60,19 @@
   </amdSec>
   <fileSec>
     <fileGrp USE="Image-Service">
-      <file AMDID="1268" GROUPID="1268" ID="1268">
+      <file AMDID="3944" GROUPID="1268" ID="3944">
         <FLocat xlink:href="http://storage.rockarch.org/6e7a2ac2-1ff2-42cb-8b50-923d91af27f5-FCD001_099_00124.pdf"/>
       </file>
     </fileGrp>
   </fileSec>
   <structMap TYPE="logical">
     <div DMDID="1268" LABEL="Pre-school Enrollment" ORDER="1" TYPE="item">
-      <fptr FILEID="1268"/>
+      <fptr FILEID="3944"/>
     </div>
   </structMap>
   <structMap TYPE="physical">
     <div DMDID="1268" LABEL="Pre-school Enrollment" ORDER="1" TYPE="item">
-      <fptr FILEID="1268"/>
+      <fptr FILEID="3944"/>
     </div>
   </structMap>
 </mets>

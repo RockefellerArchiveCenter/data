@@ -7,7 +7,7 @@
           <mods:titleInfo>
             <mods:title>North Carolina Children's Index</mods:title>
           </mods:titleInfo>
-          <mods:typeOfResource>text</mods:typeOfResource>
+          <mods:typeOfResource>Text</mods:typeOfResource>
           <mods:originInfo>
             <mods:dateCreated>1984-1989</mods:dateCreated>
           </mods:originInfo>
@@ -25,20 +25,20 @@
           </mods:relatedItem>
           <mods:relatedItem displayLabel="component" type="host">
             <mods:name>North Carolina Children's Index, 1984-1989</mods:name>
-            <mods:identifier>ref1440_rkq</mods:identifier>
+            <mods:identifier>e51bf64a2b434f5e8890a4997665b185</mods:identifier>
           </mods:relatedItem>
         </mods>
       </xmlData>
     </mdWrap>
   </dmdSec>
   <amdSec>
-    <techMD ID="932">
+    <techMD ID="3758">
       <mdWrap MDTYPE="PREMIS:OBJECT">
         <xmlData>
           <object version="2.2" xmlns="info:lc/xmlns/premis-v2" xsi:schemaLocation="info:lc/xmlns/premis-v2 http://www.loc.gov/standards/premis/v2/premis-v2-2.xsd" xsi:type="file">
             <objectIdentifier>
               <objectIdentifierType>ArchivesSpace identifier</objectIdentifierType>
-              <objectIdentifierValue>932</objectIdentifierValue>
+              <objectIdentifierValue>3758</objectIdentifierValue>
             </objectIdentifier>
             <objectCharacteristics>
               <fixity>
@@ -60,19 +60,19 @@
   </amdSec>
   <fileSec>
     <fileGrp USE="Image-Service">
-      <file AMDID="932" GROUPID="932" ID="932">
+      <file AMDID="3758" GROUPID="932" ID="3758">
         <FLocat xlink:href="http://storage.rockarch.org/eb231f16-a7bf-4e57-9028-762e31e46d12-FCD001_083_00895.pdf"/>
       </file>
     </fileGrp>
   </fileSec>
   <structMap TYPE="logical">
     <div DMDID="932" LABEL="North Carolina Children's Index" ORDER="1" TYPE="item">
-      <fptr FILEID="932"/>
+      <fptr FILEID="3758"/>
     </div>
   </structMap>
   <structMap TYPE="physical">
     <div DMDID="932" LABEL="North Carolina Children's Index" ORDER="1" TYPE="item">
-      <fptr FILEID="932"/>
+      <fptr FILEID="3758"/>
     </div>
   </structMap>
 </mets>

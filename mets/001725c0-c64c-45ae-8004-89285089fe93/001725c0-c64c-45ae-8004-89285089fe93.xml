@@ -7,7 +7,7 @@
           <mods:titleInfo>
             <mods:title>Index (Reference by Staff Members and Others)</mods:title>
           </mods:titleInfo>
-          <mods:typeOfResource>text</mods:typeOfResource>
+          <mods:typeOfResource>Text</mods:typeOfResource>
           <mods:originInfo>
             <mods:dateCreated>1920-1921</mods:dateCreated>
           </mods:originInfo>
@@ -25,20 +25,20 @@
           </mods:relatedItem>
           <mods:relatedItem displayLabel="component" type="host">
             <mods:name>Index (Reference by Staff Members and Others), 1920-1921</mods:name>
-            <mods:identifier>ref646_zjc</mods:identifier>
+            <mods:identifier>d28272a36a8d470fa676025f76851eef</mods:identifier>
           </mods:relatedItem>
         </mods>
       </xmlData>
     </mdWrap>
   </dmdSec>
   <amdSec>
-    <techMD ID="1496">
+    <techMD ID="4159">
       <mdWrap MDTYPE="PREMIS:OBJECT">
         <xmlData>
           <object version="2.2" xmlns="info:lc/xmlns/premis-v2" xsi:schemaLocation="info:lc/xmlns/premis-v2 http://www.loc.gov/standards/premis/v2/premis-v2-2.xsd" xsi:type="file">
             <objectIdentifier>
               <objectIdentifierType>ArchivesSpace identifier</objectIdentifierType>
-              <objectIdentifierValue>1496</objectIdentifierValue>
+              <objectIdentifierValue>4159</objectIdentifierValue>
             </objectIdentifier>
             <objectCharacteristics>
               <fixity>
@@ -59,20 +59,20 @@
     </techMD>
   </amdSec>
   <fileSec>
-    <fileGrp USE="Service-Edited">
-      <file AMDID="1496" GROUPID="1496" ID="1496">
+    <fileGrp USE="translation missing: en.enumerations.file_version_use_statement.service-edited">
+      <file AMDID="4159" GROUPID="1496" ID="4159">
         <FLocat xlink:href="http://storage.rockarch.org/001725c0-c64c-45ae-8004-89285089fe93-rac_rfdiaries_12-2_pearce_1916-1930_003.pdf"/>
       </file>
     </fileGrp>
   </fileSec>
   <structMap TYPE="logical">
     <div DMDID="1496" LABEL="Index (Reference by Staff Members and Others)" ORDER="1" TYPE="item">
-      <fptr FILEID="1496"/>
+      <fptr FILEID="4159"/>
     </div>
   </structMap>
   <structMap TYPE="physical">
     <div DMDID="1496" LABEL="Index (Reference by Staff Members and Others)" ORDER="1" TYPE="item">
-      <fptr FILEID="1496"/>
+      <fptr FILEID="4159"/>
     </div>
   </structMap>
 </mets>

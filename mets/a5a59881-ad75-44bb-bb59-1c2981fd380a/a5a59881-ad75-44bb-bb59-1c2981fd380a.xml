@@ -7,7 +7,7 @@
           <mods:titleInfo>
             <mods:title>Children Away from Home</mods:title>
           </mods:titleInfo>
-          <mods:typeOfResource>text</mods:typeOfResource>
+          <mods:typeOfResource>Text</mods:typeOfResource>
           <mods:originInfo>
             <mods:dateCreated>1978-1980</mods:dateCreated>
           </mods:originInfo>
@@ -25,20 +25,20 @@
           </mods:relatedItem>
           <mods:relatedItem displayLabel="component" type="host">
             <mods:name>Children Away from Home, 1978-1980</mods:name>
-            <mods:identifier>ref1533_ftj</mods:identifier>
+            <mods:identifier>f954fd537b804eeaa361c0f6ff17599e</mods:identifier>
           </mods:relatedItem>
         </mods>
       </xmlData>
     </mdWrap>
   </dmdSec>
   <amdSec>
-    <techMD ID="1026">
+    <techMD ID="3835">
       <mdWrap MDTYPE="PREMIS:OBJECT">
         <xmlData>
           <object version="2.2" xmlns="info:lc/xmlns/premis-v2" xsi:schemaLocation="info:lc/xmlns/premis-v2 http://www.loc.gov/standards/premis/v2/premis-v2-2.xsd" xsi:type="file">
             <objectIdentifier>
               <objectIdentifierType>ArchivesSpace identifier</objectIdentifierType>
-              <objectIdentifierValue>1026</objectIdentifierValue>
+              <objectIdentifierValue>3835</objectIdentifierValue>
             </objectIdentifier>
             <objectCharacteristics>
               <fixity>
@@ -60,19 +60,19 @@
   </amdSec>
   <fileSec>
     <fileGrp USE="Image-Service">
-      <file AMDID="1026" GROUPID="1026" ID="1026">
+      <file AMDID="3835" GROUPID="1026" ID="3835">
         <FLocat xlink:href="http://storage.rockarch.org/a5a59881-ad75-44bb-bb59-1c2981fd380a-FCD001_096_00453.pdf"/>
       </file>
     </fileGrp>
   </fileSec>
   <structMap TYPE="logical">
     <div DMDID="1026" LABEL="Children Away from Home" ORDER="1" TYPE="item">
-      <fptr FILEID="1026"/>
+      <fptr FILEID="3835"/>
     </div>
   </structMap>
   <structMap TYPE="physical">
     <div DMDID="1026" LABEL="Children Away from Home" ORDER="1" TYPE="item">
-      <fptr FILEID="1026"/>
+      <fptr FILEID="3835"/>
     </div>
   </structMap>
 </mets>

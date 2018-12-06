@@ -7,7 +7,7 @@
           <mods:titleInfo>
             <mods:title>National Governors' Association - Center for Policy Research</mods:title>
           </mods:titleInfo>
-          <mods:typeOfResource>text</mods:typeOfResource>
+          <mods:typeOfResource>Text</mods:typeOfResource>
           <mods:originInfo>
             <mods:dateCreated>1989</mods:dateCreated>
           </mods:originInfo>
@@ -25,20 +25,20 @@
           </mods:relatedItem>
           <mods:relatedItem displayLabel="component" type="host">
             <mods:name>National Governors' Association - Center for Policy Research, 1989</mods:name>
-            <mods:identifier>ref1408_14o</mods:identifier>
+            <mods:identifier>691ffdd35ab24249bdff40d0083724fd</mods:identifier>
           </mods:relatedItem>
         </mods>
       </xmlData>
     </mdWrap>
   </dmdSec>
   <amdSec>
-    <techMD ID="895">
+    <techMD ID="3724">
       <mdWrap MDTYPE="PREMIS:OBJECT">
         <xmlData>
           <object version="2.2" xmlns="info:lc/xmlns/premis-v2" xsi:schemaLocation="info:lc/xmlns/premis-v2 http://www.loc.gov/standards/premis/v2/premis-v2-2.xsd" xsi:type="file">
             <objectIdentifier>
               <objectIdentifierType>ArchivesSpace identifier</objectIdentifierType>
-              <objectIdentifierValue>895</objectIdentifierValue>
+              <objectIdentifierValue>3724</objectIdentifierValue>
             </objectIdentifier>
             <objectCharacteristics>
               <fixity>
@@ -60,19 +60,19 @@
   </amdSec>
   <fileSec>
     <fileGrp USE="Image-Service">
-      <file AMDID="895" GROUPID="895" ID="895">
+      <file AMDID="3724" GROUPID="895" ID="3724">
         <FLocat xlink:href="http://storage.rockarch.org/e35a4136-6d9f-42e4-b726-eaa9797f45da-FCD001_079_00714.pdf"/>
       </file>
     </fileGrp>
   </fileSec>
   <structMap TYPE="logical">
     <div DMDID="895" LABEL="National Governors' Association - Center for Policy Research" ORDER="1" TYPE="item">
-      <fptr FILEID="895"/>
+      <fptr FILEID="3724"/>
     </div>
   </structMap>
   <structMap TYPE="physical">
     <div DMDID="895" LABEL="National Governors' Association - Center for Policy Research" ORDER="1" TYPE="item">
-      <fptr FILEID="895"/>
+      <fptr FILEID="3724"/>
     </div>
   </structMap>
 </mets>

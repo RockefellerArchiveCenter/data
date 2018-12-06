@@ -7,7 +7,7 @@
           <mods:titleInfo>
             <mods:title>New York City School Volunteer Program</mods:title>
           </mods:titleInfo>
-          <mods:typeOfResource>text</mods:typeOfResource>
+          <mods:typeOfResource>Text</mods:typeOfResource>
           <mods:originInfo>
             <mods:dateCreated>1983-1985</mods:dateCreated>
           </mods:originInfo>
@@ -25,20 +25,20 @@
           </mods:relatedItem>
           <mods:relatedItem displayLabel="component" type="host">
             <mods:name>New York City School Volunteer Program, 1983-1985</mods:name>
-            <mods:identifier>ref1421_wml</mods:identifier>
+            <mods:identifier>6095c73c29344d3bb692c7349c20da91</mods:identifier>
           </mods:relatedItem>
         </mods>
       </xmlData>
     </mdWrap>
   </dmdSec>
   <amdSec>
-    <techMD ID="900">
+    <techMD ID="3728">
       <mdWrap MDTYPE="PREMIS:OBJECT">
         <xmlData>
           <object version="2.2" xmlns="info:lc/xmlns/premis-v2" xsi:schemaLocation="info:lc/xmlns/premis-v2 http://www.loc.gov/standards/premis/v2/premis-v2-2.xsd" xsi:type="file">
             <objectIdentifier>
               <objectIdentifierType>ArchivesSpace identifier</objectIdentifierType>
-              <objectIdentifierValue>900</objectIdentifierValue>
+              <objectIdentifierValue>3728</objectIdentifierValue>
             </objectIdentifier>
             <objectCharacteristics>
               <fixity>
@@ -60,19 +60,19 @@
   </amdSec>
   <fileSec>
     <fileGrp USE="Image-Service">
-      <file AMDID="900" GROUPID="900" ID="900">
+      <file AMDID="3728" GROUPID="900" ID="3728">
         <FLocat xlink:href="http://storage.rockarch.org/d516b29d-6e56-4652-9546-7bad8d5f5bcc-FCD001_080_01022.pdf"/>
       </file>
     </fileGrp>
   </fileSec>
   <structMap TYPE="logical">
     <div DMDID="900" LABEL="New York City School Volunteer Program" ORDER="1" TYPE="item">
-      <fptr FILEID="900"/>
+      <fptr FILEID="3728"/>
     </div>
   </structMap>
   <structMap TYPE="physical">
     <div DMDID="900" LABEL="New York City School Volunteer Program" ORDER="1" TYPE="item">
-      <fptr FILEID="900"/>
+      <fptr FILEID="3728"/>
     </div>
   </structMap>
 </mets>

@@ -7,7 +7,7 @@
           <mods:titleInfo>
             <mods:title>Teachers College, Columbia University</mods:title>
           </mods:titleInfo>
-          <mods:typeOfResource>text</mods:typeOfResource>
+          <mods:typeOfResource>Text</mods:typeOfResource>
           <mods:originInfo>
             <mods:dateCreated>1991-1993</mods:dateCreated>
           </mods:originInfo>
@@ -25,20 +25,20 @@
           </mods:relatedItem>
           <mods:relatedItem displayLabel="component" type="host">
             <mods:name>Teachers College, Columbia University, 1991-1993</mods:name>
-            <mods:identifier>ref1494_mj6</mods:identifier>
+            <mods:identifier>4fb6ee5e7c0c4f71acfbcc2c086d5671</mods:identifier>
           </mods:relatedItem>
         </mods>
       </xmlData>
     </mdWrap>
   </dmdSec>
   <amdSec>
-    <techMD ID="986">
+    <techMD ID="3802">
       <mdWrap MDTYPE="PREMIS:OBJECT">
         <xmlData>
           <object version="2.2" xmlns="info:lc/xmlns/premis-v2" xsi:schemaLocation="info:lc/xmlns/premis-v2 http://www.loc.gov/standards/premis/v2/premis-v2-2.xsd" xsi:type="file">
             <objectIdentifier>
               <objectIdentifierType>ArchivesSpace identifier</objectIdentifierType>
-              <objectIdentifierValue>986</objectIdentifierValue>
+              <objectIdentifierValue>3802</objectIdentifierValue>
             </objectIdentifier>
             <objectCharacteristics>
               <fixity>
@@ -60,19 +60,19 @@
   </amdSec>
   <fileSec>
     <fileGrp USE="Image-Service">
-      <file AMDID="986" GROUPID="986" ID="986">
+      <file AMDID="3802" GROUPID="986" ID="3802">
         <FLocat xlink:href="http://storage.rockarch.org/bea011b0-709f-4edd-835d-1761fa13cee1-FCD001_092_00311.pdf"/>
       </file>
     </fileGrp>
   </fileSec>
   <structMap TYPE="logical">
     <div DMDID="986" LABEL="Teachers College, Columbia University" ORDER="1" TYPE="item">
-      <fptr FILEID="986"/>
+      <fptr FILEID="3802"/>
     </div>
   </structMap>
   <structMap TYPE="physical">
     <div DMDID="986" LABEL="Teachers College, Columbia University" ORDER="1" TYPE="item">
-      <fptr FILEID="986"/>
+      <fptr FILEID="3802"/>
     </div>
   </structMap>
 </mets>

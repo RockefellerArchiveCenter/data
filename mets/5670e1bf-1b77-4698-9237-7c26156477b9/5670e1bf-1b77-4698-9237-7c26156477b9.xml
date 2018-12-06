@@ -7,7 +7,7 @@
           <mods:titleInfo>
             <mods:title>1932-1958 (Summary of Foreign Travel by Country)</mods:title>
           </mods:titleInfo>
-          <mods:typeOfResource>text</mods:typeOfResource>
+          <mods:typeOfResource>Text</mods:typeOfResource>
           <mods:originInfo>
             <mods:dateCreated>1932-1958</mods:dateCreated>
           </mods:originInfo>
@@ -32,13 +32,13 @@
     </mdWrap>
   </dmdSec>
   <amdSec>
-    <techMD ID="1435">
+    <techMD ID="4098">
       <mdWrap MDTYPE="PREMIS:OBJECT">
         <xmlData>
           <object version="2.2" xmlns="info:lc/xmlns/premis-v2" xsi:schemaLocation="info:lc/xmlns/premis-v2 http://www.loc.gov/standards/premis/v2/premis-v2-2.xsd" xsi:type="file">
             <objectIdentifier>
               <objectIdentifierType>ArchivesSpace identifier</objectIdentifierType>
-              <objectIdentifierValue>1435</objectIdentifierValue>
+              <objectIdentifierValue>4098</objectIdentifierValue>
             </objectIdentifier>
             <objectCharacteristics>
               <fixity>
@@ -60,19 +60,19 @@
   </amdSec>
   <fileSec>
     <fileGrp USE="translation missing: en.enumerations.file_version_use_statement.service-edited">
-      <file AMDID="1435" GROUPID="1435" ID="1435">
+      <file AMDID="4098" GROUPID="1435" ID="4098">
         <FLocat xlink:href="http://storage.rockarch.org/5670e1bf-1b77-4698-9237-7c26156477b9-rac_rfdiaries_12-2_weaver_1932-1959_002.pdf"/>
       </file>
     </fileGrp>
   </fileSec>
   <structMap TYPE="logical">
     <div DMDID="1435" LABEL="1932-1958 (Summary of Foreign Travel by Country)" ORDER="1" TYPE="item">
-      <fptr FILEID="1435"/>
+      <fptr FILEID="4098"/>
     </div>
   </structMap>
   <structMap TYPE="physical">
     <div DMDID="1435" LABEL="1932-1958 (Summary of Foreign Travel by Country)" ORDER="1" TYPE="item">
-      <fptr FILEID="1435"/>
+      <fptr FILEID="4098"/>
     </div>
   </structMap>
 </mets>

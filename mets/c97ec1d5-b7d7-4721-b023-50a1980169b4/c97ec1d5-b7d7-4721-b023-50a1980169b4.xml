@@ -7,7 +7,7 @@
           <mods:titleInfo>
             <mods:title>Haiti and San Domingo</mods:title>
           </mods:titleInfo>
-          <mods:typeOfResource>text</mods:typeOfResource>
+          <mods:typeOfResource>Text</mods:typeOfResource>
           <mods:originInfo>
             <mods:dateCreated>1925</mods:dateCreated>
           </mods:originInfo>
@@ -25,20 +25,20 @@
           </mods:relatedItem>
           <mods:relatedItem displayLabel="component" type="host">
             <mods:name>Haiti and San Domingo, 1925</mods:name>
-            <mods:identifier>ref682_wzz</mods:identifier>
+            <mods:identifier>092971c4b5cb40a8895af03fa6498ab3</mods:identifier>
           </mods:relatedItem>
         </mods>
       </xmlData>
     </mdWrap>
   </dmdSec>
   <amdSec>
-    <techMD ID="1504">
+    <techMD ID="4167">
       <mdWrap MDTYPE="PREMIS:OBJECT">
         <xmlData>
           <object version="2.2" xmlns="info:lc/xmlns/premis-v2" xsi:schemaLocation="info:lc/xmlns/premis-v2 http://www.loc.gov/standards/premis/v2/premis-v2-2.xsd" xsi:type="file">
             <objectIdentifier>
               <objectIdentifierType>ArchivesSpace identifier</objectIdentifierType>
-              <objectIdentifierValue>1504</objectIdentifierValue>
+              <objectIdentifierValue>4167</objectIdentifierValue>
             </objectIdentifier>
             <objectCharacteristics>
               <fixity>
@@ -59,20 +59,20 @@
     </techMD>
   </amdSec>
   <fileSec>
-    <fileGrp USE="Service-Edited">
-      <file AMDID="1504" GROUPID="1504" ID="1504">
+    <fileGrp USE="translation missing: en.enumerations.file_version_use_statement.service-edited">
+      <file AMDID="4167" GROUPID="1504" ID="4167">
         <FLocat xlink:href="http://storage.rockarch.org/c97ec1d5-b7d7-4721-b023-50a1980169b4-rac_rfdiaries_12-2_pearce_1916-1930_023.pdf"/>
       </file>
     </fileGrp>
   </fileSec>
   <structMap TYPE="logical">
     <div DMDID="1504" LABEL="Haiti and San Domingo" ORDER="1" TYPE="item">
-      <fptr FILEID="1504"/>
+      <fptr FILEID="4167"/>
     </div>
   </structMap>
   <structMap TYPE="physical">
     <div DMDID="1504" LABEL="Haiti and San Domingo" ORDER="1" TYPE="item">
-      <fptr FILEID="1504"/>
+      <fptr FILEID="4167"/>
     </div>
   </structMap>
 </mets>

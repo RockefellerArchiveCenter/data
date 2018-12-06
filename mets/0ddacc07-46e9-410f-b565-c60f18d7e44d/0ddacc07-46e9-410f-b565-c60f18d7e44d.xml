@@ -7,7 +7,7 @@
           <mods:titleInfo>
             <mods:title>Action for Children's Television</mods:title>
           </mods:titleInfo>
-          <mods:typeOfResource>text</mods:typeOfResource>
+          <mods:typeOfResource>Text</mods:typeOfResource>
           <mods:originInfo>
             <mods:dateCreated>1982-1983</mods:dateCreated>
           </mods:originInfo>
@@ -25,20 +25,20 @@
           </mods:relatedItem>
           <mods:relatedItem displayLabel="component" type="host">
             <mods:name>Action for Children's Television, 1982-1983</mods:name>
-            <mods:identifier>ref1207_36n</mods:identifier>
+            <mods:identifier>67c50fd2732d45d29e1ebeea8d6afda1</mods:identifier>
           </mods:relatedItem>
         </mods>
       </xmlData>
     </mdWrap>
   </dmdSec>
   <amdSec>
-    <techMD ID="703">
+    <techMD ID="3537">
       <mdWrap MDTYPE="PREMIS:OBJECT">
         <xmlData>
           <object version="2.2" xmlns="info:lc/xmlns/premis-v2" xsi:schemaLocation="info:lc/xmlns/premis-v2 http://www.loc.gov/standards/premis/v2/premis-v2-2.xsd" xsi:type="file">
             <objectIdentifier>
               <objectIdentifierType>ArchivesSpace identifier</objectIdentifierType>
-              <objectIdentifierValue>703</objectIdentifierValue>
+              <objectIdentifierValue>3537</objectIdentifierValue>
             </objectIdentifier>
             <objectCharacteristics>
               <fixity>
@@ -60,19 +60,19 @@
   </amdSec>
   <fileSec>
     <fileGrp USE="Image-Service">
-      <file AMDID="703" GROUPID="703" ID="703">
+      <file AMDID="3537" GROUPID="703" ID="3537">
         <FLocat xlink:href="http://storage.rockarch.org/0ddacc07-46e9-410f-b565-c60f18d7e44d-FCD001_051_00812.pdf"/>
       </file>
     </fileGrp>
   </fileSec>
   <structMap TYPE="logical">
     <div DMDID="703" LABEL="Action for Children's Television" ORDER="1" TYPE="item">
-      <fptr FILEID="703"/>
+      <fptr FILEID="3537"/>
     </div>
   </structMap>
   <structMap TYPE="physical">
     <div DMDID="703" LABEL="Action for Children's Television" ORDER="1" TYPE="item">
-      <fptr FILEID="703"/>
+      <fptr FILEID="3537"/>
     </div>
   </structMap>
 </mets>

@@ -7,7 +7,7 @@
           <mods:titleInfo>
             <mods:title>New York Community Trust</mods:title>
           </mods:titleInfo>
-          <mods:typeOfResource>text</mods:typeOfResource>
+          <mods:typeOfResource>Text</mods:typeOfResource>
           <mods:originInfo>
             <mods:dateCreated>1988-1989</mods:dateCreated>
           </mods:originInfo>
@@ -25,20 +25,20 @@
           </mods:relatedItem>
           <mods:relatedItem displayLabel="component" type="host">
             <mods:name>New York Community Trust, 1988-1989</mods:name>
-            <mods:identifier>ref1423_zgq</mods:identifier>
+            <mods:identifier>0f2cadfeee514880b51e9a821ca7f9c6</mods:identifier>
           </mods:relatedItem>
         </mods>
       </xmlData>
     </mdWrap>
   </dmdSec>
   <amdSec>
-    <techMD ID="915">
+    <techMD ID="3743">
       <mdWrap MDTYPE="PREMIS:OBJECT">
         <xmlData>
           <object version="2.2" xmlns="info:lc/xmlns/premis-v2" xsi:schemaLocation="info:lc/xmlns/premis-v2 http://www.loc.gov/standards/premis/v2/premis-v2-2.xsd" xsi:type="file">
             <objectIdentifier>
               <objectIdentifierType>ArchivesSpace identifier</objectIdentifierType>
-              <objectIdentifierValue>915</objectIdentifierValue>
+              <objectIdentifierValue>3743</objectIdentifierValue>
             </objectIdentifier>
             <objectCharacteristics>
               <fixity>
@@ -60,19 +60,19 @@
   </amdSec>
   <fileSec>
     <fileGrp USE="Image-Service">
-      <file AMDID="915" GROUPID="915" ID="915">
+      <file AMDID="3743" GROUPID="915" ID="3743">
         <FLocat xlink:href="http://storage.rockarch.org/5655a963-b91b-4415-a6ea-1ff5c85007af-FCD001_081_00001.pdf"/>
       </file>
     </fileGrp>
   </fileSec>
   <structMap TYPE="logical">
     <div DMDID="915" LABEL="New York Community Trust" ORDER="1" TYPE="item">
-      <fptr FILEID="915"/>
+      <fptr FILEID="3743"/>
     </div>
   </structMap>
   <structMap TYPE="physical">
     <div DMDID="915" LABEL="New York Community Trust" ORDER="1" TYPE="item">
-      <fptr FILEID="915"/>
+      <fptr FILEID="3743"/>
     </div>
   </structMap>
 </mets>

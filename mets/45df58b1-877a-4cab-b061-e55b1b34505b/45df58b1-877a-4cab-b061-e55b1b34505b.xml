@@ -7,7 +7,7 @@
           <mods:titleInfo>
             <mods:title>Series 4.5 - Grant Programs - State of the Child Program, 1960-1981</mods:title>
           </mods:titleInfo>
-          <mods:typeOfResource>text</mods:typeOfResource>
+          <mods:typeOfResource>Text</mods:typeOfResource>
           <mods:originInfo>
             <mods:dateCreated>1960-1981</mods:dateCreated>
           </mods:originInfo>
@@ -25,20 +25,20 @@
           </mods:relatedItem>
           <mods:relatedItem displayLabel="component" type="host">
             <mods:name>Series 4.5 - Grant Programs - State of the Child Program, 1960-1981, 1960-1981</mods:name>
-            <mods:identifier>ref1524_yus</mods:identifier>
+            <mods:identifier>ba9da9bdb23740f5b5b4e32c328baa79</mods:identifier>
           </mods:relatedItem>
         </mods>
       </xmlData>
     </mdWrap>
   </dmdSec>
   <amdSec>
-    <techMD ID="1016">
+    <techMD ID="3825">
       <mdWrap MDTYPE="PREMIS:OBJECT">
         <xmlData>
           <object version="2.2" xmlns="info:lc/xmlns/premis-v2" xsi:schemaLocation="info:lc/xmlns/premis-v2 http://www.loc.gov/standards/premis/v2/premis-v2-2.xsd" xsi:type="file">
             <objectIdentifier>
               <objectIdentifierType>ArchivesSpace identifier</objectIdentifierType>
-              <objectIdentifierValue>1016</objectIdentifierValue>
+              <objectIdentifierValue>3825</objectIdentifierValue>
             </objectIdentifier>
             <objectCharacteristics>
               <fixity>
@@ -60,19 +60,19 @@
   </amdSec>
   <fileSec>
     <fileGrp USE="Image-Service">
-      <file AMDID="1016" GROUPID="1016" ID="1016">
+      <file AMDID="3825" GROUPID="1016" ID="3825">
         <FLocat xlink:href="http://storage.rockarch.org/45df58b1-877a-4cab-b061-e55b1b34505b-FCD001_095_00680.pdf"/>
       </file>
     </fileGrp>
   </fileSec>
   <structMap TYPE="logical">
     <div DMDID="1016" LABEL="Series 4.5 - Grant Programs - State of the Child Program, 1960-1981" ORDER="1" TYPE="item">
-      <fptr FILEID="1016"/>
+      <fptr FILEID="3825"/>
     </div>
   </structMap>
   <structMap TYPE="physical">
     <div DMDID="1016" LABEL="Series 4.5 - Grant Programs - State of the Child Program, 1960-1981" ORDER="1" TYPE="item">
-      <fptr FILEID="1016"/>
+      <fptr FILEID="3825"/>
     </div>
   </structMap>
 </mets>

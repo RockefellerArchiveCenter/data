@@ -7,7 +7,7 @@
           <mods:titleInfo>
             <mods:title>Grant Summaries by Institution (A-M)</mods:title>
           </mods:titleInfo>
-          <mods:typeOfResource>text</mods:typeOfResource>
+          <mods:typeOfResource>Text</mods:typeOfResource>
           <mods:originInfo>
             <mods:dateCreated>1949-1976</mods:dateCreated>
           </mods:originInfo>
@@ -25,20 +25,20 @@
           </mods:relatedItem>
           <mods:relatedItem displayLabel="component" type="host">
             <mods:name>Grant Summaries by Institution (A-M), 1949-1976</mods:name>
-            <mods:identifier>ref1086_0l8</mods:identifier>
+            <mods:identifier>4764b52edd3c40b1b152b5cd95d521bf</mods:identifier>
           </mods:relatedItem>
         </mods>
       </xmlData>
     </mdWrap>
   </dmdSec>
   <amdSec>
-    <techMD ID="580">
+    <techMD ID="3425">
       <mdWrap MDTYPE="PREMIS:OBJECT">
         <xmlData>
           <object version="2.2" xmlns="info:lc/xmlns/premis-v2" xsi:schemaLocation="info:lc/xmlns/premis-v2 http://www.loc.gov/standards/premis/v2/premis-v2-2.xsd" xsi:type="file">
             <objectIdentifier>
               <objectIdentifierType>ArchivesSpace identifier</objectIdentifierType>
-              <objectIdentifierValue>580</objectIdentifierValue>
+              <objectIdentifierValue>3425</objectIdentifierValue>
             </objectIdentifier>
             <objectCharacteristics>
               <fixity>
@@ -60,19 +60,19 @@
   </amdSec>
   <fileSec>
     <fileGrp USE="Image-Service">
-      <file AMDID="580" GROUPID="580" ID="580">
+      <file AMDID="3425" GROUPID="580" ID="3425">
         <FLocat xlink:href="http://storage.rockarch.org/978a430b-7b4f-4cac-983c-9f733d3d63aa-FCD001_042_00959.pdf"/>
       </file>
     </fileGrp>
   </fileSec>
   <structMap TYPE="logical">
     <div DMDID="580" LABEL="Grant Summaries by Institution (A-M)" ORDER="1" TYPE="item">
-      <fptr FILEID="580"/>
+      <fptr FILEID="3425"/>
     </div>
   </structMap>
   <structMap TYPE="physical">
     <div DMDID="580" LABEL="Grant Summaries by Institution (A-M)" ORDER="1" TYPE="item">
-      <fptr FILEID="580"/>
+      <fptr FILEID="3425"/>
     </div>
   </structMap>
 </mets>

@@ -7,7 +7,7 @@
           <mods:titleInfo>
             <mods:title>Presidential Search Committee</mods:title>
           </mods:titleInfo>
-          <mods:typeOfResource>text</mods:typeOfResource>
+          <mods:typeOfResource>Text</mods:typeOfResource>
           <mods:originInfo>
             <mods:dateCreated>1995-1996</mods:dateCreated>
           </mods:originInfo>
@@ -25,20 +25,20 @@
           </mods:relatedItem>
           <mods:relatedItem displayLabel="component" type="host">
             <mods:name>Presidential Search Committee, 1995-1996</mods:name>
-            <mods:identifier>ref1098_ach</mods:identifier>
+            <mods:identifier>7077a16b6c5c4c48ae089ff0cd599dd7</mods:identifier>
           </mods:relatedItem>
         </mods>
       </xmlData>
     </mdWrap>
   </dmdSec>
   <amdSec>
-    <techMD ID="600">
+    <techMD ID="3445">
       <mdWrap MDTYPE="PREMIS:OBJECT">
         <xmlData>
           <object version="2.2" xmlns="info:lc/xmlns/premis-v2" xsi:schemaLocation="info:lc/xmlns/premis-v2 http://www.loc.gov/standards/premis/v2/premis-v2-2.xsd" xsi:type="file">
             <objectIdentifier>
               <objectIdentifierType>ArchivesSpace identifier</objectIdentifierType>
-              <objectIdentifierValue>600</objectIdentifierValue>
+              <objectIdentifierValue>3445</objectIdentifierValue>
             </objectIdentifier>
             <objectCharacteristics>
               <fixity>
@@ -60,19 +60,19 @@
   </amdSec>
   <fileSec>
     <fileGrp USE="Image-Service">
-      <file AMDID="600" GROUPID="600" ID="600">
+      <file AMDID="3445" GROUPID="600" ID="3445">
         <FLocat xlink:href="http://storage.rockarch.org/8e331a81-6fdb-4cb0-a26a-1aab8e4e6499-FCD001_043_00739.pdf"/>
       </file>
     </fileGrp>
   </fileSec>
   <structMap TYPE="logical">
     <div DMDID="600" LABEL="Presidential Search Committee" ORDER="1" TYPE="item">
-      <fptr FILEID="600"/>
+      <fptr FILEID="3445"/>
     </div>
   </structMap>
   <structMap TYPE="physical">
     <div DMDID="600" LABEL="Presidential Search Committee" ORDER="1" TYPE="item">
-      <fptr FILEID="600"/>
+      <fptr FILEID="3445"/>
     </div>
   </structMap>
 </mets>

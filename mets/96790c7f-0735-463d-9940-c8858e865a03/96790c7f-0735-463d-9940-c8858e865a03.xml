@@ -7,7 +7,7 @@
           <mods:titleInfo>
             <mods:title>Minutes of Staff Luncheon</mods:title>
           </mods:titleInfo>
-          <mods:typeOfResource>text</mods:typeOfResource>
+          <mods:typeOfResource>Text</mods:typeOfResource>
           <mods:originInfo>
             <mods:dateCreated>6 July 1920 - 15 December 1920</mods:dateCreated>
           </mods:originInfo>
@@ -25,20 +25,20 @@
           </mods:relatedItem>
           <mods:relatedItem displayLabel="component" type="host">
             <mods:name>Minutes of Staff Luncheon, 6 July 1920 - 15 December 1920</mods:name>
-            <mods:identifier>ref786_yma</mods:identifier>
+            <mods:identifier>948cb7fb56c7449ca98fcbfd4d1872b6</mods:identifier>
           </mods:relatedItem>
         </mods>
       </xmlData>
     </mdWrap>
   </dmdSec>
   <amdSec>
-    <techMD ID="2010">
+    <techMD ID="4522">
       <mdWrap MDTYPE="PREMIS:OBJECT">
         <xmlData>
           <object version="2.2" xmlns="info:lc/xmlns/premis-v2" xsi:schemaLocation="info:lc/xmlns/premis-v2 http://www.loc.gov/standards/premis/v2/premis-v2-2.xsd" xsi:type="file">
             <objectIdentifier>
               <objectIdentifierType>ArchivesSpace identifier</objectIdentifierType>
-              <objectIdentifierValue>2010</objectIdentifierValue>
+              <objectIdentifierValue>4522</objectIdentifierValue>
             </objectIdentifier>
             <objectCharacteristics>
               <fixity>
@@ -59,20 +59,20 @@
     </techMD>
   </amdSec>
   <fileSec>
-    <fileGrp USE="Service-Edited">
-      <file AMDID="2010" GROUPID="2010" ID="2010">
+    <fileGrp USE="translation missing: en.enumerations.file_version_use_statement.service-edited">
+      <file AMDID="4522" GROUPID="2010" ID="4522">
         <FLocat xlink:href="http://storage.rockarch.org/96790c7f-0735-463d-9940-c8858e865a03-rac_rfdiaries_12-2_Embree_Edwin_1917-1922_012.pdf"/>
       </file>
     </fileGrp>
   </fileSec>
   <structMap TYPE="logical">
     <div DMDID="2010" LABEL="Minutes of Staff Luncheon" ORDER="1" TYPE="item">
-      <fptr FILEID="2010"/>
+      <fptr FILEID="4522"/>
     </div>
   </structMap>
   <structMap TYPE="physical">
     <div DMDID="2010" LABEL="Minutes of Staff Luncheon" ORDER="1" TYPE="item">
-      <fptr FILEID="2010"/>
+      <fptr FILEID="4522"/>
     </div>
   </structMap>
 </mets>

@@ -7,7 +7,7 @@
           <mods:titleInfo>
             <mods:title>Presidential Search Recommendations</mods:title>
           </mods:titleInfo>
-          <mods:typeOfResource>text</mods:typeOfResource>
+          <mods:typeOfResource>Text</mods:typeOfResource>
           <mods:originInfo>
             <mods:dateCreated>1995-1996</mods:dateCreated>
           </mods:originInfo>
@@ -25,20 +25,20 @@
           </mods:relatedItem>
           <mods:relatedItem displayLabel="component" type="host">
             <mods:name>Presidential Search Recommendations, 1995-1996</mods:name>
-            <mods:identifier>ref1099_684</mods:identifier>
+            <mods:identifier>43e06e68d22c44e6ba4a5d69839986d5</mods:identifier>
           </mods:relatedItem>
         </mods>
       </xmlData>
     </mdWrap>
   </dmdSec>
   <amdSec>
-    <techMD ID="599">
+    <techMD ID="3444">
       <mdWrap MDTYPE="PREMIS:OBJECT">
         <xmlData>
           <object version="2.2" xmlns="info:lc/xmlns/premis-v2" xsi:schemaLocation="info:lc/xmlns/premis-v2 http://www.loc.gov/standards/premis/v2/premis-v2-2.xsd" xsi:type="file">
             <objectIdentifier>
               <objectIdentifierType>ArchivesSpace identifier</objectIdentifierType>
-              <objectIdentifierValue>599</objectIdentifierValue>
+              <objectIdentifierValue>3444</objectIdentifierValue>
             </objectIdentifier>
             <objectCharacteristics>
               <fixity>
@@ -60,19 +60,19 @@
   </amdSec>
   <fileSec>
     <fileGrp USE="Image-Service">
-      <file AMDID="599" GROUPID="599" ID="599">
+      <file AMDID="3444" GROUPID="599" ID="3444">
         <FLocat xlink:href="http://storage.rockarch.org/c1a54538-1778-4f2e-a6ce-dff8bc49dfb7-FCD001_043_00908.pdf"/>
       </file>
     </fileGrp>
   </fileSec>
   <structMap TYPE="logical">
     <div DMDID="599" LABEL="Presidential Search Recommendations" ORDER="1" TYPE="item">
-      <fptr FILEID="599"/>
+      <fptr FILEID="3444"/>
     </div>
   </structMap>
   <structMap TYPE="physical">
     <div DMDID="599" LABEL="Presidential Search Recommendations" ORDER="1" TYPE="item">
-      <fptr FILEID="599"/>
+      <fptr FILEID="3444"/>
     </div>
   </structMap>
 </mets>

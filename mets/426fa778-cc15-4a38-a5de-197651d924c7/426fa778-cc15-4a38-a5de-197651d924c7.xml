@@ -7,7 +7,7 @@
           <mods:titleInfo>
             <mods:title>Population Resource Center</mods:title>
           </mods:titleInfo>
-          <mods:typeOfResource>text</mods:typeOfResource>
+          <mods:typeOfResource>Text</mods:typeOfResource>
           <mods:originInfo>
             <mods:dateCreated>1990-1991</mods:dateCreated>
           </mods:originInfo>
@@ -25,20 +25,20 @@
           </mods:relatedItem>
           <mods:relatedItem displayLabel="component" type="host">
             <mods:name>Population Resource Center, 1990-1991</mods:name>
-            <mods:identifier>ref1447_7ay</mods:identifier>
+            <mods:identifier>a93057051e5e4e19b262393c240fe490</mods:identifier>
           </mods:relatedItem>
         </mods>
       </xmlData>
     </mdWrap>
   </dmdSec>
   <amdSec>
-    <techMD ID="940">
+    <techMD ID="3766">
       <mdWrap MDTYPE="PREMIS:OBJECT">
         <xmlData>
           <object version="2.2" xmlns="info:lc/xmlns/premis-v2" xsi:schemaLocation="info:lc/xmlns/premis-v2 http://www.loc.gov/standards/premis/v2/premis-v2-2.xsd" xsi:type="file">
             <objectIdentifier>
               <objectIdentifierType>ArchivesSpace identifier</objectIdentifierType>
-              <objectIdentifierValue>940</objectIdentifierValue>
+              <objectIdentifierValue>3766</objectIdentifierValue>
             </objectIdentifier>
             <objectCharacteristics>
               <fixity>
@@ -60,19 +60,19 @@
   </amdSec>
   <fileSec>
     <fileGrp USE="Image-Service">
-      <file AMDID="940" GROUPID="940" ID="940">
+      <file AMDID="3766" GROUPID="940" ID="3766">
         <FLocat xlink:href="http://storage.rockarch.org/426fa778-cc15-4a38-a5de-197651d924c7-FCD001_084_00071.pdf"/>
       </file>
     </fileGrp>
   </fileSec>
   <structMap TYPE="logical">
     <div DMDID="940" LABEL="Population Resource Center" ORDER="1" TYPE="item">
-      <fptr FILEID="940"/>
+      <fptr FILEID="3766"/>
     </div>
   </structMap>
   <structMap TYPE="physical">
     <div DMDID="940" LABEL="Population Resource Center" ORDER="1" TYPE="item">
-      <fptr FILEID="940"/>
+      <fptr FILEID="3766"/>
     </div>
   </structMap>
 </mets>

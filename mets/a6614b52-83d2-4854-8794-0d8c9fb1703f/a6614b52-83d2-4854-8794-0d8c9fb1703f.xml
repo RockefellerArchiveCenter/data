@@ -7,7 +7,7 @@
           <mods:titleInfo>
             <mods:title>Riverdale Children's Association</mods:title>
           </mods:titleInfo>
-          <mods:typeOfResource>text</mods:typeOfResource>
+          <mods:typeOfResource>Text</mods:typeOfResource>
           <mods:originInfo>
             <mods:dateCreated>1979-1982</mods:dateCreated>
           </mods:originInfo>
@@ -25,20 +25,20 @@
           </mods:relatedItem>
           <mods:relatedItem displayLabel="component" type="host">
             <mods:name>Riverdale Children's Association, 1979-1982</mods:name>
-            <mods:identifier>ref1455_czp</mods:identifier>
+            <mods:identifier>7df87b05601145f6a43cb5929b454bcd</mods:identifier>
           </mods:relatedItem>
         </mods>
       </xmlData>
     </mdWrap>
   </dmdSec>
   <amdSec>
-    <techMD ID="946">
+    <techMD ID="3772">
       <mdWrap MDTYPE="PREMIS:OBJECT">
         <xmlData>
           <object version="2.2" xmlns="info:lc/xmlns/premis-v2" xsi:schemaLocation="info:lc/xmlns/premis-v2 http://www.loc.gov/standards/premis/v2/premis-v2-2.xsd" xsi:type="file">
             <objectIdentifier>
               <objectIdentifierType>ArchivesSpace identifier</objectIdentifierType>
-              <objectIdentifierValue>946</objectIdentifierValue>
+              <objectIdentifierValue>3772</objectIdentifierValue>
             </objectIdentifier>
             <objectCharacteristics>
               <fixity>
@@ -60,19 +60,19 @@
   </amdSec>
   <fileSec>
     <fileGrp USE="Image-Service">
-      <file AMDID="946" GROUPID="946" ID="946">
+      <file AMDID="3772" GROUPID="946" ID="3772">
         <FLocat xlink:href="http://storage.rockarch.org/a6614b52-83d2-4854-8794-0d8c9fb1703f-FCD001_085_00357.pdf"/>
       </file>
     </fileGrp>
   </fileSec>
   <structMap TYPE="logical">
     <div DMDID="946" LABEL="Riverdale Children's Association" ORDER="1" TYPE="item">
-      <fptr FILEID="946"/>
+      <fptr FILEID="3772"/>
     </div>
   </structMap>
   <structMap TYPE="physical">
     <div DMDID="946" LABEL="Riverdale Children's Association" ORDER="1" TYPE="item">
-      <fptr FILEID="946"/>
+      <fptr FILEID="3772"/>
     </div>
   </structMap>
 </mets>

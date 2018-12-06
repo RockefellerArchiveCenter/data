@@ -7,7 +7,7 @@
           <mods:titleInfo>
             <mods:title>Pennsylvania State University</mods:title>
           </mods:titleInfo>
-          <mods:typeOfResource>text</mods:typeOfResource>
+          <mods:typeOfResource>Text</mods:typeOfResource>
           <mods:originInfo>
             <mods:dateCreated>1985-1987-1989-1991</mods:dateCreated>
           </mods:originInfo>
@@ -25,20 +25,20 @@
           </mods:relatedItem>
           <mods:relatedItem displayLabel="component" type="host">
             <mods:name>Pennsylvania State University, 1985-1987-1989-1991</mods:name>
-            <mods:identifier>ref1445_753</mods:identifier>
+            <mods:identifier>452d59f05f914c77928411e708cce6de</mods:identifier>
           </mods:relatedItem>
         </mods>
       </xmlData>
     </mdWrap>
   </dmdSec>
   <amdSec>
-    <techMD ID="938">
+    <techMD ID="3764">
       <mdWrap MDTYPE="PREMIS:OBJECT">
         <xmlData>
           <object version="2.2" xmlns="info:lc/xmlns/premis-v2" xsi:schemaLocation="info:lc/xmlns/premis-v2 http://www.loc.gov/standards/premis/v2/premis-v2-2.xsd" xsi:type="file">
             <objectIdentifier>
               <objectIdentifierType>ArchivesSpace identifier</objectIdentifierType>
-              <objectIdentifierValue>938</objectIdentifierValue>
+              <objectIdentifierValue>3764</objectIdentifierValue>
             </objectIdentifier>
             <objectCharacteristics>
               <fixity>
@@ -60,19 +60,19 @@
   </amdSec>
   <fileSec>
     <fileGrp USE="Image-Service">
-      <file AMDID="938" GROUPID="938" ID="938">
+      <file AMDID="3764" GROUPID="938" ID="3764">
         <FLocat xlink:href="http://storage.rockarch.org/652e29a1-bc2b-4a30-bce2-60ab6740d702-FCD001_084_00001.pdf"/>
       </file>
     </fileGrp>
   </fileSec>
   <structMap TYPE="logical">
     <div DMDID="938" LABEL="Pennsylvania State University" ORDER="1" TYPE="item">
-      <fptr FILEID="938"/>
+      <fptr FILEID="3764"/>
     </div>
   </structMap>
   <structMap TYPE="physical">
     <div DMDID="938" LABEL="Pennsylvania State University" ORDER="1" TYPE="item">
-      <fptr FILEID="938"/>
+      <fptr FILEID="3764"/>
     </div>
   </structMap>
 </mets>

@@ -7,7 +7,7 @@
           <mods:titleInfo>
             <mods:title>Colorado Children's Campaign</mods:title>
           </mods:titleInfo>
-          <mods:typeOfResource>text</mods:typeOfResource>
+          <mods:typeOfResource>Text</mods:typeOfResource>
           <mods:originInfo>
             <mods:dateCreated>1988</mods:dateCreated>
           </mods:originInfo>
@@ -25,20 +25,20 @@
           </mods:relatedItem>
           <mods:relatedItem displayLabel="component" type="host">
             <mods:name>Colorado Children's Campaign, 1988</mods:name>
-            <mods:identifier>ref1281_yms</mods:identifier>
+            <mods:identifier>533ee6aeb847492cbb5f9d0cd5b8c079</mods:identifier>
           </mods:relatedItem>
         </mods>
       </xmlData>
     </mdWrap>
   </dmdSec>
   <amdSec>
-    <techMD ID="765">
+    <techMD ID="3597">
       <mdWrap MDTYPE="PREMIS:OBJECT">
         <xmlData>
           <object version="2.2" xmlns="info:lc/xmlns/premis-v2" xsi:schemaLocation="info:lc/xmlns/premis-v2 http://www.loc.gov/standards/premis/v2/premis-v2-2.xsd" xsi:type="file">
             <objectIdentifier>
               <objectIdentifierType>ArchivesSpace identifier</objectIdentifierType>
-              <objectIdentifierValue>765</objectIdentifierValue>
+              <objectIdentifierValue>3597</objectIdentifierValue>
             </objectIdentifier>
             <objectCharacteristics>
               <fixity>
@@ -60,19 +60,19 @@
   </amdSec>
   <fileSec>
     <fileGrp USE="Image-Service">
-      <file AMDID="765" GROUPID="765" ID="765">
+      <file AMDID="3597" GROUPID="765" ID="3597">
         <FLocat xlink:href="http://storage.rockarch.org/763784de-bde6-4eaa-aa50-b7abc7ed4f63-FCD001_062_00251.pdf"/>
       </file>
     </fileGrp>
   </fileSec>
   <structMap TYPE="logical">
     <div DMDID="765" LABEL="Colorado Children's Campaign" ORDER="1" TYPE="item">
-      <fptr FILEID="765"/>
+      <fptr FILEID="3597"/>
     </div>
   </structMap>
   <structMap TYPE="physical">
     <div DMDID="765" LABEL="Colorado Children's Campaign" ORDER="1" TYPE="item">
-      <fptr FILEID="765"/>
+      <fptr FILEID="3597"/>
     </div>
   </structMap>
 </mets>

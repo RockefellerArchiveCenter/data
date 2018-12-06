@@ -7,7 +7,7 @@
           <mods:titleInfo>
             <mods:title>General Ledgers</mods:title>
           </mods:titleInfo>
-          <mods:typeOfResource>text</mods:typeOfResource>
+          <mods:typeOfResource>Text</mods:typeOfResource>
           <mods:originInfo>
             <mods:dateCreated>April 1, 1980-March 31, 1981</mods:dateCreated>
           </mods:originInfo>
@@ -25,20 +25,20 @@
           </mods:relatedItem>
           <mods:relatedItem displayLabel="component" type="host">
             <mods:name>General Ledgers, April 1, 1980-March 31, 1981</mods:name>
-            <mods:identifier>ref963_1pe</mods:identifier>
+            <mods:identifier>18759a2e80864c94a67473a28bd9a63d</mods:identifier>
           </mods:relatedItem>
         </mods>
       </xmlData>
     </mdWrap>
   </dmdSec>
   <amdSec>
-    <techMD ID="509">
+    <techMD ID="3358">
       <mdWrap MDTYPE="PREMIS:OBJECT">
         <xmlData>
           <object version="2.2" xmlns="info:lc/xmlns/premis-v2" xsi:schemaLocation="info:lc/xmlns/premis-v2 http://www.loc.gov/standards/premis/v2/premis-v2-2.xsd" xsi:type="file">
             <objectIdentifier>
               <objectIdentifierType>ArchivesSpace identifier</objectIdentifierType>
-              <objectIdentifierValue>509</objectIdentifierValue>
+              <objectIdentifierValue>3358</objectIdentifierValue>
             </objectIdentifier>
             <objectCharacteristics>
               <fixity>
@@ -60,19 +60,19 @@
   </amdSec>
   <fileSec>
     <fileGrp USE="Image-Service">
-      <file AMDID="509" GROUPID="509" ID="509">
+      <file AMDID="3358" GROUPID="509" ID="3358">
         <FLocat xlink:href="http://storage.rockarch.org/76a6b20b-b6a0-4ae1-93a6-d8777d3834e1-FCD001_035_00101.pdf"/>
       </file>
     </fileGrp>
   </fileSec>
   <structMap TYPE="logical">
     <div DMDID="509" LABEL="General Ledgers" ORDER="1" TYPE="item">
-      <fptr FILEID="509"/>
+      <fptr FILEID="3358"/>
     </div>
   </structMap>
   <structMap TYPE="physical">
     <div DMDID="509" LABEL="General Ledgers" ORDER="1" TYPE="item">
-      <fptr FILEID="509"/>
+      <fptr FILEID="3358"/>
     </div>
   </structMap>
 </mets>

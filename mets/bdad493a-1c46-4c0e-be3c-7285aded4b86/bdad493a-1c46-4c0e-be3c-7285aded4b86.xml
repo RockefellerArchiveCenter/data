@@ -7,7 +7,7 @@
           <mods:titleInfo>
             <mods:title>Docket of Business</mods:title>
           </mods:titleInfo>
-          <mods:typeOfResource>text</mods:typeOfResource>
+          <mods:typeOfResource>Text</mods:typeOfResource>
           <mods:originInfo>
             <mods:dateCreated>1920</mods:dateCreated>
           </mods:originInfo>
@@ -25,20 +25,20 @@
           </mods:relatedItem>
           <mods:relatedItem displayLabel="component" type="host">
             <mods:name>Docket of Business, 1920</mods:name>
-            <mods:identifier>ref794_lnv</mods:identifier>
+            <mods:identifier>119cd82813404c69a5dec66d32b2b04e</mods:identifier>
           </mods:relatedItem>
         </mods>
       </xmlData>
     </mdWrap>
   </dmdSec>
   <amdSec>
-    <techMD ID="1990">
+    <techMD ID="4502">
       <mdWrap MDTYPE="PREMIS:OBJECT">
         <xmlData>
           <object version="2.2" xmlns="info:lc/xmlns/premis-v2" xsi:schemaLocation="info:lc/xmlns/premis-v2 http://www.loc.gov/standards/premis/v2/premis-v2-2.xsd" xsi:type="file">
             <objectIdentifier>
               <objectIdentifierType>ArchivesSpace identifier</objectIdentifierType>
-              <objectIdentifierValue>1990</objectIdentifierValue>
+              <objectIdentifierValue>4502</objectIdentifierValue>
             </objectIdentifier>
             <objectCharacteristics>
               <fixity>
@@ -59,20 +59,20 @@
     </techMD>
   </amdSec>
   <fileSec>
-    <fileGrp USE="Service-Edited">
-      <file AMDID="1990" GROUPID="1990" ID="1990">
+    <fileGrp USE="translation missing: en.enumerations.file_version_use_statement.service-edited">
+      <file AMDID="4502" GROUPID="1990" ID="4502">
         <FLocat xlink:href="http://storage.rockarch.org/bdad493a-1c46-4c0e-be3c-7285aded4b86-rac_rfdiaries_12-2_Embree_Edwin_1917-1922_018.pdf"/>
       </file>
     </fileGrp>
   </fileSec>
   <structMap TYPE="logical">
     <div DMDID="1990" LABEL="Docket of Business" ORDER="1" TYPE="item">
-      <fptr FILEID="1990"/>
+      <fptr FILEID="4502"/>
     </div>
   </structMap>
   <structMap TYPE="physical">
     <div DMDID="1990" LABEL="Docket of Business" ORDER="1" TYPE="item">
-      <fptr FILEID="1990"/>
+      <fptr FILEID="4502"/>
     </div>
   </structMap>
 </mets>

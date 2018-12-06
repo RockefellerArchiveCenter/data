@@ -7,7 +7,7 @@
           <mods:titleInfo>
             <mods:title>1940 George K. Strode Acting</mods:title>
           </mods:titleInfo>
-          <mods:typeOfResource>text</mods:typeOfResource>
+          <mods:typeOfResource>Text</mods:typeOfResource>
           <mods:originInfo>
             <mods:dateCreated>1940</mods:dateCreated>
           </mods:originInfo>
@@ -32,13 +32,13 @@
     </mdWrap>
   </dmdSec>
   <amdSec>
-    <techMD ID="2308">
+    <techMD ID="4820">
       <mdWrap MDTYPE="PREMIS:OBJECT">
         <xmlData>
           <object version="2.2" xmlns="info:lc/xmlns/premis-v2" xsi:schemaLocation="info:lc/xmlns/premis-v2 http://www.loc.gov/standards/premis/v2/premis-v2-2.xsd" xsi:type="file">
             <objectIdentifier>
               <objectIdentifierType>ArchivesSpace identifier</objectIdentifierType>
-              <objectIdentifierValue>2308</objectIdentifierValue>
+              <objectIdentifierValue>4820</objectIdentifierValue>
             </objectIdentifier>
             <objectCharacteristics>
               <fixity>
@@ -60,19 +60,19 @@
   </amdSec>
   <fileSec>
     <fileGrp USE="translation missing: en.enumerations.file_version_use_statement.service-edited">
-      <file AMDID="2308" GROUPID="2308" ID="2308">
+      <file AMDID="4820" GROUPID="2308" ID="4820">
         <FLocat xlink:href="http://storage.rockarch.org/25194fdf-785e-44a5-ab4d-3f6b50dd90df-rac_rfdiaries_12-2_sawyer_1924-1944_032.pdf"/>
       </file>
     </fileGrp>
   </fileSec>
   <structMap TYPE="logical">
     <div DMDID="2308" LABEL="1940 George K. Strode Acting" ORDER="1" TYPE="item">
-      <fptr FILEID="2308"/>
+      <fptr FILEID="4820"/>
     </div>
   </structMap>
   <structMap TYPE="physical">
     <div DMDID="2308" LABEL="1940 George K. Strode Acting" ORDER="1" TYPE="item">
-      <fptr FILEID="2308"/>
+      <fptr FILEID="4820"/>
     </div>
   </structMap>
 </mets>

@@ -7,7 +7,7 @@
           <mods:titleInfo>
             <mods:title>Center for Family Life in Sunset Park</mods:title>
           </mods:titleInfo>
-          <mods:typeOfResource>text</mods:typeOfResource>
+          <mods:typeOfResource>Text</mods:typeOfResource>
           <mods:originInfo>
             <mods:dateCreated>1984-1986</mods:dateCreated>
           </mods:originInfo>
@@ -25,20 +25,20 @@
           </mods:relatedItem>
           <mods:relatedItem displayLabel="component" type="host">
             <mods:name>Center for Family Life in Sunset Park, 1984-1986</mods:name>
-            <mods:identifier>ref1236_fvl</mods:identifier>
+            <mods:identifier>036eea81c5ad41a981eb877639edcc60</mods:identifier>
           </mods:relatedItem>
         </mods>
       </xmlData>
     </mdWrap>
   </dmdSec>
   <amdSec>
-    <techMD ID="729">
+    <techMD ID="3562">
       <mdWrap MDTYPE="PREMIS:OBJECT">
         <xmlData>
           <object version="2.2" xmlns="info:lc/xmlns/premis-v2" xsi:schemaLocation="info:lc/xmlns/premis-v2 http://www.loc.gov/standards/premis/v2/premis-v2-2.xsd" xsi:type="file">
             <objectIdentifier>
               <objectIdentifierType>ArchivesSpace identifier</objectIdentifierType>
-              <objectIdentifierValue>729</objectIdentifierValue>
+              <objectIdentifierValue>3562</objectIdentifierValue>
             </objectIdentifier>
             <objectCharacteristics>
               <fixity>
@@ -60,19 +60,19 @@
   </amdSec>
   <fileSec>
     <fileGrp USE="Image-Service">
-      <file AMDID="729" GROUPID="729" ID="729">
+      <file AMDID="3562" GROUPID="729" ID="3562">
         <FLocat xlink:href="http://storage.rockarch.org/0d1e1400-0eaa-49b5-a56e-030f6b916917-FCD001_056_00003.pdf"/>
       </file>
     </fileGrp>
   </fileSec>
   <structMap TYPE="logical">
     <div DMDID="729" LABEL="Center for Family Life in Sunset Park" ORDER="1" TYPE="item">
-      <fptr FILEID="729"/>
+      <fptr FILEID="3562"/>
     </div>
   </structMap>
   <structMap TYPE="physical">
     <div DMDID="729" LABEL="Center for Family Life in Sunset Park" ORDER="1" TYPE="item">
-      <fptr FILEID="729"/>
+      <fptr FILEID="3562"/>
     </div>
   </structMap>
 </mets>

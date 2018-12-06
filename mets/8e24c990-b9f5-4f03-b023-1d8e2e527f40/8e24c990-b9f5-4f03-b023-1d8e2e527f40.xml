@@ -7,7 +7,7 @@
           <mods:titleInfo>
             <mods:title>American Reading Council</mods:title>
           </mods:titleInfo>
-          <mods:typeOfResource>text</mods:typeOfResource>
+          <mods:typeOfResource>Text</mods:typeOfResource>
           <mods:originInfo>
             <mods:dateCreated>1986-1989</mods:dateCreated>
           </mods:originInfo>
@@ -25,20 +25,20 @@
           </mods:relatedItem>
           <mods:relatedItem displayLabel="component" type="host">
             <mods:name>American Reading Council, 1986-1989</mods:name>
-            <mods:identifier>ref1222_7yi</mods:identifier>
+            <mods:identifier>750d81179ee64288add4d75b15130b8f</mods:identifier>
           </mods:relatedItem>
         </mods>
       </xmlData>
     </mdWrap>
   </dmdSec>
   <amdSec>
-    <techMD ID="716">
+    <techMD ID="3550">
       <mdWrap MDTYPE="PREMIS:OBJECT">
         <xmlData>
           <object version="2.2" xmlns="info:lc/xmlns/premis-v2" xsi:schemaLocation="info:lc/xmlns/premis-v2 http://www.loc.gov/standards/premis/v2/premis-v2-2.xsd" xsi:type="file">
             <objectIdentifier>
               <objectIdentifierType>ArchivesSpace identifier</objectIdentifierType>
-              <objectIdentifierValue>716</objectIdentifierValue>
+              <objectIdentifierValue>3550</objectIdentifierValue>
             </objectIdentifier>
             <objectCharacteristics>
               <fixity>
@@ -60,19 +60,19 @@
   </amdSec>
   <fileSec>
     <fileGrp USE="Image-Service">
-      <file AMDID="716" GROUPID="716" ID="716">
+      <file AMDID="3550" GROUPID="716" ID="3550">
         <FLocat xlink:href="http://storage.rockarch.org/8e24c990-b9f5-4f03-b023-1d8e2e527f40-FCD001_054_00368.pdf"/>
       </file>
     </fileGrp>
   </fileSec>
   <structMap TYPE="logical">
     <div DMDID="716" LABEL="American Reading Council" ORDER="1" TYPE="item">
-      <fptr FILEID="716"/>
+      <fptr FILEID="3550"/>
     </div>
   </structMap>
   <structMap TYPE="physical">
     <div DMDID="716" LABEL="American Reading Council" ORDER="1" TYPE="item">
-      <fptr FILEID="716"/>
+      <fptr FILEID="3550"/>
     </div>
   </structMap>
 </mets>

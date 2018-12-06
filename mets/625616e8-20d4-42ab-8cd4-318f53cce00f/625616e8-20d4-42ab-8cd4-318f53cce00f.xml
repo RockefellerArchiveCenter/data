@@ -7,7 +7,7 @@
           <mods:titleInfo>
             <mods:title>National Committee for Adoption</mods:title>
           </mods:titleInfo>
-          <mods:typeOfResource>text</mods:typeOfResource>
+          <mods:typeOfResource>Text</mods:typeOfResource>
           <mods:originInfo>
             <mods:dateCreated>1988-1991</mods:dateCreated>
           </mods:originInfo>
@@ -25,20 +25,20 @@
           </mods:relatedItem>
           <mods:relatedItem displayLabel="component" type="host">
             <mods:name>National Committee for Adoption, 1988-1991</mods:name>
-            <mods:identifier>ref1403_zt5</mods:identifier>
+            <mods:identifier>99e7172b02d140d48712cb15cf057743</mods:identifier>
           </mods:relatedItem>
         </mods>
       </xmlData>
     </mdWrap>
   </dmdSec>
   <amdSec>
-    <techMD ID="897">
+    <techMD ID="3726">
       <mdWrap MDTYPE="PREMIS:OBJECT">
         <xmlData>
           <object version="2.2" xmlns="info:lc/xmlns/premis-v2" xsi:schemaLocation="info:lc/xmlns/premis-v2 http://www.loc.gov/standards/premis/v2/premis-v2-2.xsd" xsi:type="file">
             <objectIdentifier>
               <objectIdentifierType>ArchivesSpace identifier</objectIdentifierType>
-              <objectIdentifierValue>897</objectIdentifierValue>
+              <objectIdentifierValue>3726</objectIdentifierValue>
             </objectIdentifier>
             <objectCharacteristics>
               <fixity>
@@ -60,19 +60,19 @@
   </amdSec>
   <fileSec>
     <fileGrp USE="Image-Service">
-      <file AMDID="897" GROUPID="897" ID="897">
+      <file AMDID="3726" GROUPID="897" ID="3726">
         <FLocat xlink:href="http://storage.rockarch.org/625616e8-20d4-42ab-8cd4-318f53cce00f-FCD001_079_00001.pdf"/>
       </file>
     </fileGrp>
   </fileSec>
   <structMap TYPE="logical">
     <div DMDID="897" LABEL="National Committee for Adoption" ORDER="1" TYPE="item">
-      <fptr FILEID="897"/>
+      <fptr FILEID="3726"/>
     </div>
   </structMap>
   <structMap TYPE="physical">
     <div DMDID="897" LABEL="National Committee for Adoption" ORDER="1" TYPE="item">
-      <fptr FILEID="897"/>
+      <fptr FILEID="3726"/>
     </div>
   </structMap>
 </mets>

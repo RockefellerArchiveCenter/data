@@ -7,7 +7,7 @@
           <mods:titleInfo>
             <mods:title>Trip to Far East - Index</mods:title>
           </mods:titleInfo>
-          <mods:typeOfResource>text</mods:typeOfResource>
+          <mods:typeOfResource>Text</mods:typeOfResource>
           <mods:originInfo>
             <mods:dateCreated>1955 April 15-June 15</mods:dateCreated>
           </mods:originInfo>
@@ -25,20 +25,20 @@
           </mods:relatedItem>
           <mods:relatedItem displayLabel="component" type="host">
             <mods:name>Trip to Far East - Index, 1955 April 15-June 15</mods:name>
-            <mods:identifier>ref118_yrz</mods:identifier>
+            <mods:identifier>31ea1eafbaab42d0b29718b00be1e7cc</mods:identifier>
           </mods:relatedItem>
         </mods>
       </xmlData>
     </mdWrap>
   </dmdSec>
   <amdSec>
-    <techMD ID="1598">
+    <techMD ID="4261">
       <mdWrap MDTYPE="PREMIS:OBJECT">
         <xmlData>
           <object version="2.2" xmlns="info:lc/xmlns/premis-v2" xsi:schemaLocation="info:lc/xmlns/premis-v2 http://www.loc.gov/standards/premis/v2/premis-v2-2.xsd" xsi:type="file">
             <objectIdentifier>
               <objectIdentifierType>ArchivesSpace identifier</objectIdentifierType>
-              <objectIdentifierValue>1598</objectIdentifierValue>
+              <objectIdentifierValue>4261</objectIdentifierValue>
             </objectIdentifier>
             <objectCharacteristics>
               <fixity>
@@ -59,20 +59,20 @@
     </techMD>
   </amdSec>
   <fileSec>
-    <fileGrp USE="Service-Edited">
-      <file AMDID="1598" GROUPID="1598" ID="1598">
+    <fileGrp USE="translation missing: en.enumerations.file_version_use_statement.service-edited">
+      <file AMDID="4261" GROUPID="1598" ID="4261">
         <FLocat xlink:href="http://storage.rockarch.org/3ace0513-95f6-40f6-bae5-ec705cc7ee01-rac_rfdiaries_12-2_fahs_1946-1961_055.pdf"/>
       </file>
     </fileGrp>
   </fileSec>
   <structMap TYPE="logical">
     <div DMDID="1598" LABEL="Trip to Far East - Index" ORDER="1" TYPE="item">
-      <fptr FILEID="1598"/>
+      <fptr FILEID="4261"/>
     </div>
   </structMap>
   <structMap TYPE="physical">
     <div DMDID="1598" LABEL="Trip to Far East - Index" ORDER="1" TYPE="item">
-      <fptr FILEID="1598"/>
+      <fptr FILEID="4261"/>
     </div>
   </structMap>
 </mets>

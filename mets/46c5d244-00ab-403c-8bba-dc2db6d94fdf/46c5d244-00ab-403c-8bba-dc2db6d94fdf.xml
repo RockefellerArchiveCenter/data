@@ -7,7 +7,7 @@
           <mods:titleInfo>
             <mods:title>American Enterprise Institute - Seminar Report</mods:title>
           </mods:titleInfo>
-          <mods:typeOfResource>text</mods:typeOfResource>
+          <mods:typeOfResource>Text</mods:typeOfResource>
           <mods:originInfo>
             <mods:dateCreated>1990</mods:dateCreated>
           </mods:originInfo>
@@ -25,20 +25,20 @@
           </mods:relatedItem>
           <mods:relatedItem displayLabel="component" type="host">
             <mods:name>American Enterprise Institute - Seminar Report, 1990</mods:name>
-            <mods:identifier>ref1217_6ad</mods:identifier>
+            <mods:identifier>75118daeda2c4ca89dce9be0d0319944</mods:identifier>
           </mods:relatedItem>
         </mods>
       </xmlData>
     </mdWrap>
   </dmdSec>
   <amdSec>
-    <techMD ID="711">
+    <techMD ID="3545">
       <mdWrap MDTYPE="PREMIS:OBJECT">
         <xmlData>
           <object version="2.2" xmlns="info:lc/xmlns/premis-v2" xsi:schemaLocation="info:lc/xmlns/premis-v2 http://www.loc.gov/standards/premis/v2/premis-v2-2.xsd" xsi:type="file">
             <objectIdentifier>
               <objectIdentifierType>ArchivesSpace identifier</objectIdentifierType>
-              <objectIdentifierValue>711</objectIdentifierValue>
+              <objectIdentifierValue>3545</objectIdentifierValue>
             </objectIdentifier>
             <objectCharacteristics>
               <fixity>
@@ -60,19 +60,19 @@
   </amdSec>
   <fileSec>
     <fileGrp USE="Image-Service">
-      <file AMDID="711" GROUPID="711" ID="711">
+      <file AMDID="3545" GROUPID="711" ID="3545">
         <FLocat xlink:href="http://storage.rockarch.org/46c5d244-00ab-403c-8bba-dc2db6d94fdf-FCD001_053_00001.pdf"/>
       </file>
     </fileGrp>
   </fileSec>
   <structMap TYPE="logical">
     <div DMDID="711" LABEL="American Enterprise Institute - Seminar Report" ORDER="1" TYPE="item">
-      <fptr FILEID="711"/>
+      <fptr FILEID="3545"/>
     </div>
   </structMap>
   <structMap TYPE="physical">
     <div DMDID="711" LABEL="American Enterprise Institute - Seminar Report" ORDER="1" TYPE="item">
-      <fptr FILEID="711"/>
+      <fptr FILEID="3545"/>
     </div>
   </structMap>
 </mets>

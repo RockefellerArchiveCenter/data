@@ -7,7 +7,7 @@
           <mods:titleInfo>
             <mods:title>State of the Child Report - Memoranda</mods:title>
           </mods:titleInfo>
-          <mods:typeOfResource>text</mods:typeOfResource>
+          <mods:typeOfResource>Text</mods:typeOfResource>
           <mods:originInfo>
             <mods:dateCreated>1978</mods:dateCreated>
           </mods:originInfo>
@@ -25,20 +25,20 @@
           </mods:relatedItem>
           <mods:relatedItem displayLabel="component" type="host">
             <mods:name>State of the Child Report - Memoranda, 1978</mods:name>
-            <mods:identifier>ref1575_1xs</mods:identifier>
+            <mods:identifier>0406830e3357466b981152d8699d49f1</mods:identifier>
           </mods:relatedItem>
         </mods>
       </xmlData>
     </mdWrap>
   </dmdSec>
   <amdSec>
-    <techMD ID="1041">
+    <techMD ID="3850">
       <mdWrap MDTYPE="PREMIS:OBJECT">
         <xmlData>
           <object version="2.2" xmlns="info:lc/xmlns/premis-v2" xsi:schemaLocation="info:lc/xmlns/premis-v2 http://www.loc.gov/standards/premis/v2/premis-v2-2.xsd" xsi:type="file">
             <objectIdentifier>
               <objectIdentifierType>ArchivesSpace identifier</objectIdentifierType>
-              <objectIdentifierValue>1041</objectIdentifierValue>
+              <objectIdentifierValue>3850</objectIdentifierValue>
             </objectIdentifier>
             <objectCharacteristics>
               <fixity>
@@ -60,19 +60,19 @@
   </amdSec>
   <fileSec>
     <fileGrp USE="Image-Service">
-      <file AMDID="1041" GROUPID="1041" ID="1041">
+      <file AMDID="3850" GROUPID="1041" ID="3850">
         <FLocat xlink:href="http://storage.rockarch.org/122f0a33-aee2-4310-adb8-57781aa55cea-FCD001_100_00294.pdf"/>
       </file>
     </fileGrp>
   </fileSec>
   <structMap TYPE="logical">
     <div DMDID="1041" LABEL="State of the Child Report - Memoranda" ORDER="1" TYPE="item">
-      <fptr FILEID="1041"/>
+      <fptr FILEID="3850"/>
     </div>
   </structMap>
   <structMap TYPE="physical">
     <div DMDID="1041" LABEL="State of the Child Report - Memoranda" ORDER="1" TYPE="item">
-      <fptr FILEID="1041"/>
+      <fptr FILEID="3850"/>
     </div>
   </structMap>
 </mets>

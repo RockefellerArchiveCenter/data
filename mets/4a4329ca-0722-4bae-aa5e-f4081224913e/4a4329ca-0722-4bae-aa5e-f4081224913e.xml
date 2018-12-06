@@ -7,7 +7,7 @@
           <mods:titleInfo>
             <mods:title>1912 Itinerary of the Administrative Secretary through Bell county, Kentucky</mods:title>
           </mods:titleInfo>
-          <mods:typeOfResource>text</mods:typeOfResource>
+          <mods:typeOfResource>Text</mods:typeOfResource>
           <mods:originInfo>
             <mods:dateCreated>October 1912</mods:dateCreated>
           </mods:originInfo>
@@ -25,20 +25,20 @@
           </mods:relatedItem>
           <mods:relatedItem displayLabel="component" type="host">
             <mods:name>1912 Itinerary of the Administrative Secretary through Bell county, Kentucky, October 1912</mods:name>
-            <mods:identifier>ref1027_dda</mods:identifier>
+            <mods:identifier>c2c553c43407453d89beda6277a71b65</mods:identifier>
           </mods:relatedItem>
         </mods>
       </xmlData>
     </mdWrap>
   </dmdSec>
   <amdSec>
-    <techMD ID="1364">
+    <techMD ID="4027">
       <mdWrap MDTYPE="PREMIS:OBJECT">
         <xmlData>
           <object version="2.2" xmlns="info:lc/xmlns/premis-v2" xsi:schemaLocation="info:lc/xmlns/premis-v2 http://www.loc.gov/standards/premis/v2/premis-v2-2.xsd" xsi:type="file">
             <objectIdentifier>
               <objectIdentifierType>ArchivesSpace identifier</objectIdentifierType>
-              <objectIdentifierValue>1364</objectIdentifierValue>
+              <objectIdentifierValue>4027</objectIdentifierValue>
             </objectIdentifier>
             <objectCharacteristics>
               <fixity>
@@ -59,20 +59,20 @@
     </techMD>
   </amdSec>
   <fileSec>
-    <fileGrp USE="Service-Edited">
-      <file AMDID="1364" GROUPID="1364" ID="1364">
+    <fileGrp USE="translation missing: en.enumerations.file_version_use_statement.service-edited">
+      <file AMDID="4027" GROUPID="1364" ID="4027">
         <FLocat xlink:href="http://storage.rockarch.org/4a4329ca-0722-4bae-aa5e-f4081224913e-rac_rfdiaries_12-2_rose_1911-1924_004.pdf"/>
       </file>
     </fileGrp>
   </fileSec>
   <structMap TYPE="logical">
     <div DMDID="1364" LABEL="1912 Itinerary of the Administrative Secretary through Bell county, Kentucky" ORDER="1" TYPE="item">
-      <fptr FILEID="1364"/>
+      <fptr FILEID="4027"/>
     </div>
   </structMap>
   <structMap TYPE="physical">
     <div DMDID="1364" LABEL="1912 Itinerary of the Administrative Secretary through Bell county, Kentucky" ORDER="1" TYPE="item">
-      <fptr FILEID="1364"/>
+      <fptr FILEID="4027"/>
     </div>
   </structMap>
 </mets>

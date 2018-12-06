@@ -7,7 +7,7 @@
           <mods:titleInfo>
             <mods:title>National Center for Policy Alternatives</mods:title>
           </mods:titleInfo>
-          <mods:typeOfResource>text</mods:typeOfResource>
+          <mods:typeOfResource>Text</mods:typeOfResource>
           <mods:originInfo>
             <mods:dateCreated>1990-1991</mods:dateCreated>
           </mods:originInfo>
@@ -25,20 +25,20 @@
           </mods:relatedItem>
           <mods:relatedItem displayLabel="component" type="host">
             <mods:name>National Center for Policy Alternatives, 1990-1991</mods:name>
-            <mods:identifier>ref1400_vl9</mods:identifier>
+            <mods:identifier>5eb63d9cdebe48ce94f36b076913189f</mods:identifier>
           </mods:relatedItem>
         </mods>
       </xmlData>
     </mdWrap>
   </dmdSec>
   <amdSec>
-    <techMD ID="892">
+    <techMD ID="3722">
       <mdWrap MDTYPE="PREMIS:OBJECT">
         <xmlData>
           <object version="2.2" xmlns="info:lc/xmlns/premis-v2" xsi:schemaLocation="info:lc/xmlns/premis-v2 http://www.loc.gov/standards/premis/v2/premis-v2-2.xsd" xsi:type="file">
             <objectIdentifier>
               <objectIdentifierType>ArchivesSpace identifier</objectIdentifierType>
-              <objectIdentifierValue>892</objectIdentifierValue>
+              <objectIdentifierValue>3722</objectIdentifierValue>
             </objectIdentifier>
             <objectCharacteristics>
               <fixity>
@@ -60,19 +60,19 @@
   </amdSec>
   <fileSec>
     <fileGrp USE="Image-Service">
-      <file AMDID="892" GROUPID="892" ID="892">
+      <file AMDID="3722" GROUPID="892" ID="3722">
         <FLocat xlink:href="http://storage.rockarch.org/de6a98a4-7758-440c-befd-a9ecc4c89d70-FCD001_078_00659.pdf"/>
       </file>
     </fileGrp>
   </fileSec>
   <structMap TYPE="logical">
     <div DMDID="892" LABEL="National Center for Policy Alternatives" ORDER="1" TYPE="item">
-      <fptr FILEID="892"/>
+      <fptr FILEID="3722"/>
     </div>
   </structMap>
   <structMap TYPE="physical">
     <div DMDID="892" LABEL="National Center for Policy Alternatives" ORDER="1" TYPE="item">
-      <fptr FILEID="892"/>
+      <fptr FILEID="3722"/>
     </div>
   </structMap>
 </mets>

@@ -7,7 +7,7 @@
           <mods:titleInfo>
             <mods:title>Kentucky Youth Advocates, Inc.</mods:title>
           </mods:titleInfo>
-          <mods:typeOfResource>text</mods:typeOfResource>
+          <mods:typeOfResource>Text</mods:typeOfResource>
           <mods:originInfo>
             <mods:dateCreated>1990-1993</mods:dateCreated>
           </mods:originInfo>
@@ -25,20 +25,20 @@
           </mods:relatedItem>
           <mods:relatedItem displayLabel="component" type="host">
             <mods:name>Kentucky Youth Advocates, Inc., 1990-1993</mods:name>
-            <mods:identifier>ref1360_ue4</mods:identifier>
+            <mods:identifier>04a16a7cda5f4d83b7a523c428cd89e3</mods:identifier>
           </mods:relatedItem>
         </mods>
       </xmlData>
     </mdWrap>
   </dmdSec>
   <amdSec>
-    <techMD ID="850">
+    <techMD ID="3681">
       <mdWrap MDTYPE="PREMIS:OBJECT">
         <xmlData>
           <object version="2.2" xmlns="info:lc/xmlns/premis-v2" xsi:schemaLocation="info:lc/xmlns/premis-v2 http://www.loc.gov/standards/premis/v2/premis-v2-2.xsd" xsi:type="file">
             <objectIdentifier>
               <objectIdentifierType>ArchivesSpace identifier</objectIdentifierType>
-              <objectIdentifierValue>850</objectIdentifierValue>
+              <objectIdentifierValue>3681</objectIdentifierValue>
             </objectIdentifier>
             <objectCharacteristics>
               <fixity>
@@ -60,19 +60,19 @@
   </amdSec>
   <fileSec>
     <fileGrp USE="Image-Service">
-      <file AMDID="850" GROUPID="850" ID="850">
+      <file AMDID="3681" GROUPID="850" ID="3681">
         <FLocat xlink:href="http://storage.rockarch.org/759a53ca-db0d-4816-b7f9-9146ba747db3-FCD001_072_00146.pdf"/>
       </file>
     </fileGrp>
   </fileSec>
   <structMap TYPE="logical">
     <div DMDID="850" LABEL="Kentucky Youth Advocates, Inc." ORDER="1" TYPE="item">
-      <fptr FILEID="850"/>
+      <fptr FILEID="3681"/>
     </div>
   </structMap>
   <structMap TYPE="physical">
     <div DMDID="850" LABEL="Kentucky Youth Advocates, Inc." ORDER="1" TYPE="item">
-      <fptr FILEID="850"/>
+      <fptr FILEID="3681"/>
     </div>
   </structMap>
 </mets>

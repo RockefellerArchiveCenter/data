@@ -7,7 +7,7 @@
           <mods:titleInfo>
             <mods:title>Scholastic Aptitude Test Scores</mods:title>
           </mods:titleInfo>
-          <mods:typeOfResource>text</mods:typeOfResource>
+          <mods:typeOfResource>Text</mods:typeOfResource>
           <mods:originInfo>
             <mods:dateCreated>1977-1979</mods:dateCreated>
           </mods:originInfo>
@@ -25,20 +25,20 @@
           </mods:relatedItem>
           <mods:relatedItem displayLabel="component" type="host">
             <mods:name>Scholastic Aptitude Test Scores, 1977-1979</mods:name>
-            <mods:identifier>ref1566_ov8</mods:identifier>
+            <mods:identifier>049279f8e02a4baf95be8bd96e573523</mods:identifier>
           </mods:relatedItem>
         </mods>
       </xmlData>
     </mdWrap>
   </dmdSec>
   <amdSec>
-    <techMD ID="1266">
+    <techMD ID="3942">
       <mdWrap MDTYPE="PREMIS:OBJECT">
         <xmlData>
           <object version="2.2" xmlns="info:lc/xmlns/premis-v2" xsi:schemaLocation="info:lc/xmlns/premis-v2 http://www.loc.gov/standards/premis/v2/premis-v2-2.xsd" xsi:type="file">
             <objectIdentifier>
               <objectIdentifierType>ArchivesSpace identifier</objectIdentifierType>
-              <objectIdentifierValue>1266</objectIdentifierValue>
+              <objectIdentifierValue>3942</objectIdentifierValue>
             </objectIdentifier>
             <objectCharacteristics>
               <fixity>
@@ -60,19 +60,19 @@
   </amdSec>
   <fileSec>
     <fileGrp USE="Image-Service">
-      <file AMDID="1266" GROUPID="1266" ID="1266">
+      <file AMDID="3942" GROUPID="1266" ID="3942">
         <FLocat xlink:href="http://storage.rockarch.org/3011f380-0ebc-463c-8c17-e7a2925abf55-FCD001_099_00443.pdf"/>
       </file>
     </fileGrp>
   </fileSec>
   <structMap TYPE="logical">
     <div DMDID="1266" LABEL="Scholastic Aptitude Test Scores" ORDER="1" TYPE="item">
-      <fptr FILEID="1266"/>
+      <fptr FILEID="3942"/>
     </div>
   </structMap>
   <structMap TYPE="physical">
     <div DMDID="1266" LABEL="Scholastic Aptitude Test Scores" ORDER="1" TYPE="item">
-      <fptr FILEID="1266"/>
+      <fptr FILEID="3942"/>
     </div>
   </structMap>
 </mets>

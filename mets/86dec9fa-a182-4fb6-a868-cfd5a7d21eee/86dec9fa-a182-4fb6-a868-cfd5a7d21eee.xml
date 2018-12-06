@@ -7,7 +7,7 @@
           <mods:titleInfo>
             <mods:title>New York Community Trust Summer Program</mods:title>
           </mods:titleInfo>
-          <mods:typeOfResource>text</mods:typeOfResource>
+          <mods:typeOfResource>Text</mods:typeOfResource>
           <mods:originInfo>
             <mods:dateCreated>1986-1987</mods:dateCreated>
           </mods:originInfo>
@@ -25,20 +25,20 @@
           </mods:relatedItem>
           <mods:relatedItem displayLabel="component" type="host">
             <mods:name>New York Community Trust Summer Program, 1986-1987</mods:name>
-            <mods:identifier>ref1427_z7i</mods:identifier>
+            <mods:identifier>e79cab99f0a042de97f7f3662a62bd81</mods:identifier>
           </mods:relatedItem>
         </mods>
       </xmlData>
     </mdWrap>
   </dmdSec>
   <amdSec>
-    <techMD ID="916">
+    <techMD ID="3744">
       <mdWrap MDTYPE="PREMIS:OBJECT">
         <xmlData>
           <object version="2.2" xmlns="info:lc/xmlns/premis-v2" xsi:schemaLocation="info:lc/xmlns/premis-v2 http://www.loc.gov/standards/premis/v2/premis-v2-2.xsd" xsi:type="file">
             <objectIdentifier>
               <objectIdentifierType>ArchivesSpace identifier</objectIdentifierType>
-              <objectIdentifierValue>916</objectIdentifierValue>
+              <objectIdentifierValue>3744</objectIdentifierValue>
             </objectIdentifier>
             <objectCharacteristics>
               <fixity>
@@ -60,19 +60,19 @@
   </amdSec>
   <fileSec>
     <fileGrp USE="Image-Service">
-      <file AMDID="916" GROUPID="916" ID="916">
+      <file AMDID="3744" GROUPID="916" ID="3744">
         <FLocat xlink:href="http://storage.rockarch.org/86dec9fa-a182-4fb6-a868-cfd5a7d21eee-FCD001_081_00982.pdf"/>
       </file>
     </fileGrp>
   </fileSec>
   <structMap TYPE="logical">
     <div DMDID="916" LABEL="New York Community Trust Summer Program" ORDER="1" TYPE="item">
-      <fptr FILEID="916"/>
+      <fptr FILEID="3744"/>
     </div>
   </structMap>
   <structMap TYPE="physical">
     <div DMDID="916" LABEL="New York Community Trust Summer Program" ORDER="1" TYPE="item">
-      <fptr FILEID="916"/>
+      <fptr FILEID="3744"/>
     </div>
   </structMap>
 </mets>

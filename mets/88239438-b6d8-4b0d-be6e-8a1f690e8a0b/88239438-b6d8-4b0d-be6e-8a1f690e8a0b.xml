@@ -7,7 +7,7 @@
           <mods:titleInfo>
             <mods:title>George Peabody College</mods:title>
           </mods:titleInfo>
-          <mods:typeOfResource>text</mods:typeOfResource>
+          <mods:typeOfResource>Text</mods:typeOfResource>
           <mods:originInfo>
             <mods:dateCreated>1977-1981</mods:dateCreated>
           </mods:originInfo>
@@ -25,20 +25,20 @@
           </mods:relatedItem>
           <mods:relatedItem displayLabel="component" type="host">
             <mods:name>George Peabody College, 1977-1981</mods:name>
-            <mods:identifier>ref1188_6da</mods:identifier>
+            <mods:identifier>88babff088e747888ccd11b4a4cdae08</mods:identifier>
           </mods:relatedItem>
         </mods>
       </xmlData>
     </mdWrap>
   </dmdSec>
   <amdSec>
-    <techMD ID="684">
+    <techMD ID="3524">
       <mdWrap MDTYPE="PREMIS:OBJECT">
         <xmlData>
           <object version="2.2" xmlns="info:lc/xmlns/premis-v2" xsi:schemaLocation="info:lc/xmlns/premis-v2 http://www.loc.gov/standards/premis/v2/premis-v2-2.xsd" xsi:type="file">
             <objectIdentifier>
               <objectIdentifierType>ArchivesSpace identifier</objectIdentifierType>
-              <objectIdentifierValue>684</objectIdentifierValue>
+              <objectIdentifierValue>3524</objectIdentifierValue>
             </objectIdentifier>
             <objectCharacteristics>
               <fixity>
@@ -60,19 +60,19 @@
   </amdSec>
   <fileSec>
     <fileGrp USE="Image-Service">
-      <file AMDID="684" GROUPID="684" ID="684">
+      <file AMDID="3524" GROUPID="684" ID="3524">
         <FLocat xlink:href="http://storage.rockarch.org/88239438-b6d8-4b0d-be6e-8a1f690e8a0b-FCD001_049_00001.pdf"/>
       </file>
     </fileGrp>
   </fileSec>
   <structMap TYPE="logical">
     <div DMDID="684" LABEL="George Peabody College" ORDER="1" TYPE="item">
-      <fptr FILEID="684"/>
+      <fptr FILEID="3524"/>
     </div>
   </structMap>
   <structMap TYPE="physical">
     <div DMDID="684" LABEL="George Peabody College" ORDER="1" TYPE="item">
-      <fptr FILEID="684"/>
+      <fptr FILEID="3524"/>
     </div>
   </structMap>
 </mets>

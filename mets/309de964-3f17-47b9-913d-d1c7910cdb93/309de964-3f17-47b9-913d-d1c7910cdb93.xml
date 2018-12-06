@@ -7,7 +7,7 @@
           <mods:titleInfo>
             <mods:title>National Health Interview Survey</mods:title>
           </mods:titleInfo>
-          <mods:typeOfResource>text</mods:typeOfResource>
+          <mods:typeOfResource>Text</mods:typeOfResource>
           <mods:originInfo>
             <mods:dateCreated>1979-1981</mods:dateCreated>
           </mods:originInfo>
@@ -25,20 +25,20 @@
           </mods:relatedItem>
           <mods:relatedItem displayLabel="component" type="host">
             <mods:name>National Health Interview Survey, 1979-1981</mods:name>
-            <mods:identifier>ref1134_vtz</mods:identifier>
+            <mods:identifier>3a9eab0b42794fdba6d7523746712e51</mods:identifier>
           </mods:relatedItem>
         </mods>
       </xmlData>
     </mdWrap>
   </dmdSec>
   <amdSec>
-    <techMD ID="627">
+    <techMD ID="3470">
       <mdWrap MDTYPE="PREMIS:OBJECT">
         <xmlData>
           <object version="2.2" xmlns="info:lc/xmlns/premis-v2" xsi:schemaLocation="info:lc/xmlns/premis-v2 http://www.loc.gov/standards/premis/v2/premis-v2-2.xsd" xsi:type="file">
             <objectIdentifier>
               <objectIdentifierType>ArchivesSpace identifier</objectIdentifierType>
-              <objectIdentifierValue>627</objectIdentifierValue>
+              <objectIdentifierValue>3470</objectIdentifierValue>
             </objectIdentifier>
             <objectCharacteristics>
               <fixity>
@@ -60,19 +60,19 @@
   </amdSec>
   <fileSec>
     <fileGrp USE="Image-Service">
-      <file AMDID="627" GROUPID="627" ID="627">
+      <file AMDID="3470" GROUPID="627" ID="3470">
         <FLocat xlink:href="http://storage.rockarch.org/309de964-3f17-47b9-913d-d1c7910cdb93-FCD001_045_00999.pdf"/>
       </file>
     </fileGrp>
   </fileSec>
   <structMap TYPE="logical">
     <div DMDID="627" LABEL="National Health Interview Survey" ORDER="1" TYPE="item">
-      <fptr FILEID="627"/>
+      <fptr FILEID="3470"/>
     </div>
   </structMap>
   <structMap TYPE="physical">
     <div DMDID="627" LABEL="National Health Interview Survey" ORDER="1" TYPE="item">
-      <fptr FILEID="627"/>
+      <fptr FILEID="3470"/>
     </div>
   </structMap>
 </mets>

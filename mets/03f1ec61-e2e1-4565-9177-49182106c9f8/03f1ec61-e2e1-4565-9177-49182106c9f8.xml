@@ -7,7 +7,7 @@
           <mods:titleInfo>
             <mods:title>Conference Docket</mods:title>
           </mods:titleInfo>
-          <mods:typeOfResource>text</mods:typeOfResource>
+          <mods:typeOfResource>Text</mods:typeOfResource>
           <mods:originInfo>
             <mods:dateCreated>1921</mods:dateCreated>
           </mods:originInfo>
@@ -25,20 +25,20 @@
           </mods:relatedItem>
           <mods:relatedItem displayLabel="component" type="host">
             <mods:name>Conference Docket, 1921</mods:name>
-            <mods:identifier>ref803_23h</mods:identifier>
+            <mods:identifier>76bd11af25a34c24a92259d367c223cd</mods:identifier>
           </mods:relatedItem>
         </mods>
       </xmlData>
     </mdWrap>
   </dmdSec>
   <amdSec>
-    <techMD ID="2006">
+    <techMD ID="4518">
       <mdWrap MDTYPE="PREMIS:OBJECT">
         <xmlData>
           <object version="2.2" xmlns="info:lc/xmlns/premis-v2" xsi:schemaLocation="info:lc/xmlns/premis-v2 http://www.loc.gov/standards/premis/v2/premis-v2-2.xsd" xsi:type="file">
             <objectIdentifier>
               <objectIdentifierType>ArchivesSpace identifier</objectIdentifierType>
-              <objectIdentifierValue>2006</objectIdentifierValue>
+              <objectIdentifierValue>4518</objectIdentifierValue>
             </objectIdentifier>
             <objectCharacteristics>
               <fixity>
@@ -59,20 +59,20 @@
     </techMD>
   </amdSec>
   <fileSec>
-    <fileGrp USE="Service-Edited">
-      <file AMDID="2006" GROUPID="2006" ID="2006">
+    <fileGrp USE="translation missing: en.enumerations.file_version_use_statement.service-edited">
+      <file AMDID="4518" GROUPID="2006" ID="4518">
         <FLocat xlink:href="http://storage.rockarch.org/03f1ec61-e2e1-4565-9177-49182106c9f8-rac_rfdiaries_12-2_Embree_Edwin_1917-1922_024.pdf"/>
       </file>
     </fileGrp>
   </fileSec>
   <structMap TYPE="logical">
     <div DMDID="2006" LABEL="Conference Docket" ORDER="1" TYPE="item">
-      <fptr FILEID="2006"/>
+      <fptr FILEID="4518"/>
     </div>
   </structMap>
   <structMap TYPE="physical">
     <div DMDID="2006" LABEL="Conference Docket" ORDER="1" TYPE="item">
-      <fptr FILEID="2006"/>
+      <fptr FILEID="4518"/>
     </div>
   </structMap>
 </mets>

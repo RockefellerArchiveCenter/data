@@ -7,7 +7,7 @@
           <mods:titleInfo>
             <mods:title>New York State Department of Social Services</mods:title>
           </mods:titleInfo>
-          <mods:typeOfResource>text</mods:typeOfResource>
+          <mods:typeOfResource>Text</mods:typeOfResource>
           <mods:originInfo>
             <mods:dateCreated>1987-1988, 1991</mods:dateCreated>
           </mods:originInfo>
@@ -25,20 +25,20 @@
           </mods:relatedItem>
           <mods:relatedItem displayLabel="component" type="host">
             <mods:name>New York State Department of Social Services, 1987-1988, 1991</mods:name>
-            <mods:identifier>ref1438_stl</mods:identifier>
+            <mods:identifier>f8e2c0dcb204413a84a027fba3aa695c</mods:identifier>
           </mods:relatedItem>
         </mods>
       </xmlData>
     </mdWrap>
   </dmdSec>
   <amdSec>
-    <techMD ID="931">
+    <techMD ID="3757">
       <mdWrap MDTYPE="PREMIS:OBJECT">
         <xmlData>
           <object version="2.2" xmlns="info:lc/xmlns/premis-v2" xsi:schemaLocation="info:lc/xmlns/premis-v2 http://www.loc.gov/standards/premis/v2/premis-v2-2.xsd" xsi:type="file">
             <objectIdentifier>
               <objectIdentifierType>ArchivesSpace identifier</objectIdentifierType>
-              <objectIdentifierValue>931</objectIdentifierValue>
+              <objectIdentifierValue>3757</objectIdentifierValue>
             </objectIdentifier>
             <objectCharacteristics>
               <fixity>
@@ -60,19 +60,19 @@
   </amdSec>
   <fileSec>
     <fileGrp USE="Image-Service">
-      <file AMDID="931" GROUPID="931" ID="931">
+      <file AMDID="3757" GROUPID="931" ID="3757">
         <FLocat xlink:href="http://storage.rockarch.org/416979f3-3410-47e2-a959-6bd2736ff670-FCD001_083_00469.pdf"/>
       </file>
     </fileGrp>
   </fileSec>
   <structMap TYPE="logical">
     <div DMDID="931" LABEL="New York State Department of Social Services" ORDER="1" TYPE="item">
-      <fptr FILEID="931"/>
+      <fptr FILEID="3757"/>
     </div>
   </structMap>
   <structMap TYPE="physical">
     <div DMDID="931" LABEL="New York State Department of Social Services" ORDER="1" TYPE="item">
-      <fptr FILEID="931"/>
+      <fptr FILEID="3757"/>
     </div>
   </structMap>
 </mets>

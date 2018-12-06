@@ -7,7 +7,7 @@
           <mods:titleInfo>
             <mods:title>Board of Directors Organizational Meeting</mods:title>
           </mods:titleInfo>
-          <mods:typeOfResource>text</mods:typeOfResource>
+          <mods:typeOfResource>Text</mods:typeOfResource>
           <mods:originInfo>
             <mods:dateCreated>February 28, 1979</mods:dateCreated>
           </mods:originInfo>
@@ -25,20 +25,20 @@
           </mods:relatedItem>
           <mods:relatedItem displayLabel="component" type="host">
             <mods:name>Board of Directors Organizational Meeting, February 28, 1979</mods:name>
-            <mods:identifier>ref1107_pmf</mods:identifier>
+            <mods:identifier>245c16e5d1c14c379839701942264658</mods:identifier>
           </mods:relatedItem>
         </mods>
       </xmlData>
     </mdWrap>
   </dmdSec>
   <amdSec>
-    <techMD ID="611">
+    <techMD ID="3456">
       <mdWrap MDTYPE="PREMIS:OBJECT">
         <xmlData>
           <object version="2.2" xmlns="info:lc/xmlns/premis-v2" xsi:schemaLocation="info:lc/xmlns/premis-v2 http://www.loc.gov/standards/premis/v2/premis-v2-2.xsd" xsi:type="file">
             <objectIdentifier>
               <objectIdentifierType>ArchivesSpace identifier</objectIdentifierType>
-              <objectIdentifierValue>611</objectIdentifierValue>
+              <objectIdentifierValue>3456</objectIdentifierValue>
             </objectIdentifier>
             <objectCharacteristics>
               <fixity>
@@ -60,19 +60,19 @@
   </amdSec>
   <fileSec>
     <fileGrp USE="Image-Service">
-      <file AMDID="611" GROUPID="611" ID="611">
+      <file AMDID="3456" GROUPID="611" ID="3456">
         <FLocat xlink:href="http://storage.rockarch.org/69f14056-e5f8-4149-9152-25624f07ed45-FCD001_044_00071.pdf"/>
       </file>
     </fileGrp>
   </fileSec>
   <structMap TYPE="logical">
     <div DMDID="611" LABEL="Board of Directors Organizational Meeting" ORDER="1" TYPE="item">
-      <fptr FILEID="611"/>
+      <fptr FILEID="3456"/>
     </div>
   </structMap>
   <structMap TYPE="physical">
     <div DMDID="611" LABEL="Board of Directors Organizational Meeting" ORDER="1" TYPE="item">
-      <fptr FILEID="611"/>
+      <fptr FILEID="3456"/>
     </div>
   </structMap>
 </mets>

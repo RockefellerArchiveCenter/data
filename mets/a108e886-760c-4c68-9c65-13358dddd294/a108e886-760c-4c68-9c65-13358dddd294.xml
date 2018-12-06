@@ -7,7 +7,7 @@
           <mods:titleInfo>
             <mods:title>National Commission on Children</mods:title>
           </mods:titleInfo>
-          <mods:typeOfResource>text</mods:typeOfResource>
+          <mods:typeOfResource>Text</mods:typeOfResource>
           <mods:originInfo>
             <mods:dateCreated>1989-1990</mods:dateCreated>
           </mods:originInfo>
@@ -25,20 +25,20 @@
           </mods:relatedItem>
           <mods:relatedItem displayLabel="component" type="host">
             <mods:name>National Commission on Children, 1989-1990</mods:name>
-            <mods:identifier>ref1401_ush</mods:identifier>
+            <mods:identifier>8f75ece560714daa94b1558ad018766e</mods:identifier>
           </mods:relatedItem>
         </mods>
       </xmlData>
     </mdWrap>
   </dmdSec>
   <amdSec>
-    <techMD ID="891">
+    <techMD ID="3721">
       <mdWrap MDTYPE="PREMIS:OBJECT">
         <xmlData>
           <object version="2.2" xmlns="info:lc/xmlns/premis-v2" xsi:schemaLocation="info:lc/xmlns/premis-v2 http://www.loc.gov/standards/premis/v2/premis-v2-2.xsd" xsi:type="file">
             <objectIdentifier>
               <objectIdentifierType>ArchivesSpace identifier</objectIdentifierType>
-              <objectIdentifierValue>891</objectIdentifierValue>
+              <objectIdentifierValue>3721</objectIdentifierValue>
             </objectIdentifier>
             <objectCharacteristics>
               <fixity>
@@ -60,19 +60,19 @@
   </amdSec>
   <fileSec>
     <fileGrp USE="Image-Service">
-      <file AMDID="891" GROUPID="891" ID="891">
+      <file AMDID="3721" GROUPID="891" ID="3721">
         <FLocat xlink:href="http://storage.rockarch.org/a108e886-760c-4c68-9c65-13358dddd294-FCD001_078_00773.pdf"/>
       </file>
     </fileGrp>
   </fileSec>
   <structMap TYPE="logical">
     <div DMDID="891" LABEL="National Commission on Children" ORDER="1" TYPE="item">
-      <fptr FILEID="891"/>
+      <fptr FILEID="3721"/>
     </div>
   </structMap>
   <structMap TYPE="physical">
     <div DMDID="891" LABEL="National Commission on Children" ORDER="1" TYPE="item">
-      <fptr FILEID="891"/>
+      <fptr FILEID="3721"/>
     </div>
   </structMap>
 </mets>

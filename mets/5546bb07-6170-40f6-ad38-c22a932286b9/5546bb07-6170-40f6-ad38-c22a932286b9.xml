@@ -7,7 +7,7 @@
           <mods:titleInfo>
             <mods:title>New York State Tax Returns - Fiscal Year April 1, 1971-March 31, 1972</mods:title>
           </mods:titleInfo>
-          <mods:typeOfResource>text</mods:typeOfResource>
+          <mods:typeOfResource>Text</mods:typeOfResource>
           <mods:originInfo>
             <mods:dateCreated> April 1, 1971-March 31, 1972</mods:dateCreated>
           </mods:originInfo>
@@ -25,20 +25,20 @@
           </mods:relatedItem>
           <mods:relatedItem displayLabel="component" type="host">
             <mods:name>New York State Tax Returns - Fiscal Year April 1, 1971-March 31, 1972,  April 1, 1971-March 31, 1972</mods:name>
-            <mods:identifier>ref998_g18</mods:identifier>
+            <mods:identifier>429978fb7dd94ccf9d028c46a7b2aa32</mods:identifier>
           </mods:relatedItem>
         </mods>
       </xmlData>
     </mdWrap>
   </dmdSec>
   <amdSec>
-    <techMD ID="518">
+    <techMD ID="3366">
       <mdWrap MDTYPE="PREMIS:OBJECT">
         <xmlData>
           <object version="2.2" xmlns="info:lc/xmlns/premis-v2" xsi:schemaLocation="info:lc/xmlns/premis-v2 http://www.loc.gov/standards/premis/v2/premis-v2-2.xsd" xsi:type="file">
             <objectIdentifier>
               <objectIdentifierType>ArchivesSpace identifier</objectIdentifierType>
-              <objectIdentifierValue>518</objectIdentifierValue>
+              <objectIdentifierValue>3366</objectIdentifierValue>
             </objectIdentifier>
             <objectCharacteristics>
               <fixity>
@@ -60,19 +60,19 @@
   </amdSec>
   <fileSec>
     <fileGrp USE="Image-Service">
-      <file AMDID="518" GROUPID="518" ID="518">
+      <file AMDID="3366" GROUPID="518" ID="3366">
         <FLocat xlink:href="http://storage.rockarch.org/5546bb07-6170-40f6-ad38-c22a932286b9-FCD001_036_01037.pdf"/>
       </file>
     </fileGrp>
   </fileSec>
   <structMap TYPE="logical">
     <div DMDID="518" LABEL="New York State Tax Returns - Fiscal Year April 1, 1971-March 31, 1972" ORDER="1" TYPE="item">
-      <fptr FILEID="518"/>
+      <fptr FILEID="3366"/>
     </div>
   </structMap>
   <structMap TYPE="physical">
     <div DMDID="518" LABEL="New York State Tax Returns - Fiscal Year April 1, 1971-March 31, 1972" ORDER="1" TYPE="item">
-      <fptr FILEID="518"/>
+      <fptr FILEID="3366"/>
     </div>
   </structMap>
 </mets>

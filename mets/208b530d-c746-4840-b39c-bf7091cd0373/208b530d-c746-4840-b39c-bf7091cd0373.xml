@@ -7,7 +7,7 @@
           <mods:titleInfo>
             <mods:title>Wider Horizons - Annual Report for Year Ending March 31, 1951</mods:title>
           </mods:titleInfo>
-          <mods:typeOfResource>text</mods:typeOfResource>
+          <mods:typeOfResource>Text</mods:typeOfResource>
           <mods:originInfo>
             <mods:dateCreated>1951</mods:dateCreated>
           </mods:originInfo>
@@ -25,20 +25,20 @@
           </mods:relatedItem>
           <mods:relatedItem displayLabel="component" type="host">
             <mods:name>Wider Horizons - Annual Report for Year Ending March 31, 1951, 1951</mods:name>
-            <mods:identifier>ref726_xif</mods:identifier>
+            <mods:identifier>bd8cc912d41741fca8d1381f671c792a</mods:identifier>
           </mods:relatedItem>
         </mods>
       </xmlData>
     </mdWrap>
   </dmdSec>
   <amdSec>
-    <techMD ID="450">
+    <techMD ID="3299">
       <mdWrap MDTYPE="PREMIS:OBJECT">
         <xmlData>
           <object version="2.2" xmlns="info:lc/xmlns/premis-v2" xsi:schemaLocation="info:lc/xmlns/premis-v2 http://www.loc.gov/standards/premis/v2/premis-v2-2.xsd" xsi:type="file">
             <objectIdentifier>
               <objectIdentifierType>ArchivesSpace identifier</objectIdentifierType>
-              <objectIdentifierValue>450</objectIdentifierValue>
+              <objectIdentifierValue>3299</objectIdentifierValue>
             </objectIdentifier>
             <objectCharacteristics>
               <fixity>
@@ -60,19 +60,19 @@
   </amdSec>
   <fileSec>
     <fileGrp USE="Image-Service">
-      <file AMDID="450" GROUPID="450" ID="450">
+      <file AMDID="3299" GROUPID="450" ID="3299">
         <FLocat xlink:href="http://storage.rockarch.org/208b530d-c746-4840-b39c-bf7091cd0373-FCD001_033_00043.pdf"/>
       </file>
     </fileGrp>
   </fileSec>
   <structMap TYPE="logical">
     <div DMDID="450" LABEL="Wider Horizons - Annual Report for Year Ending March 31, 1951" ORDER="1" TYPE="item">
-      <fptr FILEID="450"/>
+      <fptr FILEID="3299"/>
     </div>
   </structMap>
   <structMap TYPE="physical">
     <div DMDID="450" LABEL="Wider Horizons - Annual Report for Year Ending March 31, 1951" ORDER="1" TYPE="item">
-      <fptr FILEID="450"/>
+      <fptr FILEID="3299"/>
     </div>
   </structMap>
 </mets>

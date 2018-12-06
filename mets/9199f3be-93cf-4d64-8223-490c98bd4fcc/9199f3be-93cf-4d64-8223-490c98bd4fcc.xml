@@ -7,7 +7,7 @@
           <mods:titleInfo>
             <mods:title>Massachusetts Advocacy Center</mods:title>
           </mods:titleInfo>
-          <mods:typeOfResource>text</mods:typeOfResource>
+          <mods:typeOfResource>Text</mods:typeOfResource>
           <mods:originInfo>
             <mods:dateCreated>1988-1989</mods:dateCreated>
           </mods:originInfo>
@@ -25,20 +25,20 @@
           </mods:relatedItem>
           <mods:relatedItem displayLabel="component" type="host">
             <mods:name>Massachusetts Advocacy Center, 1988-1989</mods:name>
-            <mods:identifier>ref1374_yen</mods:identifier>
+            <mods:identifier>099d94e339f44136bfe215a79d90d39f</mods:identifier>
           </mods:relatedItem>
         </mods>
       </xmlData>
     </mdWrap>
   </dmdSec>
   <amdSec>
-    <techMD ID="866">
+    <techMD ID="3697">
       <mdWrap MDTYPE="PREMIS:OBJECT">
         <xmlData>
           <object version="2.2" xmlns="info:lc/xmlns/premis-v2" xsi:schemaLocation="info:lc/xmlns/premis-v2 http://www.loc.gov/standards/premis/v2/premis-v2-2.xsd" xsi:type="file">
             <objectIdentifier>
               <objectIdentifierType>ArchivesSpace identifier</objectIdentifierType>
-              <objectIdentifierValue>866</objectIdentifierValue>
+              <objectIdentifierValue>3697</objectIdentifierValue>
             </objectIdentifier>
             <objectCharacteristics>
               <fixity>
@@ -60,19 +60,19 @@
   </amdSec>
   <fileSec>
     <fileGrp USE="Image-Service">
-      <file AMDID="866" GROUPID="866" ID="866">
+      <file AMDID="3697" GROUPID="866" ID="3697">
         <FLocat xlink:href="http://storage.rockarch.org/9199f3be-93cf-4d64-8223-490c98bd4fcc-FCD001_074_00282.pdf"/>
       </file>
     </fileGrp>
   </fileSec>
   <structMap TYPE="logical">
     <div DMDID="866" LABEL="Massachusetts Advocacy Center" ORDER="1" TYPE="item">
-      <fptr FILEID="866"/>
+      <fptr FILEID="3697"/>
     </div>
   </structMap>
   <structMap TYPE="physical">
     <div DMDID="866" LABEL="Massachusetts Advocacy Center" ORDER="1" TYPE="item">
-      <fptr FILEID="866"/>
+      <fptr FILEID="3697"/>
     </div>
   </structMap>
 </mets>

@@ -7,7 +7,7 @@
           <mods:titleInfo>
             <mods:title>Interview</mods:title>
           </mods:titleInfo>
-          <mods:typeOfResource>text</mods:typeOfResource>
+          <mods:typeOfResource>Text</mods:typeOfResource>
           <mods:originInfo>
             <mods:dateCreated>1924</mods:dateCreated>
           </mods:originInfo>
@@ -32,13 +32,13 @@
     </mdWrap>
   </dmdSec>
   <amdSec>
-    <techMD ID="2396">
+    <techMD ID="4908">
       <mdWrap MDTYPE="PREMIS:OBJECT">
         <xmlData>
           <object version="2.2" xmlns="info:lc/xmlns/premis-v2" xsi:schemaLocation="info:lc/xmlns/premis-v2 http://www.loc.gov/standards/premis/v2/premis-v2-2.xsd" xsi:type="file">
             <objectIdentifier>
               <objectIdentifierType>ArchivesSpace identifier</objectIdentifierType>
-              <objectIdentifierValue>2396</objectIdentifierValue>
+              <objectIdentifierValue>4908</objectIdentifierValue>
             </objectIdentifier>
             <objectCharacteristics>
               <fixity>
@@ -60,19 +60,19 @@
   </amdSec>
   <fileSec>
     <fileGrp USE="translation missing: en.enumerations.file_version_use_statement.service-edited">
-      <file AMDID="2396" GROUPID="2396" ID="2396">
+      <file AMDID="4908" GROUPID="2396" ID="4908">
         <FLocat xlink:href="http://storage.rockarch.org/a368e4a2-c9b0-4d91-840d-c16b7a095c37-rac_rfdiaries_12-2_vincent_1917-1929_037.pdf"/>
       </file>
     </fileGrp>
   </fileSec>
   <structMap TYPE="logical">
     <div DMDID="2396" LABEL="Interview" ORDER="1" TYPE="item">
-      <fptr FILEID="2396"/>
+      <fptr FILEID="4908"/>
     </div>
   </structMap>
   <structMap TYPE="physical">
     <div DMDID="2396" LABEL="Interview" ORDER="1" TYPE="item">
-      <fptr FILEID="2396"/>
+      <fptr FILEID="4908"/>
     </div>
   </structMap>
 </mets>

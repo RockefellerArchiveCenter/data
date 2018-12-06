@@ -7,7 +7,7 @@
           <mods:titleInfo>
             <mods:title>French-American Foundation</mods:title>
           </mods:titleInfo>
-          <mods:typeOfResource>text</mods:typeOfResource>
+          <mods:typeOfResource>Text</mods:typeOfResource>
           <mods:originInfo>
             <mods:dateCreated>1976-1977</mods:dateCreated>
           </mods:originInfo>
@@ -25,20 +25,20 @@
           </mods:relatedItem>
           <mods:relatedItem displayLabel="component" type="host">
             <mods:name>French-American Foundation, 1976-1977</mods:name>
-            <mods:identifier>ref1328_j44</mods:identifier>
+            <mods:identifier>1cc1069d1b4c46a4bb7e1e12c054ef61</mods:identifier>
           </mods:relatedItem>
         </mods>
       </xmlData>
     </mdWrap>
   </dmdSec>
   <amdSec>
-    <techMD ID="819">
+    <techMD ID="3650">
       <mdWrap MDTYPE="PREMIS:OBJECT">
         <xmlData>
           <object version="2.2" xmlns="info:lc/xmlns/premis-v2" xsi:schemaLocation="info:lc/xmlns/premis-v2 http://www.loc.gov/standards/premis/v2/premis-v2-2.xsd" xsi:type="file">
             <objectIdentifier>
               <objectIdentifierType>ArchivesSpace identifier</objectIdentifierType>
-              <objectIdentifierValue>819</objectIdentifierValue>
+              <objectIdentifierValue>3650</objectIdentifierValue>
             </objectIdentifier>
             <objectCharacteristics>
               <fixity>
@@ -60,19 +60,19 @@
   </amdSec>
   <fileSec>
     <fileGrp USE="Image-Service">
-      <file AMDID="819" GROUPID="819" ID="819">
+      <file AMDID="3650" GROUPID="819" ID="3650">
         <FLocat xlink:href="http://storage.rockarch.org/ea8beba5-456e-4025-bc9b-488114e16f4e-FCD001_068_00729.pdf"/>
       </file>
     </fileGrp>
   </fileSec>
   <structMap TYPE="logical">
     <div DMDID="819" LABEL="French-American Foundation" ORDER="1" TYPE="item">
-      <fptr FILEID="819"/>
+      <fptr FILEID="3650"/>
     </div>
   </structMap>
   <structMap TYPE="physical">
     <div DMDID="819" LABEL="French-American Foundation" ORDER="1" TYPE="item">
-      <fptr FILEID="819"/>
+      <fptr FILEID="3650"/>
     </div>
   </structMap>
 </mets>

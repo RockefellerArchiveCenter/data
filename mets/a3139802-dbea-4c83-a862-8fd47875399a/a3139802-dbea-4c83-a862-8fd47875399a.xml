@@ -7,7 +7,7 @@
           <mods:titleInfo>
             <mods:title>Classification of Appropriations</mods:title>
           </mods:titleInfo>
-          <mods:typeOfResource>text</mods:typeOfResource>
+          <mods:typeOfResource>Text</mods:typeOfResource>
           <mods:originInfo>
             <mods:dateCreated>1979-1982</mods:dateCreated>
           </mods:originInfo>
@@ -25,20 +25,20 @@
           </mods:relatedItem>
           <mods:relatedItem displayLabel="component" type="host">
             <mods:name>Classification of Appropriations, 1979-1982</mods:name>
-            <mods:identifier>ref1125_vzn</mods:identifier>
+            <mods:identifier>8b6a8c7344da4018ac079a0b23a3dd22</mods:identifier>
           </mods:relatedItem>
         </mods>
       </xmlData>
     </mdWrap>
   </dmdSec>
   <amdSec>
-    <techMD ID="613">
+    <techMD ID="3458">
       <mdWrap MDTYPE="PREMIS:OBJECT">
         <xmlData>
           <object version="2.2" xmlns="info:lc/xmlns/premis-v2" xsi:schemaLocation="info:lc/xmlns/premis-v2 http://www.loc.gov/standards/premis/v2/premis-v2-2.xsd" xsi:type="file">
             <objectIdentifier>
               <objectIdentifierType>ArchivesSpace identifier</objectIdentifierType>
-              <objectIdentifierValue>613</objectIdentifierValue>
+              <objectIdentifierValue>3458</objectIdentifierValue>
             </objectIdentifier>
             <objectCharacteristics>
               <fixity>
@@ -60,19 +60,19 @@
   </amdSec>
   <fileSec>
     <fileGrp USE="Image-Service">
-      <file AMDID="613" GROUPID="613" ID="613">
+      <file AMDID="3458" GROUPID="613" ID="3458">
         <FLocat xlink:href="http://storage.rockarch.org/a3139802-dbea-4c83-a862-8fd47875399a-FCD001_044_00822.pdf"/>
       </file>
     </fileGrp>
   </fileSec>
   <structMap TYPE="logical">
     <div DMDID="613" LABEL="Classification of Appropriations" ORDER="1" TYPE="item">
-      <fptr FILEID="613"/>
+      <fptr FILEID="3458"/>
     </div>
   </structMap>
   <structMap TYPE="physical">
     <div DMDID="613" LABEL="Classification of Appropriations" ORDER="1" TYPE="item">
-      <fptr FILEID="613"/>
+      <fptr FILEID="3458"/>
     </div>
   </structMap>
 </mets>

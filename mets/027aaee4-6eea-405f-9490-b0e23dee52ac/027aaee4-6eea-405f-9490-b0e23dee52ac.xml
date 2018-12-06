@@ -7,7 +7,7 @@
           <mods:titleInfo>
             <mods:title>University of Wisconsin, Madison</mods:title>
           </mods:titleInfo>
-          <mods:typeOfResource>text</mods:typeOfResource>
+          <mods:typeOfResource>Text</mods:typeOfResource>
           <mods:originInfo>
             <mods:dateCreated>1979-1982</mods:dateCreated>
           </mods:originInfo>
@@ -25,20 +25,20 @@
           </mods:relatedItem>
           <mods:relatedItem displayLabel="component" type="host">
             <mods:name>University of Wisconsin, Madison, 1979-1982</mods:name>
-            <mods:identifier>ref1513_1yk</mods:identifier>
+            <mods:identifier>36ad0186c67a4854aeb45e226c6e86c1</mods:identifier>
           </mods:relatedItem>
         </mods>
       </xmlData>
     </mdWrap>
   </dmdSec>
   <amdSec>
-    <techMD ID="1006">
+    <techMD ID="3816">
       <mdWrap MDTYPE="PREMIS:OBJECT">
         <xmlData>
           <object version="2.2" xmlns="info:lc/xmlns/premis-v2" xsi:schemaLocation="info:lc/xmlns/premis-v2 http://www.loc.gov/standards/premis/v2/premis-v2-2.xsd" xsi:type="file">
             <objectIdentifier>
               <objectIdentifierType>ArchivesSpace identifier</objectIdentifierType>
-              <objectIdentifierValue>1006</objectIdentifierValue>
+              <objectIdentifierValue>3816</objectIdentifierValue>
             </objectIdentifier>
             <objectCharacteristics>
               <fixity>
@@ -60,19 +60,19 @@
   </amdSec>
   <fileSec>
     <fileGrp USE="Image-Service">
-      <file AMDID="1006" GROUPID="1006" ID="1006">
+      <file AMDID="3816" GROUPID="1006" ID="3816">
         <FLocat xlink:href="http://storage.rockarch.org/027aaee4-6eea-405f-9490-b0e23dee52ac-FCD001_094_00103.pdf"/>
       </file>
     </fileGrp>
   </fileSec>
   <structMap TYPE="logical">
     <div DMDID="1006" LABEL="University of Wisconsin, Madison" ORDER="1" TYPE="item">
-      <fptr FILEID="1006"/>
+      <fptr FILEID="3816"/>
     </div>
   </structMap>
   <structMap TYPE="physical">
     <div DMDID="1006" LABEL="University of Wisconsin, Madison" ORDER="1" TYPE="item">
-      <fptr FILEID="1006"/>
+      <fptr FILEID="3816"/>
     </div>
   </structMap>
 </mets>

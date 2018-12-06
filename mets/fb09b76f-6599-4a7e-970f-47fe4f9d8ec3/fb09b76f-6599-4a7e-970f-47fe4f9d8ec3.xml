@@ -7,7 +7,7 @@
           <mods:titleInfo>
             <mods:title>National Research Council</mods:title>
           </mods:titleInfo>
-          <mods:typeOfResource>text</mods:typeOfResource>
+          <mods:typeOfResource>Text</mods:typeOfResource>
           <mods:originInfo>
             <mods:dateCreated>1981</mods:dateCreated>
           </mods:originInfo>
@@ -25,20 +25,20 @@
           </mods:relatedItem>
           <mods:relatedItem displayLabel="component" type="host">
             <mods:name>National Research Council, 1981</mods:name>
-            <mods:identifier>ref651_ttp</mods:identifier>
+            <mods:identifier>f9a61ef01ba64d95b63ad38b48f511cb</mods:identifier>
           </mods:relatedItem>
         </mods>
       </xmlData>
     </mdWrap>
   </dmdSec>
   <amdSec>
-    <techMD ID="1226">
+    <techMD ID="3903">
       <mdWrap MDTYPE="PREMIS:OBJECT">
         <xmlData>
           <object version="2.2" xmlns="info:lc/xmlns/premis-v2" xsi:schemaLocation="info:lc/xmlns/premis-v2 http://www.loc.gov/standards/premis/v2/premis-v2-2.xsd" xsi:type="file">
             <objectIdentifier>
               <objectIdentifierType>ArchivesSpace identifier</objectIdentifierType>
-              <objectIdentifierValue>1226</objectIdentifierValue>
+              <objectIdentifierValue>3903</objectIdentifierValue>
             </objectIdentifier>
             <objectCharacteristics>
               <fixity>
@@ -60,19 +60,19 @@
   </amdSec>
   <fileSec>
     <fileGrp USE="Image-Service">
-      <file AMDID="1226" GROUPID="1226" ID="1226">
+      <file AMDID="3903" GROUPID="1226" ID="3903">
         <FLocat xlink:href="http://storage.rockarch.org/fb09b76f-6599-4a7e-970f-47fe4f9d8ec3-FCD001_031_00176.pdf"/>
       </file>
     </fileGrp>
   </fileSec>
   <structMap TYPE="logical">
     <div DMDID="1226" LABEL="National Research Council" ORDER="1" TYPE="item">
-      <fptr FILEID="1226"/>
+      <fptr FILEID="3903"/>
     </div>
   </structMap>
   <structMap TYPE="physical">
     <div DMDID="1226" LABEL="National Research Council" ORDER="1" TYPE="item">
-      <fptr FILEID="1226"/>
+      <fptr FILEID="3903"/>
     </div>
   </structMap>
 </mets>

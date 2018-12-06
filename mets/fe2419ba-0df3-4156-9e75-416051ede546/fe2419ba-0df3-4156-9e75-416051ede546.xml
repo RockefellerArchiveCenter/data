@@ -7,7 +7,7 @@
           <mods:titleInfo>
             <mods:title>State of the Child Report: New York City '79</mods:title>
           </mods:titleInfo>
-          <mods:typeOfResource>text</mods:typeOfResource>
+          <mods:typeOfResource>Text</mods:typeOfResource>
           <mods:originInfo>
             <mods:dateCreated>1975-1981</mods:dateCreated>
           </mods:originInfo>
@@ -25,20 +25,20 @@
           </mods:relatedItem>
           <mods:relatedItem displayLabel="component" type="host">
             <mods:name>State of the Child Report: New York City '79, 1975-1981</mods:name>
-            <mods:identifier>ref1577_ze2</mods:identifier>
+            <mods:identifier>515b58c3bf954309ae702ba5f007dc2f</mods:identifier>
           </mods:relatedItem>
         </mods>
       </xmlData>
     </mdWrap>
   </dmdSec>
   <amdSec>
-    <techMD ID="1043">
+    <techMD ID="3852">
       <mdWrap MDTYPE="PREMIS:OBJECT">
         <xmlData>
           <object version="2.2" xmlns="info:lc/xmlns/premis-v2" xsi:schemaLocation="info:lc/xmlns/premis-v2 http://www.loc.gov/standards/premis/v2/premis-v2-2.xsd" xsi:type="file">
             <objectIdentifier>
               <objectIdentifierType>ArchivesSpace identifier</objectIdentifierType>
-              <objectIdentifierValue>1043</objectIdentifierValue>
+              <objectIdentifierValue>3852</objectIdentifierValue>
             </objectIdentifier>
             <objectCharacteristics>
               <fixity>
@@ -60,19 +60,19 @@
   </amdSec>
   <fileSec>
     <fileGrp USE="Image-Service">
-      <file AMDID="1043" GROUPID="1043" ID="1043">
+      <file AMDID="3852" GROUPID="1043" ID="3852">
         <FLocat xlink:href="http://storage.rockarch.org/fe2419ba-0df3-4156-9e75-416051ede546-FCD001_100_00544.pdf"/>
       </file>
     </fileGrp>
   </fileSec>
   <structMap TYPE="logical">
     <div DMDID="1043" LABEL="State of the Child Report: New York City '79" ORDER="1" TYPE="item">
-      <fptr FILEID="1043"/>
+      <fptr FILEID="3852"/>
     </div>
   </structMap>
   <structMap TYPE="physical">
     <div DMDID="1043" LABEL="State of the Child Report: New York City '79" ORDER="1" TYPE="item">
-      <fptr FILEID="1043"/>
+      <fptr FILEID="3852"/>
     </div>
   </structMap>
 </mets>

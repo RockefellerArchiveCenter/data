@@ -7,7 +7,7 @@
           <mods:titleInfo>
             <mods:title>Food Research and Action Center</mods:title>
           </mods:titleInfo>
-          <mods:typeOfResource>text</mods:typeOfResource>
+          <mods:typeOfResource>Text</mods:typeOfResource>
           <mods:originInfo>
             <mods:dateCreated>1981-1983, 1985</mods:dateCreated>
           </mods:originInfo>
@@ -25,20 +25,20 @@
           </mods:relatedItem>
           <mods:relatedItem displayLabel="component" type="host">
             <mods:name>Food Research and Action Center, 1981-1983, 1985</mods:name>
-            <mods:identifier>ref1324_gtv</mods:identifier>
+            <mods:identifier>9391db7fb78d4f608fa422b484a271e1</mods:identifier>
           </mods:relatedItem>
         </mods>
       </xmlData>
     </mdWrap>
   </dmdSec>
   <amdSec>
-    <techMD ID="816">
+    <techMD ID="3647">
       <mdWrap MDTYPE="PREMIS:OBJECT">
         <xmlData>
           <object version="2.2" xmlns="info:lc/xmlns/premis-v2" xsi:schemaLocation="info:lc/xmlns/premis-v2 http://www.loc.gov/standards/premis/v2/premis-v2-2.xsd" xsi:type="file">
             <objectIdentifier>
               <objectIdentifierType>ArchivesSpace identifier</objectIdentifierType>
-              <objectIdentifierValue>816</objectIdentifierValue>
+              <objectIdentifierValue>3647</objectIdentifierValue>
             </objectIdentifier>
             <objectCharacteristics>
               <fixity>
@@ -60,19 +60,19 @@
   </amdSec>
   <fileSec>
     <fileGrp USE="Image-Service">
-      <file AMDID="816" GROUPID="816" ID="816">
+      <file AMDID="3647" GROUPID="816" ID="3647">
         <FLocat xlink:href="http://storage.rockarch.org/67c784d8-e99c-4ade-8a5d-11bbf7da749c-FCD001_068_00077.pdf"/>
       </file>
     </fileGrp>
   </fileSec>
   <structMap TYPE="logical">
     <div DMDID="816" LABEL="Food Research and Action Center" ORDER="1" TYPE="item">
-      <fptr FILEID="816"/>
+      <fptr FILEID="3647"/>
     </div>
   </structMap>
   <structMap TYPE="physical">
     <div DMDID="816" LABEL="Food Research and Action Center" ORDER="1" TYPE="item">
-      <fptr FILEID="816"/>
+      <fptr FILEID="3647"/>
     </div>
   </structMap>
 </mets>

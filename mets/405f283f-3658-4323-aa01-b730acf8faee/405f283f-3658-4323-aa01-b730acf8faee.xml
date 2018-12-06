@@ -7,7 +7,7 @@
           <mods:titleInfo>
             <mods:title>Index</mods:title>
           </mods:titleInfo>
-          <mods:typeOfResource>text</mods:typeOfResource>
+          <mods:typeOfResource>Text</mods:typeOfResource>
           <mods:originInfo>
             <mods:dateCreated>1952</mods:dateCreated>
           </mods:originInfo>
@@ -25,20 +25,20 @@
           </mods:relatedItem>
           <mods:relatedItem displayLabel="component" type="host">
             <mods:name>Index, 1952</mods:name>
-            <mods:identifier>ref565_fup</mods:identifier>
+            <mods:identifier>01c25ecb6d294918abd370d54a55e6fe</mods:identifier>
           </mods:relatedItem>
         </mods>
       </xmlData>
     </mdWrap>
   </dmdSec>
   <amdSec>
-    <techMD ID="2105">
+    <techMD ID="4617">
       <mdWrap MDTYPE="PREMIS:OBJECT">
         <xmlData>
           <object version="2.2" xmlns="info:lc/xmlns/premis-v2" xsi:schemaLocation="info:lc/xmlns/premis-v2 http://www.loc.gov/standards/premis/v2/premis-v2-2.xsd" xsi:type="file">
             <objectIdentifier>
               <objectIdentifierType>ArchivesSpace identifier</objectIdentifierType>
-              <objectIdentifierValue>2105</objectIdentifierValue>
+              <objectIdentifierValue>4617</objectIdentifierValue>
             </objectIdentifier>
             <objectCharacteristics>
               <fixity>
@@ -59,20 +59,20 @@
     </techMD>
   </amdSec>
   <fileSec>
-    <fileGrp USE="Service-Edited">
-      <file AMDID="2105" GROUPID="2105" ID="2105">
+    <fileGrp USE="translation missing: en.enumerations.file_version_use_statement.service-edited">
+      <file AMDID="4617" GROUPID="2105" ID="4617">
         <FLocat xlink:href="http://storage.rockarch.org/405f283f-3658-4323-aa01-b730acf8faee-rac_rfdiaries_12-2_gregg_1922-1953_062.pdf"/>
       </file>
     </fileGrp>
   </fileSec>
   <structMap TYPE="logical">
     <div DMDID="2105" LABEL="Index" ORDER="1" TYPE="item">
-      <fptr FILEID="2105"/>
+      <fptr FILEID="4617"/>
     </div>
   </structMap>
   <structMap TYPE="physical">
     <div DMDID="2105" LABEL="Index" ORDER="1" TYPE="item">
-      <fptr FILEID="2105"/>
+      <fptr FILEID="4617"/>
     </div>
   </structMap>
 </mets>

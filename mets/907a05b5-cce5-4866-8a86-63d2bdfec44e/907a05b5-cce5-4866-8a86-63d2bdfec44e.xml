@@ -7,7 +7,7 @@
           <mods:titleInfo>
             <mods:title>National Institute on Children, Youth and Families</mods:title>
           </mods:titleInfo>
-          <mods:typeOfResource>text</mods:typeOfResource>
+          <mods:typeOfResource>Text</mods:typeOfResource>
           <mods:originInfo>
             <mods:dateCreated>1991</mods:dateCreated>
           </mods:originInfo>
@@ -25,20 +25,20 @@
           </mods:relatedItem>
           <mods:relatedItem displayLabel="component" type="host">
             <mods:name>National Institute on Children, Youth and Families, 1991</mods:name>
-            <mods:identifier>ref1411_4zn</mods:identifier>
+            <mods:identifier>60b15669d5854e4e887e139e1e2087cd</mods:identifier>
           </mods:relatedItem>
         </mods>
       </xmlData>
     </mdWrap>
   </dmdSec>
   <amdSec>
-    <techMD ID="905">
+    <techMD ID="3733">
       <mdWrap MDTYPE="PREMIS:OBJECT">
         <xmlData>
           <object version="2.2" xmlns="info:lc/xmlns/premis-v2" xsi:schemaLocation="info:lc/xmlns/premis-v2 http://www.loc.gov/standards/premis/v2/premis-v2-2.xsd" xsi:type="file">
             <objectIdentifier>
               <objectIdentifierType>ArchivesSpace identifier</objectIdentifierType>
-              <objectIdentifierValue>905</objectIdentifierValue>
+              <objectIdentifierValue>3733</objectIdentifierValue>
             </objectIdentifier>
             <objectCharacteristics>
               <fixity>
@@ -60,19 +60,19 @@
   </amdSec>
   <fileSec>
     <fileGrp USE="Image-Service">
-      <file AMDID="905" GROUPID="905" ID="905">
+      <file AMDID="3733" GROUPID="905" ID="3733">
         <FLocat xlink:href="http://storage.rockarch.org/907a05b5-cce5-4866-8a86-63d2bdfec44e-FCD001_080_00162.pdf"/>
       </file>
     </fileGrp>
   </fileSec>
   <structMap TYPE="logical">
     <div DMDID="905" LABEL="National Institute on Children, Youth and Families" ORDER="1" TYPE="item">
-      <fptr FILEID="905"/>
+      <fptr FILEID="3733"/>
     </div>
   </structMap>
   <structMap TYPE="physical">
     <div DMDID="905" LABEL="National Institute on Children, Youth and Families" ORDER="1" TYPE="item">
-      <fptr FILEID="905"/>
+      <fptr FILEID="3733"/>
     </div>
   </structMap>
 </mets>

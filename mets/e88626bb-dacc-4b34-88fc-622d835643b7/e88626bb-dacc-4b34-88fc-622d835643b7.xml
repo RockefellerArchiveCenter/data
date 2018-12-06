@@ -7,7 +7,7 @@
           <mods:titleInfo>
             <mods:title>Arizona Advocates for Children</mods:title>
           </mods:titleInfo>
-          <mods:typeOfResource>text</mods:typeOfResource>
+          <mods:typeOfResource>Text</mods:typeOfResource>
           <mods:originInfo>
             <mods:dateCreated>1988-1989</mods:dateCreated>
           </mods:originInfo>
@@ -25,20 +25,20 @@
           </mods:relatedItem>
           <mods:relatedItem displayLabel="component" type="host">
             <mods:name>Arizona Advocates for Children, 1988-1989</mods:name>
-            <mods:identifier>ref1223_leh</mods:identifier>
+            <mods:identifier>eabbbe14144c43508a057d6c3469741c</mods:identifier>
           </mods:relatedItem>
         </mods>
       </xmlData>
     </mdWrap>
   </dmdSec>
   <amdSec>
-    <techMD ID="715">
+    <techMD ID="3549">
       <mdWrap MDTYPE="PREMIS:OBJECT">
         <xmlData>
           <object version="2.2" xmlns="info:lc/xmlns/premis-v2" xsi:schemaLocation="info:lc/xmlns/premis-v2 http://www.loc.gov/standards/premis/v2/premis-v2-2.xsd" xsi:type="file">
             <objectIdentifier>
               <objectIdentifierType>ArchivesSpace identifier</objectIdentifierType>
-              <objectIdentifierValue>715</objectIdentifierValue>
+              <objectIdentifierValue>3549</objectIdentifierValue>
             </objectIdentifier>
             <objectCharacteristics>
               <fixity>
@@ -60,19 +60,19 @@
   </amdSec>
   <fileSec>
     <fileGrp USE="Image-Service">
-      <file AMDID="715" GROUPID="715" ID="715">
+      <file AMDID="3549" GROUPID="715" ID="3549">
         <FLocat xlink:href="http://storage.rockarch.org/e88626bb-dacc-4b34-88fc-622d835643b7-FCD001_054_00422.pdf"/>
       </file>
     </fileGrp>
   </fileSec>
   <structMap TYPE="logical">
     <div DMDID="715" LABEL="Arizona Advocates for Children" ORDER="1" TYPE="item">
-      <fptr FILEID="715"/>
+      <fptr FILEID="3549"/>
     </div>
   </structMap>
   <structMap TYPE="physical">
     <div DMDID="715" LABEL="Arizona Advocates for Children" ORDER="1" TYPE="item">
-      <fptr FILEID="715"/>
+      <fptr FILEID="3549"/>
     </div>
   </structMap>
 </mets>

@@ -7,7 +7,7 @@
           <mods:titleInfo>
             <mods:title>Cornell University - Fellowships - Part III</mods:title>
           </mods:titleInfo>
-          <mods:typeOfResource>text</mods:typeOfResource>
+          <mods:typeOfResource>Text</mods:typeOfResource>
           <mods:originInfo>
             <mods:dateCreated>1973-1978</mods:dateCreated>
           </mods:originInfo>
@@ -25,20 +25,20 @@
           </mods:relatedItem>
           <mods:relatedItem displayLabel="component" type="host">
             <mods:name>Cornell University - Fellowships - Part III, 1973-1978</mods:name>
-            <mods:identifier>ref1176_lft</mods:identifier>
+            <mods:identifier>a281ec942da84c629857a0a65310fd9a</mods:identifier>
           </mods:relatedItem>
         </mods>
       </xmlData>
     </mdWrap>
   </dmdSec>
   <amdSec>
-    <techMD ID="672">
+    <techMD ID="3512">
       <mdWrap MDTYPE="PREMIS:OBJECT">
         <xmlData>
           <object version="2.2" xmlns="info:lc/xmlns/premis-v2" xsi:schemaLocation="info:lc/xmlns/premis-v2 http://www.loc.gov/standards/premis/v2/premis-v2-2.xsd" xsi:type="file">
             <objectIdentifier>
               <objectIdentifierType>ArchivesSpace identifier</objectIdentifierType>
-              <objectIdentifierValue>672</objectIdentifierValue>
+              <objectIdentifierValue>3512</objectIdentifierValue>
             </objectIdentifier>
             <objectCharacteristics>
               <fixity>
@@ -60,19 +60,19 @@
   </amdSec>
   <fileSec>
     <fileGrp USE="Image-Service">
-      <file AMDID="672" GROUPID="672" ID="672">
+      <file AMDID="3512" GROUPID="672" ID="3512">
         <FLocat xlink:href="http://storage.rockarch.org/7507a1b9-802f-455d-abcd-879f9e2ae445-FCD001_048_00515.pdf"/>
       </file>
     </fileGrp>
   </fileSec>
   <structMap TYPE="logical">
     <div DMDID="672" LABEL="Cornell University - Fellowships - Part III" ORDER="1" TYPE="item">
-      <fptr FILEID="672"/>
+      <fptr FILEID="3512"/>
     </div>
   </structMap>
   <structMap TYPE="physical">
     <div DMDID="672" LABEL="Cornell University - Fellowships - Part III" ORDER="1" TYPE="item">
-      <fptr FILEID="672"/>
+      <fptr FILEID="3512"/>
     </div>
   </structMap>
 </mets>

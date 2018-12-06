@@ -7,7 +7,7 @@
           <mods:titleInfo>
             <mods:title>1918 Conferences in Washington</mods:title>
           </mods:titleInfo>
-          <mods:typeOfResource>text</mods:typeOfResource>
+          <mods:typeOfResource>Text</mods:typeOfResource>
           <mods:originInfo>
             <mods:dateCreated>1918</mods:dateCreated>
           </mods:originInfo>
@@ -25,20 +25,20 @@
           </mods:relatedItem>
           <mods:relatedItem displayLabel="component" type="host">
             <mods:name>1918 Conferences in Washington, 1918</mods:name>
-            <mods:identifier>ref1039_9ra</mods:identifier>
+            <mods:identifier>49b00abc06a544a58b57da26554e038e</mods:identifier>
           </mods:relatedItem>
         </mods>
       </xmlData>
     </mdWrap>
   </dmdSec>
   <amdSec>
-    <techMD ID="1366">
+    <techMD ID="4029">
       <mdWrap MDTYPE="PREMIS:OBJECT">
         <xmlData>
           <object version="2.2" xmlns="info:lc/xmlns/premis-v2" xsi:schemaLocation="info:lc/xmlns/premis-v2 http://www.loc.gov/standards/premis/v2/premis-v2-2.xsd" xsi:type="file">
             <objectIdentifier>
               <objectIdentifierType>ArchivesSpace identifier</objectIdentifierType>
-              <objectIdentifierValue>1366</objectIdentifierValue>
+              <objectIdentifierValue>4029</objectIdentifierValue>
             </objectIdentifier>
             <objectCharacteristics>
               <fixity>
@@ -59,20 +59,20 @@
     </techMD>
   </amdSec>
   <fileSec>
-    <fileGrp USE="Service-Edited">
-      <file AMDID="1366" GROUPID="1366" ID="1366">
+    <fileGrp USE="translation missing: en.enumerations.file_version_use_statement.service-edited">
+      <file AMDID="4029" GROUPID="1366" ID="4029">
         <FLocat xlink:href="http://storage.rockarch.org/01fbcdb4-1174-4ec2-9dfe-497a0b98219c-rac_rfdiaries_12-2_rose_1911-1924_010.pdf"/>
       </file>
     </fileGrp>
   </fileSec>
   <structMap TYPE="logical">
     <div DMDID="1366" LABEL="1918 Conferences in Washington" ORDER="1" TYPE="item">
-      <fptr FILEID="1366"/>
+      <fptr FILEID="4029"/>
     </div>
   </structMap>
   <structMap TYPE="physical">
     <div DMDID="1366" LABEL="1918 Conferences in Washington" ORDER="1" TYPE="item">
-      <fptr FILEID="1366"/>
+      <fptr FILEID="4029"/>
     </div>
   </structMap>
 </mets>

@@ -7,7 +7,7 @@
           <mods:titleInfo>
             <mods:title>Trip Index</mods:title>
           </mods:titleInfo>
-          <mods:typeOfResource>text</mods:typeOfResource>
+          <mods:typeOfResource>Text</mods:typeOfResource>
           <mods:originInfo>
             <mods:dateCreated>1948-1951</mods:dateCreated>
           </mods:originInfo>
@@ -25,20 +25,20 @@
           </mods:relatedItem>
           <mods:relatedItem displayLabel="component" type="host">
             <mods:name>Trip Index, 1948-1951</mods:name>
-            <mods:identifier>ref751_oar</mods:identifier>
+            <mods:identifier>564497b2b0f34ad597882afcb9aeb15b</mods:identifier>
           </mods:relatedItem>
         </mods>
       </xmlData>
     </mdWrap>
   </dmdSec>
   <amdSec>
-    <techMD ID="2160">
+    <techMD ID="4672">
       <mdWrap MDTYPE="PREMIS:OBJECT">
         <xmlData>
           <object version="2.2" xmlns="info:lc/xmlns/premis-v2" xsi:schemaLocation="info:lc/xmlns/premis-v2 http://www.loc.gov/standards/premis/v2/premis-v2-2.xsd" xsi:type="file">
             <objectIdentifier>
               <objectIdentifierType>ArchivesSpace identifier</objectIdentifierType>
-              <objectIdentifierValue>2160</objectIdentifierValue>
+              <objectIdentifierValue>4672</objectIdentifierValue>
             </objectIdentifier>
             <objectCharacteristics>
               <fixity>
@@ -59,20 +59,20 @@
     </techMD>
   </amdSec>
   <fileSec>
-    <fileGrp USE="Service-Edited">
-      <file AMDID="2160" GROUPID="2160" ID="2160">
+    <fileGrp USE="translation missing: en.enumerations.file_version_use_statement.service-edited">
+      <file AMDID="4672" GROUPID="2160" ID="4672">
         <FLocat xlink:href="http://storage.rockarch.org/7ba84eaa-bead-463d-9546-393214169e44-rac_rfdiaries_12-2_harrar_1943-1982_006.pdf"/>
       </file>
     </fileGrp>
   </fileSec>
   <structMap TYPE="logical">
     <div DMDID="2160" LABEL="Trip Index" ORDER="1" TYPE="item">
-      <fptr FILEID="2160"/>
+      <fptr FILEID="4672"/>
     </div>
   </structMap>
   <structMap TYPE="physical">
     <div DMDID="2160" LABEL="Trip Index" ORDER="1" TYPE="item">
-      <fptr FILEID="2160"/>
+      <fptr FILEID="4672"/>
     </div>
   </structMap>
 </mets>

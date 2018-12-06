@@ -7,7 +7,7 @@
           <mods:titleInfo>
             <mods:title>Executive Committee</mods:title>
           </mods:titleInfo>
-          <mods:typeOfResource>text</mods:typeOfResource>
+          <mods:typeOfResource>Text</mods:typeOfResource>
           <mods:originInfo>
             <mods:dateCreated>September 23, 1968</mods:dateCreated>
           </mods:originInfo>
@@ -25,20 +25,20 @@
           </mods:relatedItem>
           <mods:relatedItem displayLabel="component" type="host">
             <mods:name>Executive Committee, September 23, 1968</mods:name>
-            <mods:identifier>ref440_3ds</mods:identifier>
+            <mods:identifier>99460c8a7e79461fb4a6b568e145bd19</mods:identifier>
           </mods:relatedItem>
         </mods>
       </xmlData>
     </mdWrap>
   </dmdSec>
   <amdSec>
-    <techMD ID="240">
+    <techMD ID="3154">
       <mdWrap MDTYPE="PREMIS:OBJECT">
         <xmlData>
           <object version="2.2" xmlns="info:lc/xmlns/premis-v2" xsi:schemaLocation="info:lc/xmlns/premis-v2 http://www.loc.gov/standards/premis/v2/premis-v2-2.xsd" xsi:type="file">
             <objectIdentifier>
               <objectIdentifierType>ArchivesSpace identifier</objectIdentifierType>
-              <objectIdentifierValue>240</objectIdentifierValue>
+              <objectIdentifierValue>3154</objectIdentifierValue>
             </objectIdentifier>
             <objectCharacteristics>
               <fixity>
@@ -60,19 +60,19 @@
   </amdSec>
   <fileSec>
     <fileGrp USE="Image-Service">
-      <file AMDID="240" GROUPID="240" ID="240">
+      <file AMDID="3154" GROUPID="240" ID="3154">
         <FLocat xlink:href="http://storage.rockarch.org/62d9ec96-e4ec-44bd-a258-ab1a97bae3ae-FCD001_020_00869.pdf"/>
       </file>
     </fileGrp>
   </fileSec>
   <structMap TYPE="logical">
     <div DMDID="240" LABEL="Executive Committee" ORDER="1" TYPE="item">
-      <fptr FILEID="240"/>
+      <fptr FILEID="3154"/>
     </div>
   </structMap>
   <structMap TYPE="physical">
     <div DMDID="240" LABEL="Executive Committee" ORDER="1" TYPE="item">
-      <fptr FILEID="240"/>
+      <fptr FILEID="3154"/>
     </div>
   </structMap>
 </mets>

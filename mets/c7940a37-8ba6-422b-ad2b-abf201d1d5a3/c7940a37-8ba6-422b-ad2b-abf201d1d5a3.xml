@@ -7,7 +7,7 @@
           <mods:titleInfo>
             <mods:title>Children's Foundation</mods:title>
           </mods:titleInfo>
-          <mods:typeOfResource>text</mods:typeOfResource>
+          <mods:typeOfResource>Text</mods:typeOfResource>
           <mods:originInfo>
             <mods:dateCreated>1983-1984, 1986-1988</mods:dateCreated>
           </mods:originInfo>
@@ -25,20 +25,20 @@
           </mods:relatedItem>
           <mods:relatedItem displayLabel="component" type="host">
             <mods:name>Children's Foundation, 1983-1984, 1986-1988</mods:name>
-            <mods:identifier>ref1268_w26</mods:identifier>
+            <mods:identifier>0c2867c2f29b47deb22e49fca890252a</mods:identifier>
           </mods:relatedItem>
         </mods>
       </xmlData>
     </mdWrap>
   </dmdSec>
   <amdSec>
-    <techMD ID="750">
+    <techMD ID="3583">
       <mdWrap MDTYPE="PREMIS:OBJECT">
         <xmlData>
           <object version="2.2" xmlns="info:lc/xmlns/premis-v2" xsi:schemaLocation="info:lc/xmlns/premis-v2 http://www.loc.gov/standards/premis/v2/premis-v2-2.xsd" xsi:type="file">
             <objectIdentifier>
               <objectIdentifierType>ArchivesSpace identifier</objectIdentifierType>
-              <objectIdentifierValue>750</objectIdentifierValue>
+              <objectIdentifierValue>3583</objectIdentifierValue>
             </objectIdentifier>
             <objectCharacteristics>
               <fixity>
@@ -60,19 +60,19 @@
   </amdSec>
   <fileSec>
     <fileGrp USE="Image-Service">
-      <file AMDID="750" GROUPID="750" ID="750">
+      <file AMDID="3583" GROUPID="750" ID="3583">
         <FLocat xlink:href="http://storage.rockarch.org/c7940a37-8ba6-422b-ad2b-abf201d1d5a3-FCD001_060_00805.pdf"/>
       </file>
     </fileGrp>
   </fileSec>
   <structMap TYPE="logical">
     <div DMDID="750" LABEL="Children's Foundation" ORDER="1" TYPE="item">
-      <fptr FILEID="750"/>
+      <fptr FILEID="3583"/>
     </div>
   </structMap>
   <structMap TYPE="physical">
     <div DMDID="750" LABEL="Children's Foundation" ORDER="1" TYPE="item">
-      <fptr FILEID="750"/>
+      <fptr FILEID="3583"/>
     </div>
   </structMap>
 </mets>

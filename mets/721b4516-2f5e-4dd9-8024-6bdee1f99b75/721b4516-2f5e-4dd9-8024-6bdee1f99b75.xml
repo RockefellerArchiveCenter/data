@@ -7,7 +7,7 @@
           <mods:titleInfo>
             <mods:title>William M. Bukowski</mods:title>
           </mods:titleInfo>
-          <mods:typeOfResource>text</mods:typeOfResource>
+          <mods:typeOfResource>Text</mods:typeOfResource>
           <mods:originInfo>
             <mods:dateCreated>1984-1985</mods:dateCreated>
           </mods:originInfo>
@@ -25,20 +25,20 @@
           </mods:relatedItem>
           <mods:relatedItem displayLabel="component" type="host">
             <mods:name>William M. Bukowski, 1984-1985</mods:name>
-            <mods:identifier>ref1727_99p</mods:identifier>
+            <mods:identifier>b89c191511c048159afd3f95c92de01e</mods:identifier>
           </mods:relatedItem>
         </mods>
       </xmlData>
     </mdWrap>
   </dmdSec>
   <amdSec>
-    <techMD ID="1134">
+    <techMD ID="3861">
       <mdWrap MDTYPE="PREMIS:OBJECT">
         <xmlData>
           <object version="2.2" xmlns="info:lc/xmlns/premis-v2" xsi:schemaLocation="info:lc/xmlns/premis-v2 http://www.loc.gov/standards/premis/v2/premis-v2-2.xsd" xsi:type="file">
             <objectIdentifier>
               <objectIdentifierType>ArchivesSpace identifier</objectIdentifierType>
-              <objectIdentifierValue>1134</objectIdentifierValue>
+              <objectIdentifierValue>3861</objectIdentifierValue>
             </objectIdentifier>
             <objectCharacteristics>
               <fixity>
@@ -60,19 +60,19 @@
   </amdSec>
   <fileSec>
     <fileGrp USE="Image-Service">
-      <file AMDID="1134" GROUPID="1134" ID="1134">
+      <file AMDID="3861" GROUPID="1134" ID="3861">
         <FLocat xlink:href="http://storage.rockarch.org/721b4516-2f5e-4dd9-8024-6bdee1f99b75-FCD001_105_00709.pdf"/>
       </file>
     </fileGrp>
   </fileSec>
   <structMap TYPE="logical">
     <div DMDID="1134" LABEL="William M. Bukowski" ORDER="1" TYPE="item">
-      <fptr FILEID="1134"/>
+      <fptr FILEID="3861"/>
     </div>
   </structMap>
   <structMap TYPE="physical">
     <div DMDID="1134" LABEL="William M. Bukowski" ORDER="1" TYPE="item">
-      <fptr FILEID="1134"/>
+      <fptr FILEID="3861"/>
     </div>
   </structMap>
 </mets>

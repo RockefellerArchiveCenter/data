@@ -7,7 +7,7 @@
           <mods:titleInfo>
             <mods:title>Children's Defense Fund</mods:title>
           </mods:titleInfo>
-          <mods:typeOfResource>text</mods:typeOfResource>
+          <mods:typeOfResource>Text</mods:typeOfResource>
           <mods:originInfo>
             <mods:dateCreated>1985-1986</mods:dateCreated>
           </mods:originInfo>
@@ -25,20 +25,20 @@
           </mods:relatedItem>
           <mods:relatedItem displayLabel="component" type="host">
             <mods:name>Children's Defense Fund, 1985-1986</mods:name>
-            <mods:identifier>ref1261_27g</mods:identifier>
+            <mods:identifier>9156e71fd9a441e68940824075f71e0e</mods:identifier>
           </mods:relatedItem>
         </mods>
       </xmlData>
     </mdWrap>
   </dmdSec>
   <amdSec>
-    <techMD ID="781">
+    <techMD ID="3613">
       <mdWrap MDTYPE="PREMIS:OBJECT">
         <xmlData>
           <object version="2.2" xmlns="info:lc/xmlns/premis-v2" xsi:schemaLocation="info:lc/xmlns/premis-v2 http://www.loc.gov/standards/premis/v2/premis-v2-2.xsd" xsi:type="file">
             <objectIdentifier>
               <objectIdentifierType>ArchivesSpace identifier</objectIdentifierType>
-              <objectIdentifierValue>781</objectIdentifierValue>
+              <objectIdentifierValue>3613</objectIdentifierValue>
             </objectIdentifier>
             <objectCharacteristics>
               <fixity>
@@ -60,19 +60,19 @@
   </amdSec>
   <fileSec>
     <fileGrp USE="Image-Service">
-      <file AMDID="781" GROUPID="781" ID="781">
+      <file AMDID="3613" GROUPID="781" ID="3613">
         <FLocat xlink:href="http://storage.rockarch.org/8665a3f3-b980-4c57-ba35-07aeebfda35a-FCD001_059_00812.pdf"/>
       </file>
     </fileGrp>
   </fileSec>
   <structMap TYPE="logical">
     <div DMDID="781" LABEL="Children's Defense Fund" ORDER="1" TYPE="item">
-      <fptr FILEID="781"/>
+      <fptr FILEID="3613"/>
     </div>
   </structMap>
   <structMap TYPE="physical">
     <div DMDID="781" LABEL="Children's Defense Fund" ORDER="1" TYPE="item">
-      <fptr FILEID="781"/>
+      <fptr FILEID="3613"/>
     </div>
   </structMap>
 </mets>

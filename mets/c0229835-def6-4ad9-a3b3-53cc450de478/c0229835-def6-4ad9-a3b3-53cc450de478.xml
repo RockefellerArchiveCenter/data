@@ -7,7 +7,7 @@
           <mods:titleInfo>
             <mods:title>University of Kansas, Lawrence</mods:title>
           </mods:titleInfo>
-          <mods:typeOfResource>text</mods:typeOfResource>
+          <mods:typeOfResource>Text</mods:typeOfResource>
           <mods:originInfo>
             <mods:dateCreated>1987-1988</mods:dateCreated>
           </mods:originInfo>
@@ -25,20 +25,20 @@
           </mods:relatedItem>
           <mods:relatedItem displayLabel="component" type="host">
             <mods:name>University of Kansas, Lawrence, 1987-1988</mods:name>
-            <mods:identifier>ref1504_pwe</mods:identifier>
+            <mods:identifier>8ed7cdfc41ac4e0c92d89a68e85b85b9</mods:identifier>
           </mods:relatedItem>
         </mods>
       </xmlData>
     </mdWrap>
   </dmdSec>
   <amdSec>
-    <techMD ID="993">
+    <techMD ID="3809">
       <mdWrap MDTYPE="PREMIS:OBJECT">
         <xmlData>
           <object version="2.2" xmlns="info:lc/xmlns/premis-v2" xsi:schemaLocation="info:lc/xmlns/premis-v2 http://www.loc.gov/standards/premis/v2/premis-v2-2.xsd" xsi:type="file">
             <objectIdentifier>
               <objectIdentifierType>ArchivesSpace identifier</objectIdentifierType>
-              <objectIdentifierValue>993</objectIdentifierValue>
+              <objectIdentifierValue>3809</objectIdentifierValue>
             </objectIdentifier>
             <objectCharacteristics>
               <fixity>
@@ -60,19 +60,19 @@
   </amdSec>
   <fileSec>
     <fileGrp USE="Image-Service">
-      <file AMDID="993" GROUPID="993" ID="993">
+      <file AMDID="3809" GROUPID="993" ID="3809">
         <FLocat xlink:href="http://storage.rockarch.org/c0229835-def6-4ad9-a3b3-53cc450de478-FCD001_093_00245.pdf"/>
       </file>
     </fileGrp>
   </fileSec>
   <structMap TYPE="logical">
     <div DMDID="993" LABEL="University of Kansas, Lawrence" ORDER="1" TYPE="item">
-      <fptr FILEID="993"/>
+      <fptr FILEID="3809"/>
     </div>
   </structMap>
   <structMap TYPE="physical">
     <div DMDID="993" LABEL="University of Kansas, Lawrence" ORDER="1" TYPE="item">
-      <fptr FILEID="993"/>
+      <fptr FILEID="3809"/>
     </div>
   </structMap>
 </mets>

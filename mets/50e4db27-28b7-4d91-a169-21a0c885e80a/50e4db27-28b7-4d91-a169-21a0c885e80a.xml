@@ -7,7 +7,7 @@
           <mods:titleInfo>
             <mods:title>Visits</mods:title>
           </mods:titleInfo>
-          <mods:typeOfResource>text</mods:typeOfResource>
+          <mods:typeOfResource>Text</mods:typeOfResource>
           <mods:originInfo>
             <mods:dateCreated>1953</mods:dateCreated>
           </mods:originInfo>
@@ -32,13 +32,13 @@
     </mdWrap>
   </dmdSec>
   <amdSec>
-    <techMD ID="1425">
+    <techMD ID="4088">
       <mdWrap MDTYPE="PREMIS:OBJECT">
         <xmlData>
           <object version="2.2" xmlns="info:lc/xmlns/premis-v2" xsi:schemaLocation="info:lc/xmlns/premis-v2 http://www.loc.gov/standards/premis/v2/premis-v2-2.xsd" xsi:type="file">
             <objectIdentifier>
               <objectIdentifierType>ArchivesSpace identifier</objectIdentifierType>
-              <objectIdentifierValue>1425</objectIdentifierValue>
+              <objectIdentifierValue>4088</objectIdentifierValue>
             </objectIdentifier>
             <objectCharacteristics>
               <fixity>
@@ -60,19 +60,19 @@
   </amdSec>
   <fileSec>
     <fileGrp USE="translation missing: en.enumerations.file_version_use_statement.service-edited">
-      <file AMDID="1425" GROUPID="1425" ID="1425">
+      <file AMDID="4088" GROUPID="1425" ID="4088">
         <FLocat xlink:href="http://storage.rockarch.org/50e4db27-28b7-4d91-a169-21a0c885e80a-rac_rfdiaries_12-2_tennant_1932-1955_038.pdf"/>
       </file>
     </fileGrp>
   </fileSec>
   <structMap TYPE="logical">
     <div DMDID="1425" LABEL="Visits" ORDER="1" TYPE="item">
-      <fptr FILEID="1425"/>
+      <fptr FILEID="4088"/>
     </div>
   </structMap>
   <structMap TYPE="physical">
     <div DMDID="1425" LABEL="Visits" ORDER="1" TYPE="item">
-      <fptr FILEID="1425"/>
+      <fptr FILEID="4088"/>
     </div>
   </structMap>
 </mets>

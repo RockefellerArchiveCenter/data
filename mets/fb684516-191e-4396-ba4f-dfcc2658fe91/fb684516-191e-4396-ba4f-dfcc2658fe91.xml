@@ -7,7 +7,7 @@
           <mods:titleInfo>
             <mods:title>September 25, 1980</mods:title>
           </mods:titleInfo>
-          <mods:typeOfResource>text</mods:typeOfResource>
+          <mods:typeOfResource>Text</mods:typeOfResource>
           <mods:originInfo>
             <mods:dateCreated>September 25, 1980</mods:dateCreated>
           </mods:originInfo>
@@ -25,20 +25,20 @@
           </mods:relatedItem>
           <mods:relatedItem displayLabel="component" type="host">
             <mods:name>September 25, 1980</mods:name>
-            <mods:identifier>ref541_adt</mods:identifier>
+            <mods:identifier>d9500dfb48ce47bf8ff38f8e3f2d97e9</mods:identifier>
           </mods:relatedItem>
         </mods>
       </xmlData>
     </mdWrap>
   </dmdSec>
   <amdSec>
-    <techMD ID="314">
+    <techMD ID="3224">
       <mdWrap MDTYPE="PREMIS:OBJECT">
         <xmlData>
           <object version="2.2" xmlns="info:lc/xmlns/premis-v2" xsi:schemaLocation="info:lc/xmlns/premis-v2 http://www.loc.gov/standards/premis/v2/premis-v2-2.xsd" xsi:type="file">
             <objectIdentifier>
               <objectIdentifierType>ArchivesSpace identifier</objectIdentifierType>
-              <objectIdentifierValue>314</objectIdentifierValue>
+              <objectIdentifierValue>3224</objectIdentifierValue>
             </objectIdentifier>
             <objectCharacteristics>
               <fixity>
@@ -60,19 +60,19 @@
   </amdSec>
   <fileSec>
     <fileGrp USE="Image-Service">
-      <file AMDID="314" GROUPID="314" ID="314">
+      <file AMDID="3224" GROUPID="314" ID="3224">
         <FLocat xlink:href="http://storage.rockarch.org/fb684516-191e-4396-ba4f-dfcc2658fe91-FCD001_023_01074.pdf"/>
       </file>
     </fileGrp>
   </fileSec>
   <structMap TYPE="logical">
     <div DMDID="314" LABEL="September 25, 1980" ORDER="1" TYPE="item">
-      <fptr FILEID="314"/>
+      <fptr FILEID="3224"/>
     </div>
   </structMap>
   <structMap TYPE="physical">
     <div DMDID="314" LABEL="September 25, 1980" ORDER="1" TYPE="item">
-      <fptr FILEID="314"/>
+      <fptr FILEID="3224"/>
     </div>
   </structMap>
 </mets>

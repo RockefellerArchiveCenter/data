@@ -7,7 +7,7 @@
           <mods:titleInfo>
             <mods:title>University of California, Berkeley</mods:title>
           </mods:titleInfo>
-          <mods:typeOfResource>text</mods:typeOfResource>
+          <mods:typeOfResource>Text</mods:typeOfResource>
           <mods:originInfo>
             <mods:dateCreated>1974-1976</mods:dateCreated>
           </mods:originInfo>
@@ -25,20 +25,20 @@
           </mods:relatedItem>
           <mods:relatedItem displayLabel="component" type="host">
             <mods:name>University of California, Berkeley, 1974-1976</mods:name>
-            <mods:identifier>ref1194_ykj</mods:identifier>
+            <mods:identifier>33c23cf7d3d4458aa6d871d7fda0872a</mods:identifier>
           </mods:relatedItem>
         </mods>
       </xmlData>
     </mdWrap>
   </dmdSec>
   <amdSec>
-    <techMD ID="690">
+    <techMD ID="3528">
       <mdWrap MDTYPE="PREMIS:OBJECT">
         <xmlData>
           <object version="2.2" xmlns="info:lc/xmlns/premis-v2" xsi:schemaLocation="info:lc/xmlns/premis-v2 http://www.loc.gov/standards/premis/v2/premis-v2-2.xsd" xsi:type="file">
             <objectIdentifier>
               <objectIdentifierType>ArchivesSpace identifier</objectIdentifierType>
-              <objectIdentifierValue>690</objectIdentifierValue>
+              <objectIdentifierValue>3528</objectIdentifierValue>
             </objectIdentifier>
             <objectCharacteristics>
               <fixity>
@@ -60,19 +60,19 @@
   </amdSec>
   <fileSec>
     <fileGrp USE="Image-Service">
-      <file AMDID="690" GROUPID="690" ID="690">
+      <file AMDID="3528" GROUPID="690" ID="3528">
         <FLocat xlink:href="http://storage.rockarch.org/e7ad2fe3-ccda-482d-bab6-e730960450c8-FCD001_050_00001.pdf"/>
       </file>
     </fileGrp>
   </fileSec>
   <structMap TYPE="logical">
     <div DMDID="690" LABEL="University of California, Berkeley" ORDER="1" TYPE="item">
-      <fptr FILEID="690"/>
+      <fptr FILEID="3528"/>
     </div>
   </structMap>
   <structMap TYPE="physical">
     <div DMDID="690" LABEL="University of California, Berkeley" ORDER="1" TYPE="item">
-      <fptr FILEID="690"/>
+      <fptr FILEID="3528"/>
     </div>
   </structMap>
 </mets>

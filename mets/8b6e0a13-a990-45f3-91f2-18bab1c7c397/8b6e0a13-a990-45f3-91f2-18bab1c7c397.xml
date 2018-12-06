@@ -7,7 +7,7 @@
           <mods:titleInfo>
             <mods:title>National Council of Churches</mods:title>
           </mods:titleInfo>
-          <mods:typeOfResource>text</mods:typeOfResource>
+          <mods:typeOfResource>Text</mods:typeOfResource>
           <mods:originInfo>
             <mods:dateCreated>1982-1983</mods:dateCreated>
           </mods:originInfo>
@@ -25,20 +25,20 @@
           </mods:relatedItem>
           <mods:relatedItem displayLabel="component" type="host">
             <mods:name>National Council of Churches, 1982-1983</mods:name>
-            <mods:identifier>ref1406_fyu</mods:identifier>
+            <mods:identifier>e984c3e9f5014e84b166d2cb97567eb9</mods:identifier>
           </mods:relatedItem>
         </mods>
       </xmlData>
     </mdWrap>
   </dmdSec>
   <amdSec>
-    <techMD ID="894">
+    <techMD ID="3723">
       <mdWrap MDTYPE="PREMIS:OBJECT">
         <xmlData>
           <object version="2.2" xmlns="info:lc/xmlns/premis-v2" xsi:schemaLocation="info:lc/xmlns/premis-v2 http://www.loc.gov/standards/premis/v2/premis-v2-2.xsd" xsi:type="file">
             <objectIdentifier>
               <objectIdentifierType>ArchivesSpace identifier</objectIdentifierType>
-              <objectIdentifierValue>894</objectIdentifierValue>
+              <objectIdentifierValue>3723</objectIdentifierValue>
             </objectIdentifier>
             <objectCharacteristics>
               <fixity>
@@ -60,19 +60,19 @@
   </amdSec>
   <fileSec>
     <fileGrp USE="Image-Service">
-      <file AMDID="894" GROUPID="894" ID="894">
+      <file AMDID="3723" GROUPID="894" ID="3723">
         <FLocat xlink:href="http://storage.rockarch.org/8b6e0a13-a990-45f3-91f2-18bab1c7c397-FCD001_079_00460.pdf"/>
       </file>
     </fileGrp>
   </fileSec>
   <structMap TYPE="logical">
     <div DMDID="894" LABEL="National Council of Churches" ORDER="1" TYPE="item">
-      <fptr FILEID="894"/>
+      <fptr FILEID="3723"/>
     </div>
   </structMap>
   <structMap TYPE="physical">
     <div DMDID="894" LABEL="National Council of Churches" ORDER="1" TYPE="item">
-      <fptr FILEID="894"/>
+      <fptr FILEID="3723"/>
     </div>
   </structMap>
 </mets>

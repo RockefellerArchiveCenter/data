@@ -7,7 +7,7 @@
           <mods:titleInfo>
             <mods:title>Department of Health - Division of Day Care</mods:title>
           </mods:titleInfo>
-          <mods:typeOfResource>text</mods:typeOfResource>
+          <mods:typeOfResource>Text</mods:typeOfResource>
           <mods:originInfo>
             <mods:dateCreated>1978</mods:dateCreated>
           </mods:originInfo>
@@ -25,20 +25,20 @@
           </mods:relatedItem>
           <mods:relatedItem displayLabel="component" type="host">
             <mods:name>Department of Health - Division of Day Care, 1978</mods:name>
-            <mods:identifier>ref1538_7qo</mods:identifier>
+            <mods:identifier>9e02422e890e4e37af4ae35d894df9da</mods:identifier>
           </mods:relatedItem>
         </mods>
       </xmlData>
     </mdWrap>
   </dmdSec>
   <amdSec>
-    <techMD ID="1031">
+    <techMD ID="3840">
       <mdWrap MDTYPE="PREMIS:OBJECT">
         <xmlData>
           <object version="2.2" xmlns="info:lc/xmlns/premis-v2" xsi:schemaLocation="info:lc/xmlns/premis-v2 http://www.loc.gov/standards/premis/v2/premis-v2-2.xsd" xsi:type="file">
             <objectIdentifier>
               <objectIdentifierType>ArchivesSpace identifier</objectIdentifierType>
-              <objectIdentifierValue>1031</objectIdentifierValue>
+              <objectIdentifierValue>3840</objectIdentifierValue>
             </objectIdentifier>
             <objectCharacteristics>
               <fixity>
@@ -60,19 +60,19 @@
   </amdSec>
   <fileSec>
     <fileGrp USE="Image-Service">
-      <file AMDID="1031" GROUPID="1031" ID="1031">
+      <file AMDID="3840" GROUPID="1031" ID="3840">
         <FLocat xlink:href="http://storage.rockarch.org/fc970c1c-012f-4312-8f43-01b6e8285c42-FCD001_097_00001.pdf"/>
       </file>
     </fileGrp>
   </fileSec>
   <structMap TYPE="logical">
     <div DMDID="1031" LABEL="Department of Health - Division of Day Care" ORDER="1" TYPE="item">
-      <fptr FILEID="1031"/>
+      <fptr FILEID="3840"/>
     </div>
   </structMap>
   <structMap TYPE="physical">
     <div DMDID="1031" LABEL="Department of Health - Division of Day Care" ORDER="1" TYPE="item">
-      <fptr FILEID="1031"/>
+      <fptr FILEID="3840"/>
     </div>
   </structMap>
 </mets>

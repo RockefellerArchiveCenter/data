@@ -7,7 +7,7 @@
           <mods:titleInfo>
             <mods:title>University of Rochester</mods:title>
           </mods:titleInfo>
-          <mods:typeOfResource>text</mods:typeOfResource>
+          <mods:typeOfResource>Text</mods:typeOfResource>
           <mods:originInfo>
             <mods:dateCreated>1984-1987</mods:dateCreated>
           </mods:originInfo>
@@ -25,20 +25,20 @@
           </mods:relatedItem>
           <mods:relatedItem displayLabel="component" type="host">
             <mods:name>University of Rochester, 1984-1987</mods:name>
-            <mods:identifier>ref1511_1qb</mods:identifier>
+            <mods:identifier>eb4f55c013a44464a14b4a088d0bdbe8</mods:identifier>
           </mods:relatedItem>
         </mods>
       </xmlData>
     </mdWrap>
   </dmdSec>
   <amdSec>
-    <techMD ID="1003">
+    <techMD ID="3814">
       <mdWrap MDTYPE="PREMIS:OBJECT">
         <xmlData>
           <object version="2.2" xmlns="info:lc/xmlns/premis-v2" xsi:schemaLocation="info:lc/xmlns/premis-v2 http://www.loc.gov/standards/premis/v2/premis-v2-2.xsd" xsi:type="file">
             <objectIdentifier>
               <objectIdentifierType>ArchivesSpace identifier</objectIdentifierType>
-              <objectIdentifierValue>1003</objectIdentifierValue>
+              <objectIdentifierValue>3814</objectIdentifierValue>
             </objectIdentifier>
             <objectCharacteristics>
               <fixity>
@@ -60,19 +60,19 @@
   </amdSec>
   <fileSec>
     <fileGrp USE="Image-Service">
-      <file AMDID="1003" GROUPID="1003" ID="1003">
+      <file AMDID="3814" GROUPID="1003" ID="3814">
         <FLocat xlink:href="http://storage.rockarch.org/7b1c2383-eb81-4e9f-92ec-14d08bbcfc93-FCD001_094_00001.pdf"/>
       </file>
     </fileGrp>
   </fileSec>
   <structMap TYPE="logical">
     <div DMDID="1003" LABEL="University of Rochester" ORDER="1" TYPE="item">
-      <fptr FILEID="1003"/>
+      <fptr FILEID="3814"/>
     </div>
   </structMap>
   <structMap TYPE="physical">
     <div DMDID="1003" LABEL="University of Rochester" ORDER="1" TYPE="item">
-      <fptr FILEID="1003"/>
+      <fptr FILEID="3814"/>
     </div>
   </structMap>
 </mets>

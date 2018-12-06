@@ -7,7 +7,7 @@
           <mods:titleInfo>
             <mods:title>Agency for Child Development</mods:title>
           </mods:titleInfo>
-          <mods:typeOfResource>text</mods:typeOfResource>
+          <mods:typeOfResource>Text</mods:typeOfResource>
           <mods:originInfo>
             <mods:dateCreated>1978-1979</mods:dateCreated>
           </mods:originInfo>
@@ -25,20 +25,20 @@
           </mods:relatedItem>
           <mods:relatedItem displayLabel="component" type="host">
             <mods:name>Agency for Child Development, 1978-1979</mods:name>
-            <mods:identifier>ref1526_hes</mods:identifier>
+            <mods:identifier>9957aeb65e5d45b698f2fe8cd8e93114</mods:identifier>
           </mods:relatedItem>
         </mods>
       </xmlData>
     </mdWrap>
   </dmdSec>
   <amdSec>
-    <techMD ID="1010">
+    <techMD ID="3820">
       <mdWrap MDTYPE="PREMIS:OBJECT">
         <xmlData>
           <object version="2.2" xmlns="info:lc/xmlns/premis-v2" xsi:schemaLocation="info:lc/xmlns/premis-v2 http://www.loc.gov/standards/premis/v2/premis-v2-2.xsd" xsi:type="file">
             <objectIdentifier>
               <objectIdentifierType>ArchivesSpace identifier</objectIdentifierType>
-              <objectIdentifierValue>1010</objectIdentifierValue>
+              <objectIdentifierValue>3820</objectIdentifierValue>
             </objectIdentifier>
             <objectCharacteristics>
               <fixity>
@@ -60,19 +60,19 @@
   </amdSec>
   <fileSec>
     <fileGrp USE="Image-Service">
-      <file AMDID="1010" GROUPID="1010" ID="1010">
+      <file AMDID="3820" GROUPID="1010" ID="3820">
         <FLocat xlink:href="http://storage.rockarch.org/27d0e95f-1a9a-470c-94ca-86dfde6c3ce2-FCD001_095_00755.pdf"/>
       </file>
     </fileGrp>
   </fileSec>
   <structMap TYPE="logical">
     <div DMDID="1010" LABEL="Agency for Child Development" ORDER="1" TYPE="item">
-      <fptr FILEID="1010"/>
+      <fptr FILEID="3820"/>
     </div>
   </structMap>
   <structMap TYPE="physical">
     <div DMDID="1010" LABEL="Agency for Child Development" ORDER="1" TYPE="item">
-      <fptr FILEID="1010"/>
+      <fptr FILEID="3820"/>
     </div>
   </structMap>
 </mets>

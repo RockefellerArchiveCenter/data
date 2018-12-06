@@ -7,7 +7,7 @@
           <mods:titleInfo>
             <mods:title>1946 December 19-1947 December 24</mods:title>
           </mods:titleInfo>
-          <mods:typeOfResource>text</mods:typeOfResource>
+          <mods:typeOfResource>Text</mods:typeOfResource>
           <mods:originInfo>
             <mods:dateCreated>1946 December 19-1947 December 24</mods:dateCreated>
           </mods:originInfo>
@@ -25,20 +25,20 @@
           </mods:relatedItem>
           <mods:relatedItem displayLabel="component" type="host">
             <mods:name>1946 December 19-1947 December 24</mods:name>
-            <mods:identifier>ref394_7pa</mods:identifier>
+            <mods:identifier>2c83829c30cd4aa2b67661ef99a40ff0</mods:identifier>
           </mods:relatedItem>
         </mods>
       </xmlData>
     </mdWrap>
   </dmdSec>
   <amdSec>
-    <techMD ID="2036">
+    <techMD ID="4548">
       <mdWrap MDTYPE="PREMIS:OBJECT">
         <xmlData>
           <object version="2.2" xmlns="info:lc/xmlns/premis-v2" xsi:schemaLocation="info:lc/xmlns/premis-v2 http://www.loc.gov/standards/premis/v2/premis-v2-2.xsd" xsi:type="file">
             <objectIdentifier>
               <objectIdentifierType>ArchivesSpace identifier</objectIdentifierType>
-              <objectIdentifierValue>2036</objectIdentifierValue>
+              <objectIdentifierValue>4548</objectIdentifierValue>
             </objectIdentifier>
             <objectCharacteristics>
               <fixity>
@@ -59,20 +59,20 @@
     </techMD>
   </amdSec>
   <fileSec>
-    <fileGrp USE="Service-Edited">
-      <file AMDID="2036" GROUPID="2036" ID="2036">
+    <fileGrp USE="translation missing: en.enumerations.file_version_use_statement.service-edited">
+      <file AMDID="4548" GROUPID="2036" ID="4548">
         <FLocat xlink:href="http://storage.rockarch.org/ddb79b0f-7916-4f0a-81f5-609589735b54-rac_rfdiaries_12-2_grant_1937-1955_010.pdf"/>
       </file>
     </fileGrp>
   </fileSec>
   <structMap TYPE="logical">
     <div DMDID="2036" LABEL="1946 December 19-1947 December 24" ORDER="1" TYPE="item">
-      <fptr FILEID="2036"/>
+      <fptr FILEID="4548"/>
     </div>
   </structMap>
   <structMap TYPE="physical">
     <div DMDID="2036" LABEL="1946 December 19-1947 December 24" ORDER="1" TYPE="item">
-      <fptr FILEID="2036"/>
+      <fptr FILEID="4548"/>
     </div>
   </structMap>
 </mets>

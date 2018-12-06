@@ -7,7 +7,7 @@
           <mods:titleInfo>
             <mods:title>Child Watch International</mods:title>
           </mods:titleInfo>
-          <mods:typeOfResource>text</mods:typeOfResource>
+          <mods:typeOfResource>Text</mods:typeOfResource>
           <mods:originInfo>
             <mods:dateCreated>1978</mods:dateCreated>
           </mods:originInfo>
@@ -25,20 +25,20 @@
           </mods:relatedItem>
           <mods:relatedItem displayLabel="component" type="host">
             <mods:name>Child Watch International, 1978</mods:name>
-            <mods:identifier>ref1124_la6</mods:identifier>
+            <mods:identifier>a40a2d4c3d444c6b9e1fb1452678ce21</mods:identifier>
           </mods:relatedItem>
         </mods>
       </xmlData>
     </mdWrap>
   </dmdSec>
   <amdSec>
-    <techMD ID="620">
+    <techMD ID="3465">
       <mdWrap MDTYPE="PREMIS:OBJECT">
         <xmlData>
           <object version="2.2" xmlns="info:lc/xmlns/premis-v2" xsi:schemaLocation="info:lc/xmlns/premis-v2 http://www.loc.gov/standards/premis/v2/premis-v2-2.xsd" xsi:type="file">
             <objectIdentifier>
               <objectIdentifierType>ArchivesSpace identifier</objectIdentifierType>
-              <objectIdentifierValue>620</objectIdentifierValue>
+              <objectIdentifierValue>3465</objectIdentifierValue>
             </objectIdentifier>
             <objectCharacteristics>
               <fixity>
@@ -60,19 +60,19 @@
   </amdSec>
   <fileSec>
     <fileGrp USE="Image-Service">
-      <file AMDID="620" GROUPID="620" ID="620">
+      <file AMDID="3465" GROUPID="620" ID="3465">
         <FLocat xlink:href="http://storage.rockarch.org/b666e33f-019f-40da-a862-85101e245138-FCD001_044_00790.pdf"/>
       </file>
     </fileGrp>
   </fileSec>
   <structMap TYPE="logical">
     <div DMDID="620" LABEL="Child Watch International" ORDER="1" TYPE="item">
-      <fptr FILEID="620"/>
+      <fptr FILEID="3465"/>
     </div>
   </structMap>
   <structMap TYPE="physical">
     <div DMDID="620" LABEL="Child Watch International" ORDER="1" TYPE="item">
-      <fptr FILEID="620"/>
+      <fptr FILEID="3465"/>
     </div>
   </structMap>
 </mets>

@@ -7,7 +7,7 @@
           <mods:titleInfo>
             <mods:title>American Public Welfare Association</mods:title>
           </mods:titleInfo>
-          <mods:typeOfResource>text</mods:typeOfResource>
+          <mods:typeOfResource>Text</mods:typeOfResource>
           <mods:originInfo>
             <mods:dateCreated>1975, 1977-1982</mods:dateCreated>
           </mods:originInfo>
@@ -25,20 +25,20 @@
           </mods:relatedItem>
           <mods:relatedItem displayLabel="component" type="host">
             <mods:name>American Public Welfare Association, 1975, 1977-1982</mods:name>
-            <mods:identifier>ref642_t4n</mods:identifier>
+            <mods:identifier>99d19a369a394acc8b7de060e2fb3be2</mods:identifier>
           </mods:relatedItem>
         </mods>
       </xmlData>
     </mdWrap>
   </dmdSec>
   <amdSec>
-    <techMD ID="406">
+    <techMD ID="3256">
       <mdWrap MDTYPE="PREMIS:OBJECT">
         <xmlData>
           <object version="2.2" xmlns="info:lc/xmlns/premis-v2" xsi:schemaLocation="info:lc/xmlns/premis-v2 http://www.loc.gov/standards/premis/v2/premis-v2-2.xsd" xsi:type="file">
             <objectIdentifier>
               <objectIdentifierType>ArchivesSpace identifier</objectIdentifierType>
-              <objectIdentifierValue>406</objectIdentifierValue>
+              <objectIdentifierValue>3256</objectIdentifierValue>
             </objectIdentifier>
             <objectCharacteristics>
               <fixity>
@@ -60,19 +60,19 @@
   </amdSec>
   <fileSec>
     <fileGrp USE="Image-Service">
-      <file AMDID="406" GROUPID="406" ID="406">
+      <file AMDID="3256" GROUPID="406" ID="3256">
         <FLocat xlink:href="http://storage.rockarch.org/736951b3-07ae-45d1-a4e9-b3966d00883c-FCD001_029_00308.pdf"/>
       </file>
     </fileGrp>
   </fileSec>
   <structMap TYPE="logical">
     <div DMDID="406" LABEL="American Public Welfare Association" ORDER="1" TYPE="item">
-      <fptr FILEID="406"/>
+      <fptr FILEID="3256"/>
     </div>
   </structMap>
   <structMap TYPE="physical">
     <div DMDID="406" LABEL="American Public Welfare Association" ORDER="1" TYPE="item">
-      <fptr FILEID="406"/>
+      <fptr FILEID="3256"/>
     </div>
   </structMap>
 </mets>

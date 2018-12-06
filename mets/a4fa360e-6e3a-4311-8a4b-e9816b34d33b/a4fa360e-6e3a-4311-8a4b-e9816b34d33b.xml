@@ -7,7 +7,7 @@
           <mods:titleInfo>
             <mods:title>1939 January-May</mods:title>
           </mods:titleInfo>
-          <mods:typeOfResource>text</mods:typeOfResource>
+          <mods:typeOfResource>Text</mods:typeOfResource>
           <mods:originInfo>
             <mods:dateCreated>1939 January-May</mods:dateCreated>
           </mods:originInfo>
@@ -32,13 +32,13 @@
     </mdWrap>
   </dmdSec>
   <amdSec>
-    <techMD ID="1522">
+    <techMD ID="4185">
       <mdWrap MDTYPE="PREMIS:OBJECT">
         <xmlData>
           <object version="2.2" xmlns="info:lc/xmlns/premis-v2" xsi:schemaLocation="info:lc/xmlns/premis-v2 http://www.loc.gov/standards/premis/v2/premis-v2-2.xsd" xsi:type="file">
             <objectIdentifier>
               <objectIdentifierType>ArchivesSpace identifier</objectIdentifierType>
-              <objectIdentifierValue>1522</objectIdentifierValue>
+              <objectIdentifierValue>4185</objectIdentifierValue>
             </objectIdentifier>
             <objectCharacteristics>
               <fixity>
@@ -60,19 +60,19 @@
   </amdSec>
   <fileSec>
     <fileGrp USE="translation missing: en.enumerations.file_version_use_statement.service-edited">
-      <file AMDID="1522" GROUPID="1522" ID="1522">
+      <file AMDID="4185" GROUPID="1522" ID="4185">
         <FLocat xlink:href="http://storage.rockarch.org/a4fa360e-6e3a-4311-8a4b-e9816b34d33b-rac_rfdiaries_12-2_stevens_1932-1949_008.pdf"/>
       </file>
     </fileGrp>
   </fileSec>
   <structMap TYPE="logical">
     <div DMDID="1522" LABEL="1939 January-May" ORDER="1" TYPE="item">
-      <fptr FILEID="1522"/>
+      <fptr FILEID="4185"/>
     </div>
   </structMap>
   <structMap TYPE="physical">
     <div DMDID="1522" LABEL="1939 January-May" ORDER="1" TYPE="item">
-      <fptr FILEID="1522"/>
+      <fptr FILEID="4185"/>
     </div>
   </structMap>
 </mets>
