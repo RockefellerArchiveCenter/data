@@ -1,1 +1,101 @@
-{"error":"undefined method `<<' for nil:NilClass"}
+<?xml version="1.0" encoding="UTF-8"?>
+<mets xmlns="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/mets/mets.xsd">
+  <dmdSec ID="1351">
+    <mdWrap MDTYPE="MODS">
+      <xmlData>
+        <mods version="3.4" xmlns="http://www.loc.gov/mods/v3">
+          <mods:titleInfo>
+            <mods:title>1932</mods:title>
+          </mods:titleInfo>
+          <mods:typeOfResource>Text</mods:typeOfResource>
+          <mods:originInfo>
+            <mods:dateCreated>1932</mods:dateCreated>
+          </mods:originInfo>
+          <mods:language>
+            <mods:languageTerm type="code">eng</mods:languageTerm>
+          </mods:language>
+          <mods:physicalDescription/>
+          <mods:note type="originalsloc">a45a6a7d-9bc4-4bdc-961a-cf0e6603e55c</mods:note>
+          <mods:accessCondition type="restrictionOnAccess">As the author is deceased, the Rockefeller Foundation restriction on the diaries of living officers no longer applies. The Rockefeller Foundation twenty-year embargo has also expired for these materials.</mods:accessCondition>
+          <mods:accessCondition type="useAndReproduction">To the extent that the Rockefeller Foundation owns copyright in these materials, it has given the Rockefeller Archive Center the authority to grant permission to cite and publish material from the collection for scholarly purposes.</mods:accessCondition>
+          <mods:note displayLabel="Scope and Contents note" type="note">While in the RF Paris office, Crowell’s entries are organized by interview and visit. Crowell speaks with professionals associated with public health nursing and her conversations address subjects such as RF fellows, nursing schools, training centers, health clinics, and the development of new European public health nursing programs. While on visits to European cities, Crowell's entries discuss the progress of RF programs in each city, the placement of nursing fellows from that particular country, the development of new projects  (in other European cities) along with new nursing educators, and the routine of RF nursing fellows stationed in each respective city. Cities visited include Vienna, Graz, Budapest, Debrecen, Sofia, Belgrade, Zagreb, London, Venice, Paraggi, Bucharest, Jassy, Cluj, Prague, Madrid, Barcelona, Brussels, Venice, Debrecen and Skopje. Extensive medical and public health surveys of Spanish cities are included.</mods:note>
+          <mods:subject authority="lcsh">
+            <aspace_export_error>ASPACE EXPORT ERROR : YOU HAVE A PROBLEM WITH YOUR EXPORT OF YOUR RESOURCE. THE FOLLOWING INFORMATION MAY HELP:
+        
+ undefined method `each' for nil:NilClass 
+ ["/as_2.5.1/archivesspace/plugins/local/backend/model/rac_mods_exporter.rb:45:in `block in serialize_mods_inner'", "/as_2.5.1/archivesspace/gems/gems/nokogiri-1.8.4-java/lib/nokogiri/xml/builder.rb:391:in `insert'", "/as_2.5.1/archivesspace/gems/gems/nokogiri-1.8.4-java/lib/nokogiri/xml/builder.rb:375:in `method_missing'", "/as_2.5.1/archivesspace/data/tmp/jetty-0.0.0.0-8089-backend.war-_-any-/webapp/WEB-INF/app/exporters/lib/exporter.rb:175:in `method_missing'", "/as_2.5.1/archivesspace/plugins/local/backend/model/rac_mods_exporter.rb:44:in `block in serialize_mods_inner'", "org/jruby/RubyArray.java:1734:in `each'", "/as_2.5.1/archivesspace/plugins/local/backend/model/rac_mods_exporter.rb:43:in `serialize_mods_inner'", "/as_2.5.1/archivesspace/data/tmp/jetty-0.0.0.0-8089-backend.war-_-any-/webapp/WEB-INF/app/exporters/serializers/mods.rb:21:in `block in serialize_mods'", "/as_2.5.1/archivesspace/gems/gems/nokogiri-1.8.4-java/lib/nokogiri/xml/builder.rb:391:in `insert'", "/as_2.5.1/archivesspace/gems/gems/nokogiri-1.8.4-java/lib/nokogiri/xml/builder.rb:375:in `method_missing'", "/as_2.5.1/archivesspace/data/tmp/jetty-0.0.0.0-8089-backend.war-_-any-/webapp/WEB-INF/app/exporters/lib/exporter.rb:175:in `method_missing'", "/as_2.5.1/archivesspace/data/tmp/jetty-0.0.0.0-8089-backend.war-_-any-/webapp/WEB-INF/app/exporters/serializers/mods.rb:20:in `serialize_mods'", "/as_2.5.1/archivesspace/plugins/local/backend/model/rac_mets_exporter.rb:27:in `block in mets'", "/as_2.5.1/archivesspace/data/tmp/jetty-0.0.0.0-8089-backend.war-_-any-/webapp/WEB-INF/app/exporters/lib/exporter.rb:123:in `with_namespace'", "/as_2.5.1/archivesspace/plugins/local/backend/model/rac_mets_exporter.rb:25:in `block in mets'", "/as_2.5.1/archivesspace/gems/gems/nokogiri-1.8.4-java/lib/nokogiri/xml/builder.rb:391:in `insert'", "/as_2.5.1/archivesspace/gems/gems/nokogiri-1.8.4-java/lib/nokogiri/xml/builder.rb:375:in `method_missing'", "/as_2.5.1/archivesspace/data/tmp/jetty-0.0.0.0-8089-backend.war-_-any-/webapp/WEB-INF/app/exporters/lib/exporter.rb:175:in `method_missing'", "/as_2.5.1/archivesspace/plugins/local/backend/model/rac_mets_exporter.rb:24:in `block in mets'", "/as_2.5.1/archivesspace/gems/gems/nokogiri-1.8.4-java/lib/nokogiri/xml/builder.rb:391:in `insert'", "/as_2.5.1/archivesspace/gems/gems/nokogiri-1.8.4-java/lib/nokogiri/xml/builder.rb:375:in `method_missing'", "/as_2.5.1/archivesspace/data/tmp/jetty-0.0.0.0-8089-backend.war-_-any-/webapp/WEB-INF/app/exporters/lib/exporter.rb:175:in `method_missing'", "/as_2.5.1/archivesspace/plugins/local/backend/model/rac_mets_exporter.rb:23:in `block in mets'", "/as_2.5.1/archivesspace/gems/gems/nokogiri-1.8.4-java/lib/nokogiri/xml/builder.rb:391:in `insert'", "/as_2.5.1/archivesspace/gems/gems/nokogiri-1.8.4-java/lib/nokogiri/xml/builder.rb:375:in `method_missing'", "/as_2.5.1/archivesspace/data/tmp/jetty-0.0.0.0-8089-backend.war-_-any-/webapp/WEB-INF/app/exporters/lib/exporter.rb:175:in `method_missing'", "/as_2.5.1/archivesspace/plugins/local/backend/model/rac_mets_exporter.rb:22:in `block in mets'", "/as_2.5.1/archivesspace/gems/gems/nokogiri-1.8.4-java/lib/nokogiri/xml/builder.rb:391:in `insert'", "/as_2.5.1/archivesspace/gems/gems/nokogiri-1.8.4-java/lib/nokogiri/xml/builder.rb:375:in `method_missing'", "/as_2.5.1/archivesspace/data/tmp/jetty-0.0.0.0-8089-backend.war-_-any-/webapp/WEB-INF/app/exporters/lib/exporter.rb:175:in `method_missing'", "/as_2.5.1/archivesspace/plugins/local/backend/model/rac_mets_exporter.rb:16:in `mets'", "/as_2.5.1/archivesspace/data/tmp/jetty-0.0.0.0-8089-backend.war-_-any-/webapp/WEB-INF/app/exporters/serializers/mets.rb:9:in `block in build'", "/as_2.5.1/archivesspace/gems/gems/nokogiri-1.8.4-java/lib/nokogiri/xml/builder.rb:293:in `initialize'", "/as_2.5.1/archivesspace/data/tmp/jetty-0.0.0.0-8089-backend.war-_-any-/webapp/WEB-INF/app/exporters/serializers/mets.rb:5:in `build'", "/as_2.5.1/archivesspace/data/tmp/jetty-0.0.0.0-8089-backend.war-_-any-/webapp/WEB-INF/app/exporters/serializers/mets.rb:19:in `serialize'", "/as_2.5.1/archivesspace/data/tmp/jetty-0.0.0.0-8089-backend.war-_-any-/webapp/WEB-INF/app/exporters/lib/exporter.rb:92:in `serialize'", "/as_2.5.1/archivesspace/plugins/local/backend/model/rac_mets_exporter.rb:6:in `generate_mets'", "/as_2.5.1/archivesspace/data/tmp/jetty-0.0.0.0-8089-backend.war-_-any-/webapp/WEB-INF/app/controllers/exports.rb:38:in `block in ArchivesSpaceService'", "org/jruby/RubyBasicObject.java:1687:in `instance_eval'", "/as_2.5.1/archivesspace/data/tmp/jetty-0.0.0.0-8089-backend.war-_-any-/webapp/WEB-INF/app/lib/rest.rb:280:in `block in returns'", "/as_2.5.1/archivesspace/data/tmp/jetty-0.0.0.0-8089-backend.war-_-any-/webapp/WEB-INF/app/model/db.rb:111:in `block in open'", "/as_2.5.1/archivesspace/data/tmp/jetty-0.0.0.0-8089-backend.war-_-any-/webapp/WEB-INF/app/model/db.rb:75:in `block in transaction'", "/as_2.5.1/archivesspace/gems/gems/sequel-4.20.0/lib/sequel/database/transactions.rb:134:in `_transaction'", "/as_2.5.1/archivesspace/gems/gems/sequel-4.20.0/lib/sequel/database/transactions.rb:108:in `block in transaction'", "/as_2.5.1/archivesspace/gems/gems/sequel-4.20.0/lib/sequel/connection_pool/threaded.rb:98:in `hold'", "/as_2.5.1/archivesspace/gems/gems/sequel-4.20.0/lib/sequel/database/connecting.rb:255:in `synchronize'", "/as_2.5.1/archivesspace/gems/gems/sequel-4.20.0/lib/sequel/database/transactions.rb:97:in `transaction'", "/as_2.5.1/archivesspace/data/tmp/jetty-0.0.0.0-8089-backend.war-_-any-/webapp/WEB-INF/app/model/db.rb:74:in `transaction'", "/as_2.5.1/archivesspace/data/tmp/jetty-0.0.0.0-8089-backend.war-_-any-/webapp/WEB-INF/app/model/db.rb:110:in `block in open'", "org/jruby/RubyFixnum.java:305:in `times'", "/as_2.5.1/archivesspace/data/tmp/jetty-0.0.0.0-8089-backend.war-_-any-/webapp/WEB-INF/app/model/db.rb:107:in `open'", "/as_2.5.1/archivesspace/data/tmp/jetty-0.0.0.0-8089-backend.war-_-any-/webapp/WEB-INF/app/model/db.rb:432:in `block in DB'", "/as_2.5.1/archivesspace/data/tmp/jetty-0.0.0.0-8089-backend.war-_-any-/webapp/WEB-INF/app/lib/rest.rb:262:in `block in returns'", "/as_2.5.1/archivesspace/data/tmp/jetty-0.0.0.0-8089-backend.war-_-any-/webapp/WEB-INF/app/lib/request_context.rb:24:in `open'", "/as_2.5.1/archivesspace/data/tmp/jetty-0.0.0.0-8089-backend.war-_-any-/webapp/WEB-INF/app/lib/rest.rb:230:in `block in returns'", "org/jruby/RubyMethod.java:111:in `call'", "/as_2.5.1/archivesspace/gems/gems/sinatra-1.4.7/lib/sinatra/base.rb:1611:in `block in compile!'", "/as_2.5.1/archivesspace/gems/gems/sinatra-1.4.7/lib/sinatra/base.rb:975:in `block in route!'", "/as_2.5.1/archivesspace/gems/gems/sinatra-1.4.7/lib/sinatra/base.rb:994:in `route_eval'", "/as_2.5.1/archivesspace/gems/gems/sinatra-1.4.7/lib/sinatra/base.rb:975:in `block in route!'", "/as_2.5.1/archivesspace/gems/gems/sinatra-1.4.7/lib/sinatra/base.rb:1015:in `block in process_route'", "org/jruby/RubyKernel.java:1120:in `catch'", "/as_2.5.1/archivesspace/gems/gems/sinatra-1.4.7/lib/sinatra/base.rb:1013:in `process_route'", "/as_2.5.1/archivesspace/gems/gems/sinatra-1.4.7/lib/sinatra/base.rb:973:in `block in route!'", "org/jruby/RubyArray.java:1734:in `each'", "/as_2.5.1/archivesspace/gems/gems/sinatra-1.4.7/lib/sinatra/base.rb:972:in `route!'", "/as_2.5.1/archivesspace/gems/gems/sinatra-1.4.7/lib/sinatra/base.rb:1085:in `block in dispatch!'", "/as_2.5.1/archivesspace/gems/gems/sinatra-1.4.7/lib/sinatra/base.rb:1067:in `block in invoke'", "org/jruby/RubyKernel.java:1120:in `catch'", "/as_2.5.1/archivesspace/gems/gems/sinatra-1.4.7/lib/sinatra/base.rb:1067:in `invoke'", "/as_2.5.1/archivesspace/gems/gems/sinatra-1.4.7/lib/sinatra/base.rb:1082:in `dispatch!'", "/as_2.5.1/archivesspace/gems/gems/sinatra-1.4.7/lib/sinatra/base.rb:907:in `block in call!'", "/as_2.5.1/archivesspace/gems/gems/sinatra-1.4.7/lib/sinatra/base.rb:1067:in `block in invoke'", "org/jruby/RubyKernel.java:1120:in `catch'", "/as_2.5.1/archivesspace/gems/gems/sinatra-1.4.7/lib/sinatra/base.rb:1067:in `invoke'", "/as_2.5.1/archivesspace/gems/gems/sinatra-1.4.7/lib/sinatra/base.rb:907:in `call!'", "/as_2.5.1/archivesspace/gems/gems/sinatra-1.4.7/lib/sinatra/base.rb:895:in `call'", "/as_2.5.1/archivesspace/data/tmp/jetty-0.0.0.0-8089-backend.war-_-any-/webapp/WEB-INF/app/main.rb:291:in `call'", "/as_2.5.1/archivesspace/plugins/as-cors/backend/plugin_init.rb:12:in `call'", "/as_2.5.1/archivesspace/gems/gems/rack-protection-1.5.5/lib/rack/protection/xss_header.rb:18:in `call'", "/as_2.5.1/archivesspace/gems/gems/rack-protection-1.5.5/lib/rack/protection/path_traversal.rb:16:in `call'", "/as_2.5.1/archivesspace/gems/gems/rack-protection-1.5.5/lib/rack/protection/json_csrf.rb:18:in `call'", "/as_2.5.1/archivesspace/gems/gems/rack-protection-1.5.5/lib/rack/protection/base.rb:49:in `call'", "/as_2.5.1/archivesspace/gems/gems/rack-protection-1.5.5/lib/rack/protection/base.rb:49:in `call'", "/as_2.5.1/archivesspace/gems/gems/rack-protection-1.5.5/lib/rack/protection/frame_options.rb:31:in `call'", "uri:classloader:/vendor/rack-1.6.8/rack/nulllogger.rb:9:in `call'", "uri:classloader:/vendor/rack-1.6.8/rack/head.rb:13:in `call'", "/as_2.5.1/archivesspace/gems/gems/sinatra-1.4.7/lib/sinatra/base.rb:182:in `call'", "/as_2.5.1/archivesspace/gems/gems/sinatra-1.4.7/lib/sinatra/base.rb:2013:in `call'", "/as_2.5.1/archivesspace/gems/gems/sinatra-1.4.7/lib/sinatra/base.rb:1487:in `block in call'", "/as_2.5.1/archivesspace/gems/gems/sinatra-1.4.7/lib/sinatra/base.rb:1787:in `synchronize'", "/as_2.5.1/archivesspace/gems/gems/sinatra-1.4.7/lib/sinatra/base.rb:1487:in `call'", "uri:classloader:/vendor/rack-1.6.8/rack/urlmap.rb:66:in `block in call'", "org/jruby/RubyArray.java:1734:in `each'", "uri:classloader:/vendor/rack-1.6.8/rack/urlmap.rb:50:in `call'", "uri:classloader:/rack/handler/servlet.rb:22:in `call'"]</aspace_export_error>
+            <mods:identifier type="local">68438d5d-31f1-4454-aa03-5890469fd28d</mods:identifier>
+            <mods:name authority="naf" type="personal">
+              <mods:namePart type="family">Crowell</mods:namePart>
+              <mods:namePart type="termsOfAddress"></mods:namePart>
+              <mods:namePart type="termsOfAddress"></mods:namePart>
+              <mods:namePart type="given">F. Elizabeth</mods:namePart>
+              <mods:role>
+                <mods:roleTerm authority="marcrelator" type="text">creator</mods:roleTerm>
+              </mods:role>
+            </mods:name>
+            <mods:name authority="naf" type="corporate">
+              <mods:namePart type="family">Rockefeller Foundation</mods:namePart>
+              <mods:role>
+                <mods:roleTerm authority="marcrelator" type="text">creator</mods:roleTerm>
+              </mods:role>
+            </mods:name>
+            <mods:relatedItem displayLabel="resource" type="host">
+              <mods:name>Rockefeller Foundation records, officers' diaries, RG 12, A-E</mods:name>
+              <mods:identifier>FA391.xml</mods:identifier>
+            </mods:relatedItem>
+            <mods:relatedItem displayLabel="component" type="host">
+              <mods:name>1932</mods:name>
+              <mods:identifier>0316961183f04e74a3e73619801d01e3</mods:identifier>
+            </mods:relatedItem>
+          </mods:subject>
+        </mods>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec>
+    <techMD ID="5047">
+      <mdWrap MDTYPE="PREMIS:OBJECT">
+        <xmlData>
+          <object version="2.2" xmlns="info:lc/xmlns/premis-v2" xsi:schemaLocation="info:lc/xmlns/premis-v2 http://www.loc.gov/standards/premis/v2/premis-v2-2.xsd" xsi:type="file">
+            <objectIdentifier>
+              <objectIdentifierType>ArchivesSpace identifier</objectIdentifierType>
+              <objectIdentifierValue>5047</objectIdentifierValue>
+            </objectIdentifier>
+            <objectCharacteristics>
+              <fixity>
+                <messageDigestAlgorithm/>
+                <messageDigest/>
+              </fixity>
+              <size/>
+              <format>
+                <formatDesignation>
+                  <formatName/>
+                  <formatVersion/>
+                </formatDesignation>
+              </format>
+            </objectCharacteristics>
+          </object>
+        </xmlData>
+      </mdWrap>
+    </techMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="translation missing: en.enumerations.file_version_use_statement.service-edited">
+      <file AMDID="5047" GROUPID="1351" ID="5047">
+        <FLocat xlink:href="http://storage.rockarch.org/68438d5d-31f1-4454-aa03-5890469fd28d-rac_rfdiaries_12-2_crowell_1926-1940_007.pdf"/>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="logical">
+    <div DMDID="1351" LABEL="1932" ORDER="1" TYPE="item">
+      <fptr FILEID="5047"/>
+    </div>
+  </structMap>
+  <structMap TYPE="physical">
+    <div DMDID="1351" LABEL="1932" ORDER="1" TYPE="item">
+      <fptr FILEID="5047"/>
+    </div>
+  </structMap>
+</mets>
+
