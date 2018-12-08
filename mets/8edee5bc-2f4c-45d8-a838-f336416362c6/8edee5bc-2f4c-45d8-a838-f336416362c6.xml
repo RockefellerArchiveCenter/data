@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mets xmlns="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/mets/mets.xsd">
+  <dmdSec ID="2562">
+    <mdWrap MDTYPE="MODS">
+      <xmlData>
+        <mods version="3.4" xmlns="http://www.loc.gov/mods/v3">
+          <mods:titleInfo>
+            <mods:title>Wortman_1975.pdf</mods:title>
+          </mods:titleInfo>
+          <mods:typeOfResource/>
+          <mods:originInfo/>
+          <mods:language>
+            <mods:languageTerm type="code"></mods:languageTerm>
+          </mods:language>
+          <mods:physicalDescription/>
+          <mods:note type="originalsloc">1ff64578-ed9a-4ec1-917f-0ca32c0d422f</mods:note>
+          <mods:identifier type="local">8edee5bc-2f4c-45d8-a838-f336416362c6</mods:identifier>
+          <mods:relatedItem displayLabel="resource" type="host">
+            <mods:name>Rockefeller Foundation records, officers' diaries, RG 12, S-Z</mods:name>
+            <mods:identifier>FA394.xml</mods:identifier>
+          </mods:relatedItem>
+          <mods:relatedItem displayLabel="component" type="host">
+            <mods:name>1975</mods:name>
+            <mods:identifier>3696014f1c4d41abb4d3a67ac8b3b731</mods:identifier>
+          </mods:relatedItem>
+        </mods>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec>
+    <techMD ID="5112">
+      <mdWrap MDTYPE="PREMIS:OBJECT">
+        <xmlData>
+          <object version="2.2" xmlns="info:lc/xmlns/premis-v2" xsi:schemaLocation="info:lc/xmlns/premis-v2 http://www.loc.gov/standards/premis/v2/premis-v2-2.xsd" xsi:type="file">
+            <objectIdentifier>
+              <objectIdentifierType>ArchivesSpace identifier</objectIdentifierType>
+              <objectIdentifierValue>5112</objectIdentifierValue>
+            </objectIdentifier>
+            <objectCharacteristics>
+              <fixity>
+                <messageDigestAlgorithm/>
+                <messageDigest/>
+              </fixity>
+              <size>191579722</size>
+              <format>
+                <formatDesignation>
+                  <formatName>pdf</formatName>
+                  <formatVersion>Generic PDF</formatVersion>
+                </formatDesignation>
+              </format>
+            </objectCharacteristics>
+          </object>
+        </xmlData>
+      </mdWrap>
+    </techMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="">
+      <file AMDID="5112" GROUPID="2562" ID="5112">
+        <FLocat xlink:href="http://storage.rockarch.org/8edee5bc-2f4c-45d8-a838-f336416362c6-Wortman_1975.pdf"/>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="logical">
+    <div DMDID="2562" LABEL="Wortman_1975.pdf" ORDER="1" TYPE="item">
+      <fptr FILEID="5112"/>
+    </div>
+  </structMap>
+  <structMap TYPE="physical">
+    <div DMDID="2562" LABEL="Wortman_1975.pdf" ORDER="1" TYPE="item">
+      <fptr FILEID="5112"/>
+    </div>
+  </structMap>
+</mets>
+
