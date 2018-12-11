@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mets xmlns="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/mets/mets.xsd">
+  <dmdSec ID="2583">
+    <mdWrap MDTYPE="MODS">
+      <xmlData>
+        <mods version="3.4" xmlns="http://www.loc.gov/mods/v3">
+          <mods:titleInfo>
+            <mods:title>Gilpatric_1961(1).pdf</mods:title>
+          </mods:titleInfo>
+          <mods:typeOfResource/>
+          <mods:originInfo/>
+          <mods:language>
+            <mods:languageTerm type="code"></mods:languageTerm>
+          </mods:language>
+          <mods:physicalDescription/>
+          <mods:note type="originalsloc">a867fc63-a19a-4aac-956a-a2845813359b</mods:note>
+          <mods:identifier type="local">03594000-2a7b-40d8-8c8f-597569e6acd5</mods:identifier>
+          <mods:relatedItem displayLabel="resource" type="host">
+            <mods:name>Rockefeller Foundation records, officers' diaries, RG 12, F-L</mods:name>
+            <mods:identifier>FA392.xml</mods:identifier>
+          </mods:relatedItem>
+          <mods:relatedItem displayLabel="component" type="host">
+            <mods:name>1961 January-June</mods:name>
+            <mods:identifier>78a3c50e25e94c2fae995fdd7e39604f</mods:identifier>
+          </mods:relatedItem>
+        </mods>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec>
+    <techMD ID="5133">
+      <mdWrap MDTYPE="PREMIS:OBJECT">
+        <xmlData>
+          <object version="2.2" xmlns="info:lc/xmlns/premis-v2" xsi:schemaLocation="info:lc/xmlns/premis-v2 http://www.loc.gov/standards/premis/v2/premis-v2-2.xsd" xsi:type="file">
+            <objectIdentifier>
+              <objectIdentifierType>ArchivesSpace identifier</objectIdentifierType>
+              <objectIdentifierValue>5133</objectIdentifierValue>
+            </objectIdentifier>
+            <objectCharacteristics>
+              <fixity>
+                <messageDigestAlgorithm/>
+                <messageDigest/>
+              </fixity>
+              <size>157277439</size>
+              <format>
+                <formatDesignation>
+                  <formatName>pdf</formatName>
+                  <formatVersion>Generic PDF</formatVersion>
+                </formatDesignation>
+              </format>
+            </objectCharacteristics>
+          </object>
+        </xmlData>
+      </mdWrap>
+    </techMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="">
+      <file AMDID="5133" GROUPID="2583" ID="5133">
+        <FLocat xlink:href="http://storage.rockarch.org/03594000-2a7b-40d8-8c8f-597569e6acd5-Gilpatric_1961(1).pdf"/>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="logical">
+    <div DMDID="2583" LABEL="Gilpatric_1961(1).pdf" ORDER="1" TYPE="item">
+      <fptr FILEID="5133"/>
+    </div>
+  </structMap>
+  <structMap TYPE="physical">
+    <div DMDID="2583" LABEL="Gilpatric_1961(1).pdf" ORDER="1" TYPE="item">
+      <fptr FILEID="5133"/>
+    </div>
+  </structMap>
+</mets>
+
