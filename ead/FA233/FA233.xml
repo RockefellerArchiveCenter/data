@@ -1,801 +1,290 @@
-<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
-  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="under_revision" langencoding="iso639-2b" repositoryencoding="iso15511">
-    <eadid>FA233.xml</eadid>
-    <filedesc>
-      <titlestmt>
-        <titleproper type="filing">Stoll (Norman R.) papers</titleproper>
-        <titleproper>A Guide to the Norman R. Stoll papers, Rockefeller University Faculty
- <num>FA233</num></titleproper>
-        <author>Ruth Sternfeld</author>
-      </titlestmt>
-      <publicationstmt>
-        <publisher>Rockefeller Archive Center</publisher>
-        <p>
-          <date>1980 October</date>
-        </p>
-        <address>
-          <addressline>15 Dayton Avenue</addressline>
-          <addressline>Sleepy Hollow 10591</addressline>
-          <addressline>archive@rockarch.org</addressline>
-          <addressline>URL: <extptr xlink:href="http://www.rockarch.org" xlink:show="new" xlink:title="http://www.rockarch.org" xlink:type="simple"/></addressline>
-        </address>
-      </publicationstmt>
-    </filedesc>
-    <profiledesc>
-      <creation>This finding aid was produced using ArchivesSpace on <date>2018-12-08 02:12:21 -0500</date>.</creation>
-    </profiledesc>
-    <revisiondesc>
-      <change>
-        <date>2010 October 18</date>
-        <item>Paper finding aid converted to EAD/XML by AureXus in 2010. Imported into the Archvists’ Toolkit by Becky Robbins.</item>
-      </change>
-    </revisiondesc>
-  </eadheader>
-  <archdesc level="collection">
-    <did>
-      <langmaterial>
-        <language langcode="eng">English</language>
-      </langmaterial>
-      <repository>
-        <corpname>Rockefeller Archive Center</corpname>
-      </repository>
-      <unittitle>Norman R. Stoll papers, Rockefeller University Faculty</unittitle>
-      <origination label="creator">
-        <persname role="aut" rules="dacs">Stoll, Norman Rudolph</persname>
-      </origination>
-      <origination label="source">
-        <corpname role="ctb" source="naf">Rockefeller University</corpname>
-      </origination>
-      <unitid>FA233</unitid>
-      <physdesc altrender="whole">
-        <extent altrender="materialtype spaceoccupied">2.5 Cubic Feet</extent>
-        <extent altrender="carrier">4 boxes and 2 volumes.</extent>
-      </physdesc>
-      <unitdate normal="1927/1976" type="inclusive">1927-1976</unitdate>
-      <physdesc id="faa0285248cc907c618d2079ef95ec5a">4 boxes and 2 volumes.</physdesc>
-    </did>
-    <bioghist id="c1adfbabc987d360975d7df968c0b9ba">
-      <head>Biographical/Historical note</head>
-      <chronlist>
-        <head>Biographical Note</head>
-        <chronitem>
-          <date>1892</date>
-          <eventgrp>
-            <event>Born September 4, North Tonawanda, New York</event>
-          </eventgrp>
-        </chronitem>
-        <chronitem>
-          <date>1910</date>
-          <eventgrp>
-            <event>Graduated Felton High School (class president)</event>
-          </eventgrp>
-        </chronitem>
-        <chronitem>
-          <date>1910-1911</date>
-          <eventgrp>
-            <event>Attended Syracuse University</event>
-          </eventgrp>
-        </chronitem>
-        <chronitem>
-          <date>1915</date>
-          <eventgrp>
-            <event>B.S. Mount Union College, Alliance, Ohio</event>
-          </eventgrp>
-        </chronitem>
-        <chronitem>
-          <date>1915</date>
-          <eventgrp>
-            <event>Editor THE DYNAMO (college weekly, jr. yr.)</event>
-          </eventgrp>
-        </chronitem>
-        <chronitem>
-          <date>1915</date>
-          <eventgrp>
-            <event>Editor THE UNONIAN (yearbook, sr. yr.)</event>
-          </eventgrp>
-        </chronitem>
-        <chronitem>
-          <date>1915-1917</date>
-          <eventgrp>
-            <event>Science teacher Massillino, Ohio High School</event>
-          </eventgrp>
-        </chronitem>
-        <chronitem>
-          <date>1918</date>
-          <eventgrp>
-            <event>M.S. University of Michigan, Graduate assistant in zoology</event>
-          </eventgrp>
-        </chronitem>
-        <chronitem>
-          <date>1918</date>
-          <eventgrp>
-            <event>2nd lieutenant (field artillery) World War I</event>
-          </eventgrp>
-        </chronitem>
-        <chronitem>
-          <date>1919-1921</date>
-          <eventgrp>
-            <event>Chairman, Dept. Biology Central High School and Junior College, Detroit (later Wayne University)</event>
-          </eventgrp>
-        </chronitem>
-        <chronitem>
-          <date>1923</date>
-          <eventgrp>
-            <event>Sc.D. Johns Hopkins University School of Hygiene and Public Health, Johns Hopkins University/Rockefeller Foundation, Joint Commission to Investigate Control of Hookworm Disease</event>
-          </eventgrp>
-        </chronitem>
-        <chronitem>
-          <date>1922</date>
-          <eventgrp>
-            <event>Puerto Rico</event>
-          </eventgrp>
-        </chronitem>
-        <chronitem>
-          <date>1923-1924</date>
-          <eventgrp>
-            <event>China - Associate in Parasitology, Peking Union Medical College</event>
-          </eventgrp>
-        </chronitem>
-        <chronitem>
-          <date>1926</date>
-          <eventgrp>
-            <event>Panama</event>
-          </eventgrp>
-        </chronitem>
-        <chronitem>
-          <date>1925-1926</date>
-          <eventgrp>
-            <event>Associate in Helminthology, Johns Hopkins University School of Hygiene and Public Health</event>
-          </eventgrp>
-        </chronitem>
-        <chronitem>
-          <date>1927-1950</date>
-          <eventgrp>
-            <event>Associate Member The Rockefeller Institute for Medical Research Dept. of Animal and Plant Pathology, Princeton, New Jersey</event>
-          </eventgrp>
-        </chronitem>
-        <chronitem>
-          <date>1941</date>
-          <eventgrp>
-            <event>D.Sc. (Honorary) Mount Union College</event>
-          </eventgrp>
-        </chronitem>
-        <chronitem>
-          <date>1943-1946</date>
-          <eventgrp>
-            <event>Lieutenant and Lt. Comdr. Parasitologist, Naval Medical Research Unit #2, Guam</event>
-          </eventgrp>
-        </chronitem>
-        <chronitem>
-          <date>1950-1962</date>
-          <eventgrp>
-            <event>Associate Member The Rockefeller University New York City</event>
-          </eventgrp>
-        </chronitem>
-        <chronitem>
-          <date>1962-1963</date>
-          <eventgrp>
-            <event>Professor (Member) The Rockefeller University</event>
-          </eventgrp>
-        </chronitem>
-        <chronitem>
-          <date>1963-</date>
-          <eventgrp>
-            <event>Professor (Member) Emeritus, The Rockefeller University</event>
-          </eventgrp>
-        </chronitem>
-        <chronitem>
-          <date>1976</date>
-          <eventgrp>
-            <event>Died December 30, Princeton, New Jersey</event>
-          </eventgrp>
-        </chronitem>
-        <chronitem>
-          <date>1919 August 23</date>
-          <eventgrp>
-            <event>Married Estella M. Scott. Children: Henry Charles, Margaret E. Dawson, Louise M. Maddux.</event>
-          </eventgrp>
-        </chronitem>
-        <chronitem>
-          <date>1947 November 14</date>
-          <eventgrp>
-            <event>Estella Stoll died</event>
-          </eventgrp>
-        </chronitem>
-        <chronitem>
-          <date>1951 December 26</date>
-          <eventgrp>
-            <event>Married Helen Kennedy Stevens</event>
-          </eventgrp>
-        </chronitem>
-      </chronlist>
-      <p>Norman R. Stoll, 1892-1976, scientist at The Rockefeller University (earlier Rockefeller Institute for Medical Research) 1927-1976, whose work helped to advance the understanding and control of parasitic diseases especially in the detection and treatment of hookworm infection (free-living stages and measurements of the severity of the parasitism in man). From 1944-1967 he served on the International Commission for Zoological Nomenclature, serving as chairman of the Editorial Committee 1958-1961 when the revised code was adopted by the XV the International Congress of Zoology.</p>
-      <p>Editorships: Journal of Parasitology (1938-1943 Editor, 1944-1955 Editorial Board), Experimental Parasitology; 1951-1967 Editorial Board, International Code of Zoological Nomenclature; 1958-1961 Chairman of Editorial Committee; 1961 Code adopted by XVth International Congress of Zoology, Marquis Biographical Library Society 1969-</p>
-      <p>Member of: American Society of Naturalists, American Assoc. Advancement of Science (Fellow), Helminthological Society of Washington, American Society of Parasitologists (Charter Member); 1930-1932 Secretary-Treasurer; 1933-1957 Council Member; 1946 President; 1966 Emeritus, American Society of Tropical Medicine and Hygiene 1960 C.F. Craig Lecturer, Royal Society of Medicine (Affiliate 1962-1969), Royal Society of Tropical Medicine and Hygiene, British Society of Parasitology (Charter Member), New York Academy of Sciences (Fellow), American Society of Zoologists, New York Society of Tropical Medicine (Charter Member); 1947 President; 1960 Life Member; 1962 Theobald Smith Memorial Lecturer</p>
-      <p>Other memberships: Ubiquiteers (Charter Member), Sigma Xi Rockefeller University Chapter, President 1958, Nassau Club, Princeton, Community War Service Committee (Chairman), Civilian Defense Council, Princeton Boro-Township 1942-1943, Board of Education, Princeton Township 1937-1944, Gamma Alpha, Phi Sigma, Delta Omega</p>
-      <chronlist>
-        <head>Served on:</head>
-        <chronitem>
-          <date>1944-1967</date>
-          <eventgrp>
-            <event>International Commission for Zoological Nomenclature</event>
-          </eventgrp>
-        </chronitem>
-        <chronitem>
-          <date>1952-1973</date>
-          <eventgrp>
-            <event>WHO Expert Advisory Panel on Parasitic Diseases</event>
-          </eventgrp>
-        </chronitem>
-        <chronitem>
-          <date>1961</date>
-          <eventgrp>
-            <event>Consultant in 7 African Countries</event>
-          </eventgrp>
-        </chronitem>
-        <chronitem>
-          <date>1955-1958</date>
-          <eventgrp>
-            <event>NSF Advisory Panel for Systematic Biology</event>
-          </eventgrp>
-        </chronitem>
-        <chronitem>
-          <date>1956-1957</date>
-          <eventgrp>
-            <event>Iran Foundation Medical Advisory Council</event>
-          </eventgrp>
-        </chronitem>
-        <chronitem>
-          <date>1957-1969</date>
-          <eventgrp>
-            <event>American Foundation for Tropical Medicine, Science Advisory Council.</event>
-          </eventgrp>
-        </chronitem>
-        <chronitem>
-          <date>1964-1969</date>
-          <eventgrp>
-            <event>American Foundation for Tropical Medicine, Liberian Institute. Co-principal investigator with Dr. H.C. Hsieh of endemic hookworm</event>
-          </eventgrp>
-        </chronitem>
-        <chronitem>
-          <date>1953</date>
-          <eventgrp>
-            <event>Copenhagen - International Congress of Zoology – Delegate</event>
-          </eventgrp>
-        </chronitem>
-        <chronitem>
-          <date>1958</date>
-          <eventgrp>
-            <event>London - International Congress of Zoology – Delegate</event>
-          </eventgrp>
-        </chronitem>
-        <chronitem>
-          <date>1963</date>
-          <eventgrp>
-            <event>Washington - International Congress of Zoology - Delegate</event>
-          </eventgrp>
-        </chronitem>
-      </chronlist>
-      <chronlist>
-        <head>Honors</head>
-        <chronitem>
-          <date>1969</date>
-          <eventgrp>
-            <event>Wisdom Hall of Fame</event>
-          </eventgrp>
-        </chronitem>
-      </chronlist>
-    </bioghist>
-    <scopecontent id="7d3eb4da063c178fc5b4c1a6fbdca08d">
-      <head>Scope and Contents note</head>
-      <p>Records, specimens, correspondence and records of work of the International Commission for Zoological Nomenclature.</p>
-      <p>Box 1: Biographical and autobiographical articles; bibliography; photographs; employment record correspondence.
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="under_revision" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid>FA233.xml</eadid><filedesc><titlestmt><titleproper type="filing">Stoll (Norman R.) papers</titleproper><titleproper>A Guide to the Norman R. Stoll papers, Rockefeller University Faculty
+ <num>FA233</num></titleproper><author>Ruth Sternfeld</author></titlestmt><publicationstmt><publisher>Rockefeller Archive Center</publisher><p><date>1980 October</date></p><address><addressline>15 Dayton Avenue</addressline><addressline>Sleepy Hollow 10591</addressline><addressline>archive@rockarch.org</addressline><addressline>URL: <extptr xlink:href="http://www.rockarch.org" xlink:show="new" xlink:title="http://www.rockarch.org" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2019-03-14 00:44:36 -0400</date>.</creation></profiledesc><revisiondesc><change><date>2010 October 18</date><item>Paper finding aid converted to EAD/XML by AureXus in 2010. Imported into the Archvists’ Toolkit by Becky Robbins.</item></change></revisiondesc></eadheader><archdesc level="collection">
+  <did>
+    <langmaterial>
+      <language langcode="eng">English</language>
+    </langmaterial>
+    <repository>
+      <corpname>Rockefeller Archive Center</corpname>
+    </repository>
+    <unittitle>Norman R. Stoll papers, Rockefeller University Faculty</unittitle>
+    <origination label="creator">
+      <persname role="aut" rules="dacs">Stoll, Norman Rudolph</persname>
+    </origination>
+    <origination label="source">
+      <corpname role="ctb" source="naf">Rockefeller University</corpname>
+    </origination>
+    <unitid>FA233</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">2.5 Cubic Feet</extent>
+      <extent altrender="carrier">4 boxes and 2 volumes.</extent>
+    </physdesc>
+    <unitdate normal="1927/1976" type="inclusive">1927-1976</unitdate>
+    <physdesc id="faa0285248cc907c618d2079ef95ec5a">4 boxes and 2 volumes.</physdesc>
+  </did>
+  <bioghist id="c1adfbabc987d360975d7df968c0b9ba">
+    <head>Biographical/Historical note</head>
+    <chronlist>
+      <head>Biographical Note</head>
+      <chronitem>
+        <date>1892</date>
+        <eventgrp>
+          <event>Born September 4, North Tonawanda, New York</event>
+        </eventgrp>
+      </chronitem>
+      <chronitem>
+        <date>1910</date>
+        <eventgrp>
+          <event>Graduated Felton High School (class president)</event>
+        </eventgrp>
+      </chronitem>
+      <chronitem>
+        <date>1910-1911</date>
+        <eventgrp>
+          <event>Attended Syracuse University</event>
+        </eventgrp>
+      </chronitem>
+      <chronitem>
+        <date>1915</date>
+        <eventgrp>
+          <event>B.S. Mount Union College, Alliance, Ohio</event>
+        </eventgrp>
+      </chronitem>
+      <chronitem>
+        <date>1915</date>
+        <eventgrp>
+          <event>Editor THE DYNAMO (college weekly, jr. yr.)</event>
+        </eventgrp>
+      </chronitem>
+      <chronitem>
+        <date>1915</date>
+        <eventgrp>
+          <event>Editor THE UNONIAN (yearbook, sr. yr.)</event>
+        </eventgrp>
+      </chronitem>
+      <chronitem>
+        <date>1915-1917</date>
+        <eventgrp>
+          <event>Science teacher Massillino, Ohio High School</event>
+        </eventgrp>
+      </chronitem>
+      <chronitem>
+        <date>1918</date>
+        <eventgrp>
+          <event>M.S. University of Michigan, Graduate assistant in zoology</event>
+        </eventgrp>
+      </chronitem>
+      <chronitem>
+        <date>1918</date>
+        <eventgrp>
+          <event>2nd lieutenant (field artillery) World War I</event>
+        </eventgrp>
+      </chronitem>
+      <chronitem>
+        <date>1919-1921</date>
+        <eventgrp>
+          <event>Chairman, Dept. Biology Central High School and Junior College, Detroit (later Wayne University)</event>
+        </eventgrp>
+      </chronitem>
+      <chronitem>
+        <date>1923</date>
+        <eventgrp>
+          <event>Sc.D. Johns Hopkins University School of Hygiene and Public Health, Johns Hopkins University/Rockefeller Foundation, Joint Commission to Investigate Control of Hookworm Disease</event>
+        </eventgrp>
+      </chronitem>
+      <chronitem>
+        <date>1922</date>
+        <eventgrp>
+          <event>Puerto Rico</event>
+        </eventgrp>
+      </chronitem>
+      <chronitem>
+        <date>1923-1924</date>
+        <eventgrp>
+          <event>China - Associate in Parasitology, Peking Union Medical College</event>
+        </eventgrp>
+      </chronitem>
+      <chronitem>
+        <date>1926</date>
+        <eventgrp>
+          <event>Panama</event>
+        </eventgrp>
+      </chronitem>
+      <chronitem>
+        <date>1925-1926</date>
+        <eventgrp>
+          <event>Associate in Helminthology, Johns Hopkins University School of Hygiene and Public Health</event>
+        </eventgrp>
+      </chronitem>
+      <chronitem>
+        <date>1927-1950</date>
+        <eventgrp>
+          <event>Associate Member The Rockefeller Institute for Medical Research Dept. of Animal and Plant Pathology, Princeton, New Jersey</event>
+        </eventgrp>
+      </chronitem>
+      <chronitem>
+        <date>1941</date>
+        <eventgrp>
+          <event>D.Sc. (Honorary) Mount Union College</event>
+        </eventgrp>
+      </chronitem>
+      <chronitem>
+        <date>1943-1946</date>
+        <eventgrp>
+          <event>Lieutenant and Lt. Comdr. Parasitologist, Naval Medical Research Unit #2, Guam</event>
+        </eventgrp>
+      </chronitem>
+      <chronitem>
+        <date>1950-1962</date>
+        <eventgrp>
+          <event>Associate Member The Rockefeller University New York City</event>
+        </eventgrp>
+      </chronitem>
+      <chronitem>
+        <date>1962-1963</date>
+        <eventgrp>
+          <event>Professor (Member) The Rockefeller University</event>
+        </eventgrp>
+      </chronitem>
+      <chronitem>
+        <date>1963-</date>
+        <eventgrp>
+          <event>Professor (Member) Emeritus, The Rockefeller University</event>
+        </eventgrp>
+      </chronitem>
+      <chronitem>
+        <date>1976</date>
+        <eventgrp>
+          <event>Died December 30, Princeton, New Jersey</event>
+        </eventgrp>
+      </chronitem>
+      <chronitem>
+        <date>1919 August 23</date>
+        <eventgrp>
+          <event>Married Estella M. Scott. Children: Henry Charles, Margaret E. Dawson, Louise M. Maddux.</event>
+        </eventgrp>
+      </chronitem>
+      <chronitem>
+        <date>1947 November 14</date>
+        <eventgrp>
+          <event>Estella Stoll died</event>
+        </eventgrp>
+      </chronitem>
+      <chronitem>
+        <date>1951 December 26</date>
+        <eventgrp>
+          <event>Married Helen Kennedy Stevens</event>
+        </eventgrp>
+      </chronitem>
+    </chronlist>
+<p>Norman R. Stoll, 1892-1976, scientist at The Rockefeller University (earlier Rockefeller Institute for Medical Research) 1927-1976, whose work helped to advance the understanding and control of parasitic diseases especially in the detection and treatment of hookworm infection (free-living stages and measurements of the severity of the parasitism in man). From 1944-1967 he served on the International Commission for Zoological Nomenclature, serving as chairman of the Editorial Committee 1958-1961 when the revised code was adopted by the XV the International Congress of Zoology.</p><p>Editorships: Journal of Parasitology (1938-1943 Editor, 1944-1955 Editorial Board), Experimental Parasitology; 1951-1967 Editorial Board, International Code of Zoological Nomenclature; 1958-1961 Chairman of Editorial Committee; 1961 Code adopted by XVth International Congress of Zoology, Marquis Biographical Library Society 1969-</p><p>Member of: American Society of Naturalists, American Assoc. Advancement of Science (Fellow), Helminthological Society of Washington, American Society of Parasitologists (Charter Member); 1930-1932 Secretary-Treasurer; 1933-1957 Council Member; 1946 President; 1966 Emeritus, American Society of Tropical Medicine and Hygiene 1960 C.F. Craig Lecturer, Royal Society of Medicine (Affiliate 1962-1969), Royal Society of Tropical Medicine and Hygiene, British Society of Parasitology (Charter Member), New York Academy of Sciences (Fellow), American Society of Zoologists, New York Society of Tropical Medicine (Charter Member); 1947 President; 1960 Life Member; 1962 Theobald Smith Memorial Lecturer</p><p>Other memberships: Ubiquiteers (Charter Member), Sigma Xi Rockefeller University Chapter, President 1958, Nassau Club, Princeton, Community War Service Committee (Chairman), Civilian Defense Council, Princeton Boro-Township 1942-1943, Board of Education, Princeton Township 1937-1944, Gamma Alpha, Phi Sigma, Delta Omega</p>    <chronlist>
+      <head>Served on:</head>
+      <chronitem>
+        <date>1944-1967</date>
+        <eventgrp>
+          <event>International Commission for Zoological Nomenclature</event>
+        </eventgrp>
+      </chronitem>
+      <chronitem>
+        <date>1952-1973</date>
+        <eventgrp>
+          <event>WHO Expert Advisory Panel on Parasitic Diseases</event>
+        </eventgrp>
+      </chronitem>
+      <chronitem>
+        <date>1961</date>
+        <eventgrp>
+          <event>Consultant in 7 African Countries</event>
+        </eventgrp>
+      </chronitem>
+      <chronitem>
+        <date>1955-1958</date>
+        <eventgrp>
+          <event>NSF Advisory Panel for Systematic Biology</event>
+        </eventgrp>
+      </chronitem>
+      <chronitem>
+        <date>1956-1957</date>
+        <eventgrp>
+          <event>Iran Foundation Medical Advisory Council</event>
+        </eventgrp>
+      </chronitem>
+      <chronitem>
+        <date>1957-1969</date>
+        <eventgrp>
+          <event>American Foundation for Tropical Medicine, Science Advisory Council.</event>
+        </eventgrp>
+      </chronitem>
+      <chronitem>
+        <date>1964-1969</date>
+        <eventgrp>
+          <event>American Foundation for Tropical Medicine, Liberian Institute. Co-principal investigator with Dr. H.C. Hsieh of endemic hookworm</event>
+        </eventgrp>
+      </chronitem>
+      <chronitem>
+        <date>1953</date>
+        <eventgrp>
+          <event>Copenhagen - International Congress of Zoology – Delegate</event>
+        </eventgrp>
+      </chronitem>
+      <chronitem>
+        <date>1958</date>
+        <eventgrp>
+          <event>London - International Congress of Zoology – Delegate</event>
+        </eventgrp>
+      </chronitem>
+      <chronitem>
+        <date>1963</date>
+        <eventgrp>
+          <event>Washington - International Congress of Zoology - Delegate</event>
+        </eventgrp>
+      </chronitem>
+    </chronlist>
+    <chronlist>
+      <head>Honors</head>
+      <chronitem>
+        <date>1969</date>
+        <eventgrp>
+          <event>Wisdom Hall of Fame</event>
+        </eventgrp>
+      </chronitem>
+    </chronlist>
+  </bioghist>
+  <scopecontent id="7d3eb4da063c178fc5b4c1a6fbdca08d">
+    <head>Scope and Contents note</head>
+<p>Records, specimens, correspondence and records of work of the International Commission for Zoological Nomenclature.</p><p>Box 1: Biographical and autobiographical articles; bibliography; photographs; employment record correspondence.
 Box 2: Tapes and transcript of an oral interview; subject files
 Box 3: Background materials for "This Wormy World"
-Box 4: Three sets of records</p>
-    </scopecontent>
-    <acqinfo id="14cad65a3c121d9c094d33b12d5766a1">
-      <head>Immediate Source of Acquisition note</head>
-      <p>The papers of Norman R. Stoll were deposited with the Rockefeller University Archives on March 4, 1977 by Margaret Stoll Dawson, daughter.</p>
-    </acqinfo>
-    <prefercite id="48eec3318f33bbd2bb7b485cad7508e9">
-      <head>Preferred Citation</head>
-      <p>Information regarding the Rockefeller Archive Center's preferred elements and forms of citation can be found at <extref href="http://www.rockarch.org/research/citations.php">http://www.rockarch.org/research/citations.php</extref></p>
-    </prefercite>
-    <fileplan id="320d51c46856a7c283e7752e2aebaa57">
-      <head>File Plan note</head>
-      <p>Former Classification: I 450 St68</p>
-    </fileplan>
-    <accessrestrict id="cbcdb36dd9456a5ef4b7c710578ca3b3">
-      <head>Conditions Governing Access note</head>
-      <p>Access to this collection is restricted pending permission from Rockefeller University.</p>
-    </accessrestrict>
-    <controlaccess>
-      <subject source="lcsh">Medical sciences</subject>
-      <subject source="lcsh">Biochemistry</subject>
-      <subject source="lcsh">Medicine, Preventive</subject>
-      <subject source="lcsh">Zoology</subject>
-      <subject source="lcsh">Diseases</subject>
-      <subject source="lcsh">Parasitology</subject>
-      <subject source="lcsh">Medical research</subject>
-      <subject source="lcsh">Hookworm disease</subject>
-      <subject source="lcsh">Life sciences</subject>
-      <subject source="lcsh">Biology -- Research</subject>
-      <subject source="lcsh">Cell and biomolecular sciences</subject>
-      <corpname role="ctb" source="naf">Rockefeller University</corpname>
-      <corpname role="ctb" source="naf">Rockefeller Institute for Medical Research</corpname>
-      <corpname role="ctb" source="naf">International Commission on Zoological Nomenclature</corpname>
-    </controlaccess>
-    <dsc>
-      <c id="6140aa46054e4e59988a18e0f02cb573" level="item">
-        <did>
-          <unittitle>Employment record</unittitle>
-          <container altrender="Letter Document Storage Box" id="690cf79ea11848a769418f992ffb55b3" label="mixed materials [A0000000055631]" type="box">1</container>
-          <container id="04a6e881fdce58c5b31fac580599c327" parent="690cf79ea11848a769418f992ffb55b3" type="folder">1</container>
-        </did>
-      </c>
-      <c id="bd593f8c7879430a90d949e6c80d8887" level="item">
-        <did>
-          <unittitle>Biographical articles as prepared for RU</unittitle>
-          <container altrender="Letter Document Storage Box" id="be8c822634308595f7d5baeebd6704a8" label="mixed materials [A0000000055631]" type="box">1</container>
-          <container id="f22e97945b42caddeeb8b8325258cde5" parent="be8c822634308595f7d5baeebd6704a8" type="folder">1</container>
-        </did>
-      </c>
-      <c id="dc1d1a4a05a04d0987fe604285f4ab16" level="item">
-        <did>
-          <unittitle>Handwritten note which appears to be seminal idea on concept of "self-cure"</unittitle>
-          <container altrender="Letter Document Storage Box" id="92f1d1ad779c5655444078fa5c85eeb7" label="mixed materials [A0000000055631]" type="box">1</container>
-          <container id="f5636c74c9ef1f91192c11f007162d30" parent="92f1d1ad779c5655444078fa5c85eeb7" type="folder">1</container>
-        </did>
-      </c>
-      <c id="cc3926a5c12f4078b6d5a91c8bcce972" level="item">
-        <did>
-          <unittitle>Portion of letter on 25th anniversary of graduation from Mount Union</unittitle>
-          <unitdate>1940 February 27</unitdate>
-          <container altrender="Letter Document Storage Box" id="83dd1afe23cdb535163947633c8ef2dc" label="mixed materials [A0000000055631]" type="box">1</container>
-          <container id="32f87c790485ec16118113324a8ee4c1" parent="83dd1afe23cdb535163947633c8ef2dc" type="folder">1</container>
-        </did>
-      </c>
-      <c id="080d742ffb5f4379926fe4c2f5a5dbf3" level="item">
-        <did>
-          <unittitle>1947 Holiday Greetings from Leyte Correspondence on Naval Reserve retirement</unittitle>
-          <unitdate normal="1947/1947" type="inclusive">1947</unitdate>
-          <container altrender="Letter Document Storage Box" id="446d1d2cc225c2c993accf53f7f3e71a" label="mixed materials [A0000000055631]" type="box">1</container>
-          <container id="a6ef553f83f3114b562424724ffdc953" parent="446d1d2cc225c2c993accf53f7f3e71a" type="folder">1</container>
-        </did>
-      </c>
-      <c id="06efae30de2748859bada41756f3afcd" level="item">
-        <did>
-          <unittitle>Medical reports</unittitle>
-          <container altrender="Letter Document Storage Box" id="7771bccfd706856c0ba28865f7da2f83" label="mixed materials [A0000000055631]" type="box">1</container>
-          <container id="75fb41f4dc3d9e24b13a908757ec7109" parent="7771bccfd706856c0ba28865f7da2f83" type="folder">1</container>
-        </did>
-      </c>
-      <c id="a9e62c6731c94c85b9ccc9c8022d6422" level="item">
-        <did>
-          <unittitle>Letter of Greetings written to those from Navy associations who jointly sent 80th birthday greetings</unittitle>
-          <unitdate normal="1972/1972" type="inclusive">1972</unitdate>
-          <container altrender="Letter Document Storage Box" id="3356e2bb313ab997696f3684d6c6a2aa" label="mixed materials [A0000000055631]" type="box">1</container>
-          <container id="fe60a4150ce63149f7246f1870b8363d" parent="3356e2bb313ab997696f3684d6c6a2aa" type="folder">1</container>
-        </did>
-      </c>
-      <c id="b93515dd0b8d4242939798643aa75994" level="item">
-        <did>
-          <unittitle>Bibliography prepared by NR Stoll</unittitle>
-          <container altrender="Letter Document Storage Box" id="f69485f1f0cc6a368b8c3614c794a2d3" label="mixed materials [A0000000055631]" type="box">1</container>
-          <container id="e563cda7ef8078faacb82438198d547b" parent="f69485f1f0cc6a368b8c3614c794a2d3" type="folder">1</container>
-        </did>
-      </c>
-      <c id="812d1bd4cc92423ba0f96816129d90de" level="item">
-        <did>
-          <unittitle>Bibliography prepared in Archives Office as a Table of Contents for 2 volumes "Collected Reprints"</unittitle>
-          <container altrender="Letter Document Storage Box" id="fdd8c4b36db7d86029367efba71715fc" label="mixed materials [A0000000055631]" type="box">1</container>
-          <container id="c7328271c1326d2c5e57e3b8ee594235" parent="fdd8c4b36db7d86029367efba71715fc" type="folder">1</container>
-        </did>
-      </c>
-      <c id="702d0a02ddab4542a6b4a64586b3ebed" level="item">
-        <did>
-          <unittitle>"Norman Rudolph Stoll: Scientist, Teacher, Friend" an appreciation prepared by Malcol S. Ferguson and published in EXPERIMENTAL PARASITOLOGY 1+1</unittitle>
-          <unitdate normal="1977/1977" type="inclusive">1977</unitdate>
-          <physdesc id="9a67c9bee7c4b95ee48d34c6d091c681">2 copies</physdesc>
-          <container altrender="Letter Document Storage Box" id="7bcc4dd61db01e9359aba007c448a95d" label="mixed materials [A0000000055631]" type="box">1</container>
-          <container id="bad0c385a14132249acf65b3833b758d" parent="7bcc4dd61db01e9359aba007c448a95d" type="folder">1</container>
-        </did>
-      </c>
-      <c id="aed482bde6d94e10a453176e6739bcc5" level="item">
-        <did>
-          <unittitle>Correspondence on retirement allowance</unittitle>
-          <container altrender="Letter Document Storage Box" id="d6b298ed19e99e18694cad4d45587814" label="mixed materials [A0000000055631]" type="box">1</container>
-          <container id="b382b6a4556f8289ec218fa10b7a8973" parent="d6b298ed19e99e18694cad4d45587814" type="folder">1</container>
-        </did>
-      </c>
-      <c id="cac5c13a1ba54dcea4746e029947ff44" level="item">
-        <did>
-          <unittitle>Obituary clippings</unittitle>
-          <container altrender="Letter Document Storage Box" id="5cc22b195e1840c0a88e01684ea3865e" label="mixed materials [A0000000055631]" type="box">1</container>
-          <container id="d3dc9c07a54175cd08054eb4f2b042d3" parent="5cc22b195e1840c0a88e01684ea3865e" type="folder">1</container>
-        </did>
-      </c>
-      <c id="fdd1ffab1b0f4a878e55bb33b195bb70" level="file">
-        <did>
-          <unittitle>Administrative correspondence</unittitle>
-          <unitdate normal="1956/1973" type="inclusive">1956-1973</unitdate>
-          <container altrender="Letter Document Storage Box" id="4613462fef8b0d8e7a3f68980c95110d" label="mixed materials [A0000000055631]" type="box">1</container>
-          <container id="4c941d5acfa909d3b26e09dca3e1688d" parent="4613462fef8b0d8e7a3f68980c95110d" type="folder">1a</container>
-        </did>
-        <scopecontent id="c9d9a9af5e53307fb09d8b456e8261d1">
-          <head>Scope and Contents note</head>
-          <p>Mainly notices from various departments.</p>
-        </scopecontent>
-      </c>
-      <c id="932dfa2eb97e49218f40433b8a3130b2" level="file">
-        <did>
-          <unittitle>Administrative correspondence</unittitle>
-          <unitdate normal="1926/1974" type="inclusive">1926-1974</unitdate>
-          <physdesc id="cca6ffca707762034767cb91be18224f">1½ inch file</physdesc>
-          <container altrender="Letter Document Storage Box" id="0d4bc1421addba37bd1c2c1aef88048d" label="mixed materials [A0000000055631]" type="box">1</container>
-          <container id="4fffea889479c5db708936a6cfd18a76" parent="0d4bc1421addba37bd1c2c1aef88048d" type="folder">2</container>
-        </did>
-        <scopecontent id="abeff17d2f7a56ca0df2f53252ce4885">
-          <head>Scope and Contents note</head>
-          <p>Record of Dr. Stoll's long association with The Rockefeller University. Included are several long and informative letters from trips abroad: England, Liberia, Vienna.</p>
-        </scopecontent>
-        <acqinfo id="703ea9a172f73976f40b2b2c0bf7a870">
-          <head>Immediate Source of Acquisition note</head>
-          <p>Placed in the RU Archives from the Office of Faculty Records.</p>
-        </acqinfo>
-      </c>
-      <c id="2da0f1ae5c9c46b181747cc3a6679e36" level="file">
-        <did>
-          <unittitle>Photographs of NR Stoll</unittitle>
-          <container altrender="Letter Document Storage Box" id="51d0fef604511356091e46ef524b6dde" label="mixed materials [A0000000055631]" type="box">1</container>
-          <container id="57331ecce51991d5beb617136e944204" parent="51d0fef604511356091e46ef524b6dde" type="folder">3</container>
-        </did>
-        <scopecontent id="f21b74c021bf28ca25491f071f9d071b">
-          <head>Scope and Contents note</head>
-          <p>Includes 1 wedding photo of daughter.</p>
-        </scopecontent>
-      </c>
-      <c id="2da9d3aa35dc49b59662153e2eddb0ad" level="file">
-        <did>
-          <unittitle>Photographs of Princeton</unittitle>
-          <container altrender="Letter Document Storage Box" id="eb0c36983787b96c5d84a26129ba4007" label="mixed materials [A0000000055631]" type="box">1</container>
-          <container id="1bec508f2a1871984d91ba286737bbd7" parent="eb0c36983787b96c5d84a26129ba4007" type="folder">4</container>
-        </did>
-        <scopecontent id="05a528940ba2f7a921e4c6b40d1e1e78">
-          <head>Scope and Contents note</head>
-          <p>Includes group photos of workers in the Princeton labs as well as photos of construction and buildings.</p>
-        </scopecontent>
-      </c>
-      <c id="c438927b959847d98c6f7bbecf52ef65" level="file">
-        <did>
-          <unittitle>Reports and references not dated not clear</unittitle>
-          <container altrender="Letter Document Storage Box" id="345b67d66acacd6dabe60c28940b91e7" label="mixed materials [A0000000055631]" type="box">1</container>
-          <container id="4e49683bbd8ba33b4f9aa00effbb90b5" parent="345b67d66acacd6dabe60c28940b91e7" type="folder">5</container>
-        </did>
-      </c>
-      <c id="fd95316163ec4ce9a741d01322cd4a19" level="file">
-        <did>
-          <unittitle>Record of RU staff meetings</unittitle>
-          <unitdate normal="1933/1954" type="inclusive">1933-1954</unitdate>
-          <container altrender="Letter Document Storage Box" id="0316e3a73e8722573704c3593f13df6e" label="mixed materials [A0000000055631]" type="box">1</container>
-          <container id="22ae08f96571fb2bce87dd84cc9a6912" parent="0316e3a73e8722573704c3593f13df6e" type="folder">6</container>
-        </did>
-        <scopecontent id="7ce409d7c1228b253c28b77962bd2d89">
-          <head>Scope and Contents note</head>
-          <p>Some correspondence when NR Stoll served on committee.</p>
-        </scopecontent>
-      </c>
-      <c id="f86d701e6d1a4139acfc4d383bb37f07" level="file">
-        <did>
-          <unittitle>Photographs</unittitle>
-          <container altrender="Letter Document Storage Box" id="8e0ffa36c74c3efd80b573d8d5338c67" label="mixed materials [A0000000055631]" type="box">1</container>
-          <container id="40944b85630605a58ec70845ce782dd9" parent="8e0ffa36c74c3efd80b573d8d5338c67" type="folder">7</container>
-        </did>
-        <scopecontent id="a6d730667c392ffd904a0935a0d1f453">
-          <head>Scope and Contents note</head>
-          <p>Group from 1961 trip.</p>
-          <p>R.W. Glaser.</p>
-          <p>T.M. Rivers.</p>
-          <p>W.A.S. Raghawan (sp?)</p>
-        </scopecontent>
-      </c>
-      <c id="ec5ca9f66a0940c49b1b0a75024bccf0" level="file">
-        <did>
-          <unittitle>Assorted and scattered items</unittitle>
-          <unitdate normal="1933/1975" type="inclusive">1933-1975</unitdate>
-          <container altrender="Letter Document Storage Box" id="e5da864654f80a069d8633b5786e3149" label="mixed materials [A0000000055631]" type="box">1</container>
-          <container id="6ea7be11a82612389a80de8d95c7d12a" parent="e5da864654f80a069d8633b5786e3149" type="folder">8</container>
-        </did>
-      </c>
-      <c id="2bf785b78bdb455f8dd2f8ad583fdc41" level="file">
-        <did>
-          <unittitle>Correspondence L.A. Taffs Visiting investigator</unittitle>
-          <unitdate normal="1963/1963" type="inclusive">1963</unitdate>
-          <container altrender="Letter Document Storage Box" id="b032d6f2cd5a02c77266d972098828c4" label="mixed materials [A0000000055631]" type="box">1</container>
-          <container id="53bb9a16fcfd4f7d387cc5a7858c45a9" parent="b032d6f2cd5a02c77266d972098828c4" type="folder">9</container>
-        </did>
-      </c>
-      <c id="8d5778e370df4718b1ac20ba14586840" level="file">
-        <did>
-          <unittitle>Oral interview on the closing of the Princeton laboratories</unittitle>
-          <unitdate>made in Spring-Fall 1972</unitdate>
-          <physdesc id="a12261e4092185eec0d1643a153896ed">3 tapes (both sides) and typescript which Dr. Stoll never decided to edit.</physdesc>
-          <container altrender="Letter Document Storage Box" id="047d2ba9d2a3609400d988940e9c33c8" label="mixed materials [A0000000055632]" type="box">2</container>
-          <container id="07a72244c026d52b28f3ecdb5b7ff605" parent="047d2ba9d2a3609400d988940e9c33c8" type="folder">1</container>
-        </did>
-        <accessrestrict id="9f267991c5d5b13ee272e173d8ef2723">
-          <head>Conditions Governing Access</head>
-          <p>RAC is unable to provide access to obsolete media. When feasible, a digital surrogate may be created via special order. All applicable charges will apply. See RAC Head of Archival Services or RAC Head of Digital Programs for details.</p>
-        </accessrestrict>
-        <scopecontent id="ba8fb7aff518c7a53054332b57817cbd">
-          <head>Scope and Contents note</head>
-          <p>This was done in part by dictation and partly on an interview.</p>
-        </scopecontent>
-      </c>
-      <c id="3f13570952c540eb94df9b08c0346a73" level="item">
-        <did>
-          <unittitle>2 publications on hookworm</unittitle>
-          <unitdate normal="1914/1928" type="inclusive">1914 1928</unitdate>
-          <container altrender="Letter Document Storage Box" id="a3c7789c9a8c9c4ddd113e4e86c6c2e9" label="mixed materials [A0000000055632]" type="box">2</container>
-          <container id="3daa83115339eafc7c285981514520a5" parent="a3c7789c9a8c9c4ddd113e4e86c6c2e9" type="folder">2</container>
-        </did>
-      </c>
-      <c id="4154fbab90ff41d398fc1ba13d383af4" level="item">
-        <did>
-          <unittitle>War Department Publication on DDT and insecticides</unittitle>
-          <unitdate normal="1945/1945" type="inclusive">1945</unitdate>
-          <container altrender="Letter Document Storage Box" id="1e99e69bb5b780ac635543bba6f6f1e0" label="mixed materials [A0000000055632]" type="box">2</container>
-          <container id="cd0dd5c146c07bf3a5e80f94039ff896" parent="1e99e69bb5b780ac635543bba6f6f1e0" type="folder">2</container>
-        </did>
-      </c>
-      <c id="7a1e51d9a0084241afb5a26ce566ac2f" level="item">
-        <did>
-          <unittitle>War department manual on DDT</unittitle>
-          <unitdate normal="1944/1944" type="inclusive">1944</unitdate>
-          <container altrender="Letter Document Storage Box" id="e79887fbc2d7ff68413dd8c34c08781f" label="mixed materials [A0000000055632]" type="box">2</container>
-          <container id="03280943a121d8005b8a3d4b91e737a7" parent="e79887fbc2d7ff68413dd8c34c08781f" type="folder">2</container>
-        </did>
-      </c>
-      <c id="1b1b9cc3e57547a8bc1844d4985ffeb6" level="item">
-        <did>
-          <unittitle>v. 1, no. 2 Journal of Military Medicine in the Pacific</unittitle>
-          <container altrender="Letter Document Storage Box" id="33a3405b71d200a1988a260299a04e81" label="mixed materials [A0000000055632]" type="box">2</container>
-          <container id="2b3e63ac765557d6ccd816b90805ba40" parent="33a3405b71d200a1988a260299a04e81" type="folder">2</container>
-        </did>
-      </c>
-      <c id="65fbd43edfbe42eab0652afa9a8b1201" level="file">
-        <did>
-          <unittitle>Assorted biographical notes of RIMR staff (published)</unittitle>
-          <container altrender="Letter Document Storage Box" id="bd9dc60e14f54e9ed898a26b1e4b64f5" label="mixed materials [A0000000055632]" type="box">2</container>
-          <container id="1cb90d40e904f724df756b45375ec978" parent="bd9dc60e14f54e9ed898a26b1e4b64f5" type="folder">3</container>
-        </did>
-      </c>
-      <c id="f65ccf95e37545db84b92ec78c38b279" level="file">
-        <did>
-          <unittitle>Record of experiments performed</unittitle>
-          <unitdate normal="1949/1955" type="inclusive">1949-1955</unitdate>
-          <container altrender="Letter Document Storage Box" id="4e89b8b1957328a532d618066d8d4cd8" label="mixed materials [A0000000055632]" type="box">2</container>
-          <container id="362fa80bfc24a98ce12cec6323dacdf7" parent="4e89b8b1957328a532d618066d8d4cd8" type="folder">4</container>
-        </did>
-      </c>
-      <c id="d510439ce33d4dbeaa80989204fcb22e" level="file">
-        <did>
-          <unittitle>Assorted handwritten notes applicability not always clear</unittitle>
-          <unitdate normal="1952/1969" type="inclusive">1952-1969</unitdate>
-          <container altrender="Letter Document Storage Box" id="d156e029dcf204602af569d275f03d07" label="mixed materials [A0000000055632]" type="box">2</container>
-          <container id="50717af581f0e844953d14c8105e12d0" parent="d156e029dcf204602af569d275f03d07" type="folder">5</container>
-        </did>
-      </c>
-      <c id="247ca4556412466199d8bd4bbe285995" level="file">
-        <did>
-          <unittitle>Iran Foundation</unittitle>
-          <unitdate normal="1951/1959" type="inclusive">1951-1959</unitdate>
-          <container altrender="Letter Document Storage Box" id="a3d260918e8a17bccd8ee49063353472" label="mixed materials [A0000000055632]" type="box">2</container>
-          <container id="a6fe9bafebebbf84fbd06e8dba55116f" parent="a3d260918e8a17bccd8ee49063353472" type="folder">6</container>
-        </did>
-        <scopecontent id="8d85240d23a4f4f0cb9c680c135c840d">
-          <head>Scope and Contents note</head>
-          <p>Some correspondence and Annual Report 1957/1958.</p>
-        </scopecontent>
-      </c>
-      <c id="3f06705118ec46bd8b228cfc6426ad7e" level="file">
-        <did>
-          <unittitle>JOURNAL OF PARASITOLOGY</unittitle>
-          <unitdate normal="1961/1966" type="inclusive">1961-1966</unitdate>
-          <container altrender="Letter Document Storage Box" id="0493caa685327acbdd4f96a7913e652f" label="mixed materials [A0000000055632]" type="box">2</container>
-          <container id="f44ba453004872c42b581a83c03ca1fb" parent="0493caa685327acbdd4f96a7913e652f" type="folder">7</container>
-        </did>
-        <scopecontent id="95921b06cca93286c619f53abc7131aa">
-          <head>Scope and Contents note</head>
-          <p>Correspondence with Justus F. Mueller, editor and draft of a short history of The American Society of Parasitologists; some editorial reports.</p>
-        </scopecontent>
-      </c>
-      <c id="90358fdcf76a4cbcb250dd9f3fff544c" level="file">
-        <did>
-          <unittitle>2nd International Congress of Parasitology</unittitle>
-          <unitdate normal="1970/1970" type="inclusive">1970</unitdate>
-          <container altrender="Letter Document Storage Box" id="d4a477b2304fef24535ab387e341991d" label="mixed materials [A0000000055632]" type="box">2</container>
-          <container id="dc964e179f1af123a9dd35b9e2bff9a6" parent="d4a477b2304fef24535ab387e341991d" type="folder">8</container>
-        </did>
-        <scopecontent id="9999d50c5b6ef511420601313687be54">
-          <head>Scope and Contents note</head>
-          <p>Includes Colloquium on The Cultivation of Helminths.</p>
-        </scopecontent>
-      </c>
-      <c id="d6405190315a421aaec2b03bbc773901" level="item">
-        <did>
-          <unittitle>Articles and papers not all listed in, bibliography "First annual meeting of the American Society of Parasitologists. 1925" reprint from Journal of Parasitology 12 (1926)</unittitle>
-          <unitdate normal="1925/1926" type="inclusive">1925-1926</unitdate>
-          <container altrender="Letter Document Storage Box" id="0ef9662e9e759aa4b31e71761f68164d" label="mixed materials [A0000000055632]" type="box">2</container>
-          <container id="b72f37ce2b49a3d6a612b05174701b38" parent="0ef9662e9e759aa4b31e71761f68164d" type="folder">9</container>
-        </did>
-      </c>
-      <c id="8edbada79c84471fbd8b6810e36c6d10" level="item">
-        <did>
-          <unittitle>Stoll, N.R. "What can be done about hookworm?" 7th International Congress on Tropical Medicine and Malaria. Proceedings</unittitle>
-          <container altrender="Letter Document Storage Box" id="8dede7a23970ff38d8a8f1baee5aa4be" label="mixed materials [A0000000055632]" type="box">2</container>
-          <container id="bf549321087679c7844fe5366f7b9a69" parent="8dede7a23970ff38d8a8f1baee5aa4be" type="folder">9</container>
-        </did>
-      </c>
-      <c id="6f43102b76124c1dab1cf4b6c5615ada" level="item">
-        <did>
-          <unittitle>Announcement of FIRTST NORMAN R. STOLL LECTURE</unittitle>
-          <container altrender="Letter Document Storage Box" id="5af4f1921df4d3041b3c2e7aef925668" label="mixed materials [A0000000055632]" type="box">2</container>
-          <container id="b4a5082f4f6a516170fedf122ac94e57" parent="5af4f1921df4d3041b3c2e7aef925668" type="folder">9</container>
-        </did>
-      </c>
-      <c id="c4f90ce453ae468686b84d9b65e8ff1d" level="item">
-        <did>
-          <unittitle>Typescript: "The stream of scientific publication (in parasitology): Does it have a problem of pollution? of Eutrophication? (2 cop.) 2nd International Congress of Parasitology</unittitle>
-          <container altrender="Letter Document Storage Box" id="0a3c55e1fc7abcb2c3bf91229aa51319" label="mixed materials [A0000000055632]" type="box">2</container>
-          <container id="61c69da335280ae6feac7d3887dd333a" parent="0a3c55e1fc7abcb2c3bf91229aa51319" type="folder">9</container>
-        </did>
-      </c>
-      <c id="f0fc0c3d9f8c49d69238c21713a7506b" level="item">
-        <did>
-          <unittitle>Typescript: Establishment of three strains of ENTAMOEBA INVADENS in media without tissue</unittitle>
-          <container altrender="Letter Document Storage Box" id="711232ab72ba2676337d43605d7cbf24" label="mixed materials [A0000000055632]" type="box">2</container>
-          <container id="a359d7225acb0bb2115c8fa108ee4511" parent="711232ab72ba2676337d43605d7cbf24" type="folder">9</container>
-        </did>
-      </c>
-      <c id="0e549df7f25b4f218f41c162654cb60d" level="item">
-        <did>
-          <unittitle>The First Twenty Years of the New York Society of Tropical Medicine (Stoll on committee)</unittitle>
-          <container altrender="Letter Document Storage Box" id="94b86ed488622822484240707afc20a4" label="mixed materials [A0000000055632]" type="box">2</container>
-          <container id="e65018bfa0d93d9da6b01dc027551882" parent="94b86ed488622822484240707afc20a4" type="folder">9</container>
-        </did>
-      </c>
-      <c id="655c2f8490b747cd826d56d1bc8bb5ee" level="item">
-        <did>
-          <unittitle>Duplicated copy of "Endemic Hookworm in Liberia"</unittitle>
-          <container altrender="Letter Document Storage Box" id="526c9a16e9af9814a77e16695ca12786" label="mixed materials [A0000000055632]" type="box">2</container>
-          <container id="8a33bb0928ef129b6ee576c27505a96f" parent="526c9a16e9af9814a77e16695ca12786" type="folder">9</container>
-        </did>
-      </c>
-      <c id="17ed0daecd914ff2ba7620b1948ddb11" level="item">
-        <did>
-          <unittitle>Reprint from TAXON 1960 meeting of Editorial Committee of International Code of Botanical-Nomenclature</unittitle>
-          <unitdate normal="1960/1960" type="inclusive">1960</unitdate>
-          <container altrender="Letter Document Storage Box" id="5ab1d7f906b7ab8b8640f963ca11999d" label="mixed materials [A0000000055632]" type="box">2</container>
-          <container id="92420fd498fcef71581aad81f6de0bce" parent="5ab1d7f906b7ab8b8640f963ca11999d" type="folder">9</container>
-        </did>
-      </c>
-      <c id="f6d04617790a4324a7593dd594c84637" level="item">
-        <did>
-          <unittitle>Remarks at the Dedication of the W.W. Cort Library</unittitle>
-          <container altrender="Letter Document Storage Box" id="a5e06ad5867392969a7b171ee14e6b10" label="mixed materials [A0000000055632]" type="box">2</container>
-          <container id="3fdea2e714b2e44e56159b42067177fe" parent="a5e06ad5867392969a7b171ee14e6b10" type="folder">9</container>
-        </did>
-      </c>
-      <c id="c1656b16d1654238bf87f6d5c030531b" level="item">
-        <did>
-          <unittitle>Handwritten listing by NRS of dates and publications he considered important landmarks in career</unittitle>
-          <container altrender="Letter Document Storage Box" id="7e4603ff5d22553ce03df1f57c6d20ab" label="mixed materials [A0000000055632]" type="box">2</container>
-          <container id="7be6d242e74756f43621729e275c8fa3" parent="7e4603ff5d22553ce03df1f57c6d20ab" type="folder">9</container>
-        </did>
-      </c>
-      <c id="5fec5babd9a3418a98e94c98ab7eaaa7" level="item">
-        <did>
-          <unittitle>Stoll, N.R. "Midstream" reprinted from Mount Union College Bulletin</unittitle>
-          <unitdate>1940 July</unitdate>
-          <container altrender="Letter Document Storage Box" id="a143284909274e21f6ff238a7fcacc96" label="mixed materials [A0000000055632]" type="box">2</container>
-          <container id="d0938ee749a0c15b739ea096c332c4cd" parent="a143284909274e21f6ff238a7fcacc96" type="folder">9</container>
-        </did>
-      </c>
-      <c id="86d8131220ee468db93c48841915c178" level="item">
-        <did>
-          <unittitle>Stoll, N.R. "This Wormy World" JOURNAL OF PARASITOLOGY, 33 (1947)</unittitle>
-          <unitdate normal="1947/1947" type="inclusive">1947</unitdate>
-          <container altrender="Letter Document Storage Box" id="243318f550beac187ba0099bff133f27" label="mixed materials [A0000000055632]" type="box">2</container>
-          <container id="99d99255072d01300a6e6f2f44a95f6a" parent="243318f550beac187ba0099bff133f27" type="folder">9</container>
-        </did>
-      </c>
-      <c id="5d918281f91e4f9792ab5ae5127641ea" level="item">
-        <did>
-          <unittitle>Stoll, N.R. The Osmosis of research: ... Bulletin of New York Academy of Medicine 48 (1972)</unittitle>
-          <unitdate normal="1972/1972" type="inclusive">1972</unitdate>
-          <container altrender="Letter Document Storage Box" id="e98b9470b084036d2953d4b154229abf" label="mixed materials [A0000000055632]" type="box">2</container>
-          <container id="7ad24fa214df90a031af1ac7faf974f8" parent="e98b9470b084036d2953d4b154229abf" type="folder">9</container>
-        </did>
-      </c>
-      <c id="2574cef97f30446a944e1a7c0f1d8590" level="item">
-        <did>
-          <unittitle>Stoll, N.R. Rudolf William Glaser and Neoplectana EXPERIMENTAL PARASITOLOGY 33</unittitle>
-          <unitdate normal="1973/1973" type="inclusive">1973</unitdate>
-          <container altrender="Letter Document Storage Box" id="4c60310c47a43597f18876a8af13f964" label="mixed materials [A0000000055632]" type="box">2</container>
-          <container id="5713d8afcf8a8589ea18bfa2f2990b42" parent="4c60310c47a43597f18876a8af13f964" type="folder">9</container>
-        </did>
-      </c>
-      <c id="f4d610b4838c4546ab4f220f5b62acb4" level="item">
-        <did>
-          <unittitle>Stoll, N.R. "Mankind of the future"</unittitle>
-          <physdesc id="4b1716ed63455ff3c725a91d2b0e841d">Duplicated copy</physdesc>
-          <container altrender="Letter Document Storage Box" id="592ed9785752720c2b5d117d769cfc52" label="mixed materials [A0000000055632]" type="box">2</container>
-          <container id="42ab4a3f7817282556c0b8056a401651" parent="592ed9785752720c2b5d117d769cfc52" type="folder">9</container>
-        </did>
-      </c>
-      <c id="f0eb6dea6abf49548e0f39473b140b0d" level="file">
-        <did>
-          <unittitle>"This Wormy World" - address given in Dec. 1946 and published in JOURNAL OF PARASITOLOGY Feb. 1947</unittitle>
-          <container altrender="Letter Document Storage Box" id="b9866dc66f1d25e33fb0db8cfa8ffb98" label="mixed materials [A0000000055633]" type="box">3</container>
-          <container id="b450fddcdfd587f69b556ecb92c2f1eb" parent="b9866dc66f1d25e33fb0db8cfa8ffb98" type="folder">1-5</container>
-        </did>
-        <scopecontent id="c2ab8dfd4903488a23a63953a0880675">
-          <head>Scope and Contents note</head>
-          <p>Said to be "the most widely published and quoted publication in helminthological parasitology since the War". Folders 1-5 consist of background; data sheets; manuscript; reprint and reviews.</p>
-        </scopecontent>
-      </c>
-      <c id="465e5501b2084a09a92c8fea5e07fc2d" level="file">
-        <did>
-          <unittitle>Unidentified film </unittitle>
-          <container altrender="Letter Document Storage Box" id="a54f5de1d8030ba403b221358ed4f31e" label="mixed materials [A0000000055633]" type="box">3</container>
-          <container id="289f3cee6b8f31f2986a3a5fde548183" parent="a54f5de1d8030ba403b221358ed4f31e" type="folder">6</container>
-        </did>
-        <scopecontent id="6196f55b22c7d42449297ffc138cc301">
-          <head>Scope and Contents note</head>
-          <p>Appears to be a European trip.</p>
-        </scopecontent>
-        <accessrestrict id="6053b5992e032f98da3f8560e060adde">
-          <head>Conditions Governing Access</head>
-          <p>RAC is unable to provide access to obsolete media. When feasible, a digital surrogate may be created via special order. All applicable charges will apply. See RAC Head of Archival Services or RAC Head of Digital Programs for details.</p>
-        </accessrestrict>
-      </c>
-      <c id="e623194b03044c96beabba880dff2672" level="file">
-        <did>
-          <unittitle>Three groups of data sheets</unittitle>
-          <physdesc id="90890eedf7262f81c57561a210d8a9a2">12½ × 5 × 8½</physdesc>
-          <container altrender="5x7 Card File Box (Long)" id="a1d85d489dcaab206addb2669de52147" label="mixed materials [A0000000055634]" type="box">4</container>
-        </did>
-        <c id="797abc3cd9ce453b87de83efbe5a592d" level="file">
-          <did>
-            <unittitle>THIS WORMY WORLD. Arranged geographically according to reprint request location</unittitle>
-            <container altrender="5x7 Card File Box (Long)" id="50b0b701f1bee5ec5ac09a38431beea0" label="mixed materials [A0000000055634]" type="box">4</container>
-          </did>
-        </c>
-        <c id="f4d7a0954cf34f569d792b5b94221b77" level="file">
-          <did>
-            <unittitle>Inactive list of reprints sent</unittitle>
-            <container altrender="5x7 Card File Box (Long)" id="2d5fb38aac0aa62ceccdcb6c1dca958e" label="mixed materials [A0000000055634]" type="box">4</container>
-          </did>
-        </c>
-        <c id="c9e306424bb642329ec56461f556e2d6" level="file">
-          <did>
-            <unittitle>Duplicated file and record of mss no. 1-622 submitted to JOURNAL OF PARASITOLOGY and publication decision</unittitle>
-            <container altrender="5x7 Card File Box (Long)" id="48b966b03f581b82f9c435a1c541d154" label="mixed materials [A0000000055634]" type="box">4</container>
-          </did>
-        </c>
-      </c>
-      <c id="319532624b094ea3ba1382c5886ed425" level="file">
-        <did>
-          <unittitle>"Collected Reprints"</unittitle>
-          <physdesc id="4aabb9a7bf052ac7fce317ac20cb0249">2 volumes</physdesc>
-        </did>
-        <separatedmaterial id="ea6256a1000b3c290c6caa8641d910a0">
-          <head>Processing Information note</head>
-          <p>Relocated to RAC library 8/9/1988</p>
-        </separatedmaterial>
-      </c>
-    </dsc>
-  </archdesc>
+Box 4: Three sets of records</p>  </scopecontent>
+  <acqinfo id="14cad65a3c121d9c094d33b12d5766a1">
+    <head>Immediate Source of Acquisition note</head>
+<p>The papers of Norman R. Stoll were deposited with the Rockefeller University Archives on March 4, 1977 by Margaret Stoll Dawson, daughter.</p>  </acqinfo>
+  <prefercite id="48eec3318f33bbd2bb7b485cad7508e9">
+    <head>Preferred Citation</head>
+<p>Information regarding the Rockefeller Archive Center's preferred elements and forms of citation can be found at <extref href="http://www.rockarch.org/research/citations.php">http://www.rockarch.org/research/citations.php</extref></p>  </prefercite>
+  <fileplan id="320d51c46856a7c283e7752e2aebaa57">
+    <head>File Plan note</head>
+<p>Former Classification: I 450 St68</p>  </fileplan>
+  <accessrestrict id="cbcdb36dd9456a5ef4b7c710578ca3b3">
+    <head>Conditions Governing Access note</head>
+<p>Access to this collection is restricted pending permission from Rockefeller University.</p>  </accessrestrict>
+  <controlaccess>
+    <subject source="lcsh">Medical sciences</subject>
+    <subject source="lcsh">Biochemistry</subject>
+    <subject source="lcsh">Medicine, Preventive</subject>
+    <subject source="lcsh">Zoology</subject>
+    <subject source="lcsh">Diseases</subject>
+    <subject source="lcsh">Parasitology</subject>
+    <subject source="lcsh">Medical research</subject>
+    <subject source="lcsh">Hookworm disease</subject>
+    <subject source="lcsh">Life sciences</subject>
+    <subject source="lcsh">Biology -- Research</subject>
+    <subject source="lcsh">Cell and biomolecular sciences</subject>
+    <corpname role="ctb" source="naf">Rockefeller University</corpname>
+    <corpname role="ctb" source="naf">Rockefeller Institute for Medical Research</corpname>
+    <corpname role="ctb" source="naf">International Commission on Zoological Nomenclature</corpname>
+  </controlaccess>
+  <dsc><c id="6140aa46054e4e59988a18e0f02cb573" level="item"><did><unittitle>Employment record</unittitle><container altrender="Letter Document Storage Box" id="86c07d0368b4305ebc5cbafd66b527f9" label="mixed materials [A0000000055631]" type="box">1</container><container id="66dc53ecf2f9ec6441003c3783ce991c" parent="86c07d0368b4305ebc5cbafd66b527f9" type="folder">1</container></did></c><c id="bd593f8c7879430a90d949e6c80d8887" level="item"><did><unittitle>Biographical articles as prepared for RU</unittitle><container altrender="Letter Document Storage Box" id="af9e4349d046a1200849bb06f36ea45d" label="mixed materials [A0000000055631]" type="box">1</container><container id="2a12a0f67cfdd463808822bbd806fdae" parent="af9e4349d046a1200849bb06f36ea45d" type="folder">1</container></did></c><c id="dc1d1a4a05a04d0987fe604285f4ab16" level="item"><did><unittitle>Handwritten note which appears to be seminal idea on concept of "self-cure"</unittitle><container altrender="Letter Document Storage Box" id="3a72d33848326a03a950a303e9b42dc8" label="mixed materials [A0000000055631]" type="box">1</container><container id="c027d8edf3d01bedcfde77bc6e1e47c2" parent="3a72d33848326a03a950a303e9b42dc8" type="folder">1</container></did></c><c id="cc3926a5c12f4078b6d5a91c8bcce972" level="item"><did><unittitle>Portion of letter on 25th anniversary of graduation from Mount Union</unittitle><unitdate>1940 February 27</unitdate><container altrender="Letter Document Storage Box" id="cda1ff6fa84e7e0357450436c06d9403" label="mixed materials [A0000000055631]" type="box">1</container><container id="8331c16010c5d47dc5ab02ec3cf5db4c" parent="cda1ff6fa84e7e0357450436c06d9403" type="folder">1</container></did></c><c id="080d742ffb5f4379926fe4c2f5a5dbf3" level="item"><did><unittitle>1947 Holiday Greetings from Leyte Correspondence on Naval Reserve retirement</unittitle><unitdate normal="1947/1947" type="inclusive">1947</unitdate><container altrender="Letter Document Storage Box" id="d3225865682c679fa83c333b2c36f20f" label="mixed materials [A0000000055631]" type="box">1</container><container id="06ae7d266f14e45ac2af6fc5d7115720" parent="d3225865682c679fa83c333b2c36f20f" type="folder">1</container></did></c><c id="06efae30de2748859bada41756f3afcd" level="item"><did><unittitle>Medical reports</unittitle><container altrender="Letter Document Storage Box" id="88d6d39a158520f8b15a9f38f81c14bf" label="mixed materials [A0000000055631]" type="box">1</container><container id="706872b7a0c92f254bce188d897da7ff" parent="88d6d39a158520f8b15a9f38f81c14bf" type="folder">1</container></did></c><c id="a9e62c6731c94c85b9ccc9c8022d6422" level="item"><did><unittitle>Letter of Greetings written to those from Navy associations who jointly sent 80th birthday greetings</unittitle><unitdate normal="1972/1972" type="inclusive">1972</unitdate><container altrender="Letter Document Storage Box" id="b3e0a7def980826f4e41ec7457f346c6" label="mixed materials [A0000000055631]" type="box">1</container><container id="d9bf3039473b8476e78f7e57ef665da3" parent="b3e0a7def980826f4e41ec7457f346c6" type="folder">1</container></did></c><c id="b93515dd0b8d4242939798643aa75994" level="item"><did><unittitle>Bibliography prepared by NR Stoll</unittitle><container altrender="Letter Document Storage Box" id="6f59278ccb7d5e5df07c0cb6d1d2b2a5" label="mixed materials [A0000000055631]" type="box">1</container><container id="701c7baa7408111d30bd27e8f0da40cd" parent="6f59278ccb7d5e5df07c0cb6d1d2b2a5" type="folder">1</container></did></c><c id="812d1bd4cc92423ba0f96816129d90de" level="item"><did><unittitle>Bibliography prepared in Archives Office as a Table of Contents for 2 volumes "Collected Reprints"</unittitle><container altrender="Letter Document Storage Box" id="645df7a3e0cf50aa8e315348f2f112b3" label="mixed materials [A0000000055631]" type="box">1</container><container id="ef9dd83e25e824e0e98ac0139f763148" parent="645df7a3e0cf50aa8e315348f2f112b3" type="folder">1</container></did></c><c id="702d0a02ddab4542a6b4a64586b3ebed" level="item"><did><unittitle>"Norman Rudolph Stoll: Scientist, Teacher, Friend" an appreciation prepared by Malcol S. Ferguson and published in EXPERIMENTAL PARASITOLOGY 1+1</unittitle><unitdate normal="1977/1977" type="inclusive">1977</unitdate><physdesc id="9a67c9bee7c4b95ee48d34c6d091c681">2 copies</physdesc><container altrender="Letter Document Storage Box" id="ad68c3ea4cde6660b460b197446fa877" label="mixed materials [A0000000055631]" type="box">1</container><container id="192249f800fd11b97373ecc748fc8357" parent="ad68c3ea4cde6660b460b197446fa877" type="folder">1</container></did></c><c id="aed482bde6d94e10a453176e6739bcc5" level="item"><did><unittitle>Correspondence on retirement allowance</unittitle><container altrender="Letter Document Storage Box" id="e8a23fd4fd3a51cc03a2efb949cedd94" label="mixed materials [A0000000055631]" type="box">1</container><container id="9b85530e6f4a81a83d29a51bb5dcfc03" parent="e8a23fd4fd3a51cc03a2efb949cedd94" type="folder">1</container></did></c><c id="cac5c13a1ba54dcea4746e029947ff44" level="item"><did><unittitle>Obituary clippings</unittitle><container altrender="Letter Document Storage Box" id="e48beff0f6bf0afd4b55245707c925a4" label="mixed materials [A0000000055631]" type="box">1</container><container id="5e3df6717c70ab2148d1217f38965429" parent="e48beff0f6bf0afd4b55245707c925a4" type="folder">1</container></did></c><c id="fdd1ffab1b0f4a878e55bb33b195bb70" level="file"><did><unittitle>Administrative correspondence</unittitle><unitdate normal="1956/1973" type="inclusive">1956-1973</unitdate><container altrender="Letter Document Storage Box" id="b2ce90ea7faabbaf90edb71b6e92710e" label="mixed materials [A0000000055631]" type="box">1</container><container id="920d80964797eddfccacb75c0b7866d1" parent="b2ce90ea7faabbaf90edb71b6e92710e" type="folder">1a</container></did><scopecontent id="c9d9a9af5e53307fb09d8b456e8261d1"><head>Scope and Contents note</head><p>Mainly notices from various departments.</p></scopecontent></c><c id="932dfa2eb97e49218f40433b8a3130b2" level="file"><did><unittitle>Administrative correspondence</unittitle><unitdate normal="1926/1974" type="inclusive">1926-1974</unitdate><physdesc id="cca6ffca707762034767cb91be18224f">1½ inch file</physdesc><container altrender="Letter Document Storage Box" id="636d3669c40ed9ddf9e6d2334f553a03" label="mixed materials [A0000000055631]" type="box">1</container><container id="7451fee58147c66db76a8a5430c6b5e0" parent="636d3669c40ed9ddf9e6d2334f553a03" type="folder">2</container></did><scopecontent id="abeff17d2f7a56ca0df2f53252ce4885"><head>Scope and Contents note</head><p>Record of Dr. Stoll's long association with The Rockefeller University. Included are several long and informative letters from trips abroad: England, Liberia, Vienna.</p></scopecontent><acqinfo id="703ea9a172f73976f40b2b2c0bf7a870"><head>Immediate Source of Acquisition note</head><p>Placed in the RU Archives from the Office of Faculty Records.</p></acqinfo></c><c id="2da0f1ae5c9c46b181747cc3a6679e36" level="file"><did><unittitle>Photographs of NR Stoll</unittitle><container altrender="Letter Document Storage Box" id="18a9a3378b578968b72e78e61a6c7c35" label="mixed materials [A0000000055631]" type="box">1</container><container id="e53d00e235232013059b2dad68e2f3d9" parent="18a9a3378b578968b72e78e61a6c7c35" type="folder">3</container></did><scopecontent id="f21b74c021bf28ca25491f071f9d071b"><head>Scope and Contents note</head><p>Includes 1 wedding photo of daughter.</p></scopecontent></c><c id="2da9d3aa35dc49b59662153e2eddb0ad" level="file"><did><unittitle>Photographs of Princeton</unittitle><container altrender="Letter Document Storage Box" id="510cc22e79f28f766f0a1425811dec3e" label="mixed materials [A0000000055631]" type="box">1</container><container id="01ce88390fbb867cdf7feed04adb6c32" parent="510cc22e79f28f766f0a1425811dec3e" type="folder">4</container></did><scopecontent id="05a528940ba2f7a921e4c6b40d1e1e78"><head>Scope and Contents note</head><p>Includes group photos of workers in the Princeton labs as well as photos of construction and buildings.</p></scopecontent></c><c id="c438927b959847d98c6f7bbecf52ef65" level="file"><did><unittitle>Reports and references not dated not clear</unittitle><container altrender="Letter Document Storage Box" id="bd8cb37029d4b20e154a103a5fb068c6" label="mixed materials [A0000000055631]" type="box">1</container><container id="bff1084e20b93e25a895917d2b3618d0" parent="bd8cb37029d4b20e154a103a5fb068c6" type="folder">5</container></did></c><c id="fd95316163ec4ce9a741d01322cd4a19" level="file"><did><unittitle>Record of RU staff meetings</unittitle><unitdate normal="1933/1954" type="inclusive">1933-1954</unitdate><container altrender="Letter Document Storage Box" id="269fd12e9cf85b256c795ebec0df4857" label="mixed materials [A0000000055631]" type="box">1</container><container id="a9b4f3444901f7bb7cbcb2b98e45fd58" parent="269fd12e9cf85b256c795ebec0df4857" type="folder">6</container></did><scopecontent id="7ce409d7c1228b253c28b77962bd2d89"><head>Scope and Contents note</head><p>Some correspondence when NR Stoll served on committee.</p></scopecontent></c><c id="f86d701e6d1a4139acfc4d383bb37f07" level="file"><did><unittitle>Photographs</unittitle><container altrender="Letter Document Storage Box" id="e6cd5955cb7821288adc3866a5930487" label="mixed materials [A0000000055631]" type="box">1</container><container id="d9bad8de98f46bec3909b5af46eeaf5a" parent="e6cd5955cb7821288adc3866a5930487" type="folder">7</container></did><scopecontent id="a6d730667c392ffd904a0935a0d1f453"><head>Scope and Contents note</head><p>Group from 1961 trip.</p><p>R.W. Glaser.</p><p>T.M. Rivers.</p><p>W.A.S. Raghawan (sp?)</p></scopecontent></c><c id="ec5ca9f66a0940c49b1b0a75024bccf0" level="file"><did><unittitle>Assorted and scattered items</unittitle><unitdate normal="1933/1975" type="inclusive">1933-1975</unitdate><container altrender="Letter Document Storage Box" id="4931df86efdbd4f961a17e24427e505c" label="mixed materials [A0000000055631]" type="box">1</container><container id="271b401205855b97842796d92dc66999" parent="4931df86efdbd4f961a17e24427e505c" type="folder">8</container></did></c><c id="2bf785b78bdb455f8dd2f8ad583fdc41" level="file"><did><unittitle>Correspondence L.A. Taffs Visiting investigator</unittitle><unitdate normal="1963/1963" type="inclusive">1963</unitdate><container altrender="Letter Document Storage Box" id="02e0e6534612f43e55e8d15806bda56d" label="mixed materials [A0000000055631]" type="box">1</container><container id="ee7e185d7d26c5c6b116385cdd79a678" parent="02e0e6534612f43e55e8d15806bda56d" type="folder">9</container></did></c><c id="8d5778e370df4718b1ac20ba14586840" level="file"><did><unittitle>Oral interview on the closing of the Princeton laboratories</unittitle><unitdate>made in Spring-Fall 1972</unitdate><physdesc id="a12261e4092185eec0d1643a153896ed">3 tapes (both sides) and typescript which Dr. Stoll never decided to edit.</physdesc><container altrender="Letter Document Storage Box" id="375ec07ae557bd156d241dbcd790f5ac" label="mixed materials [A0000000055632]" type="box">2</container><container id="09bfa315efd099dc5529b5dae9bee52e" parent="375ec07ae557bd156d241dbcd790f5ac" type="folder">1</container></did><accessrestrict id="9f267991c5d5b13ee272e173d8ef2723"><head>Conditions Governing Access</head><p>RAC is unable to provide access to obsolete media. When feasible, a digital surrogate may be created via special order. All applicable charges will apply. See RAC Head of Archival Services or RAC Head of Digital Programs for details.</p></accessrestrict><scopecontent id="ba8fb7aff518c7a53054332b57817cbd"><head>Scope and Contents note</head><p>This was done in part by dictation and partly on an interview.</p></scopecontent></c><c id="3f13570952c540eb94df9b08c0346a73" level="item"><did><unittitle>2 publications on hookworm</unittitle><unitdate normal="1914/1928" type="inclusive">1914 1928</unitdate><container altrender="Letter Document Storage Box" id="702b132870cf62941e17f0c8d0a346e6" label="mixed materials [A0000000055632]" type="box">2</container><container id="e42c2360cd9ec5e877745b93e0814e5b" parent="702b132870cf62941e17f0c8d0a346e6" type="folder">2</container></did></c><c id="4154fbab90ff41d398fc1ba13d383af4" level="item"><did><unittitle>War Department Publication on DDT and insecticides</unittitle><unitdate normal="1945/1945" type="inclusive">1945</unitdate><container altrender="Letter Document Storage Box" id="9ee787c4f3cc763cb290ea1612646ad2" label="mixed materials [A0000000055632]" type="box">2</container><container id="134ad7a0549cea5d0adb38ea56cfa4a0" parent="9ee787c4f3cc763cb290ea1612646ad2" type="folder">2</container></did></c><c id="7a1e51d9a0084241afb5a26ce566ac2f" level="item"><did><unittitle>War department manual on DDT</unittitle><unitdate normal="1944/1944" type="inclusive">1944</unitdate><container altrender="Letter Document Storage Box" id="0e11e564b6c16e58498fa13dad21e170" label="mixed materials [A0000000055632]" type="box">2</container><container id="5558f12d4c938ffaa50f8111ed1f8e98" parent="0e11e564b6c16e58498fa13dad21e170" type="folder">2</container></did></c><c id="1b1b9cc3e57547a8bc1844d4985ffeb6" level="item"><did><unittitle>v. 1, no. 2 Journal of Military Medicine in the Pacific</unittitle><container altrender="Letter Document Storage Box" id="d4bf9ea7b25eae2a4d9da932cc254a09" label="mixed materials [A0000000055632]" type="box">2</container><container id="41cdc59742135e33e8be820b4d353695" parent="d4bf9ea7b25eae2a4d9da932cc254a09" type="folder">2</container></did></c><c id="65fbd43edfbe42eab0652afa9a8b1201" level="file"><did><unittitle>Assorted biographical notes of RIMR staff (published)</unittitle><container altrender="Letter Document Storage Box" id="236667514f3205ec40637356a3e9c039" label="mixed materials [A0000000055632]" type="box">2</container><container id="db5acbd30a697354b9071e00f3acea95" parent="236667514f3205ec40637356a3e9c039" type="folder">3</container></did></c><c id="f65ccf95e37545db84b92ec78c38b279" level="file"><did><unittitle>Record of experiments performed</unittitle><unitdate normal="1949/1955" type="inclusive">1949-1955</unitdate><container altrender="Letter Document Storage Box" id="52e0b254df9ea0dd31c32edf14c43e23" label="mixed materials [A0000000055632]" type="box">2</container><container id="af932f6783718212cdaa681e35071f14" parent="52e0b254df9ea0dd31c32edf14c43e23" type="folder">4</container></did></c><c id="d510439ce33d4dbeaa80989204fcb22e" level="file"><did><unittitle>Assorted handwritten notes applicability not always clear</unittitle><unitdate normal="1952/1969" type="inclusive">1952-1969</unitdate><container altrender="Letter Document Storage Box" id="79febb795ec3deda2376dc2c6584b040" label="mixed materials [A0000000055632]" type="box">2</container><container id="5af24065dfaaff7ce297b5293d8d95ce" parent="79febb795ec3deda2376dc2c6584b040" type="folder">5</container></did></c><c id="247ca4556412466199d8bd4bbe285995" level="file"><did><unittitle>Iran Foundation</unittitle><unitdate normal="1951/1959" type="inclusive">1951-1959</unitdate><container altrender="Letter Document Storage Box" id="1c2852d682a8a2a3a7d6c46c348413ff" label="mixed materials [A0000000055632]" type="box">2</container><container id="8d57c8eeb5dc68a4a17e2362eec99c6c" parent="1c2852d682a8a2a3a7d6c46c348413ff" type="folder">6</container></did><scopecontent id="8d85240d23a4f4f0cb9c680c135c840d"><head>Scope and Contents note</head><p>Some correspondence and Annual Report 1957/1958.</p></scopecontent></c><c id="3f06705118ec46bd8b228cfc6426ad7e" level="file"><did><unittitle>JOURNAL OF PARASITOLOGY</unittitle><unitdate normal="1961/1966" type="inclusive">1961-1966</unitdate><container altrender="Letter Document Storage Box" id="00a0e4b377b522a7ffe8c8ec4fad56f6" label="mixed materials [A0000000055632]" type="box">2</container><container id="cff4b9bd128652b62e23c4ca5a8bdcb0" parent="00a0e4b377b522a7ffe8c8ec4fad56f6" type="folder">7</container></did><scopecontent id="95921b06cca93286c619f53abc7131aa"><head>Scope and Contents note</head><p>Correspondence with Justus F. Mueller, editor and draft of a short history of The American Society of Parasitologists; some editorial reports.</p></scopecontent></c><c id="90358fdcf76a4cbcb250dd9f3fff544c" level="file"><did><unittitle>2nd International Congress of Parasitology</unittitle><unitdate normal="1970/1970" type="inclusive">1970</unitdate><container altrender="Letter Document Storage Box" id="29683378bcfc3880eb3573fee5a990bb" label="mixed materials [A0000000055632]" type="box">2</container><container id="10941bd5722126b8e9af8521d410c2ea" parent="29683378bcfc3880eb3573fee5a990bb" type="folder">8</container></did><scopecontent id="9999d50c5b6ef511420601313687be54"><head>Scope and Contents note</head><p>Includes Colloquium on The Cultivation of Helminths.</p></scopecontent></c><c id="d6405190315a421aaec2b03bbc773901" level="item"><did><unittitle>Articles and papers not all listed in, bibliography "First annual meeting of the American Society of Parasitologists. 1925" reprint from Journal of Parasitology 12 (1926)</unittitle><unitdate normal="1925/1926" type="inclusive">1925-1926</unitdate><container altrender="Letter Document Storage Box" id="ac155460b52f62df00d87b025d7c7f59" label="mixed materials [A0000000055632]" type="box">2</container><container id="43dd0faa537403f6284aa71b6d9ca5fe" parent="ac155460b52f62df00d87b025d7c7f59" type="folder">9</container></did></c><c id="8edbada79c84471fbd8b6810e36c6d10" level="item"><did><unittitle>Stoll, N.R. "What can be done about hookworm?" 7th International Congress on Tropical Medicine and Malaria. Proceedings</unittitle><container altrender="Letter Document Storage Box" id="7ebcef7767f13111d89475478ffa585f" label="mixed materials [A0000000055632]" type="box">2</container><container id="49f2ade0a81ec788a7e495c185d30941" parent="7ebcef7767f13111d89475478ffa585f" type="folder">9</container></did></c><c id="6f43102b76124c1dab1cf4b6c5615ada" level="item"><did><unittitle>Announcement of FIRTST NORMAN R. STOLL LECTURE</unittitle><container altrender="Letter Document Storage Box" id="8a63ec849047c7369c39cf03a66d2d45" label="mixed materials [A0000000055632]" type="box">2</container><container id="4d84a0a6373ecee72fa39c333f7a4676" parent="8a63ec849047c7369c39cf03a66d2d45" type="folder">9</container></did></c><c id="c4f90ce453ae468686b84d9b65e8ff1d" level="item"><did><unittitle>Typescript: "The stream of scientific publication (in parasitology): Does it have a problem of pollution? of Eutrophication? (2 cop.) 2nd International Congress of Parasitology</unittitle><container altrender="Letter Document Storage Box" id="58c2aeff4386f25b707b1adbfbca8e45" label="mixed materials [A0000000055632]" type="box">2</container><container id="22e99fd47bb3edd8546076a5074a4574" parent="58c2aeff4386f25b707b1adbfbca8e45" type="folder">9</container></did></c><c id="f0fc0c3d9f8c49d69238c21713a7506b" level="item"><did><unittitle>Typescript: Establishment of three strains of ENTAMOEBA INVADENS in media without tissue</unittitle><container altrender="Letter Document Storage Box" id="1ec5c0ab2b5f382a36cab9661e4faf1e" label="mixed materials [A0000000055632]" type="box">2</container><container id="a19f2a3f0c4ddde2c5404f6619a23068" parent="1ec5c0ab2b5f382a36cab9661e4faf1e" type="folder">9</container></did></c><c id="0e549df7f25b4f218f41c162654cb60d" level="item"><did><unittitle>The First Twenty Years of the New York Society of Tropical Medicine (Stoll on committee)</unittitle><container altrender="Letter Document Storage Box" id="2cbe6b9e9919408acd67252aeaa5e882" label="mixed materials [A0000000055632]" type="box">2</container><container id="4c31306004b86f04ad3e543ea0313376" parent="2cbe6b9e9919408acd67252aeaa5e882" type="folder">9</container></did></c><c id="655c2f8490b747cd826d56d1bc8bb5ee" level="item"><did><unittitle>Duplicated copy of "Endemic Hookworm in Liberia"</unittitle><container altrender="Letter Document Storage Box" id="3c8fbd60c14d9a48c9e7e59a5ed782c4" label="mixed materials [A0000000055632]" type="box">2</container><container id="a9614c7a0a5fda93f401eec459ef493c" parent="3c8fbd60c14d9a48c9e7e59a5ed782c4" type="folder">9</container></did></c><c id="17ed0daecd914ff2ba7620b1948ddb11" level="item"><did><unittitle>Reprint from TAXON 1960 meeting of Editorial Committee of International Code of Botanical-Nomenclature</unittitle><unitdate normal="1960/1960" type="inclusive">1960</unitdate><container altrender="Letter Document Storage Box" id="4d644f528f50bab19ef102335c11f771" label="mixed materials [A0000000055632]" type="box">2</container><container id="4b1ad9d7bc0d15c857c1f6a4268644c0" parent="4d644f528f50bab19ef102335c11f771" type="folder">9</container></did></c><c id="f6d04617790a4324a7593dd594c84637" level="item"><did><unittitle>Remarks at the Dedication of the W.W. Cort Library</unittitle><container altrender="Letter Document Storage Box" id="169e12ff954ac6c73e0ff009492f4f22" label="mixed materials [A0000000055632]" type="box">2</container><container id="12bc83d329b9572b3e8b3be2136cf3c0" parent="169e12ff954ac6c73e0ff009492f4f22" type="folder">9</container></did></c><c id="c1656b16d1654238bf87f6d5c030531b" level="item"><did><unittitle>Handwritten listing by NRS of dates and publications he considered important landmarks in career</unittitle><container altrender="Letter Document Storage Box" id="0a51b07bc0eec2c2b88a70c373c4d9b6" label="mixed materials [A0000000055632]" type="box">2</container><container id="e37c43a4ccd79f756d25c30499828d5d" parent="0a51b07bc0eec2c2b88a70c373c4d9b6" type="folder">9</container></did></c><c id="5fec5babd9a3418a98e94c98ab7eaaa7" level="item"><did><unittitle>Stoll, N.R. "Midstream" reprinted from Mount Union College Bulletin</unittitle><unitdate>1940 July</unitdate><container altrender="Letter Document Storage Box" id="e0daa8e0175c64b5bbc46e13c8657b20" label="mixed materials [A0000000055632]" type="box">2</container><container id="342b9dd71fba3273cb86386e1007ef2a" parent="e0daa8e0175c64b5bbc46e13c8657b20" type="folder">9</container></did></c><c id="86d8131220ee468db93c48841915c178" level="item"><did><unittitle>Stoll, N.R. "This Wormy World" JOURNAL OF PARASITOLOGY, 33 (1947)</unittitle><unitdate normal="1947/1947" type="inclusive">1947</unitdate><container altrender="Letter Document Storage Box" id="4a8236407e1dbe845afb6544cc992d3c" label="mixed materials [A0000000055632]" type="box">2</container><container id="1ef6da2a3d6d150ffb140f410b038197" parent="4a8236407e1dbe845afb6544cc992d3c" type="folder">9</container></did></c><c id="5d918281f91e4f9792ab5ae5127641ea" level="item"><did><unittitle>Stoll, N.R. The Osmosis of research: ... Bulletin of New York Academy of Medicine 48 (1972)</unittitle><unitdate normal="1972/1972" type="inclusive">1972</unitdate><container altrender="Letter Document Storage Box" id="e89423a380093043b909d8dc36f6f744" label="mixed materials [A0000000055632]" type="box">2</container><container id="bcc27fec60958eb1ae6975d0b74a874a" parent="e89423a380093043b909d8dc36f6f744" type="folder">9</container></did></c><c id="2574cef97f30446a944e1a7c0f1d8590" level="item"><did><unittitle>Stoll, N.R. Rudolf William Glaser and Neoplectana EXPERIMENTAL PARASITOLOGY 33</unittitle><unitdate normal="1973/1973" type="inclusive">1973</unitdate><container altrender="Letter Document Storage Box" id="c5f8374376848abfe057404d62306794" label="mixed materials [A0000000055632]" type="box">2</container><container id="cfbead41e5730db19818dcfe5d447aea" parent="c5f8374376848abfe057404d62306794" type="folder">9</container></did></c><c id="f4d610b4838c4546ab4f220f5b62acb4" level="item"><did><unittitle>Stoll, N.R. "Mankind of the future"</unittitle><physdesc id="4b1716ed63455ff3c725a91d2b0e841d">Duplicated copy</physdesc><container altrender="Letter Document Storage Box" id="c0adad8bedf864a45bcddbbe3e53a721" label="mixed materials [A0000000055632]" type="box">2</container><container id="a1e7d3dbeb72bdcde72b64fdae031912" parent="c0adad8bedf864a45bcddbbe3e53a721" type="folder">9</container></did></c><c id="f0eb6dea6abf49548e0f39473b140b0d" level="file"><did><unittitle>"This Wormy World" - address given in Dec. 1946 and published in JOURNAL OF PARASITOLOGY Feb. 1947</unittitle><container altrender="Letter Document Storage Box" id="4c2b4d7e4ee979b562d1c5ecdc4ff818" label="mixed materials [A0000000055633]" type="box">3</container><container id="328ac601466d6eb148831c505b4f24c3" parent="4c2b4d7e4ee979b562d1c5ecdc4ff818" type="folder">1-5</container></did><scopecontent id="c2ab8dfd4903488a23a63953a0880675"><head>Scope and Contents note</head><p>Said to be "the most widely published and quoted publication in helminthological parasitology since the War". Folders 1-5 consist of background; data sheets; manuscript; reprint and reviews.</p></scopecontent></c><c id="465e5501b2084a09a92c8fea5e07fc2d" level="file"><did><unittitle>Unidentified film </unittitle><container altrender="Letter Document Storage Box" id="f4e2faa413f3aeec79b2487d7f729ce3" label="mixed materials [A0000000055633]" type="box">3</container><container id="6742491682876271d12181ec478cc8e6" parent="f4e2faa413f3aeec79b2487d7f729ce3" type="folder">6</container></did><scopecontent id="6196f55b22c7d42449297ffc138cc301"><head>Scope and Contents note</head><p>Appears to be a European trip.</p></scopecontent><accessrestrict id="6053b5992e032f98da3f8560e060adde"><head>Conditions Governing Access</head><p>RAC is unable to provide access to obsolete media. When feasible, a digital surrogate may be created via special order. All applicable charges will apply. See RAC Head of Archival Services or RAC Head of Digital Programs for details.</p></accessrestrict></c><c id="e623194b03044c96beabba880dff2672" level="file"><did><unittitle>Three groups of data sheets</unittitle><physdesc id="90890eedf7262f81c57561a210d8a9a2">12½ × 5 × 8½</physdesc><container altrender="5x7 Card File Box (Long)" id="5d472386d9b63e0c2bb8162fde4fd54e" label="mixed materials [A0000000055634]" type="box">4</container></did><c id="797abc3cd9ce453b87de83efbe5a592d" level="file"><did><unittitle>THIS WORMY WORLD. Arranged geographically according to reprint request location</unittitle><container altrender="5x7 Card File Box (Long)" id="8ee2473ab8df3021c8c3245506486bf0" label="mixed materials [A0000000055634]" type="box">4</container></did></c><c id="f4d7a0954cf34f569d792b5b94221b77" level="file"><did><unittitle>Inactive list of reprints sent</unittitle><container altrender="5x7 Card File Box (Long)" id="49c31fbac9654fef5e40b8f7ea9a0bae" label="mixed materials [A0000000055634]" type="box">4</container></did></c><c id="c9e306424bb642329ec56461f556e2d6" level="file"><did><unittitle>Duplicated file and record of mss no. 1-622 submitted to JOURNAL OF PARASITOLOGY and publication decision</unittitle><container altrender="5x7 Card File Box (Long)" id="dfaa93c43f828bf165499ca136e1bf8d" label="mixed materials [A0000000055634]" type="box">4</container></did></c></c><c id="319532624b094ea3ba1382c5886ed425" level="file"><did><unittitle>"Collected Reprints"</unittitle><physdesc id="4aabb9a7bf052ac7fce317ac20cb0249">2 volumes</physdesc></did><separatedmaterial id="ea6256a1000b3c290c6caa8641d910a0"><head>Processing Information note</head><p>Relocated to RAC library 8/9/1988</p></separatedmaterial></c></dsc>
+</archdesc>
 </ead>

@@ -1,610 +1,354 @@
-<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
-  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="under_revision" langencoding="iso639-2b" repositoryencoding="iso15511">
-    <eadid>FA194.xml</eadid>
-    <filedesc>
-      <titlestmt>
-        <titleproper type="filing">Rous (F. Peyton) papers</titleproper>
-        <titleproper>A Guide to the F. Peyton Rous papers, Rockefeller University Faculty
- <num>FA194</num></titleproper>
-      </titlestmt>
-      <publicationstmt>
-        <publisher>Rockefeller Archive Center</publisher>
-        <address>
-          <addressline>15 Dayton Avenue</addressline>
-          <addressline>Sleepy Hollow 10591</addressline>
-          <addressline>archive@rockarch.org</addressline>
-          <addressline>URL: <extptr xlink:href="http://www.rockarch.org" xlink:show="new" xlink:title="http://www.rockarch.org" xlink:type="simple"/></addressline>
-        </address>
-      </publicationstmt>
-    </filedesc>
-    <profiledesc>
-      <creation>This finding aid was produced using ArchivesSpace on <date>2019-02-21 00:00:38 -0500</date>.</creation>
-    </profiledesc>
-    <revisiondesc>
-      <change>
-        <date>2010 September 29</date>
-        <item>Paper finding aid converted to EAD/XML by AureXus in 2010. Imported into the Archvists’ Toolkit by Becky Robbins.</item>
-      </change>
-    </revisiondesc>
-  </eadheader>
-  <archdesc level="collection">
-    <did>
-      <langmaterial>
-        <language langcode="eng">English</language>
-      </langmaterial>
-      <repository>
-        <corpname>Rockefeller Archive Center</corpname>
-      </repository>
-      <unittitle>F. Peyton Rous papers, Rockefeller University Faculty</unittitle>
-      <origination label="creator">
-        <persname role="aut" source="naf">Rous, Peyton</persname>
-      </origination>
-      <unitid>FA194</unitid>
-      <physdesc altrender="whole">
-        <extent altrender="materialtype spaceoccupied">1 Cubic Feet</extent>
-      </physdesc>
-      <unitdate>undated</unitdate>
-      <physdesc id="4d1cb2b656498bb2df7001a84d2edf6b">1 box and 7 bound volumes.</physdesc>
-    </did>
-    <bioghist id="27bd4f6c1db59d2ce4939967b2bcbca1">
-      <head>Biographical/Historical note</head>
-      <p>(Francis) Peyton Rous, (1879-1970) pathologist and bacteriologist at The Rockefeller Institute for Medical Research, 1909 until his death in 1970 who made outstanding contributions on cancer and virus research and worked also in liver physiology and pathology and vascular physiology. Winner of the Nobel Prize in Medicine in 1966.</p>
-      <chronlist>
-        <head>Biographical note</head>
-        <chronitem>
-          <date>1879</date>
-          <eventgrp>
-            <event>Born October 5, Baltimore, Maryland</event>
-          </eventgrp>
-        </chronitem>
-        <chronitem>
-          <date>1900</date>
-          <eventgrp>
-            <event>B.A. Johns Hopkins University</event>
-          </eventgrp>
-        </chronitem>
-        <chronitem>
-          <date>1905</date>
-          <eventgrp>
-            <event>M.D. Johns Hopkins Medical School</event>
-          </eventgrp>
-        </chronitem>
-        <chronitem>
-          <date>1905-1906</date>
-          <eventgrp>
-            <event>Resident House Officer, Johns Hopkins Hospital</event>
-          </eventgrp>
-        </chronitem>
-        <chronitem>
-          <date>1906-1908</date>
-          <eventgrp>
-            <event>Instructor in Pathology, University of Michigan</event>
-          </eventgrp>
-        </chronitem>
-        <chronitem>
-          <date>1909-1910</date>
-          <eventgrp>
-            <event>Assistant in Pathology and Bacteriology, Rockefeller Institute for Medical Research, New York</event>
-          </eventgrp>
-        </chronitem>
-        <chronitem>
-          <date>1910-1912</date>
-          <eventgrp>
-            <event>Associate, RIMR</event>
-          </eventgrp>
-        </chronitem>
-        <chronitem>
-          <date>1912-1920</date>
-          <eventgrp>
-            <event>Associate Member, RIMR</event>
-          </eventgrp>
-        </chronitem>
-        <chronitem>
-          <date>1920-1945</date>
-          <eventgrp>
-            <event>Member, RIMR</event>
-          </eventgrp>
-        </chronitem>
-        <chronitem>
-          <date>1945-</date>
-          <eventgrp>
-            <event>Member Emeritus, RIMR</event>
-          </eventgrp>
-        </chronitem>
-        <chronitem>
-          <date>1970</date>
-          <eventgrp>
-            <event>Died February 16, New York City</event>
-          </eventgrp>
-        </chronitem>
-        <chronitem>
-          <date>1918-1922</date>
-          <eventgrp>
-            <event>National Research Council (Vice Chairman, Med. Div. 1918)</event>
-          </eventgrp>
-        </chronitem>
-        <chronitem>
-          <date>1923-1926</date>
-          <eventgrp>
-            <event>National Research Council</event>
-          </eventgrp>
-        </chronitem>
-        <chronitem>
-          <date>1929</date>
-          <eventgrp>
-            <event>Linacre Lecturer, Cambridge University</event>
-          </eventgrp>
-        </chronitem>
-        <chronitem>
-          <date>1929</date>
-          <eventgrp>
-            <event>Honorary Fellow, Trinity Hall</event>
-          </eventgrp>
-        </chronitem>
-        <chronitem>
-          <date>1957-1970</date>
-          <eventgrp>
-            <event>Board of Scientific Consultants, Sloan-Kettering Institute; Board of Scientific Advisers, Jane Coffin Childs Memorial Fund; Co-editor, Journal of Experimental Medicine</event>
-          </eventgrp>
-        </chronitem>
-      </chronlist>
-      <chronlist>
-        <head>Honorary Degrees</head>
-        <chronitem>
-          <date>1938</date>
-          <eventgrp>
-            <event>Sc. D. Cambridge University</event>
-          </eventgrp>
-        </chronitem>
-        <chronitem>
-          <date>1938</date>
-          <eventgrp>
-            <event>Sc. D. University of Michigan</event>
-          </eventgrp>
-        </chronitem>
-        <chronitem>
-          <date>1949</date>
-          <eventgrp>
-            <event>Sc. D. Yale University</event>
-          </eventgrp>
-        </chronitem>
-        <chronitem>
-          <date>1949</date>
-          <eventgrp>
-            <event>Sc. D. University of Birmingham</event>
-          </eventgrp>
-        </chronitem>
-        <chronitem>
-          <date>1949</date>
-          <eventgrp>
-            <event>Sc. D. McGill University</event>
-          </eventgrp>
-        </chronitem>
-        <chronitem>
-          <date>1954</date>
-          <eventgrp>
-            <event>Sc. D. University of Chicago</event>
-          </eventgrp>
-        </chronitem>
-        <chronitem>
-          <date>1959</date>
-          <eventgrp>
-            <event>Sc. D. Rockefeller University</event>
-          </eventgrp>
-        </chronitem>
-        <chronitem>
-          <date>1966</date>
-          <eventgrp>
-            <event>Sc. D. Jefferson University</event>
-          </eventgrp>
-        </chronitem>
-        <chronitem>
-          <date>1967</date>
-          <eventgrp>
-            <event>Sc. D. University of Hartford</event>
-          </eventgrp>
-        </chronitem>
-      </chronlist>
-      <chronlist>
-        <head>Honorary M.D.</head>
-        <chronitem>
-          <date>1946</date>
-          <eventgrp>
-            <event>M.D. University of Zurich</event>
-          </eventgrp>
-        </chronitem>
-        <chronitem>
-          <date>1966 M</date>
-          <eventgrp>
-            <event>D. Jefferson Medical College</event>
-          </eventgrp>
-        </chronitem>
-        <chronitem>
-          <date>1963</date>
-          <eventgrp>
-            <event>LL. D. (Honorary) St. Lawrence University</event>
-          </eventgrp>
-        </chronitem>
-      </chronlist>
-      <chronlist>
-        <head>Awards</head>
-        <chronitem>
-          <date>1927</date>
-          <eventgrp>
-            <event>John Scott Medal and Award</event>
-          </eventgrp>
-        </chronitem>
-        <chronitem>
-          <date>1941</date>
-          <eventgrp>
-            <event>Walker Prize, Royal College of Surgeons, London</event>
-          </eventgrp>
-        </chronitem>
-        <chronitem>
-          <date>1952</date>
-          <eventgrp>
-            <event>Anna Fuller Award</event>
-          </eventgrp>
-        </chronitem>
-        <chronitem>
-          <date>1953</date>
-          <eventgrp>
-            <event>Kober Medal, Association of American Physicians</event>
-          </eventgrp>
-        </chronitem>
-        <chronitem>
-          <date>1954</date>
-          <eventgrp>
-            <event>Bertner Medal and Award, University of Texas</event>
-          </eventgrp>
-        </chronitem>
-        <chronitem>
-          <date>1956</date>
-          <eventgrp>
-            <event>Kovalenko Medal, National Academy of Sciences</event>
-          </eventgrp>
-        </chronitem>
-        <chronitem>
-          <date>1957</date>
-          <eventgrp>
-            <event>Distinguished Service Award, American Cancer Society</event>
-          </eventgrp>
-        </chronitem>
-        <chronitem>
-          <date>1958</date>
-          <eventgrp>
-            <event>Lasker Award, American Public health Association</event>
-          </eventgrp>
-        </chronitem>
-        <chronitem>
-          <date>1958</date>
-          <eventgrp>
-            <event>Landsteiner Award, American Association of Blood Banks</event>
-          </eventgrp>
-        </chronitem>
-        <chronitem>
-          <date>1959</date>
-          <eventgrp>
-            <event>New York Academy of Medicine Medal</event>
-          </eventgrp>
-        </chronitem>
-        <chronitem>
-          <date>1959</date>
-          <eventgrp>
-            <event>Judd Award, Memorial Center for Cancer</event>
-          </eventgrp>
-        </chronitem>
-        <chronitem>
-          <date>1962-</date>
-          <eventgrp>
-            <event>Gold Medal, Royal Society of Medicine (London)</event>
-          </eventgrp>
-        </chronitem>
-        <chronitem>
-          <date>1962</date>
-          <eventgrp>
-            <event>United Nations Prize for Cancer Research</event>
-          </eventgrp>
-        </chronitem>
-        <chronitem>
-          <date>1964</date>
-          <eventgrp>
-            <event>Gold Headed Cane award, Am. Assoc. of Pathologists and Bacteriologists</event>
-          </eventgrp>
-        </chronitem>
-        <chronitem>
-          <date>1966</date>
-          <eventgrp>
-            <event>Cleveland Medal, American Cancer Society</event>
-          </eventgrp>
-        </chronitem>
-        <chronitem>
-          <date>1966</date>
-          <eventgrp>
-            <event>National Medal of Science</event>
-          </eventgrp>
-        </chronitem>
-        <chronitem>
-          <date>1966</date>
-          <eventgrp>
-            <event>Paul Ehrlich Award, Germany</event>
-          </eventgrp>
-        </chronitem>
-        <chronitem>
-          <date>1966</date>
-          <eventgrp>
-            <event>Nobel Prize in Medicine</event>
-          </eventgrp>
-        </chronitem>
-      </chronlist>
-      <p>Member of: American Association for the Advancement of Science, Fellow, National Academy of Sciences, American Philosophical Society, Association of American Physicians, American Association of Pathologists and Bacteriologists, American Society for Experimental Pathology, Society for Experimental Biology and Medicine, Harvey Society, New York Pathological Society, New York Academy of Medicine, American Association for Cancer Research, Phi Beta Kappa, Alpha Omega Alpha, Sigma Xi, Royal Society, Foreign Member, Royal Society Medicine and College of Pathologists, London. Honorary Fellow, Weizmann Institute of Science, Israel. Honorary Fellow, British Physiological Society (Honorary Member), Pathological Society of Great Britain and Ireland (Honorary Member), American Society for Microbiology, New York Pathological Society, Connecticut Medical Society, British Medical Association (foreign Correspondent member), Académie de Médecine, Paris (foreign correspondent member), Royal Academy of Sciences, Denmark, Norwegian Academy of Sciences and Letters, Century Club</p>
-    </bioghist>
-    <scopecontent id="0c23622b07688fb71f1a6500f082efd7">
-      <head>Scope and Contents note</head>
-      <p>Biographical material, newspaper items, photographs, collected papers.</p>
-      <p>The collection consists primarily of photographs, articles about Peyton Rous on the receipt of various awards, bibliography and collected reprints.</p>
-    </scopecontent>
-    <relatedmaterial id="fc1dd4b771fb486259263e4aa2db6de2">
-      <head>Related Materials</head>
-      <p>The main body of Peyton Rous papers was deposited at The American Philosophical Society.</p>
-    </relatedmaterial>
-    <fileplan id="cb015114860aa636be680dda18de320b">
-      <head>File Plan note</head>
-      <p>Former Classification: I 450 R762</p>
-    </fileplan>
-    <accessrestrict id="b719472511f429b7f3de3bae8dcc448c">
-      <head>Conditions Governing Access note</head>
-      <p>Access to this collection is restricted pending permission from Rockefeller University.</p>
-    </accessrestrict>
-    <prefercite id="c86367a5ad82aff619e559b410259514">
-      <head>Preferred Citation</head>
-      <p>Information regarding the Rockefeller Archive Center's preferred elements and forms of citation can be found at <extref href="http://www.rockarch.org/research/citations.php">http://www.rockarch.org/research/citations.php</extref></p>
-    </prefercite>
-    <arrangement id="14025462665871c0466378eefa1b5637">
-      <head>Arrangement</head>
-      <p>As received.</p>
-    </arrangement>
-    <controlaccess>
-      <subject source="lcsh">Biochemistry</subject>
-      <subject source="lcsh">Liver -- Physiology</subject>
-      <subject source="lcsh">Liver -- Pathology</subject>
-      <subject source="lcsh">Biology -- Research</subject>
-      <subject source="lcsh">Cell and biomolecular sciences</subject>
-      <subject source="lcsh">Bacteriology</subject>
-      <subject source="lcsh">Viruses -- Research</subject>
-      <subject source="lcsh">Cancer</subject>
-      <subject source="lcsh">Pathology</subject>
-      <subject source="lcsh">Physiology</subject>
-      <subject source="lcsh">Cancer -- Research</subject>
-      <subject source="lcsh">Medicine, Preventive</subject>
-      <subject source="lcsh">Life sciences</subject>
-      <subject source="lcsh">Medical research</subject>
-      <subject source="lcsh">Medical sciences</subject>
-      <subject source="lcsh">Diseases</subject>
-      <subject source="lcsh">Bacteria</subject>
-      <corpname role="ctb" source="naf">Rockefeller University</corpname>
-      <corpname role="ctb" source="naf">Rockefeller Institute for Medical Research</corpname>
-    </controlaccess>
-    <dsc>
-      <c id="c68c590e57b040909b3accd0230e4663" level="item">
-        <did>
-          <unittitle>Photocopy of Biographical memoir from American Philosophical Society Yearbook, 1971 written by James Stuart Henderson. Bibliography</unittitle>
-          <unitdate normal="1971/1971" type="inclusive">1971</unitdate>
-          <container altrender="Letter Document Storage Box" id="e30cb02be84ac97b1ea368fbde0f63b9" label="mixed materials [A0000000085561]" type="box">1</container>
-          <container id="14215e52b2d3a8f89fa3ce31ed9963d0" parent="e30cb02be84ac97b1ea368fbde0f63b9" type="folder">1</container>
-        </did>
-      </c>
-      <c id="df3864ecd6b04e3dac1139c8e6116e6e" level="item">
-        <did>
-          <unittitle>Photocopies of Peace Resolution correspondence from Science</unittitle>
-          <unitdate normal="1940/1940" type="inclusive">1940</unitdate>
-          <container altrender="Letter Document Storage Box" id="b8d584090a4703876f0efa32a5459849" label="mixed materials [A0000000085561]" type="box">1</container>
-          <container id="13f0d495fc8a7b3ccadb29561096b701" parent="b8d584090a4703876f0efa32a5459849" type="folder">1</container>
-        </did>
-      </c>
-      <c id="7a5b6298df704f8d895eaf65f4652c49" level="item">
-        <did>
-          <unittitle>Memoir of Peyton Rous written by Renato Dulbecco with covering correspondence with Dr. Edelman (photocopy)</unittitle>
-          <container altrender="Letter Document Storage Box" id="27874835744c7e1039c7abb7319c299e" label="mixed materials [A0000000085561]" type="box">1</container>
-          <container id="2cacd56d0855afcc4a1e6a09fd3e283c" parent="27874835744c7e1039c7abb7319c299e" type="folder">1</container>
-        </did>
-      </c>
-      <c id="23710a380e7645a7b4ddd6b825f41b11" level="item">
-        <did>
-          <unittitle>Copies of Reports to Corporation and Descriptive Pamphlet</unittitle>
-          <unitdate normal="1941/1944" type="inclusive">1941 1941-1942 1942-1944 1943</unitdate>
-          <container altrender="Letter Document Storage Box" id="b89b04467b2393fd15bd58a75a52f8d0" label="mixed materials [A0000000085561]" type="box">1</container>
-          <container id="2e7817cce4035243ba241fd725d9a1b0" parent="b89b04467b2393fd15bd58a75a52f8d0" type="folder">1</container>
-        </did>
-      </c>
-      <c id="299394c7601c45b0a18654cca3f5ec5f" level="item">
-        <did>
-          <unittitle>Biographical memoir NAS v. 48 (1976) by Renato Dulbecco</unittitle>
-          <unitdate normal="1976/1976" type="inclusive">1976</unitdate>
-          <container altrender="Letter Document Storage Box" id="5b22b01c1651c4338d338ca3bc996a08" label="mixed materials [A0000000085561]" type="box">1</container>
-          <container id="6815bbead7cf57253530e09559c5a394" parent="5b22b01c1651c4338d338ca3bc996a08" type="folder">1</container>
-        </did>
-      </c>
-      <c id="f64accab47564bb191345b2f09e7abad" level="file">
-        <did>
-          <unittitle>Photographs</unittitle>
-          <container altrender="Letter Document Storage Box" id="552baa728774d40a38f2317e00fe5792" label="mixed materials [A0000000085561]" type="box">1</container>
-          <container id="f0038086fd0a9bcca04b5ad8bd6029dc" parent="552baa728774d40a38f2317e00fe5792" type="folder">2</container>
-        </did>
-      </c>
-      <c id="347b5a6107024c23ab5f6171a623d1c9" level="item">
-        <did>
-          <unittitle>Copy of Presentation Address, Kober Medal</unittitle>
-          <unitdate normal="1953/1953" type="inclusive">1953</unitdate>
-          <container altrender="Letter Document Storage Box" id="e6f8f1ba74448e360752037e4567e137" label="mixed materials [A0000000085561]" type="box">1</container>
-          <container id="b7be5c8395ee6b9dd57839cc144ea792" parent="e6f8f1ba74448e360752037e4567e137" type="folder">3</container>
-        </did>
-      </c>
-      <c id="8aa692b007cf4e83851ac6160610ab94" level="item">
-        <did>
-          <unittitle>News release, Kovalenko Medal</unittitle>
-          <unitdate normal="1956/1956" type="inclusive">1956</unitdate>
-          <container altrender="Letter Document Storage Box" id="d7f44630d36b044f8612b71e981920d6" label="mixed materials [A0000000085561]" type="box">1</container>
-          <container id="3e0e82abb1875c3b571341deb1ee918d" parent="d7f44630d36b044f8612b71e981920d6" type="folder">3</container>
-        </did>
-      </c>
-      <c id="bfcfe4bad6e449d797bbc8d509ac56bb" level="item">
-        <did>
-          <unittitle>Time clipping, Lasker Award</unittitle>
-          <unitdate normal="1958/1958" type="inclusive">1958</unitdate>
-          <container altrender="Letter Document Storage Box" id="6821a0b08ed1cee17844641712a6b446" label="mixed materials [A0000000085561]" type="box">1</container>
-          <container id="b03dff44e7a058ce255f7895b6990fe2" parent="6821a0b08ed1cee17844641712a6b446" type="folder">3</container>
-        </did>
-      </c>
-      <c id="37cb80021b134a9282f6f6c363beb93a" level="item">
-        <did>
-          <unittitle>Today's Health, clipping, Lasker Medal</unittitle>
-          <unitdate normal="1958/1958" type="inclusive">1958</unitdate>
-          <container altrender="Letter Document Storage Box" id="2b85c32272a5c3fb438628a1b3d4d9a6" label="mixed materials [A0000000085561]" type="box">1</container>
-          <container id="907a1ef9293186b0e27309181c9a741d" parent="2b85c32272a5c3fb438628a1b3d4d9a6" type="folder">3</container>
-        </did>
-      </c>
-      <c id="ba204dcba95744ae81ee7724c913fdae" level="item">
-        <did>
-          <unittitle>Bull. NY Acad. Med. Academy Medal</unittitle>
-          <unitdate normal="1959/1959" type="inclusive">1959</unitdate>
-          <container altrender="Letter Document Storage Box" id="286ee65056418542706922249f049b5f" label="mixed materials [A0000000085561]" type="box">1</container>
-          <container id="d71fb31bbbae711db97adc55e4f4d769" parent="286ee65056418542706922249f049b5f" type="folder">3</container>
-        </did>
-      </c>
-      <c id="7fc1fdcecd074e1a9718a1e197ce90ea" level="item">
-        <did>
-          <unittitle>80th Birthday celebration</unittitle>
-          <unitdate>1960 February</unitdate>
-          <container altrender="Letter Document Storage Box" id="732cae7d2f53e3bbfe6c9b47524f1df3" label="mixed materials [A0000000085561]" type="box">1</container>
-          <container id="d0e73d1042c8457401497c6c7498487e" parent="732cae7d2f53e3bbfe6c9b47524f1df3" type="folder">3</container>
-        </did>
-      </c>
-      <c id="0d4a4b7602da49a68845d2fe65ae4074" level="item">
-        <did>
-          <unittitle>Medical World News</unittitle>
-          <unitdate>1960 August</unitdate>
-          <container altrender="Letter Document Storage Box" id="db13c6140f0a669370817392bc1d5fbc" label="mixed materials [A0000000085561]" type="box">1</container>
-          <container id="5f16b84410be280496d51b548d8850f9" parent="db13c6140f0a669370817392bc1d5fbc" type="folder">3</container>
-        </did>
-      </c>
-      <c id="173e517d77ae47c79395f73a5e68e2de" level="item">
-        <did>
-          <unittitle>Lab World, Gold Headed Cane</unittitle>
-          <unitdate normal="1964/1964" type="inclusive">1964</unitdate>
-          <container altrender="Letter Document Storage Box" id="b988f8b992f59c530cacb6e831fce8d9" label="mixed materials [A0000000085561]" type="box">1</container>
-          <container id="bb3c0e8d6f11a0654430da15ac83e7a1" parent="b988f8b992f59c530cacb6e831fce8d9" type="folder">3</container>
-        </did>
-      </c>
-      <c id="b132f6af86f34bdc8576ddd19f57389f" level="item">
-        <did>
-          <unittitle>Nobel Prize articles</unittitle>
-          <unitdate normal="1966/1966" type="inclusive">1966</unitdate>
-          <container altrender="Letter Document Storage Box" id="da80b4abb7d7a7eeb1c764b806770819" label="mixed materials [A0000000085561]" type="box">1</container>
-          <container id="16c0c841da0db529e6cbd1f6f29eb319" parent="da80b4abb7d7a7eeb1c764b806770819" type="folder">3</container>
-        </did>
-      </c>
-      <c id="8fc0c432eb1b4cadab583540d567440e" level="item">
-        <did>
-          <unittitle>Steven. Pelech, "Cellular Security: How Anti-Cancer Genes Turn Off Tumors" The Sciences</unittitle>
-          <unitdate>1989 January-February</unitdate>
-          <physdesc id="b2aa14582061e6f5641ed2d2c6df14c3">pp. 38-44, photocopy</physdesc>
-          <container altrender="Letter Document Storage Box" id="d7fe795442134b1d6701ffebfea5b1ef" label="mixed materials [A0000000085561]" type="box">1</container>
-          <container id="a0f33f6a5f1638d4bbe16bea54b4d935" parent="d7fe795442134b1d6701ffebfea5b1ef" type="folder">3</container>
-        </did>
-      </c>
-      <c id="ef2b9d1acdd54000b29d9b98fe7aa10b" level="file">
-        <did>
-          <unittitle>Official photograph of portrait</unittitle>
-          <container altrender="Letter Document Storage Box" id="9633e1907da14303c34754e24f2d3d91" label="mixed materials [A0000000085561]" type="box">1</container>
-          <container id="3352f1f64586fd2ddfcfaa8b979dbba3" parent="9633e1907da14303c34754e24f2d3d91" type="folder">4</container>
-        </did>
-        <accessrestrict id="61df25169107b1e938882aa030ffd3d8">
-          <head>Conditions Governing Access note</head>
-          <p>(Not for distribution except through office of RU Vice-President).</p>
-        </accessrestrict>
-      </c>
-      <c id="d6e454c40207486eb04131f274922815" level="file">
-        <did>
-          <unittitle>American Philosophical Society Inventory of Rous Papers (photocopy)</unittitle>
-          <container altrender="Letter Document Storage Box" id="142b6c0fde07dba5545c827274c1045c" label="mixed materials [A0000000085561]" type="box">1</container>
-          <container id="5128bf2c2e2d0330c5610f3d663ee016" parent="142b6c0fde07dba5545c827274c1045c" type="folder">5</container>
-        </did>
-      </c>
-      <c id="723e24494d454de790a6cfda0602190e" level="file">
-        <did>
-          <unittitle>Writings</unittitle>
-          <unitdate normal="1929/1966" type="inclusive">1929, 1966</unitdate>
-        </did>
-        <c id="ec68ffb3829e4878b0d7234717a3244f" level="item">
-          <did>
-            <unittitle>The Modern Dance of Death</unittitle>
-            <unitdate normal="1929/1929" type="inclusive">1929</unitdate>
-            <container altrender="Letter Document Storage Box" id="d590d3f6e2d2d0d990a2db13ae388b15" label="mixed materials [A0000000085561]" type="box">1</container>
-            <container id="019b5c24693fc42f3daa314133e37828" parent="d590d3f6e2d2d0d990a2db13ae388b15" type="folder">6</container>
-          </did>
-        </c>
-        <c id="61c23b2b89334b449512329c3c152030" level="item">
-          <did>
-            <unittitle>"The Lamentable Decline in Self-Satisfaction"</unittitle>
-            <unitdate normal="1966/1966" type="inclusive">1966</unitdate>
-            <container altrender="Letter Document Storage Box" id="fce9232677dfa79b7fb132f25d95ce72" label="mixed materials [A0000000085561]" type="box">1</container>
-            <container id="73cee2fe0c1202a5d95acf301ca72594" parent="fce9232677dfa79b7fb132f25d95ce72" type="folder">6</container>
-          </did>
-        </c>
-      </c>
-      <c id="0a21cf0fd30c4d3e82802fca69b7c071" level="file">
-        <did>
-          <unittitle>Publications</unittitle>
-          <physdesc id="6a69a35fcc29f9fbf659c8e7c4a3bb5b">separately bound</physdesc>
-        </did>
-        <c id="faa346b1cb8b48f8bc5de1c58045d1cb" level="item">
-          <did>
-            <unittitle>Reprint from Les Prix Nobel en 1966</unittitle>
-            <unitdate normal="1966/1966" type="inclusive">1966</unitdate>
-            <container altrender="Letter Document Storage Box" id="a5db71a18796ddb463ddae61399ce755" label="mixed materials [A0000000085561]" type="box">1</container>
-          </did>
-        </c>
-        <c id="a47af111a7d441218454f7cfe443a625" level="item">
-          <did>
-            <unittitle>The Modern Dance of Death by Peyton Rous Linacre Lecture, 1929 Cambridge UP</unittitle>
-            <unitdate normal="1929/1929" type="inclusive">1929</unitdate>
-            <container altrender="Letter Document Storage Box" id="25f22275f342d64c183c5b57aebe0f63" label="mixed materials [A0000000085561]" type="box">1</container>
-          </did>
-        </c>
-        <c id="dd045f8e169d44d3a0f1612fa01f27d1" level="item">
-          <did>
-            <unittitle>The Dualism of the Discoverer by Peyton Rous Sonderdruck. Die Johann Wolfgang Goethe Universität</unittitle>
-            <unitdate normal="1966/1966" type="inclusive">1966</unitdate>
-            <container altrender="Letter Document Storage Box" id="6ef23a6e48c02ef9a6e14acd423824e5" label="mixed materials [A0000000085561]" type="box">1</container>
-          </did>
-          <scopecontent id="9ff0ae9c3515d1c6bdb35a4f8c0de0dc">
-            <head>Scope and Contents note</head>
-            <p>This address was made on the occasion of the Paul Ehrlich Award, but it was published without an opportunity for Peyton Rous to check proofs and he therefore did not wish it listed in his bibliography and wanted all copies to be destroyed.</p>
-          </scopecontent>
-        </c>
-      </c>
-      <c id="92b859833c0e402f80c71538baa09580" level="file">
-        <did>
-          <unittitle>"Collected Reprints"</unittitle>
-          <physdesc id="c6ec28196e41075b2836cf9386522891">6 bound volumes</physdesc>
-        </did>
-        <processinfo id="d4f96447f330ddee7467054d28dfed8f">
-          <head>Processing Information note</head>
-          <p>Relocated to RAC library 8/9/88</p>
-        </processinfo>
-      </c>
-      <c id="24d26d00c53d4fafb1f7ac405b6443d4" level="file">
-        <did>
-          <unittitle>Gustav Stern Symposium On Perspectives in virology, v. 2, 1961. In honor of Peyton Rous</unittitle>
-          <unitdate normal="1961/1961" type="inclusive">1961</unitdate>
-          <physdesc id="55ba0f26fb87501fbb4df674dc4839b8">1 bound volume</physdesc>
-        </did>
-        <processinfo id="ec5a117a93a3b9609e47feb6ab7a245b">
-          <head>Processing Information note</head>
-          <p>Relocated to RAC library 8/9/88</p>
-        </processinfo>
-      </c>
-    </dsc>
-  </archdesc>
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="under_revision" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid>FA194.xml</eadid><filedesc><titlestmt><titleproper type="filing">Rous (F. Peyton) papers</titleproper><titleproper>A Guide to the F. Peyton Rous papers, Rockefeller University Faculty
+ <num>FA194</num></titleproper></titlestmt><publicationstmt><publisher>Rockefeller Archive Center</publisher><address><addressline>15 Dayton Avenue</addressline><addressline>Sleepy Hollow 10591</addressline><addressline>archive@rockarch.org</addressline><addressline>URL: <extptr xlink:href="http://www.rockarch.org" xlink:show="new" xlink:title="http://www.rockarch.org" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2019-03-14 00:29:46 -0400</date>.</creation></profiledesc><revisiondesc><change><date>2010 September 29</date><item>Paper finding aid converted to EAD/XML by AureXus in 2010. Imported into the Archvists’ Toolkit by Becky Robbins.</item></change></revisiondesc></eadheader><archdesc level="collection">
+  <did>
+    <langmaterial>
+      <language langcode="eng">English</language>
+    </langmaterial>
+    <repository>
+      <corpname>Rockefeller Archive Center</corpname>
+    </repository>
+    <unittitle>F. Peyton Rous papers, Rockefeller University Faculty</unittitle>
+    <origination label="creator">
+      <persname role="aut" source="naf">Rous, Peyton</persname>
+    </origination>
+    <unitid>FA194</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">1 Cubic Feet</extent>
+    </physdesc>
+    <unitdate>undated</unitdate>
+    <physdesc id="4d1cb2b656498bb2df7001a84d2edf6b">1 box and 7 bound volumes.</physdesc>
+  </did>
+  <bioghist id="27bd4f6c1db59d2ce4939967b2bcbca1">
+    <head>Biographical/Historical note</head>
+<p>(Francis) Peyton Rous, (1879-1970) pathologist and bacteriologist at The Rockefeller Institute for Medical Research, 1909 until his death in 1970 who made outstanding contributions on cancer and virus research and worked also in liver physiology and pathology and vascular physiology. Winner of the Nobel Prize in Medicine in 1966.</p>    <chronlist>
+      <head>Biographical note</head>
+      <chronitem>
+        <date>1879</date>
+        <eventgrp>
+          <event>Born October 5, Baltimore, Maryland</event>
+        </eventgrp>
+      </chronitem>
+      <chronitem>
+        <date>1900</date>
+        <eventgrp>
+          <event>B.A. Johns Hopkins University</event>
+        </eventgrp>
+      </chronitem>
+      <chronitem>
+        <date>1905</date>
+        <eventgrp>
+          <event>M.D. Johns Hopkins Medical School</event>
+        </eventgrp>
+      </chronitem>
+      <chronitem>
+        <date>1905-1906</date>
+        <eventgrp>
+          <event>Resident House Officer, Johns Hopkins Hospital</event>
+        </eventgrp>
+      </chronitem>
+      <chronitem>
+        <date>1906-1908</date>
+        <eventgrp>
+          <event>Instructor in Pathology, University of Michigan</event>
+        </eventgrp>
+      </chronitem>
+      <chronitem>
+        <date>1909-1910</date>
+        <eventgrp>
+          <event>Assistant in Pathology and Bacteriology, Rockefeller Institute for Medical Research, New York</event>
+        </eventgrp>
+      </chronitem>
+      <chronitem>
+        <date>1910-1912</date>
+        <eventgrp>
+          <event>Associate, RIMR</event>
+        </eventgrp>
+      </chronitem>
+      <chronitem>
+        <date>1912-1920</date>
+        <eventgrp>
+          <event>Associate Member, RIMR</event>
+        </eventgrp>
+      </chronitem>
+      <chronitem>
+        <date>1920-1945</date>
+        <eventgrp>
+          <event>Member, RIMR</event>
+        </eventgrp>
+      </chronitem>
+      <chronitem>
+        <date>1945-</date>
+        <eventgrp>
+          <event>Member Emeritus, RIMR</event>
+        </eventgrp>
+      </chronitem>
+      <chronitem>
+        <date>1970</date>
+        <eventgrp>
+          <event>Died February 16, New York City</event>
+        </eventgrp>
+      </chronitem>
+      <chronitem>
+        <date>1918-1922</date>
+        <eventgrp>
+          <event>National Research Council (Vice Chairman, Med. Div. 1918)</event>
+        </eventgrp>
+      </chronitem>
+      <chronitem>
+        <date>1923-1926</date>
+        <eventgrp>
+          <event>National Research Council</event>
+        </eventgrp>
+      </chronitem>
+      <chronitem>
+        <date>1929</date>
+        <eventgrp>
+          <event>Linacre Lecturer, Cambridge University</event>
+        </eventgrp>
+      </chronitem>
+      <chronitem>
+        <date>1929</date>
+        <eventgrp>
+          <event>Honorary Fellow, Trinity Hall</event>
+        </eventgrp>
+      </chronitem>
+      <chronitem>
+        <date>1957-1970</date>
+        <eventgrp>
+          <event>Board of Scientific Consultants, Sloan-Kettering Institute; Board of Scientific Advisers, Jane Coffin Childs Memorial Fund; Co-editor, Journal of Experimental Medicine</event>
+        </eventgrp>
+      </chronitem>
+    </chronlist>
+    <chronlist>
+      <head>Honorary Degrees</head>
+      <chronitem>
+        <date>1938</date>
+        <eventgrp>
+          <event>Sc. D. Cambridge University</event>
+        </eventgrp>
+      </chronitem>
+      <chronitem>
+        <date>1938</date>
+        <eventgrp>
+          <event>Sc. D. University of Michigan</event>
+        </eventgrp>
+      </chronitem>
+      <chronitem>
+        <date>1949</date>
+        <eventgrp>
+          <event>Sc. D. Yale University</event>
+        </eventgrp>
+      </chronitem>
+      <chronitem>
+        <date>1949</date>
+        <eventgrp>
+          <event>Sc. D. University of Birmingham</event>
+        </eventgrp>
+      </chronitem>
+      <chronitem>
+        <date>1949</date>
+        <eventgrp>
+          <event>Sc. D. McGill University</event>
+        </eventgrp>
+      </chronitem>
+      <chronitem>
+        <date>1954</date>
+        <eventgrp>
+          <event>Sc. D. University of Chicago</event>
+        </eventgrp>
+      </chronitem>
+      <chronitem>
+        <date>1959</date>
+        <eventgrp>
+          <event>Sc. D. Rockefeller University</event>
+        </eventgrp>
+      </chronitem>
+      <chronitem>
+        <date>1966</date>
+        <eventgrp>
+          <event>Sc. D. Jefferson University</event>
+        </eventgrp>
+      </chronitem>
+      <chronitem>
+        <date>1967</date>
+        <eventgrp>
+          <event>Sc. D. University of Hartford</event>
+        </eventgrp>
+      </chronitem>
+    </chronlist>
+    <chronlist>
+      <head>Honorary M.D.</head>
+      <chronitem>
+        <date>1946</date>
+        <eventgrp>
+          <event>M.D. University of Zurich</event>
+        </eventgrp>
+      </chronitem>
+      <chronitem>
+        <date>1966 M</date>
+        <eventgrp>
+          <event>D. Jefferson Medical College</event>
+        </eventgrp>
+      </chronitem>
+      <chronitem>
+        <date>1963</date>
+        <eventgrp>
+          <event>LL. D. (Honorary) St. Lawrence University</event>
+        </eventgrp>
+      </chronitem>
+    </chronlist>
+    <chronlist>
+      <head>Awards</head>
+      <chronitem>
+        <date>1927</date>
+        <eventgrp>
+          <event>John Scott Medal and Award</event>
+        </eventgrp>
+      </chronitem>
+      <chronitem>
+        <date>1941</date>
+        <eventgrp>
+          <event>Walker Prize, Royal College of Surgeons, London</event>
+        </eventgrp>
+      </chronitem>
+      <chronitem>
+        <date>1952</date>
+        <eventgrp>
+          <event>Anna Fuller Award</event>
+        </eventgrp>
+      </chronitem>
+      <chronitem>
+        <date>1953</date>
+        <eventgrp>
+          <event>Kober Medal, Association of American Physicians</event>
+        </eventgrp>
+      </chronitem>
+      <chronitem>
+        <date>1954</date>
+        <eventgrp>
+          <event>Bertner Medal and Award, University of Texas</event>
+        </eventgrp>
+      </chronitem>
+      <chronitem>
+        <date>1956</date>
+        <eventgrp>
+          <event>Kovalenko Medal, National Academy of Sciences</event>
+        </eventgrp>
+      </chronitem>
+      <chronitem>
+        <date>1957</date>
+        <eventgrp>
+          <event>Distinguished Service Award, American Cancer Society</event>
+        </eventgrp>
+      </chronitem>
+      <chronitem>
+        <date>1958</date>
+        <eventgrp>
+          <event>Lasker Award, American Public health Association</event>
+        </eventgrp>
+      </chronitem>
+      <chronitem>
+        <date>1958</date>
+        <eventgrp>
+          <event>Landsteiner Award, American Association of Blood Banks</event>
+        </eventgrp>
+      </chronitem>
+      <chronitem>
+        <date>1959</date>
+        <eventgrp>
+          <event>New York Academy of Medicine Medal</event>
+        </eventgrp>
+      </chronitem>
+      <chronitem>
+        <date>1959</date>
+        <eventgrp>
+          <event>Judd Award, Memorial Center for Cancer</event>
+        </eventgrp>
+      </chronitem>
+      <chronitem>
+        <date>1962-</date>
+        <eventgrp>
+          <event>Gold Medal, Royal Society of Medicine (London)</event>
+        </eventgrp>
+      </chronitem>
+      <chronitem>
+        <date>1962</date>
+        <eventgrp>
+          <event>United Nations Prize for Cancer Research</event>
+        </eventgrp>
+      </chronitem>
+      <chronitem>
+        <date>1964</date>
+        <eventgrp>
+          <event>Gold Headed Cane award, Am. Assoc. of Pathologists and Bacteriologists</event>
+        </eventgrp>
+      </chronitem>
+      <chronitem>
+        <date>1966</date>
+        <eventgrp>
+          <event>Cleveland Medal, American Cancer Society</event>
+        </eventgrp>
+      </chronitem>
+      <chronitem>
+        <date>1966</date>
+        <eventgrp>
+          <event>National Medal of Science</event>
+        </eventgrp>
+      </chronitem>
+      <chronitem>
+        <date>1966</date>
+        <eventgrp>
+          <event>Paul Ehrlich Award, Germany</event>
+        </eventgrp>
+      </chronitem>
+      <chronitem>
+        <date>1966</date>
+        <eventgrp>
+          <event>Nobel Prize in Medicine</event>
+        </eventgrp>
+      </chronitem>
+    </chronlist>
+<p>Member of: American Association for the Advancement of Science, Fellow, National Academy of Sciences, American Philosophical Society, Association of American Physicians, American Association of Pathologists and Bacteriologists, American Society for Experimental Pathology, Society for Experimental Biology and Medicine, Harvey Society, New York Pathological Society, New York Academy of Medicine, American Association for Cancer Research, Phi Beta Kappa, Alpha Omega Alpha, Sigma Xi, Royal Society, Foreign Member, Royal Society Medicine and College of Pathologists, London. Honorary Fellow, Weizmann Institute of Science, Israel. Honorary Fellow, British Physiological Society (Honorary Member), Pathological Society of Great Britain and Ireland (Honorary Member), American Society for Microbiology, New York Pathological Society, Connecticut Medical Society, British Medical Association (foreign Correspondent member), Académie de Médecine, Paris (foreign correspondent member), Royal Academy of Sciences, Denmark, Norwegian Academy of Sciences and Letters, Century Club</p>  </bioghist>
+  <scopecontent id="0c23622b07688fb71f1a6500f082efd7">
+    <head>Scope and Contents note</head>
+<p>Biographical material, newspaper items, photographs, collected papers.</p><p>The collection consists primarily of photographs, articles about Peyton Rous on the receipt of various awards, bibliography and collected reprints.</p>  </scopecontent>
+  <relatedmaterial id="fc1dd4b771fb486259263e4aa2db6de2">
+    <head>Related Materials</head>
+<p>The main body of Peyton Rous papers was deposited at The American Philosophical Society.</p>  </relatedmaterial>
+  <fileplan id="cb015114860aa636be680dda18de320b">
+    <head>File Plan note</head>
+<p>Former Classification: I 450 R762</p>  </fileplan>
+  <accessrestrict id="b719472511f429b7f3de3bae8dcc448c">
+    <head>Conditions Governing Access note</head>
+<p>Access to this collection is restricted pending permission from Rockefeller University.</p>  </accessrestrict>
+  <prefercite id="c86367a5ad82aff619e559b410259514">
+    <head>Preferred Citation</head>
+<p>Information regarding the Rockefeller Archive Center's preferred elements and forms of citation can be found at <extref href="http://www.rockarch.org/research/citations.php">http://www.rockarch.org/research/citations.php</extref></p>  </prefercite>
+  <arrangement id="14025462665871c0466378eefa1b5637">
+    <head>Arrangement</head>
+<p>As received.</p>  </arrangement>
+  <controlaccess>
+    <subject source="lcsh">Biochemistry</subject>
+    <subject source="lcsh">Liver -- Physiology</subject>
+    <subject source="lcsh">Liver -- Pathology</subject>
+    <subject source="lcsh">Biology -- Research</subject>
+    <subject source="lcsh">Cell and biomolecular sciences</subject>
+    <subject source="lcsh">Bacteriology</subject>
+    <subject source="lcsh">Viruses -- Research</subject>
+    <subject source="lcsh">Cancer</subject>
+    <subject source="lcsh">Pathology</subject>
+    <subject source="lcsh">Physiology</subject>
+    <subject source="lcsh">Cancer -- Research</subject>
+    <subject source="lcsh">Medicine, Preventive</subject>
+    <subject source="lcsh">Life sciences</subject>
+    <subject source="lcsh">Medical research</subject>
+    <subject source="lcsh">Medical sciences</subject>
+    <subject source="lcsh">Diseases</subject>
+    <subject source="lcsh">Bacteria</subject>
+    <corpname role="ctb" source="naf">Rockefeller University</corpname>
+    <corpname role="ctb" source="naf">Rockefeller Institute for Medical Research</corpname>
+  </controlaccess>
+  <dsc><c id="c68c590e57b040909b3accd0230e4663" level="item"><did><unittitle>Photocopy of Biographical memoir from American Philosophical Society Yearbook, 1971 written by James Stuart Henderson. Bibliography</unittitle><unitdate normal="1971/1971" type="inclusive">1971</unitdate><container altrender="Letter Document Storage Box" id="f97e7a955429e7ae85b5ad4a6edacd60" label="mixed materials [A0000000085561]" type="box">1</container><container id="6f5cc875ed49bb1efd198b644acad950" parent="f97e7a955429e7ae85b5ad4a6edacd60" type="folder">1</container></did></c><c id="df3864ecd6b04e3dac1139c8e6116e6e" level="item"><did><unittitle>Photocopies of Peace Resolution correspondence from Science</unittitle><unitdate normal="1940/1940" type="inclusive">1940</unitdate><container altrender="Letter Document Storage Box" id="b2039892d133379ed79b12920d755582" label="mixed materials [A0000000085561]" type="box">1</container><container id="a9ac56e3d662520d60c1b58c04da738c" parent="b2039892d133379ed79b12920d755582" type="folder">1</container></did></c><c id="7a5b6298df704f8d895eaf65f4652c49" level="item"><did><unittitle>Memoir of Peyton Rous written by Renato Dulbecco with covering correspondence with Dr. Edelman (photocopy)</unittitle><container altrender="Letter Document Storage Box" id="aac832aff8a593b8804da5112a73da62" label="mixed materials [A0000000085561]" type="box">1</container><container id="54b103cec2412d7bc3769d47cc3c11ec" parent="aac832aff8a593b8804da5112a73da62" type="folder">1</container></did></c><c id="23710a380e7645a7b4ddd6b825f41b11" level="item"><did><unittitle>Copies of Reports to Corporation and Descriptive Pamphlet</unittitle><unitdate normal="1941/1944" type="inclusive">1941 1941-1942 1942-1944 1943</unitdate><container altrender="Letter Document Storage Box" id="19127d438db6fbe019251200686e9251" label="mixed materials [A0000000085561]" type="box">1</container><container id="5fed15938060e2e8cd0a0610451a5b99" parent="19127d438db6fbe019251200686e9251" type="folder">1</container></did></c><c id="299394c7601c45b0a18654cca3f5ec5f" level="item"><did><unittitle>Biographical memoir NAS v. 48 (1976) by Renato Dulbecco</unittitle><unitdate normal="1976/1976" type="inclusive">1976</unitdate><container altrender="Letter Document Storage Box" id="ff695711f4570516ed40ee5d0b5566c5" label="mixed materials [A0000000085561]" type="box">1</container><container id="91c0049d27bcd0d98e440ac00c597b72" parent="ff695711f4570516ed40ee5d0b5566c5" type="folder">1</container></did></c><c id="f64accab47564bb191345b2f09e7abad" level="file"><did><unittitle>Photographs</unittitle><container altrender="Letter Document Storage Box" id="8a218b23b3ab2ee6c3247e94392d8c3c" label="mixed materials [A0000000085561]" type="box">1</container><container id="a6b1af8ba66398acdec55ab46159e735" parent="8a218b23b3ab2ee6c3247e94392d8c3c" type="folder">2</container></did></c><c id="347b5a6107024c23ab5f6171a623d1c9" level="item"><did><unittitle>Copy of Presentation Address, Kober Medal</unittitle><unitdate normal="1953/1953" type="inclusive">1953</unitdate><container altrender="Letter Document Storage Box" id="aa415fe011493501292066a055d63192" label="mixed materials [A0000000085561]" type="box">1</container><container id="2f9f20b4810215597a113ac9e601998f" parent="aa415fe011493501292066a055d63192" type="folder">3</container></did></c><c id="8aa692b007cf4e83851ac6160610ab94" level="item"><did><unittitle>News release, Kovalenko Medal</unittitle><unitdate normal="1956/1956" type="inclusive">1956</unitdate><container altrender="Letter Document Storage Box" id="7175f172aaec7be1ba555ee3530dd730" label="mixed materials [A0000000085561]" type="box">1</container><container id="012449f49b4b5a95a8464d904400918f" parent="7175f172aaec7be1ba555ee3530dd730" type="folder">3</container></did></c><c id="bfcfe4bad6e449d797bbc8d509ac56bb" level="item"><did><unittitle>Time clipping, Lasker Award</unittitle><unitdate normal="1958/1958" type="inclusive">1958</unitdate><container altrender="Letter Document Storage Box" id="92363932ec2ab1f791aec132f61ceecf" label="mixed materials [A0000000085561]" type="box">1</container><container id="dc8b3abe062e35445b009356d00bf0c0" parent="92363932ec2ab1f791aec132f61ceecf" type="folder">3</container></did></c><c id="37cb80021b134a9282f6f6c363beb93a" level="item"><did><unittitle>Today's Health, clipping, Lasker Medal</unittitle><unitdate normal="1958/1958" type="inclusive">1958</unitdate><container altrender="Letter Document Storage Box" id="ba1c6dd8a729ca64fdb36e22d7d15a39" label="mixed materials [A0000000085561]" type="box">1</container><container id="1b572a444112aa7be935161103237985" parent="ba1c6dd8a729ca64fdb36e22d7d15a39" type="folder">3</container></did></c><c id="ba204dcba95744ae81ee7724c913fdae" level="item"><did><unittitle>Bull. NY Acad. Med. Academy Medal</unittitle><unitdate normal="1959/1959" type="inclusive">1959</unitdate><container altrender="Letter Document Storage Box" id="954e6c7fb1a718c5a9b93f9c2458af8a" label="mixed materials [A0000000085561]" type="box">1</container><container id="15723637a89d604596fc02a54509ec13" parent="954e6c7fb1a718c5a9b93f9c2458af8a" type="folder">3</container></did></c><c id="7fc1fdcecd074e1a9718a1e197ce90ea" level="item"><did><unittitle>80th Birthday celebration</unittitle><unitdate>1960 February</unitdate><container altrender="Letter Document Storage Box" id="898a900ec56ac0a741aff12ea1679055" label="mixed materials [A0000000085561]" type="box">1</container><container id="43ecfb940ac66636757da77d3b0c8d03" parent="898a900ec56ac0a741aff12ea1679055" type="folder">3</container></did></c><c id="0d4a4b7602da49a68845d2fe65ae4074" level="item"><did><unittitle>Medical World News</unittitle><unitdate>1960 August</unitdate><container altrender="Letter Document Storage Box" id="74e01a002692735a78c0e266fc7d1e80" label="mixed materials [A0000000085561]" type="box">1</container><container id="3f82f9366c1095779c255788fec09824" parent="74e01a002692735a78c0e266fc7d1e80" type="folder">3</container></did></c><c id="173e517d77ae47c79395f73a5e68e2de" level="item"><did><unittitle>Lab World, Gold Headed Cane</unittitle><unitdate normal="1964/1964" type="inclusive">1964</unitdate><container altrender="Letter Document Storage Box" id="d5f043800f9b3d5b2a143af4eaaf480c" label="mixed materials [A0000000085561]" type="box">1</container><container id="e7f9acf8832514b94900d6028fc868af" parent="d5f043800f9b3d5b2a143af4eaaf480c" type="folder">3</container></did></c><c id="b132f6af86f34bdc8576ddd19f57389f" level="item"><did><unittitle>Nobel Prize articles</unittitle><unitdate normal="1966/1966" type="inclusive">1966</unitdate><container altrender="Letter Document Storage Box" id="fd993a1c2aff87cbcd18b25acf3d3c06" label="mixed materials [A0000000085561]" type="box">1</container><container id="2aaadcd92cc53b712e8623e5ff0f9a7d" parent="fd993a1c2aff87cbcd18b25acf3d3c06" type="folder">3</container></did></c><c id="8fc0c432eb1b4cadab583540d567440e" level="item"><did><unittitle>Steven. Pelech, "Cellular Security: How Anti-Cancer Genes Turn Off Tumors" The Sciences</unittitle><unitdate>1989 January-February</unitdate><physdesc id="b2aa14582061e6f5641ed2d2c6df14c3">pp. 38-44, photocopy</physdesc><container altrender="Letter Document Storage Box" id="263b9d8a2063ae8d3318f85a804a29bb" label="mixed materials [A0000000085561]" type="box">1</container><container id="6af693c276ac5c05e12c46d0f59c7c79" parent="263b9d8a2063ae8d3318f85a804a29bb" type="folder">3</container></did></c><c id="ef2b9d1acdd54000b29d9b98fe7aa10b" level="file"><did><unittitle>Official photograph of portrait</unittitle><container altrender="Letter Document Storage Box" id="54d8a7e391c6e1b31dd9de7ca6e0d66f" label="mixed materials [A0000000085561]" type="box">1</container><container id="45eb0bfb2d67f4c36c94526e82f4bb61" parent="54d8a7e391c6e1b31dd9de7ca6e0d66f" type="folder">4</container></did><accessrestrict id="61df25169107b1e938882aa030ffd3d8"><head>Conditions Governing Access note</head><p>(Not for distribution except through office of RU Vice-President).</p></accessrestrict></c><c id="d6e454c40207486eb04131f274922815" level="file"><did><unittitle>American Philosophical Society Inventory of Rous Papers (photocopy)</unittitle><container altrender="Letter Document Storage Box" id="e0d96d54fd31d067450d2021d09f5a25" label="mixed materials [A0000000085561]" type="box">1</container><container id="9ee37c1b9f2acae8d803c418c68b70ec" parent="e0d96d54fd31d067450d2021d09f5a25" type="folder">5</container></did></c><c id="723e24494d454de790a6cfda0602190e" level="file"><did><unittitle>Writings</unittitle><unitdate normal="1929/1966" type="inclusive">1929, 1966</unitdate></did><c id="ec68ffb3829e4878b0d7234717a3244f" level="item"><did><unittitle>The Modern Dance of Death</unittitle><unitdate normal="1929/1929" type="inclusive">1929</unitdate><container altrender="Letter Document Storage Box" id="15a64bd958414ea5ba956b981b4578ac" label="mixed materials [A0000000085561]" type="box">1</container><container id="ece8f01e3cfd8abb44ffedb739322459" parent="15a64bd958414ea5ba956b981b4578ac" type="folder">6</container></did></c><c id="61c23b2b89334b449512329c3c152030" level="item"><did><unittitle>"The Lamentable Decline in Self-Satisfaction"</unittitle><unitdate normal="1966/1966" type="inclusive">1966</unitdate><container altrender="Letter Document Storage Box" id="1118d733d378aedb0c2e1f478f45aae3" label="mixed materials [A0000000085561]" type="box">1</container><container id="e5b35148c73ccee434905c4e75a4db6f" parent="1118d733d378aedb0c2e1f478f45aae3" type="folder">6</container></did></c></c><c id="0a21cf0fd30c4d3e82802fca69b7c071" level="file"><did><unittitle>Publications</unittitle><physdesc id="6a69a35fcc29f9fbf659c8e7c4a3bb5b">separately bound</physdesc></did><c id="faa346b1cb8b48f8bc5de1c58045d1cb" level="item"><did><unittitle>Reprint from Les Prix Nobel en 1966</unittitle><unitdate normal="1966/1966" type="inclusive">1966</unitdate><container altrender="Letter Document Storage Box" id="99f83dc49092032424dd60e9aa5bbe83" label="mixed materials [A0000000085561]" type="box">1</container></did></c><c id="a47af111a7d441218454f7cfe443a625" level="item"><did><unittitle>The Modern Dance of Death by Peyton Rous Linacre Lecture, 1929 Cambridge UP</unittitle><unitdate normal="1929/1929" type="inclusive">1929</unitdate><container altrender="Letter Document Storage Box" id="e696d17bff4a269a9c27f277718e25d9" label="mixed materials [A0000000085561]" type="box">1</container></did></c><c id="dd045f8e169d44d3a0f1612fa01f27d1" level="item"><did><unittitle>The Dualism of the Discoverer by Peyton Rous Sonderdruck. Die Johann Wolfgang Goethe Universität</unittitle><unitdate normal="1966/1966" type="inclusive">1966</unitdate><container altrender="Letter Document Storage Box" id="7e98cb080716e8abeee3e568beffd3bd" label="mixed materials [A0000000085561]" type="box">1</container></did><scopecontent id="9ff0ae9c3515d1c6bdb35a4f8c0de0dc"><head>Scope and Contents note</head><p>This address was made on the occasion of the Paul Ehrlich Award, but it was published without an opportunity for Peyton Rous to check proofs and he therefore did not wish it listed in his bibliography and wanted all copies to be destroyed.</p></scopecontent></c></c><c id="92b859833c0e402f80c71538baa09580" level="file"><did><unittitle>"Collected Reprints"</unittitle><physdesc id="c6ec28196e41075b2836cf9386522891">6 bound volumes</physdesc></did><processinfo id="d4f96447f330ddee7467054d28dfed8f"><head>Processing Information note</head><p>Relocated to RAC library 8/9/88</p></processinfo></c><c id="24d26d00c53d4fafb1f7ac405b6443d4" level="file"><did><unittitle>Gustav Stern Symposium On Perspectives in virology, v. 2, 1961. In honor of Peyton Rous</unittitle><unitdate normal="1961/1961" type="inclusive">1961</unitdate><physdesc id="55ba0f26fb87501fbb4df674dc4839b8">1 bound volume</physdesc></did><processinfo id="ec5a117a93a3b9609e47feb6ab7a245b"><head>Processing Information note</head><p>Relocated to RAC library 8/9/88</p></processinfo></c></dsc>
+</archdesc>
 </ead>

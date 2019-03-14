@@ -1,362 +1,52 @@
-<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
-  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="under_revision" langencoding="iso639-2b" repositoryencoding="iso15511">
-    <eadid>FA886.xml</eadid>
-    <filedesc>
-      <titlestmt>
-        <titleproper type="filing">Rockefeller University records, Special Events and Activities, RUnion, 25th Anniversary Reunion</titleproper>
-        <titleproper>A Guide to the Rockefeller University records, Special Events and Activities, RUnion, 25th Anniversary Reunion
- <num>FA886</num></titleproper>
-      </titlestmt>
-      <publicationstmt>
-        <publisher>Rockefeller Archive Center</publisher>
-        <address>
-          <addressline>15 Dayton Avenue</addressline>
-          <addressline>Sleepy Hollow 10591</addressline>
-          <addressline>archive@rockarch.org</addressline>
-          <addressline>URL: <extptr xlink:href="http://www.rockarch.org" xlink:show="new" xlink:title="http://www.rockarch.org" xlink:type="simple"/></addressline>
-        </address>
-      </publicationstmt>
-    </filedesc>
-    <profiledesc>
-      <creation>This finding aid was produced using ArchivesSpace on <date>2017-03-02 14:29:28 -0500</date>.</creation>
-    </profiledesc>
-    <revisiondesc>
-      <date>2010 August 19</date>
-      <item>Paper finding aid converted to EAD/XML by AureXus in 2010. Imported into the Archvists’ Toolkit by Becky Robbins.</item>
-    </revisiondesc>
-  </eadheader>
-  <archdesc level="collection">
-    <did>
-      <langmaterial>
-        <language langcode="eng">English</language>
-      </langmaterial>
-      <repository>
-        <corpname>Rockefeller Archive Center</corpname>
-      </repository>
-      <unittitle>Rockefeller University records, Special Events and Activities, RUnion, 25th Anniversary Reunion</unittitle>
-      <origination label="creator">
-        <corpname role="aut" source="lcnaf">Rockefeller University</corpname>
-      </origination>
-      <origination label="creator">
-        <corpname role="ctb" source="lcnaf">Rockefeller Institute for Medical Research</corpname>
-      </origination>
-      <unitid>FA886</unitid>
-      <physdesc altrender="whole">
-        <extent altrender="materialtype spaceoccupied">1.32 Cubic Feet</extent>
-        <extent altrender="carrier">3 boxes</extent>
-      </physdesc>
-      <unitdate normal="1984/1984" type="inclusive">1984 June 10-12</unitdate>
-      <physdesc id="d66f89ca38610e34c370502b52b7dced">
-        <extent>3 boxes.</extent>
-      </physdesc>
-    </did>
-    <prefercite id="a66e35888629bb219ec2733ddc55d234">
-      <head>Preferred Citation note</head>
-      <p>Information regarding the Rockefeller Archive Center's preferred elements and forms of citation can be found at <extref href="http://www.rockarch.org/research/citations.php">http://www.rockarch.org/research/citations.php</extref></p>
-    </prefercite>
-    <fileplan id="19156dac50c7a5f17a3d9052597b7dd2">
-      <head>File Plan note</head>
-      <p>Former Classification: I 600-15</p>
-    </fileplan>
-    <accessrestrict id="e11dc8b7bc0b09eb85a2e7863df403a6">
-      <head>Conditions Governing Access</head>
-      <p>Open for research with select materials restricted as noted. Brittle or damaged items are available at the discretion of RAC. Researchers interested in accessing digital media (floppy disks, CDs, DVDs, etc.) or audiovisual material (audio cassettes, VHS, etc.) in this collection must use an access surrogate. The original items may not be accessed because of preservation concerns. To request an access surrogate be made, or if you are unsure if there is an access surrogate, please contact an archivist.</p>
-    </accessrestrict>
-    <scopecontent id="6d315a0d219eef2a0c91c8c19b6c1f95">
-      <head>Scope and Contents</head>
-      <p>Materials documenting the Reunion, associated events and arrangements.</p>
-    </scopecontent>
-    <controlaccess>
-      <subject source="lcsh">Genetics</subject>
-      <subject source="lcsh">Medical sciences</subject>
-      <subject source="lcsh">Cell and biomolecular sciences</subject>
-      <geogname source="lcsh">China</geogname>
-      <subject source="lcsh">Medicine, Preventive</subject>
-      <subject source="lcsh">Medical research</subject>
-      <subject source="lcsh">DNA</subject>
-      <subject source="lcsh">Vivisection</subject>
-      <subject source="lcsh">Biology -- Research</subject>
-      <subject source="lcsh">Medical care</subject>
-    </controlaccess>
-    <dsc>
-      <c id="1af1b27e7b9946579fa4c6092c5cbc7e" level="otherlevel" otherlevel="unspecified">
-        <did>
-          <unittitle>RUnion, 25th anniversary reunion</unittitle>
-          <unitdate normal="1984/1984" type="inclusive">1984 June 10-12</unitdate>
-        </did>
-        <c id="0e7ce6f6e1b0437c9ec7418dba53e2f7" level="file">
-          <did>
-            <unittitle>RUnion packet</unittitle>
-          </did>
-          <c id="c236cfb80a1f4df0b69295716d08e12b" level="file">
-            <did>
-              <unittitle>Program</unittitle>
-              <container id="a6f93870b5e321c8d061b1cb702677ae" label="mixed materials (559836.1.318)" type="box">1</container>
-              <container id="41228428513ec368eeb556b015c51a4d" parent="a6f93870b5e321c8d061b1cb702677ae" type="folder">1</container>
-            </did>
-          </c>
-          <c id="1412a0315b9e4b3fbe8f446bb140fb20" level="file">
-            <did>
-              <unittitle>Registration list</unittitle>
-              <container id="cceeaf87296cf420a7d18b541e0fec92" label="mixed materials (559836.1.318)" type="box">1</container>
-              <container id="0473232edabe790e6ca10735c2cb7c63" parent="cceeaf87296cf420a7d18b541e0fec92" type="folder">1</container>
-            </did>
-          </c>
-          <c id="8bcf3b3e169e4a449400a5e795d7fa45" level="file">
-            <did>
-              <unittitle>Packet cover</unittitle>
-              <container id="3a1954e9f38582b73495d833e54b1157" label="mixed materials (559836.1.318)" type="box">1</container>
-              <container id="92d0f9aa35517ac06d079e0ebe79c670" parent="3a1954e9f38582b73495d833e54b1157" type="folder">1</container>
-            </did>
-          </c>
-          <c id="2f63ff30400f4fa39fc6c06660fec5c2" level="file">
-            <did>
-              <unittitle>Directory of Graduates</unittitle>
-              <container id="b8a75559fce03ea5454f6645488abb7e" label="mixed materials (559836.1.318)" type="box">1</container>
-              <container id="2dffddd2371d256ae07ef7a76bc372a5" parent="b8a75559fce03ea5454f6645488abb7e" type="folder">2</container>
-            </did>
-          </c>
-        </c>
-        <c id="04913ef371544ccbb8038386baf530a6" level="file">
-          <did>
-            <unittitle>From President's Office: Fulvio Bardossi to Mrs. Patricia Smalley, 21 Aug 1984 enclosing revision of David Rockefeller's remarks on 11 June 1984. [copy]</unittitle>
-            <unitdate normal="1984/1984" type="inclusive">1984</unitdate>
-            <container id="8643319c217d4c3c2b2e120e66adf8df" label="mixed materials (559835.1.318)" type="box">1</container>
-            <container id="9c596c1e4ad618f4465004372593efcb" parent="8643319c217d4c3c2b2e120e66adf8df" type="folder">3</container>
-          </did>
-        </c>
-        <c id="82bbd31031194c9180efde6ce381d503" level="file">
-          <did>
-            <unittitle>David Rockefeller "The Rockefeller University Graduate Program: An Evolution of Excellence"</unittitle>
-            <unitdate normal="1985/1985" type="inclusive">1985</unitdate>
-            <physdesc id="8c6bf105ea23a80db65f4068f1f6ab39">printed booklet 14 pp. 4 copies</physdesc>
-            <container id="43f9e4a203314204cd444ef9ab762aab" label="mixed materials (559835.1.318)" type="box">1</container>
-            <container id="a5ee5b290c611c0aae5faa62bc180ce1" parent="43f9e4a203314204cd444ef9ab762aab" type="folder">4</container>
-          </did>
-          <acqinfo id="7bc683a350da7fbf3d655a5c4604953d">
-            <head>Immediate Source of Acquisition note</head>
-            <p>Received 18 Jan 1985.</p>
-          </acqinfo>
-        </c>
-        <c id="ee9bc405c3ae4c13ba8d1a446de0ddcc" level="file">
-          <did>
-            <unittitle>Alumni</unittitle>
-            <container id="d6f387c1afab2c3400c23bddc148209a" label="mixed materials (559835.2.318)" type="box">2</container>
-            <container id="92423eca7dc162e1b2238df10a549908" parent="d6f387c1afab2c3400c23bddc148209a" type="folder">1</container>
-          </did>
-        </c>
-        <c id="7abd82accfbc4087b767e97c762f57bc" level="file">
-          <did>
-            <unittitle>Budget</unittitle>
-            <container id="0b18094c63e93dc665c8e4d395b7b2db" label="mixed materials (559835.2.318)" type="box">2</container>
-            <container id="86e5c0f393c651ea3db783999f0479f7" parent="0b18094c63e93dc665c8e4d395b7b2db" type="folder">2</container>
-          </did>
-        </c>
-        <c id="bf9cbb48b9f2433596c6ee9cfebe402f" level="file">
-          <did>
-            <unittitle>Children's School Sale</unittitle>
-            <container id="cf952f542dd2a85299b7572db9d30af9" label="mixed materials (559835.2.318)" type="box">2</container>
-            <container id="5c0074b894c5a889f7382e7726c3a92e" parent="cf952f542dd2a85299b7572db9d30af9" type="folder">3</container>
-          </did>
-        </c>
-        <c id="c159d02ea2d14aada8c5bd1950a65cff" level="file">
-          <did>
-            <unittitle>Colloquia - Monday afternoon</unittitle>
-            <container id="31c90eb7d8014167248ddbf08ecd3d61" label="mixed materials (559835.2.318)" type="box">2</container>
-            <container id="f9586ab1936f3f6d7fd1f18e6145a5d1" parent="31c90eb7d8014167248ddbf08ecd3d61" type="folder">4</container>
-          </did>
-        </c>
-        <c id="630338991b27436a9127eac0b38904ec" level="file">
-          <did>
-            <unittitle>Convocation</unittitle>
-            <container id="cb8f98fb77f5523955fff1c1394b79c2" label="mixed materials (559835.2.318)" type="box">2</container>
-            <container id="0c0502d8049f02178612649bca3a200d" parent="cb8f98fb77f5523955fff1c1394b79c2" type="folder">5</container>
-          </did>
-        </c>
-        <c id="dd261cdf896e42d5bcb354dfa3f1e0c0" level="file">
-          <did>
-            <unittitle>Dance</unittitle>
-            <container id="c33206281a4b7a7df3e82797ca841a2b" label="mixed materials (559835.2.318)" type="box">2</container>
-            <container id="d3676d119b301aabe5eb11c08ceb84c1" parent="c33206281a4b7a7df3e82797ca841a2b" type="folder">6</container>
-          </did>
-        </c>
-        <c id="05d5864b1f6d4de5a5e607d58e9000ee" level="file">
-          <did>
-            <unittitle>Directory - American Men and Women of Science</unittitle>
-            <container id="90105d7604e6f6bb18981627fa0744be" label="mixed materials (559835.2.318)" type="box">2</container>
-            <container id="9bd9b215098189540476e293c654b735" parent="90105d7604e6f6bb18981627fa0744be" type="folder">7</container>
-          </did>
-        </c>
-        <c id="f8d9e07473a5449482a72c730745db72" level="file">
-          <did>
-            <unittitle>Directory - Budget</unittitle>
-            <container id="7cb2f8e9950651f64c769c3293a63e6d" label="mixed materials (559835.2.318)" type="box">2</container>
-            <container id="8cb498eed2cfe014a19d94e13334901e" parent="7cb2f8e9950651f64c769c3293a63e6d" type="folder">8</container>
-          </did>
-        </c>
-        <c id="7b967f40b61e4a5c8146df4ef6aec901" level="file">
-          <did>
-            <unittitle>Directory - Computer Services</unittitle>
-            <container id="2aaf0107126b34aa2ca8b84834807517" label="mixed materials (559835.2.318)" type="box">2</container>
-            <container id="4810a01225621360fa0e658c7c0bf32a" parent="2aaf0107126b34aa2ca8b84834807517" type="folder">9</container>
-          </did>
-        </c>
-        <c id="fb8931323e68490e9509492a7c326197" level="file">
-          <did>
-            <unittitle>Faculty Mailing</unittitle>
-            <container id="761fe278eac69bcdd713cddec15d19ca" label="mixed materials (559835.2.318)" type="box">2</container>
-            <container id="d07e2886dd71eab359538332299ba2e9" parent="761fe278eac69bcdd713cddec15d19ca" type="folder">10</container>
-          </did>
-        </c>
-        <c id="eb0b469e57ca48288f6a660c4dd8895c" level="file">
-          <did>
-            <unittitle>General File</unittitle>
-            <container id="ac3886e5443ca4456ecf9d7dded483c6" label="mixed materials (559835.2.318)" type="box">2</container>
-            <container id="5bdefccc304c73bdc3448fa2b869f536" parent="ac3886e5443ca4456ecf9d7dded483c6" type="folder">11</container>
-          </did>
-        </c>
-        <c id="1fd33cbd5541418381877d10456c6f6c" level="file">
-          <did>
-            <unittitle>General Responses</unittitle>
-            <container id="45cda1c6f4d7f13fad10df47239d8943" label="mixed materials (559835.2.318)" type="box">2</container>
-            <container id="8c9cbca79954b147eb3e1da1cf028359" parent="45cda1c6f4d7f13fad10df47239d8943" type="folder">12</container>
-          </did>
-        </c>
-        <c id="c91e2723320f447696e3198013f6c184" level="file">
-          <did>
-            <unittitle>Graduate Questionnaire</unittitle>
-            <container id="f62428ba74ce116edd168d030e217114" label="mixed materials (559835.3.318)" type="box">3</container>
-            <container id="b91a85cc17318ee31861fc6542d3405f" parent="f62428ba74ce116edd168d030e217114" type="folder">1</container>
-          </did>
-        </c>
-        <c id="c85951beb7ea4d2e8e3745698abcea4a" level="file">
-          <did>
-            <unittitle>Guest Lists for each Function</unittitle>
-            <container id="abae1d3c17d92bc07dcef8cd5f4c72ef" label="mixed materials (559835.3.318)" type="box">3</container>
-            <container id="7cf13273a2e2ed0e25a69027189489b7" parent="abae1d3c17d92bc07dcef8cd5f4c72ef" type="folder">2</container>
-          </did>
-        </c>
-        <c id="fc51f6d3a83b4cdf93179036cd929dae" level="file">
-          <did>
-            <unittitle>Hotel Information</unittitle>
-            <container id="1d6a2aa4f678515992c9edf2d474d27d" label="mixed materials (559835.3.318)" type="box">3</container>
-            <container id="b6778158ccf2e99b9c41a035b511d698" parent="1d6a2aa4f678515992c9edf2d474d27d" type="folder">3</container>
-          </did>
-        </c>
-        <c id="1750c9139fc842ee92cc12c269db2571" level="file">
-          <did>
-            <unittitle>Lehmann, Frederick G.</unittitle>
-            <container id="13446eb678e122c8783af77b827e96ad" label="mixed materials (559835.3.318)" type="box">3</container>
-            <container id="9d3826ad01262fd6a2d46795c418e07a" parent="13446eb678e122c8783af77b827e96ad" type="folder">4</container>
-          </did>
-        </c>
-        <c id="eca5eb9d827644789be584ad3d340d8b" level="file">
-          <did>
-            <unittitle>Monday Lunch Seating</unittitle>
-            <container id="7b8dfd49a188ebddb68d068d8cd2c3fd" label="mixed materials (559835.3.318)" type="box">3</container>
-            <container id="df89d961655e07e0abeda2216b08d4a9" parent="7b8dfd49a188ebddb68d068d8cd2c3fd" type="folder">5</container>
-          </did>
-        </c>
-        <c id="925463b9e3124b04bb3a4ee776ab4a3d" level="file">
-          <did>
-            <unittitle>Photographs</unittitle>
-            <container id="e28119f796346d73c69b8bc5fecb4652" label="mixed materials (559835.3.318)" type="box">3</container>
-            <container id="a274286d8c14eee5ca613d8c759280a6" parent="e28119f796346d73c69b8bc5fecb4652" type="folder">6</container>
-          </did>
-        </c>
-        <c id="057369aac6e5448ea5082b619edb195c" level="file">
-          <did>
-            <unittitle>Plenary Session - Monday morning</unittitle>
-            <container id="752980a52fc04133b46fee347d05cc7f" label="mixed materials (559835.3.318)" type="box">3</container>
-            <container id="0b0b384a936fec82999f675a28bd8f06" parent="752980a52fc04133b46fee347d05cc7f" type="folder">7</container>
-          </did>
-        </c>
-        <c id="5621f6a5eaf54278ac2cfc4a33a8b3d4" level="file">
-          <did>
-            <unittitle>Press - Directory</unittitle>
-            <container id="5c2b30438e4433283b2c3224280737ac" label="mixed materials (559835.3.318)" type="box">3</container>
-            <container id="dd6564dbffbf63182758074099d5a698" parent="5c2b30438e4433283b2c3224280737ac" type="folder">8</container>
-          </did>
-        </c>
-        <c id="ab6e1c6f8a66418fa889bb10cfe6df56" level="file">
-          <did>
-            <unittitle>Press - Invitations, Logo, Tags</unittitle>
-            <container id="1f2521696f3f70fdcf19b55b226baaa1" label="mixed materials (559835.3.318)" type="box">3</container>
-            <container id="c6d257e8007809646b1a2047277e0250" parent="1f2521696f3f70fdcf19b55b226baaa1" type="folder">9</container>
-          </did>
-        </c>
-        <c id="759a39289f3f447ca235dc1bd9baf9c1" level="file">
-          <did>
-            <unittitle>Press - Miscellaneous</unittitle>
-            <container id="b04dcc590ff9a0680ee784293706d360" label="mixed materials (559835.3.318)" type="box">3</container>
-            <container id="e8f75913b9abe3bdab9f7fa33391803c" parent="b04dcc590ff9a0680ee784293706d360" type="folder">10</container>
-          </did>
-        </c>
-        <c id="111dd91777b34b6ca62560e64cb21b9a" level="file">
-          <did>
-            <unittitle>Publicity and Press</unittitle>
-            <container id="28a773a835657e26a0f8c7c3966f3f6b" label="mixed materials (559835.4.318)" type="box">4</container>
-            <container id="79098690c0a4e5083010dab468780561" parent="28a773a835657e26a0f8c7c3966f3f6b" type="folder">1</container>
-          </did>
-        </c>
-        <c id="297a323dc64143e1828f6c63d1ae0946" level="file">
-          <did>
-            <unittitle>RUnion Committee</unittitle>
-            <container id="b1acad0d852f6993561f8340f9e8214e" label="mixed materials (559835.4.318)" type="box">4</container>
-            <container id="0b8e4f29b4197ed1b3e83d46862d5161" parent="b1acad0d852f6993561f8340f9e8214e" type="folder">2</container>
-          </did>
-        </c>
-        <c id="8976429006034cdbba99b9a1bc5bc7c3" level="file">
-          <did>
-            <unittitle>Samples of RU Printed Material and Letters</unittitle>
-            <container id="797b6f32fdc34b627cab92c6ad92b9aa" label="mixed materials (559835.4.318)" type="box">4</container>
-            <container id="45d1922e6aad84cf8b37e4d23902d75e" parent="797b6f32fdc34b627cab92c6ad92b9aa" type="folder">3</container>
-          </did>
-        </c>
-        <c id="d991a8fbcd634a30914082b56ecf7e77" level="file">
-          <did>
-            <unittitle>Son's &amp; Daughter's Program</unittitle>
-            <container id="081a95d6aec296998f29a3f168851d0f" label="mixed materials (559835.4.318)" type="box">4</container>
-            <container id="e9761952ae237e961275cc12a8596fe6" parent="081a95d6aec296998f29a3f168851d0f" type="folder">4</container>
-          </did>
-        </c>
-        <c id="7187f840ad244da0bd13a8ee0340d4ef" level="file">
-          <did>
-            <unittitle>Tent, Gaps, and Gowns</unittitle>
-            <container id="c042b82753ddf1ae646cbfa51c53a771" label="mixed materials (559835.4.318)" type="box">4</container>
-            <container id="725dd85a294ce3c3d0771f4610904dea" parent="c042b82753ddf1ae646cbfa51c53a771" type="folder">5</container>
-          </did>
-        </c>
-        <c id="bfa7a2fa300a45e5b416ac4cf2ca2e03" level="file">
-          <did>
-            <unittitle>Working Group</unittitle>
-            <container id="f9ddd8f1a306adb06a6f238dbfb55110" label="mixed materials (559835.4.318)" type="box">4</container>
-            <container id="19b810778493d95be3869537817aab2c" parent="f9ddd8f1a306adb06a6f238dbfb55110" type="folder">6</container>
-          </did>
-        </c>
-        <c id="93a5850add2f467ea7aa071f60d1bc60" level="item">
-          <did>
-            <unittitle>Talks given by: David Rockefeller, Joshua Lederberg, Gerald Edelman, and David Baltimore</unittitle>
-            <physdesc id="2a971835f52ff40da5ee33fe24985163">4 cassettes</physdesc>
-            <container id="8241deede82ca2a60c2fb78ba1be6f4b" label="mixed materials (559835.4.318)" type="box">4</container>
-          </did>
-          <accessrestrict id="77c3f4c5ba9ac688bec112fa3f4dae44">
-            <head>Conditions Governing Access</head>
-            <p>RAC is unable to provide access to obsolete media. When feasible, a digital surrogate may be created via special order. All applicable charges will apply. See RAC Head of Archival Services or RAC Head of Digital Programs for details.</p>
-          </accessrestrict>
-        </c>
-        <c id="89e633d0fcec4c8493230245edc3e84b" level="item">
-          <did>
-            <unittitle>25th Anniversary Reunion and Convocation 10-12 June 1984 Edited Master</unittitle>
-            <physdesc id="d000aae865bc5e7c64656f182e43093e">Video</physdesc>
-            <physloc id="09ef7ad52b442a66573ffd14fdb0f26d">Film Vault</physloc>
-          </did>
-          <accessrestrict id="1f3e3d8ff99e8e3b45c8c7521de65be3">
-            <head>Conditions Governing Access</head>
-            <p>RAC is unable to provide access to obsolete media. When feasible, a digital surrogate may be created via special order. All applicable charges will apply. See RAC Head of Archival Services or RAC Head of Digital Programs for details.</p>
-          </accessrestrict>
-        </c>
-      </c>
-    </dsc>
-  </archdesc>
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="under_revision" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid>FA886.xml</eadid><filedesc><titlestmt><titleproper type="filing">Rockefeller University records, Special Events and Activities, RUnion, 25th Anniversary Reunion</titleproper><titleproper>A Guide to the Rockefeller University records, Special Events and Activities, RUnion, 25th Anniversary Reunion
+ <num>FA886</num></titleproper></titlestmt><publicationstmt><publisher>Rockefeller Archive Center</publisher><address><addressline>15 Dayton Avenue</addressline><addressline>Sleepy Hollow 10591</addressline><addressline>archive@rockarch.org</addressline><addressline>URL: <extptr xlink:href="http://www.rockarch.org" xlink:show="new" xlink:title="http://www.rockarch.org" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2019-03-14 02:48:33 -0400</date>.</creation></profiledesc><revisiondesc><date>2010 August 19</date><item>Paper finding aid converted to EAD/XML by AureXus in 2010. Imported into the Archvists’ Toolkit by Becky Robbins.</item></revisiondesc></eadheader><archdesc level="collection">
+  <did>
+    <langmaterial>
+      <language langcode="eng">English</language>
+    </langmaterial>
+    <repository>
+      <corpname>Rockefeller Archive Center</corpname>
+    </repository>
+    <unittitle>Rockefeller University records, Special Events and Activities, RUnion, 25th Anniversary Reunion</unittitle>
+    <origination label="creator">
+      <corpname role="aut" source="naf">Rockefeller University</corpname>
+    </origination>
+    <origination label="creator">
+      <corpname role="ctb" source="naf">Rockefeller Institute for Medical Research</corpname>
+    </origination>
+    <unitid>FA886</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">1.32 Cubic Feet</extent>
+      <extent altrender="carrier">3 boxes</extent>
+    </physdesc>
+    <unitdate normal="1984/1984" type="inclusive">1984 June 10-12</unitdate>
+    <physdesc id="d66f89ca38610e34c370502b52b7dced"><extent>3 boxes.</extent></physdesc>
+  </did>
+  <prefercite id="a66e35888629bb219ec2733ddc55d234">
+    <head>Preferred Citation note</head>
+<p>Information regarding the Rockefeller Archive Center's preferred elements and forms of citation can be found at <extref href="http://www.rockarch.org/research/citations.php">http://www.rockarch.org/research/citations.php</extref></p>  </prefercite>
+  <fileplan id="19156dac50c7a5f17a3d9052597b7dd2">
+    <head>File Plan note</head>
+<p>Former Classification: I 600-15</p>  </fileplan>
+  <accessrestrict id="e11dc8b7bc0b09eb85a2e7863df403a6">
+    <head>Conditions Governing Access</head>
+<p>Open for research with select materials restricted as noted. Brittle or damaged items are available at the discretion of RAC. Researchers interested in accessing digital media (floppy disks, CDs, DVDs, etc.) or audiovisual material (audio cassettes, VHS, etc.) in this collection must use an access surrogate. The original items may not be accessed because of preservation concerns. To request an access surrogate be made, or if you are unsure if there is an access surrogate, please contact an archivist.</p>  </accessrestrict>
+  <scopecontent id="6d315a0d219eef2a0c91c8c19b6c1f95">
+    <head>Scope and Contents</head>
+<p>Materials documenting the Reunion, associated events and arrangements.</p>  </scopecontent>
+  <controlaccess>
+    <subject source="lcsh">Genetics</subject>
+    <subject source="lcsh">Medical sciences</subject>
+    <subject source="lcsh">Cell and biomolecular sciences</subject>
+    <geogname source="lcsh">China</geogname>
+    <subject source="lcsh">Medicine, Preventive</subject>
+    <subject source="lcsh">Medical research</subject>
+    <subject source="lcsh">DNA</subject>
+    <subject source="lcsh">Vivisection</subject>
+    <subject source="lcsh">Biology -- Research</subject>
+    <subject source="lcsh">Medical care</subject>
+  </controlaccess>
+  <dsc><c id="1af1b27e7b9946579fa4c6092c5cbc7e" level="otherlevel" otherlevel="unspecified"><did><unittitle>RUnion, 25th anniversary reunion</unittitle><unitdate normal="1984/1984" type="inclusive">1984 June 10-12</unitdate></did><c id="0e7ce6f6e1b0437c9ec7418dba53e2f7" level="file"><did><unittitle>RUnion packet</unittitle></did><c id="c236cfb80a1f4df0b69295716d08e12b" level="file"><did><unittitle>Program</unittitle><container id="b9a992ff6d07ef2bbda4c6c33f50400a" label="mixed materials [559836.1.318]" type="box">1</container><container id="450a797b4dbf24377e5b8861bb0bc973" parent="b9a992ff6d07ef2bbda4c6c33f50400a" type="folder">1</container></did></c><c id="1412a0315b9e4b3fbe8f446bb140fb20" level="file"><did><unittitle>Registration list</unittitle><container id="424f1c85672052c76e6afdbd7c1be76e" label="mixed materials [559836.1.318]" type="box">1</container><container id="cd3d4dde3ae7284ed3351e4d310d9e65" parent="424f1c85672052c76e6afdbd7c1be76e" type="folder">1</container></did></c><c id="8bcf3b3e169e4a449400a5e795d7fa45" level="file"><did><unittitle>Packet cover</unittitle><container id="f02767ffb679b5e8e10e125ac570b4a5" label="mixed materials [559836.1.318]" type="box">1</container><container id="b0b9f90aa059c17df209432ad4937c35" parent="f02767ffb679b5e8e10e125ac570b4a5" type="folder">1</container></did></c><c id="2f63ff30400f4fa39fc6c06660fec5c2" level="file"><did><unittitle>Directory of Graduates</unittitle><container id="17a7b249d60a5ad97baede53cbb1c2c7" label="mixed materials [559836.1.318]" type="box">1</container><container id="570021f9fde78a5544061014e14d2c63" parent="17a7b249d60a5ad97baede53cbb1c2c7" type="folder">2</container></did></c></c><c id="04913ef371544ccbb8038386baf530a6" level="file"><did><unittitle>From President's Office: Fulvio Bardossi to Mrs. Patricia Smalley, 21 Aug 1984 enclosing revision of David Rockefeller's remarks on 11 June 1984. [copy]</unittitle><unitdate normal="1984/1984" type="inclusive">1984</unitdate><container id="ed47330bdc654ba5c739442aa4b4418f" label="mixed materials [559835.1.318]" type="box">1</container><container id="23c569b187e497aa0c2872411435508f" parent="ed47330bdc654ba5c739442aa4b4418f" type="folder">3</container></did></c><c id="82bbd31031194c9180efde6ce381d503" level="file"><did><unittitle>David Rockefeller "The Rockefeller University Graduate Program: An Evolution of Excellence"</unittitle><unitdate normal="1985/1985" type="inclusive">1985</unitdate><physdesc id="8c6bf105ea23a80db65f4068f1f6ab39">printed booklet 14 pp. 4 copies</physdesc><container id="0613730cebd85e0a32c9a3acc8263eb2" label="mixed materials [559835.1.318]" type="box">1</container><container id="ffba06e4e79df2cf469452e0ef59182a" parent="0613730cebd85e0a32c9a3acc8263eb2" type="folder">4</container></did><acqinfo id="7bc683a350da7fbf3d655a5c4604953d"><head>Immediate Source of Acquisition note</head><p>Received 18 Jan 1985.</p></acqinfo></c><c id="ee9bc405c3ae4c13ba8d1a446de0ddcc" level="file"><did><unittitle>Alumni</unittitle><container id="44ef698eeafa6cd665675878bb902bcc" label="mixed materials [559835.2.318]" type="box">2</container><container id="f83497e3135a0e0a4787a42c92b09066" parent="44ef698eeafa6cd665675878bb902bcc" type="folder">1</container></did></c><c id="7abd82accfbc4087b767e97c762f57bc" level="file"><did><unittitle>Budget</unittitle><container id="176f47bcb6ec222c0e594c928f0d6acc" label="mixed materials [559835.2.318]" type="box">2</container><container id="1adb8e9b8c4cd36369487e4e30d5037e" parent="176f47bcb6ec222c0e594c928f0d6acc" type="folder">2</container></did></c><c id="bf9cbb48b9f2433596c6ee9cfebe402f" level="file"><did><unittitle>Children's School Sale</unittitle><container id="43a3ecacbae36606dd1f032bee86f137" label="mixed materials [559835.2.318]" type="box">2</container><container id="208cb85dc9164bf4e3b76b43fe409426" parent="43a3ecacbae36606dd1f032bee86f137" type="folder">3</container></did></c><c id="c159d02ea2d14aada8c5bd1950a65cff" level="file"><did><unittitle>Colloquia - Monday afternoon</unittitle><container id="bdea266875a136053139f5fa961fc071" label="mixed materials [559835.2.318]" type="box">2</container><container id="bb37d84625456c6a5c324405f72222fc" parent="bdea266875a136053139f5fa961fc071" type="folder">4</container></did></c><c id="630338991b27436a9127eac0b38904ec" level="file"><did><unittitle>Convocation</unittitle><container id="5fbf0f9e9d700863b145fdae2d8d93dd" label="mixed materials [559835.2.318]" type="box">2</container><container id="9a43210c7de406323b5dd972ae285ea9" parent="5fbf0f9e9d700863b145fdae2d8d93dd" type="folder">5</container></did></c><c id="dd261cdf896e42d5bcb354dfa3f1e0c0" level="file"><did><unittitle>Dance</unittitle><container id="162040c7de17a68c928a4afac4726407" label="mixed materials [559835.2.318]" type="box">2</container><container id="e11ed3a77660d14939fcef8583548430" parent="162040c7de17a68c928a4afac4726407" type="folder">6</container></did></c><c id="05d5864b1f6d4de5a5e607d58e9000ee" level="file"><did><unittitle>Directory - American Men and Women of Science</unittitle><container id="b167a76944cdc664c97c4eaceebdca96" label="mixed materials [559835.2.318]" type="box">2</container><container id="6b1e805327d314b5a0374ff2e3ae96e0" parent="b167a76944cdc664c97c4eaceebdca96" type="folder">7</container></did></c><c id="f8d9e07473a5449482a72c730745db72" level="file"><did><unittitle>Directory - Budget</unittitle><container id="bc2f636a91c98aca9249583059440044" label="mixed materials [559835.2.318]" type="box">2</container><container id="040263e23d09b9d8784e923f4ca4dd9d" parent="bc2f636a91c98aca9249583059440044" type="folder">8</container></did></c><c id="7b967f40b61e4a5c8146df4ef6aec901" level="file"><did><unittitle>Directory - Computer Services</unittitle><container id="d827e3ace44960d3908b8b841f886e4e" label="mixed materials [559835.2.318]" type="box">2</container><container id="c39521ea858aa465ef0496bb94b4e748" parent="d827e3ace44960d3908b8b841f886e4e" type="folder">9</container></did></c><c id="fb8931323e68490e9509492a7c326197" level="file"><did><unittitle>Faculty Mailing</unittitle><container id="c0735d162607a916d664012c28d4d1c5" label="mixed materials [559835.2.318]" type="box">2</container><container id="7a9fc2dbaf198f376e0f760d0699823d" parent="c0735d162607a916d664012c28d4d1c5" type="folder">10</container></did></c><c id="eb0b469e57ca48288f6a660c4dd8895c" level="file"><did><unittitle>General File</unittitle><container id="b69ee9e866df8df14bce86658fec6fab" label="mixed materials [559835.2.318]" type="box">2</container><container id="ed791913c5e1d06844f220c1ce1930bb" parent="b69ee9e866df8df14bce86658fec6fab" type="folder">11</container></did></c><c id="1fd33cbd5541418381877d10456c6f6c" level="file"><did><unittitle>General Responses</unittitle><container id="cdc404f3cbc5246cf28530ae9aebdb00" label="mixed materials [559835.2.318]" type="box">2</container><container id="67611f1b27cd94e54d2fbe3ff31e8ac0" parent="cdc404f3cbc5246cf28530ae9aebdb00" type="folder">12</container></did></c><c id="c91e2723320f447696e3198013f6c184" level="file"><did><unittitle>Graduate Questionnaire</unittitle><container id="f46aa4544825b7595d48ff17a772a741" label="mixed materials [559835.3.318]" type="box">3</container><container id="58e949b8ef90df0ca5ef028585150149" parent="f46aa4544825b7595d48ff17a772a741" type="folder">1</container></did></c><c id="c85951beb7ea4d2e8e3745698abcea4a" level="file"><did><unittitle>Guest Lists for each Function</unittitle><container id="0906451493e9b310967981fff218e767" label="mixed materials [559835.3.318]" type="box">3</container><container id="cd3763c591f69ce7621e3c82ff84e78b" parent="0906451493e9b310967981fff218e767" type="folder">2</container></did></c><c id="fc51f6d3a83b4cdf93179036cd929dae" level="file"><did><unittitle>Hotel Information</unittitle><container id="cf642b8542b975a6bc9219c69f28ca3f" label="mixed materials [559835.3.318]" type="box">3</container><container id="92970d5bc71197567d251a891b8ad373" parent="cf642b8542b975a6bc9219c69f28ca3f" type="folder">3</container></did></c><c id="1750c9139fc842ee92cc12c269db2571" level="file"><did><unittitle>Lehmann, Frederick G.</unittitle><container id="c5f8f236549b12bb09e02d7ee52704b8" label="mixed materials [559835.3.318]" type="box">3</container><container id="7115e0869ff5130ec2f0e38ff46a1f14" parent="c5f8f236549b12bb09e02d7ee52704b8" type="folder">4</container></did></c><c id="eca5eb9d827644789be584ad3d340d8b" level="file"><did><unittitle>Monday Lunch Seating</unittitle><container id="11cabd999bbd7c9c516a7edf2a1bd916" label="mixed materials [559835.3.318]" type="box">3</container><container id="0bdb1cbe81e3a65e14bff27cde5e0bda" parent="11cabd999bbd7c9c516a7edf2a1bd916" type="folder">5</container></did></c><c id="925463b9e3124b04bb3a4ee776ab4a3d" level="file"><did><unittitle>Photographs</unittitle><container id="647f18889377e62629ee694dfc16db7b" label="mixed materials [559835.3.318]" type="box">3</container><container id="e6d07ed1643902fa14bf227158e1e50d" parent="647f18889377e62629ee694dfc16db7b" type="folder">6</container></did></c><c id="057369aac6e5448ea5082b619edb195c" level="file"><did><unittitle>Plenary Session - Monday morning</unittitle><container id="04f015eae10cf75a22b272b101c12200" label="mixed materials [559835.3.318]" type="box">3</container><container id="aee8a8a61fe338560384fb1680359e19" parent="04f015eae10cf75a22b272b101c12200" type="folder">7</container></did></c><c id="5621f6a5eaf54278ac2cfc4a33a8b3d4" level="file"><did><unittitle>Press - Directory</unittitle><container id="941186feee8dde726d39f7b515449bf8" label="mixed materials [559835.3.318]" type="box">3</container><container id="4600eb1a55e56411d16e1d3b3f0be924" parent="941186feee8dde726d39f7b515449bf8" type="folder">8</container></did></c><c id="ab6e1c6f8a66418fa889bb10cfe6df56" level="file"><did><unittitle>Press - Invitations, Logo, Tags</unittitle><container id="c3a31f2780ca8986afb1e7d587383b79" label="mixed materials [559835.3.318]" type="box">3</container><container id="c631388b2fdd432dd3f8f90f7bda2cea" parent="c3a31f2780ca8986afb1e7d587383b79" type="folder">9</container></did></c><c id="759a39289f3f447ca235dc1bd9baf9c1" level="file"><did><unittitle>Press - Miscellaneous</unittitle><container id="6dcabe38ec7d4a729c74f5c0c713ee96" label="mixed materials [559835.3.318]" type="box">3</container><container id="138b266b09d2ce447f0f2cb51a303a07" parent="6dcabe38ec7d4a729c74f5c0c713ee96" type="folder">10</container></did></c><c id="111dd91777b34b6ca62560e64cb21b9a" level="file"><did><unittitle>Publicity and Press</unittitle><container id="102f264e9a9fa2bb4cea4c062b87a33e" label="mixed materials [559835.4.318]" type="box">4</container><container id="296e8d77e4a0cf414c3b53ad3b533f3c" parent="102f264e9a9fa2bb4cea4c062b87a33e" type="folder">1</container></did></c><c id="297a323dc64143e1828f6c63d1ae0946" level="file"><did><unittitle>RUnion Committee</unittitle><container id="365943129b818b1e81cf73d4390200ce" label="mixed materials [559835.4.318]" type="box">4</container><container id="d1b634783c122044fc219d931d000164" parent="365943129b818b1e81cf73d4390200ce" type="folder">2</container></did></c><c id="8976429006034cdbba99b9a1bc5bc7c3" level="file"><did><unittitle>Samples of RU Printed Material and Letters</unittitle><container id="19388d6941e6094071188ecdff1233e8" label="mixed materials [559835.4.318]" type="box">4</container><container id="7d7564b581b0a1b893e0af7dd634eb74" parent="19388d6941e6094071188ecdff1233e8" type="folder">3</container></did></c><c id="d991a8fbcd634a30914082b56ecf7e77" level="file"><did><unittitle>Son's &amp; Daughter's Program</unittitle><container id="cfcc1bfb99bd75147171d26796455516" label="mixed materials [559835.4.318]" type="box">4</container><container id="a82b4d45a5c7838f2ed5086c6e66cf55" parent="cfcc1bfb99bd75147171d26796455516" type="folder">4</container></did></c><c id="7187f840ad244da0bd13a8ee0340d4ef" level="file"><did><unittitle>Tent, Gaps, and Gowns</unittitle><container id="296bc898e8a99ad22bdf18ab32c9640d" label="mixed materials [559835.4.318]" type="box">4</container><container id="3b51e1e78752b9ff1ad831538692f51d" parent="296bc898e8a99ad22bdf18ab32c9640d" type="folder">5</container></did></c><c id="bfa7a2fa300a45e5b416ac4cf2ca2e03" level="file"><did><unittitle>Working Group</unittitle><container id="96544bcea1ff777a8559a520772245b6" label="mixed materials [559835.4.318]" type="box">4</container><container id="d5055529bce1eca35e070b2489921756" parent="96544bcea1ff777a8559a520772245b6" type="folder">6</container></did></c><c id="93a5850add2f467ea7aa071f60d1bc60" level="item"><did><unittitle>Talks given by: David Rockefeller, Joshua Lederberg, Gerald Edelman, and David Baltimore</unittitle><physdesc id="2a971835f52ff40da5ee33fe24985163">4 cassettes</physdesc><container id="38819a0f64865447a848d49748250f2b" label="mixed materials [559835.4.318]" type="box">4</container></did><accessrestrict id="77c3f4c5ba9ac688bec112fa3f4dae44"><head>Conditions Governing Access</head><p>RAC is unable to provide access to obsolete media. When feasible, a digital surrogate may be created via special order. All applicable charges will apply. See RAC Head of Archival Services or RAC Head of Digital Programs for details.</p></accessrestrict></c><c id="89e633d0fcec4c8493230245edc3e84b" level="item"><did><unittitle>25th Anniversary Reunion and Convocation 10-12 June 1984 Edited Master</unittitle><physdesc id="d000aae865bc5e7c64656f182e43093e">Video</physdesc><physloc id="09ef7ad52b442a66573ffd14fdb0f26d">Film Vault</physloc></did><accessrestrict id="1f3e3d8ff99e8e3b45c8c7521de65be3"><head>Conditions Governing Access</head><p>RAC is unable to provide access to obsolete media. When feasible, a digital surrogate may be created via special order. All applicable charges will apply. See RAC Head of Archival Services or RAC Head of Digital Programs for details.</p></accessrestrict></c></c></dsc>
+</archdesc>
 </ead>

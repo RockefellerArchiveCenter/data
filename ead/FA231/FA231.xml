@@ -1,991 +1,224 @@
-<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
-  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="under_revision" langencoding="iso639-2b" repositoryencoding="iso15511">
-    <eadid>FA231.xml</eadid>
-    <filedesc>
-      <titlestmt>
-        <titleproper type="filing">Carrel (Alexis) papers</titleproper>
-        <titleproper>A Guide to the Alexis Carrel papers, Rockefeller Institute for Medical Research Scientific Staff
- <num>FA231</num></titleproper>
-      </titlestmt>
-      <publicationstmt>
-        <publisher>Rockefeller Archive Center</publisher>
-        <p>
-          <date>2010</date>
-        </p>
-        <address>
-          <addressline>15 Dayton Avenue</addressline>
-          <addressline>Sleepy Hollow 10591</addressline>
-          <addressline>archive@rockarch.org</addressline>
-          <addressline>URL: <extptr xlink:href="http://www.rockarch.org" xlink:show="new" xlink:title="http://www.rockarch.org" xlink:type="simple"/></addressline>
-        </address>
-      </publicationstmt>
-    </filedesc>
-    <profiledesc>
-      <creation>This finding aid was produced using ArchivesSpace on <date>2018-12-19 00:00:15 -0500</date>.</creation>
-    </profiledesc>
-    <revisiondesc>
-      <change>
-        <date>2010 October 18</date>
-        <item>Paper finding aid converted to EAD/XML by AureXus in 2010. Imported into the Archvists’ Toolkit by Becky Robbins.</item>
-      </change>
-    </revisiondesc>
-  </eadheader>
-  <archdesc level="collection">
-    <did>
-      <langmaterial>
-        <language langcode="eng">English</language>
-      </langmaterial>
-      <repository>
-        <corpname>Rockefeller Archive Center</corpname>
-      </repository>
-      <unittitle>Alexis Carrel papers, Rockefeller Institute for Medical Research Scientific Staff</unittitle>
-      <origination label="creator">
-        <persname role="aut" source="naf">Carrel, Alexis</persname>
-      </origination>
-      <unitid>FA231</unitid>
-      <physdesc altrender="whole">
-        <extent altrender="materialtype spaceoccupied">2.64 Cubic Feet</extent>
-      </physdesc>
-      <unitdate normal="1906/1957" type="inclusive">1906-1957</unitdate>
-      <physdesc id="9a2fa5315602a92a84a77ae107807e26">Approximately 3 cubic feet</physdesc>
-    </did>
-    <bioghist id="968ee833f2954f8e1817b3ff5c74fbd7">
-      <head>Biographical/Historical note</head>
-      <chronlist>
-        <head>Biographical Note</head>
-        <chronitem>
-          <date>1873</date>
-          <eventgrp>
-            <event>Born June 28, Sainte-Foy-les-Lyon</event>
-          </eventgrp>
-        </chronitem>
-        <chronitem>
-          <date>1890</date>
-          <eventgrp>
-            <event>L.B. University of Lyon</event>
-          </eventgrp>
-        </chronitem>
-        <chronitem>
-          <date>1891</date>
-          <eventgrp>
-            <event>Sc.B. University of Dijon</event>
-          </eventgrp>
-        </chronitem>
-        <chronitem>
-          <date>1896-1900</date>
-          <eventgrp>
-            <event>Interne des hôpitaux de Lyon</event>
-          </eventgrp>
-        </chronitem>
-        <chronitem>
-          <date>1900</date>
-          <eventgrp>
-            <event>M.D. University of Lyon</event>
-          </eventgrp>
-        </chronitem>
-        <chronitem>
-          <date>1900-1902</date>
-          <eventgrp>
-            <event>Professeur à la faculté de médecine, Université de Lyon</event>
-          </eventgrp>
-        </chronitem>
-        <chronitem>
-          <date>1905</date>
-          <eventgrp>
-            <event>Came to the United States</event>
-          </eventgrp>
-        </chronitem>
-        <chronitem>
-          <date>1905-1906</date>
-          <eventgrp>
-            <event>University of Chicago, Hull Physiological Laboratory - (type of appointment not verified, but 21 papers published with Dr. Charles C. Guthrie</event>
-          </eventgrp>
-        </chronitem>
-        <chronitem>
-          <date>1906</date>
-          <eventgrp>
-            <event>Fellow, The Rockefeller Institute for Medical Research, New York</event>
-          </eventgrp>
-        </chronitem>
-        <chronitem>
-          <date>1907</date>
-          <eventgrp>
-            <event>Assistant, RIMR</event>
-          </eventgrp>
-        </chronitem>
-        <chronitem>
-          <date>1908</date>
-          <eventgrp>
-            <event>Associate, RIMR</event>
-          </eventgrp>
-        </chronitem>
-        <chronitem>
-          <date>1909</date>
-          <eventgrp>
-            <event>Associate Member, RIMR</event>
-          </eventgrp>
-        </chronitem>
-        <chronitem>
-          <date>1912</date>
-          <eventgrp>
-            <event>Nobel. Prize in Medicine</event>
-          </eventgrp>
-        </chronitem>
-        <chronitem>
-          <date>1912</date>
-          <eventgrp>
-            <event>Member, RIMR</event>
-          </eventgrp>
-        </chronitem>
-        <chronitem>
-          <date>1913</date>
-          <eventgrp>
-            <event>Sc.D. Columbia University</event>
-          </eventgrp>
-        </chronitem>
-        <chronitem>
-          <date>1919</date>
-          <eventgrp>
-            <event>M.D. (Honorary) Belfast</event>
-          </eventgrp>
-        </chronitem>
-        <chronitem>
-          <date>1920</date>
-          <eventgrp>
-            <event>Sc.D. Brown University</event>
-          </eventgrp>
-        </chronitem>
-        <chronitem>
-          <date>1920</date>
-          <eventgrp>
-            <event>Sc.D. Princeton University</event>
-          </eventgrp>
-        </chronitem>
-        <chronitem>
-          <date>1936</date>
-          <eventgrp>
-            <event>LL.D. University of California</event>
-          </eventgrp>
-        </chronitem>
-        <chronitem>
-          <date>1937</date>
-          <eventgrp>
-            <event>Phi Beta Kappa, Dartmouth College</event>
-          </eventgrp>
-        </chronitem>
-        <chronitem>
-          <date>1937</date>
-          <eventgrp>
-            <event>Sc.D. University of the State of New York</event>
-          </eventgrp>
-        </chronitem>
-        <chronitem>
-          <date>1938</date>
-          <eventgrp>
-            <event>Sc.D. Manhattan College</event>
-          </eventgrp>
-        </chronitem>
-        <chronitem>
-          <date>1939</date>
-          <eventgrp>
-            <event>Member Emeritus, RIMR, Retired</event>
-          </eventgrp>
-        </chronitem>
-        <chronitem>
-          <date>1944</date>
-          <eventgrp>
-            <event>Died November 5, Paris, France</event>
-          </eventgrp>
-        </chronitem>
-      </chronlist>
-      <p>Numerous medal and honors and membership in many societies.</p>
-      <p>Alexis Carrel, 1873-1944, physician worked in Experimental Surgery at The Rockefeller Institute for Medical Research from 1906 until his retirement in 1939. The major portion of his papers were deposited by his widow, Madame Carrel, at Georgetown University Medical School.</p>
-      <p>Biography: Edwards, W. Sterling. Alexis Carrel, visionary surgeon by William Sterling Edwards and Peter D. Edwards, Springfield, Ill. Charles Thomas 1974.</p>
-    </bioghist>
-    <scopecontent id="8df9e3c475e14831a4faa72758a52c06">
-      <head>Scope and Contents note</head>
-      <p>The collection consists of photographs of Dr. Carrel and his laboratory; laboratory alterations and war activities; bibliography and bound volumes of collected reprints; newspaper clippings and box 2 which is primarily administrative correspondence between Alexis Carrel, Simon Flexner and the Business Manager. After 1934 some correspondence is with Herbert Gasser.</p>
-      <p>Includes material relating to the Rockefeller Institute hospital established in Compiègne, France, during World War I, courses for the treatment of wounds during the war at the Rockefeller Institute's War Demonstration Hospital, and the perfusion pump designed with Charles A. Lindbergh for work in tissue culture.</p>
-    </scopecontent>
-    <arrangement id="cb6fb04e8be1f4c43a5fcd51eba2f60c">
-      <head>Arrangement note</head>
-      <p>Correspondence arranged in chronological order.</p>
-    </arrangement>
-    <prefercite id="551be310e91f23a6d37da95921118b8a">
-      <head>Preferred Citation</head>
-      <p>Information regarding the Rockefeller Archive Center's preferred elements and forms of citation can be found at <extref href="http://www.rockarch.org/research/citations.php">http://www.rockarch.org/research/citations.php</extref></p>
-    </prefercite>
-    <fileplan id="2efc36a189fb58dcb43f7106a96e0b21">
-      <head>File Plan note</head>
-      <p>Former Classification: I 450 C232</p>
-    </fileplan>
-    <relatedmaterial id="a20dce2e0e682b35c257a042b0ebe7dd">
-      <head>Related Archival Materials note</head>
-      <p>See also War Demonstration Hospital records and Business Manager's Subject Files: LINDBERGH, CHARLES A.</p>
-    </relatedmaterial>
-    <processinfo id="abb0f20b6b69c335cf9125a020f9b409">
-      <head>Processing Information note</head>
-      <p>Boxes 3 and 4 contain material previously housed in Box 1.</p>
-    </processinfo>
-    <accessrestrict id="723287d05ebe3ea7ebc40c3d9f4d1462">
-      <head>Conditions Governing Access note</head>
-      <p>Access to this collection is restricted pending permission from Rockefeller University.</p>
-    </accessrestrict>
-    <relatedmaterial id="17c8604e86381655c77772eeb164e436">
-      <head>Related Materials</head>
-      <p>The Alexis Carrel papers collection is available at Georgetown University, Special Collections. Please consult an archivist for an inventory of the holdings at Georgetown.</p>
-    </relatedmaterial>
-    <controlaccess>
-      <subject source="lcsh">Hospitals</subject>
-      <subject source="lcsh">Biology -- Research</subject>
-      <subject source="lcsh">Blood-vessels -- Surgery</subject>
-      <subject source="lcsh">Biochemistry</subject>
-      <subject source="lcsh">Medicine, Preventive</subject>
-      <subject source="lcsh">Cell and biomolecular sciences</subject>
-      <subject source="lcsh">Heart, Mechanical</subject>
-      <subject source="lcsh">Blood</subject>
-      <subject source="lcsh">World War I</subject>
-      <subject source="lcsh">Life sciences</subject>
-      <subject source="lcsh">Medical education</subject>
-      <subject source="lcsh">Medical research</subject>
-      <subject source="lcsh">Science -- Study and teaching</subject>
-      <subject source="lcsh">Physiology</subject>
-      <subject source="lcsh">Medical technology</subject>
-      <subject source="lcsh">Medical sciences</subject>
-      <corpname rules="dacs">Rockefeller Institute Hospital. (Compiègne, France)</corpname>
-      <corpname rules="dacs">Rockefeller Institute for Medical Research. War Demonstration Hospital</corpname>
-      <persname role="ctb" source="naf">Gasser, Herbert S. (Herbert Spencer)</persname>
-      <persname role="ctb" source="naf">Flexner, Simon</persname>
-      <corpname role="ctb" source="naf">Rockefeller Institute for Medical Research</corpname>
-      <corpname role="ctb" source="naf">Rockefeller University</corpname>
-    </controlaccess>
-    <dsc>
-      <c id="8c5dcd8b74ab4cd9a7ea37e061984b92" level="file">
-        <did>
-          <unittitle>Bibliographies</unittitle>
-          <container altrender="Letter Document Storage Box" id="603b07a998afcfc2a31340221ab57be4" label="mixed materials [A0000000068008]" type="box">1</container>
-          <container id="cb2d088bc3abd6d110f6b0a7b46b2457" parent="603b07a998afcfc2a31340221ab57be4" type="folder">1</container>
-        </did>
-        <c id="b0ede7c6350240a3a664d19cb977fd43" level="item">
-          <did>
-            <unittitle>Bibliography 1905-1914 (Compiled in Carrel Office)</unittitle>
-            <unitdate normal="1905/1914" type="inclusive">1905-1914</unitdate>
-            <container altrender="Letter Document Storage Box" id="804b4487957f55f2648855a5286ef05c" label="mixed materials [A0000000068008]" type="box">1</container>
-            <container id="5124a8aecbffd3b5f8957a441612f210" parent="804b4487957f55f2648855a5286ef05c" type="folder">1</container>
-          </did>
-        </c>
-        <c id="59a5a0452bb742f485fe9bc950b0f977" level="item">
-          <did>
-            <unittitle>Bibliography 1916-1937 (Compiled from semi-annual lists)</unittitle>
-            <unitdate normal="1916/1937" type="inclusive">1916-1937</unitdate>
-            <container altrender="Letter Document Storage Box" id="278c55f47bc45e9e17455b2a4b60391d" label="mixed materials [A0000000068008]" type="box">1</container>
-            <container id="caa984f8176df7147d2cc3560dc8d9b1" parent="278c55f47bc45e9e17455b2a4b60391d" type="folder">1</container>
-          </did>
-        </c>
-      </c>
-      <c id="6f3a98715f6d45b8a49c10d035cbef4d" level="file">
-        <did>
-          <unittitle>Biographical articles and sources</unittitle>
-        </did>
-        <c id="07e57bbf58184921a488ac802b80446a" level="item">
-          <did>
-            <unittitle>Bing, R.J. JAMA</unittitle>
-            <unitdate normal="1983/1983" type="inclusive">1983</unitdate>
-            <physdesc id="bd70f176498b16a6ae8ebdb016688eff">[photocopy]</physdesc>
-            <container altrender="Letter Document Storage Box" id="ad0f7e21c12d60c343b2c96fc313d3e0" label="mixed materials [A0000000068008]" type="box">1</container>
-            <container id="a03b32b1db3c5a33cef35df0209b28d6" parent="ad0f7e21c12d60c343b2c96fc313d3e0" type="folder">2</container>
-          </did>
-        </c>
-        <c id="d8acab84d21148e4af74f5c3d8a805a5" level="item">
-          <did>
-            <unittitle>Comroe, J.H., Jr. American Review of Respiratory Disease</unittitle>
-            <unitdate normal="1978/1978" type="inclusive">1978</unitdate>
-            <physdesc id="ba08c27239ac9203562f5fb4297a5406">[photocopy]</physdesc>
-            <container altrender="Letter Document Storage Box" id="e121a77416b76e165431292b21262945" label="mixed materials [A0000000068008]" type="box">1</container>
-            <container id="b16e49806be64eaa5448aa6db17b007e" parent="e121a77416b76e165431292b21262945" type="folder">3</container>
-          </did>
-        </c>
-        <c id="366ad28bc322429bbce6d1ab17f18b25" level="item">
-          <did>
-            <unittitle>Dakin, H.D. "Notes" (ms)</unittitle>
-            <unitdate normal="1945/1945" type="inclusive">1945</unitdate>
-            <physdesc id="0f0b840c387a78d42ebb5da68813d59f">4 pp. ms &amp; 2 pp. correspondence re Dakin</physdesc>
-            <container altrender="Letter Document Storage Box" id="7ca242496e57cd317e911e5afb3d25c4" label="mixed materials [A0000000068008]" type="box">1</container>
-            <container id="037db4967ccef825cd91064576604716" parent="7ca242496e57cd317e911e5afb3d25c4" type="folder">4</container>
-          </did>
-        </c>
-        <c id="5dbcbf9d3dd84a788b0124e3cd612fc9" level="item">
-          <did>
-            <unittitle>Flexner, S. Memorial Minute, American Philosophical Society Yearbook</unittitle>
-            <unitdate normal="1944/1945" type="inclusive">circa 1944-1945</unitdate>
-            <physdesc id="c8bed32c555162be05a4e70787381e20">mss, reprint</physdesc>
-            <container altrender="Letter Document Storage Box" id="da8f4b7db3d1d65eecd14203c13d7b70" label="mixed materials [A0000000068008]" type="box">1</container>
-            <container id="6c1cfab03b9d21de1215f894bfdcf167" parent="da8f4b7db3d1d65eecd14203c13d7b70" type="folder">5</container>
-          </did>
-        </c>
-        <c id="1d34300f73a74f1da0a0d684f2c703e8" level="item">
-          <did>
-            <unittitle>Georgetown University Centennial Conference booklet</unittitle>
-            <unitdate normal="1973/1973" type="inclusive">1973</unitdate>
-            <container altrender="Letter Document Storage Box" id="faaf148f78b87c6029e8c924feda441f" label="mixed materials [A0000000068008]" type="box">1</container>
-            <container id="4515c55fe84e7d0daf32e1d2e9132a0d" parent="faaf148f78b87c6029e8c924feda441f" type="folder">6</container>
-          </did>
-        </c>
-        <c id="c361d66dcc834186a7364d480af269ab" level="item">
-          <did>
-            <unittitle>Georgetown University. Index to Carrel files</unittitle>
-            <physdesc id="a08d8766b898b60b9f84c6f331184593">photocopy</physdesc>
-            <container altrender="Letter Document Storage Box" id="bea257335b52d4e2ccec8991c1f42286" label="mixed materials [A0000000068008]" type="box">1</container>
-            <container id="f6bbafac8a65b5ebf12a390dc77dfbe9" parent="bea257335b52d4e2ccec8991c1f42286" type="folder">7</container>
-          </did>
-        </c>
-        <c id="e2055c06f38a43bcae93e4efb3bbf1e3" level="item">
-          <did>
-            <unittitle>Moseley, J. JAMA</unittitle>
-            <unitdate normal="1980/1980" type="inclusive">1980</unitdate>
-            <physdesc id="f74c74fbb325d780ab1e7fe6ec7f3e66">photocopy</physdesc>
-            <container altrender="Letter Document Storage Box" id="bc8eb3351dc9526c623f387724729f0a" label="mixed materials [A0000000068008]" type="box">1</container>
-            <container id="25cd213bf6409a98b52ef92503b1e19c" parent="bc8eb3351dc9526c623f387724729f0a" type="folder">8</container>
-          </did>
-        </c>
-        <c id="1d60e96ddf6f472caec0faefa9e80416" level="item">
-          <did>
-            <unittitle>Shaw, R. and Stubenford, W.T. NY State J. Med 1980</unittitle>
-            <unitdate normal="1980/1980" type="inclusive">1980</unitdate>
-            <physdesc id="db07e4de21936407ae2188c46df03be0">reprint</physdesc>
-            <container altrender="Letter Document Storage Box" id="0028af5e92a733f7cf89bc567390b288" label="mixed materials [A0000000068008]" type="box">1</container>
-            <container id="7666d92ac60387e45f7f94abc4040da1" parent="0028af5e92a733f7cf89bc567390b288" type="folder">9</container>
-          </did>
-        </c>
-        <c id="e11d272c9bed4cf39b96a2325e2c6014" level="item">
-          <did>
-            <unittitle>Wakler, L.C., Surgery, Gynecology, and Obstetrics. 1977</unittitle>
-            <unitdate normal="1977/1977" type="inclusive">1977</unitdate>
-            <physdesc id="8328e6a1a1c415fed8d8144eacb013e6">reprint</physdesc>
-            <container altrender="Letter Document Storage Box" id="982f3c3063fa9154098f94bfc66268f1" label="mixed materials [A0000000068008]" type="box">1</container>
-            <container id="1667ba33f133272607c665bbf62c5e16" parent="982f3c3063fa9154098f94bfc66268f1" type="folder">10</container>
-          </did>
-        </c>
-        <c id="db78e64b95094d5aae7c2e35f229fe59" level="item">
-          <did>
-            <unittitle>Who Was Who</unittitle>
-            <physdesc id="86b5a2ab4b170f561aa659b3233e16d8">photocopy</physdesc>
-            <container altrender="Letter Document Storage Box" id="71ab6630f5f5874f0fb9d085d0d19ef8" label="mixed materials [A0000000068008]" type="box">1</container>
-            <container id="7afb473fc45d37133d27a084d382b4dc" parent="71ab6630f5f5874f0fb9d085d0d19ef8" type="folder">11</container>
-          </did>
-        </c>
-        <c id="dd341de8c4fe41f185f93dff305cea71" level="item">
-          <did>
-            <unittitle>Witkowski, J. Medical History</unittitle>
-            <unitdate normal="1979/1980" type="inclusive">1979-1980</unitdate>
-            <physdesc id="5bce137f08dee9584320d5c3e130779a">reprints</physdesc>
-            <container altrender="Letter Document Storage Box" id="24bc7372ca638cda4bb9bef058d4ddcd" label="mixed materials [A0000000068008]" type="box">1</container>
-            <container id="5c54f21ca75dc7652be68893e244db7e" parent="24bc7372ca638cda4bb9bef058d4ddcd" type="folder">12</container>
-          </did>
-        </c>
-        <c id="00c844d273904d749d4efa04172b7eb8" level="item">
-          <did>
-            <unittitle>Biographical mss. and notes, miscellaneous</unittitle>
-            <container altrender="Letter Document Storage Box" id="de09269806f7b440dc81ceaea8178789" label="mixed materials [A0000000068008]" type="box">1</container>
-            <container id="a7c703c0d908770e0b301865cf0b18c5" parent="de09269806f7b440dc81ceaea8178789" type="folder">13</container>
-          </did>
-        </c>
-      </c>
-      <c id="69270b9e58a64037bd7bc080d3db53c0" level="file">
-        <did>
-          <unittitle>Correspondence files</unittitle>
-        </did>
-        <c id="bc60604917ee401cb7b69489a6ae412a" level="file">
-          <did>
-            <unittitle>Crutcher, Katherine G. Memos, correspondence</unittitle>
-            <unitdate normal="1944/1965" type="inclusive">1944-1965</unitdate>
-            <container altrender="Letter Document Storage Box" id="eb2d1088c381b049cea3ba5aba6ba7f0" label="mixed materials [A0000000068008]" type="box">1</container>
-            <container id="f712af16b7d948d1e19c3111c5849e31" parent="eb2d1088c381b049cea3ba5aba6ba7f0" type="folder">14</container>
-          </did>
-        </c>
-        <c id="70c6ebd4303e4d5b8889fb5a8a8f482a" level="file">
-          <did>
-            <unittitle>James, Henry</unittitle>
-          </did>
-          <c id="93b69bfaeb7145f685a03bbf8a878f59" level="file">
-            <did>
-              <unittitle>Sherman, William O'Neill, re Carrel method</unittitle>
-              <container altrender="Letter Document Storage Box" id="3ecef88ddb4fac536d808ab27a468a69" label="mixed materials [A0000000068008]" type="box">1</container>
-              <container id="e759059756c631404b5cfcc983a498a0" parent="3ecef88ddb4fac536d808ab27a468a69" type="folder">15</container>
-            </did>
-          </c>
-          <c id="4e7be57202924065b6fd161463cd444d" level="file">
-            <did>
-              <unittitle>Correspondence, Sherman ms. and reprint</unittitle>
-              <unitdate normal="1916/1917" type="inclusive">circa 1916-1917</unitdate>
-              <container altrender="Letter Document Storage Box" id="d8ed4f7beec0b2f67ab915f737058bfd" label="mixed materials [A0000000068008]" type="box">1</container>
-              <container id="c35fdf3afb8a3442e4d6810676f6ef1e" parent="d8ed4f7beec0b2f67ab915f737058bfd" type="folder">16</container>
-            </did>
-          </c>
-          <c id="be0b77a76bc24208b6d2d951ef5c0f29" level="file">
-            <did>
-              <unittitle>Miscellaneous reprints, etc. re Carrel work</unittitle>
-              <unitdate normal="1916/1917" type="inclusive">circa 1916-1917</unitdate>
-              <container altrender="Letter Document Storage Box" id="115b8a43159e22150578dea05affec83" label="mixed materials [A0000000068008]" type="box">1</container>
-              <container id="b1da8fc8598f398c8b2885b5ef86ab64" parent="115b8a43159e22150578dea05affec83" type="folder">17</container>
-            </did>
-          </c>
-        </c>
-        <c id="da82334434924368ab887c980e4c4bb6" level="file">
-          <did>
-            <unittitle>Smith E.B.</unittitle>
-          </did>
-          <c id="86df4820e02340ea9736ffee970f7fa2" level="file">
-            <did>
-              <unittitle>Campo, A.J. re Keith Porter use of Optical Equipment from Carrel stock</unittitle>
-              <unitdate normal="1950/1950" type="inclusive">1950</unitdate>
-              <container altrender="Letter Document Storage Box" id="40500b2dec1a79d32ab3903ae9e46691" label="mixed materials [A0000000068008]" type="box">1</container>
-              <container id="b749e2a6841215b9825337a62af201a2" parent="40500b2dec1a79d32ab3903ae9e46691" type="folder">18</container>
-            </did>
-          </c>
-          <c id="c79ae29c26c04182b9b3f18ce93c0183" level="file">
-            <did>
-              <unittitle>Chesley, Leon C. re loan of Carrel-Lindbergh pump</unittitle>
-              <unitdate normal="1945/1951" type="inclusive">1945-1951</unitdate>
-              <container altrender="Letter Document Storage Box" id="d1b53a78d7a1cb96eeb02c477dd27d6f" label="mixed materials [A0000000068008]" type="box">1</container>
-              <container id="39d261ff013483c051a2583a4288c0e7" parent="d1b53a78d7a1cb96eeb02c477dd27d6f" type="folder">19</container>
-            </did>
-          </c>
-          <c id="12a0077dda884cd1af1f4ceade8634c2" level="file">
-            <did>
-              <unittitle>Georgetown University, re gift of Carrel papers</unittitle>
-              <unitdate normal="1953/1953" type="inclusive">1953</unitdate>
-              <container altrender="Letter Document Storage Box" id="76291162c20c1a46411bde2b1a270016" label="mixed materials [A0000000068008]" type="box">1</container>
-              <container id="4a2c9d21501c5a8d42c6f289dba673dc" parent="76291162c20c1a46411bde2b1a270016" type="folder">20</container>
-            </did>
-          </c>
-          <c id="6aaa3caa475f45eb93a71b3e7c02a63b" level="file">
-            <did>
-              <unittitle>van Herwerden, M.A. reprints</unittitle>
-              <unitdate normal="1924/1926" type="inclusive">1924 1926</unitdate>
-              <container altrender="Letter Document Storage Box" id="beb7c1a336c7d0682c313bd3916d6b46" label="mixed materials [A0000000068008]" type="box">1</container>
-              <container id="e7aa0780fb03689b2480f704e58ec2e5" parent="beb7c1a336c7d0682c313bd3916d6b46" type="folder">21</container>
-            </did>
-          </c>
-        </c>
-      </c>
-      <c id="03f6ba4773754bf9b27737850c7b889b" level="file">
-        <did>
-          <unittitle>Clippings</unittitle>
-          <unitdate normal="1916/1985" type="inclusive">1916-1985</unitdate>
-          <container altrender="Letter Document Storage Box" id="2e97f7c00e516be0fc794c5e39e94761" label="mixed materials [A0000000068008]" type="box">1</container>
-          <container id="9dc4e94691e2431d0ce8d2d6238a243c" parent="2e97f7c00e516be0fc794c5e39e94761" type="folder">22-26</container>
-        </did>
-      </c>
-      <c id="1671401e78204ea786c210c1c5a5f18b" level="file">
-        <did>
-          <unittitle>Carrel Writings [extra copies]</unittitle>
-          <container altrender="Letter Document Storage Box" id="78a6b54c22bf101ddc414ae1f69e3f38" label="mixed materials [A0000000068008]" type="box">1</container>
-          <container id="6f3a2931d913dfe978a28e6856497e5a" parent="78a6b54c22bf101ddc414ae1f69e3f38" type="folder">27</container>
-        </did>
-        <processinfo id="37eef01433c3a8fa01e14e791e589a1b">
-          <head>Processing Information</head>
-          <p>Folder 28 was not assigned.</p>
-        </processinfo>
-      </c>
-      <c id="d699aff5a04045839aeac2d643c1cdd6" level="item">
-        <did>
-          <unittitle>Household insurance policies</unittitle>
-          <unitdate normal="1916/1918" type="inclusive">1916-1918</unitdate>
-          <container altrender="Letter Document Storage Box" id="fc46dec4c39dc62d5340b902a45b9a3e" label="mixed materials [A0000000068008]" type="box">1</container>
-          <container id="840f708fbb81903cb1edaeb521030a6c" parent="fc46dec4c39dc62d5340b902a45b9a3e" type="folder">29</container>
-        </did>
-        <processinfo id="f99e3a44445c06d91310117222ea9483">
-          <head>Processing Information</head>
-          <p>Folder 28 was not assigned.</p>
-        </processinfo>
-      </c>
-      <c id="ff8eb101b743487c918d99dc7e22a954" level="item">
-        <did>
-          <unittitle>Motor vehicle registration</unittitle>
-          <unitdate normal="1914/1914" type="inclusive">1914</unitdate>
-          <container altrender="Letter Document Storage Box" id="9548718a27394f93fdc8e43ebeb68f52" label="mixed materials [A0000000068008]" type="box">1</container>
-          <container id="9c3917c90dbc54cf0dfcb2e8a19bf71f" parent="9548718a27394f93fdc8e43ebeb68f52" type="folder">29</container>
-        </did>
-        <processinfo id="9c7d69c111646666f7d47ca751faf5e7">
-          <head>Processing Information</head>
-          <p>Folder 28 was not assigned.</p>
-        </processinfo>
-      </c>
-      <c id="9942ee2cfad243639f4914a2536b1634" level="file">
-        <did>
-          <unittitle>Administrative correspondence</unittitle>
-          <unitdate normal="1906/1946" type="inclusive">1906-1946</unitdate>
-          <container altrender="Letter Document Storage Box" id="2f9cad86f156c4153fbcc2e6a7576d3c" label="mixed materials [A0000000068009]" type="box">2</container>
-        </did>
-        <scopecontent id="729058d284a4c9cf0fc2a00eec5eda8e">
-          <head>Scope and Contents note</head>
-          <p>Items of special interest listed.</p>
-        </scopecontent>
-        <arrangement id="526173cc7b70e4c0c17b15e075240497">
-          <head>Arrangement note</head>
-          <p>Arranged in chronological order.</p>
-        </arrangement>
-        <c id="1b0667a0050d4bfa8c56f8c9e2f09a40" level="file">
-          <did>
-            <unitdate normal="1906/1916" type="inclusive">1906-1916</unitdate>
-            <container altrender="Letter Document Storage Box" id="0abfff9cd02acd4fd21a02afeb53aebe" label="mixed materials [A0000000068009]" type="box">2</container>
-            <container id="26f88fa48f1afff46a6dc152be3a6f1c" parent="0abfff9cd02acd4fd21a02afeb53aebe" type="folder">1</container>
-          </did>
-          <c id="87169173af3b4c408b1a0faaac053225" level="item">
-            <did>
-              <unittitle>Letter to Dr. Holt requesting a grant</unittitle>
-              <unitdate normal="1906/1916" type="inclusive">1906-1916</unitdate>
-              <physdesc id="b24310c23e44ca1271c6ee6075c1537c">Holograph</physdesc>
-            </did>
-          </c>
-          <c id="3282fc9f82ed454bbc12e29f3a3d9e01" level="item">
-            <did>
-              <unittitle>Letter accepting appointment as member of Rockefeller Institute</unittitle>
-              <unitdate normal="1912/1912" type="inclusive">1912</unitdate>
-              <physdesc id="37db524de79f16ebb5bea6c2ab049447">Holograph</physdesc>
-            </did>
-          </c>
-          <c id="94be495736a9404fbc7fe2b382d56531" level="item">
-            <did>
-              <unittitle>Correspondence on arrangements to travel to Sweden to accept Nobel Prize and program honoring Carrel at Presidential reception</unittitle>
-              <unitdate normal="1912/1912" type="inclusive">1912</unitdate>
-            </did>
-          </c>
-          <c id="32606386a6874286aa52cac34b57bc75" level="item">
-            <did>
-              <unittitle>Correspondence from France on serum needs of French government; details of hospital and laboratory at Compiègne</unittitle>
-            </did>
-          </c>
-          <c id="f303c9c4bec14dd6a78d87a1b295975f" level="item">
-            <did>
-              <unittitle>Report of Harry Dakin on use of various antiseptic substances</unittitle>
-              <unitdate normal="1915/1915" type="inclusive">1915</unitdate>
-              <physdesc id="8066604e0a5fefd6f159546c9215c094">copy</physdesc>
-            </did>
-          </c>
-          <c id="9ec5246c3a794adcb758cb7b73065e59" level="item">
-            <did>
-              <unittitle>Carrel report: Traitement abortif de l'infection des plaies</unittitle>
-              <unitdate normal="1915/1915" type="inclusive">1915</unitdate>
-              <physdesc id="64d0c55eb4a92210740e738817660228">copy</physdesc>
-            </did>
-          </c>
-          <c id="779a065458274c94ace308b6b7805cf9" level="item">
-            <did>
-              <unittitle>Correspondence on household matters</unittitle>
-            </did>
-          </c>
-          <c id="574fac1f14c64237bdca94dbd3ed2b6f" level="item">
-            <did>
-              <unittitle>Report by American Fund for French wounded, "A visit to Dr. Carrel's Hospital"</unittitle>
-              <unitdate>1916 June</unitdate>
-            </did>
-          </c>
-        </c>
-        <c id="f70a25b4cca440cca792cd84335e61c6" level="file">
-          <did>
-            <unitdate normal="1917/1922" type="inclusive">1917-1922</unitdate>
-            <container altrender="Letter Document Storage Box" id="889e3a1629a3e0604b14e4779f1cb2df" label="mixed materials [A0000000068009]" type="box">2</container>
-            <container id="7f590ddc2dcebe8a20206dcd48beb1b4" parent="889e3a1629a3e0604b14e4779f1cb2df" type="folder">2</container>
-          </did>
-          <c id="5b9804e8daba4968a42be278a665fdea" level="item">
-            <did>
-              <unittitle>"What can be done for improving present condition of War surgery?" Several reports</unittitle>
-              <unitdate>1918 January 14</unitdate>
-            </did>
-          </c>
-          <c id="ce90b24b907240e49f35bba48bdd0b76" level="item">
-            <did>
-              <unittitle>Handwritten letter indication change of ideas as a result of working with wounded</unittitle>
-              <unitdate>1918 August 9</unitdate>
-            </did>
-          </c>
-          <c id="78fdc26769c0485588a16194c0d3d75a" level="item">
-            <did>
-              <unittitle>"Experimental Surgery"</unittitle>
-              <unitdate>1919 March 27</unitdate>
-            </did>
-          </c>
-          <c id="393383a5925a453780df36d5facdca47" level="item">
-            <did>
-              <unittitle>Correspondence dealing with RI request to release Dr. Carrel to work at War Demonstration Hospital</unittitle>
-            </did>
-          </c>
-        </c>
-        <c id="affe573eb12e47f5bcc48de1bbd41d7d" level="file">
-          <did>
-            <unitdate normal="1923/1929" type="inclusive">1923-1929</unitdate>
-            <container altrender="Letter Document Storage Box" id="a6b7557bba70b7489e480de737da1a97" label="mixed materials [A0000000068009]" type="box">2</container>
-            <container id="11629ae8670b4cb92b5b72d498270869" parent="a6b7557bba70b7489e480de737da1a97" type="folder">3</container>
-          </did>
-          <c id="e7ec83e1fc204895b63f46d33840ace1" level="item">
-            <did>
-              <unittitle>Correspondence on development of microcinematography for study of cell physiology at Institute</unittitle>
-            </did>
-          </c>
-          <c id="3da2523e86394e879363da34538396e4" level="file">
-            <did>
-              <unittitle>Resume of projected plans for Mousery in studies of environmental effects on incidence of cancer</unittitle>
-              <unitdate>1929 May 8</unitdate>
-            </did>
-          </c>
-        </c>
-        <c id="4a9ee414d1cf40dbaf032e32641fb8fc" level="file">
-          <did>
-            <unitdate normal="1930/1937" type="inclusive">1930-1937</unitdate>
-            <container altrender="Letter Document Storage Box" id="f7c9da8df8c059e80fedeeae3f61ac93" label="mixed materials [A0000000068009]" type="box">2</container>
-            <container id="8a2172b184f37a9d518d681fe830eff4" parent="f7c9da8df8c059e80fedeeae3f61ac93" type="folder">4</container>
-          </did>
-          <c id="8546f43185b74f94b4dc3f241a1e130d" level="item">
-            <did>
-              <unittitle>Handwritten letter from George M. Kober to Simon Flexner announcing choice of Alexis Carrel as 1930 recipient of Nordhoff-Jung prize for cancer research</unittitle>
-              <unitdate>1930 November 25</unitdate>
-            </did>
-          </c>
-          <c id="581888c6886a449fa0ccd45fa82672a6" level="item">
-            <did>
-              <unittitle>Correspondence about use of Carrel's name in advertising</unittitle>
-            </did>
-          </c>
-          <c id="0bfc30feab8e459abc8aab854d823666" level="item">
-            <did>
-              <unittitle>Correspondence about construction of perfusion pump apparatus and its demonstration at Congress for Experimental Cytology and loan to Carlsberg Institute</unittitle>
-              <unitdate>1936 August-1937 October</unitdate>
-            </did>
-            <scopecontent id="be477cd6aa0cdb555ed9d2a06a1af9d1">
-              <head>Scope and Contents note</head>
-              <p>Includes drawings of various parts of the apparatus.</p>
-            </scopecontent>
-          </c>
-        </c>
-        <c id="5f0a643c90ed402ba22882c6d6d64de5" level="file">
-          <did>
-            <unitdate normal="1938/1946" type="inclusive">1938-1946</unitdate>
-            <container altrender="Letter Document Storage Box" id="8f8cc8dc2ab1bb1a7de0044bbc600bb3" label="mixed materials [A0000000068009]" type="box">2</container>
-            <container id="ea372cd495f554c8f5130083c692f015" parent="8f8cc8dc2ab1bb1a7de0044bbc600bb3" type="folder">5</container>
-          </did>
-          <c id="5e9f5735d02a4700952b255649deedfb" level="item">
-            <did>
-              <unittitle>Assorted correspondence at time of retirement</unittitle>
-              <unitdate normal="1938/1946" type="inclusive">1938-1946</unitdate>
-              <container altrender="Letter Document Storage Box" id="9e6bece2d3fb50fdf29614f95e141ae0" label="mixed materials [A0000000068009]" type="box">2</container>
-            </did>
-          </c>
-          <c id="27e2b863889a47099018316d315514a2" level="item">
-            <did>
-              <unittitle>Newspaper items reporting activities in Europe during World War II</unittitle>
-              <container altrender="Letter Document Storage Box" id="c5909f559b8d54abddb4617c340103e8" label="mixed materials [A0000000068009]" type="box">2</container>
-            </did>
-          </c>
-          <c id="ce953436bbaf49aabe69c35d640f632c" level="item">
-            <did>
-              <unittitle>Reports from Carrel attorney</unittitle>
-              <container altrender="Letter Document Storage Box" id="a5e76f8d55cebe5b1c0cfdc193c71ce9" label="mixed materials [A0000000068009]" type="box">2</container>
-            </did>
-          </c>
-          <c id="93e555a98e10476380fabc390f25bba9" level="item">
-            <did>
-              <unittitle>Arrangements at Carrel death</unittitle>
-              <container altrender="Letter Document Storage Box" id="8e5898a3e32e421e7bba6950a2414d20" label="mixed materials [A0000000068009]" type="box">2</container>
-            </did>
-          </c>
-        </c>
-      </c>
-      <c id="78998a3b49fd4c8b8dfd3a61cf23a5b2" level="file">
-        <did>
-          <unittitle>Correspondence</unittitle>
-          <unitdate normal="1936/1970" type="inclusive">1936-1970</unitdate>
-          <physdesc id="6da0958d9ce735ba0534953e56a9734f">2.5" Hollinger</physdesc>
-        </did>
-        <scopecontent id="547e182cda5b0d807a9dec2e63b069fc">
-          <head>Scope and Contents note</head>
-          <p>Inquiries re Carrel and Carrel's work, some "crank." Replies primarily by secretarial/administrative staff, including Miss Crutcher, E.B. Smith, Douglas Whitaker, Mabel Bright.</p>
-        </scopecontent>
-        <c id="485259c0db5541489ce1a991ee0e8d6c" level="file">
-          <did>
-            <unitdate normal="1936/1940" type="inclusive">1936 1939-1940</unitdate>
-            <container altrender="Half Ltr Document Storage Box" id="945c0532d06a76e18cfe3322ed1ee24d" label="mixed materials [A0000000068010]" type="box">3</container>
-            <container id="55e24ca6718d7844cb3d57dad6304d39" parent="945c0532d06a76e18cfe3322ed1ee24d" type="folder">1</container>
-          </did>
-        </c>
-        <c id="9d607fbee402476dbc989383f90f922c" level="file">
-          <did>
-            <unitdate normal="1948/1955" type="inclusive">1948-1955</unitdate>
-            <container altrender="Half Ltr Document Storage Box" id="126122e7b0e79ee6f33c3f266bf0b044" label="mixed materials [A0000000068010]" type="box">3</container>
-            <container id="d7b0ab8f3d53cf8baeac7751e5ad8026" parent="126122e7b0e79ee6f33c3f266bf0b044" type="folder">2</container>
-          </did>
-        </c>
-        <c id="e1bd77f994254349bb2cc0313fdc60ec" level="file">
-          <did>
-            <unitdate normal="1957/1962" type="inclusive">1957-1962</unitdate>
-            <container altrender="Half Ltr Document Storage Box" id="c54975e14505910cf00fde604ac37a0e" label="mixed materials [A0000000068010]" type="box">3</container>
-            <container id="39362a891fe51254fab680a3afb4f490" parent="c54975e14505910cf00fde604ac37a0e" type="folder">3</container>
-          </did>
-        </c>
-        <c id="d3c690a00f38482b8b0d18eea2965bd4" level="file">
-          <did>
-            <unitdate normal="1963/1964" type="inclusive">1963-1964</unitdate>
-            <container altrender="Half Ltr Document Storage Box" id="c17357bbf6f6a25105dd1b7b38f7a1ad" label="mixed materials [A0000000068010]" type="box">3</container>
-            <container id="22c4d45751d97fe25b4f31a7b9856b9a" parent="c17357bbf6f6a25105dd1b7b38f7a1ad" type="folder">4</container>
-          </did>
-        </c>
-        <c id="5b8fe3a9c1de4dd7b94382b6f691122c" level="file">
-          <did>
-            <unitdate normal="1965/1965" type="inclusive">1965</unitdate>
-            <container altrender="Half Ltr Document Storage Box" id="cf6d71e2b5c2d21b4c6194fb10531b1a" label="mixed materials [A0000000068010]" type="box">3</container>
-            <container id="1b2af6a23d9662a3f7c4b0e0284b1650" parent="cf6d71e2b5c2d21b4c6194fb10531b1a" type="folder">5</container>
-          </did>
-        </c>
-        <c id="9d02f7a820174800a380842675b9c248" level="file">
-          <did>
-            <unitdate normal="1966/1967" type="inclusive">1966-1967</unitdate>
-            <container altrender="Half Ltr Document Storage Box" id="fb6e0bd387ad5cd658821f460d9e5afa" label="mixed materials [A0000000068010]" type="box">3</container>
-            <container id="575d8840af28925c2652870513fce3fb" parent="fb6e0bd387ad5cd658821f460d9e5afa" type="folder">6</container>
-          </did>
-        </c>
-        <c id="9c197acb85134b88a09c302ae618b297" level="file">
-          <did>
-            <unitdate normal="1968/1970" type="inclusive">1968-1970</unitdate>
-            <container altrender="Half Ltr Document Storage Box" id="ba35d6f0c93a124e8f655463c46870a1" label="mixed materials [A0000000068010]" type="box">3</container>
-            <container id="3f90999a2db53b4af497f3863a478b1b" parent="ba35d6f0c93a124e8f655463c46870a1" type="folder">7</container>
-          </did>
-        </c>
-      </c>
-      <c id="9dc87c6262b041508b2dec68530d07f9" level="file">
-        <did>
-          <unittitle>Guida Medica. Enciclopedia Medica per la Famiglia. 11-7-67. Vol. XII</unittitle>
-          <container altrender="Half Ltr Document Storage Box" id="4265ec5cf62b21ee9ca9681c2a59b733" label="mixed materials [A0000000068010]" type="box">3</container>
-          <container id="d6c9e4739a06244fe73358df698efc75" parent="4265ec5cf62b21ee9ca9681c2a59b733" type="folder">8</container>
-        </did>
-        <scopecontent id="1503a1fbd84f291c180baf0836a5d245">
-          <head>Scope and Contents</head>
-          <p>Includes cover photo of Careel-Lindbergh pump, text and additional photos on inside front cover and back cover (both sides).</p>
-        </scopecontent>
-      </c>
-      <c id="778a9d1d92c044d09b4e6907be1d4c95" level="file">
-        <did>
-          <unittitle>Photographs</unittitle>
-          <physdesc id="6c854dd9f226f27ae3be89a59bdb9e1a">2.5" Hollinger</physdesc>
-          <container altrender="Half Ltr Document Storage Box" id="e91f32c2836b9e9b985c415a8c7db178" label="mixed materials [A0000000068011]" type="box">4</container>
-        </did>
-        <c id="9096b8b394124adbb03e771ba6051986" level="file">
-          <did>
-            <unittitle>Portraits of Carrel</unittitle>
-          </did>
-          <c id="2883e2e4cc6044569e863d24f70344bc" level="file">
-            <did>
-              <unittitle>Haulenbeek, J. photographer</unittitle>
-              <container altrender="Half Ltr Document Storage Box" id="316aa3e907c100a1eb57c298f4bff531" label="mixed materials [A0000000068011]" type="box">4</container>
-              <container id="adcc1d47bef520ddc46f4d9b14024bb7" parent="316aa3e907c100a1eb57c298f4bff531" type="folder">1</container>
-            </did>
-          </c>
-          <c id="737bb00260e84645960242cf0ef529b3" level="file">
-            <did>
-              <unittitle>Schmidt, Louis photographer</unittitle>
-              <container altrender="Half Ltr Document Storage Box" id="0529316cc74de378eb86bf5f662eb46b" label="mixed materials [A0000000068011]" type="box">4</container>
-              <container id="89a3da713291162192b4a724f9f606d2" parent="0529316cc74de378eb86bf5f662eb46b" type="folder">2</container>
-            </did>
-          </c>
-          <c id="44d9a1db88f64aaf9d43b1da7c9ffcf8" level="file">
-            <did>
-              <unittitle>Miscellaneous I and II</unittitle>
-              <container altrender="Half Ltr Document Storage Box" id="55e267bd026959e7989e5ae39f3cad88" label="mixed materials [A0000000068011]" type="box">4</container>
-              <container id="ff78c7c297e131b075285855dc49d5b7" parent="55e267bd026959e7989e5ae39f3cad88" type="folder">3-4</container>
-            </did>
-          </c>
-        </c>
-        <c id="c20ef6ee9ec84b7bb9792dad254d9940" level="file">
-          <did>
-            <unittitle>People (Individuals)</unittitle>
-            <container altrender="Half Ltr Document Storage Box" id="61dc990a67d86335462bd6793225de2f" label="mixed materials [A0000000068011]" type="box">4</container>
-            <container id="f5840c1e72e6ba4d0d75fc0e7ada3d2b" parent="61dc990a67d86335462bd6793225de2f" type="folder">5</container>
-          </did>
-          <scopecontent id="bc7f653a0f95430b9e02b1bff98cb41f">
-            <head>Scope and Contents note</head>
-            <p>Includes Mrs. Carrel, Mr. and Mrs. Rosenberger, Miss Crutcher, H.D. Dakin, Dr. Ebeling.</p>
-          </scopecontent>
-        </c>
-        <c id="c9360d3ea22b4c4d96575bca54471807" level="file">
-          <did>
-            <unittitle>France World War I</unittitle>
-            <container altrender="Half Ltr Document Storage Box" id="96235079cd011008c21f821aca4b1da8" label="mixed materials [A0000000068011]" type="box">4</container>
-            <container id="ae97697033329c4955a5fd1004dbfa4b" parent="96235079cd011008c21f821aca4b1da8" type="folder">6</container>
-          </did>
-        </c>
-        <c id="6f40bd63429c484f9e2ca2d1d7792755" level="file">
-          <did>
-            <unittitle>Group: Carrel and associates</unittitle>
-            <unitdate>undated</unitdate>
-            <physdesc id="0f5b70d262344b606d4fe25248c27ae0">[print from 1945 copy negative]</physdesc>
-            <container altrender="Half Ltr Document Storage Box" id="0ba4f1eeba8f6e792f75cca2e6166468" label="mixed materials [A0000000068011]" type="box">4</container>
-            <container id="68f749dd74bb25ff2b4e41bfe89543f0" parent="0ba4f1eeba8f6e792f75cca2e6166468" type="folder">7</container>
-          </did>
-        </c>
-        <c id="e7d7daf5f22c41d4828eb68c15ae549d" level="file">
-          <did>
-            <unittitle>Labs, and operating rooms, General</unittitle>
-            <container altrender="Half Ltr Document Storage Box" id="abd6cd45e77a87e2122cab9359cf1a7a" label="mixed materials [A0000000068011]" type="box">4</container>
-            <container id="8bdf531d4ecbf76962d7ea409a8bfe05" parent="abd6cd45e77a87e2122cab9359cf1a7a" type="folder">8</container>
-          </did>
-          <scopecontent id="f65fdae042313e2e580c744a23b8c626">
-            <head>Scope and Contents note</head>
-            <p>[See also uncataloged Laboratory photos]</p>
-          </scopecontent>
-        </c>
-        <c id="423a9c772bbd45d8b0f8f47adc127b38" level="file">
-          <did>
-            <unittitle>Operating room, War Demonstration Hospital. Carrel demonstration</unittitle>
-            <container altrender="Half Ltr Document Storage Box" id="0f7f3892390f2e2e60319eceac1664f6" label="mixed materials [A0000000068011]" type="box">4</container>
-            <container id="c3b0efb7005a1baa974c0718f436f056" parent="0f7f3892390f2e2e60319eceac1664f6" type="folder">9</container>
-          </did>
-        </c>
-        <c id="984d68f3934b4d2cac9401e5b7996598" level="file">
-          <did>
-            <unittitle>Miscellaneous prints</unittitle>
-            <container altrender="Half Ltr Document Storage Box" id="8764f88d7715f4cb4070350d2e46c40a" label="mixed materials [A0000000068011]" type="box">4</container>
-            <container id="3968f76b25aafced7505658e6cfd13f2" parent="8764f88d7715f4cb4070350d2e46c40a" type="folder">10</container>
-          </did>
-        </c>
-        <c id="0bd75c5376a6458e9c7e02dd06693c3a" level="file">
-          <did>
-            <unittitle>Index to Carrel portraits in NY Acad. Med. Library Catalog</unittitle>
-            <unitdate normal="1960/1960" type="inclusive">1960</unitdate>
-            <physdesc id="dbb6b5c53c520d1bb8a1cf4d4519a797">2 pp. photocopy</physdesc>
-            <container altrender="Half Ltr Document Storage Box" id="0ad8f0a3695e5164ae86bda4fe9e9e73" label="mixed materials [A0000000068011]" type="box">4</container>
-            <container id="fac931e4f0c03bea032e5378d8082fd7" parent="0ad8f0a3695e5164ae86bda4fe9e9e73" type="folder">11</container>
-          </did>
-        </c>
-      </c>
-      <c id="a6abb520b3604713b005aeb1c1b380d0" level="item">
-        <did>
-          <unittitle>Artwork: Print, "Carrel, Gallery Rockefeller Institute" by René Vincent</unittitle>
-          <unitdate>undated</unitdate>
-          <container altrender="Half Ltr Document Storage Box" id="f4ae75940b4f34f94d921eee4839cc79" label="mixed materials [A0000000068011]" type="box">4</container>
-          <container id="57f547e1ff69bfdf3b3b9c1484fa4909" parent="f4ae75940b4f34f94d921eee4839cc79" type="folder">12</container>
-        </did>
-        <scopecontent id="71d1460132e564fe9312820fa7e2efb1">
-          <head>Scope and Contents note</head>
-          <p>[See p. 66 for additional information and provenance].</p>
-        </scopecontent>
-      </c>
-      <c id="22f2701febc8450dbb149a68ef86bff2" level="item">
-        <did>
-          <unittitle>Caricature of Carrel by René Vincent entitled, "Carrel' Gallery Rockefeller Institute"</unittitle>
-          <container altrender="Half Ltr Document Storage Box" id="3e677459508633f3bd9c643b1c9bac95" label="mixed materials [A0000000068011]" type="box">4</container>
-          <container id="2e4f4827de0d2da769d0bac4c50f838f" parent="3e677459508633f3bd9c643b1c9bac95" type="folder">12</container>
-        </did>
-        <custodhist id="f5214a3f3921cb0a154bcac9ee9ed7f2">
-          <head>Custodial History note</head>
-          <p>Includes memo from J. Lederberg (10/12/1989) explaining that he acquired the print in Paris. Print forwarded to archives from S. Mirsky.</p>
-        </custodhist>
-      </c>
-      <c id="ba077bb3a78c44fdb85479007b049f00" level="file">
-        <did>
-          <unittitle>Experimental notes</unittitle>
-          <unitdate normal="1919/1919" type="inclusive">circa 1919 April-June</unitdate>
-          <physdesc id="596f76868a0df75987eb37060546d4a8">1 folder, circa 50 pp.</physdesc>
-          <container altrender="Half Ltr Document Storage Box" id="f9587d443c2802fa1211fcd3065aa4e6" label="mixed materials [A0000000068011]" type="box">4</container>
-          <container id="3eb628835bed2b507ac62af128d83c3c" parent="f9587d443c2802fa1211fcd3065aa4e6" type="folder">13</container>
-        </did>
-        <scopecontent id="97ef2a66b4b61808e3485e78502d7354">
-          <head>Scope and Contents note</head>
-          <p>Notecard attached to papers indicates that these notes were found with T. Mitchell Prudden material (probably found/identified by Ruth Sternfeld, Archivist). Observations on influence of various substances on l) rate of wound healing 2) cicatrization of wounds, in dogs.</p>
-        </scopecontent>
-        <acqinfo id="2eceb30a3dd0c568bcc487cb113aed0a">
-          <head>Immediate Source of Acquisition note</head>
-          <p>Addition to Papers 3 February 1986.</p>
-        </acqinfo>
-      </c>
-      <c id="50ed9006e9a64a6a8687c9d53d063d36" level="file">
-        <did>
-          <unittitle>Clipping Book</unittitle>
-        </did>
-        <c id="1c2f35d51d874df4a7d8a7599e9e26e1" level="file">
-          <did>
-            <unittitle>Archival Copy of Clipping Book</unittitle>
-            <unitdate normal="1912/1925" type="inclusive">1912-1925</unitdate>
-          </did>
-          <scopecontent id="1cae4ce509e632556e4ed2ba666d69cb">
-            <head>Scope and Contents note</head>
-            <p>* refers to the number on the back of the photocopies.</p>
-          </scopecontent>
-          <accessrestrict id="06d976f2d722892bc41aa9e8085e18e6">
-            <head>Conditions Governing Access</head>
-            <p>Box 5 Archival Copy of the Clipping Book is open and available as the access copy for researchers.
-Box 6 (Original Clipping Book) is closed to scholarly research due to its brittle and fragile condition.</p>
-          </accessrestrict>
-          <c id="37ecc585ec154c0db2ecb1abfdc6b643" level="file">
-            <did>
-              <unitdate>1912 October-December</unitdate>
-              <physdesc id="5ba2aea1376f2c85b0a25fa66fbf0056">Pages #1 through 60*</physdesc>
-              <container altrender="Lgl Document Storage Box" id="e373c676188d9c72e028f30573141179" label="mixed materials [A0000000068012]" type="box">5</container>
-              <container id="733c4a8b9958a34ea118831e6f4b1056" parent="e373c676188d9c72e028f30573141179" type="folder">1</container>
-            </did>
-          </c>
-          <c id="0e2181ea9a9b4dd49ccf4247f812a49e" level="file">
-            <did>
-              <unitdate normal="1912/1918" type="inclusive">1912-1918</unitdate>
-              <physdesc id="535cf8aa81f9d3b9abf99fd3be1ab035">Pages #61 through 120*</physdesc>
-              <container altrender="Lgl Document Storage Box" id="ab5635f97ca6528b444645e46bc2ca42" label="mixed materials [A0000000068012]" type="box">5</container>
-              <container id="d0700956b73285fe1bccd880aa013bd6" parent="ab5635f97ca6528b444645e46bc2ca42" type="folder">2</container>
-            </did>
-            <arrangement id="c56cdbccc37db1ebaa95ddfb1400ebc8">
-              <head>Arrangement note</head>
-              <p>No chronological order.</p>
-            </arrangement>
-          </c>
-          <c id="61a94e28f2704f90a3b69b6218b02e15" level="file">
-            <did>
-              <unitdate normal="1917/1925" type="inclusive">1917-1925</unitdate>
-              <physdesc id="318137c18b117ef6db8d367b051b1846">Pages # 121A through 149*</physdesc>
-              <container altrender="Lgl Document Storage Box" id="b31b09425411d52b3fabd31b388cf15f" label="mixed materials [A0000000068012]" type="box">5</container>
-              <container id="fece45d01ea5f46eaa38bb21e61cfd8d" parent="b31b09425411d52b3fabd31b388cf15f" type="folder">3</container>
-            </did>
-            <arrangement id="6f6211033f07f85611a7bd12d257af97">
-              <head>Arrangement note</head>
-              <p>No chronological order.</p>
-            </arrangement>
-          </c>
-        </c>
-        <c id="da52ec1c1692417994c108f62780c1b7" level="file">
-          <did>
-            <unittitle>Original Clipping book</unittitle>
-            <unitdate normal="1912/1922" type="inclusive">1912-1922</unitdate>
-            <physdesc id="fa0063620d83d2ecc7501dd6743c8109">1 package 15 × 9 × 2"</physdesc>
-            <container id="6038a9c576ead76e19d982b0b96b45ea" label="mixed materials [A0000000068013]" type="box">6</container>
-          </did>
-          <accessrestrict id="7d9ac87bdb7fbea9992000a862b6c236">
-            <head>Conditions Governing Access</head>
-            <p>Box 6 (Original Clipping Book) is closed to scholarly research due to its brittle and fragile condition.
-Box 5 Archival Copy of the Clipping Book is open and available as the access copy for researchers.</p>
-          </accessrestrict>
-        </c>
-      </c>
-      <c id="ed01f7748454423a886772bd9e24cdec" level="file">
-        <did>
-          <unittitle>Collected Reprints</unittitle>
-          <physdesc id="948ce0f6a5c24fd9d9c30d6009cf74dc">2 volumes</physdesc>
-        </did>
-        <processinfo id="48ba775fade7acb0458d24295a2ad3ab">
-          <head>Processing Information note</head>
-          <p>Removed to RAC library 8/9/1988.</p>
-        </processinfo>
-      </c>
-      <c id="f9422d132eb445f9bc639a970c8bc07b" level="file">
-        <did>
-          <unittitle>Alexis Carrel, The Voyage to Lourdes. Translated by Virgilia Peterson, With a Preface by Charles A. Lindbergh. (New York: Harper and Brothers, 1950). 1st edition</unittitle>
-          <physdesc id="0fe673e56e9757e97f21a37acb29c914">1 volume</physdesc>
-        </did>
-        <acqinfo id="66648c45dd47b564fa91db4f62adaac5">
-          <head>Immediate Source of Acquisition note</head>
-          <p>Gift of Sonya W. Mirsky, 22 October 1984.</p>
-        </acqinfo>
-        <processinfo id="c4cb9e5e567629330bda0d6c48e6b73a">
-          <head>Processing Information note</head>
-          <p>Removed to RAC library 8/9/1988</p>
-        </processinfo>
-      </c>
-    </dsc>
-  </archdesc>
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="under_revision" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid>FA231.xml</eadid><filedesc><titlestmt><titleproper type="filing">Carrel (Alexis) papers</titleproper><titleproper>A Guide to the Alexis Carrel papers, Rockefeller Institute for Medical Research Scientific Staff
+ <num>FA231</num></titleproper></titlestmt><publicationstmt><publisher>Rockefeller Archive Center</publisher><p><date>2010</date></p><address><addressline>15 Dayton Avenue</addressline><addressline>Sleepy Hollow 10591</addressline><addressline>archive@rockarch.org</addressline><addressline>URL: <extptr xlink:href="http://www.rockarch.org" xlink:show="new" xlink:title="http://www.rockarch.org" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2019-03-14 00:43:33 -0400</date>.</creation></profiledesc><revisiondesc><change><date>2010 October 18</date><item>Paper finding aid converted to EAD/XML by AureXus in 2010. Imported into the Archvists’ Toolkit by Becky Robbins.</item></change></revisiondesc></eadheader><archdesc level="collection">
+  <did>
+    <langmaterial>
+      <language langcode="eng">English</language>
+    </langmaterial>
+    <repository>
+      <corpname>Rockefeller Archive Center</corpname>
+    </repository>
+    <unittitle>Alexis Carrel papers, Rockefeller Institute for Medical Research Scientific Staff</unittitle>
+    <origination label="creator">
+      <persname role="aut" source="naf">Carrel, Alexis</persname>
+    </origination>
+    <unitid>FA231</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">2.64 Cubic Feet</extent>
+    </physdesc>
+    <unitdate normal="1906/1957" type="inclusive">1906-1957</unitdate>
+    <physdesc id="9a2fa5315602a92a84a77ae107807e26">Approximately 3 cubic feet</physdesc>
+  </did>
+  <bioghist id="968ee833f2954f8e1817b3ff5c74fbd7">
+    <head>Biographical/Historical note</head>
+    <chronlist>
+      <head>Biographical Note</head>
+      <chronitem>
+        <date>1873</date>
+        <eventgrp>
+          <event>Born June 28, Sainte-Foy-les-Lyon</event>
+        </eventgrp>
+      </chronitem>
+      <chronitem>
+        <date>1890</date>
+        <eventgrp>
+          <event>L.B. University of Lyon</event>
+        </eventgrp>
+      </chronitem>
+      <chronitem>
+        <date>1891</date>
+        <eventgrp>
+          <event>Sc.B. University of Dijon</event>
+        </eventgrp>
+      </chronitem>
+      <chronitem>
+        <date>1896-1900</date>
+        <eventgrp>
+          <event>Interne des hôpitaux de Lyon</event>
+        </eventgrp>
+      </chronitem>
+      <chronitem>
+        <date>1900</date>
+        <eventgrp>
+          <event>M.D. University of Lyon</event>
+        </eventgrp>
+      </chronitem>
+      <chronitem>
+        <date>1900-1902</date>
+        <eventgrp>
+          <event>Professeur à la faculté de médecine, Université de Lyon</event>
+        </eventgrp>
+      </chronitem>
+      <chronitem>
+        <date>1905</date>
+        <eventgrp>
+          <event>Came to the United States</event>
+        </eventgrp>
+      </chronitem>
+      <chronitem>
+        <date>1905-1906</date>
+        <eventgrp>
+          <event>University of Chicago, Hull Physiological Laboratory - (type of appointment not verified, but 21 papers published with Dr. Charles C. Guthrie</event>
+        </eventgrp>
+      </chronitem>
+      <chronitem>
+        <date>1906</date>
+        <eventgrp>
+          <event>Fellow, The Rockefeller Institute for Medical Research, New York</event>
+        </eventgrp>
+      </chronitem>
+      <chronitem>
+        <date>1907</date>
+        <eventgrp>
+          <event>Assistant, RIMR</event>
+        </eventgrp>
+      </chronitem>
+      <chronitem>
+        <date>1908</date>
+        <eventgrp>
+          <event>Associate, RIMR</event>
+        </eventgrp>
+      </chronitem>
+      <chronitem>
+        <date>1909</date>
+        <eventgrp>
+          <event>Associate Member, RIMR</event>
+        </eventgrp>
+      </chronitem>
+      <chronitem>
+        <date>1912</date>
+        <eventgrp>
+          <event>Nobel. Prize in Medicine</event>
+        </eventgrp>
+      </chronitem>
+      <chronitem>
+        <date>1912</date>
+        <eventgrp>
+          <event>Member, RIMR</event>
+        </eventgrp>
+      </chronitem>
+      <chronitem>
+        <date>1913</date>
+        <eventgrp>
+          <event>Sc.D. Columbia University</event>
+        </eventgrp>
+      </chronitem>
+      <chronitem>
+        <date>1919</date>
+        <eventgrp>
+          <event>M.D. (Honorary) Belfast</event>
+        </eventgrp>
+      </chronitem>
+      <chronitem>
+        <date>1920</date>
+        <eventgrp>
+          <event>Sc.D. Brown University</event>
+        </eventgrp>
+      </chronitem>
+      <chronitem>
+        <date>1920</date>
+        <eventgrp>
+          <event>Sc.D. Princeton University</event>
+        </eventgrp>
+      </chronitem>
+      <chronitem>
+        <date>1936</date>
+        <eventgrp>
+          <event>LL.D. University of California</event>
+        </eventgrp>
+      </chronitem>
+      <chronitem>
+        <date>1937</date>
+        <eventgrp>
+          <event>Phi Beta Kappa, Dartmouth College</event>
+        </eventgrp>
+      </chronitem>
+      <chronitem>
+        <date>1937</date>
+        <eventgrp>
+          <event>Sc.D. University of the State of New York</event>
+        </eventgrp>
+      </chronitem>
+      <chronitem>
+        <date>1938</date>
+        <eventgrp>
+          <event>Sc.D. Manhattan College</event>
+        </eventgrp>
+      </chronitem>
+      <chronitem>
+        <date>1939</date>
+        <eventgrp>
+          <event>Member Emeritus, RIMR, Retired</event>
+        </eventgrp>
+      </chronitem>
+      <chronitem>
+        <date>1944</date>
+        <eventgrp>
+          <event>Died November 5, Paris, France</event>
+        </eventgrp>
+      </chronitem>
+    </chronlist>
+<p>Numerous medal and honors and membership in many societies.</p><p>Alexis Carrel, 1873-1944, physician worked in Experimental Surgery at The Rockefeller Institute for Medical Research from 1906 until his retirement in 1939. The major portion of his papers were deposited by his widow, Madame Carrel, at Georgetown University Medical School.</p><p>Biography: Edwards, W. Sterling. Alexis Carrel, visionary surgeon by William Sterling Edwards and Peter D. Edwards, Springfield, Ill. Charles Thomas 1974.</p>  </bioghist>
+  <scopecontent id="8df9e3c475e14831a4faa72758a52c06">
+    <head>Scope and Contents note</head>
+<p>The collection consists of photographs of Dr. Carrel and his laboratory; laboratory alterations and war activities; bibliography and bound volumes of collected reprints; newspaper clippings and box 2 which is primarily administrative correspondence between Alexis Carrel, Simon Flexner and the Business Manager. After 1934 some correspondence is with Herbert Gasser.</p><p>Includes material relating to the Rockefeller Institute hospital established in Compiègne, France, during World War I, courses for the treatment of wounds during the war at the Rockefeller Institute's War Demonstration Hospital, and the perfusion pump designed with Charles A. Lindbergh for work in tissue culture.</p>  </scopecontent>
+  <arrangement id="cb6fb04e8be1f4c43a5fcd51eba2f60c">
+    <head>Arrangement note</head>
+<p>Correspondence arranged in chronological order.</p>  </arrangement>
+  <prefercite id="551be310e91f23a6d37da95921118b8a">
+    <head>Preferred Citation</head>
+<p>Information regarding the Rockefeller Archive Center's preferred elements and forms of citation can be found at <extref href="http://www.rockarch.org/research/citations.php">http://www.rockarch.org/research/citations.php</extref></p>  </prefercite>
+  <fileplan id="2efc36a189fb58dcb43f7106a96e0b21">
+    <head>File Plan note</head>
+<p>Former Classification: I 450 C232</p>  </fileplan>
+  <relatedmaterial id="a20dce2e0e682b35c257a042b0ebe7dd">
+    <head>Related Archival Materials note</head>
+<p>See also War Demonstration Hospital records and Business Manager's Subject Files: LINDBERGH, CHARLES A.</p>  </relatedmaterial>
+  <processinfo id="abb0f20b6b69c335cf9125a020f9b409">
+    <head>Processing Information note</head>
+<p>Boxes 3 and 4 contain material previously housed in Box 1.</p>  </processinfo>
+  <accessrestrict id="723287d05ebe3ea7ebc40c3d9f4d1462">
+    <head>Conditions Governing Access note</head>
+<p>Access to this collection is restricted pending permission from Rockefeller University.</p>  </accessrestrict>
+  <relatedmaterial id="17c8604e86381655c77772eeb164e436">
+    <head>Related Materials</head>
+<p>The Alexis Carrel papers collection is available at Georgetown University, Special Collections. Please consult an archivist for an inventory of the holdings at Georgetown.</p>  </relatedmaterial>
+  <controlaccess>
+    <subject source="lcsh">Hospitals</subject>
+    <subject source="lcsh">Biology -- Research</subject>
+    <subject source="lcsh">Blood-vessels -- Surgery</subject>
+    <subject source="lcsh">Biochemistry</subject>
+    <subject source="lcsh">Medicine, Preventive</subject>
+    <subject source="lcsh">Cell and biomolecular sciences</subject>
+    <subject source="lcsh">Heart, Mechanical</subject>
+    <subject source="lcsh">Blood</subject>
+    <subject source="lcsh">World War I</subject>
+    <subject source="lcsh">Life sciences</subject>
+    <subject source="lcsh">Medical education</subject>
+    <subject source="lcsh">Medical research</subject>
+    <subject source="lcsh">Science -- Study and teaching</subject>
+    <subject source="lcsh">Physiology</subject>
+    <subject source="lcsh">Medical technology</subject>
+    <subject source="lcsh">Medical sciences</subject>
+    <corpname rules="dacs">Rockefeller Institute Hospital. (Compiègne, France)</corpname>
+    <corpname rules="dacs">Rockefeller Institute for Medical Research. War Demonstration Hospital</corpname>
+    <persname role="ctb" source="naf">Gasser, Herbert S. (Herbert Spencer)</persname>
+    <persname role="ctb" source="naf">Flexner, Simon</persname>
+    <corpname role="ctb" source="naf">Rockefeller Institute for Medical Research</corpname>
+    <corpname role="ctb" source="naf">Rockefeller University</corpname>
+  </controlaccess>
+  <dsc><c id="8c5dcd8b74ab4cd9a7ea37e061984b92" level="file"><did><unittitle>Bibliographies</unittitle><container altrender="Letter Document Storage Box" id="f4d99ce647f2bc87c016b1f510a2c429" label="mixed materials [A0000000068008]" type="box">1</container><container id="ed1063b03fd700335982167bc9542913" parent="f4d99ce647f2bc87c016b1f510a2c429" type="folder">1</container></did><c id="b0ede7c6350240a3a664d19cb977fd43" level="item"><did><unittitle>Bibliography 1905-1914 (Compiled in Carrel Office)</unittitle><unitdate normal="1905/1914" type="inclusive">1905-1914</unitdate><container altrender="Letter Document Storage Box" id="ff966c43b8448398fa24dfcb15500632" label="mixed materials [A0000000068008]" type="box">1</container><container id="10645322715827d1c7cfd540ffa53a6b" parent="ff966c43b8448398fa24dfcb15500632" type="folder">1</container></did></c><c id="59a5a0452bb742f485fe9bc950b0f977" level="item"><did><unittitle>Bibliography 1916-1937 (Compiled from semi-annual lists)</unittitle><unitdate normal="1916/1937" type="inclusive">1916-1937</unitdate><container altrender="Letter Document Storage Box" id="d60e538d9820a652c25ca380c5b2bc4e" label="mixed materials [A0000000068008]" type="box">1</container><container id="3477873cde890070a1ce5d40d9d2153e" parent="d60e538d9820a652c25ca380c5b2bc4e" type="folder">1</container></did></c></c><c id="6f3a98715f6d45b8a49c10d035cbef4d" level="file"><did><unittitle>Biographical articles and sources</unittitle></did><c id="07e57bbf58184921a488ac802b80446a" level="item"><did><unittitle>Bing, R.J. JAMA</unittitle><unitdate normal="1983/1983" type="inclusive">1983</unitdate><physdesc id="bd70f176498b16a6ae8ebdb016688eff">[photocopy]</physdesc><container altrender="Letter Document Storage Box" id="cc7a8354a024dddc5afaeadbd69e57b5" label="mixed materials [A0000000068008]" type="box">1</container><container id="aba396f09c13743ded3d3580ee18cd61" parent="cc7a8354a024dddc5afaeadbd69e57b5" type="folder">2</container></did></c><c id="d8acab84d21148e4af74f5c3d8a805a5" level="item"><did><unittitle>Comroe, J.H., Jr. American Review of Respiratory Disease</unittitle><unitdate normal="1978/1978" type="inclusive">1978</unitdate><physdesc id="ba08c27239ac9203562f5fb4297a5406">[photocopy]</physdesc><container altrender="Letter Document Storage Box" id="f82dc96f4620323e7ee38193e1ef9b1f" label="mixed materials [A0000000068008]" type="box">1</container><container id="f7e1467e37a54597a2e31cf6c6d91183" parent="f82dc96f4620323e7ee38193e1ef9b1f" type="folder">3</container></did></c><c id="366ad28bc322429bbce6d1ab17f18b25" level="item"><did><unittitle>Dakin, H.D. "Notes" (ms)</unittitle><unitdate normal="1945/1945" type="inclusive">1945</unitdate><physdesc id="0f0b840c387a78d42ebb5da68813d59f">4 pp. ms &amp; 2 pp. correspondence re Dakin</physdesc><container altrender="Letter Document Storage Box" id="e85557b0a189f0a32a898e87fc793be7" label="mixed materials [A0000000068008]" type="box">1</container><container id="a75c24313c193b2e8c51132494f3e577" parent="e85557b0a189f0a32a898e87fc793be7" type="folder">4</container></did></c><c id="5dbcbf9d3dd84a788b0124e3cd612fc9" level="item"><did><unittitle>Flexner, S. Memorial Minute, American Philosophical Society Yearbook</unittitle><unitdate normal="1944/1945" type="inclusive">circa 1944-1945</unitdate><physdesc id="c8bed32c555162be05a4e70787381e20">mss, reprint</physdesc><container altrender="Letter Document Storage Box" id="518857a101f472169e7f4c73c3991d1c" label="mixed materials [A0000000068008]" type="box">1</container><container id="0a799f879432771e9d68fb032bcbcad8" parent="518857a101f472169e7f4c73c3991d1c" type="folder">5</container></did></c><c id="1d34300f73a74f1da0a0d684f2c703e8" level="item"><did><unittitle>Georgetown University Centennial Conference booklet</unittitle><unitdate normal="1973/1973" type="inclusive">1973</unitdate><container altrender="Letter Document Storage Box" id="6c103f6579941be0a73a6c15b018f2ab" label="mixed materials [A0000000068008]" type="box">1</container><container id="eec9af61a46cab04a9a1a0519741d49c" parent="6c103f6579941be0a73a6c15b018f2ab" type="folder">6</container></did></c><c id="c361d66dcc834186a7364d480af269ab" level="item"><did><unittitle>Georgetown University. Index to Carrel files</unittitle><physdesc id="a08d8766b898b60b9f84c6f331184593">photocopy</physdesc><container altrender="Letter Document Storage Box" id="70164e56619bb47dbda308aa772b3760" label="mixed materials [A0000000068008]" type="box">1</container><container id="e4d8477ec5d91eacdec19054972f7c50" parent="70164e56619bb47dbda308aa772b3760" type="folder">7</container></did></c><c id="e2055c06f38a43bcae93e4efb3bbf1e3" level="item"><did><unittitle>Moseley, J. JAMA</unittitle><unitdate normal="1980/1980" type="inclusive">1980</unitdate><physdesc id="f74c74fbb325d780ab1e7fe6ec7f3e66">photocopy</physdesc><container altrender="Letter Document Storage Box" id="6f6d325a9eb475000c7240098f7783ee" label="mixed materials [A0000000068008]" type="box">1</container><container id="5cabd103c4762410ea791155e59a901d" parent="6f6d325a9eb475000c7240098f7783ee" type="folder">8</container></did></c><c id="1d60e96ddf6f472caec0faefa9e80416" level="item"><did><unittitle>Shaw, R. and Stubenford, W.T. NY State J. Med 1980</unittitle><unitdate normal="1980/1980" type="inclusive">1980</unitdate><physdesc id="db07e4de21936407ae2188c46df03be0">reprint</physdesc><container altrender="Letter Document Storage Box" id="2a8063f4496e4b53f66970b498243306" label="mixed materials [A0000000068008]" type="box">1</container><container id="3ea4d142eb9dbe1d2fa87139180fcb4f" parent="2a8063f4496e4b53f66970b498243306" type="folder">9</container></did></c><c id="e11d272c9bed4cf39b96a2325e2c6014" level="item"><did><unittitle>Wakler, L.C., Surgery, Gynecology, and Obstetrics. 1977</unittitle><unitdate normal="1977/1977" type="inclusive">1977</unitdate><physdesc id="8328e6a1a1c415fed8d8144eacb013e6">reprint</physdesc><container altrender="Letter Document Storage Box" id="6535329248b5eb810b6f9f6d47c66b87" label="mixed materials [A0000000068008]" type="box">1</container><container id="f076841cae8d7365dde3841b8d9efa19" parent="6535329248b5eb810b6f9f6d47c66b87" type="folder">10</container></did></c><c id="db78e64b95094d5aae7c2e35f229fe59" level="item"><did><unittitle>Who Was Who</unittitle><physdesc id="86b5a2ab4b170f561aa659b3233e16d8">photocopy</physdesc><container altrender="Letter Document Storage Box" id="3ebf0cef97d292d19606a8071cb514ec" label="mixed materials [A0000000068008]" type="box">1</container><container id="a86d19928b426df40d7807f48521c8f5" parent="3ebf0cef97d292d19606a8071cb514ec" type="folder">11</container></did></c><c id="dd341de8c4fe41f185f93dff305cea71" level="item"><did><unittitle>Witkowski, J. Medical History</unittitle><unitdate normal="1979/1980" type="inclusive">1979-1980</unitdate><physdesc id="5bce137f08dee9584320d5c3e130779a">reprints</physdesc><container altrender="Letter Document Storage Box" id="a161aada64c6febb9540c6ec8064e4fa" label="mixed materials [A0000000068008]" type="box">1</container><container id="b047daf3c093fa18ca9e8723ff0ccc38" parent="a161aada64c6febb9540c6ec8064e4fa" type="folder">12</container></did></c><c id="00c844d273904d749d4efa04172b7eb8" level="item"><did><unittitle>Biographical mss. and notes, miscellaneous</unittitle><container altrender="Letter Document Storage Box" id="7df0edcc8db115fc57d760cdd486a844" label="mixed materials [A0000000068008]" type="box">1</container><container id="e0e962145d12998b59da5b332654a365" parent="7df0edcc8db115fc57d760cdd486a844" type="folder">13</container></did></c></c><c id="69270b9e58a64037bd7bc080d3db53c0" level="file"><did><unittitle>Correspondence files</unittitle></did><c id="bc60604917ee401cb7b69489a6ae412a" level="file"><did><unittitle>Crutcher, Katherine G. Memos, correspondence</unittitle><unitdate normal="1944/1965" type="inclusive">1944-1965</unitdate><container altrender="Letter Document Storage Box" id="ee15350af4c752320436634349f32db6" label="mixed materials [A0000000068008]" type="box">1</container><container id="c31b454bc7b69e187e2d99fac330aa29" parent="ee15350af4c752320436634349f32db6" type="folder">14</container></did></c><c id="70c6ebd4303e4d5b8889fb5a8a8f482a" level="file"><did><unittitle>James, Henry</unittitle></did><c id="93b69bfaeb7145f685a03bbf8a878f59" level="file"><did><unittitle>Sherman, William O'Neill, re Carrel method</unittitle><container altrender="Letter Document Storage Box" id="2fd493ce2c82fe71324b3319b91e31c6" label="mixed materials [A0000000068008]" type="box">1</container><container id="a4374d0d8a78633e9fa0b42747729c68" parent="2fd493ce2c82fe71324b3319b91e31c6" type="folder">15</container></did></c><c id="4e7be57202924065b6fd161463cd444d" level="file"><did><unittitle>Correspondence, Sherman ms. and reprint</unittitle><unitdate normal="1916/1917" type="inclusive">circa 1916-1917</unitdate><container altrender="Letter Document Storage Box" id="ce9df62b770c57124474ebbb3516ae26" label="mixed materials [A0000000068008]" type="box">1</container><container id="2e8ea8c34a47e3a970e4b8d23455f595" parent="ce9df62b770c57124474ebbb3516ae26" type="folder">16</container></did></c><c id="be0b77a76bc24208b6d2d951ef5c0f29" level="file"><did><unittitle>Miscellaneous reprints, etc. re Carrel work</unittitle><unitdate normal="1916/1917" type="inclusive">circa 1916-1917</unitdate><container altrender="Letter Document Storage Box" id="f4c3e989fdda5a441f6cb2e3619908ac" label="mixed materials [A0000000068008]" type="box">1</container><container id="cf7839caf2c2e250e35580c7ab008a87" parent="f4c3e989fdda5a441f6cb2e3619908ac" type="folder">17</container></did></c></c><c id="da82334434924368ab887c980e4c4bb6" level="file"><did><unittitle>Smith E.B.</unittitle></did><c id="86df4820e02340ea9736ffee970f7fa2" level="file"><did><unittitle>Campo, A.J. re Keith Porter use of Optical Equipment from Carrel stock</unittitle><unitdate normal="1950/1950" type="inclusive">1950</unitdate><container altrender="Letter Document Storage Box" id="a326443983baa3cfe4b544ffd5c34949" label="mixed materials [A0000000068008]" type="box">1</container><container id="5d8fde8105c5671fba4349d5efe9c940" parent="a326443983baa3cfe4b544ffd5c34949" type="folder">18</container></did></c><c id="c79ae29c26c04182b9b3f18ce93c0183" level="file"><did><unittitle>Chesley, Leon C. re loan of Carrel-Lindbergh pump</unittitle><unitdate normal="1945/1951" type="inclusive">1945-1951</unitdate><container altrender="Letter Document Storage Box" id="5a49fc6b657d042feeadbca43ef1eeaf" label="mixed materials [A0000000068008]" type="box">1</container><container id="a98f533e9cd6dc88a08a2ad746234213" parent="5a49fc6b657d042feeadbca43ef1eeaf" type="folder">19</container></did></c><c id="12a0077dda884cd1af1f4ceade8634c2" level="file"><did><unittitle>Georgetown University, re gift of Carrel papers</unittitle><unitdate normal="1953/1953" type="inclusive">1953</unitdate><container altrender="Letter Document Storage Box" id="d703dfa39c1278ff1c8b0100228d415b" label="mixed materials [A0000000068008]" type="box">1</container><container id="21c13212f24a00f9536986b226a716f7" parent="d703dfa39c1278ff1c8b0100228d415b" type="folder">20</container></did></c><c id="6aaa3caa475f45eb93a71b3e7c02a63b" level="file"><did><unittitle>van Herwerden, M.A. reprints</unittitle><unitdate normal="1924/1926" type="inclusive">1924 1926</unitdate><container altrender="Letter Document Storage Box" id="096e87a74d1e567e201e42dc2f9d987c" label="mixed materials [A0000000068008]" type="box">1</container><container id="e6698f656e207ee82f78f629d6185fb5" parent="096e87a74d1e567e201e42dc2f9d987c" type="folder">21</container></did></c></c></c><c id="03f6ba4773754bf9b27737850c7b889b" level="file"><did><unittitle>Clippings</unittitle><unitdate normal="1916/1985" type="inclusive">1916-1985</unitdate><container altrender="Letter Document Storage Box" id="b17db95c2e123e4e503a767fed64055d" label="mixed materials [A0000000068008]" type="box">1</container><container id="fc89d3b86e8ccd8017f1e252cc3d676a" parent="b17db95c2e123e4e503a767fed64055d" type="folder">22-26</container></did></c><c id="1671401e78204ea786c210c1c5a5f18b" level="file"><did><unittitle>Carrel Writings [extra copies]</unittitle><container altrender="Letter Document Storage Box" id="70aea52fe81e3500b42fd50d01893d4a" label="mixed materials [A0000000068008]" type="box">1</container><container id="bb02f9241cff87e6ee91c98003607058" parent="70aea52fe81e3500b42fd50d01893d4a" type="folder">27</container></did><processinfo id="37eef01433c3a8fa01e14e791e589a1b"><head>Processing Information</head><p>Folder 28 was not assigned.</p></processinfo></c><c id="d699aff5a04045839aeac2d643c1cdd6" level="item"><did><unittitle>Household insurance policies</unittitle><unitdate normal="1916/1918" type="inclusive">1916-1918</unitdate><container altrender="Letter Document Storage Box" id="ff9da2f3b591588c0daad92cb61579b3" label="mixed materials [A0000000068008]" type="box">1</container><container id="2dd491ce065e26301490b3e476b27ada" parent="ff9da2f3b591588c0daad92cb61579b3" type="folder">29</container></did><processinfo id="f99e3a44445c06d91310117222ea9483"><head>Processing Information</head><p>Folder 28 was not assigned.</p></processinfo></c><c id="ff8eb101b743487c918d99dc7e22a954" level="item"><did><unittitle>Motor vehicle registration</unittitle><unitdate normal="1914/1914" type="inclusive">1914</unitdate><container altrender="Letter Document Storage Box" id="8580a2407faa4cba8c068151bcb0f4ce" label="mixed materials [A0000000068008]" type="box">1</container><container id="bb4c1aa1465b56497fe89fe45d4f7a4b" parent="8580a2407faa4cba8c068151bcb0f4ce" type="folder">29</container></did><processinfo id="9c7d69c111646666f7d47ca751faf5e7"><head>Processing Information</head><p>Folder 28 was not assigned.</p></processinfo></c><c id="9942ee2cfad243639f4914a2536b1634" level="file"><did><unittitle>Administrative correspondence</unittitle><unitdate normal="1906/1946" type="inclusive">1906-1946</unitdate><container altrender="Letter Document Storage Box" id="71e551fec3fa11a375005caf7a309b8a" label="mixed materials [A0000000068009]" type="box">2</container></did><scopecontent id="729058d284a4c9cf0fc2a00eec5eda8e"><head>Scope and Contents note</head><p>Items of special interest listed.</p></scopecontent><arrangement id="526173cc7b70e4c0c17b15e075240497"><head>Arrangement note</head><p>Arranged in chronological order.</p></arrangement><c id="1b0667a0050d4bfa8c56f8c9e2f09a40" level="file"><did><unitdate normal="1906/1916" type="inclusive">1906-1916</unitdate><container altrender="Letter Document Storage Box" id="d172b63faa5156fefc9a2d50b67a7cf9" label="mixed materials [A0000000068009]" type="box">2</container><container id="ffcd220b73b2ce9fa1aefa4a4f79e381" parent="d172b63faa5156fefc9a2d50b67a7cf9" type="folder">1</container></did><c id="87169173af3b4c408b1a0faaac053225" level="item"><did><unittitle>Letter to Dr. Holt requesting a grant</unittitle><unitdate normal="1906/1916" type="inclusive">1906-1916</unitdate><physdesc id="b24310c23e44ca1271c6ee6075c1537c">Holograph</physdesc></did></c><c id="3282fc9f82ed454bbc12e29f3a3d9e01" level="item"><did><unittitle>Letter accepting appointment as member of Rockefeller Institute</unittitle><unitdate normal="1912/1912" type="inclusive">1912</unitdate><physdesc id="37db524de79f16ebb5bea6c2ab049447">Holograph</physdesc></did></c><c id="94be495736a9404fbc7fe2b382d56531" level="item"><did><unittitle>Correspondence on arrangements to travel to Sweden to accept Nobel Prize and program honoring Carrel at Presidential reception</unittitle><unitdate normal="1912/1912" type="inclusive">1912</unitdate></did></c><c id="32606386a6874286aa52cac34b57bc75" level="item"><did><unittitle>Correspondence from France on serum needs of French government; details of hospital and laboratory at Compiègne</unittitle></did></c><c id="f303c9c4bec14dd6a78d87a1b295975f" level="item"><did><unittitle>Report of Harry Dakin on use of various antiseptic substances</unittitle><unitdate normal="1915/1915" type="inclusive">1915</unitdate><physdesc id="8066604e0a5fefd6f159546c9215c094">copy</physdesc></did></c><c id="9ec5246c3a794adcb758cb7b73065e59" level="item"><did><unittitle>Carrel report: Traitement abortif de l'infection des plaies</unittitle><unitdate normal="1915/1915" type="inclusive">1915</unitdate><physdesc id="64d0c55eb4a92210740e738817660228">copy</physdesc></did></c><c id="779a065458274c94ace308b6b7805cf9" level="item"><did><unittitle>Correspondence on household matters</unittitle></did></c><c id="574fac1f14c64237bdca94dbd3ed2b6f" level="item"><did><unittitle>Report by American Fund for French wounded, "A visit to Dr. Carrel's Hospital"</unittitle><unitdate>1916 June</unitdate></did></c></c><c id="f70a25b4cca440cca792cd84335e61c6" level="file"><did><unitdate normal="1917/1922" type="inclusive">1917-1922</unitdate><container altrender="Letter Document Storage Box" id="8d6e8e0dedde0c14e610fcb4e0abe7fd" label="mixed materials [A0000000068009]" type="box">2</container><container id="1e5a44f37de2914d2dc22960c503c323" parent="8d6e8e0dedde0c14e610fcb4e0abe7fd" type="folder">2</container></did><c id="5b9804e8daba4968a42be278a665fdea" level="item"><did><unittitle>"What can be done for improving present condition of War surgery?" Several reports</unittitle><unitdate>1918 January 14</unitdate></did></c><c id="ce90b24b907240e49f35bba48bdd0b76" level="item"><did><unittitle>Handwritten letter indication change of ideas as a result of working with wounded</unittitle><unitdate>1918 August 9</unitdate></did></c><c id="78fdc26769c0485588a16194c0d3d75a" level="item"><did><unittitle>"Experimental Surgery"</unittitle><unitdate>1919 March 27</unitdate></did></c><c id="393383a5925a453780df36d5facdca47" level="item"><did><unittitle>Correspondence dealing with RI request to release Dr. Carrel to work at War Demonstration Hospital</unittitle></did></c></c><c id="affe573eb12e47f5bcc48de1bbd41d7d" level="file"><did><unitdate normal="1923/1929" type="inclusive">1923-1929</unitdate><container altrender="Letter Document Storage Box" id="dc5072f4099101100ea5bf228bf90d77" label="mixed materials [A0000000068009]" type="box">2</container><container id="e25e7e6d0f1fef126c3dbc2c926824a4" parent="dc5072f4099101100ea5bf228bf90d77" type="folder">3</container></did><c id="e7ec83e1fc204895b63f46d33840ace1" level="item"><did><unittitle>Correspondence on development of microcinematography for study of cell physiology at Institute</unittitle></did></c><c id="3da2523e86394e879363da34538396e4" level="file"><did><unittitle>Resume of projected plans for Mousery in studies of environmental effects on incidence of cancer</unittitle><unitdate>1929 May 8</unitdate></did></c></c><c id="4a9ee414d1cf40dbaf032e32641fb8fc" level="file"><did><unitdate normal="1930/1937" type="inclusive">1930-1937</unitdate><container altrender="Letter Document Storage Box" id="ff68d05ca4de7e5bcf7818b0aa4289ce" label="mixed materials [A0000000068009]" type="box">2</container><container id="8b8361cc0e218dad6ca0f5fb052780cf" parent="ff68d05ca4de7e5bcf7818b0aa4289ce" type="folder">4</container></did><c id="8546f43185b74f94b4dc3f241a1e130d" level="item"><did><unittitle>Handwritten letter from George M. Kober to Simon Flexner announcing choice of Alexis Carrel as 1930 recipient of Nordhoff-Jung prize for cancer research</unittitle><unitdate>1930 November 25</unitdate></did></c><c id="581888c6886a449fa0ccd45fa82672a6" level="item"><did><unittitle>Correspondence about use of Carrel's name in advertising</unittitle></did></c><c id="0bfc30feab8e459abc8aab854d823666" level="item"><did><unittitle>Correspondence about construction of perfusion pump apparatus and its demonstration at Congress for Experimental Cytology and loan to Carlsberg Institute</unittitle><unitdate>1936 August-1937 October</unitdate></did><scopecontent id="be477cd6aa0cdb555ed9d2a06a1af9d1"><head>Scope and Contents note</head><p>Includes drawings of various parts of the apparatus.</p></scopecontent></c></c><c id="5f0a643c90ed402ba22882c6d6d64de5" level="file"><did><unitdate normal="1938/1946" type="inclusive">1938-1946</unitdate><container altrender="Letter Document Storage Box" id="5539c07916c14e0c0b6c93fc0fd410de" label="mixed materials [A0000000068009]" type="box">2</container><container id="4037b7f56a2e65ed1becb64478f93ccd" parent="5539c07916c14e0c0b6c93fc0fd410de" type="folder">5</container></did><c id="5e9f5735d02a4700952b255649deedfb" level="item"><did><unittitle>Assorted correspondence at time of retirement</unittitle><unitdate normal="1938/1946" type="inclusive">1938-1946</unitdate><container altrender="Letter Document Storage Box" id="59c761864d30d22ae759aa8e4150bbd4" label="mixed materials [A0000000068009]" type="box">2</container></did></c><c id="27e2b863889a47099018316d315514a2" level="item"><did><unittitle>Newspaper items reporting activities in Europe during World War II</unittitle><container altrender="Letter Document Storage Box" id="3b605f4ba8f18ca5da6ff8f6059ca19f" label="mixed materials [A0000000068009]" type="box">2</container></did></c><c id="ce953436bbaf49aabe69c35d640f632c" level="item"><did><unittitle>Reports from Carrel attorney</unittitle><container altrender="Letter Document Storage Box" id="205476711b2694d0d1ff3d32a3f3ad08" label="mixed materials [A0000000068009]" type="box">2</container></did></c><c id="93e555a98e10476380fabc390f25bba9" level="item"><did><unittitle>Arrangements at Carrel death</unittitle><container altrender="Letter Document Storage Box" id="82426a77d34bff3e82567de88449c7f9" label="mixed materials [A0000000068009]" type="box">2</container></did></c></c></c><c id="78998a3b49fd4c8b8dfd3a61cf23a5b2" level="file"><did><unittitle>Correspondence</unittitle><unitdate normal="1936/1970" type="inclusive">1936-1970</unitdate><physdesc id="6da0958d9ce735ba0534953e56a9734f">2.5" Hollinger</physdesc></did><scopecontent id="547e182cda5b0d807a9dec2e63b069fc"><head>Scope and Contents note</head><p>Inquiries re Carrel and Carrel's work, some "crank." Replies primarily by secretarial/administrative staff, including Miss Crutcher, E.B. Smith, Douglas Whitaker, Mabel Bright.</p></scopecontent><c id="485259c0db5541489ce1a991ee0e8d6c" level="file"><did><unitdate normal="1936/1940" type="inclusive">1936 1939-1940</unitdate><container altrender="Half Ltr Document Storage Box" id="c31ff5fe59fd16b5686a377f5135bc66" label="mixed materials [A0000000068010]" type="box">3</container><container id="0b9fd85c1ca41835526f77c0d25b726d" parent="c31ff5fe59fd16b5686a377f5135bc66" type="folder">1</container></did></c><c id="9d607fbee402476dbc989383f90f922c" level="file"><did><unitdate normal="1948/1955" type="inclusive">1948-1955</unitdate><container altrender="Half Ltr Document Storage Box" id="8deb6e56834a94c9a1fc677d29431d2a" label="mixed materials [A0000000068010]" type="box">3</container><container id="28358d1bc6848d01f2bdf673f44ccf99" parent="8deb6e56834a94c9a1fc677d29431d2a" type="folder">2</container></did></c><c id="e1bd77f994254349bb2cc0313fdc60ec" level="file"><did><unitdate normal="1957/1962" type="inclusive">1957-1962</unitdate><container altrender="Half Ltr Document Storage Box" id="0b186cc92511d9e39b7b5db39478d963" label="mixed materials [A0000000068010]" type="box">3</container><container id="44ff7319bf43f31853b97e6981e28cf6" parent="0b186cc92511d9e39b7b5db39478d963" type="folder">3</container></did></c><c id="d3c690a00f38482b8b0d18eea2965bd4" level="file"><did><unitdate normal="1963/1964" type="inclusive">1963-1964</unitdate><container altrender="Half Ltr Document Storage Box" id="01b9f098b6caec0af978d382909979dd" label="mixed materials [A0000000068010]" type="box">3</container><container id="33d88490863d417754f54cc50d56ba62" parent="01b9f098b6caec0af978d382909979dd" type="folder">4</container></did></c><c id="5b8fe3a9c1de4dd7b94382b6f691122c" level="file"><did><unitdate normal="1965/1965" type="inclusive">1965</unitdate><container altrender="Half Ltr Document Storage Box" id="7e73b2b4e20810eac351aebc69ac1733" label="mixed materials [A0000000068010]" type="box">3</container><container id="c245bebc0132ec6d6cbaa31a54f93ba9" parent="7e73b2b4e20810eac351aebc69ac1733" type="folder">5</container></did></c><c id="9d02f7a820174800a380842675b9c248" level="file"><did><unitdate normal="1966/1967" type="inclusive">1966-1967</unitdate><container altrender="Half Ltr Document Storage Box" id="ffcda867715792c8cce19f392d7a4f22" label="mixed materials [A0000000068010]" type="box">3</container><container id="a49dbc90a538c00560d8c60bc98e78ae" parent="ffcda867715792c8cce19f392d7a4f22" type="folder">6</container></did></c><c id="9c197acb85134b88a09c302ae618b297" level="file"><did><unitdate normal="1968/1970" type="inclusive">1968-1970</unitdate><container altrender="Half Ltr Document Storage Box" id="32819f09640a94414c7181d603b2b194" label="mixed materials [A0000000068010]" type="box">3</container><container id="66e4a3d7f3fa95b120ba684f39dccbe8" parent="32819f09640a94414c7181d603b2b194" type="folder">7</container></did></c></c><c id="9dc87c6262b041508b2dec68530d07f9" level="file"><did><unittitle>Guida Medica. Enciclopedia Medica per la Famiglia. 11-7-67. Vol. XII</unittitle><container altrender="Half Ltr Document Storage Box" id="8ec410f917746be6b567f76f3ae51b87" label="mixed materials [A0000000068010]" type="box">3</container><container id="40d41f34caf42bd8ac312c1941052c2d" parent="8ec410f917746be6b567f76f3ae51b87" type="folder">8</container></did><scopecontent id="1503a1fbd84f291c180baf0836a5d245"><head>Scope and Contents</head><p>Includes cover photo of Careel-Lindbergh pump, text and additional photos on inside front cover and back cover (both sides).</p></scopecontent></c><c id="778a9d1d92c044d09b4e6907be1d4c95" level="file"><did><unittitle>Photographs</unittitle><physdesc id="6c854dd9f226f27ae3be89a59bdb9e1a">2.5" Hollinger</physdesc><container altrender="Half Ltr Document Storage Box" id="6eb7eb82cbae3eed1734a474eb8febf5" label="mixed materials [A0000000068011]" type="box">4</container></did><c id="9096b8b394124adbb03e771ba6051986" level="file"><did><unittitle>Portraits of Carrel</unittitle></did><c id="2883e2e4cc6044569e863d24f70344bc" level="file"><did><unittitle>Haulenbeek, J. photographer</unittitle><container altrender="Half Ltr Document Storage Box" id="27221ee9d380a4fb4cdb9280c8430528" label="mixed materials [A0000000068011]" type="box">4</container><container id="8469a9088836088d2dafc1d62b51071c" parent="27221ee9d380a4fb4cdb9280c8430528" type="folder">1</container></did></c><c id="737bb00260e84645960242cf0ef529b3" level="file"><did><unittitle>Schmidt, Louis photographer</unittitle><container altrender="Half Ltr Document Storage Box" id="9f26d3b9bd920ee852bec9bf2402d27e" label="mixed materials [A0000000068011]" type="box">4</container><container id="c487ef3f6cb081c3d1b52b631573e0c1" parent="9f26d3b9bd920ee852bec9bf2402d27e" type="folder">2</container></did></c><c id="44d9a1db88f64aaf9d43b1da7c9ffcf8" level="file"><did><unittitle>Miscellaneous I and II</unittitle><container altrender="Half Ltr Document Storage Box" id="bfacec404756e0dcc7617947890fa37d" label="mixed materials [A0000000068011]" type="box">4</container><container id="eecfd062732bcd4b69d5dc97e79ddb74" parent="bfacec404756e0dcc7617947890fa37d" type="folder">3-4</container></did></c></c><c id="c20ef6ee9ec84b7bb9792dad254d9940" level="file"><did><unittitle>People (Individuals)</unittitle><container altrender="Half Ltr Document Storage Box" id="bdc236d7033101142d8c5b5ffd1e23b4" label="mixed materials [A0000000068011]" type="box">4</container><container id="d84674fc49fbf7ad85f7da6e9e7f8ffc" parent="bdc236d7033101142d8c5b5ffd1e23b4" type="folder">5</container></did><scopecontent id="bc7f653a0f95430b9e02b1bff98cb41f"><head>Scope and Contents note</head><p>Includes Mrs. Carrel, Mr. and Mrs. Rosenberger, Miss Crutcher, H.D. Dakin, Dr. Ebeling.</p></scopecontent></c><c id="c9360d3ea22b4c4d96575bca54471807" level="file"><did><unittitle>France World War I</unittitle><container altrender="Half Ltr Document Storage Box" id="9d79d7dc7271db423a229861ea37d3d6" label="mixed materials [A0000000068011]" type="box">4</container><container id="18ae64a364cc7de3d89bbffad1ff0cd7" parent="9d79d7dc7271db423a229861ea37d3d6" type="folder">6</container></did></c><c id="6f40bd63429c484f9e2ca2d1d7792755" level="file"><did><unittitle>Group: Carrel and associates</unittitle><unitdate>undated</unitdate><physdesc id="0f5b70d262344b606d4fe25248c27ae0">[print from 1945 copy negative]</physdesc><container altrender="Half Ltr Document Storage Box" id="15ba19173bf1df613c89cb33f003cdad" label="mixed materials [A0000000068011]" type="box">4</container><container id="42acf1d677da0b0cfd86cd4c911e6677" parent="15ba19173bf1df613c89cb33f003cdad" type="folder">7</container></did></c><c id="e7d7daf5f22c41d4828eb68c15ae549d" level="file"><did><unittitle>Labs, and operating rooms, General</unittitle><container altrender="Half Ltr Document Storage Box" id="28e2abacf12df57377c89c7064381005" label="mixed materials [A0000000068011]" type="box">4</container><container id="094ab30ffcacda829fff3615c63fe860" parent="28e2abacf12df57377c89c7064381005" type="folder">8</container></did><scopecontent id="f65fdae042313e2e580c744a23b8c626"><head>Scope and Contents note</head><p>[See also uncataloged Laboratory photos]</p></scopecontent></c><c id="423a9c772bbd45d8b0f8f47adc127b38" level="file"><did><unittitle>Operating room, War Demonstration Hospital. Carrel demonstration</unittitle><container altrender="Half Ltr Document Storage Box" id="f6f8d998359c23181e9e5d7b8bd573c6" label="mixed materials [A0000000068011]" type="box">4</container><container id="ac5b035b945b551c3d0c395d355a2e30" parent="f6f8d998359c23181e9e5d7b8bd573c6" type="folder">9</container></did></c><c id="984d68f3934b4d2cac9401e5b7996598" level="file"><did><unittitle>Miscellaneous prints</unittitle><container altrender="Half Ltr Document Storage Box" id="f477e3d19569301b1c755a33cf10cb2a" label="mixed materials [A0000000068011]" type="box">4</container><container id="0ed327bc41570917440033718eabaca1" parent="f477e3d19569301b1c755a33cf10cb2a" type="folder">10</container></did></c><c id="0bd75c5376a6458e9c7e02dd06693c3a" level="file"><did><unittitle>Index to Carrel portraits in NY Acad. Med. Library Catalog</unittitle><unitdate normal="1960/1960" type="inclusive">1960</unitdate><physdesc id="dbb6b5c53c520d1bb8a1cf4d4519a797">2 pp. photocopy</physdesc><container altrender="Half Ltr Document Storage Box" id="0a6ad66c4939a8014b3a4b672fc384dc" label="mixed materials [A0000000068011]" type="box">4</container><container id="8bca92db0261013f85351d8ea7233948" parent="0a6ad66c4939a8014b3a4b672fc384dc" type="folder">11</container></did></c></c><c id="a6abb520b3604713b005aeb1c1b380d0" level="item"><did><unittitle>Artwork: Print, "Carrel, Gallery Rockefeller Institute" by René Vincent</unittitle><unitdate>undated</unitdate><container altrender="Half Ltr Document Storage Box" id="2fe2853067315763647eee87b7d10089" label="mixed materials [A0000000068011]" type="box">4</container><container id="834619b67bcef002dfd15bb668fb84d6" parent="2fe2853067315763647eee87b7d10089" type="folder">12</container></did><scopecontent id="71d1460132e564fe9312820fa7e2efb1"><head>Scope and Contents note</head><p>[See p. 66 for additional information and provenance].</p></scopecontent></c><c id="22f2701febc8450dbb149a68ef86bff2" level="item"><did><unittitle>Caricature of Carrel by René Vincent entitled, "Carrel' Gallery Rockefeller Institute"</unittitle><container altrender="Half Ltr Document Storage Box" id="c85cb5816b88de2028cff063482f265b" label="mixed materials [A0000000068011]" type="box">4</container><container id="d58d705983bdd53b32d1456fbe915efe" parent="c85cb5816b88de2028cff063482f265b" type="folder">12</container></did><custodhist id="f5214a3f3921cb0a154bcac9ee9ed7f2"><head>Custodial History note</head><p>Includes memo from J. Lederberg (10/12/1989) explaining that he acquired the print in Paris. Print forwarded to archives from S. Mirsky.</p></custodhist></c><c id="ba077bb3a78c44fdb85479007b049f00" level="file"><did><unittitle>Experimental notes</unittitle><unitdate normal="1919/1919" type="inclusive">circa 1919 April-June</unitdate><physdesc id="596f76868a0df75987eb37060546d4a8">1 folder, circa 50 pp.</physdesc><container altrender="Half Ltr Document Storage Box" id="1674a7128b7981c888e3a6f9e9abedd7" label="mixed materials [A0000000068011]" type="box">4</container><container id="9c52ea49297ec97572fe306e53f8e89e" parent="1674a7128b7981c888e3a6f9e9abedd7" type="folder">13</container></did><scopecontent id="97ef2a66b4b61808e3485e78502d7354"><head>Scope and Contents note</head><p>Notecard attached to papers indicates that these notes were found with T. Mitchell Prudden material (probably found/identified by Ruth Sternfeld, Archivist). Observations on influence of various substances on l) rate of wound healing 2) cicatrization of wounds, in dogs.</p></scopecontent><acqinfo id="2eceb30a3dd0c568bcc487cb113aed0a"><head>Immediate Source of Acquisition note</head><p>Addition to Papers 3 February 1986.</p></acqinfo></c><c id="50ed9006e9a64a6a8687c9d53d063d36" level="file"><did><unittitle>Clipping Book</unittitle></did><c id="1c2f35d51d874df4a7d8a7599e9e26e1" level="file"><did><unittitle>Archival Copy of Clipping Book</unittitle><unitdate normal="1912/1925" type="inclusive">1912-1925</unitdate></did><scopecontent id="1cae4ce509e632556e4ed2ba666d69cb"><head>Scope and Contents note</head><p>* refers to the number on the back of the photocopies.</p></scopecontent><accessrestrict id="06d976f2d722892bc41aa9e8085e18e6"><head>Conditions Governing Access</head><p>Box 5 Archival Copy of the Clipping Book is open and available as the access copy for researchers.
+Box 6 (Original Clipping Book) is closed to scholarly research due to its brittle and fragile condition.</p></accessrestrict><c id="37ecc585ec154c0db2ecb1abfdc6b643" level="file"><did><unitdate>1912 October-December</unitdate><physdesc id="5ba2aea1376f2c85b0a25fa66fbf0056">Pages #1 through 60*</physdesc><container altrender="Lgl Document Storage Box" id="9b29cc9f9f1262ba96e13cb144de7140" label="mixed materials [A0000000068012]" type="box">5</container><container id="f9ee3829957dc026c4647ad310f56ee7" parent="9b29cc9f9f1262ba96e13cb144de7140" type="folder">1</container></did></c><c id="0e2181ea9a9b4dd49ccf4247f812a49e" level="file"><did><unitdate normal="1912/1918" type="inclusive">1912-1918</unitdate><physdesc id="535cf8aa81f9d3b9abf99fd3be1ab035">Pages #61 through 120*</physdesc><container altrender="Lgl Document Storage Box" id="d5f1bf503be161ecde55f8e9ca2c055f" label="mixed materials [A0000000068012]" type="box">5</container><container id="7264876e02b02f2ffc896b601e977839" parent="d5f1bf503be161ecde55f8e9ca2c055f" type="folder">2</container></did><arrangement id="c56cdbccc37db1ebaa95ddfb1400ebc8"><head>Arrangement note</head><p>No chronological order.</p></arrangement></c><c id="61a94e28f2704f90a3b69b6218b02e15" level="file"><did><unitdate normal="1917/1925" type="inclusive">1917-1925</unitdate><physdesc id="318137c18b117ef6db8d367b051b1846">Pages # 121A through 149*</physdesc><container altrender="Lgl Document Storage Box" id="fe8b9b07285e24e31b42491596b62041" label="mixed materials [A0000000068012]" type="box">5</container><container id="61637de26874334b712fad46dda820b6" parent="fe8b9b07285e24e31b42491596b62041" type="folder">3</container></did><arrangement id="6f6211033f07f85611a7bd12d257af97"><head>Arrangement note</head><p>No chronological order.</p></arrangement></c></c><c id="da52ec1c1692417994c108f62780c1b7" level="file"><did><unittitle>Original Clipping book</unittitle><unitdate normal="1912/1922" type="inclusive">1912-1922</unitdate><physdesc id="fa0063620d83d2ecc7501dd6743c8109">1 package 15 × 9 × 2"</physdesc><container id="0d5ab76baf612cb2f6fec908fa8c452c" label="mixed materials [A0000000068013]" type="box">6</container></did><accessrestrict id="7d9ac87bdb7fbea9992000a862b6c236"><head>Conditions Governing Access</head><p>Box 6 (Original Clipping Book) is closed to scholarly research due to its brittle and fragile condition.
+Box 5 Archival Copy of the Clipping Book is open and available as the access copy for researchers.</p></accessrestrict></c></c><c id="ed01f7748454423a886772bd9e24cdec" level="file"><did><unittitle>Collected Reprints</unittitle><physdesc id="948ce0f6a5c24fd9d9c30d6009cf74dc">2 volumes</physdesc></did><processinfo id="48ba775fade7acb0458d24295a2ad3ab"><head>Processing Information note</head><p>Removed to RAC library 8/9/1988.</p></processinfo></c><c id="f9422d132eb445f9bc639a970c8bc07b" level="file"><did><unittitle>Alexis Carrel, The Voyage to Lourdes. Translated by Virgilia Peterson, With a Preface by Charles A. Lindbergh. (New York: Harper and Brothers, 1950). 1st edition</unittitle><physdesc id="0fe673e56e9757e97f21a37acb29c914">1 volume</physdesc></did><acqinfo id="66648c45dd47b564fa91db4f62adaac5"><head>Immediate Source of Acquisition note</head><p>Gift of Sonya W. Mirsky, 22 October 1984.</p></acqinfo><processinfo id="c4cb9e5e567629330bda0d6c48e6b73a"><head>Processing Information note</head><p>Removed to RAC library 8/9/1988</p></processinfo></c></dsc>
+</archdesc>
 </ead>

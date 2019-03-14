@@ -1,108 +1,54 @@
-<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
-  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="under_revision" langencoding="iso639-2b" repositoryencoding="iso15511">
-    <eadid>FA948.xml</eadid>
-    <filedesc>
-      <titlestmt>
-        <titleproper type="filing">Rockefeller University records, Rockefeller University Press, Search Magazine</titleproper>
-        <titleproper>A Guide to the Rockefeller University records, Rockefeller University Press, Search Magazine
- <num>FA948</num></titleproper>
-      </titlestmt>
-      <publicationstmt>
-        <publisher>Rockefeller Archive Center</publisher>
-        <address>
-          <addressline>15 Dayton Avenue</addressline>
-          <addressline>Sleepy Hollow 10591</addressline>
-          <addressline>archive@rockarch.org</addressline>
-          <addressline>URL: <extptr xlink:href="http://www.rockarch.org" xlink:show="new" xlink:title="http://www.rockarch.org" xlink:type="simple"/></addressline>
-        </address>
-      </publicationstmt>
-    </filedesc>
-    <profiledesc>
-      <creation>This finding aid was produced using ArchivesSpace on <date>2018-07-27 00:16:24 -0400</date>.</creation>
-    </profiledesc>
-    <revisiondesc>
-      <date>2008 October 21</date>
-      <item>Paper finding aid converted to EAD/XML by AureXus in 2010. Imported into the Archvists’ Toolkit by Becky Robbins.</item>
-    </revisiondesc>
-  </eadheader>
-  <archdesc level="collection">
-    <did>
-      <langmaterial>
-        <language langcode="eng">English</language>
-      </langmaterial>
-      <repository>
-        <corpname>Rockefeller Archive Center</corpname>
-      </repository>
-      <unittitle>Rockefeller University records, Rockefeller University Press, Search Magazine</unittitle>
-      <origination label="creator">
-        <corpname role="aut" rules="dacs">Rockefeller University Press</corpname>
-      </origination>
-      <unitid>FA948</unitid>
-      <physdesc altrender="whole">
-        <extent altrender="materialtype spaceoccupied">0.44 Cubic Feet</extent>
-        <extent altrender="carrier">1 box.</extent>
-      </physdesc>
-      <unitdate normal="1991/1992" type="inclusive">1991-1992</unitdate>
-      <physdesc id="3e4beaf947d1d5ec84be92f91cbec4f4">1 box.</physdesc>
-    </did>
-    <prefercite id="6cfaf6cdb21a380de1ced95df3c38505">
-      <head>Preferred Citation note</head>
-      <p>Information regarding the Rockefeller Archive Center's preferred elements and forms of citation can be found at <extref href="http://www.rockarch.org/research/citations.php">http://www.rockarch.org/research/citations.php</extref></p>
-    </prefercite>
-    <arrangement id="4bf820184713a31df0fa940a932662c5">
-      <head>Arrangement</head>
-      <p>Chronological.</p>
-    </arrangement>
-    <scopecontent id="74c47ca7354a9974795fe2ea40e30b85">
-      <head>Scope and Contents</head>
-      <p>Search magazine, published quarterly, premiered in Spring 1991. This publication focuses on research and education, highlighting advances and issues in the biomedical sciences. The magazine is written for a broad audience, not limited to the RU community.</p>
-    </scopecontent>
-    <processinfo id="6f37c98c71dc726c482d6409f560ec82">
-      <head>Processing Information</head>
-      <p>Initially processed by RDM, 3/22/91, revised 10/22/92. Additional processing, 2017.</p>
-    </processinfo>
-    <accessrestrict id="b39e20b7f7228dbc2826515a84cca5ca">
-      <head>Conditions Governing Access</head>
-      <p>Collection is open for research. Brittle or damaged items are available at the discretion of RAC.</p>
-    </accessrestrict>
-    <fileplan id="4d2a2c9e6e8459626e9e88386535ae49">
-      <head>File Plan note</head>
-      <p>Former Classification: I 540</p>
-    </fileplan>
-    <controlaccess>
-      <subject source="lcsh">Medical education</subject>
-      <subject source="lcsh">Life sciences</subject>
-      <subject source="lcsh">Science -- Study and teaching</subject>
-      <subject source="lcsh">Medical research</subject>
-      <subject source="lcsh">Biology -- Research</subject>
-      <subject source="lcsh">Medical technology</subject>
-      <subject source="lcsh">Medicine, Preventive</subject>
-      <subject source="lcsh">Cell and biomolecular sciences</subject>
-      <subject source="lcsh">Medical sciences</subject>
-    </controlaccess>
-    <dsc>
-      <c id="0bd5d85f4555484f8aca98209c99a2e6" level="file">
-        <did>
-          <unittitle>Premier Issue</unittitle>
-          <unitdate normal="1991/1991" type="inclusive">1991 Spring-Summer</unitdate>
-          <container altrender="Half Ltr Document Storage Box" id="49fd5b4ac61bd78046c4a25a98f7e871" label="mixed materials [A0000000092965]" type="box">1</container>
-          <container id="e21565680f497f714dd21ac91b7795e6" parent="49fd5b4ac61bd78046c4a25a98f7e871" type="folder">1</container>
-        </did>
-      </c>
-      <c id="eafa05f3a4554769ba53162081c8caa3" level="file">
-        <did>
-          <unitdate normal="1991/1992" type="inclusive">1991 Winter-1992 Spring</unitdate>
-          <container altrender="Half Ltr Document Storage Box" id="149f6d0581fa4282d0c776ff75fd4275" label="mixed materials [A0000000092965]" type="box">1</container>
-          <container id="6c9923cbae6f57057f6d380a9da15664" parent="149f6d0581fa4282d0c776ff75fd4275" type="folder">2</container>
-        </did>
-      </c>
-      <c id="94d2b8f22c5f43cda88d9252cc776bb3" level="file">
-        <did>
-          <unitdate normal="1992/1992" type="inclusive">1992 Summer</unitdate>
-          <container altrender="Half Ltr Document Storage Box" id="73994b3445105095912adf44f95bd9d4" label="mixed materials [A0000000092965]" type="box">1</container>
-          <container id="89f4014c02964414b99951f831821335" parent="73994b3445105095912adf44f95bd9d4" type="folder">3</container>
-        </did>
-      </c>
-    </dsc>
-  </archdesc>
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="under_revision" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid>FA948.xml</eadid><filedesc><titlestmt><titleproper type="filing">Rockefeller University records, Rockefeller University Press, Search Magazine</titleproper><titleproper>A Guide to the Rockefeller University records, Rockefeller University Press, Search Magazine
+ <num>FA948</num></titleproper></titlestmt><publicationstmt><publisher>Rockefeller Archive Center</publisher><address><addressline>15 Dayton Avenue</addressline><addressline>Sleepy Hollow 10591</addressline><addressline>archive@rockarch.org</addressline><addressline>URL: <extptr xlink:href="http://www.rockarch.org" xlink:show="new" xlink:title="http://www.rockarch.org" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2019-03-14 03:07:23 -0400</date>.</creation></profiledesc><revisiondesc><date>2008 October 21</date><item>Paper finding aid converted to EAD/XML by AureXus in 2010. Imported into the Archvists’ Toolkit by Becky Robbins.</item></revisiondesc></eadheader><archdesc level="collection">
+  <did>
+    <langmaterial>
+      <language langcode="eng">English</language>
+    </langmaterial>
+    <repository>
+      <corpname>Rockefeller Archive Center</corpname>
+    </repository>
+    <unittitle>Rockefeller University records, Rockefeller University Press, Search Magazine</unittitle>
+    <origination label="creator">
+      <corpname role="aut" rules="dacs">Rockefeller University Press</corpname>
+    </origination>
+    <unitid>FA948</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">0.44 Cubic Feet</extent>
+      <extent altrender="carrier">1 box.</extent>
+    </physdesc>
+    <unitdate normal="1991/1992" type="inclusive">1991-1992</unitdate>
+    <physdesc id="3e4beaf947d1d5ec84be92f91cbec4f4">1 box.</physdesc>
+  </did>
+  <prefercite id="6cfaf6cdb21a380de1ced95df3c38505">
+    <head>Preferred Citation note</head>
+<p>Information regarding the Rockefeller Archive Center's preferred elements and forms of citation can be found at <extref href="http://www.rockarch.org/research/citations.php">http://www.rockarch.org/research/citations.php</extref></p>  </prefercite>
+  <arrangement id="4bf820184713a31df0fa940a932662c5">
+    <head>Arrangement</head>
+<p>Chronological.</p>  </arrangement>
+  <scopecontent id="74c47ca7354a9974795fe2ea40e30b85">
+    <head>Scope and Contents</head>
+<p>Search magazine, published quarterly, premiered in Spring 1991. This publication focuses on research and education, highlighting advances and issues in the biomedical sciences. The magazine is written for a broad audience, not limited to the RU community.</p>  </scopecontent>
+  <processinfo id="6f37c98c71dc726c482d6409f560ec82">
+    <head>Processing Information</head>
+<p>Initially processed by RDM, 3/22/91, revised 10/22/92. Additional processing, 2017.</p>  </processinfo>
+  <accessrestrict id="b39e20b7f7228dbc2826515a84cca5ca">
+    <head>Conditions Governing Access</head>
+<p>Collection is open for research. Brittle or damaged items are available at the discretion of RAC.</p>  </accessrestrict>
+  <fileplan id="4d2a2c9e6e8459626e9e88386535ae49">
+    <head>File Plan note</head>
+<p>Former Classification: I 540</p>  </fileplan>
+  <controlaccess>
+    <subject source="lcsh">Medical education</subject>
+    <subject source="lcsh">Life sciences</subject>
+    <subject source="lcsh">Science -- Study and teaching</subject>
+    <subject source="lcsh">Medical research</subject>
+    <subject source="lcsh">Biology -- Research</subject>
+    <subject source="lcsh">Medical technology</subject>
+    <subject source="lcsh">Medicine, Preventive</subject>
+    <subject source="lcsh">Cell and biomolecular sciences</subject>
+    <subject source="lcsh">Medical sciences</subject>
+  </controlaccess>
+  <dsc><c id="0bd5d85f4555484f8aca98209c99a2e6" level="file"><did><unittitle>Premier Issue</unittitle><unitdate normal="1991/1991" type="inclusive">1991 Spring-Summer</unitdate><container altrender="Half Ltr Document Storage Box" id="2410e8f46a1749812b6b75bb837073e6" label="mixed materials [A0000000092965]" type="box">1</container><container id="8f160194bec3820596e08ea50f0ff2fa" parent="2410e8f46a1749812b6b75bb837073e6" type="folder">1</container></did></c><c id="eafa05f3a4554769ba53162081c8caa3" level="file"><did><unitdate normal="1991/1992" type="inclusive">1991 Winter-1992 Spring</unitdate><container altrender="Half Ltr Document Storage Box" id="8ad33ffccb736bd3cb0385a868695438" label="mixed materials [A0000000092965]" type="box">1</container><container id="488948a43ca4060599fca5ec7d697aff" parent="8ad33ffccb736bd3cb0385a868695438" type="folder">2</container></did></c><c id="94d2b8f22c5f43cda88d9252cc776bb3" level="file"><did><unitdate normal="1992/1992" type="inclusive">1992 Summer</unitdate><container altrender="Half Ltr Document Storage Box" id="e940f6b8405094832d8b02d8ff7bd931" label="mixed materials [A0000000092965]" type="box">1</container><container id="3d7c8d30b3b7168441f6897e25e1d1ce" parent="e940f6b8405094832d8b02d8ff7bd931" type="folder">3</container></did></c></dsc>
+</archdesc>
 </ead>

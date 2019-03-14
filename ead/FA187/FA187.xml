@@ -1,307 +1,57 @@
-<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
-  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="under_revision" langencoding="iso639-2b" repositoryencoding="iso15511">
-    <eadid>FA187.xml</eadid>
-    <filedesc>
-      <titlestmt>
-        <titleproper type="filing">Palade (George E.) papers</titleproper>
-        <titleproper>A Guide to the George E. Palade papers, Rockefeller University Faculty
- <num>FA187</num></titleproper>
-        <author>LRH, BJG</author>
-      </titlestmt>
-      <publicationstmt>
-        <publisher>Rockefeller Archive Center</publisher>
-        <p>
-          <date>1988, 1989</date>
-        </p>
-        <address>
-          <addressline>15 Dayton Avenue</addressline>
-          <addressline>Sleepy Hollow 10591</addressline>
-          <addressline>archive@rockarch.org</addressline>
-          <addressline>URL: <extptr xlink:href="http://www.rockarch.org" xlink:show="new" xlink:title="http://www.rockarch.org" xlink:type="simple"/></addressline>
-        </address>
-      </publicationstmt>
-    </filedesc>
-    <profiledesc>
-      <creation>This finding aid was produced using ArchivesSpace on <date>2018-11-02 00:39:21 -0400</date>.</creation>
-    </profiledesc>
-    <revisiondesc>
-      <change>
-        <date>2010 September 24</date>
-        <item>Paper finding aid converted to EAD/XML by AureXus in 2010. Imported into the Archvists’ Toolkit by Becky Robbins.</item>
-      </change>
-    </revisiondesc>
-  </eadheader>
-  <archdesc level="collection">
-    <did>
-      <langmaterial>
-        <language langcode="eng">English</language>
-      </langmaterial>
-      <repository>
-        <corpname>Rockefeller Archive Center</corpname>
-      </repository>
-      <unittitle>George E. Palade papers, Rockefeller University Faculty</unittitle>
-      <origination label="creator">
-        <persname role="aut" source="naf">Palade, G. E.</persname>
-      </origination>
-      <unitid>FA187</unitid>
-      <physdesc altrender="whole">
-        <extent altrender="materialtype spaceoccupied">4.6 Cubic Feet</extent>
-      </physdesc>
-      <unitdate normal="1951/1972" type="inclusive">1951-1972</unitdate>
-    </did>
-    <processinfo id="dfca2b0c4d485baf0bc4d83fb2468bed">
-      <head>Processing Information</head>
-      <p>Processed by: LRH (1988 January 7); BJG (1988 April 25, 1989 February 7)</p>
-    </processinfo>
-    <bioghist id="5674760b3e2c7591d8bb7688aff58c3a">
-      <head>Biographical/Historical note</head>
-      <p>George Emil Palade (1912-1977), a cell biologist, was affiliated with RIMR (from 1946) as a visiting investigator and later as a professor of cell biology. Professor Palade was a recipient of the Albert Lasker Basic Research Award (1966), the Horowitz Prize (1970) and the Nobel Prize (1974).</p>
-      <p>Alan Tartakoff was a member of Palade's laboratory from 1967 to 1972. His laboratory notebooks were added to Palade's collection as a representative sample of the kind of work being done in the laboratory.</p>
-    </bioghist>
-    <scopecontent id="32d94326444b7deb7999d810cc941719">
-      <head>Scope and Contents note</head>
-      <p>Includes correspondence and laboratory notebooks of Alan Tartakoff; dated and labeled glass slides from Palade's laboratory; and lecture notes and memoranda related to two courses on cell biology organized by George Palade at the Rockefeller University for which guest lecturers were invited.</p>
-      <p>Correspondents include Allen E. Blaurock, Britton Chance, J. B. Chappell, and Efraim Racker.</p>
-    </scopecontent>
-    <arrangement id="4ad0b549a9f43b2fb3a07d84ffa7e3b1">
-      <head>Arrangement note</head>
-      <p>Arranged by subject, then in chronological order.</p>
-    </arrangement>
-    <fileplan id="e57c9f03c97f2d149adf42d5bcfc8242">
-      <head>File Plan note</head>
-      <p>Former Classification: I 450 P171</p>
-    </fileplan>
-    <prefercite id="1b73ab84215a6ca91bcb1a531a0017e8">
-      <head>Preferred Citation</head>
-      <p>Information regarding the Rockefeller Archive Center's preferred elements and forms of citation can be found at <extref href="http://www.rockarch.org/research/citations.php">http://www.rockarch.org/research/citations.php</extref></p>
-    </prefercite>
-    <accessrestrict id="6992cd71d1c7cf66e4bed50fb782346e">
-      <head>Conditions Governing Access note</head>
-      <p>Access to this collection is restricted pending permission from Rockefeller University.</p>
-    </accessrestrict>
-    <controlaccess>
-      <subject source="lcsh">Biology -- Research</subject>
-      <subject source="lcsh">Cell and biomolecular sciences</subject>
-      <subject source="lcsh">Biochemistry</subject>
-      <subject source="lcsh">Physiology</subject>
-      <subject source="lcsh">Life sciences</subject>
-      <subject source="lcsh">Medical education</subject>
-      <subject source="lcsh">Medical research</subject>
-      <subject source="lcsh">Medical sciences</subject>
-      <persname role="ctb" source="naf">Tartakoff, Alan Michael</persname>
-      <corpname role="ctb" source="naf">Rockefeller Institute for Medical Research</corpname>
-      <corpname role="ctb" source="naf">Rockefeller University</corpname>
-    </controlaccess>
-    <dsc>
-      <c id="c19e996a9c2b4cc1ad0b26cd29cb83c1" level="file">
-        <did>
-          <unittitle>Cell Biology Course on Mitochondria</unittitle>
-          <unitdate normal="1968/1968" type="inclusive">1968</unitdate>
-          <container id="87ad24cb262562523ec1ae17ace41a59" label="mixed materials" type="box">1</container>
-          <container id="204d10d549e3639a5369ab838deccaf8" parent="87ad24cb262562523ec1ae17ace41a59" type="folder">1</container>
-        </did>
-      </c>
-      <c id="064ca39d3f7a407f8cc01aaab179b5d1" level="file">
-        <did>
-          <unittitle>Course on Biological Membranes</unittitle>
-          <unitdate normal="1970/1970" type="inclusive">1970</unitdate>
-          <container id="1b1907ccabe3e1552a786405b7ba79cb" label="mixed materials" type="box">1</container>
-          <container id="978331b22efbdf123e815330d8e0c903" parent="1b1907ccabe3e1552a786405b7ba79cb" type="folder">2</container>
-        </did>
-      </c>
-      <c id="a08c67a6e4c7463ba9da1604a23ab07e" level="file">
-        <did>
-          <unittitle>Alan Tartakoff Laboratory Notebooks</unittitle>
-          <unitdate normal="1967/1971" type="inclusive">1967-1971</unitdate>
-        </did>
-        <c id="847cc5e7b9af477faed683238d4c9df6" level="file">
-          <did>
-            <unitdate>1967 March-May</unitdate>
-            <container id="96f49dd852b65a5a4375f77128001acd" label="mixed materials [163104.2.318]" type="box">2</container>
-            <container id="6ca857e19382ff592f6aa2ef3303ae3f" parent="96f49dd852b65a5a4375f77128001acd" type="folder">I</container>
-          </did>
-        </c>
-        <c id="49bc2045bc194db5b7047d622babb1c6" level="file">
-          <did>
-            <unitdate>1967 May-August</unitdate>
-            <container id="14df23f85a8aa1ac5fbb12cec2daca77" label="mixed materials [163104.2.318]" type="box">2</container>
-            <container id="e2f056569165fd84bafabebb356c8214" parent="14df23f85a8aa1ac5fbb12cec2daca77" type="folder">II</container>
-          </did>
-        </c>
-        <c id="cd7bcb50a7804ab2a00e3c5b07227088" level="file">
-          <did>
-            <unitdate>1967 September-November</unitdate>
-            <container id="854729acbea8cad3b3739a0810d80c21" label="mixed materials [163104.2.318]" type="box">2</container>
-            <container id="3c842eacc2f067c7687eb649de1aa10d" parent="854729acbea8cad3b3739a0810d80c21" type="folder">III</container>
-          </did>
-        </c>
-        <c id="f9b761b6e58244728b2510858246f726" level="file">
-          <did>
-            <unitdate>1967 December-1968 May</unitdate>
-            <container id="a880d60d4395654ab326d380e6a94ea7" label="mixed materials [163104.2.318]" type="box">2</container>
-            <container id="beaed561c9f3ae385f1097ec146c6c96" parent="a880d60d4395654ab326d380e6a94ea7" type="folder">IV</container>
-          </did>
-          <scopecontent id="ea2155b2032c350393572ca29ccfd899">
-            <head>Scope and Contents note</head>
-            <p>Includes photos.</p>
-          </scopecontent>
-        </c>
-        <c id="ccfadeefd7074ecaa0862eafcdcba6cf" level="file">
-          <did>
-            <unitdate>1968 May-November</unitdate>
-            <container id="cce74a2c555251e8e5122d9d7242a852" label="mixed materials [163104.2.318]" type="box">2</container>
-            <container id="b8a79181c692340776539132e87e3546" parent="cce74a2c555251e8e5122d9d7242a852" type="folder">V</container>
-          </did>
-          <scopecontent id="5bf6c675c884d40c280efa6bb32f81d1">
-            <head>Scope and Contents note</head>
-            <p>Includes photos.</p>
-          </scopecontent>
-        </c>
-        <c id="dde155ce904548abb74c7542d05ccf9f" level="file">
-          <did>
-            <unitdate>1968 November-1969 February</unitdate>
-            <container id="491b58bd5bd51546442a2b6df11a7de8" label="mixed materials [163104.2.318]" type="box">2</container>
-            <container id="757fa57a0fb08b7b70f82da175f49c49" parent="491b58bd5bd51546442a2b6df11a7de8" type="folder">VI</container>
-          </did>
-          <scopecontent id="c1941c65f5fc19fbc8b28f640b86da77">
-            <head>Scope and Contents note</head>
-            <p>Includes photos.</p>
-          </scopecontent>
-        </c>
-        <c id="14cf6445a6eb4a7a97f58226be2c3602" level="file">
-          <did>
-            <unitdate>1969 February-May</unitdate>
-            <container id="5135f23ae184c393bf84be832de96970" label="mixed materials [163104.2.318]" type="box">2</container>
-            <container id="4aa8adb0302b727c747f2125f952a98e" parent="5135f23ae184c393bf84be832de96970" type="folder">VII</container>
-          </did>
-          <scopecontent id="fda95313ade2c4472d5d830c154ae2fe">
-            <head>Scope and Contents note</head>
-            <p>Includes photos.</p>
-          </scopecontent>
-        </c>
-        <c id="85e12207ef814fd1a83208f09756131b" level="file">
-          <did>
-            <unitdate>1969 May-September</unitdate>
-            <container id="9b916560ae97e6a82825dd522d061105" label="mixed materials [163104.2.318]" type="box">2</container>
-            <container id="9efe66871f978868ebd0fef73f5497c3" parent="9b916560ae97e6a82825dd522d061105" type="folder">VIII</container>
-          </did>
-          <scopecontent id="8b3aee9aee59141a00259b5176bb3847">
-            <head>Scope and Contents note</head>
-            <p>Includes photos.</p>
-          </scopecontent>
-        </c>
-        <c id="0e3c57ff5e1648219275274e9f3da005" level="file">
-          <did>
-            <unitdate>1969 October-December</unitdate>
-            <container id="3a41da6f377e4e44e696e134bee899c4" label="mixed materials [163104.2.318]" type="box">2</container>
-            <container id="078c48458371fb2e08709cdb3e8e45c9" parent="3a41da6f377e4e44e696e134bee899c4" type="folder">IX</container>
-          </did>
-        </c>
-        <c id="3d41737bbddb464a8e33f53408f04e3c" level="file">
-          <did>
-            <unitdate>1970 January-February</unitdate>
-            <container id="436bf717981e59d6a71efd348d0c8f40" label="mixed materials [163104.2.318]" type="box">2</container>
-            <container id="198f93064b3c91f2353f3ae696a1717d" parent="436bf717981e59d6a71efd348d0c8f40" type="folder">X</container>
-          </did>
-        </c>
-        <c id="f785df033bd347ddb6d3c46fc5abccaf" level="file">
-          <did>
-            <unitdate>1970 April</unitdate>
-            <container id="729298c701403f5f95aebcc3dedee4c4" label="mixed materials [163104.2.318]" type="box">2</container>
-          </did>
-          <scopecontent id="16d1e554c93941d9a3ef721b31a4200a">
-            <head>Scope and Contents</head>
-            <p>Includes photos.</p>
-          </scopecontent>
-        </c>
-        <c id="d44e06acdc704385b5a067cc9c8b9f00" level="file">
-          <did>
-            <unitdate>1970 July-October</unitdate>
-            <container id="43f5d62d45091e18ea8946458d965d12" label="mixed materials [163104.2.318]" type="box">2</container>
-            <container id="f4688495782bc8aa608ffd62b0c819ca" parent="43f5d62d45091e18ea8946458d965d12" type="folder">XIII</container>
-          </did>
-        </c>
-        <c id="eef6c81dfc424c909a78fff41a0fecaf" level="file">
-          <did>
-            <unitdate>1970 December-1971 January</unitdate>
-            <container id="7b24f410bd14b22b388319ef71b0d416" label="mixed materials [163104.2.318]" type="box">2</container>
-            <container id="95cc678aad5df151c57aa56f2696d2da" parent="7b24f410bd14b22b388319ef71b0d416" type="folder">XV</container>
-          </did>
-        </c>
-        <c id="06635d87195949c9893f3c36466fc1c6" level="file">
-          <did>
-            <unitdate>1971 January-February</unitdate>
-            <container id="e2318fd661304eadffa017687be2690d" label="mixed materials [163104.2.318]" type="box">2</container>
-            <container id="b3f100b13db55040a770dc0e2d31b261" parent="e2318fd661304eadffa017687be2690d" type="folder">XVI</container>
-          </did>
-        </c>
-        <c id="41503510db8e430f9c3803ae64189800" level="file">
-          <did>
-            <unitdate>1971 March-April</unitdate>
-            <container id="175b0a688ae4f36293b6ec31bb5c89ef" label="mixed materials [163104.2.318]" type="box">2</container>
-            <container id="287f970358fa574754017e92f7eb025e" parent="175b0a688ae4f36293b6ec31bb5c89ef" type="folder">XVII</container>
-          </did>
-        </c>
-        <c id="b51af452c2b4469fa31ba69c8d2acc57" level="file">
-          <did>
-            <unitdate>1971 April-August</unitdate>
-            <physdesc id="fc9cce2f97a6cebc787ce3e1b88e8198">(black binder)</physdesc>
-            <container id="62ae0bec9d806f0c6943316e3f4cb923" label="mixed materials [163104.2.318]" type="box">2</container>
-            <container id="0be269b993b2db4766e685a6ea9b279f" parent="62ae0bec9d806f0c6943316e3f4cb923" type="folder">XVIII</container>
-          </did>
-        </c>
-      </c>
-      <c id="624104ec494745f8b1af938ec8350466" level="file">
-        <did>
-          <unittitle>Alan Tartakoff Laboratory Notebooks</unittitle>
-          <unitdate normal="1971/1972" type="inclusive">1971-1972</unitdate>
-          <container id="2d1347f829e5799a88f258485f3afc8d" label="mixed materials" type="box">3</container>
-        </did>
-        <c id="8e3450bbfb65477090dc70040bdbdd7a" level="file">
-          <did>
-            <unittitle>Brookhaven Experiments &amp; Photos</unittitle>
-            <unitdate>1971 September-October</unitdate>
-            <container id="06b9446c6f0871c4cca2d4e5563b42e9" label="mixed materials [163121.3.318]" type="box">3</container>
-          </did>
-        </c>
-        <c id="96c6505862f4465381f2c012d85b8553" level="file">
-          <did>
-            <unitdate>1971 December-1972 January</unitdate>
-            <container id="d1f0af705ebef324af466cf60af7649d" label="mixed materials [163121.3.318]" type="box">3</container>
-            <container id="3367110d10fd4c85a3d22471485e4348" parent="d1f0af705ebef324af466cf60af7649d" type="folder">XIX</container>
-          </did>
-        </c>
-        <c id="ef89210a78294878a0813abc7d897df3" level="file">
-          <did>
-            <unitdate>1972 February</unitdate>
-            <container id="353d3233d5d8dd689becd7275ced5570" label="mixed materials [163121.3.318]" type="box">3</container>
-            <container id="5ffc6319a1a25bef47cb733da10c7287" parent="353d3233d5d8dd689becd7275ced5570" type="folder">XX</container>
-          </did>
-        </c>
-      </c>
-      <c id="505d0a47bfcd4c4cba1d8abbfbf0e683" level="file">
-        <did>
-          <unittitle>Glass Slides</unittitle>
-        </did>
-        <c id="3fd2995977e347c49d5a8c371dc2cfb9" level="file">
-          <did>
-            <unitdate normal="1951/1952" type="inclusive">1951-1952</unitdate>
-            <container id="a3518fb8458f104d1c036ee613b8b63f" label="mixed materials [163125.4.318]" type="box">4</container>
-          </did>
-        </c>
-        <c id="caeab4da4a1d44a98604daf9f85c822f" level="file">
-          <did>
-            <unitdate normal="1952/1953" type="inclusive">1952-1953</unitdate>
-            <container id="0cd74a2fd11c78305346cb72af5ab0ea" label="mixed materials [163125.5.318]" type="box">5</container>
-          </did>
-        </c>
-        <c id="ee5671fd971645a991816ccc7697a92a" level="file">
-          <did>
-            <unitdate normal="1953/1954" type="inclusive">1953-1954</unitdate>
-            <container id="ebf18aaa9ad59955d7cd001bde486ced" label="mixed materials [163125.6.318]" type="box">6</container>
-          </did>
-        </c>
-      </c>
-    </dsc>
-  </archdesc>
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="under_revision" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid>FA187.xml</eadid><filedesc><titlestmt><titleproper type="filing">Palade (George E.) papers</titleproper><titleproper>A Guide to the George E. Palade papers, Rockefeller University Faculty
+ <num>FA187</num></titleproper><author>LRH, BJG</author></titlestmt><publicationstmt><publisher>Rockefeller Archive Center</publisher><p><date>1988, 1989</date></p><address><addressline>15 Dayton Avenue</addressline><addressline>Sleepy Hollow 10591</addressline><addressline>archive@rockarch.org</addressline><addressline>URL: <extptr xlink:href="http://www.rockarch.org" xlink:show="new" xlink:title="http://www.rockarch.org" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2019-03-14 00:27:17 -0400</date>.</creation></profiledesc><revisiondesc><change><date>2010 September 24</date><item>Paper finding aid converted to EAD/XML by AureXus in 2010. Imported into the Archvists’ Toolkit by Becky Robbins.</item></change></revisiondesc></eadheader><archdesc level="collection">
+  <did>
+    <langmaterial>
+      <language langcode="eng">English</language>
+    </langmaterial>
+    <repository>
+      <corpname>Rockefeller Archive Center</corpname>
+    </repository>
+    <unittitle>George E. Palade papers, Rockefeller University Faculty</unittitle>
+    <origination label="creator">
+      <persname role="aut" source="naf">Palade, G. E.</persname>
+    </origination>
+    <unitid>FA187</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">4.6 Cubic Feet</extent>
+    </physdesc>
+    <unitdate normal="1951/1972" type="inclusive">1951-1972</unitdate>
+  </did>
+  <processinfo id="dfca2b0c4d485baf0bc4d83fb2468bed">
+    <head>Processing Information</head>
+<p>Processed by: LRH (1988 January 7); BJG (1988 April 25, 1989 February 7)</p>  </processinfo>
+  <bioghist id="5674760b3e2c7591d8bb7688aff58c3a">
+    <head>Biographical/Historical note</head>
+<p>George Emil Palade (1912-1977), a cell biologist, was affiliated with RIMR (from 1946) as a visiting investigator and later as a professor of cell biology. Professor Palade was a recipient of the Albert Lasker Basic Research Award (1966), the Horowitz Prize (1970) and the Nobel Prize (1974).</p><p>Alan Tartakoff was a member of Palade's laboratory from 1967 to 1972. His laboratory notebooks were added to Palade's collection as a representative sample of the kind of work being done in the laboratory.</p>  </bioghist>
+  <scopecontent id="32d94326444b7deb7999d810cc941719">
+    <head>Scope and Contents note</head>
+<p>Includes correspondence and laboratory notebooks of Alan Tartakoff; dated and labeled glass slides from Palade's laboratory; and lecture notes and memoranda related to two courses on cell biology organized by George Palade at the Rockefeller University for which guest lecturers were invited.</p><p>Correspondents include Allen E. Blaurock, Britton Chance, J. B. Chappell, and Efraim Racker.</p>  </scopecontent>
+  <arrangement id="4ad0b549a9f43b2fb3a07d84ffa7e3b1">
+    <head>Arrangement note</head>
+<p>Arranged by subject, then in chronological order.</p>  </arrangement>
+  <fileplan id="e57c9f03c97f2d149adf42d5bcfc8242">
+    <head>File Plan note</head>
+<p>Former Classification: I 450 P171</p>  </fileplan>
+  <prefercite id="1b73ab84215a6ca91bcb1a531a0017e8">
+    <head>Preferred Citation</head>
+<p>Information regarding the Rockefeller Archive Center's preferred elements and forms of citation can be found at <extref href="http://www.rockarch.org/research/citations.php">http://www.rockarch.org/research/citations.php</extref></p>  </prefercite>
+  <accessrestrict id="6992cd71d1c7cf66e4bed50fb782346e">
+    <head>Conditions Governing Access note</head>
+<p>Access to this collection is restricted pending permission from Rockefeller University.</p>  </accessrestrict>
+  <controlaccess>
+    <subject source="lcsh">Biology -- Research</subject>
+    <subject source="lcsh">Cell and biomolecular sciences</subject>
+    <subject source="lcsh">Biochemistry</subject>
+    <subject source="lcsh">Physiology</subject>
+    <subject source="lcsh">Life sciences</subject>
+    <subject source="lcsh">Medical education</subject>
+    <subject source="lcsh">Medical research</subject>
+    <subject source="lcsh">Medical sciences</subject>
+    <persname role="ctb" source="naf">Tartakoff, Alan Michael</persname>
+    <corpname role="ctb" source="naf">Rockefeller Institute for Medical Research</corpname>
+    <corpname role="ctb" source="naf">Rockefeller University</corpname>
+  </controlaccess>
+  <dsc><c id="c19e996a9c2b4cc1ad0b26cd29cb83c1" level="file"><did><unittitle>Cell Biology Course on Mitochondria</unittitle><unitdate normal="1968/1968" type="inclusive">1968</unitdate><container id="1277936ddf104c190df00c99737f41fd" label="mixed materials" type="box">1</container><container id="f3b3acd8612b9e0b9749d6cbac6055f9" parent="1277936ddf104c190df00c99737f41fd" type="folder">1</container></did></c><c id="064ca39d3f7a407f8cc01aaab179b5d1" level="file"><did><unittitle>Course on Biological Membranes</unittitle><unitdate normal="1970/1970" type="inclusive">1970</unitdate><container id="cebd6cbd9413f16ee6dc872bfe70925a" label="mixed materials" type="box">1</container><container id="ffb9a909fc10cc6e01d8b267e9a6b9ee" parent="cebd6cbd9413f16ee6dc872bfe70925a" type="folder">2</container></did></c><c id="a08c67a6e4c7463ba9da1604a23ab07e" level="file"><did><unittitle>Alan Tartakoff Laboratory Notebooks</unittitle><unitdate normal="1967/1971" type="inclusive">1967-1971</unitdate></did><c id="847cc5e7b9af477faed683238d4c9df6" level="file"><did><unitdate>1967 March-May</unitdate><container id="bc66b88973268c9affc1feb3ffcfd570" label="mixed materials [163104.2.318]" type="box">2</container><container id="2aa7ae82dc17c2bcdcae9c6c22e7c1d0" parent="bc66b88973268c9affc1feb3ffcfd570" type="folder">I</container></did></c><c id="49bc2045bc194db5b7047d622babb1c6" level="file"><did><unitdate>1967 May-August</unitdate><container id="475cc7e54fe7c936df867f33115040d5" label="mixed materials [163104.2.318]" type="box">2</container><container id="7f6c0f6ac7c0625624228033597c017c" parent="475cc7e54fe7c936df867f33115040d5" type="folder">II</container></did></c><c id="cd7bcb50a7804ab2a00e3c5b07227088" level="file"><did><unitdate>1967 September-November</unitdate><container id="10ef4fa4f7d2c68d9c1f32aaa5eb3961" label="mixed materials [163104.2.318]" type="box">2</container><container id="32f0300085c6f857183137e703ef39a9" parent="10ef4fa4f7d2c68d9c1f32aaa5eb3961" type="folder">III</container></did></c><c id="f9b761b6e58244728b2510858246f726" level="file"><did><unitdate>1967 December-1968 May</unitdate><container id="ea1d9cc4f0391de0fa961032be6bc298" label="mixed materials [163104.2.318]" type="box">2</container><container id="9e16c2ae4a1b35425b46efcb15be789e" parent="ea1d9cc4f0391de0fa961032be6bc298" type="folder">IV</container></did><scopecontent id="ea2155b2032c350393572ca29ccfd899"><head>Scope and Contents note</head><p>Includes photos.</p></scopecontent></c><c id="ccfadeefd7074ecaa0862eafcdcba6cf" level="file"><did><unitdate>1968 May-November</unitdate><container id="1ea288311c0811e05f19f84f4ff2958d" label="mixed materials [163104.2.318]" type="box">2</container><container id="cc4de78c6c43f926c3b70b5d636b6eed" parent="1ea288311c0811e05f19f84f4ff2958d" type="folder">V</container></did><scopecontent id="5bf6c675c884d40c280efa6bb32f81d1"><head>Scope and Contents note</head><p>Includes photos.</p></scopecontent></c><c id="dde155ce904548abb74c7542d05ccf9f" level="file"><did><unitdate>1968 November-1969 February</unitdate><container id="8abe299af23a2e3a3bd544ea9780f237" label="mixed materials [163104.2.318]" type="box">2</container><container id="5269d4b53c0980884d7fa3492bfc098b" parent="8abe299af23a2e3a3bd544ea9780f237" type="folder">VI</container></did><scopecontent id="c1941c65f5fc19fbc8b28f640b86da77"><head>Scope and Contents note</head><p>Includes photos.</p></scopecontent></c><c id="14cf6445a6eb4a7a97f58226be2c3602" level="file"><did><unitdate>1969 February-May</unitdate><container id="4fe90c949243cfc46a70974afdeeae8a" label="mixed materials [163104.2.318]" type="box">2</container><container id="c92d7c8470dd2c97004ab5922da50153" parent="4fe90c949243cfc46a70974afdeeae8a" type="folder">VII</container></did><scopecontent id="fda95313ade2c4472d5d830c154ae2fe"><head>Scope and Contents note</head><p>Includes photos.</p></scopecontent></c><c id="85e12207ef814fd1a83208f09756131b" level="file"><did><unitdate>1969 May-September</unitdate><container id="449a94f09a0f10923f47041103b83ad5" label="mixed materials [163104.2.318]" type="box">2</container><container id="c3ccb1f122cdcf7c421e43b997e5cfc3" parent="449a94f09a0f10923f47041103b83ad5" type="folder">VIII</container></did><scopecontent id="8b3aee9aee59141a00259b5176bb3847"><head>Scope and Contents note</head><p>Includes photos.</p></scopecontent></c><c id="0e3c57ff5e1648219275274e9f3da005" level="file"><did><unitdate>1969 October-December</unitdate><container id="d9cb2ac51421b6747a1806c72ad1dafc" label="mixed materials [163104.2.318]" type="box">2</container><container id="8cf98677e54f28b734098811cb4f49fd" parent="d9cb2ac51421b6747a1806c72ad1dafc" type="folder">IX</container></did></c><c id="3d41737bbddb464a8e33f53408f04e3c" level="file"><did><unitdate>1970 January-February</unitdate><container id="141b02afc8fbbef1db1c714e9648da43" label="mixed materials [163104.2.318]" type="box">2</container><container id="120c840ab016dfda9dd7a06197d14bed" parent="141b02afc8fbbef1db1c714e9648da43" type="folder">X</container></did></c><c id="f785df033bd347ddb6d3c46fc5abccaf" level="file"><did><unitdate>1970 April</unitdate><container id="6be755c5e329b3ecce9e681d9c0bd982" label="mixed materials [163104.2.318]" type="box">2</container></did><scopecontent id="16d1e554c93941d9a3ef721b31a4200a"><head>Scope and Contents</head><p>Includes photos.</p></scopecontent></c><c id="d44e06acdc704385b5a067cc9c8b9f00" level="file"><did><unitdate>1970 July-October</unitdate><container id="7da65611528ef1d74497094ba8051f7e" label="mixed materials [163104.2.318]" type="box">2</container><container id="c7947b7d4966a1ee33811f5bccc3d084" parent="7da65611528ef1d74497094ba8051f7e" type="folder">XIII</container></did></c><c id="eef6c81dfc424c909a78fff41a0fecaf" level="file"><did><unitdate>1970 December-1971 January</unitdate><container id="4e9ba34dfb8b12efc31549d9bbeedb64" label="mixed materials [163104.2.318]" type="box">2</container><container id="404f061c03a169de02984bc057f65cad" parent="4e9ba34dfb8b12efc31549d9bbeedb64" type="folder">XV</container></did></c><c id="06635d87195949c9893f3c36466fc1c6" level="file"><did><unitdate>1971 January-February</unitdate><container id="0ad62dc04e3c35268e1909ed80617355" label="mixed materials [163104.2.318]" type="box">2</container><container id="d2111fc72d05eaa0bb80aa1802eb2574" parent="0ad62dc04e3c35268e1909ed80617355" type="folder">XVI</container></did></c><c id="41503510db8e430f9c3803ae64189800" level="file"><did><unitdate>1971 March-April</unitdate><container id="95cda846a9f6de4fb83ae2921dd70b02" label="mixed materials [163104.2.318]" type="box">2</container><container id="ed4aa5e82ea3a956ba5b4dbf3e923768" parent="95cda846a9f6de4fb83ae2921dd70b02" type="folder">XVII</container></did></c><c id="b51af452c2b4469fa31ba69c8d2acc57" level="file"><did><unitdate>1971 April-August</unitdate><physdesc id="fc9cce2f97a6cebc787ce3e1b88e8198">(black binder)</physdesc><container id="96a38d5a177a2cb5db65c96d0ef9e038" label="mixed materials [163104.2.318]" type="box">2</container><container id="be8741ab8c0ceaa506fac7a3910fc628" parent="96a38d5a177a2cb5db65c96d0ef9e038" type="folder">XVIII</container></did></c></c><c id="624104ec494745f8b1af938ec8350466" level="file"><did><unittitle>Alan Tartakoff Laboratory Notebooks</unittitle><unitdate normal="1971/1972" type="inclusive">1971-1972</unitdate><container id="cf94f2b8dbc22b6dc9fa57f58a56eae8" label="mixed materials" type="box">3</container></did><c id="8e3450bbfb65477090dc70040bdbdd7a" level="file"><did><unittitle>Brookhaven Experiments &amp; Photos</unittitle><unitdate>1971 September-October</unitdate><container id="627556c66bb8dc5881e422fba5d92fc9" label="mixed materials [163121.3.318]" type="box">3</container></did></c><c id="96c6505862f4465381f2c012d85b8553" level="file"><did><unitdate>1971 December-1972 January</unitdate><container id="3e14a733c57ea96351eaba8120fa346e" label="mixed materials [163121.3.318]" type="box">3</container><container id="be5290560d84cc87ff98bbb84af93391" parent="3e14a733c57ea96351eaba8120fa346e" type="folder">XIX</container></did></c><c id="ef89210a78294878a0813abc7d897df3" level="file"><did><unitdate>1972 February</unitdate><container id="b5d1775cdd1c778af6b11d305899d9b3" label="mixed materials [163121.3.318]" type="box">3</container><container id="83d1fd9d8fdf805a6ccf7f0d186cfb60" parent="b5d1775cdd1c778af6b11d305899d9b3" type="folder">XX</container></did></c></c><c id="505d0a47bfcd4c4cba1d8abbfbf0e683" level="file"><did><unittitle>Glass Slides</unittitle></did><c id="3fd2995977e347c49d5a8c371dc2cfb9" level="file"><did><unitdate normal="1951/1952" type="inclusive">1951-1952</unitdate><container id="86b219ca09f60b4bbb3522fc7c4fff45" label="mixed materials [163125.4.318]" type="box">4</container></did></c><c id="caeab4da4a1d44a98604daf9f85c822f" level="file"><did><unitdate normal="1952/1953" type="inclusive">1952-1953</unitdate><container id="816492040f15c7e284a3319996bf6c6e" label="mixed materials [163125.5.318]" type="box">5</container></did></c><c id="ee5671fd971645a991816ccc7697a92a" level="file"><did><unitdate normal="1953/1954" type="inclusive">1953-1954</unitdate><container id="3ceee9458d156aa73a52ffc5edc2b244" label="mixed materials [163125.6.318]" type="box">6</container></did></c></c></dsc>
+</archdesc>
 </ead>

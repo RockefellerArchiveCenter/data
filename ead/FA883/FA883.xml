@@ -1,142 +1,61 @@
-<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
-  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="under_revision" langencoding="iso639-2b" repositoryencoding="iso15511">
-    <eadid>FA883.xml</eadid>
-    <filedesc>
-      <titlestmt>
-        <titleproper type="filing">Rockefeller University records, Special Events and Activities, Alfred E. Mirsky collection, Exhibits</titleproper>
-        <titleproper>A Guide to the Rockefeller University records, Special Events and Activities, Alfred E. Mirsky collection, Exhibits
- <num>FA883</num></titleproper>
-      </titlestmt>
-      <publicationstmt>
-        <publisher>Rockefeller Archive Center</publisher>
-        <address>
-          <addressline>15 Dayton Avenue</addressline>
-          <addressline>Sleepy Hollow 10591</addressline>
-          <addressline>archive@rockarch.org</addressline>
-          <addressline>URL: <extptr xlink:href="http://www.rockarch.org" xlink:show="new" xlink:title="http://www.rockarch.org" xlink:type="simple"/></addressline>
-        </address>
-      </publicationstmt>
-    </filedesc>
-    <profiledesc>
-      <creation>This finding aid was produced using ArchivesSpace on <date>2017-03-02 14:28:42 -0500</date>.</creation>
-    </profiledesc>
-    <revisiondesc>
-      <date>2010 August 19</date>
-      <item>Paper finding aid converted to EAD/XML by AureXus in 2010. Imported into the Archvists’ Toolkit by Becky Robbins.</item>
-    </revisiondesc>
-  </eadheader>
-  <archdesc level="collection">
-    <did>
-      <langmaterial>
-        <language langcode="eng">English</language>
-      </langmaterial>
-      <repository>
-        <corpname>Rockefeller Archive Center</corpname>
-      </repository>
-      <unittitle>Rockefeller University records, Special Events and Activities, Alfred E. Mirsky collection, Exhibits</unittitle>
-      <origination label="creator">
-        <corpname role="ctb" source="lcnaf">Rockefeller Institute for Medical Research</corpname>
-      </origination>
-      <origination label="creator">
-        <corpname role="aut" source="lcnaf">Rockefeller University</corpname>
-      </origination>
-      <unitid>FA883</unitid>
-      <physdesc altrender="whole">
-        <extent altrender="materialtype spaceoccupied">0.44 Cubic Feet</extent>
-        <extent altrender="carrier">1 box</extent>
-      </physdesc>
-      <unitdate normal="1979/1986" type="inclusive">1979, 1985-1986</unitdate>
-      <physdesc id="f604f910d2efd8c2a150c7b5b777078c">
-        <extent>1 box.</extent>
-      </physdesc>
-    </did>
-    <custodhist id="0939b48d7ded4862b44039fe6713cf71">
-      <head>Custodial History</head>
-      <p>In June 1979 the first exhibit of Chinese ceramics went on view.</p>
-    </custodhist>
-    <acqinfo id="84f5d774010c4bff9367b511ca044365">
-      <head>Immediate Source of Acquisition</head>
-      <p>In 1979 this collection was deposited in The University archive.</p>
-    </acqinfo>
-    <prefercite id="c233d7f6d561e7d348a13d92c42d8a08">
-      <head>Preferred Citation note</head>
-      <p>Information regarding the Rockefeller Archive Center's preferred elements and forms of citation can be found at <extref href="http://www.rockarch.org/research/citations.php">http://www.rockarch.org/research/citations.php</extref></p>
-    </prefercite>
-    <fileplan id="5dd7ec4cd971843a75397bbb67d2f548">
-      <head>File Plan note</head>
-      <p>Former Classification: I 600-12</p>
-    </fileplan>
-    <accessrestrict id="0ee812ebd0e425cc3f787dffb8c2f099">
-      <head>Conditions Governing Access</head>
-      <p>Collection is open for research. Brittle or damaged items are available at the discretion of RAC.</p>
-    </accessrestrict>
-    <scopecontent id="3ad75ebbd256afc3b72617ab04447060">
-      <head>Scope and Contents</head>
-      <p>Primarily contains catalogues and photographs.</p>
-    </scopecontent>
-    <arrangement id="9df98e3d28fc3078e201bc7678bcc617">
-      <head>Arrangement</head>
-      <p>Loosely chronological.</p>
-    </arrangement>
-    <controlaccess>
-      <subject source="lcsh">Vivisection</subject>
-      <subject source="lcsh">Medicine, Preventive</subject>
-      <subject source="lcsh">Genetics</subject>
-      <subject source="lcsh">Medical sciences</subject>
-      <subject source="lcsh">Biology -- Research</subject>
-      <subject source="lcsh">Medical research</subject>
-      <subject source="lcsh">Medical care</subject>
-      <subject source="lcsh">DNA</subject>
-      <subject source="lcsh">Cell and biomolecular sciences</subject>
-      <geogname source="lcsh">China</geogname>
-    </controlaccess>
-    <dsc>
-      <c id="7833cd6f00414204aefb5925934b9d34" level="file">
-        <did>
-          <unittitle>Catalog and photographs</unittitle>
-          <unitdate>1979 June</unitdate>
-          <container id="044cd33b57a9da0708c112934454d545" label="mixed materials" type="box">1</container>
-          <container id="a0e677c0d636854b02ad4a99a57a0066" parent="044cd33b57a9da0708c112934454d545" type="folder">1</container>
-        </did>
-      </c>
-      <c id="621b52a473624f349c5122472ad5bccc" level="file">
-        <did>
-          <unittitle>News and Notes, v. 10, no. 8</unittitle>
-          <unitdate>1979 June</unitdate>
-          <container id="177636fd5411b1f164b1e988579d6187" label="mixed materials" type="box">1</container>
-          <container id="e0e4cf22f164bcb2864894b3460a7ab1" parent="177636fd5411b1f164b1e988579d6187" type="folder">1</container>
-        </did>
-      </c>
-      <c id="ce3dd159961241b5bf9e3a0cf25489bf" level="file">
-        <did>
-          <unittitle>"A View to the East. Selections of Asian Art from The Alfred E. Mirsky Collection". Cynthia Bronson Altman, Art Curator</unittitle>
-          <unitdate>1985 May</unitdate>
-          <container id="73b226371768b090d34cc90aedb399cb" label="mixed materials" type="box">1</container>
-          <container id="339007440f0e47fd55ab5f18b8bb3ff0" parent="73b226371768b090d34cc90aedb399cb" type="folder">2</container>
-        </did>
-      </c>
-      <c id="2d72e76cbda74f2bab2cad2e397ed512" level="file">
-        <did>
-          <unittitle>Catalog</unittitle>
-          <container id="dd3d9fb5e9c35c277602bc54fcf7e758" label="mixed materials" type="box">1</container>
-          <container id="6c085f92268ff160e1c1f2b2fda27b05" parent="dd3d9fb5e9c35c277602bc54fcf7e758" type="folder">2</container>
-        </did>
-      </c>
-      <c id="e67f55aa89cc4e0cb58bfd1ba15c5c4b" level="file">
-        <did>
-          <unittitle>"The Art of Ancient Greece. Selections from The Alfred E. Mirsky Collection". Cynthia Bronson Altman, Art Curator, The Rockefeller University</unittitle>
-          <unitdate>1986 January</unitdate>
-          <container id="47ffb93dd3fdc0994db8e516be1f39fd" label="mixed materials" type="box">1</container>
-          <container id="21e2e0272dd047f3f19fc45744abc604" parent="47ffb93dd3fdc0994db8e516be1f39fd" type="folder">3</container>
-        </did>
-      </c>
-      <c id="2ea176c259af446e80d131a505fb6266" level="file">
-        <did>
-          <unittitle>Catalog</unittitle>
-          <container id="68c9f84133c5f6461562260dbe2d3075" label="mixed materials" type="box">1</container>
-          <container id="0c63aeb25a7f1095afedd6d4c916b364" parent="68c9f84133c5f6461562260dbe2d3075" type="folder">3</container>
-        </did>
-      </c>
-    </dsc>
-  </archdesc>
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="under_revision" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid>FA883.xml</eadid><filedesc><titlestmt><titleproper type="filing">Rockefeller University records, Special Events and Activities, Alfred E. Mirsky collection, Exhibits</titleproper><titleproper>A Guide to the Rockefeller University records, Special Events and Activities, Alfred E. Mirsky collection, Exhibits
+ <num>FA883</num></titleproper></titlestmt><publicationstmt><publisher>Rockefeller Archive Center</publisher><address><addressline>15 Dayton Avenue</addressline><addressline>Sleepy Hollow 10591</addressline><addressline>archive@rockarch.org</addressline><addressline>URL: <extptr xlink:href="http://www.rockarch.org" xlink:show="new" xlink:title="http://www.rockarch.org" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2019-03-14 02:47:44 -0400</date>.</creation></profiledesc><revisiondesc><date>2010 August 19</date><item>Paper finding aid converted to EAD/XML by AureXus in 2010. Imported into the Archvists’ Toolkit by Becky Robbins.</item></revisiondesc></eadheader><archdesc level="collection">
+  <did>
+    <langmaterial>
+      <language langcode="eng">English</language>
+    </langmaterial>
+    <repository>
+      <corpname>Rockefeller Archive Center</corpname>
+    </repository>
+    <unittitle>Rockefeller University records, Special Events and Activities, Alfred E. Mirsky collection, Exhibits</unittitle>
+    <origination label="creator">
+      <corpname role="ctb" source="naf">Rockefeller Institute for Medical Research</corpname>
+    </origination>
+    <origination label="creator">
+      <corpname role="aut" source="naf">Rockefeller University</corpname>
+    </origination>
+    <unitid>FA883</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">0.44 Cubic Feet</extent>
+      <extent altrender="carrier">1 box</extent>
+    </physdesc>
+    <unitdate normal="1979/1986" type="inclusive">1979, 1985-1986</unitdate>
+    <physdesc id="f604f910d2efd8c2a150c7b5b777078c"><extent>1 box.</extent></physdesc>
+  </did>
+  <custodhist id="0939b48d7ded4862b44039fe6713cf71">
+    <head>Custodial History</head>
+<p>In June 1979 the first exhibit of Chinese ceramics went on view.</p>  </custodhist>
+  <acqinfo id="84f5d774010c4bff9367b511ca044365">
+    <head>Immediate Source of Acquisition</head>
+<p>In 1979 this collection was deposited in The University archive.</p>  </acqinfo>
+  <prefercite id="c233d7f6d561e7d348a13d92c42d8a08">
+    <head>Preferred Citation note</head>
+<p>Information regarding the Rockefeller Archive Center's preferred elements and forms of citation can be found at <extref href="http://www.rockarch.org/research/citations.php">http://www.rockarch.org/research/citations.php</extref></p>  </prefercite>
+  <fileplan id="5dd7ec4cd971843a75397bbb67d2f548">
+    <head>File Plan note</head>
+<p>Former Classification: I 600-12</p>  </fileplan>
+  <accessrestrict id="0ee812ebd0e425cc3f787dffb8c2f099">
+    <head>Conditions Governing Access</head>
+<p>Collection is open for research. Brittle or damaged items are available at the discretion of RAC.</p>  </accessrestrict>
+  <scopecontent id="3ad75ebbd256afc3b72617ab04447060">
+    <head>Scope and Contents</head>
+<p>Primarily contains catalogues and photographs.</p>  </scopecontent>
+  <arrangement id="9df98e3d28fc3078e201bc7678bcc617">
+    <head>Arrangement</head>
+<p>Loosely chronological.</p>  </arrangement>
+  <controlaccess>
+    <subject source="lcsh">Vivisection</subject>
+    <subject source="lcsh">Medicine, Preventive</subject>
+    <subject source="lcsh">Genetics</subject>
+    <subject source="lcsh">Medical sciences</subject>
+    <subject source="lcsh">Biology -- Research</subject>
+    <subject source="lcsh">Medical research</subject>
+    <subject source="lcsh">Medical care</subject>
+    <subject source="lcsh">DNA</subject>
+    <subject source="lcsh">Cell and biomolecular sciences</subject>
+    <geogname source="lcsh">China</geogname>
+  </controlaccess>
+  <dsc><c id="7833cd6f00414204aefb5925934b9d34" level="file"><did><unittitle>Catalog and photographs</unittitle><unitdate>1979 June</unitdate><container id="8b4763467af1bd79f8e467087f227422" label="mixed materials" type="box">1</container><container id="2f9de6d306c1b2b1b4fe872207757251" parent="8b4763467af1bd79f8e467087f227422" type="folder">1</container></did></c><c id="621b52a473624f349c5122472ad5bccc" level="file"><did><unittitle>News and Notes, v. 10, no. 8</unittitle><unitdate>1979 June</unitdate><container id="98368461e3458b338c95cf71fb124226" label="mixed materials" type="box">1</container><container id="463802b8698470e7978f0a948b10df30" parent="98368461e3458b338c95cf71fb124226" type="folder">1</container></did></c><c id="ce3dd159961241b5bf9e3a0cf25489bf" level="file"><did><unittitle>"A View to the East. Selections of Asian Art from The Alfred E. Mirsky Collection". Cynthia Bronson Altman, Art Curator</unittitle><unitdate>1985 May</unitdate><container id="6ebef5da286bd4af507e2b4ddbb78ea8" label="mixed materials" type="box">1</container><container id="71d3ac01c3a404ed9bf1d74c844ccca3" parent="6ebef5da286bd4af507e2b4ddbb78ea8" type="folder">2</container></did></c><c id="2d72e76cbda74f2bab2cad2e397ed512" level="file"><did><unittitle>Catalog</unittitle><container id="ed51e16b9652c7aa3a5425360dbada2b" label="mixed materials" type="box">1</container><container id="023b0fa4d82819c31f50e5a4af0f18b9" parent="ed51e16b9652c7aa3a5425360dbada2b" type="folder">2</container></did></c><c id="e67f55aa89cc4e0cb58bfd1ba15c5c4b" level="file"><did><unittitle>"The Art of Ancient Greece. Selections from The Alfred E. Mirsky Collection". Cynthia Bronson Altman, Art Curator, The Rockefeller University</unittitle><unitdate>1986 January</unitdate><container id="26c932921d5abd9ec7b22a2f4df29479" label="mixed materials" type="box">1</container><container id="bba417147b8ec6b2d9e54923e4c1f0d2" parent="26c932921d5abd9ec7b22a2f4df29479" type="folder">3</container></did></c><c id="2ea176c259af446e80d131a505fb6266" level="file"><did><unittitle>Catalog</unittitle><container id="10b064455b34d134708482af7c89f3a6" label="mixed materials" type="box">1</container><container id="82465321a7bfaa50e107c2666c1f77a4" parent="10b064455b34d134708482af7c89f3a6" type="folder">3</container></did></c></dsc>
+</archdesc>
 </ead>

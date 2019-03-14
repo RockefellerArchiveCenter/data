@@ -1,357 +1,52 @@
-<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
-  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="under_revision" langencoding="iso639-2b" repositoryencoding="iso15511">
-    <eadid>FA888.xml</eadid>
-    <filedesc>
-      <titlestmt>
-        <titleproper type="filing">Rockefeller University records, Special Events and Activities, Beckman Symposium</titleproper>
-        <titleproper>A Guide to the Rockefeller University records, Special Events and Activities, Beckman Symposium
- <num>FA888</num></titleproper>
-      </titlestmt>
-      <publicationstmt>
-        <publisher>Rockefeller Archive Center</publisher>
-        <address>
-          <addressline>15 Dayton Avenue</addressline>
-          <addressline>Sleepy Hollow 10591</addressline>
-          <addressline>archive@rockarch.org</addressline>
-          <addressline>URL: <extptr xlink:href="http://www.rockarch.org" xlink:show="new" xlink:title="http://www.rockarch.org" xlink:type="simple"/></addressline>
-        </address>
-      </publicationstmt>
-    </filedesc>
-    <profiledesc>
-      <creation>This finding aid was produced using ArchivesSpace on <date>2018-06-19 00:08:24 -0400</date>.</creation>
-    </profiledesc>
-    <revisiondesc>
-      <date>2010 August 19</date>
-      <item>Paper finding aid converted to EAD/XML by AureXus in 2010. Imported into the Archvists’ Toolkit by Becky Robbins.</item>
-    </revisiondesc>
-  </eadheader>
-  <archdesc level="collection">
-    <did>
-      <langmaterial>
-        <language langcode="eng">English</language>
-      </langmaterial>
-      <repository>
-        <corpname>Rockefeller Archive Center</corpname>
-      </repository>
-      <unittitle>Rockefeller University records, Special Events and Activities, Beckman Symposium</unittitle>
-      <origination label="creator">
-        <corpname role="aut" source="naf">Rockefeller University</corpname>
-      </origination>
-      <unitid>FA888</unitid>
-      <physdesc altrender="whole">
-        <extent altrender="materialtype spaceoccupied">0.88 Cubic Feet</extent>
-        <extent altrender="carrier">2 document boxes</extent>
-      </physdesc>
-      <unitdate normal="1984/1987" type="inclusive">1984-1987</unitdate>
-      <physdesc id="6946a299f0af55305def0fb8d907f078">
-        <extent>2 boxes.</extent>
-      </physdesc>
-    </did>
-    <prefercite id="15404ecefe6293cb0443393dae32bd7f">
-      <head>Preferred Citation note</head>
-      <p>Information regarding the Rockefeller Archive Center's preferred elements and forms of citation can be found at <extref href="http://www.rockarch.org/research/citations.php">http://www.rockarch.org/research/citations.php</extref></p>
-    </prefercite>
-    <accessrestrict id="b0649f8e623fa61be02a079d7197b441">
-      <head>Conditions Governing Access</head>
-      <p>Open for research with select materials restricted as noted. Brittle or damaged items are available at the discretion of RAC. Researchers interested in accessing digital media (floppy disks, CDs, DVDs, etc.) in this collection must use an access surrogate. The original items may not be accessed because of preservation concerns. To request an access surrogate be made, or if you are unsure if there is an access surrogate, please contact an archivist.</p>
-      <p>When requesting to view audiovisual material, please refer to the Title and the AV Number (example: AV 1916). Researchers are asked to check the "Restrictions" note for each Title. If a Title does not currently have an access copy, please contact a RAC archivist for further instruction.</p>
-    </accessrestrict>
-    <fileplan id="5276a017969fc7825de559cb9f5db933">
-      <head>File Plan note</head>
-      <p>Former Classification: I 600-18</p>
-    </fileplan>
-    <bioghist id="d5bf875a0d9a1d14f69b71f790f171b6">
-      <head>Biographical/Historical note</head>
-      <p>The Beckman Symposium on Biomedical Instrumentation was held on April 12, 1985 at The Rockefeller University in New York City. It was held in celebration of the fiftieth anniversary of the founding of Beckman Instruments, Inc.; the eighty-fifth birthday of Arnold O. Beckman; and in conjunction with the seventy-fifth anniversary of the founding of The Rockefeller University Hospital. Participants in the symposium include: Joshua Lederberg, Arnold Thackray &amp; Jeffrey L. Sturchio, Paul F. Cranefield, Vincent P. Dole, Manuel Gordon, Howard K. Schachman, Koji Nakanishi, C.H.W. Hirs, Bruce Merrifield, and Charles Coulter. A book was published in 1986, which included the proceedings of the symposium. It was edited by Carol L. Moberg, who also gave the papers to the archives.</p>
-    </bioghist>
-    <scopecontent id="fa2516c89a1b2aa0a193e89953a4f111">
-      <head>Scope and Contents</head>
-      <p>Contains biographical materials, symposium materials, correspondence, memoranda, audio.</p>
-    </scopecontent>
-    <controlaccess>
-      <subject source="lcsh">Medical research</subject>
-      <subject source="lcsh">Medicine, Preventive</subject>
-      <subject source="lcsh">Biology -- Research</subject>
-      <subject source="lcsh">Vivisection</subject>
-      <subject source="lcsh">Medical sciences</subject>
-      <subject source="lcsh">Medical care</subject>
-      <subject source="lcsh">Cell and biomolecular sciences</subject>
-      <subject source="lcsh">Genetics</subject>
-      <subject source="lcsh">DNA</subject>
-      <geogname source="lcsh">China</geogname>
-    </controlaccess>
-    <dsc>
-      <c id="d179a56f655446469ac072b66d60b5d8" level="file">
-        <did>
-          <unittitle>Audio tapes</unittitle>
-          <unitdate>1985 April 12</unitdate>
-          <container altrender="Letter Document Storage Box" id="50dcf9f922fe4f57507729f55bc9b571" label="mixed materials [A0000000089677]" type="box">1</container>
-          <container id="1f0b85b6b0fea40cd954a0bd58ddc8b9" parent="50dcf9f922fe4f57507729f55bc9b571" type="folder">1</container>
-        </did>
-        <accessrestrict id="5de36b20b93bafa5aded95d9979345bc">
-          <head>Conditions Governing Access</head>
-          <p>Access copy currently unavailable. Please see a RAC archivist for further instruction.</p>
-        </accessrestrict>
-      </c>
-      <c id="c3d36e0329174d45834eb482de0e4717" level="file">
-        <did>
-          <unittitle>Biographical Material on Participants, including A. Beckman</unittitle>
-          <container altrender="Letter Document Storage Box" id="6a7af9725b442e3cb9968ace738f78d4" label="mixed materials [A0000000089677]" type="box">1</container>
-          <container id="3832e03924a8beb5e5c3eca69c391b87" parent="6a7af9725b442e3cb9968ace738f78d4" type="folder">2</container>
-        </did>
-      </c>
-      <c id="5d017c6ea5c64bb08ff747f5c1f91678" level="file">
-        <did>
-          <unittitle>Computer Disks of Symposium Proceedings</unittitle>
-          <container altrender="Letter Document Storage Box" id="e690b264a0bb6a255db4d69c2abd757e" label="mixed materials [A0000000089677]" type="box">1</container>
-          <container id="49788cb57b06b984da6b64eb87b098f1" parent="e690b264a0bb6a255db4d69c2abd757e" type="folder">3</container>
-        </did>
-        <accessrestrict id="9a5a4ae5fbecb9db6b599d6cd5e3db77">
-          <head>Conditions Governing Access</head>
-          <p>RAC is unable to provide access to obsolete media. When feasible, a digital surrogate may be created via special order. All applicable charges will apply. See RAC Head of Archival Services or RAC Head of Digital Programs for details.</p>
-        </accessrestrict>
-      </c>
-      <c id="a8f5b11cf052485f92aa9e62d372b909" level="file">
-        <did>
-          <unittitle>Copyright Registration and Author Agreements</unittitle>
-          <unitdate normal="1985/1987" type="inclusive">1985-1987</unitdate>
-          <container altrender="Letter Document Storage Box" id="e7b5da486b95000fce98e4600e039ce2" label="mixed materials [A0000000089677]" type="box">1</container>
-          <container id="1b8fc8f993826d4b921bc99248957958" parent="e7b5da486b95000fce98e4600e039ce2" type="folder">4</container>
-        </did>
-      </c>
-      <c id="e901997d7a9a421a9a8eeea4f4f42762" level="file">
-        <did>
-          <unittitle>Correspondence (also includes drafts of speeches)</unittitle>
-        </did>
-        <c id="c7ecc38443fb470b8b2aa5e39a489cb6" level="file">
-          <did>
-            <unittitle>Coulter, Charles L.</unittitle>
-            <unitdate normal="1985/1985" type="inclusive">1985</unitdate>
-            <container altrender="Letter Document Storage Box" id="48d2e9ee9ce4f74130d2b06fb2683619" label="mixed materials [A0000000089677]" type="box">1</container>
-            <container id="799dfd9d93a75133bb674c0bce2fb0de" parent="48d2e9ee9ce4f74130d2b06fb2683619" type="folder">5</container>
-          </did>
-        </c>
-        <c id="0b175fb2a63d404a9aaf8e878526aa1b" level="file">
-          <did>
-            <unittitle>Cranefield, Paul F.</unittitle>
-            <unitdate normal="1985/1985" type="inclusive">1985</unitdate>
-            <container altrender="Letter Document Storage Box" id="48be87d0d3a00ad7d339e9f47f9df06f" label="mixed materials [A0000000089677]" type="box">1</container>
-            <container id="1849047e19e891f2eb68bf452dad8038" parent="48be87d0d3a00ad7d339e9f47f9df06f" type="folder">6</container>
-          </did>
-        </c>
-        <c id="3b1b42535e974faf94c722d8824f2d84" level="file">
-          <did>
-            <unittitle>Dole, Vincent P.</unittitle>
-            <unitdate normal="1985/1985" type="inclusive">1985</unitdate>
-            <container altrender="Letter Document Storage Box" id="70923444b96c368c655dc28adafb96c0" label="mixed materials [A0000000089677]" type="box">1</container>
-            <container id="8661bdb22550685e577b0060b0e2b622" parent="70923444b96c368c655dc28adafb96c0" type="folder">7</container>
-          </did>
-        </c>
-        <c id="a676ed6c5da74220a8843e543461a6ef" level="file">
-          <did>
-            <unittitle>Gordon, Manuel J.</unittitle>
-            <unitdate normal="1985/1985" type="inclusive">1985</unitdate>
-            <container altrender="Letter Document Storage Box" id="1919be75c6608d9c308060eeea208162" label="mixed materials [A0000000089677]" type="box">1</container>
-            <container id="5176ad76ff39e98aa80abb8641f47d38" parent="1919be75c6608d9c308060eeea208162" type="folder">8</container>
-          </did>
-        </c>
-        <c id="3ddff41fa10141cb83acc7654f34fa08" level="file">
-          <did>
-            <unittitle>Hirs, Christopher</unittitle>
-            <unitdate normal="1985/1985" type="inclusive">1985</unitdate>
-            <container altrender="Letter Document Storage Box" id="ef42ec6c1a157366b6a69a5251a75d9d" label="mixed materials [A0000000089677]" type="box">1</container>
-            <container id="75c86baf27843e8892850b3b50dfb16f" parent="ef42ec6c1a157366b6a69a5251a75d9d" type="folder">9</container>
-          </did>
-        </c>
-        <c id="f35768be90714c308e67db08389e7c7f" level="file">
-          <did>
-            <unittitle>Lederberg, Joshua</unittitle>
-            <unitdate normal="1985/1985" type="inclusive">1985</unitdate>
-            <container altrender="Letter Document Storage Box" id="ca52ed7150c0d832313b8f1d4e3b89ae" label="mixed materials [A0000000089677]" type="box">1</container>
-            <container id="cfcc65c7753847ecdd16d04489cec2b0" parent="ca52ed7150c0d832313b8f1d4e3b89ae" type="folder">10</container>
-          </did>
-        </c>
-        <c id="373f10cabd214d819f5e2675802801b8" level="file">
-          <did>
-            <unittitle>Merrifield, Bruce</unittitle>
-            <unitdate normal="1985/1985" type="inclusive">1985</unitdate>
-            <container altrender="Letter Document Storage Box" id="55b7689036b10de63170c6b72878ffba" label="mixed materials [A0000000089677]" type="box">1</container>
-            <container id="fcbfa8227778ac6c0545b9fccf533e79" parent="55b7689036b10de63170c6b72878ffba" type="folder">11</container>
-          </did>
-        </c>
-        <c id="976ae2c6642342e690e51c3e9569a10c" level="file">
-          <did>
-            <unittitle>Miscellaneous</unittitle>
-            <unitdate normal="1985/1985" type="inclusive">1985</unitdate>
-            <container altrender="Letter Document Storage Box" id="385e84b68accbc4ad992d9defe8e44b8" label="mixed materials [A0000000089677]" type="box">1</container>
-            <container id="9e30892e2bb5c1f7c965cc737c41dc71" parent="385e84b68accbc4ad992d9defe8e44b8" type="folder">12</container>
-          </did>
-        </c>
-        <c id="e6044ee96d1c4323b3ec5bdef259a7d6" level="file">
-          <did>
-            <unittitle>Nakanishi, Koji</unittitle>
-            <unitdate normal="1985/1985" type="inclusive">1985</unitdate>
-            <container altrender="Letter Document Storage Box" id="fd6cd0675e7471698d8d09575b0e3f6b" label="mixed materials [A0000000089677]" type="box">1</container>
-            <container id="ae400b811620e1617c3948ed48a69bcc" parent="fd6cd0675e7471698d8d09575b0e3f6b" type="folder">13</container>
-          </did>
-        </c>
-        <c id="77bcbfd69a114bf7a823484af5db888c" level="file">
-          <did>
-            <unittitle>Schachman, Howard K.</unittitle>
-            <unitdate normal="1985/1985" type="inclusive">1985</unitdate>
-            <container altrender="Letter Document Storage Box" id="37288517293e2acc810bc0f7b3e1b67f" label="mixed materials [A0000000089677]" type="box">1</container>
-            <container id="d0c71717e2bde82390d542faa9101314" parent="37288517293e2acc810bc0f7b3e1b67f" type="folder">14</container>
-          </did>
-        </c>
-        <c id="97e901fc20fe43388bd4e73266d8a404" level="file">
-          <did>
-            <unittitle>Thackray, Arnold</unittitle>
-            <unitdate normal="1985/1985" type="inclusive">1985</unitdate>
-            <container altrender="Letter Document Storage Box" id="c0cb5363af4c133208e2ab6122583bbb" label="mixed materials [A0000000089677]" type="box">1</container>
-            <container id="482935d2de01868598b757a00e9d4433" parent="c0cb5363af4c133208e2ab6122583bbb" type="folder">15</container>
-          </did>
-        </c>
-      </c>
-      <c id="00e4c2a5df304acd84135eb49dc10ebc" level="file">
-        <did>
-          <unittitle>Illustrations for Papers</unittitle>
-          <container altrender="Lgl Document Storage Box" id="a3640f8cf29275713b56239e519d12cd" label="mixed materials [A0000000089678]" type="box">2</container>
-          <container id="6fd1c1245fbd8e579822139ebd287a5c" parent="a3640f8cf29275713b56239e519d12cd" type="folder">1</container>
-        </did>
-      </c>
-      <c id="08188b817a164c49a553289b8487e7d7" level="file">
-        <did>
-          <unittitle>Page Proofs</unittitle>
-        </did>
-        <c id="69034bccbf69495fa226267126692edd" level="file">
-          <did>
-            <unittitle>Final</unittitle>
-            <container altrender="Lgl Document Storage Box" id="1ec107504c4a747d78c47d2493cd319d" label="mixed materials [A0000000089678]" type="box">2</container>
-            <container id="59e23799cf62017040d1cc48c2299619" parent="1ec107504c4a747d78c47d2493cd319d" type="folder">2</container>
-          </did>
-        </c>
-        <c id="1bf96a323fc14c89b0266ea0b0f61173" level="file">
-          <did>
-            <unittitle>First Set</unittitle>
-            <container altrender="Lgl Document Storage Box" id="9eb2a5a768538b9a108f60dcf7201c73" label="mixed materials [A0000000089678]" type="box">2</container>
-            <container id="281739c4d9bc7a8e20a9d920667c6595" parent="9eb2a5a768538b9a108f60dcf7201c73" type="folder">3</container>
-          </did>
-        </c>
-        <c id="db550384bc824107b40ceff7785948d0" level="file">
-          <did>
-            <unittitle>Second Set</unittitle>
-            <container altrender="Lgl Document Storage Box" id="9f797624dd4b09daf5c8ac7be584216c" label="mixed materials [A0000000089678]" type="box">2</container>
-            <container id="dd5fcf47d4bbb38fe917acca48d0d5a3" parent="9f797624dd4b09daf5c8ac7be584216c" type="folder">4</container>
-          </did>
-        </c>
-      </c>
-      <c id="0ddd541c663b46a2b5504a1807186031" level="file">
-        <did>
-          <unittitle>Transcripts of Tapes (Original)</unittitle>
-          <container altrender="Lgl Document Storage Box" id="c1ffea5671583cf81940d1de71971c85" label="mixed materials [A0000000089678]" type="box">2</container>
-          <container id="1d34acffebda973df8762ed57bb38d93" parent="c1ffea5671583cf81940d1de71971c85" type="folder">5</container>
-        </did>
-        <c id="c561a5a8c6b540c8b60b9675c48f63b9" level="file">
-          <did>
-            <unittitle>(The Beckman Symposium on Biomedical Instrumentation, edited by Carol L. Moberg, Fullerton, CA: The Rockefeller University in association with Beckman Instruments, Inc., 1986)</unittitle>
-            <unitdate normal="1986/1986" type="inclusive">1986</unitdate>
-            <physdesc id="8fc1fdeb70ada7d69e0fb2318bea6ced">2 copies</physdesc>
-          </did>
-        </c>
-      </c>
-      <c id="c4b5f0d3026a4bab8988f02532fb8f27" level="file">
-        <did>
-          <unittitle>Plenary Session - Monday morning</unittitle>
-          <container id="5e3bf193bec759de420807fb82b028b5" label="mixed materials" type="box">3</container>
-          <container id="2b101daf97ef2f3f4498856a0f209edc" parent="5e3bf193bec759de420807fb82b028b5" type="folder">7</container>
-        </did>
-      </c>
-      <c id="1c6d4c25d7284bf6b0347a467d672438" level="file">
-        <did>
-          <unittitle>Press - Directory</unittitle>
-          <container id="55f82c4458b7b2d6eff74f7d6309464c" label="mixed materials" type="box">3</container>
-          <container id="c88ca8528a83a41d09c0f8b54e61aff1" parent="55f82c4458b7b2d6eff74f7d6309464c" type="folder">8</container>
-        </did>
-      </c>
-      <c id="48a88230c57b44ba9a7e3f77abda3051" level="file">
-        <did>
-          <unittitle>Press - Invitations, Logo, Tags</unittitle>
-          <container id="4c5d77423b1576deca81109dba56bec0" label="mixed materials" type="box">3</container>
-          <container id="1f0d6f79075264ff23a94e78bed1e468" parent="4c5d77423b1576deca81109dba56bec0" type="folder">9</container>
-        </did>
-      </c>
-      <c id="e12ead951e644b3ba5b68170925833a2" level="file">
-        <did>
-          <unittitle>Press - Miscellaneous</unittitle>
-          <container id="17ef814c5c86943e22fb95edb2f9c566" label="mixed materials" type="box">3</container>
-          <container id="eb1578fbf05e4bef95d1d478b6349366" parent="17ef814c5c86943e22fb95edb2f9c566" type="folder">10</container>
-        </did>
-      </c>
-      <c id="b9f98806aa8c4d0f8c876c5e5301447e" level="file">
-        <did>
-          <unittitle>Publicity and Press</unittitle>
-          <container id="e3c8f3877cb9cc7617d80f52d2b685d6" label="mixed materials" type="box">4</container>
-          <container id="cbd358bb208edc473740153a1d33221c" parent="e3c8f3877cb9cc7617d80f52d2b685d6" type="folder">1</container>
-        </did>
-      </c>
-      <c id="edfa31e6fb0a4811959f24eb23067806" level="file">
-        <did>
-          <unittitle>RUnion Committee</unittitle>
-          <container id="83481b59e50229746075f88d3dcb02c7" label="mixed materials" type="box">4</container>
-          <container id="1d695beda2fef99d50c5e4fa0a6fbead" parent="83481b59e50229746075f88d3dcb02c7" type="folder">2</container>
-        </did>
-      </c>
-      <c id="927e7d58000149d3afa98b982d2d4bb1" level="file">
-        <did>
-          <unittitle>Samples of RU Printed Material and Letters</unittitle>
-          <container id="9e1f58ca844fdc78b2198cacc559f7e1" label="mixed materials" type="box">4</container>
-          <container id="cb01210930cf1dab2a8a6aec7605796d" parent="9e1f58ca844fdc78b2198cacc559f7e1" type="folder">3</container>
-        </did>
-      </c>
-      <c id="d25b1f12b94b429f90af1a4806696467" level="file">
-        <did>
-          <unittitle>Son's &amp; Daughter's Program</unittitle>
-          <container id="fb5c60502cba27bbd18fabbc72d9610a" label="mixed materials" type="box">4</container>
-          <container id="4ed2df1ee5636c5d74dc772f287b0f87" parent="fb5c60502cba27bbd18fabbc72d9610a" type="folder">4</container>
-        </did>
-      </c>
-      <c id="997ffd51857d4cab8a69f61b9b512905" level="file">
-        <did>
-          <unittitle>Tent, Caps, and Gowns</unittitle>
-          <container id="166540fd73fc60c44a4861d07617017b" label="mixed materials" type="box">4</container>
-          <container id="a6b81f5dbd791ce137ae023ef8ce6629" parent="166540fd73fc60c44a4861d07617017b" type="folder">5</container>
-        </did>
-      </c>
-      <c id="cf2a4f8761864f8cb0ad70eefd9963e7" level="file">
-        <did>
-          <unittitle>Working Group</unittitle>
-          <container id="8a882db9bb2a2485331133ac9a72b245" label="mixed materials" type="box">4</container>
-          <container id="11b6d227795f46be84e1e61eea57a2f1" parent="8a882db9bb2a2485331133ac9a72b245" type="folder">6</container>
-        </did>
-      </c>
-      <c id="f9a4b0fb14c44a00bf179ee611af5367" level="file">
-        <did>
-          <unittitle>Talks given by: David Rockefeller, Joshua Lederberg, Gerald Edelman, and David Baltimore</unittitle>
-          <physdesc id="607f399c7fd4db76bea074e34345149c">4 cassettes</physdesc>
-          <container id="e110294beab673ef17d74c47151b6ec2" label="mixed materials" type="box">4</container>
-        </did>
-        <accessrestrict id="40a2ae4abec172ae617fb6e5e7fa0956">
-          <head>Conditions Governing Access</head>
-          <p>Access copy currently unavailable. Please see a RAC archivist for further instruction.</p>
-        </accessrestrict>
-      </c>
-      <c id="59ce72f5d1ad4b30b4490e9daff1531f" level="file">
-        <did>
-          <unittitle>25th Anniversary Reunion and Convocation 10-12 June 1984 Edited Master (in film vault)</unittitle>
-          <unitdate>1984 June 10-12</unitdate>
-          <physdesc id="595d7719936853e0924231ed8069cbde">video</physdesc>
-          <container id="15ba5e942c8d71081bbc35ca2fad93a7" label="mixed materials" type="box">4</container>
-        </did>
-        <accessrestrict id="86db2a80017b9da5800b319b3ffc8a43">
-          <head>Conditions Governing Access</head>
-          <p>Access copy currently unavailable. Please see a RAC archivist for further instruction.</p>
-        </accessrestrict>
-      </c>
-    </dsc>
-  </archdesc>
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="under_revision" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid>FA888.xml</eadid><filedesc><titlestmt><titleproper type="filing">Rockefeller University records, Special Events and Activities, Beckman Symposium</titleproper><titleproper>A Guide to the Rockefeller University records, Special Events and Activities, Beckman Symposium
+ <num>FA888</num></titleproper></titlestmt><publicationstmt><publisher>Rockefeller Archive Center</publisher><address><addressline>15 Dayton Avenue</addressline><addressline>Sleepy Hollow 10591</addressline><addressline>archive@rockarch.org</addressline><addressline>URL: <extptr xlink:href="http://www.rockarch.org" xlink:show="new" xlink:title="http://www.rockarch.org" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2019-03-14 02:49:01 -0400</date>.</creation></profiledesc><revisiondesc><date>2010 August 19</date><item>Paper finding aid converted to EAD/XML by AureXus in 2010. Imported into the Archvists’ Toolkit by Becky Robbins.</item></revisiondesc></eadheader><archdesc level="collection">
+  <did>
+    <langmaterial>
+      <language langcode="eng">English</language>
+    </langmaterial>
+    <repository>
+      <corpname>Rockefeller Archive Center</corpname>
+    </repository>
+    <unittitle>Rockefeller University records, Special Events and Activities, Beckman Symposium</unittitle>
+    <origination label="creator">
+      <corpname role="aut" source="naf">Rockefeller University</corpname>
+    </origination>
+    <unitid>FA888</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">0.88 Cubic Feet</extent>
+      <extent altrender="carrier">2 document boxes</extent>
+    </physdesc>
+    <unitdate normal="1984/1987" type="inclusive">1984-1987</unitdate>
+    <physdesc id="6946a299f0af55305def0fb8d907f078"><extent>2 boxes.</extent></physdesc>
+  </did>
+  <prefercite id="15404ecefe6293cb0443393dae32bd7f">
+    <head>Preferred Citation note</head>
+<p>Information regarding the Rockefeller Archive Center's preferred elements and forms of citation can be found at <extref href="http://www.rockarch.org/research/citations.php">http://www.rockarch.org/research/citations.php</extref></p>  </prefercite>
+  <accessrestrict id="b0649f8e623fa61be02a079d7197b441">
+    <head>Conditions Governing Access</head>
+<p>Open for research with select materials restricted as noted. Brittle or damaged items are available at the discretion of RAC. Researchers interested in accessing digital media (floppy disks, CDs, DVDs, etc.) in this collection must use an access surrogate. The original items may not be accessed because of preservation concerns. To request an access surrogate be made, or if you are unsure if there is an access surrogate, please contact an archivist.</p><p>When requesting to view audiovisual material, please refer to the Title and the AV Number (example: AV 1916). Researchers are asked to check the "Restrictions" note for each Title. If a Title does not currently have an access copy, please contact a RAC archivist for further instruction.</p>  </accessrestrict>
+  <fileplan id="5276a017969fc7825de559cb9f5db933">
+    <head>File Plan note</head>
+<p>Former Classification: I 600-18</p>  </fileplan>
+  <bioghist id="d5bf875a0d9a1d14f69b71f790f171b6">
+    <head>Biographical/Historical note</head>
+<p>The Beckman Symposium on Biomedical Instrumentation was held on April 12, 1985 at The Rockefeller University in New York City. It was held in celebration of the fiftieth anniversary of the founding of Beckman Instruments, Inc.; the eighty-fifth birthday of Arnold O. Beckman; and in conjunction with the seventy-fifth anniversary of the founding of The Rockefeller University Hospital. Participants in the symposium include: Joshua Lederberg, Arnold Thackray &amp; Jeffrey L. Sturchio, Paul F. Cranefield, Vincent P. Dole, Manuel Gordon, Howard K. Schachman, Koji Nakanishi, C.H.W. Hirs, Bruce Merrifield, and Charles Coulter. A book was published in 1986, which included the proceedings of the symposium. It was edited by Carol L. Moberg, who also gave the papers to the archives.</p>  </bioghist>
+  <scopecontent id="fa2516c89a1b2aa0a193e89953a4f111">
+    <head>Scope and Contents</head>
+<p>Contains biographical materials, symposium materials, correspondence, memoranda, audio.</p>  </scopecontent>
+  <controlaccess>
+    <subject source="lcsh">Medical research</subject>
+    <subject source="lcsh">Medicine, Preventive</subject>
+    <subject source="lcsh">Biology -- Research</subject>
+    <subject source="lcsh">Vivisection</subject>
+    <subject source="lcsh">Medical sciences</subject>
+    <subject source="lcsh">Medical care</subject>
+    <subject source="lcsh">Cell and biomolecular sciences</subject>
+    <subject source="lcsh">Genetics</subject>
+    <subject source="lcsh">DNA</subject>
+    <geogname source="lcsh">China</geogname>
+  </controlaccess>
+  <dsc><c id="d179a56f655446469ac072b66d60b5d8" level="file"><did><unittitle>Audio tapes</unittitle><unitdate>1985 April 12</unitdate><container altrender="Letter Document Storage Box" id="a9ca671ae21b51259cd1adad43241f3e" label="mixed materials [A0000000089677]" type="box">1</container><container id="cf7a4d2e7205378df0d9089d9441974c" parent="a9ca671ae21b51259cd1adad43241f3e" type="folder">1</container></did><accessrestrict id="5de36b20b93bafa5aded95d9979345bc"><head>Conditions Governing Access</head><p>Access copy currently unavailable. Please see a RAC archivist for further instruction.</p></accessrestrict></c><c id="c3d36e0329174d45834eb482de0e4717" level="file"><did><unittitle>Biographical Material on Participants, including A. Beckman</unittitle><container altrender="Letter Document Storage Box" id="ae545ebf5e4ba83e5b8cad2c3f2d8fd0" label="mixed materials [A0000000089677]" type="box">1</container><container id="839c2d0f76d175e9bcfc7c31fb418b9b" parent="ae545ebf5e4ba83e5b8cad2c3f2d8fd0" type="folder">2</container></did></c><c id="5d017c6ea5c64bb08ff747f5c1f91678" level="file"><did><unittitle>Computer Disks of Symposium Proceedings</unittitle><container altrender="Letter Document Storage Box" id="2df2efc021bae3feef3c5568c448540c" label="mixed materials [A0000000089677]" type="box">1</container><container id="ef0ab233a5dfa4d664369dbae75cfdfa" parent="2df2efc021bae3feef3c5568c448540c" type="folder">3</container></did><accessrestrict id="9a5a4ae5fbecb9db6b599d6cd5e3db77"><head>Conditions Governing Access</head><p>RAC is unable to provide access to obsolete media. When feasible, a digital surrogate may be created via special order. All applicable charges will apply. See RAC Head of Archival Services or RAC Head of Digital Programs for details.</p></accessrestrict></c><c id="a8f5b11cf052485f92aa9e62d372b909" level="file"><did><unittitle>Copyright Registration and Author Agreements</unittitle><unitdate normal="1985/1987" type="inclusive">1985-1987</unitdate><container altrender="Letter Document Storage Box" id="49ad47b8bb938a388f44b5ef4d07b330" label="mixed materials [A0000000089677]" type="box">1</container><container id="29d3420a63ff7e90715d001ec95d6cd4" parent="49ad47b8bb938a388f44b5ef4d07b330" type="folder">4</container></did></c><c id="e901997d7a9a421a9a8eeea4f4f42762" level="file"><did><unittitle>Correspondence (also includes drafts of speeches)</unittitle></did><c id="c7ecc38443fb470b8b2aa5e39a489cb6" level="file"><did><unittitle>Coulter, Charles L.</unittitle><unitdate normal="1985/1985" type="inclusive">1985</unitdate><container altrender="Letter Document Storage Box" id="52dbc6ece8405316b490388960b585a4" label="mixed materials [A0000000089677]" type="box">1</container><container id="27434c7ec6c15febd28d6019cde97b63" parent="52dbc6ece8405316b490388960b585a4" type="folder">5</container></did></c><c id="0b175fb2a63d404a9aaf8e878526aa1b" level="file"><did><unittitle>Cranefield, Paul F.</unittitle><unitdate normal="1985/1985" type="inclusive">1985</unitdate><container altrender="Letter Document Storage Box" id="e6b7cbe22411b9218513554647b029dd" label="mixed materials [A0000000089677]" type="box">1</container><container id="e04c9caeedcf6f109dd1d9ed20d3e057" parent="e6b7cbe22411b9218513554647b029dd" type="folder">6</container></did></c><c id="3b1b42535e974faf94c722d8824f2d84" level="file"><did><unittitle>Dole, Vincent P.</unittitle><unitdate normal="1985/1985" type="inclusive">1985</unitdate><container altrender="Letter Document Storage Box" id="cfc0e75c4895fe898e42f1358559d934" label="mixed materials [A0000000089677]" type="box">1</container><container id="187e8caf4b039041d2e7ff261ab53114" parent="cfc0e75c4895fe898e42f1358559d934" type="folder">7</container></did></c><c id="a676ed6c5da74220a8843e543461a6ef" level="file"><did><unittitle>Gordon, Manuel J.</unittitle><unitdate normal="1985/1985" type="inclusive">1985</unitdate><container altrender="Letter Document Storage Box" id="a42a9995029f106dd71a0ac88a977f0d" label="mixed materials [A0000000089677]" type="box">1</container><container id="20fdb558a6f06349738bfa30e2ca904d" parent="a42a9995029f106dd71a0ac88a977f0d" type="folder">8</container></did></c><c id="3ddff41fa10141cb83acc7654f34fa08" level="file"><did><unittitle>Hirs, Christopher</unittitle><unitdate normal="1985/1985" type="inclusive">1985</unitdate><container altrender="Letter Document Storage Box" id="7b0b2dad6a66ff36a0350422fbfa8291" label="mixed materials [A0000000089677]" type="box">1</container><container id="bb4dd7463e420622470d2bf1a55215d7" parent="7b0b2dad6a66ff36a0350422fbfa8291" type="folder">9</container></did></c><c id="f35768be90714c308e67db08389e7c7f" level="file"><did><unittitle>Lederberg, Joshua</unittitle><unitdate normal="1985/1985" type="inclusive">1985</unitdate><container altrender="Letter Document Storage Box" id="d8d7ea60dfb2ef0f46a4958b8c87b6f3" label="mixed materials [A0000000089677]" type="box">1</container><container id="106c6595f8a842f3cb45337efeb49853" parent="d8d7ea60dfb2ef0f46a4958b8c87b6f3" type="folder">10</container></did></c><c id="373f10cabd214d819f5e2675802801b8" level="file"><did><unittitle>Merrifield, Bruce</unittitle><unitdate normal="1985/1985" type="inclusive">1985</unitdate><container altrender="Letter Document Storage Box" id="b124442b8258cbf73d5ffcc4315bdd72" label="mixed materials [A0000000089677]" type="box">1</container><container id="5e4e853866ff20c0eb73c3f54dd75e44" parent="b124442b8258cbf73d5ffcc4315bdd72" type="folder">11</container></did></c><c id="976ae2c6642342e690e51c3e9569a10c" level="file"><did><unittitle>Miscellaneous</unittitle><unitdate normal="1985/1985" type="inclusive">1985</unitdate><container altrender="Letter Document Storage Box" id="61eb782e7672c663d1ab44f04808f9f2" label="mixed materials [A0000000089677]" type="box">1</container><container id="1af427bae4c1e5e871b9a372c25f9acb" parent="61eb782e7672c663d1ab44f04808f9f2" type="folder">12</container></did></c><c id="e6044ee96d1c4323b3ec5bdef259a7d6" level="file"><did><unittitle>Nakanishi, Koji</unittitle><unitdate normal="1985/1985" type="inclusive">1985</unitdate><container altrender="Letter Document Storage Box" id="611818cc2a30947ff8cba5e7b011772f" label="mixed materials [A0000000089677]" type="box">1</container><container id="e4ab1acab034e1407692073d0036e771" parent="611818cc2a30947ff8cba5e7b011772f" type="folder">13</container></did></c><c id="77bcbfd69a114bf7a823484af5db888c" level="file"><did><unittitle>Schachman, Howard K.</unittitle><unitdate normal="1985/1985" type="inclusive">1985</unitdate><container altrender="Letter Document Storage Box" id="41ec32cc5470e101f34afa48415b9bb4" label="mixed materials [A0000000089677]" type="box">1</container><container id="fbebf19d91577f3e402965d5d0ab29d5" parent="41ec32cc5470e101f34afa48415b9bb4" type="folder">14</container></did></c><c id="97e901fc20fe43388bd4e73266d8a404" level="file"><did><unittitle>Thackray, Arnold</unittitle><unitdate normal="1985/1985" type="inclusive">1985</unitdate><container altrender="Letter Document Storage Box" id="540dc6fa46fdd7fec32c567b812546fe" label="mixed materials [A0000000089677]" type="box">1</container><container id="fbdb75cc65c16838bb26286fc18c1f1a" parent="540dc6fa46fdd7fec32c567b812546fe" type="folder">15</container></did></c></c><c id="00e4c2a5df304acd84135eb49dc10ebc" level="file"><did><unittitle>Illustrations for Papers</unittitle><container altrender="Lgl Document Storage Box" id="3f6b4fe0e7c40c51680f179501cb5a18" label="mixed materials [A0000000089678]" type="box">2</container><container id="8f3968d85db15e51fdbf00a7cd928688" parent="3f6b4fe0e7c40c51680f179501cb5a18" type="folder">1</container></did></c><c id="08188b817a164c49a553289b8487e7d7" level="file"><did><unittitle>Page Proofs</unittitle></did><c id="69034bccbf69495fa226267126692edd" level="file"><did><unittitle>Final</unittitle><container altrender="Lgl Document Storage Box" id="5acb224d6812a08824c10ccd559eef57" label="mixed materials [A0000000089678]" type="box">2</container><container id="2448837609e013dbe46c01b260ea45b5" parent="5acb224d6812a08824c10ccd559eef57" type="folder">2</container></did></c><c id="1bf96a323fc14c89b0266ea0b0f61173" level="file"><did><unittitle>First Set</unittitle><container altrender="Lgl Document Storage Box" id="827fdfc3c68934fc5a90a826db1c3ff0" label="mixed materials [A0000000089678]" type="box">2</container><container id="880f0a5220516475a75271355eb333df" parent="827fdfc3c68934fc5a90a826db1c3ff0" type="folder">3</container></did></c><c id="db550384bc824107b40ceff7785948d0" level="file"><did><unittitle>Second Set</unittitle><container altrender="Lgl Document Storage Box" id="404e250c1db81bc650ef505dd290222a" label="mixed materials [A0000000089678]" type="box">2</container><container id="412683313cdfa5a946bad2d903c8801d" parent="404e250c1db81bc650ef505dd290222a" type="folder">4</container></did></c></c><c id="0ddd541c663b46a2b5504a1807186031" level="file"><did><unittitle>Transcripts of Tapes (Original)</unittitle><container altrender="Lgl Document Storage Box" id="e4091481d3424c93a02591a9be8e6a8d" label="mixed materials [A0000000089678]" type="box">2</container><container id="96895b198fe4fa3b851c8b5e2522dbf1" parent="e4091481d3424c93a02591a9be8e6a8d" type="folder">5</container></did><c id="c561a5a8c6b540c8b60b9675c48f63b9" level="file"><did><unittitle>(The Beckman Symposium on Biomedical Instrumentation, edited by Carol L. Moberg, Fullerton, CA: The Rockefeller University in association with Beckman Instruments, Inc., 1986)</unittitle><unitdate normal="1986/1986" type="inclusive">1986</unitdate><physdesc id="8fc1fdeb70ada7d69e0fb2318bea6ced">2 copies</physdesc></did></c></c><c id="c4b5f0d3026a4bab8988f02532fb8f27" level="file"><did><unittitle>Plenary Session - Monday morning</unittitle><container id="cfee0c94180f931ce8ac75c933f568fa" label="mixed materials" type="box">3</container><container id="626f1f00bbdd3bcbe548bd81efc4041c" parent="cfee0c94180f931ce8ac75c933f568fa" type="folder">7</container></did></c><c id="1c6d4c25d7284bf6b0347a467d672438" level="file"><did><unittitle>Press - Directory</unittitle><container id="2421d3e9c094725bedde198896822265" label="mixed materials" type="box">3</container><container id="1ab821f955956d8d35dc11cf2584b89d" parent="2421d3e9c094725bedde198896822265" type="folder">8</container></did></c><c id="48a88230c57b44ba9a7e3f77abda3051" level="file"><did><unittitle>Press - Invitations, Logo, Tags</unittitle><container id="199034351ba8829034143ecf15c0fe39" label="mixed materials" type="box">3</container><container id="d252f53ef8ce60bb7edf410a27830fdb" parent="199034351ba8829034143ecf15c0fe39" type="folder">9</container></did></c><c id="e12ead951e644b3ba5b68170925833a2" level="file"><did><unittitle>Press - Miscellaneous</unittitle><container id="aed01d0856b54805157112d9c229fc78" label="mixed materials" type="box">3</container><container id="fd9c1c60e727031e5543450290990ec5" parent="aed01d0856b54805157112d9c229fc78" type="folder">10</container></did></c><c id="b9f98806aa8c4d0f8c876c5e5301447e" level="file"><did><unittitle>Publicity and Press</unittitle><container id="08a738b73e0dc6dfb6bfa60c5257d4be" label="mixed materials" type="box">4</container><container id="a2ba32139d82e543f8210fd5399e72a3" parent="08a738b73e0dc6dfb6bfa60c5257d4be" type="folder">1</container></did></c><c id="edfa31e6fb0a4811959f24eb23067806" level="file"><did><unittitle>RUnion Committee</unittitle><container id="785a8a0c6bec9a3a1364f897a79e045a" label="mixed materials" type="box">4</container><container id="e89cfa1fca61c4ea4727be7668ebbe29" parent="785a8a0c6bec9a3a1364f897a79e045a" type="folder">2</container></did></c><c id="927e7d58000149d3afa98b982d2d4bb1" level="file"><did><unittitle>Samples of RU Printed Material and Letters</unittitle><container id="655e696e57725892157b18d3c1ac6b82" label="mixed materials" type="box">4</container><container id="90827cdd2a9a93a6e025a3deb2ff12bf" parent="655e696e57725892157b18d3c1ac6b82" type="folder">3</container></did></c><c id="d25b1f12b94b429f90af1a4806696467" level="file"><did><unittitle>Son's &amp; Daughter's Program</unittitle><container id="58d8a01fa578e62a8da0e2a741664bcc" label="mixed materials" type="box">4</container><container id="e0f5927804920bcead8155a0aee6b2d1" parent="58d8a01fa578e62a8da0e2a741664bcc" type="folder">4</container></did></c><c id="997ffd51857d4cab8a69f61b9b512905" level="file"><did><unittitle>Tent, Caps, and Gowns</unittitle><container id="a1452d046830a15b1e448b7f27b390d7" label="mixed materials" type="box">4</container><container id="894003a3f8c248ab028eaa7b3b51f53f" parent="a1452d046830a15b1e448b7f27b390d7" type="folder">5</container></did></c><c id="cf2a4f8761864f8cb0ad70eefd9963e7" level="file"><did><unittitle>Working Group</unittitle><container id="bf931f367b1cb90d5036ed062a65a280" label="mixed materials" type="box">4</container><container id="9793cb48a4903d491de2547226aff5f7" parent="bf931f367b1cb90d5036ed062a65a280" type="folder">6</container></did></c><c id="f9a4b0fb14c44a00bf179ee611af5367" level="file"><did><unittitle>Talks given by: David Rockefeller, Joshua Lederberg, Gerald Edelman, and David Baltimore</unittitle><physdesc id="607f399c7fd4db76bea074e34345149c">4 cassettes</physdesc><container id="586e2dcdc290ae12d5acdd475e76c3f6" label="mixed materials" type="box">4</container></did><accessrestrict id="40a2ae4abec172ae617fb6e5e7fa0956"><head>Conditions Governing Access</head><p>Access copy currently unavailable. Please see a RAC archivist for further instruction.</p></accessrestrict></c><c id="59ce72f5d1ad4b30b4490e9daff1531f" level="file"><did><unittitle>25th Anniversary Reunion and Convocation 10-12 June 1984 Edited Master (in film vault)</unittitle><unitdate>1984 June 10-12</unitdate><physdesc id="595d7719936853e0924231ed8069cbde">video</physdesc><container id="727b522c67f0f95ef04a0bfcb2c41539" label="mixed materials" type="box">4</container></did><accessrestrict id="86db2a80017b9da5800b319b3ffc8a43"><head>Conditions Governing Access</head><p>Access copy currently unavailable. Please see a RAC archivist for further instruction.</p></accessrestrict></c></dsc>
+</archdesc>
 </ead>

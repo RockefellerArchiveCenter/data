@@ -1,230 +1,115 @@
-<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
-  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="under_revision" langencoding="iso639-2b" repositoryencoding="iso15511">
-    <eadid>FA201.xml</eadid>
-    <filedesc>
-      <titlestmt>
-        <titleproper type="filing">Swift (Homer F.) papers</titleproper>
-        <titleproper>A Guide to the Homer F. Swift papers, Rockefeller Institute for Medical Research Scientific Staff
- <num>FA201</num></titleproper>
-        <author>Lee Hiltzik</author>
-      </titlestmt>
-      <publicationstmt>
-        <publisher>Rockefeller Archive Center</publisher>
-        <p>
-          <date>1996 December 3</date>
-        </p>
-        <address>
-          <addressline>15 Dayton Avenue</addressline>
-          <addressline>Sleepy Hollow 10591</addressline>
-          <addressline>archive@rockarch.org</addressline>
-          <addressline>URL: <extptr xlink:href="http://www.rockarch.org" xlink:show="new" xlink:title="http://www.rockarch.org" xlink:type="simple"/></addressline>
-        </address>
-      </publicationstmt>
-    </filedesc>
-    <profiledesc>
-      <creation>This finding aid was produced using ArchivesSpace on <date>2019-02-16 00:08:13 -0500</date>.</creation>
-    </profiledesc>
-    <revisiondesc>
-      <change>
-        <date>2010 September 30</date>
-        <item>Paper finding aid converted to EAD/XML by AureXus in 2010. Imported into the Archvists’ Toolkit by Becky Robbins.</item>
-      </change>
-    </revisiondesc>
-  </eadheader>
-  <archdesc level="collection">
-    <did>
-      <langmaterial>
-        <language langcode="eng">English</language>
-      </langmaterial>
-      <repository>
-        <corpname>Rockefeller Archive Center</corpname>
-      </repository>
-      <unittitle>Homer F. Swift papers, Rockefeller Institute for Medical Research Scientific Staff</unittitle>
-      <origination label="creator">
-        <persname role="aut" rules="dacs">Swift, Homer F.</persname>
-      </origination>
-      <unitid>FA201</unitid>
-      <physdesc altrender="whole">
-        <extent altrender="materialtype spaceoccupied">0.4 Cubic Feet</extent>
-      </physdesc>
-      <unitdate normal="1913/1956" type="inclusive">1913-1956</unitdate>
-    </did>
-    <bioghist id="7f005bd9de26a1a2a3c02741b6ec01e2">
-      <head>Biographical/Historical note</head>
-      <p>Homer Fordyce Swift, 1881-1953, physician and scientist.</p>
-      <p>Born in Paines Hollow, New York, to Charles Fayette and Nancy Maria (Fordyce) Swift. He attended Adrian College (Michigan) 1898-1900, and received a Ph. B. from Western Reserve University, Cleveland in 1902. From 1902 to 1904, Swift attended Western Reserve Medical School and later graduated MS. from New York University and Bellevue Hospital Medical College in 1906. From 1906 through 1908, Swift was an intern at Presbyterian Hospital in New York. He served as an assistant in Pathology and Dermatology at New York University and Bellevue Hospital Medical College from 1908 until 1910. In 1910, Swift received an appointment as assistant and assistant resident physician at the Rockefeller Institute for Medical Research's hospital and in 1912 he was made an associate. During this period, Swift's research focused on evaluating the use of salvarsan, a chemotherapeutic drug developed by Paul Ehrlich, for the treatment of syphilis. The treatment that he helped develop was known as the Swift-Ellis method and was widely employed at the time.</p>
-      <p>In 1914, Swift accepted an appointment as Associate Professor of Medicine at Columbia University, a position he held until 1917 at which time he took a similar post at Cornell University School of Medicine. Shortly thereafter, Swift obtained a leave to join the Presbyterian Hospital's military unit sent to Europe once the United State joined World War I. During the war, Swift was appointed Consultant to the First Army Corps and then the Third Army Corps. he also became a member of the American Red Cross Trench Fever Commission which looked for a cause and studied the effects of this louse-born malady.</p>
-      <p>After World War I, Homer Swift returned to New York again joining the Rockefeller Institute for Medical Research, initially as an associate member and then as a member (1922). During this period, he studied different varieties of streptococci. Swift also investigated the mechanism of rheumatism and its link to streptococcus infections. In this work he collaborated with Rebecca C. Lancefield. In 1946, Swift retired but continued his investigations as a member emeritus of the Institute. Shortly before he died in 1953, he was recognized for his accomplishments in the study of rheumatic fever and was awarded the Distinguished Service Award of the American Rheumatism Association.</p>
-      <chronlist>
-        <head>Biographical note</head>
-        <chronitem>
-          <date>1942-1945</date>
-          <eventgrp>
-            <event>Special Investigator, OSRD study of streptococci</event>
-          </eventgrp>
-        </chronitem>
-        <chronitem>
-          <date>1945-1946</date>
-          <eventgrp>
-            <event>Chairman, American Council of Rheumatic Fever</event>
-          </eventgrp>
-        </chronitem>
-        <chronitem>
-          <date>1941-1953</date>
-          <eventgrp>
-            <event>Chairman, General Advisory Committee for Cardiac Program, New York State Department of Health</event>
-          </eventgrp>
-        </chronitem>
-      </chronlist>
-      <chronlist>
-        <head>Professional Service</head>
-        <chronitem>
-          <date>1918-1919</date>
-          <eventgrp>
-            <event>American Red Cross Trench Fever Commission</event>
-          </eventgrp>
-        </chronitem>
-        <chronitem>
-          <date>1918-1919</date>
-          <eventgrp>
-            <event>Consultant in Medicine to First Army Corps and Third Army (A.E.F. and Army of Occupation)</event>
-          </eventgrp>
-        </chronitem>
-        <chronitem>
-          <date>1923-1948</date>
-          <eventgrp>
-            <event>Member, Board of Directors, Russell Sage Institute of Pathology</event>
-          </eventgrp>
-        </chronitem>
-        <chronitem>
-          <date>1942-1946</date>
-          <eventgrp>
-            <event>Member, Council of New York University</event>
-          </eventgrp>
-        </chronitem>
-        <chronitem>
-          <date>1942-1946</date>
-          <eventgrp>
-            <event>Consultant to U.S. Secretary of War</event>
-          </eventgrp>
-        </chronitem>
-      </chronlist>
-      <p>Membership Alpha Omega Alpha, Alpha Tau Omega, American Association for the Advancement of Science, Fellow, American College of Physicians (President 1938), American Heart Association (President 1938), American Medical Association, N.Y., American Society of Clinical Investigation (President 1928), American Society of Immunology, Association of American Physicians, Century Club, Harvey Society (President 1925-1926), New York Academy of Medicine, New York State Medical Society, Nu Sigma Nu, Society of American Bacteriologists, Theta Nu Epsilon</p>
-    </bioghist>
-    <scopecontent id="ac88d9e8db17e6265dd6576cc614281b">
-      <head>Scope and Contents note</head>
-      <p>Includes biographical material, bibliographic material, clippings, correspondence, and photographs.</p>
-      <p>Correspondents include Rufus Cole, Herbert Gasser, Edric Smith, Donald D. Van Slyke, and family members.</p>
-      <p>Subjects include American Expeditionary Force, rheumatism, trench fever, and World War I.</p>
-    </scopecontent>
-    <arrangement id="f98dc27345b38e7968c0a273c048b896">
-      <head>Arrangement note</head>
-      <p>Primarily chronological.</p>
-    </arrangement>
-    <prefercite id="468f8b862faafaa3b57e8bed3fb7ecf1">
-      <head>Preferred Citation</head>
-      <p>Information regarding the Rockefeller Archive Center's preferred elements and forms of citation can be found at <extref href="http://www.rockarch.org/research/citations.php">http://www.rockarch.org/research/citations.php</extref></p>
-    </prefercite>
-    <fileplan id="012bcc6dd98b9064eaa2df9cf7cf1c7e">
-      <head>File Plan note</head>
-      <p>Former Classification: I 450 Sw54</p>
-    </fileplan>
-    <accessrestrict id="d8199d86316247d7b5749b2575bb426a">
-      <head>Conditions Governing Access note</head>
-      <p>Access to this collection is restricted pending permission from Rockefeller University.</p>
-    </accessrestrict>
-    <controlaccess>
-      <subject source="lcsh">Biochemistry</subject>
-      <subject source="lcsh">Streptococcus</subject>
-      <subject source="lcsh">Biology -- Research</subject>
-      <subject source="lcsh">Cell and biomolecular sciences</subject>
-      <subject source="lcsh">Medical research</subject>
-      <subject source="lcsh">Medical sciences</subject>
-      <subject source="lcsh">World War I</subject>
-      <subject source="lcsh">Trench fever</subject>
-      <subject source="lcsh">Rheumatism</subject>
-      <subject source="lcsh">Life sciences</subject>
-      <subject source="lcsh">Medicine, Preventive</subject>
-      <persname role="ctb" source="naf">Van Slyke, Donald D. (Donald Dexter)</persname>
-      <persname role="ctb" source="naf">Cole, Rufus</persname>
-      <corpname source="naf">United States. Army. American Expeditionary Forces</corpname>
-      <persname role="ctb" rules="dacs">Smith, Edric Brooks</persname>
-      <persname role="ctb" source="naf">Gasser, Herbert S. (Herbert Spencer)</persname>
-      <corpname role="ctb" source="naf">Rockefeller Institute for Medical Research</corpname>
-      <corpname role="ctb" source="naf">Rockefeller University</corpname>
-    </controlaccess>
-    <dsc>
-      <c id="5ae24cda315b4ae39d1598c453ab355d" level="file">
-        <did>
-          <unittitle>Biography, Photographs, Bibliography, Clippings</unittitle>
-          <container altrender="Letter Document Storage Box" id="3eb49ecbc6ea1015e4522f6aafe36b1c" label="mixed materials [A0000000086863]" type="box">1</container>
-          <container id="9d4fcabb0dbe9e4de8ede2af72271e43" parent="3eb49ecbc6ea1015e4522f6aafe36b1c" type="folder">1</container>
-        </did>
-      </c>
-      <c id="f77cfee8067a46da833cae5719982dcd" level="file">
-        <did>
-          <unittitle>Personal Correspondence</unittitle>
-          <unitdate>1917 May-June</unitdate>
-          <container altrender="Letter Document Storage Box" id="27dfffd31cdb1b386bb708d3c8ac6bf0" label="mixed materials [A0000000086863]" type="box">1</container>
-          <container id="53627778b8dfd983a7d867a4065b7b7a" parent="27dfffd31cdb1b386bb708d3c8ac6bf0" type="folder">2</container>
-        </did>
-      </c>
-      <c id="f8eaa61e5cad4a60abdfbddef39f7dce" level="file">
-        <did>
-          <unittitle>Personal Correspondence</unittitle>
-          <unitdate>1917 July-October</unitdate>
-          <container altrender="Letter Document Storage Box" id="7795945dbf5695c06f858e78cc69bbed" label="mixed materials [A0000000086863]" type="box">1</container>
-          <container id="47199310c6bb4aa06eb2272c009b8e1b" parent="7795945dbf5695c06f858e78cc69bbed" type="folder">3</container>
-        </did>
-      </c>
-      <c id="e9c5c291b74d4a7d900559dd155284b2" level="file">
-        <did>
-          <unittitle>Personal Correspondence</unittitle>
-          <unitdate>1917 November-1918 February</unitdate>
-          <container altrender="Letter Document Storage Box" id="cccc3839f42ba75dac56c39b703b795e" label="mixed materials [A0000000086863]" type="box">1</container>
-          <container id="42624abb465a1cc22f7458f620079091" parent="cccc3839f42ba75dac56c39b703b795e" type="folder">4</container>
-        </did>
-      </c>
-      <c id="e4ac4ec279f84253916c0a31c37b4c8d" level="file">
-        <did>
-          <unittitle>Personal Correspondence</unittitle>
-          <unitdate>1918 March-June</unitdate>
-          <container altrender="Letter Document Storage Box" id="3c06a43eab86c9478cbb4f763d54acfd" label="mixed materials [A0000000086863]" type="box">1</container>
-          <container id="f07c289d15b376d35464826e75fda4fc" parent="3c06a43eab86c9478cbb4f763d54acfd" type="folder">5</container>
-        </did>
-      </c>
-      <c id="3a4603e3118341e59fc807920064f1a7" level="file">
-        <did>
-          <unittitle>Personal Correspondence</unittitle>
-          <unitdate>1918 July-October</unitdate>
-          <container altrender="Letter Document Storage Box" id="81a7cee2742c650affa1dfc5d66e79eb" label="mixed materials [A0000000086863]" type="box">1</container>
-          <container id="c627b88b7a94af5cf50104dca0d47b51" parent="81a7cee2742c650affa1dfc5d66e79eb" type="folder">6</container>
-        </did>
-      </c>
-      <c id="8964af4178b24c94a2693a06497f7038" level="file">
-        <did>
-          <unittitle>Personal Correspondence</unittitle>
-          <unitdate>1918 November-1919 May</unitdate>
-          <container altrender="Letter Document Storage Box" id="162ef9411b14dadcda23d2533644c9d4" label="mixed materials [A0000000086863]" type="box">1</container>
-          <container id="08bca28e5a953b1eb8bd552a373990f6" parent="162ef9411b14dadcda23d2533644c9d4" type="folder">7</container>
-        </did>
-      </c>
-      <c id="bf68ea88f3074b5ca3a268f2070ddf4f" level="file">
-        <did>
-          <unittitle>Administrative Correspondence</unittitle>
-          <unitdate normal="1913/1938" type="inclusive">1913-1938</unitdate>
-          <container altrender="Letter Document Storage Box" id="a1e918426912dd08221f4ff6775b42ba" label="mixed materials [A0000000086863]" type="box">1</container>
-          <container id="18e35926b1392898c7d7fc018060b271" parent="a1e918426912dd08221f4ff6775b42ba" type="folder">8</container>
-        </did>
-      </c>
-      <c id="f8ff5595e55246e09424bcebfbcdb38e" level="file">
-        <did>
-          <unittitle>Administrative Correspondence</unittitle>
-          <unitdate normal="1938/1953" type="inclusive">1938-1953</unitdate>
-          <container altrender="Letter Document Storage Box" id="55174fe9b64c62e97fd86def15a89a72" label="mixed materials [A0000000086863]" type="box">1</container>
-          <container id="ab2c0b38c1622e45b2e795e9f4ae6563" parent="55174fe9b64c62e97fd86def15a89a72" type="folder">9</container>
-        </did>
-      </c>
-    </dsc>
-  </archdesc>
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="under_revision" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid>FA201.xml</eadid><filedesc><titlestmt><titleproper type="filing">Swift (Homer F.) papers</titleproper><titleproper>A Guide to the Homer F. Swift papers, Rockefeller Institute for Medical Research Scientific Staff
+ <num>FA201</num></titleproper><author>Lee Hiltzik</author></titlestmt><publicationstmt><publisher>Rockefeller Archive Center</publisher><p><date>1996 December 3</date></p><address><addressline>15 Dayton Avenue</addressline><addressline>Sleepy Hollow 10591</addressline><addressline>archive@rockarch.org</addressline><addressline>URL: <extptr xlink:href="http://www.rockarch.org" xlink:show="new" xlink:title="http://www.rockarch.org" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2019-03-14 00:31:16 -0400</date>.</creation></profiledesc><revisiondesc><change><date>2010 September 30</date><item>Paper finding aid converted to EAD/XML by AureXus in 2010. Imported into the Archvists’ Toolkit by Becky Robbins.</item></change></revisiondesc></eadheader><archdesc level="collection">
+  <did>
+    <langmaterial>
+      <language langcode="eng">English</language>
+    </langmaterial>
+    <repository>
+      <corpname>Rockefeller Archive Center</corpname>
+    </repository>
+    <unittitle>Homer F. Swift papers, Rockefeller Institute for Medical Research Scientific Staff</unittitle>
+    <origination label="creator">
+      <persname role="aut" rules="dacs">Swift, Homer F.</persname>
+    </origination>
+    <unitid>FA201</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">0.4 Cubic Feet</extent>
+    </physdesc>
+    <unitdate normal="1913/1956" type="inclusive">1913-1956</unitdate>
+  </did>
+  <bioghist id="7f005bd9de26a1a2a3c02741b6ec01e2">
+    <head>Biographical/Historical note</head>
+<p>Homer Fordyce Swift, 1881-1953, physician and scientist.</p><p>Born in Paines Hollow, New York, to Charles Fayette and Nancy Maria (Fordyce) Swift. He attended Adrian College (Michigan) 1898-1900, and received a Ph. B. from Western Reserve University, Cleveland in 1902. From 1902 to 1904, Swift attended Western Reserve Medical School and later graduated MS. from New York University and Bellevue Hospital Medical College in 1906. From 1906 through 1908, Swift was an intern at Presbyterian Hospital in New York. He served as an assistant in Pathology and Dermatology at New York University and Bellevue Hospital Medical College from 1908 until 1910. In 1910, Swift received an appointment as assistant and assistant resident physician at the Rockefeller Institute for Medical Research's hospital and in 1912 he was made an associate. During this period, Swift's research focused on evaluating the use of salvarsan, a chemotherapeutic drug developed by Paul Ehrlich, for the treatment of syphilis. The treatment that he helped develop was known as the Swift-Ellis method and was widely employed at the time.</p><p>In 1914, Swift accepted an appointment as Associate Professor of Medicine at Columbia University, a position he held until 1917 at which time he took a similar post at Cornell University School of Medicine. Shortly thereafter, Swift obtained a leave to join the Presbyterian Hospital's military unit sent to Europe once the United State joined World War I. During the war, Swift was appointed Consultant to the First Army Corps and then the Third Army Corps. he also became a member of the American Red Cross Trench Fever Commission which looked for a cause and studied the effects of this louse-born malady.</p><p>After World War I, Homer Swift returned to New York again joining the Rockefeller Institute for Medical Research, initially as an associate member and then as a member (1922). During this period, he studied different varieties of streptococci. Swift also investigated the mechanism of rheumatism and its link to streptococcus infections. In this work he collaborated with Rebecca C. Lancefield. In 1946, Swift retired but continued his investigations as a member emeritus of the Institute. Shortly before he died in 1953, he was recognized for his accomplishments in the study of rheumatic fever and was awarded the Distinguished Service Award of the American Rheumatism Association.</p>    <chronlist>
+      <head>Biographical note</head>
+      <chronitem>
+        <date>1942-1945</date>
+        <eventgrp>
+          <event>Special Investigator, OSRD study of streptococci</event>
+        </eventgrp>
+      </chronitem>
+      <chronitem>
+        <date>1945-1946</date>
+        <eventgrp>
+          <event>Chairman, American Council of Rheumatic Fever</event>
+        </eventgrp>
+      </chronitem>
+      <chronitem>
+        <date>1941-1953</date>
+        <eventgrp>
+          <event>Chairman, General Advisory Committee for Cardiac Program, New York State Department of Health</event>
+        </eventgrp>
+      </chronitem>
+    </chronlist>
+    <chronlist>
+      <head>Professional Service</head>
+      <chronitem>
+        <date>1918-1919</date>
+        <eventgrp>
+          <event>American Red Cross Trench Fever Commission</event>
+        </eventgrp>
+      </chronitem>
+      <chronitem>
+        <date>1918-1919</date>
+        <eventgrp>
+          <event>Consultant in Medicine to First Army Corps and Third Army (A.E.F. and Army of Occupation)</event>
+        </eventgrp>
+      </chronitem>
+      <chronitem>
+        <date>1923-1948</date>
+        <eventgrp>
+          <event>Member, Board of Directors, Russell Sage Institute of Pathology</event>
+        </eventgrp>
+      </chronitem>
+      <chronitem>
+        <date>1942-1946</date>
+        <eventgrp>
+          <event>Member, Council of New York University</event>
+        </eventgrp>
+      </chronitem>
+      <chronitem>
+        <date>1942-1946</date>
+        <eventgrp>
+          <event>Consultant to U.S. Secretary of War</event>
+        </eventgrp>
+      </chronitem>
+    </chronlist>
+<p>Membership Alpha Omega Alpha, Alpha Tau Omega, American Association for the Advancement of Science, Fellow, American College of Physicians (President 1938), American Heart Association (President 1938), American Medical Association, N.Y., American Society of Clinical Investigation (President 1928), American Society of Immunology, Association of American Physicians, Century Club, Harvey Society (President 1925-1926), New York Academy of Medicine, New York State Medical Society, Nu Sigma Nu, Society of American Bacteriologists, Theta Nu Epsilon</p>  </bioghist>
+  <scopecontent id="ac88d9e8db17e6265dd6576cc614281b">
+    <head>Scope and Contents note</head>
+<p>Includes biographical material, bibliographic material, clippings, correspondence, and photographs.</p><p>Correspondents include Rufus Cole, Herbert Gasser, Edric Smith, Donald D. Van Slyke, and family members.</p><p>Subjects include American Expeditionary Force, rheumatism, trench fever, and World War I.</p>  </scopecontent>
+  <arrangement id="f98dc27345b38e7968c0a273c048b896">
+    <head>Arrangement note</head>
+<p>Primarily chronological.</p>  </arrangement>
+  <prefercite id="468f8b862faafaa3b57e8bed3fb7ecf1">
+    <head>Preferred Citation</head>
+<p>Information regarding the Rockefeller Archive Center's preferred elements and forms of citation can be found at <extref href="http://www.rockarch.org/research/citations.php">http://www.rockarch.org/research/citations.php</extref></p>  </prefercite>
+  <fileplan id="012bcc6dd98b9064eaa2df9cf7cf1c7e">
+    <head>File Plan note</head>
+<p>Former Classification: I 450 Sw54</p>  </fileplan>
+  <accessrestrict id="d8199d86316247d7b5749b2575bb426a">
+    <head>Conditions Governing Access note</head>
+<p>Access to this collection is restricted pending permission from Rockefeller University.</p>  </accessrestrict>
+  <controlaccess>
+    <subject source="lcsh">Biochemistry</subject>
+    <subject source="lcsh">Streptococcus</subject>
+    <subject source="lcsh">Biology -- Research</subject>
+    <subject source="lcsh">Cell and biomolecular sciences</subject>
+    <subject source="lcsh">Medical research</subject>
+    <subject source="lcsh">Medical sciences</subject>
+    <subject source="lcsh">World War I</subject>
+    <subject source="lcsh">Trench fever</subject>
+    <subject source="lcsh">Rheumatism</subject>
+    <subject source="lcsh">Life sciences</subject>
+    <subject source="lcsh">Medicine, Preventive</subject>
+    <persname role="ctb" source="naf">Van Slyke, Donald D. (Donald Dexter)</persname>
+    <persname role="ctb" source="naf">Cole, Rufus</persname>
+    <corpname source="naf">United States. Army. American Expeditionary Forces</corpname>
+    <persname role="ctb" rules="dacs">Smith, Edric Brooks</persname>
+    <persname role="ctb" source="naf">Gasser, Herbert S. (Herbert Spencer)</persname>
+    <corpname role="ctb" source="naf">Rockefeller Institute for Medical Research</corpname>
+    <corpname role="ctb" source="naf">Rockefeller University</corpname>
+  </controlaccess>
+  <dsc><c id="5ae24cda315b4ae39d1598c453ab355d" level="file"><did><unittitle>Biography, Photographs, Bibliography, Clippings</unittitle><container altrender="Letter Document Storage Box" id="52cf569ad4924406dc8ed86aaa517106" label="mixed materials [A0000000086863]" type="box">1</container><container id="fa316eb396e30a0941833294f5496e22" parent="52cf569ad4924406dc8ed86aaa517106" type="folder">1</container></did></c><c id="f77cfee8067a46da833cae5719982dcd" level="file"><did><unittitle>Personal Correspondence</unittitle><unitdate>1917 May-June</unitdate><container altrender="Letter Document Storage Box" id="5d8826375b43a0051d7c5fe5a39f9da8" label="mixed materials [A0000000086863]" type="box">1</container><container id="11d68ceca325ae5cf62784a26e431de7" parent="5d8826375b43a0051d7c5fe5a39f9da8" type="folder">2</container></did></c><c id="f8eaa61e5cad4a60abdfbddef39f7dce" level="file"><did><unittitle>Personal Correspondence</unittitle><unitdate>1917 July-October</unitdate><container altrender="Letter Document Storage Box" id="76985e1d58b8e1a0c5870a6834538ede" label="mixed materials [A0000000086863]" type="box">1</container><container id="702a5f171e8f1750cbff41f242fe8a27" parent="76985e1d58b8e1a0c5870a6834538ede" type="folder">3</container></did></c><c id="e9c5c291b74d4a7d900559dd155284b2" level="file"><did><unittitle>Personal Correspondence</unittitle><unitdate>1917 November-1918 February</unitdate><container altrender="Letter Document Storage Box" id="c94665d9f5a43b4f8a647b61432d1b45" label="mixed materials [A0000000086863]" type="box">1</container><container id="90f9448ae2ff25a010207a9435fc3bf0" parent="c94665d9f5a43b4f8a647b61432d1b45" type="folder">4</container></did></c><c id="e4ac4ec279f84253916c0a31c37b4c8d" level="file"><did><unittitle>Personal Correspondence</unittitle><unitdate>1918 March-June</unitdate><container altrender="Letter Document Storage Box" id="2d5ee0d034e81566379f25c4ed57c803" label="mixed materials [A0000000086863]" type="box">1</container><container id="e4d7b0cb37acb52c172ba3eabac3611f" parent="2d5ee0d034e81566379f25c4ed57c803" type="folder">5</container></did></c><c id="3a4603e3118341e59fc807920064f1a7" level="file"><did><unittitle>Personal Correspondence</unittitle><unitdate>1918 July-October</unitdate><container altrender="Letter Document Storage Box" id="c89df4f7fc65d55182e4e0368f613729" label="mixed materials [A0000000086863]" type="box">1</container><container id="c8ad4e5dc5f0801762b7493211564843" parent="c89df4f7fc65d55182e4e0368f613729" type="folder">6</container></did></c><c id="8964af4178b24c94a2693a06497f7038" level="file"><did><unittitle>Personal Correspondence</unittitle><unitdate>1918 November-1919 May</unitdate><container altrender="Letter Document Storage Box" id="d5d5533e28eed945732087ebe6b5dbb3" label="mixed materials [A0000000086863]" type="box">1</container><container id="419aba3ef886b7bd6e7e88a767562818" parent="d5d5533e28eed945732087ebe6b5dbb3" type="folder">7</container></did></c><c id="bf68ea88f3074b5ca3a268f2070ddf4f" level="file"><did><unittitle>Administrative Correspondence</unittitle><unitdate normal="1913/1938" type="inclusive">1913-1938</unitdate><container altrender="Letter Document Storage Box" id="f3f73fbd7bee8e87dfe3cb0acc2be134" label="mixed materials [A0000000086863]" type="box">1</container><container id="63d859ecd20e1ea8fba4ed8047c0b513" parent="f3f73fbd7bee8e87dfe3cb0acc2be134" type="folder">8</container></did></c><c id="f8ff5595e55246e09424bcebfbcdb38e" level="file"><did><unittitle>Administrative Correspondence</unittitle><unitdate normal="1938/1953" type="inclusive">1938-1953</unitdate><container altrender="Letter Document Storage Box" id="b3ef16ffc195dd2815a082a6c9290e64" label="mixed materials [A0000000086863]" type="box">1</container><container id="02113353097be8d46c43c22c642e2922" parent="b3ef16ffc195dd2815a082a6c9290e64" type="folder">9</container></did></c></dsc>
+</archdesc>
 </ead>

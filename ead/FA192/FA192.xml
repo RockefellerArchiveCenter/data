@@ -1,144 +1,63 @@
-<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
-  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="under_revision" langencoding="iso639-2b" repositoryencoding="iso15511">
-    <eadid>FA192.xml</eadid>
-    <filedesc>
-      <titlestmt>
-        <titleproper type="filing">Robertson (Oswald H.) papers</titleproper>
-        <titleproper>A Guide to the Oswald H. Robertson papers, Rockefeller Institute for Medical Research Scientific Staff
- <num>FA192</num></titleproper>
-        <author>LRH</author>
-      </titlestmt>
-      <publicationstmt>
-        <publisher>Rockefeller Archive Center</publisher>
-        <p>
-          <date>1988 June 6</date>
-        </p>
-        <address>
-          <addressline>15 Dayton Avenue</addressline>
-          <addressline>Sleepy Hollow 10591</addressline>
-          <addressline>archive@rockarch.org</addressline>
-          <addressline>URL: <extptr xlink:href="http://www.rockarch.org" xlink:show="new" xlink:title="http://www.rockarch.org" xlink:type="simple"/></addressline>
-        </address>
-      </publicationstmt>
-    </filedesc>
-    <profiledesc>
-      <creation>This finding aid was produced using ArchivesSpace on <date>2019-02-16 00:07:07 -0500</date>.</creation>
-    </profiledesc>
-    <revisiondesc>
-      <change>
-        <date>2010 September 29</date>
-        <item>Paper finding aid converted to EAD/XML by AureXus in 2010. Imported into the Archvists’ Toolkit by Becky Robbins.</item>
-      </change>
-    </revisiondesc>
-  </eadheader>
-  <archdesc level="collection">
-    <did>
-      <langmaterial>
-        <language langcode="eng">English</language>
-      </langmaterial>
-      <repository>
-        <corpname>Rockefeller Archive Center</corpname>
-      </repository>
-      <unittitle>Oswald H. Robertson papers, Rockefeller Institute for Medical Research Scientific Staff</unittitle>
-      <origination label="creator">
-        <corpname role="ctb" source="naf">Rockefeller University</corpname>
-      </origination>
-      <origination label="creator">
-        <corpname role="ctb" source="naf">Rockefeller Institute for Medical Research</corpname>
-      </origination>
-      <origination label="creator">
-        <persname role="aut" source="naf">Robertson, O. H. (Oswald Hope)</persname>
-      </origination>
-      <unitid>FA192</unitid>
-      <physdesc altrender="whole">
-        <extent altrender="materialtype spaceoccupied">0.88 Cubic Feet</extent>
-      </physdesc>
-      <unitdate normal="1905/1925" type="inclusive">circa 1915</unitdate>
-    </did>
-    <bioghist id="9656f4dcc5ca0cc43941bcec123b2745">
-      <head>Biographical/Historical note</head>
-      <p>Oswald H. Robertson (1886-1966), a physician, researcher, and educator, was affiliated with the Rockefeller Institute for Medical Research for five years, starting in 1915. He worked at RIMR with Peyton Rous on an investigation of the normal life span of red blood cells. Robertson also investigated other questions in hematology such as the effects of repeated transfusions on bone marrow activity.</p>
-      <p>Starting in 1919, Robertson held a position at the Peking Union Medical College. He was associate professor of medicine until 1923 and then become professor of medicine and head of the department until 1926.</p>
-    </bioghist>
-    <scopecontent id="0f0af93572e43fa01fd2c866f7756a4e">
-      <head>Scope and Contents note</head>
-      <p>Includes bibliographic list, charts, glass slides, laboratory notebook, a program, and scientific photographs.</p>
-    </scopecontent>
-    <arrangement id="4e82ae90cab1d3f1977a57fa3fabe278">
-      <head>Arrangement note</head>
-      <p>Arranged in alphabetical order by format.</p>
-    </arrangement>
-    <prefercite id="ba5675a9449511794e8fb63fd3b158bd">
-      <head>Preferred Citation</head>
-      <p>Information regarding the Rockefeller Archive Center's preferred elements and forms of citation can be found at <extref href="http://www.rockarch.org/research/citations.php">http://www.rockarch.org/research/citations.php</extref></p>
-    </prefercite>
-    <fileplan id="7571ad5bcbdc33c9a5fc8ad37086f8b4">
-      <head>File Plan note</head>
-      <p>Former Classification: I 450 R548</p>
-    </fileplan>
-    <processinfo id="95f5e7bdb2792f5a0e23b697d205338f">
-      <head>Processing Information</head>
-      <p>Basic Level 1 Processing has been conducted to establish initial intellectual and physical control of the material and assess immediate preservation and conservation needs.</p>
-    </processinfo>
-    <accessrestrict id="add1e5c79c0817091f2a65593c5b8c4a">
-      <head>Conditions Governing Access note</head>
-      <p>Access to this collection is restricted pending permission from Rockefeller University.</p>
-    </accessrestrict>
-    <controlaccess>
-      <subject source="lcsh">Blood</subject>
-      <subject source="lcsh">Hematology</subject>
-      <subject source="lcsh">Medicine, Preventive</subject>
-      <subject source="lcsh">Life sciences</subject>
-      <subject source="lcsh">Medical sciences</subject>
-      <subject source="lcsh">Biochemistry</subject>
-      <subject source="lcsh">Cell and biomolecular sciences</subject>
-      <subject source="lcsh">Medical research</subject>
-      <subject source="lcsh">Biology -- Research</subject>
-      <subject source="lcsh">Medical education</subject>
-      <subject source="lcsh">Physiology</subject>
-    </controlaccess>
-    <dsc>
-      <c id="54478f95cf044229ba8a089c425e68ee" level="file">
-        <did>
-          <unittitle>Bibliography - Other Scientists</unittitle>
-          <container altrender="Half Lgl Document Storage Box" id="3b6c3f560d7e1f844a080ce672362ab1" label="mixed materials [A0000000066763]" type="box">1</container>
-          <container id="be5e2a2502e38ab1e435cd72c6138638" parent="3b6c3f560d7e1f844a080ce672362ab1" type="folder">1</container>
-        </did>
-      </c>
-      <c id="097a656869924db396a32cef553d8a8f" level="file">
-        <did>
-          <unittitle>Charts</unittitle>
-          <container altrender="Half Lgl Document Storage Box" id="706d2d8b01801cdf15734c3fe741eab4" label="mixed materials [A0000000066763]" type="box">1</container>
-          <container id="9c1fd5b925f22457bb9d8b68093b6c5a" parent="706d2d8b01801cdf15734c3fe741eab4" type="folder">2</container>
-        </did>
-      </c>
-      <c id="dce315cbfd4c41b98ebc2b7a4dcd8e31" level="file">
-        <did>
-          <unittitle>Laboratory Notebook</unittitle>
-          <container altrender="Half Lgl Document Storage Box" id="aa27a55c34680d9bbdb5bad65d5f2c5e" label="mixed materials [A0000000066763]" type="box">1</container>
-          <container id="9d035dae92caf5b1baebdeb5f259c6c4" parent="aa27a55c34680d9bbdb5bad65d5f2c5e" type="folder">3</container>
-        </did>
-      </c>
-      <c id="74b3f431520d436fb8bb2aa7821d1caa" level="file">
-        <did>
-          <unittitle>Photographs - Microscope</unittitle>
-          <container altrender="Half Lgl Document Storage Box" id="63c857d00da96e30e4d95dfc3ae4c4a8" label="mixed materials [A0000000066763]" type="box">1</container>
-          <container id="c9b90125a19efc65361c3ba68d474d9c" parent="63c857d00da96e30e4d95dfc3ae4c4a8" type="folder">4</container>
-        </did>
-      </c>
-      <c id="f99ae02920974946b719ce80126e5298" level="file">
-        <did>
-          <unittitle>Program</unittitle>
-          <container altrender="Half Lgl Document Storage Box" id="01ad5880b3bcd2b65046e86ee0cbe82a" label="mixed materials [A0000000066763]" type="box">1</container>
-          <container id="78d922143a1a6dfcb01e442b554922d6" parent="01ad5880b3bcd2b65046e86ee0cbe82a" type="folder">5</container>
-        </did>
-      </c>
-      <c id="cc1b2c61cdd141d3af17397c8a8fd1ef" level="file">
-        <did>
-          <unittitle>Glass slides</unittitle>
-          <container altrender="8x5 Card File Box (Short)" id="387236033c0aafbfc24cea37b6ad7768" label="mixed materials [A0000000066764]" type="box">2</container>
-        </did>
-      </c>
-    </dsc>
-  </archdesc>
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="under_revision" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid>FA192.xml</eadid><filedesc><titlestmt><titleproper type="filing">Robertson (Oswald H.) papers</titleproper><titleproper>A Guide to the Oswald H. Robertson papers, Rockefeller Institute for Medical Research Scientific Staff
+ <num>FA192</num></titleproper><author>LRH</author></titlestmt><publicationstmt><publisher>Rockefeller Archive Center</publisher><p><date>1988 June 6</date></p><address><addressline>15 Dayton Avenue</addressline><addressline>Sleepy Hollow 10591</addressline><addressline>archive@rockarch.org</addressline><addressline>URL: <extptr xlink:href="http://www.rockarch.org" xlink:show="new" xlink:title="http://www.rockarch.org" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2019-03-14 00:29:31 -0400</date>.</creation></profiledesc><revisiondesc><change><date>2010 September 29</date><item>Paper finding aid converted to EAD/XML by AureXus in 2010. Imported into the Archvists’ Toolkit by Becky Robbins.</item></change></revisiondesc></eadheader><archdesc level="collection">
+  <did>
+    <langmaterial>
+      <language langcode="eng">English</language>
+    </langmaterial>
+    <repository>
+      <corpname>Rockefeller Archive Center</corpname>
+    </repository>
+    <unittitle>Oswald H. Robertson papers, Rockefeller Institute for Medical Research Scientific Staff</unittitle>
+    <origination label="creator">
+      <corpname role="ctb" source="naf">Rockefeller University</corpname>
+    </origination>
+    <origination label="creator">
+      <corpname role="ctb" source="naf">Rockefeller Institute for Medical Research</corpname>
+    </origination>
+    <origination label="creator">
+      <persname role="aut" source="naf">Robertson, O. H. (Oswald Hope)</persname>
+    </origination>
+    <unitid>FA192</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">0.88 Cubic Feet</extent>
+    </physdesc>
+    <unitdate normal="1905/1925" type="inclusive">circa 1915</unitdate>
+  </did>
+  <bioghist id="9656f4dcc5ca0cc43941bcec123b2745">
+    <head>Biographical/Historical note</head>
+<p>Oswald H. Robertson (1886-1966), a physician, researcher, and educator, was affiliated with the Rockefeller Institute for Medical Research for five years, starting in 1915. He worked at RIMR with Peyton Rous on an investigation of the normal life span of red blood cells. Robertson also investigated other questions in hematology such as the effects of repeated transfusions on bone marrow activity.</p><p>Starting in 1919, Robertson held a position at the Peking Union Medical College. He was associate professor of medicine until 1923 and then become professor of medicine and head of the department until 1926.</p>  </bioghist>
+  <scopecontent id="0f0af93572e43fa01fd2c866f7756a4e">
+    <head>Scope and Contents note</head>
+<p>Includes bibliographic list, charts, glass slides, laboratory notebook, a program, and scientific photographs.</p>  </scopecontent>
+  <arrangement id="4e82ae90cab1d3f1977a57fa3fabe278">
+    <head>Arrangement note</head>
+<p>Arranged in alphabetical order by format.</p>  </arrangement>
+  <prefercite id="ba5675a9449511794e8fb63fd3b158bd">
+    <head>Preferred Citation</head>
+<p>Information regarding the Rockefeller Archive Center's preferred elements and forms of citation can be found at <extref href="http://www.rockarch.org/research/citations.php">http://www.rockarch.org/research/citations.php</extref></p>  </prefercite>
+  <fileplan id="7571ad5bcbdc33c9a5fc8ad37086f8b4">
+    <head>File Plan note</head>
+<p>Former Classification: I 450 R548</p>  </fileplan>
+  <processinfo id="95f5e7bdb2792f5a0e23b697d205338f">
+    <head>Processing Information</head>
+<p>Basic Level 1 Processing has been conducted to establish initial intellectual and physical control of the material and assess immediate preservation and conservation needs.</p>  </processinfo>
+  <accessrestrict id="add1e5c79c0817091f2a65593c5b8c4a">
+    <head>Conditions Governing Access note</head>
+<p>Access to this collection is restricted pending permission from Rockefeller University.</p>  </accessrestrict>
+  <controlaccess>
+    <subject source="lcsh">Blood</subject>
+    <subject source="lcsh">Hematology</subject>
+    <subject source="lcsh">Medicine, Preventive</subject>
+    <subject source="lcsh">Life sciences</subject>
+    <subject source="lcsh">Medical sciences</subject>
+    <subject source="lcsh">Biochemistry</subject>
+    <subject source="lcsh">Cell and biomolecular sciences</subject>
+    <subject source="lcsh">Medical research</subject>
+    <subject source="lcsh">Biology -- Research</subject>
+    <subject source="lcsh">Medical education</subject>
+    <subject source="lcsh">Physiology</subject>
+  </controlaccess>
+  <dsc><c id="54478f95cf044229ba8a089c425e68ee" level="file"><did><unittitle>Bibliography - Other Scientists</unittitle><container altrender="Half Lgl Document Storage Box" id="f9cc191b7b052fca7f8b1a78276cd25a" label="mixed materials [A0000000066763]" type="box">1</container><container id="d369a07c5300be16f08f339b0c0490d7" parent="f9cc191b7b052fca7f8b1a78276cd25a" type="folder">1</container></did></c><c id="097a656869924db396a32cef553d8a8f" level="file"><did><unittitle>Charts</unittitle><container altrender="Half Lgl Document Storage Box" id="fa9d562baf389e20daa23fc6eceef80d" label="mixed materials [A0000000066763]" type="box">1</container><container id="7f439b8d8d4c69ab950ee78b77c2e8bc" parent="fa9d562baf389e20daa23fc6eceef80d" type="folder">2</container></did></c><c id="dce315cbfd4c41b98ebc2b7a4dcd8e31" level="file"><did><unittitle>Laboratory Notebook</unittitle><container altrender="Half Lgl Document Storage Box" id="00b8a4b72dd006a7b376cb9e08ba4c51" label="mixed materials [A0000000066763]" type="box">1</container><container id="1a7aa48ddc718fce2cd7e49a17b7539d" parent="00b8a4b72dd006a7b376cb9e08ba4c51" type="folder">3</container></did></c><c id="74b3f431520d436fb8bb2aa7821d1caa" level="file"><did><unittitle>Photographs - Microscope</unittitle><container altrender="Half Lgl Document Storage Box" id="4f143b3fdd6ba6d529a9e561cca7f8cf" label="mixed materials [A0000000066763]" type="box">1</container><container id="5f06e4a0007901689a57ee98618b1f13" parent="4f143b3fdd6ba6d529a9e561cca7f8cf" type="folder">4</container></did></c><c id="f99ae02920974946b719ce80126e5298" level="file"><did><unittitle>Program</unittitle><container altrender="Half Lgl Document Storage Box" id="17eada043155a6403c6819067e6c5409" label="mixed materials [A0000000066763]" type="box">1</container><container id="d93b8f4d0d40fd359617973a8cf8dd2c" parent="17eada043155a6403c6819067e6c5409" type="folder">5</container></did></c><c id="cc1b2c61cdd141d3af17397c8a8fd1ef" level="file"><did><unittitle>Glass slides</unittitle><container altrender="8x5 Card File Box (Short)" id="1ef4f42dc077c1d4870c3b38c66c1c99" label="mixed materials [A0000000066764]" type="box">2</container></did></c></dsc>
+</archdesc>
 </ead>

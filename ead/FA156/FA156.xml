@@ -1,268 +1,60 @@
-<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
-  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="under_revision" langencoding="iso639-2b" repositoryencoding="iso15511">
-    <eadid>FA156.xml</eadid>
-    <filedesc>
-      <titlestmt>
-        <titleproper type="filing">Cranefield (Paul F.) papers</titleproper>
-        <titleproper>A Guide to the Paul F. Cranefield papers, Rockefeller University Faculty
- <num>FA156</num></titleproper>
-        <author>LRH</author>
-      </titlestmt>
-      <publicationstmt>
-        <publisher>Rockefeller Archive Center</publisher>
-        <p>
-          <date>1989 March 1</date>
-        </p>
-        <address>
-          <addressline>15 Dayton Avenue</addressline>
-          <addressline>Sleepy Hollow 10591</addressline>
-          <addressline>archive@rockarch.org</addressline>
-          <addressline>URL: <extptr xlink:href="http://www.rockarch.org" xlink:show="new" xlink:title="http://www.rockarch.org" xlink:type="simple"/></addressline>
-        </address>
-      </publicationstmt>
-    </filedesc>
-    <profiledesc>
-      <creation>This finding aid was produced using ArchivesSpace on <date>2018-11-02 00:18:20 -0400</date>.</creation>
-    </profiledesc>
-    <revisiondesc>
-      <change>
-        <date>25 August 2010</date>
-        <item>Paper finding aid converted to EAD/XML by AureXus in 2010. Imported into the Archvists’ Toolkit by Becky Robbins.</item>
-      </change>
-    </revisiondesc>
-  </eadheader>
-  <archdesc level="collection">
-    <did>
-      <langmaterial>
-        <language langcode="eng">English</language>
-      </langmaterial>
-      <repository>
-        <corpname>Rockefeller Archive Center</corpname>
-      </repository>
-      <unittitle>Paul F. Cranefield papers, Rockefeller University Faculty</unittitle>
-      <origination label="creator">
-        <persname role="aut" source="naf">Cranefield, Paul F. (Paul Frederic)</persname>
-      </origination>
-      <unitid>FA156</unitid>
-      <physdesc altrender="whole">
-        <extent altrender="materialtype spaceoccupied">0.44 Cubic Feet</extent>
-        <extent altrender="carrier">1 box.</extent>
-      </physdesc>
-      <unitdate normal="1952/1988" type="inclusive">1952-1988, undated</unitdate>
-      <physdesc id="9d08fa89253a409149ef06dc09477803">1 box.</physdesc>
-    </did>
-    <bioghist id="c6a3b676acdd84a67c3396cadf27e1d8">
-      <head>Biographical/Historical note</head>
-      <p>Paul F. Cranefield (1925-2003) was a physician and professor at the Rockefeller University since 1966. His laboratory focused on studies of the causes of cardiac arrhythmia. Dr. Cranefield was the editor of the RU-based Journal of General Physiology and has published articles in the histories of biophysics, psychoanalysis, and mental retardation.</p>
-    </bioghist>
-    <arrangement id="354922466aaf89966669771c7b603a2b">
-      <head>Arrangement note</head>
-      <p>Arranged in chronological order.</p>
-    </arrangement>
-    <fileplan id="2aae6d8b57579e8ff165b768becf911e">
-      <head>File Plan note</head>
-      <p>Former Classification: I 450 C850</p>
-    </fileplan>
-    <prefercite id="d0a7409da3389b1b148494e72d9cc99c">
-      <head>Preferred Citation</head>
-      <p>Information regarding the Rockefeller Archive Center's preferred elements and forms of citation can be found at <extref href="http://www.rockarch.org/research/citations.php">http://www.rockarch.org/research/citations.php</extref></p>
-    </prefercite>
-    <accessrestrict id="6ce5665f2399c9884c5cb524c72f2e69">
-      <head>Conditions Governing Access note</head>
-      <p>Access to this collection is restricted pending permission from Rockefeller University. Limited access. Donor's permission to Ackerknecht correspondence is required until 1 January 2020. Consult archivist for assistance.</p>
-    </accessrestrict>
-    <acqinfo id="115e16d1dc0fc9c3aea4658442407d46">
-      <head>Immediate Source of Acquisition</head>
-      <p>Material received 1985 April 19.</p>
-    </acqinfo>
-    <processinfo id="1d16f379e33e777b0a5aba6c66f9df5f">
-      <head>Processing Information</head>
-      <p>Processed by Lee R. Hiltzik, 1989 March 1.</p>
-    </processinfo>
-    <scopecontent id="417190f12520b3f4fbf05d22b88d64fe">
-      <head>Scope and Contents</head>
-      <p>This collection is comprised entirely of correspondence.</p>
-    </scopecontent>
-    <controlaccess>
-      <subject source="lcsh">Medical education</subject>
-      <subject source="lcsh">Physics</subject>
-      <subject source="lcsh">Biology -- Research</subject>
-      <subject source="lcsh">Biophysics</subject>
-      <subject source="lcsh">Medical sciences</subject>
-      <subject source="lcsh">Medical research</subject>
-      <corpname role="ctb" source="naf">Rockefeller Institute for Medical Research</corpname>
-      <corpname role="ctb" source="naf">Rockefeller University</corpname>
-      <persname role="ctb" source="naf">Ackerknecht, Erwin Heinz</persname>
-    </controlaccess>
-    <dsc>
-      <c id="8c92d28342a94d2baf3c1c10530ebfa6" level="series">
-        <did>
-          <unittitle>Erwin H. Ackerknecht Correspondence</unittitle>
-          <unitid>1</unitid>
-          <physdesc altrender="whole">
-            <extent altrender="materialtype spaceoccupied">0.4 Cubic Feet</extent>
-          </physdesc>
-          <unitdate normal="1952/1988" type="inclusive">1952-1988, undated</unitdate>
-        </did>
-        <bioghist id="b2d0a16a02426ac0df75a301441a8d18">
-          <head>Biographical/Historical note</head>
-          <p>Erwin H. Ackerknecht (1906-1988) was a professor of the history of medicine. He was director of the Institute of the History of Medicine at the University of Zurich from 1957 until his retirement in 1971. Dr. Ackerknecht supervised 155 dissertations primarily in the history of medicine, about 140 of which were at Zurich. Prior to his position in Zurich, German-born Ackerknecht was the first professor of the history of medicine at the University of Wisconsin at Madison (1947-1957).</p>
-          <p>In his youth, Ackerknecht was involved in radical left-wing politics in Germany. There, he became associated with Leon Trotsky. In early 1933, Ackerknecht went underground and later fled Nazi Germany to France. By 1938, Ackerknecht had philosophically broken with the radical left and became a staunch centrist democrat.</p>
-        </bioghist>
-        <scopecontent id="73aba54d271c4296a870bbd5f470b317">
-          <head>Scope and Contents note</head>
-          <p>Consists primarily of correspondence by E.H. Ackerknecht to P.F. Cranefield. Also includes obituary material on Ackerknecht.</p>
-        </scopecontent>
-        <arrangement id="69fb33bbb100a46d6fc22a31ada7239d">
-          <head>Arrangement note</head>
-          <p>Arranged in chronological order.</p>
-        </arrangement>
-        <accessrestrict id="d2cf46844e291bf0f3fc98007eaa789f">
-          <head>Conditions Governing Access</head>
-          <p>Donor permission required until 1 January 2020.</p>
-        </accessrestrict>
-        <c id="af28aae726fc46f6805ec0626c19b7c5" level="file">
-          <did>
-            <unitdate normal="1952/1954" type="inclusive">1952-1954</unitdate>
-            <container id="d358f5d56cdc3a5cf6382c6374415dae" label="mixed materials [155732.1.318]" type="box">1</container>
-            <container id="fdb972b6658a0744cf7010d991ba3fc5" parent="d358f5d56cdc3a5cf6382c6374415dae" type="folder">1</container>
-          </did>
-          <accessrestrict id="e6679d03b02f75ccff912a6778e07b70">
-            <head>Conditions Governing Access</head>
-            <p>Donor permission required until 1 January 2020.</p>
-          </accessrestrict>
-        </c>
-        <c id="967a8b847bec493fa42432d5e95d40e1" level="file">
-          <did>
-            <unitdate normal="1955/1957" type="inclusive">1955-1957</unitdate>
-            <container id="6f9a8c8c3a30fde2b90bab0609896034" label="mixed materials [155732.1.318]" type="box">1</container>
-            <container id="7041b9f85ddf0ddabe2a02835e8e18ee" parent="6f9a8c8c3a30fde2b90bab0609896034" type="folder">2</container>
-          </did>
-          <accessrestrict id="483cba72625d79907d475f1868b1d24b">
-            <head>Conditions Governing Access</head>
-            <p>Donor permission required until 1 January 2020.</p>
-          </accessrestrict>
-        </c>
-        <c id="b1c6924fac604423b199ac71dee7ae37" level="file">
-          <did>
-            <unitdate normal="1958/1961" type="inclusive">1958-1961</unitdate>
-            <container id="310e1da43b41e7e5a21d95a7e5ac5381" label="mixed materials [155732.1.318]" type="box">1</container>
-            <container id="b38d08fea35ec58fddb99bdd929ec759" parent="310e1da43b41e7e5a21d95a7e5ac5381" type="folder">3</container>
-          </did>
-          <accessrestrict id="18bda3142bf2bccf9722ef7cf30fa1cf">
-            <head>Conditions Governing Access</head>
-            <p>Donor permission required until 1 January 2020.</p>
-          </accessrestrict>
-        </c>
-        <c id="cc7a9ad8807e4253b705726278faccc2" level="file">
-          <did>
-            <unitdate normal="1962/1964" type="inclusive">1962-1964</unitdate>
-            <container id="eb51b0e5785a1e90eafed1ca7853fdae" label="mixed materials [155732.1.318]" type="box">1</container>
-            <container id="0846ea196ab5d3d82cc01ebc28207c7b" parent="eb51b0e5785a1e90eafed1ca7853fdae" type="folder">4</container>
-          </did>
-          <accessrestrict id="f585360d32af11e8e46da05cdfc18d4b">
-            <head>Conditions Governing Access</head>
-            <p>Donor permission required until 1 January 2020.</p>
-          </accessrestrict>
-        </c>
-        <c id="46e6d292385d4249b820fd2efca54480" level="file">
-          <did>
-            <unitdate normal="1965/1967" type="inclusive">1965-1967</unitdate>
-            <container id="13d82deec7ac2c42761f71d4950968e8" label="mixed materials [155732.1.318]" type="box">1</container>
-            <container id="f055dc2782c8ed994b51b80650e94bed" parent="13d82deec7ac2c42761f71d4950968e8" type="folder">5</container>
-          </did>
-          <accessrestrict id="f2cb4db668ae79a81626b9ee41ef081b">
-            <head>Conditions Governing Access</head>
-            <p>Donor permission required until 1 January 2020.</p>
-          </accessrestrict>
-        </c>
-        <c id="82bc18ec493d4bb0abb4d2d84fe509ed" level="file">
-          <did>
-            <unitdate normal="1968/1970" type="inclusive">1968-1970</unitdate>
-            <container id="6b28e6371bfeb76285f0821d77324224" label="mixed materials [155732.1.318]" type="box">1</container>
-            <container id="b643319f45d4c4aea40835ce8a4ad1b3" parent="6b28e6371bfeb76285f0821d77324224" type="folder">6</container>
-          </did>
-          <accessrestrict id="101ad17c06307e6906d8238720da6e9e">
-            <head>Conditions Governing Access</head>
-            <p>Donor permission required until 1 January 2020.</p>
-          </accessrestrict>
-        </c>
-        <c id="4aeaec2297a948a5b1838d3e3ca6a773" level="file">
-          <did>
-            <unitdate normal="1971/1974" type="inclusive">1971-1974</unitdate>
-            <container id="434b1494451a913d48f1902b96d89502" label="mixed materials [155732.1.318]" type="box">1</container>
-            <container id="a893b45aa3ca8c63a2185a006bc0fd79" parent="434b1494451a913d48f1902b96d89502" type="folder">7</container>
-          </did>
-          <accessrestrict id="eac103b796580562160c22b79264a9d3">
-            <head>Conditions Governing Access</head>
-            <p>Donor permission required until 1 January 2020.</p>
-          </accessrestrict>
-        </c>
-        <c id="992985e645924102838ddde494bbfc1e" level="file">
-          <did>
-            <unitdate normal="1975/1978" type="inclusive">1975-1978</unitdate>
-            <container id="94b30c20949dcc9fe1356cb0d779fe2c" label="mixed materials [155732.1.318]" type="box">1</container>
-            <container id="8688f16ffb68663f3cfa594c95246037" parent="94b30c20949dcc9fe1356cb0d779fe2c" type="folder">8</container>
-          </did>
-          <accessrestrict id="ab62165d8f622b9ba877b44c95eb8381">
-            <head>Conditions Governing Access</head>
-            <p>Donor permission required until 1 January 2020.</p>
-          </accessrestrict>
-        </c>
-        <c id="98ccce7251e1402c8e13eae5411ca54a" level="file">
-          <did>
-            <unitdate normal="1979/1982" type="inclusive">1979-1982</unitdate>
-            <container id="51cc423cdb7e21ada7b61d49f5164d5a" label="mixed materials [155732.1.318]" type="box">1</container>
-            <container id="57ca973e58dd84f0a0d46871e738068d" parent="51cc423cdb7e21ada7b61d49f5164d5a" type="folder">9</container>
-          </did>
-          <accessrestrict id="3f174f4fdd7b5cc012de4052c2330f0b">
-            <head>Conditions Governing Access</head>
-            <p>Donor permission required until 1 January 2020.</p>
-          </accessrestrict>
-        </c>
-        <c id="16ded7b2293f4499bf99992ba19834d2" level="file">
-          <did>
-            <unitdate normal="1983/1985" type="inclusive">1983-1985</unitdate>
-            <container id="cffab8f525a01be34d379973a21da25d" label="mixed materials [155732.1.318]" type="box">1</container>
-            <container id="efe91f30bd41b81ee6447999828c3363" parent="cffab8f525a01be34d379973a21da25d" type="folder">10</container>
-          </did>
-          <accessrestrict id="29a8d17ea481ecbc60c75a00e4bc851e">
-            <head>Conditions Governing Access</head>
-            <p>Donor permission required until 1 January 2020.</p>
-          </accessrestrict>
-        </c>
-        <c id="07a7bd155ad1469a829f90d43c23e88f" level="file">
-          <did>
-            <unitdate normal="1986/1988" type="inclusive">1986-1988</unitdate>
-            <container id="0bea618022415d8f6b3d704617207208" label="mixed materials [155732.1.318]" type="box">1</container>
-            <container id="52fdf22ffaae46850b5c61804316a822" parent="0bea618022415d8f6b3d704617207208" type="folder">11</container>
-          </did>
-          <accessrestrict id="fa8fb6c43993e3bb1a31f74a442993d4">
-            <head>Conditions Governing Access</head>
-            <p>Donor permission required until 1 January 2020.</p>
-          </accessrestrict>
-        </c>
-        <c id="3f09a7f2256242b8b1a1e679f87a4fd4" level="file">
-          <did>
-            <unitdate>undated</unitdate>
-            <physdesc id="48208804256c21ca79135990f109f437">fragments</physdesc>
-            <container id="9efc947dca7280c80ec30cd7641b9f19" label="mixed materials [155732.1.318]" type="box">1</container>
-            <container id="cdda6b9f5358b3895a2c08ea8f6a965d" parent="9efc947dca7280c80ec30cd7641b9f19" type="folder">12</container>
-          </did>
-          <accessrestrict id="cd841a62c5eb7d5b2dcbb34430dd66e5">
-            <head>Conditions Governing Access</head>
-            <p>Donor permission required until 1 January 2020.</p>
-          </accessrestrict>
-        </c>
-        <c id="38d0cd4971f549e09021ef2ea7137275" level="file">
-          <did>
-            <unittitle>Erwin H. Ackerknecht obituary</unittitle>
-            <unitdate normal="1988/1988" type="inclusive">1988</unitdate>
-            <container id="d69f901b851c6177ac5089446631f7aa" label="mixed materials [155732.1.318]" type="box">1</container>
-            <container id="7339e38e2957894881eff99afa989735" parent="d69f901b851c6177ac5089446631f7aa" type="folder">13</container>
-          </did>
-        </c>
-      </c>
-    </dsc>
-  </archdesc>
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="under_revision" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid>FA156.xml</eadid><filedesc><titlestmt><titleproper type="filing">Cranefield (Paul F.) papers</titleproper><titleproper>A Guide to the Paul F. Cranefield papers, Rockefeller University Faculty
+ <num>FA156</num></titleproper><author>LRH</author></titlestmt><publicationstmt><publisher>Rockefeller Archive Center</publisher><p><date>1989 March 1</date></p><address><addressline>15 Dayton Avenue</addressline><addressline>Sleepy Hollow 10591</addressline><addressline>archive@rockarch.org</addressline><addressline>URL: <extptr xlink:href="http://www.rockarch.org" xlink:show="new" xlink:title="http://www.rockarch.org" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2019-03-14 00:19:20 -0400</date>.</creation></profiledesc><revisiondesc><change><date>25 August 2010</date><item>Paper finding aid converted to EAD/XML by AureXus in 2010. Imported into the Archvists’ Toolkit by Becky Robbins.</item></change></revisiondesc></eadheader><archdesc level="collection">
+  <did>
+    <langmaterial>
+      <language langcode="eng">English</language>
+    </langmaterial>
+    <repository>
+      <corpname>Rockefeller Archive Center</corpname>
+    </repository>
+    <unittitle>Paul F. Cranefield papers, Rockefeller University Faculty</unittitle>
+    <origination label="creator">
+      <persname role="aut" source="naf">Cranefield, Paul F. (Paul Frederic)</persname>
+    </origination>
+    <unitid>FA156</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">0.44 Cubic Feet</extent>
+      <extent altrender="carrier">1 box.</extent>
+    </physdesc>
+    <unitdate normal="1952/1988" type="inclusive">1952-1988, undated</unitdate>
+    <physdesc id="9d08fa89253a409149ef06dc09477803">1 box.</physdesc>
+  </did>
+  <bioghist id="c6a3b676acdd84a67c3396cadf27e1d8">
+    <head>Biographical/Historical note</head>
+<p>Paul F. Cranefield (1925-2003) was a physician and professor at the Rockefeller University since 1966. His laboratory focused on studies of the causes of cardiac arrhythmia. Dr. Cranefield was the editor of the RU-based Journal of General Physiology and has published articles in the histories of biophysics, psychoanalysis, and mental retardation.</p>  </bioghist>
+  <arrangement id="354922466aaf89966669771c7b603a2b">
+    <head>Arrangement note</head>
+<p>Arranged in chronological order.</p>  </arrangement>
+  <fileplan id="2aae6d8b57579e8ff165b768becf911e">
+    <head>File Plan note</head>
+<p>Former Classification: I 450 C850</p>  </fileplan>
+  <prefercite id="d0a7409da3389b1b148494e72d9cc99c">
+    <head>Preferred Citation</head>
+<p>Information regarding the Rockefeller Archive Center's preferred elements and forms of citation can be found at <extref href="http://www.rockarch.org/research/citations.php">http://www.rockarch.org/research/citations.php</extref></p>  </prefercite>
+  <accessrestrict id="6ce5665f2399c9884c5cb524c72f2e69">
+    <head>Conditions Governing Access note</head>
+<p>Access to this collection is restricted pending permission from Rockefeller University. Limited access. Donor's permission to Ackerknecht correspondence is required until 1 January 2020. Consult archivist for assistance.</p>  </accessrestrict>
+  <acqinfo id="115e16d1dc0fc9c3aea4658442407d46">
+    <head>Immediate Source of Acquisition</head>
+<p>Material received 1985 April 19.</p>  </acqinfo>
+  <processinfo id="1d16f379e33e777b0a5aba6c66f9df5f">
+    <head>Processing Information</head>
+<p>Processed by Lee R. Hiltzik, 1989 March 1.</p>  </processinfo>
+  <scopecontent id="417190f12520b3f4fbf05d22b88d64fe">
+    <head>Scope and Contents</head>
+<p>This collection is comprised entirely of correspondence.</p>  </scopecontent>
+  <controlaccess>
+    <subject source="lcsh">Medical education</subject>
+    <subject source="lcsh">Physics</subject>
+    <subject source="lcsh">Biology -- Research</subject>
+    <subject source="lcsh">Biophysics</subject>
+    <subject source="lcsh">Medical sciences</subject>
+    <subject source="lcsh">Medical research</subject>
+    <corpname role="ctb" source="naf">Rockefeller Institute for Medical Research</corpname>
+    <corpname role="ctb" source="naf">Rockefeller University</corpname>
+    <persname role="ctb" source="naf">Ackerknecht, Erwin Heinz</persname>
+  </controlaccess>
+  <dsc><c id="8c92d28342a94d2baf3c1c10530ebfa6" level="series"><did><unittitle>Erwin H. Ackerknecht Correspondence</unittitle><unitid>1</unitid><physdesc altrender="whole"><extent altrender="materialtype spaceoccupied">0.4 Cubic Feet</extent></physdesc><unitdate normal="1952/1988" type="inclusive">1952-1988, undated</unitdate></did><bioghist id="b2d0a16a02426ac0df75a301441a8d18"><head>Biographical/Historical note</head><p>Erwin H. Ackerknecht (1906-1988) was a professor of the history of medicine. He was director of the Institute of the History of Medicine at the University of Zurich from 1957 until his retirement in 1971. Dr. Ackerknecht supervised 155 dissertations primarily in the history of medicine, about 140 of which were at Zurich. Prior to his position in Zurich, German-born Ackerknecht was the first professor of the history of medicine at the University of Wisconsin at Madison (1947-1957).</p><p>In his youth, Ackerknecht was involved in radical left-wing politics in Germany. There, he became associated with Leon Trotsky. In early 1933, Ackerknecht went underground and later fled Nazi Germany to France. By 1938, Ackerknecht had philosophically broken with the radical left and became a staunch centrist democrat.</p></bioghist><scopecontent id="73aba54d271c4296a870bbd5f470b317"><head>Scope and Contents note</head><p>Consists primarily of correspondence by E.H. Ackerknecht to P.F. Cranefield. Also includes obituary material on Ackerknecht.</p></scopecontent><arrangement id="69fb33bbb100a46d6fc22a31ada7239d"><head>Arrangement note</head><p>Arranged in chronological order.</p></arrangement><accessrestrict id="d2cf46844e291bf0f3fc98007eaa789f"><head>Conditions Governing Access</head><p>Donor permission required until 1 January 2020.</p></accessrestrict><c id="af28aae726fc46f6805ec0626c19b7c5" level="file"><did><unitdate normal="1952/1954" type="inclusive">1952-1954</unitdate><container id="9793ab978c0abe72c9a65b376f62a5f1" label="mixed materials [155732.1.318]" type="box">1</container><container id="5eac8e0f5ce7879b4f3648bef6b6e675" parent="9793ab978c0abe72c9a65b376f62a5f1" type="folder">1</container></did><accessrestrict id="e6679d03b02f75ccff912a6778e07b70"><head>Conditions Governing Access</head><p>Donor permission required until 1 January 2020.</p></accessrestrict></c><c id="967a8b847bec493fa42432d5e95d40e1" level="file"><did><unitdate normal="1955/1957" type="inclusive">1955-1957</unitdate><container id="9e83db6c5a4cd45f187ea5f61e8b1625" label="mixed materials [155732.1.318]" type="box">1</container><container id="f70d32651795d7d7bd005cd09c44ead5" parent="9e83db6c5a4cd45f187ea5f61e8b1625" type="folder">2</container></did><accessrestrict id="483cba72625d79907d475f1868b1d24b"><head>Conditions Governing Access</head><p>Donor permission required until 1 January 2020.</p></accessrestrict></c><c id="b1c6924fac604423b199ac71dee7ae37" level="file"><did><unitdate normal="1958/1961" type="inclusive">1958-1961</unitdate><container id="00772d4252f84036d04cf22a6813025f" label="mixed materials [155732.1.318]" type="box">1</container><container id="54f478cb699d7773ba370f16bdf2c18b" parent="00772d4252f84036d04cf22a6813025f" type="folder">3</container></did><accessrestrict id="18bda3142bf2bccf9722ef7cf30fa1cf"><head>Conditions Governing Access</head><p>Donor permission required until 1 January 2020.</p></accessrestrict></c><c id="cc7a9ad8807e4253b705726278faccc2" level="file"><did><unitdate normal="1962/1964" type="inclusive">1962-1964</unitdate><container id="2ea16f5ed2d41fd9baad3b7cb02d19fd" label="mixed materials [155732.1.318]" type="box">1</container><container id="268be75b21b95420b60946fef7e55043" parent="2ea16f5ed2d41fd9baad3b7cb02d19fd" type="folder">4</container></did><accessrestrict id="f585360d32af11e8e46da05cdfc18d4b"><head>Conditions Governing Access</head><p>Donor permission required until 1 January 2020.</p></accessrestrict></c><c id="46e6d292385d4249b820fd2efca54480" level="file"><did><unitdate normal="1965/1967" type="inclusive">1965-1967</unitdate><container id="fcf62848ac7f71fbd4362b3e8304556d" label="mixed materials [155732.1.318]" type="box">1</container><container id="9ebd605c4f6f0d843a4fd7c937906f0c" parent="fcf62848ac7f71fbd4362b3e8304556d" type="folder">5</container></did><accessrestrict id="f2cb4db668ae79a81626b9ee41ef081b"><head>Conditions Governing Access</head><p>Donor permission required until 1 January 2020.</p></accessrestrict></c><c id="82bc18ec493d4bb0abb4d2d84fe509ed" level="file"><did><unitdate normal="1968/1970" type="inclusive">1968-1970</unitdate><container id="4dc211592d196ea6d6c4d9033c084af2" label="mixed materials [155732.1.318]" type="box">1</container><container id="a1e139f2c3854d3370be847ecd919f81" parent="4dc211592d196ea6d6c4d9033c084af2" type="folder">6</container></did><accessrestrict id="101ad17c06307e6906d8238720da6e9e"><head>Conditions Governing Access</head><p>Donor permission required until 1 January 2020.</p></accessrestrict></c><c id="4aeaec2297a948a5b1838d3e3ca6a773" level="file"><did><unitdate normal="1971/1974" type="inclusive">1971-1974</unitdate><container id="3cc6193802aa9da695867499af2f410f" label="mixed materials [155732.1.318]" type="box">1</container><container id="4e6d510ff761bd52f0743891f5037177" parent="3cc6193802aa9da695867499af2f410f" type="folder">7</container></did><accessrestrict id="eac103b796580562160c22b79264a9d3"><head>Conditions Governing Access</head><p>Donor permission required until 1 January 2020.</p></accessrestrict></c><c id="992985e645924102838ddde494bbfc1e" level="file"><did><unitdate normal="1975/1978" type="inclusive">1975-1978</unitdate><container id="b3f6b5e5a7ff0c7756e85b47a20bbed2" label="mixed materials [155732.1.318]" type="box">1</container><container id="6bda9c47e3cdfbdd951707619456ae12" parent="b3f6b5e5a7ff0c7756e85b47a20bbed2" type="folder">8</container></did><accessrestrict id="ab62165d8f622b9ba877b44c95eb8381"><head>Conditions Governing Access</head><p>Donor permission required until 1 January 2020.</p></accessrestrict></c><c id="98ccce7251e1402c8e13eae5411ca54a" level="file"><did><unitdate normal="1979/1982" type="inclusive">1979-1982</unitdate><container id="a21ed33bcd58756b0522f8d1398acd94" label="mixed materials [155732.1.318]" type="box">1</container><container id="a1a4b653246a9db9bc195707d1f4fa3b" parent="a21ed33bcd58756b0522f8d1398acd94" type="folder">9</container></did><accessrestrict id="3f174f4fdd7b5cc012de4052c2330f0b"><head>Conditions Governing Access</head><p>Donor permission required until 1 January 2020.</p></accessrestrict></c><c id="16ded7b2293f4499bf99992ba19834d2" level="file"><did><unitdate normal="1983/1985" type="inclusive">1983-1985</unitdate><container id="9905f03ef2548d2cfcc9ad706505414e" label="mixed materials [155732.1.318]" type="box">1</container><container id="f3773def5426c2570c3bd5ebc5aaee03" parent="9905f03ef2548d2cfcc9ad706505414e" type="folder">10</container></did><accessrestrict id="29a8d17ea481ecbc60c75a00e4bc851e"><head>Conditions Governing Access</head><p>Donor permission required until 1 January 2020.</p></accessrestrict></c><c id="07a7bd155ad1469a829f90d43c23e88f" level="file"><did><unitdate normal="1986/1988" type="inclusive">1986-1988</unitdate><container id="02f317a79e22ea36adfb953f35078445" label="mixed materials [155732.1.318]" type="box">1</container><container id="25579c3977f260f713ee46ca9c725ef5" parent="02f317a79e22ea36adfb953f35078445" type="folder">11</container></did><accessrestrict id="fa8fb6c43993e3bb1a31f74a442993d4"><head>Conditions Governing Access</head><p>Donor permission required until 1 January 2020.</p></accessrestrict></c><c id="3f09a7f2256242b8b1a1e679f87a4fd4" level="file"><did><unitdate>undated</unitdate><physdesc id="48208804256c21ca79135990f109f437">fragments</physdesc><container id="7f6da0912b491c764710ae405818dbe0" label="mixed materials [155732.1.318]" type="box">1</container><container id="9fe4e1581b2dd85631117401bdc04ad9" parent="7f6da0912b491c764710ae405818dbe0" type="folder">12</container></did><accessrestrict id="cd841a62c5eb7d5b2dcbb34430dd66e5"><head>Conditions Governing Access</head><p>Donor permission required until 1 January 2020.</p></accessrestrict></c><c id="38d0cd4971f549e09021ef2ea7137275" level="file"><did><unittitle>Erwin H. Ackerknecht obituary</unittitle><unitdate normal="1988/1988" type="inclusive">1988</unitdate><container id="db8dc25de2cea27491cf12cd22b1031d" label="mixed materials [155732.1.318]" type="box">1</container><container id="4b0561f54972025f277dcefd063866a2" parent="db8dc25de2cea27491cf12cd22b1031d" type="folder">13</container></did></c></c></dsc>
+</archdesc>
 </ead>

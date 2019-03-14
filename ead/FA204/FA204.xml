@@ -1,298 +1,139 @@
-<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
-  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="under_revision" langencoding="iso639-2b" repositoryencoding="iso15511">
-    <eadid>FA204.xml</eadid>
-    <filedesc>
-      <titlestmt>
-        <titleproper type="filing">Webster (Leslie T.) papers</titleproper>
-        <titleproper>A Guide to the Leslie T. Webster papers, Rockefeller Institute for Medical Research Scientific Staff
- <num>FA204</num></titleproper>
-      </titlestmt>
-      <publicationstmt>
-        <publisher>Rockefeller Archive Center</publisher>
-        <address>
-          <addressline>15 Dayton Avenue</addressline>
-          <addressline>Sleepy Hollow 10591</addressline>
-          <addressline>archive@rockarch.org</addressline>
-          <addressline>URL: <extptr xlink:href="http://www.rockarch.org" xlink:show="new" xlink:title="http://www.rockarch.org" xlink:type="simple"/></addressline>
-        </address>
-      </publicationstmt>
-    </filedesc>
-    <profiledesc>
-      <creation>This finding aid was produced using ArchivesSpace on <date>2018-11-02 00:30:38 -0400</date>.</creation>
-    </profiledesc>
-    <revisiondesc>
-      <change>
-        <date>2010 October 4</date>
-        <item>Paper finding aid converted to EAD/XML by AureXus in 2010. Imported into the Archvists’ Toolkit by Becky Robbins.</item>
-      </change>
-    </revisiondesc>
-  </eadheader>
-  <archdesc level="collection">
-    <did>
-      <langmaterial>
-        <language langcode="eng">English</language>
-      </langmaterial>
-      <repository>
-        <corpname>Rockefeller Archive Center</corpname>
-      </repository>
-      <unittitle>Leslie T. Webster papers, Rockefeller Institute for Medical Research Scientific Staff</unittitle>
-      <origination label="creator">
-        <persname role="aut" rules="dacs">Webster, Leslie Tillotson</persname>
-      </origination>
-      <unitid>FA204</unitid>
-      <physdesc altrender="whole">
-        <extent altrender="materialtype spaceoccupied">0.5 Cubic Feet</extent>
-        <extent altrender="carrier">1 box and 1 volume</extent>
-      </physdesc>
-      <unitdate normal="1919/1943" type="inclusive">1919-1943, undated</unitdate>
-    </did>
-    <bioghist id="6c567020da8f284fae96a2cae4456af0">
-      <head>Biographical/Historical note</head>
-      <p>Leslie Tillotson Webster, 1894-1943, physician and researcher worked in epidemiology and bacteriology at The Rockefeller Institute for Medical Research from 1920 until his death in 1943. He was a pioneer in the investigation of the importance of natural resistance to disease and the experimental facts on the basis of which the spread of epidemics can be explained. Author of book "Rabies" published in 1942.</p>
-      <chronlist>
-        <head>Biographical note</head>
-        <chronitem>
-          <date>1894</date>
-          <eventgrp>
-            <event>Born July 23 New York, N.Y.</event>
-          </eventgrp>
-        </chronitem>
-        <chronitem>
-          <date>1915</date>
-          <eventgrp>
-            <event>A.B. Amherst College, Amherst, Mass.</event>
-          </eventgrp>
-        </chronitem>
-        <chronitem>
-          <date>1919</date>
-          <eventgrp>
-            <event>M.D. Johns Hopkins Medical School, Baltimore, Md.</event>
-          </eventgrp>
-        </chronitem>
-        <chronitem>
-          <date>1919-1920</date>
-          <eventgrp>
-            <event>Assistant Resident Pathologist, Johns Hopkins Hospital</event>
-          </eventgrp>
-        </chronitem>
-        <chronitem>
-          <date>1919-1920</date>
-          <eventgrp>
-            <event>Assistant in Pathology, Johns Hopkins Medical School</event>
-          </eventgrp>
-        </chronitem>
-        <chronitem>
-          <date>1920-1923</date>
-          <eventgrp>
-            <event>Assistant (Pathology and Bacteriology) Rockefeller Institute for Medical Research, New York, N.Y.</event>
-          </eventgrp>
-        </chronitem>
-        <chronitem>
-          <date>1923-1927</date>
-          <eventgrp>
-            <event>Associate, RIMR</event>
-          </eventgrp>
-        </chronitem>
-        <chronitem>
-          <date>1927-1934</date>
-          <eventgrp>
-            <event>Associate Member, RIMR</event>
-          </eventgrp>
-        </chronitem>
-        <chronitem>
-          <date>1934-1943</date>
-          <eventgrp>
-            <event>Member RIMR</event>
-          </eventgrp>
-        </chronitem>
-        <chronitem>
-          <date>1935</date>
-          <eventgrp>
-            <event>Sc. D. (Honorary) Amherst College</event>
-          </eventgrp>
-        </chronitem>
-        <chronitem>
-          <date>1935</date>
-          <eventgrp>
-            <event>Prize of 1000 francs Univ. of Berne Medical Faculty (Research in encephalitis)</event>
-          </eventgrp>
-        </chronitem>
-        <chronitem>
-          <date>1943</date>
-          <eventgrp>
-            <event>Annual Award from Dog Writers' Association (Outstanding service to dogs in field of medical research)</event>
-          </eventgrp>
-        </chronitem>
-        <chronitem>
-          <date>1943</date>
-          <eventgrp>
-            <event>Died July 12, Scarsdale, New York</event>
-          </eventgrp>
-        </chronitem>
-      </chronlist>
-      <p>Member of: Society of Experimental Biology and Medicine, American Society for Experimental Pathology, American Epidemiological Society, American Association of Pathologists and Bacteriologists, Harvey Society, Society of American Bacteriologists, American Association for the Advancement of Science, American Public Health Association, Alpha Delta Phi, Alpha Omega Alpha, Phi Beta Kappa</p>
-    </bioghist>
-    <scopecontent id="0bbb899533e70a0100144b61d9521479">
-      <head>Scope and Contents note</head>
-      <p>Administrative correspondence; biographical information; bibliography; diary; film.</p>
-      <p>Consists primarily of administrative correspondence, copy of diary (1929-1943), notes on "Experimental Epidemiology" and silent film left to The Rockefeller University by Mrs. Webster.</p>
-      <p>Also includes Leslie T. Webster's 1919 diary.</p>
-    </scopecontent>
-    <prefercite id="9b482d466f714b161c31f920df937b0c">
-      <head>Preferred Citation</head>
-      <p>Information regarding the Rockefeller Archive Center's preferred elements and forms of citation can be found at <extref href="http://www.rockarch.org/research/citations.php">http://www.rockarch.org/research/citations.php</extref></p>
-    </prefercite>
-    <fileplan id="9aade4ce8f27d9ce72aae16953ccd4e3">
-      <head>File Plan note</head>
-      <p>Former Classification: I 450 W395</p>
-    </fileplan>
-    <accessrestrict id="a49a8396741c094eebd8eb4d4bae04b3">
-      <head>Conditions Governing Access note</head>
-      <p>Access to this collection is restricted pending permission from Rockefeller University.</p>
-    </accessrestrict>
-    <arrangement id="7be2a9c938c40e02063a927fe99e9295">
-      <head>Arrangement</head>
-      <p>As received.</p>
-    </arrangement>
-    <controlaccess>
-      <subject source="lcsh">Medicine, Preventive</subject>
-      <subject source="lcsh">Biochemistry</subject>
-      <subject source="lcsh">Biology -- Research</subject>
-      <subject source="lcsh">Medical research</subject>
-      <subject source="lcsh">Diseases</subject>
-      <subject source="lcsh">Medical sciences</subject>
-      <subject source="lcsh">Epidemiology</subject>
-      <subject source="lcsh">Bacteria</subject>
-      <subject source="lcsh">Bacteriology</subject>
-      <subject source="lcsh">Epidemics</subject>
-      <subject source="lcsh">Life sciences</subject>
-      <subject source="lcsh">Cell and biomolecular sciences</subject>
-      <corpname role="ctb" source="naf">Rockefeller Institute for Medical Research</corpname>
-      <corpname role="ctb" source="naf">Rockefeller University</corpname>
-    </controlaccess>
-    <dsc>
-      <c id="b3b0facdee3b4f23bb55cd4c78d27887" level="item">
-        <did>
-          <unittitle>Biographical material</unittitle>
-          <container altrender="Letter Document Storage Box" id="e5ac19544d517a5280eccc011bd02ee4" label="mixed materials [A0000000067058]" type="box">1</container>
-          <container id="fa8f6c7c4b1af216fcdc74c8a42e75bb" parent="e5ac19544d517a5280eccc011bd02ee4" type="folder">1</container>
-        </did>
-        <scopecontent id="636b1e01009f4085516fb38865332e91">
-          <head>Scope and Contents note</head>
-          <p>Bibliography; photographs; some newspaper clippings; Memorial Minute.</p>
-        </scopecontent>
-      </c>
-      <c id="d83a8eabd7e242c38c9122fde383f74b" level="item">
-        <did>
-          <unittitle>Reprint: Archives of Pathology 36 (1943) 536-537</unittitle>
-          <unitdate normal="1943/1943" type="inclusive">1943</unitdate>
-          <container altrender="Letter Document Storage Box" id="3e1a6de34a11f7e4ddbdbb0053a0032f" label="mixed materials [A0000000067058]" type="box">1</container>
-          <container id="3a739a1f263227798c0380be9b386ad5" parent="3e1a6de34a11f7e4ddbdbb0053a0032f" type="folder">1</container>
-        </did>
-      </c>
-      <c id="2a7a7fc507e5478586ec17fc24da73b3" level="item">
-        <did>
-          <unittitle>Obituary note written by Peter K. Olitsky</unittitle>
-          <container altrender="Letter Document Storage Box" id="2c87de004ca2dc75cdf9bfac09c6d1f1" label="mixed materials [A0000000067058]" type="box">1</container>
-          <container id="cf5e764e9dd676cbf3bc7eeba40616a7" parent="2c87de004ca2dc75cdf9bfac09c6d1f1" type="folder">1</container>
-        </did>
-      </c>
-      <c id="d0c377795cb8476ab08ad450b2327c4c" level="file">
-        <did>
-          <unittitle>Diary</unittitle>
-          <unitdate normal="1929/1943" type="inclusive">1929-1943 May</unitdate>
-          <container altrender="Letter Document Storage Box" id="f144005b47d32555c8a992bdd28431cd" label="mixed materials [A0000000067058]" type="box">1</container>
-          <container id="83cac986007e885a2aaf1f440cd1a033" parent="f144005b47d32555c8a992bdd28431cd" type="folder">2</container>
-        </did>
-        <scopecontent id="9d8e0f3cbf112629e3c7685b3df7115b">
-          <head>Scope and Contents note</head>
-          <p>Reproduced typed copy.</p>
-          <p>Includes thoughts on family life as well as on progress of laboratory activities and world affairs.</p>
-        </scopecontent>
-      </c>
-      <c id="0b609b371ddd4736bf6cb5c5558145d3" level="file">
-        <did>
-          <unittitle>Administrative correspondence</unittitle>
-          <unitdate normal="1920/1943" type="inclusive">1920-1943</unitdate>
-          <container altrender="Letter Document Storage Box" id="2f31564ebdcfaeef97690c4f042c6131" label="mixed materials [A0000000067058]" type="box">1</container>
-          <container id="a9c2f86108b886ec202a0a5dcd4b6381" parent="2f31564ebdcfaeef97690c4f042c6131" type="folder">3</container>
-        </did>
-        <scopecontent id="f46457502eb987da141f6e34e4c27cce">
-          <head>Scope and Contents note</head>
-          <p>Primarily with Simon Flexner and Business Manager and deals with budgetary matters, laboratory workers and assistants; laboratory equipment, supplies, animals and projected research plans.</p>
-          <p>Includes original application for appointment and recommendation by Dr. W.G. MacCallum of Johns Hopkins University, (holograph).</p>
-          <p>Items of special interest.</p>
-        </scopecontent>
-        <c id="b0355ca14fa7497592598a5c0195bc2f" level="item">
-          <did>
-            <unittitle>To Simon Flexner from L.T. Webster stating he will not accept offer in pediatrics made by Dr. Park of Johns Hopkins Hospital</unittitle>
-            <unitdate>1927 March 31</unitdate>
-          </did>
-        </c>
-        <c id="dce9591f9bdf40d09bfe34c6f313287b" level="item">
-          <did>
-            <unittitle>Poliomyelitis epidemic in Los Angeles</unittitle>
-            <unitdate normal="1934/1934" type="inclusive">1934</unitdate>
-            <physdesc id="7b653caf597ee650968cc8bd9b7bb2df">28 items</physdesc>
-          </did>
-        </c>
-      </c>
-      <c id="9b69425173744124a6428bd88adb26ee" level="file">
-        <did>
-          <unittitle>Experimental epidemiology</unittitle>
-          <unitdate normal="1926/1946" type="inclusive">1926-1940 1946</unitdate>
-          <container altrender="Letter Document Storage Box" id="527898f7bde8cf15a346fd35762d254e" label="mixed materials [A0000000067058]" type="box">1</container>
-          <container id="edf96c8eb02db8372d560c06fbc7a17e" parent="527898f7bde8cf15a346fd35762d254e" type="folder">4</container>
-        </did>
-        <scopecontent id="c8632ddd5287905be17f55ef91af69ac">
-          <head>Scope and Contents note</head>
-          <p>Headed: "Older notes 1926-1940 (about 40 pages)" Photocopy assembled from handwritten notes; tables and reprints. [Maybe draft of 1946 posthumous publication].</p>
-        </scopecontent>
-      </c>
-      <c id="7fc99cc549eb468d962dc660bea06fd2" level="item">
-        <did>
-          <unittitle>Experimental epidemiology film</unittitle>
-          <physdesc id="34c0dbbe5503a9ffd9fc7da7287c90d1">2 copies No. 42041 silent 16 mm film</physdesc>
-          <physloc id="e9ca03de5721021481d182d4089cc5fc">Consult Archivist for location of film reel.</physloc>
-          <container altrender="Letter Document Storage Box" id="21a9e5344ce6c3879eb824cfa7f7f7a6" label="mixed materials [A0000000067058]" type="box">1</container>
-        </did>
-        <scopecontent id="9dc0a16188dd9291d67a99a0078e56cd">
-          <head>Scope and Contents note</head>
-          <p>Study of epidemic patterns in a rabbit colony.</p>
-        </scopecontent>
-        <acqinfo id="b4b605629a4bb91a3ad3552d4c3f3001">
-          <head>Immediate Source of Acquisition</head>
-          <p>Film left to the Rockefeller University by Mrs. Webster.</p>
-        </acqinfo>
-        <phystech id="5aafc8de63081c0dcb03f89f614af1a7">
-          <head>Physical Characteristics and Technical Requirements</head>
-          <p>Materials requiring specialized equipment for access (film, audio, video, slides) may be closed to research dependent on availability of the applicable equipment </p>
-          <p>Brittle or damaged items, or materials otherwise in need of preservation care, may be closed to researchers at the discretion of the RAC Head of Archival Services/Head of Reference.</p>
-        </phystech>
-      </c>
-      <c id="4998e8c631af49c0a572ededab5e4b96" level="item">
-        <did>
-          <unittitle>Diary by Leslie T. Webster in Labrador</unittitle>
-          <unitdate normal="1919/1919" type="inclusive">1919</unitdate>
-          <physdesc id="3560bb58d4405e63e950e6ceb2fcf6fe">1 volume (circa 1 inch)</physdesc>
-        </did>
-        <bioghist id="1f28839647bbb8bf84c1c599bbf3d05b">
-          <head>Biographical/Historical note</head>
-          <p>In May 1919 Dr. Leslie T. Webster graduated from John Hopkins Medical School second in his class and left for Labrador with his classmate Dr. Charles Parsons.</p>
-        </bioghist>
-        <scopecontent id="1bddb2d6748a1ab374572a39ceb853eb">
-          <head>Scope and Contents note</head>
-          <p>Printed by his widow, Emily de Forest White.</p>
-        </scopecontent>
-        <processinfo id="3bfd16f2c3961878ce958d65e15f9b58">
-          <head>Processing Information note</head>
-          <p>Relocated to RAC library 8/9/88</p>
-        </processinfo>
-        <userestrict id="4e0885d2ffec75228024b2ee3d7f9fe9">
-          <head>Conditions Governing Use</head>
-          <p>No quotations from the Webster diary are allowed without prior consent from the Webster family.</p>
-        </userestrict>
-      </c>
-    </dsc>
-  </archdesc>
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="under_revision" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid>FA204.xml</eadid><filedesc><titlestmt><titleproper type="filing">Webster (Leslie T.) papers</titleproper><titleproper>A Guide to the Leslie T. Webster papers, Rockefeller Institute for Medical Research Scientific Staff
+ <num>FA204</num></titleproper></titlestmt><publicationstmt><publisher>Rockefeller Archive Center</publisher><address><addressline>15 Dayton Avenue</addressline><addressline>Sleepy Hollow 10591</addressline><addressline>archive@rockarch.org</addressline><addressline>URL: <extptr xlink:href="http://www.rockarch.org" xlink:show="new" xlink:title="http://www.rockarch.org" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2019-03-14 00:31:30 -0400</date>.</creation></profiledesc><revisiondesc><change><date>2010 October 4</date><item>Paper finding aid converted to EAD/XML by AureXus in 2010. Imported into the Archvists’ Toolkit by Becky Robbins.</item></change></revisiondesc></eadheader><archdesc level="collection">
+  <did>
+    <langmaterial>
+      <language langcode="eng">English</language>
+    </langmaterial>
+    <repository>
+      <corpname>Rockefeller Archive Center</corpname>
+    </repository>
+    <unittitle>Leslie T. Webster papers, Rockefeller Institute for Medical Research Scientific Staff</unittitle>
+    <origination label="creator">
+      <persname role="aut" rules="dacs">Webster, Leslie Tillotson</persname>
+    </origination>
+    <unitid>FA204</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">0.5 Cubic Feet</extent>
+      <extent altrender="carrier">1 box and 1 volume</extent>
+    </physdesc>
+    <unitdate normal="1919/1943" type="inclusive">1919-1943, undated</unitdate>
+  </did>
+  <bioghist id="6c567020da8f284fae96a2cae4456af0">
+    <head>Biographical/Historical note</head>
+<p>Leslie Tillotson Webster, 1894-1943, physician and researcher worked in epidemiology and bacteriology at The Rockefeller Institute for Medical Research from 1920 until his death in 1943. He was a pioneer in the investigation of the importance of natural resistance to disease and the experimental facts on the basis of which the spread of epidemics can be explained. Author of book "Rabies" published in 1942.</p>    <chronlist>
+      <head>Biographical note</head>
+      <chronitem>
+        <date>1894</date>
+        <eventgrp>
+          <event>Born July 23 New York, N.Y.</event>
+        </eventgrp>
+      </chronitem>
+      <chronitem>
+        <date>1915</date>
+        <eventgrp>
+          <event>A.B. Amherst College, Amherst, Mass.</event>
+        </eventgrp>
+      </chronitem>
+      <chronitem>
+        <date>1919</date>
+        <eventgrp>
+          <event>M.D. Johns Hopkins Medical School, Baltimore, Md.</event>
+        </eventgrp>
+      </chronitem>
+      <chronitem>
+        <date>1919-1920</date>
+        <eventgrp>
+          <event>Assistant Resident Pathologist, Johns Hopkins Hospital</event>
+        </eventgrp>
+      </chronitem>
+      <chronitem>
+        <date>1919-1920</date>
+        <eventgrp>
+          <event>Assistant in Pathology, Johns Hopkins Medical School</event>
+        </eventgrp>
+      </chronitem>
+      <chronitem>
+        <date>1920-1923</date>
+        <eventgrp>
+          <event>Assistant (Pathology and Bacteriology) Rockefeller Institute for Medical Research, New York, N.Y.</event>
+        </eventgrp>
+      </chronitem>
+      <chronitem>
+        <date>1923-1927</date>
+        <eventgrp>
+          <event>Associate, RIMR</event>
+        </eventgrp>
+      </chronitem>
+      <chronitem>
+        <date>1927-1934</date>
+        <eventgrp>
+          <event>Associate Member, RIMR</event>
+        </eventgrp>
+      </chronitem>
+      <chronitem>
+        <date>1934-1943</date>
+        <eventgrp>
+          <event>Member RIMR</event>
+        </eventgrp>
+      </chronitem>
+      <chronitem>
+        <date>1935</date>
+        <eventgrp>
+          <event>Sc. D. (Honorary) Amherst College</event>
+        </eventgrp>
+      </chronitem>
+      <chronitem>
+        <date>1935</date>
+        <eventgrp>
+          <event>Prize of 1000 francs Univ. of Berne Medical Faculty (Research in encephalitis)</event>
+        </eventgrp>
+      </chronitem>
+      <chronitem>
+        <date>1943</date>
+        <eventgrp>
+          <event>Annual Award from Dog Writers' Association (Outstanding service to dogs in field of medical research)</event>
+        </eventgrp>
+      </chronitem>
+      <chronitem>
+        <date>1943</date>
+        <eventgrp>
+          <event>Died July 12, Scarsdale, New York</event>
+        </eventgrp>
+      </chronitem>
+    </chronlist>
+<p>Member of: Society of Experimental Biology and Medicine, American Society for Experimental Pathology, American Epidemiological Society, American Association of Pathologists and Bacteriologists, Harvey Society, Society of American Bacteriologists, American Association for the Advancement of Science, American Public Health Association, Alpha Delta Phi, Alpha Omega Alpha, Phi Beta Kappa</p>  </bioghist>
+  <scopecontent id="0bbb899533e70a0100144b61d9521479">
+    <head>Scope and Contents note</head>
+<p>Administrative correspondence; biographical information; bibliography; diary; film.</p><p>Consists primarily of administrative correspondence, copy of diary (1929-1943), notes on "Experimental Epidemiology" and silent film left to The Rockefeller University by Mrs. Webster.</p><p>Also includes Leslie T. Webster's 1919 diary.</p>  </scopecontent>
+  <prefercite id="9b482d466f714b161c31f920df937b0c">
+    <head>Preferred Citation</head>
+<p>Information regarding the Rockefeller Archive Center's preferred elements and forms of citation can be found at <extref href="http://www.rockarch.org/research/citations.php">http://www.rockarch.org/research/citations.php</extref></p>  </prefercite>
+  <fileplan id="9aade4ce8f27d9ce72aae16953ccd4e3">
+    <head>File Plan note</head>
+<p>Former Classification: I 450 W395</p>  </fileplan>
+  <accessrestrict id="a49a8396741c094eebd8eb4d4bae04b3">
+    <head>Conditions Governing Access note</head>
+<p>Access to this collection is restricted pending permission from Rockefeller University.</p>  </accessrestrict>
+  <arrangement id="7be2a9c938c40e02063a927fe99e9295">
+    <head>Arrangement</head>
+<p>As received.</p>  </arrangement>
+  <controlaccess>
+    <subject source="lcsh">Medicine, Preventive</subject>
+    <subject source="lcsh">Biochemistry</subject>
+    <subject source="lcsh">Biology -- Research</subject>
+    <subject source="lcsh">Medical research</subject>
+    <subject source="lcsh">Diseases</subject>
+    <subject source="lcsh">Medical sciences</subject>
+    <subject source="lcsh">Epidemiology</subject>
+    <subject source="lcsh">Bacteria</subject>
+    <subject source="lcsh">Bacteriology</subject>
+    <subject source="lcsh">Epidemics</subject>
+    <subject source="lcsh">Life sciences</subject>
+    <subject source="lcsh">Cell and biomolecular sciences</subject>
+    <corpname role="ctb" source="naf">Rockefeller Institute for Medical Research</corpname>
+    <corpname role="ctb" source="naf">Rockefeller University</corpname>
+  </controlaccess>
+  <dsc><c id="b3b0facdee3b4f23bb55cd4c78d27887" level="item"><did><unittitle>Biographical material</unittitle><container altrender="Letter Document Storage Box" id="04f6a4ba6f2de8a65e6295ad45daf401" label="mixed materials [A0000000067058]" type="box">1</container><container id="4423d75724cf7896e06e9e3974b1a654" parent="04f6a4ba6f2de8a65e6295ad45daf401" type="folder">1</container></did><scopecontent id="636b1e01009f4085516fb38865332e91"><head>Scope and Contents note</head><p>Bibliography; photographs; some newspaper clippings; Memorial Minute.</p></scopecontent></c><c id="d83a8eabd7e242c38c9122fde383f74b" level="item"><did><unittitle>Reprint: Archives of Pathology 36 (1943) 536-537</unittitle><unitdate normal="1943/1943" type="inclusive">1943</unitdate><container altrender="Letter Document Storage Box" id="19afa66e13078e7ac00470c55eb4a3df" label="mixed materials [A0000000067058]" type="box">1</container><container id="444b783871b6f1ba39b84865b4847558" parent="19afa66e13078e7ac00470c55eb4a3df" type="folder">1</container></did></c><c id="2a7a7fc507e5478586ec17fc24da73b3" level="item"><did><unittitle>Obituary note written by Peter K. Olitsky</unittitle><container altrender="Letter Document Storage Box" id="510b9393af636d4296ba9acf6a73a3c5" label="mixed materials [A0000000067058]" type="box">1</container><container id="14b1cacb9df40fab239c216b36f9344b" parent="510b9393af636d4296ba9acf6a73a3c5" type="folder">1</container></did></c><c id="d0c377795cb8476ab08ad450b2327c4c" level="file"><did><unittitle>Diary</unittitle><unitdate normal="1929/1943" type="inclusive">1929-1943 May</unitdate><container altrender="Letter Document Storage Box" id="3049305d33588d61533ab61e42e0a931" label="mixed materials [A0000000067058]" type="box">1</container><container id="7b05a76dd4af24771a84553663eca1b0" parent="3049305d33588d61533ab61e42e0a931" type="folder">2</container></did><scopecontent id="9d8e0f3cbf112629e3c7685b3df7115b"><head>Scope and Contents note</head><p>Reproduced typed copy.</p><p>Includes thoughts on family life as well as on progress of laboratory activities and world affairs.</p></scopecontent></c><c id="0b609b371ddd4736bf6cb5c5558145d3" level="file"><did><unittitle>Administrative correspondence</unittitle><unitdate normal="1920/1943" type="inclusive">1920-1943</unitdate><container altrender="Letter Document Storage Box" id="ed88f8cbc65677599419a0011a3c068a" label="mixed materials [A0000000067058]" type="box">1</container><container id="250a9109c3555210ca5dfae750d752ae" parent="ed88f8cbc65677599419a0011a3c068a" type="folder">3</container></did><scopecontent id="f46457502eb987da141f6e34e4c27cce"><head>Scope and Contents note</head><p>Primarily with Simon Flexner and Business Manager and deals with budgetary matters, laboratory workers and assistants; laboratory equipment, supplies, animals and projected research plans.</p><p>Includes original application for appointment and recommendation by Dr. W.G. MacCallum of Johns Hopkins University, (holograph).</p><p>Items of special interest.</p></scopecontent><c id="b0355ca14fa7497592598a5c0195bc2f" level="item"><did><unittitle>To Simon Flexner from L.T. Webster stating he will not accept offer in pediatrics made by Dr. Park of Johns Hopkins Hospital</unittitle><unitdate>1927 March 31</unitdate></did></c><c id="dce9591f9bdf40d09bfe34c6f313287b" level="item"><did><unittitle>Poliomyelitis epidemic in Los Angeles</unittitle><unitdate normal="1934/1934" type="inclusive">1934</unitdate><physdesc id="7b653caf597ee650968cc8bd9b7bb2df">28 items</physdesc></did></c></c><c id="9b69425173744124a6428bd88adb26ee" level="file"><did><unittitle>Experimental epidemiology</unittitle><unitdate normal="1926/1946" type="inclusive">1926-1940 1946</unitdate><container altrender="Letter Document Storage Box" id="8e4c48e5e6ac92118085484249bc1ce6" label="mixed materials [A0000000067058]" type="box">1</container><container id="64c0da10bafcbc3f2c828690ee29dc81" parent="8e4c48e5e6ac92118085484249bc1ce6" type="folder">4</container></did><scopecontent id="c8632ddd5287905be17f55ef91af69ac"><head>Scope and Contents note</head><p>Headed: "Older notes 1926-1940 (about 40 pages)" Photocopy assembled from handwritten notes; tables and reprints. [Maybe draft of 1946 posthumous publication].</p></scopecontent></c><c id="7fc99cc549eb468d962dc660bea06fd2" level="item"><did><unittitle>Experimental epidemiology film</unittitle><physdesc id="34c0dbbe5503a9ffd9fc7da7287c90d1">2 copies No. 42041 silent 16 mm film</physdesc><physloc id="e9ca03de5721021481d182d4089cc5fc">Consult Archivist for location of film reel.</physloc><container altrender="Letter Document Storage Box" id="6ca19d7a704d0980ca4e5f9eb7c7239e" label="mixed materials [A0000000067058]" type="box">1</container></did><scopecontent id="9dc0a16188dd9291d67a99a0078e56cd"><head>Scope and Contents note</head><p>Study of epidemic patterns in a rabbit colony.</p></scopecontent><acqinfo id="b4b605629a4bb91a3ad3552d4c3f3001"><head>Immediate Source of Acquisition</head><p>Film left to the Rockefeller University by Mrs. Webster.</p></acqinfo><phystech id="5aafc8de63081c0dcb03f89f614af1a7"><head>Physical Characteristics and Technical Requirements</head><p>Materials requiring specialized equipment for access (film, audio, video, slides) may be closed to research dependent on availability of the applicable equipment </p><p>Brittle or damaged items, or materials otherwise in need of preservation care, may be closed to researchers at the discretion of the RAC Head of Archival Services/Head of Reference.</p></phystech></c><c id="4998e8c631af49c0a572ededab5e4b96" level="item"><did><unittitle>Diary by Leslie T. Webster in Labrador</unittitle><unitdate normal="1919/1919" type="inclusive">1919</unitdate><physdesc id="3560bb58d4405e63e950e6ceb2fcf6fe">1 volume (circa 1 inch)</physdesc></did><bioghist id="1f28839647bbb8bf84c1c599bbf3d05b"><head>Biographical/Historical note</head><p>In May 1919 Dr. Leslie T. Webster graduated from John Hopkins Medical School second in his class and left for Labrador with his classmate Dr. Charles Parsons.</p></bioghist><scopecontent id="1bddb2d6748a1ab374572a39ceb853eb"><head>Scope and Contents note</head><p>Printed by his widow, Emily de Forest White.</p></scopecontent><processinfo id="3bfd16f2c3961878ce958d65e15f9b58"><head>Processing Information note</head><p>Relocated to RAC library 8/9/88</p></processinfo><userestrict id="4e0885d2ffec75228024b2ee3d7f9fe9"><head>Conditions Governing Use</head><p>No quotations from the Webster diary are allowed without prior consent from the Webster family.</p></userestrict></c></dsc>
+</archdesc>
 </ead>

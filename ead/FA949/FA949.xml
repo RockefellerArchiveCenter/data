@@ -1,281 +1,54 @@
-<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
-  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="under_revision" langencoding="iso639-2b" repositoryencoding="iso15511">
-    <eadid>FA949.xml</eadid>
-    <filedesc>
-      <titlestmt>
-        <titleproper type="filing">Rockefeller University Press, Occasional Papers</titleproper>
-        <titleproper>Rockefeller University Press, Occasional Papers
- <num>FA949</num></titleproper>
-      </titlestmt>
-      <publicationstmt>
-        <publisher>Rockefeller Archive Center</publisher>
-        <address>
-          <addressline>15 Dayton Avenue</addressline>
-          <addressline>Sleepy Hollow 10591</addressline>
-          <addressline>archive@rockarch.org</addressline>
-          <addressline>URL: <extptr xlink:href="http://www.rockarch.org" xlink:show="new" xlink:title="http://www.rockarch.org" xlink:type="simple"/></addressline>
-        </address>
-      </publicationstmt>
-    </filedesc>
-    <profiledesc>
-      <creation>This finding aid was produced using ArchivesSpace on <date>2018-09-01 00:01:07 -0400</date>.</creation>
-    </profiledesc>
-    <revisiondesc>
-      <date>2008 October 21</date>
-      <item>Paper finding aid converted to EAD/XML by AureXus in 2010. Imported into the Archvists’ Toolkit by Becky Robbins.</item>
-    </revisiondesc>
-  </eadheader>
-  <archdesc level="collection">
-    <did>
-      <langmaterial>
-        <language langcode="eng">English</language>
-      </langmaterial>
-      <repository>
-        <corpname>Rockefeller Archive Center</corpname>
-      </repository>
-      <unittitle>Rockefeller University Press, Occasional Papers</unittitle>
-      <origination label="creator">
-        <corpname role="aut" rules="dacs">Rockefeller University Press</corpname>
-      </origination>
-      <unitid>FA949</unitid>
-      <physdesc altrender="whole">
-        <extent altrender="materialtype spaceoccupied">1.32 Cubic Feet</extent>
-        <extent altrender="carrier">2 boxes and 1 package (18 volumes).</extent>
-      </physdesc>
-      <unitdate normal="1958/1979" type="inclusive">1958-1979</unitdate>
-      <physdesc id="676d0025e93c033ace7ca5a178e7e6e9">2 boxes and 1 package (18 volumes).</physdesc>
-    </did>
-    <arrangement id="55c966368f198b8f42561b7029d44f83">
-      <head>Arrangement</head>
-      <p>Arranged numerically by volume number 1-18. </p>
-      <p>Essentially chronological.</p>
-    </arrangement>
-    <scopecontent id="bf5754ae286018fc98181061dee0e657">
-      <head>Scope and Contents</head>
-      <p>Occasional papers by the faculty and friends of The Rockefeller Institute/University. Rockefeller University Press, N.Y. no. 1 (1958) and later numbers.</p>
-    </scopecontent>
-    <prefercite id="c4db8412b39e8327de63de76b8a2c849">
-      <head>Preferred Citation note</head>
-      <p>Information regarding the Rockefeller Archive Center's preferred elements and forms of citation can be found at <extref href="http://www.rockarch.org/research/citations.php">http://www.rockarch.org/research/citations.php</extref></p>
-    </prefercite>
-    <bioghist id="190dadd96f61f311983f3b0618d2aeda">
-      <head>Biographical / Historical</head>
-      <p>Title changed: no. 8, Occasional papers of The Rockefeller Institute; no. 14, Occasional papers of The Rockefeller University. Addresses or tributes presented or delivered on various occasions and published by The Rockefeller University Press.&amp; See card catalog under Occasional papers for fuller description of each item.</p>
-    </bioghist>
-    <accessrestrict id="d6148ca0cc4ca2fc2783aaf39dcdb980">
-      <head>Conditions Governing Access</head>
-      <p>Collection is open for research. Brittle or damaged items are available at the discretion of RAC.</p>
-    </accessrestrict>
-    <fileplan id="50bd746419cb0e91fe5d13234c60fb85">
-      <head>File Plan note</head>
-      <p>Former Classification: I 541</p>
-    </fileplan>
-    <controlaccess>
-      <subject source="lcsh">Cell and biomolecular sciences</subject>
-      <subject source="lcsh">Science -- Study and teaching</subject>
-      <subject source="lcsh">Life sciences</subject>
-      <subject source="lcsh">Biology -- Research</subject>
-      <subject source="lcsh">Medical research</subject>
-      <subject source="lcsh">Medicine, Preventive</subject>
-      <subject source="lcsh">Medical sciences</subject>
-      <subject source="lcsh">Medical technology</subject>
-      <subject source="lcsh">Medical education</subject>
-    </controlaccess>
-    <dsc>
-      <c id="6b5e168a60144349822b91270a7f9821" level="file">
-        <did>
-          <unittitle>Weiss, Paul A. The message of science</unittitle>
-          <unitid>1</unitid>
-          <unitdate normal="1958/1958" type="inclusive">1958</unitdate>
-          <container id="970a51848595ff3c0c805a590692e89f" label="mixed materials" type="box">1</container>
-        </did>
-        <scopecontent id="dbff9891cb7a9813a66337540a2834e6">
-          <head>Scope and Contents note</head>
-          <p>Presented at the Universal and International Exposition at Brussels.</p>
-        </scopecontent>
-      </c>
-      <c id="abc1b7d008fd4a9a94c13584d3944328" level="file">
-        <did>
-          <unittitle>Bronk, Detlev W. Address of welcome, 12th General Assembly of the International Scientific Radio Union</unittitle>
-          <unitid>2</unitid>
-          <unitdate normal="1957/1957" type="inclusive">1957</unitdate>
-          <container id="b5e25c087b76911af26cf0b111eeac3d" label="mixed materials" type="box">1</container>
-        </did>
-      </c>
-      <c id="403bbfd240264ae2b47005d78eb5cc24" level="file">
-        <did>
-          <unittitle>Corner, George W. The Johns Hopkins University and The Rockefeller Institute: allies in the march of science</unittitle>
-          <unitid>3</unitid>
-          <unitdate normal="1959/1959" type="inclusive">1959</unitdate>
-          <container id="067e6ce948a9963e65182049a47a68c4" label="mixed materials" type="box">1</container>
-        </did>
-      </c>
-      <c id="bc008dd25a5e44a3a9aee375cbc64963" level="file">
-        <did>
-          <unittitle>Bronk, Detlev W. Presentation of the George M. Kober medal to Herbert S. Gasser</unittitle>
-          <unitid>4</unitid>
-          <unitdate normal="1954/1954" type="inclusive">1954</unitdate>
-          <container id="64e72cd05e36a208fb6ae8b6650c2259" label="mixed materials" type="box">1</container>
-        </did>
-      </c>
-      <c id="2d91bd69769f4fc599c1d18c8ca7e3a0" level="file">
-        <did>
-          <unittitle>Dubos, René. Medical Utopias</unittitle>
-          <unitid>5</unitid>
-          <unitdate normal="1959/1959" type="inclusive">1959</unitdate>
-          <container id="5f34259feeda1f6f2592bca7a22b7398" label="mixed materials" type="box">1</container>
-        </did>
-      </c>
-      <c id="abe581f70132446dbf1bdb8c001e210c" level="file">
-        <did>
-          <unittitle>Bronk, Detlev W. On the economic and social contributions of life insurance to the nation: the viewpoint of the scientist</unittitle>
-          <unitid>6</unitid>
-          <unitdate normal="1959/1959" type="inclusive">1959</unitdate>
-          <container id="1265cc8d52bf2e06451b94200ab5f0d7" label="mixed materials" type="box">1</container>
-        </did>
-      </c>
-      <c id="3aa6aa8c76d441b68bb3c16475f52ad7" level="file">
-        <did>
-          <unittitle>Shope, Richard E. Comparative medicine</unittitle>
-          <unitid>7</unitid>
-          <unitdate normal="1959/1959" type="inclusive">1959</unitdate>
-          <container id="5fa79c5e56e7bb0176de44583540e428" label="mixed materials" type="box">1</container>
-        </did>
-      </c>
-      <c id="f080d7d0750544dd9d2d44d1f862bc10" level="file">
-        <did>
-          <unittitle>Convocation for the conferring of degrees</unittitle>
-          <unitid>8</unitid>
-          <unitdate normal="1959/1959" type="inclusive">1959</unitdate>
-          <container id="36c885ea230041837f03fb519909cbd4" label="mixed materials" type="box">1</container>
-        </did>
-      </c>
-      <c id="bf8e48b4dec14894a282239d7166244d" level="file">
-        <did>
-          <unittitle>Convocation for the conferring of degrees</unittitle>
-          <unitid>9</unitid>
-          <unitdate normal="1960/1960" type="inclusive">1960</unitdate>
-          <container id="e6390b0d237886b8de3adc0fd9b95ed6" label="mixed materials" type="box">1</container>
-        </did>
-      </c>
-      <c id="20029b9f87e0480686e1d32e7bc7d38a" level="file">
-        <did>
-          <unittitle>Kac, Mark. Mathematics: its trends and its tensions</unittitle>
-          <unitid>10</unitid>
-          <unitdate normal="1961/1961" type="inclusive">1961</unitdate>
-          <container id="9929ce9cef33c2d81c865b2a3f017efb" label="mixed materials" type="box">1</container>
-        </did>
-      </c>
-      <c id="5d4cce5e9a6a49dca5f0729ee26f2c2d" level="file">
-        <did>
-          <unittitle>Lord Adrian. Francis Bacon, the advocate of science</unittitle>
-          <unitid>11</unitid>
-          <unitdate normal="1961/1961" type="inclusive">1961</unitdate>
-          <container id="7e7efe630243607f45fe675ec1fa5695" label="mixed materials" type="box">1</container>
-        </did>
-      </c>
-      <c id="f84b0f3e94124f4c8905854b214fa03f" level="file">
-        <did>
-          <unittitle>Convocation for the conferring of degrees</unittitle>
-          <unitid>12</unitid>
-          <unitdate normal="1961/1961" type="inclusive">1961</unitdate>
-          <container id="3885627f8188de2f0e55bba8d21b67be" label="mixed materials" type="box">1</container>
-        </did>
-      </c>
-      <c id="e4e727eef28e4e1ea74c6434462df09c" level="file">
-        <did>
-          <unittitle>Smith, John E. Philosophy in America Today</unittitle>
-          <unitid>13</unitid>
-          <unitdate normal="1961/1961" type="inclusive">1961</unitdate>
-          <container id="959eec62cfbdf6c510244938bfb7930c" label="mixed materials" type="box">1</container>
-        </did>
-      </c>
-      <c id="ef88039c8eda493ca645279f3ba0197c" level="file">
-        <did>
-          <unittitle>Barklie McKee Henry, 1902-1966</unittitle>
-          <unitid>14</unitid>
-          <container id="5bcb1b1728b78c9cddfa406a3758a7a3" label="mixed materials" type="box">1</container>
-        </did>
-      </c>
-      <c id="e28b9f758e8045d390e13715ccc0a007" level="file">
-        <did>
-          <unittitle>Reminiscences of Anthony J. Campo</unittitle>
-          <unitid>15</unitid>
-          <unitdate normal="1970/1970" type="inclusive">1970</unitdate>
-          <container id="abc9b820566c3aec301e478617989c4e" label="mixed materials" type="box">1</container>
-        </did>
-      </c>
-      <c id="1acba280078c4048a32ee761d021de05" level="file">
-        <did>
-          <unittitle>A notable career in finding out: Peyton Rous, 1879-1970</unittitle>
-          <unitid>16</unitid>
-          <container id="d79b16d46990bc30c75a48a0fc0d47d6" label="mixed materials" type="box">1</container>
-        </did>
-        <scopecontent id="41b6f9e4f6d5f93cb1b9ef6dce8f8efc">
-          <head>Scope and Contents note</head>
-          <p>Published in 1971 in a limited edition of 1500 copies bound in hardcover for family and friends.</p>
-        </scopecontent>
-      </c>
-      <c id="9524ba38385f4628b71c81011612d619" level="file">
-        <did>
-          <unittitle>A notable career in finding out: Peyton Rous, 1879-1970. Published in 1971 in pamphlet form</unittitle>
-          <unitid>16 bis</unitid>
-          <physdesc id="63acffad3474b0c17a7c786591c0be22">package. 16 bis</physdesc>
-          <container id="c860292816b4ef65370296a0be46e510" label="mixed materials" type="package">1</container>
-        </did>
-      </c>
-      <c id="94ec12097dac43798bb196af9aa42a95" level="file">
-        <did>
-          <unittitle>Dubos, René. The human environment in technological societies</unittitle>
-          <unitid>unumbered</unitid>
-          <unitdate>1968 July-August</unitdate>
-          <physdesc id="44033786a6403cd3890d9bb6bd2f4793">package</physdesc>
-          <container id="deb12e13727426bc104709b70b780d11" label="mixed materials" type="package">1</container>
-        </did>
-        <scopecontent id="762fc09195f0fb4a18843ded391f1cd7">
-          <head>Scope and Contents note</head>
-          <p>Reprinted from The Rockefeller University Review</p>
-        </scopecontent>
-      </c>
-      <c id="c34360788d6b443f8b8fd073401b83e9" level="file">
-        <did>
-          <unittitle>Baker, William O. Remarks on the occasion of the twenty-fifth anniversary of David Rockefeller as chairman of the Board of Trustees, The Rockefeller University. RU Press, 1975</unittitle>
-          <unitid>16 bis</unitid>
-          <unitdate normal="1950/1975" type="inclusive">1950-1975</unitdate>
-          <physdesc id="00fb5c725de38cc9dded4faf82b03932">8 pp., 16 bis</physdesc>
-          <container id="0e5ba314a6a54acf4bdfc80f54f22572" label="mixed materials" type="box">2</container>
-        </did>
-        <scopecontent id="c9697877ccf025613bd895b83754dcd7">
-          <head>Scope and Contents note</head>
-          <p>Cover title: David Rockefeller; the first quarter-century 1950-1975</p>
-        </scopecontent>
-      </c>
-      <c id="2f4b74cad4e14bb087ebd432bfe72d28" level="file">
-        <did>
-          <unittitle>Recollections of Detlev W. Bronk, 1897-1975. By colleagues and friends at a gathering in Caspary Auditorium on February 18, 1976. New York, New York, The Rockefeller University Press, 1976</unittitle>
-          <unitid>17</unitid>
-          <physdesc id="8e036df461f3e46c75df28a4d1798983">46 pp.</physdesc>
-          <container id="7428ebb0148c2ed68cae274de0725934" label="mixed materials" type="box">2</container>
-        </did>
-        <scopecontent id="f8432f9a7ca7eada86f823b3f3a42c10">
-          <head>Scope and Contents note</head>
-          <p>Cover title: 1897-1975.</p>
-          <p>(Occasional paper, 17).</p>
-        </scopecontent>
-      </c>
-      <c id="4c14175da7d5445188e547ff7fe855f8" level="file">
-        <did>
-          <unittitle>Lederberg, Joshua, Presidential address at his installation as President of The Rockefeller University. New York, The Rockefeller University Press</unittitle>
-          <unitid>18</unitid>
-          <unitdate normal="1979/1979" type="inclusive">1979</unitdate>
-          <physdesc id="e49ad6599d14649f87d6f717b5fb5667">8 pp.</physdesc>
-          <container id="2b5f74d708d56c614cc38c88eb95ff13" label="mixed materials" type="box">2</container>
-        </did>
-        <scopecontent id="c846dc18de7b3125ca425a9cb1fc185c">
-          <head>Scope and Contents note</head>
-          <p>(Occasional paper, 18). Delivered October 16, 1978.</p>
-        </scopecontent>
-      </c>
-    </dsc>
-  </archdesc>
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="under_revision" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid>FA949.xml</eadid><filedesc><titlestmt><titleproper type="filing">Rockefeller University Press, Occasional Papers</titleproper><titleproper>Rockefeller University Press, Occasional Papers
+ <num>FA949</num></titleproper></titlestmt><publicationstmt><publisher>Rockefeller Archive Center</publisher><address><addressline>15 Dayton Avenue</addressline><addressline>Sleepy Hollow 10591</addressline><addressline>archive@rockarch.org</addressline><addressline>URL: <extptr xlink:href="http://www.rockarch.org" xlink:show="new" xlink:title="http://www.rockarch.org" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2019-03-14 03:07:47 -0400</date>.</creation></profiledesc><revisiondesc><date>2008 October 21</date><item>Paper finding aid converted to EAD/XML by AureXus in 2010. Imported into the Archvists’ Toolkit by Becky Robbins.</item></revisiondesc></eadheader><archdesc level="collection">
+  <did>
+    <langmaterial>
+      <language langcode="eng">English</language>
+    </langmaterial>
+    <repository>
+      <corpname>Rockefeller Archive Center</corpname>
+    </repository>
+    <unittitle>Rockefeller University Press, Occasional Papers</unittitle>
+    <origination label="creator">
+      <corpname role="aut" rules="dacs">Rockefeller University Press</corpname>
+    </origination>
+    <unitid>FA949</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">1.32 Cubic Feet</extent>
+      <extent altrender="carrier">2 boxes and 1 package (18 volumes).</extent>
+    </physdesc>
+    <unitdate normal="1958/1979" type="inclusive">1958-1979</unitdate>
+    <physdesc id="676d0025e93c033ace7ca5a178e7e6e9">2 boxes and 1 package (18 volumes).</physdesc>
+  </did>
+  <arrangement id="55c966368f198b8f42561b7029d44f83">
+    <head>Arrangement</head>
+<p>Arranged numerically by volume number 1-18. </p><p>Essentially chronological.</p>  </arrangement>
+  <scopecontent id="bf5754ae286018fc98181061dee0e657">
+    <head>Scope and Contents</head>
+<p>Occasional papers by the faculty and friends of The Rockefeller Institute/University. Rockefeller University Press, N.Y. no. 1 (1958) and later numbers.</p>  </scopecontent>
+  <prefercite id="c4db8412b39e8327de63de76b8a2c849">
+    <head>Preferred Citation note</head>
+<p>Information regarding the Rockefeller Archive Center's preferred elements and forms of citation can be found at <extref href="http://www.rockarch.org/research/citations.php">http://www.rockarch.org/research/citations.php</extref></p>  </prefercite>
+  <bioghist id="190dadd96f61f311983f3b0618d2aeda">
+    <head>Biographical / Historical</head>
+<p>Title changed: no. 8, Occasional papers of The Rockefeller Institute; no. 14, Occasional papers of The Rockefeller University. Addresses or tributes presented or delivered on various occasions and published by The Rockefeller University Press.&amp; See card catalog under Occasional papers for fuller description of each item.</p>  </bioghist>
+  <accessrestrict id="d6148ca0cc4ca2fc2783aaf39dcdb980">
+    <head>Conditions Governing Access</head>
+<p>Collection is open for research. Brittle or damaged items are available at the discretion of RAC.</p>  </accessrestrict>
+  <fileplan id="50bd746419cb0e91fe5d13234c60fb85">
+    <head>File Plan note</head>
+<p>Former Classification: I 541</p>  </fileplan>
+  <controlaccess>
+    <subject source="lcsh">Cell and biomolecular sciences</subject>
+    <subject source="lcsh">Science -- Study and teaching</subject>
+    <subject source="lcsh">Life sciences</subject>
+    <subject source="lcsh">Biology -- Research</subject>
+    <subject source="lcsh">Medical research</subject>
+    <subject source="lcsh">Medicine, Preventive</subject>
+    <subject source="lcsh">Medical sciences</subject>
+    <subject source="lcsh">Medical technology</subject>
+    <subject source="lcsh">Medical education</subject>
+  </controlaccess>
+  <dsc><c id="6b5e168a60144349822b91270a7f9821" level="file"><did><unittitle>Weiss, Paul A. The message of science</unittitle><unitid>1</unitid><unitdate normal="1958/1958" type="inclusive">1958</unitdate><container id="9be22593be93762c13b71b80cdc09671" label="mixed materials" type="box">1</container></did><scopecontent id="dbff9891cb7a9813a66337540a2834e6"><head>Scope and Contents note</head><p>Presented at the Universal and International Exposition at Brussels.</p></scopecontent></c><c id="abc1b7d008fd4a9a94c13584d3944328" level="file"><did><unittitle>Bronk, Detlev W. Address of welcome, 12th General Assembly of the International Scientific Radio Union</unittitle><unitid>2</unitid><unitdate normal="1957/1957" type="inclusive">1957</unitdate><container id="42f285275554054487fad2cdb9bd83cc" label="mixed materials" type="box">1</container></did></c><c id="403bbfd240264ae2b47005d78eb5cc24" level="file"><did><unittitle>Corner, George W. The Johns Hopkins University and The Rockefeller Institute: allies in the march of science</unittitle><unitid>3</unitid><unitdate normal="1959/1959" type="inclusive">1959</unitdate><container id="978391bbd8b4ee0acecadbd40a1b1918" label="mixed materials" type="box">1</container></did></c><c id="bc008dd25a5e44a3a9aee375cbc64963" level="file"><did><unittitle>Bronk, Detlev W. Presentation of the George M. Kober medal to Herbert S. Gasser</unittitle><unitid>4</unitid><unitdate normal="1954/1954" type="inclusive">1954</unitdate><container id="cb11b2cd13e82412cc420dab72799aa1" label="mixed materials" type="box">1</container></did></c><c id="2d91bd69769f4fc599c1d18c8ca7e3a0" level="file"><did><unittitle>Dubos, René. Medical Utopias</unittitle><unitid>5</unitid><unitdate normal="1959/1959" type="inclusive">1959</unitdate><container id="80e3ac5c252c58ece4606f4d7237ac12" label="mixed materials" type="box">1</container></did></c><c id="abe581f70132446dbf1bdb8c001e210c" level="file"><did><unittitle>Bronk, Detlev W. On the economic and social contributions of life insurance to the nation: the viewpoint of the scientist</unittitle><unitid>6</unitid><unitdate normal="1959/1959" type="inclusive">1959</unitdate><container id="12e80fb70e02d6d24292d815daf1f2c1" label="mixed materials" type="box">1</container></did></c><c id="3aa6aa8c76d441b68bb3c16475f52ad7" level="file"><did><unittitle>Shope, Richard E. Comparative medicine</unittitle><unitid>7</unitid><unitdate normal="1959/1959" type="inclusive">1959</unitdate><container id="95ec9f25889443437b3b13e83b625d06" label="mixed materials" type="box">1</container></did></c><c id="f080d7d0750544dd9d2d44d1f862bc10" level="file"><did><unittitle>Convocation for the conferring of degrees</unittitle><unitid>8</unitid><unitdate normal="1959/1959" type="inclusive">1959</unitdate><container id="0665376c5c3cd37fca5ad4647a76d031" label="mixed materials" type="box">1</container></did></c><c id="bf8e48b4dec14894a282239d7166244d" level="file"><did><unittitle>Convocation for the conferring of degrees</unittitle><unitid>9</unitid><unitdate normal="1960/1960" type="inclusive">1960</unitdate><container id="872352e86c92f4006b259f1e87d05fd0" label="mixed materials" type="box">1</container></did></c><c id="20029b9f87e0480686e1d32e7bc7d38a" level="file"><did><unittitle>Kac, Mark. Mathematics: its trends and its tensions</unittitle><unitid>10</unitid><unitdate normal="1961/1961" type="inclusive">1961</unitdate><container id="5072ce88682d9794d02800a14d80d885" label="mixed materials" type="box">1</container></did></c><c id="5d4cce5e9a6a49dca5f0729ee26f2c2d" level="file"><did><unittitle>Lord Adrian. Francis Bacon, the advocate of science</unittitle><unitid>11</unitid><unitdate normal="1961/1961" type="inclusive">1961</unitdate><container id="5744a7cf023568882e2b273c73c4470c" label="mixed materials" type="box">1</container></did></c><c id="f84b0f3e94124f4c8905854b214fa03f" level="file"><did><unittitle>Convocation for the conferring of degrees</unittitle><unitid>12</unitid><unitdate normal="1961/1961" type="inclusive">1961</unitdate><container id="f11a2acf82af3d90a972877958826123" label="mixed materials" type="box">1</container></did></c><c id="e4e727eef28e4e1ea74c6434462df09c" level="file"><did><unittitle>Smith, John E. Philosophy in America Today</unittitle><unitid>13</unitid><unitdate normal="1961/1961" type="inclusive">1961</unitdate><container id="e4365b6ff5f5b6087cf53f0bef1f5740" label="mixed materials" type="box">1</container></did></c><c id="ef88039c8eda493ca645279f3ba0197c" level="file"><did><unittitle>Barklie McKee Henry, 1902-1966</unittitle><unitid>14</unitid><container id="8933686cf9a1756e79445a2b13030ca2" label="mixed materials" type="box">1</container></did></c><c id="e28b9f758e8045d390e13715ccc0a007" level="file"><did><unittitle>Reminiscences of Anthony J. Campo</unittitle><unitid>15</unitid><unitdate normal="1970/1970" type="inclusive">1970</unitdate><container id="2ad3ba85fd687e589de229f0ccdfac61" label="mixed materials" type="box">1</container></did></c><c id="1acba280078c4048a32ee761d021de05" level="file"><did><unittitle>A notable career in finding out: Peyton Rous, 1879-1970</unittitle><unitid>16</unitid><container id="9057d291b811d82c336cefb629d352e7" label="mixed materials" type="box">1</container></did><scopecontent id="41b6f9e4f6d5f93cb1b9ef6dce8f8efc"><head>Scope and Contents note</head><p>Published in 1971 in a limited edition of 1500 copies bound in hardcover for family and friends.</p></scopecontent></c><c id="9524ba38385f4628b71c81011612d619" level="file"><did><unittitle>A notable career in finding out: Peyton Rous, 1879-1970. Published in 1971 in pamphlet form</unittitle><unitid>16 bis</unitid><physdesc id="63acffad3474b0c17a7c786591c0be22">package. 16 bis</physdesc><container id="1334c256cde2152d80b83a6acebc4eb9" label="mixed materials" type="package">1</container></did></c><c id="94ec12097dac43798bb196af9aa42a95" level="file"><did><unittitle>Dubos, René. The human environment in technological societies</unittitle><unitid>unumbered</unitid><unitdate>1968 July-August</unitdate><physdesc id="44033786a6403cd3890d9bb6bd2f4793">package</physdesc><container id="4c183a395e692b9bf4e93b640d266585" label="mixed materials" type="package">1</container></did><scopecontent id="762fc09195f0fb4a18843ded391f1cd7"><head>Scope and Contents note</head><p>Reprinted from The Rockefeller University Review</p></scopecontent></c><c id="c34360788d6b443f8b8fd073401b83e9" level="file"><did><unittitle>Baker, William O. Remarks on the occasion of the twenty-fifth anniversary of David Rockefeller as chairman of the Board of Trustees, The Rockefeller University. RU Press, 1975</unittitle><unitid>16 bis</unitid><unitdate normal="1950/1975" type="inclusive">1950-1975</unitdate><physdesc id="00fb5c725de38cc9dded4faf82b03932">8 pp., 16 bis</physdesc><container id="a933828a19bf3cf169ae9dd93d5ecfb4" label="mixed materials" type="box">2</container></did><scopecontent id="c9697877ccf025613bd895b83754dcd7"><head>Scope and Contents note</head><p>Cover title: David Rockefeller; the first quarter-century 1950-1975</p></scopecontent></c><c id="2f4b74cad4e14bb087ebd432bfe72d28" level="file"><did><unittitle>Recollections of Detlev W. Bronk, 1897-1975. By colleagues and friends at a gathering in Caspary Auditorium on February 18, 1976. New York, New York, The Rockefeller University Press, 1976</unittitle><unitid>17</unitid><physdesc id="8e036df461f3e46c75df28a4d1798983">46 pp.</physdesc><container id="fbd421af384caff96ae63fd0229af123" label="mixed materials" type="box">2</container></did><scopecontent id="f8432f9a7ca7eada86f823b3f3a42c10"><head>Scope and Contents note</head><p>Cover title: 1897-1975.</p><p>(Occasional paper, 17).</p></scopecontent></c><c id="4c14175da7d5445188e547ff7fe855f8" level="file"><did><unittitle>Lederberg, Joshua, Presidential address at his installation as President of The Rockefeller University. New York, The Rockefeller University Press</unittitle><unitid>18</unitid><unitdate normal="1979/1979" type="inclusive">1979</unitdate><physdesc id="e49ad6599d14649f87d6f717b5fb5667">8 pp.</physdesc><container id="65f9dd44e0380280a7c0e62c260c9083" label="mixed materials" type="box">2</container></did><scopecontent id="c846dc18de7b3125ca425a9cb1fc185c"><head>Scope and Contents note</head><p>(Occasional paper, 18). Delivered October 16, 1978.</p></scopecontent></c></dsc>
+</archdesc>
 </ead>

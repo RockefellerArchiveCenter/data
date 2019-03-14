@@ -1,250 +1,60 @@
-<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
-  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="under_revision" langencoding="iso639-2b" repositoryencoding="iso15511">
-    <eadid>FA841.xml</eadid>
-    <filedesc>
-      <titlestmt>
-        <titleproper type="filing">Rockefeller University records, Directory of Graduates</titleproper>
-        <titleproper>A Guide to the Rockefeller University records, Directory of Graduates
- <num>FA841</num></titleproper>
-      </titlestmt>
-      <publicationstmt>
-        <publisher>Rockefeller Archive Center</publisher>
-        <address>
-          <addressline>15 Dayton Avenue</addressline>
-          <addressline>Sleepy Hollow 10591</addressline>
-          <addressline>archive@rockarch.org</addressline>
-          <addressline>URL: <extptr xlink:href="http://www.rockarch.org" xlink:show="new" xlink:title="http://www.rockarch.org" xlink:type="simple"/></addressline>
-        </address>
-      </publicationstmt>
-    </filedesc>
-    <profiledesc>
-      <creation>This finding aid was produced using ArchivesSpace on <date>2018-08-04 00:02:54 -0400</date>.</creation>
-    </profiledesc>
-    <revisiondesc>
-      <date>2010 October 18</date>
-      <item>Paper finding aid converted to EAD/XML by AureXus in 2010. Imported into the Archvists’ Toolkit by Becky Robbins.</item>
-    </revisiondesc>
-  </eadheader>
-  <archdesc level="collection">
-    <did>
-      <langmaterial>
-        <language langcode="eng">English</language>
-      </langmaterial>
-      <repository>
-        <corpname>Rockefeller Archive Center</corpname>
-      </repository>
-      <unittitle>Rockefeller University records, Directory of Graduates</unittitle>
-      <origination label="creator">
-        <corpname role="aut" source="naf">Rockefeller University</corpname>
-      </origination>
-      <origination label="creator">
-        <persname role="ctb" source="naf">Acheson, N. H.</persname>
-      </origination>
-      <origination label="creator">
-        <corpname role="ctb" source="naf">Rockefeller Institute for Medical Research</corpname>
-      </origination>
-      <unitid>FA841</unitid>
-      <physdesc altrender="whole">
-        <extent altrender="materialtype spaceoccupied">2 box(es)</extent>
-      </physdesc>
-      <unitdate normal="1959/2001" type="inclusive">1959-1979, 1986, 1987, 1990-1992, 2000-2001</unitdate>
-      <physdesc id="bc7e7305bb5fc9c0928a307b40345a38">
-        <extent>2 boxes.</extent>
-      </physdesc>
-    </did>
-    <prefercite id="3139b960c90d14e8e284d30b8fd6adb3">
-      <head>Preferred Citation note</head>
-      <p>Information regarding the Rockefeller Archive Center's preferred elements and forms of citation can be found at <extref href="http://www.rockarch.org/research/citations.php">http://www.rockarch.org/research/citations.php</extref></p>
-    </prefercite>
-    <fileplan id="e8b21163365cafcad9677ac2cf4febe6">
-      <head>File Plan note</head>
-      <p>Former Classification: I 462</p>
-    </fileplan>
-    <accessrestrict id="5d12524a2cab6e2ee6855ef9300345df">
-      <head>Conditions Governing Access note</head>
-      <p>This collection is open for research. Brittle or damaged items are available at the discretion of the RAC.</p>
-    </accessrestrict>
-    <scopecontent id="1d09f3f4687682c616e7c5e0ace0027e">
-      <head>Scope and Contents</head>
-      <p>Various lists were made to maintain a record of up-to-date activities and addresses of students who were graduates of The Rockefeller University. The form varied in the early years, but starting with 1972/1973 there appeared a greater regularity.</p>
-    </scopecontent>
-    <arrangement id="3ed38dd8f74ab9f548c6e1f74b7514cf">
-      <head>Arrangement</head>
-      <p>Arranged in chronological order. Alphabetical arrangement starting with 1966/1967.</p>
-    </arrangement>
-    <controlaccess>
-      <subject source="lcsh">Arboviruses</subject>
-      <subject source="lcsh">Cell and biomolecular sciences</subject>
-      <subject source="lcsh">Medicine, Preventive</subject>
-      <subject source="lcsh">Medical technology</subject>
-      <subject source="lcsh">Chemistry</subject>
-      <subject source="lcsh">Animal behavior</subject>
-      <subject source="lcsh">Biochemistry</subject>
-      <subject source="lcsh">Medical sciences</subject>
-      <subject source="lcsh">Life sciences</subject>
-      <subject source="lcsh">Biology -- Research</subject>
-      <subject source="lcsh">Medical education</subject>
-      <subject source="lcsh">Science -- Study and teaching</subject>
-      <subject source="lcsh">Medical research</subject>
-    </controlaccess>
-    <dsc>
-      <c id="499e1d32e3dc408d99e98e7d7f9f9493" level="file">
-        <did>
-          <unittitle>"Present activities of 50 Graduates"</unittitle>
-          <unitdate normal="1959/1963" type="inclusive">1959/1963</unitdate>
-          <container id="106715229add37d1ac2e3cce40bdce2f" label="mixed materials" type="box">1</container>
-        </did>
-        <arrangement id="b09998b54055820c3fc1324f71e3442d">
-          <head>Arrangement note</head>
-          <p>Arranged by type of appointment held.</p>
-        </arrangement>
-      </c>
-      <c id="11b0ed5bdf204acabf025023f04f6b87" level="file">
-        <did>
-          <unittitle>Alumni</unittitle>
-          <unitdate>1964 October</unitdate>
-        </did>
-        <arrangement id="45f6e1ca75d77c0adff68731dea4666d">
-          <head>Arrangement note</head>
-          <p>Arranged in alphabetical order.</p>
-        </arrangement>
-        <c id="ec50166d07cc4f8f8802deb5d9e2af79" level="file">
-          <did>
-            <unitdate normal="1964/1964" type="inclusive">1964 October</unitdate>
-            <container altrender="Half Ltr Document Storage Box" id="dab62cbcd7d602390a2306a0450a23a5" label="mixed materials [A0000000086852]" type="box">1</container>
-          </did>
-        </c>
-        <c id="e599cff27c494c3cb1e298a456a63917" level="file">
-          <did>
-            <unitdate normal="1966/1967" type="inclusive">1966/1967</unitdate>
-            <container altrender="Half Ltr Document Storage Box" id="c58916cb1edb3f33275863c66024a572" label="mixed materials [A0000000086852]" type="box">1</container>
-          </did>
-        </c>
-        <c id="c86e6c5c4711480eb79b3cd143695037" level="file">
-          <did>
-            <unitdate normal="1967/1968" type="inclusive">1967/1968</unitdate>
-            <container altrender="Half Ltr Document Storage Box" id="36b4693e561a9cb837ea063e97199256" label="mixed materials [A0000000086852]" type="box">1</container>
-          </did>
-        </c>
-        <c id="9f740fdec40348f3b9c048bb6460bfe3" level="file">
-          <did>
-            <unitdate normal="1968/1969" type="inclusive">1968/1969</unitdate>
-            <container altrender="Half Ltr Document Storage Box" id="6ec1e71711f361782dac72fe9d492001" label="mixed materials [A0000000086852]" type="box">1</container>
-          </did>
-        </c>
-        <c id="fb68499f65d54038b9d339d9ab157636" level="file">
-          <did>
-            <unitdate normal="1969/1970" type="inclusive">1969/1970</unitdate>
-            <container altrender="Half Ltr Document Storage Box" id="75b078b6a0d44eeaec861c3c7aa54ae5" label="mixed materials [A0000000086852]" type="box">1</container>
-          </did>
-        </c>
-        <c id="239732527b54487eb9f7ca6b4630f737" level="file">
-          <did>
-            <unitdate normal="1970/1971" type="inclusive">1970/1971</unitdate>
-            <container altrender="Half Ltr Document Storage Box" id="3ee1ac9df1583d23fc66ad050518b3b9" label="mixed materials [A0000000086852]" type="box">1</container>
-          </did>
-        </c>
-        <c id="9b0a6a1116574c56b005758ee67203a0" level="file">
-          <did>
-            <unitdate normal="1971/1972" type="inclusive">1971/1972</unitdate>
-            <container altrender="Half Ltr Document Storage Box" id="3662630583e346adf343853242f677ce" label="mixed materials [A0000000086852]" type="box">1</container>
-          </did>
-        </c>
-        <c id="8afc9fcd4c41479eaac71dcb38259939" level="file">
-          <did>
-            <unitdate normal="1972/1973" type="inclusive">1972/1973</unitdate>
-            <container altrender="Half Ltr Document Storage Box" id="bf04832474cec9206f6233c4c09cbcd0" label="mixed materials [A0000000086852]" type="box">1</container>
-          </did>
-          <scopecontent id="b632be14c0be69cca3cbd3e67389e6c7">
-            <head>Scope and Contents note</head>
-            <p>Published March 1973.</p>
-          </scopecontent>
-        </c>
-        <c id="42e701eb194c45f4a1b2eb6847ba328f" level="file">
-          <did>
-            <unitdate normal="1973/1973" type="inclusive">1973</unitdate>
-            <container altrender="Half Ltr Document Storage Box" id="58d585e640497218492a780410f4bbfb" label="mixed materials [A0000000086852]" type="box">1</container>
-          </did>
-          <scopecontent id="d831814ced2a785b109deb77c39300a8">
-            <head>Scope and Contents note</head>
-            <p>Published December 1973.</p>
-          </scopecontent>
-        </c>
-        <c id="69a20c726f234154862bfd6c8be7bd76" level="file">
-          <did>
-            <unitdate normal="1974/1974" type="inclusive">1974</unitdate>
-            <container altrender="Half Ltr Document Storage Box" id="4a53f681bc1156aa06eaa94a45b4db21" label="mixed materials [A0000000086852]" type="box">1</container>
-          </did>
-          <scopecontent id="1adebe5ec99465ee2221ff7ebe66b52b">
-            <head>Scope and Contents note</head>
-            <p>Published December 1974.</p>
-          </scopecontent>
-        </c>
-        <c id="7090a33895564cbcbe9584d7724df05e" level="file">
-          <did>
-            <unitdate normal="1976/1976" type="inclusive">1976</unitdate>
-            <container altrender="Half Ltr Document Storage Box" id="45a0a708c4ef067052eca96c50073845" label="mixed materials [A0000000086852]" type="box">1</container>
-          </did>
-        </c>
-        <c id="2b35e1f5a93749438ff7a0b3d1488469" level="file">
-          <did>
-            <unitdate normal="1977/1977" type="inclusive">1977</unitdate>
-            <container altrender="Half Ltr Document Storage Box" id="72934e3fc0e1c746ec68eaa023f86559" label="mixed materials [A0000000086852]" type="box">1</container>
-          </did>
-        </c>
-        <c id="c887fb23293340eab8369697dc50e596" level="file">
-          <did>
-            <unitdate normal="1978/1978" type="inclusive">1978</unitdate>
-            <container altrender="Half Ltr Document Storage Box" id="20024ecfc3cb78174fa0eb87a2406716" label="mixed materials [A0000000086852]" type="box">1</container>
-          </did>
-        </c>
-        <c id="e851ce756a7a4b7da6e2ecde1b297c5f" level="file">
-          <did>
-            <unitdate normal="1979/1979" type="inclusive">1979</unitdate>
-            <container altrender="Half Ltr Document Storage Box" id="320896b183c7a4bae8e6261bfcce9755" label="mixed materials [A0000000086852]" type="box">1</container>
-          </did>
-        </c>
-        <c id="412f42c6b6a14c95954acc3a42b8ce5b" level="file">
-          <did>
-            <unitdate normal="1986/1986" type="inclusive">1986</unitdate>
-            <container altrender="Half Ltr Document Storage Box" id="4f4c4c1e0f5a757dec051a9b9a935a8c" label="mixed materials [A0000000086852]" type="box">1</container>
-          </did>
-        </c>
-        <c id="a18e62ed7f3144b8b10b141109a97241" level="file">
-          <did>
-            <unitdate normal="1987/1987" type="inclusive">1987</unitdate>
-            <container altrender="Half Ltr Document Storage Box" id="42c85d1acf78bc0c352aceed8413a732" label="mixed materials [A0000000086852]" type="box">1</container>
-          </did>
-        </c>
-        <c id="1fb0bb45821747529702225e44df1b1d" level="file">
-          <did>
-            <unitdate normal="1990/1990" type="inclusive">1990</unitdate>
-            <container altrender="Letter Document Storage Box" id="55f95ec75c28051ef90ba4b7bbe36b8a" label="mixed materials [A0000000086853]" type="box">2</container>
-            <container id="20802ae9443a578147df6c5483c6d95c" parent="55f95ec75c28051ef90ba4b7bbe36b8a" type="folder">1</container>
-          </did>
-        </c>
-        <c id="7a1511ac5cb0453d9c54545d69d846d4" level="file">
-          <did>
-            <unitdate normal="1991/1991" type="inclusive">1991</unitdate>
-            <container altrender="Letter Document Storage Box" id="31ebd0387d964af0ce5c0ef9d6b48593" label="mixed materials [A0000000086853]" type="box">2</container>
-            <container id="cb7236c7bfdeb59c77235857a6ef9c29" parent="31ebd0387d964af0ce5c0ef9d6b48593" type="folder">2</container>
-          </did>
-        </c>
-        <c id="b2ded99b886f46c691026650536ebd5a" level="file">
-          <did>
-            <unitdate normal="1992/1992" type="inclusive">1992</unitdate>
-            <container altrender="Letter Document Storage Box" id="b3bdaf78efb7a8fcc6139dcc226a0dc3" label="mixed materials [A0000000086853]" type="box">2</container>
-            <container id="cf20a834f6c2c3d46f20cd248f1bedd4" parent="b3bdaf78efb7a8fcc6139dcc226a0dc3" type="folder">3</container>
-          </did>
-        </c>
-        <c id="703d8acaed3f4fb5a106d86d2a328185" level="file">
-          <did>
-            <unitdate normal="2000/2001" type="inclusive">2000-2001</unitdate>
-            <container altrender="Letter Document Storage Box" id="a57983b04b5d59a2255a7be4708829de" label="mixed materials [A0000000086853]" type="box">2</container>
-            <container id="7b845033b86753e6b8d5dd9905366e39" parent="a57983b04b5d59a2255a7be4708829de" type="folder">4</container>
-          </did>
-        </c>
-      </c>
-    </dsc>
-  </archdesc>
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="under_revision" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid>FA841.xml</eadid><filedesc><titlestmt><titleproper type="filing">Rockefeller University records, Directory of Graduates</titleproper><titleproper>A Guide to the Rockefeller University records, Directory of Graduates
+ <num>FA841</num></titleproper></titlestmt><publicationstmt><publisher>Rockefeller Archive Center</publisher><address><addressline>15 Dayton Avenue</addressline><addressline>Sleepy Hollow 10591</addressline><addressline>archive@rockarch.org</addressline><addressline>URL: <extptr xlink:href="http://www.rockarch.org" xlink:show="new" xlink:title="http://www.rockarch.org" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2019-03-14 02:42:32 -0400</date>.</creation></profiledesc><revisiondesc><date>2010 October 18</date><item>Paper finding aid converted to EAD/XML by AureXus in 2010. Imported into the Archvists’ Toolkit by Becky Robbins.</item></revisiondesc></eadheader><archdesc level="collection">
+  <did>
+    <langmaterial>
+      <language langcode="eng">English</language>
+    </langmaterial>
+    <repository>
+      <corpname>Rockefeller Archive Center</corpname>
+    </repository>
+    <unittitle>Rockefeller University records, Directory of Graduates</unittitle>
+    <origination label="creator">
+      <corpname role="aut" source="naf">Rockefeller University</corpname>
+    </origination>
+    <origination label="creator">
+      <persname role="ctb" source="naf">Acheson, N. H.</persname>
+    </origination>
+    <origination label="creator">
+      <corpname role="ctb" source="naf">Rockefeller Institute for Medical Research</corpname>
+    </origination>
+    <unitid>FA841</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">2 box(es)</extent>
+    </physdesc>
+    <unitdate normal="1959/2001" type="inclusive">1959-1979, 1986, 1987, 1990-1992, 2000-2001</unitdate>
+    <physdesc id="bc7e7305bb5fc9c0928a307b40345a38"><extent>2 boxes.</extent></physdesc>
+  </did>
+  <prefercite id="3139b960c90d14e8e284d30b8fd6adb3">
+    <head>Preferred Citation note</head>
+<p>Information regarding the Rockefeller Archive Center's preferred elements and forms of citation can be found at <extref href="http://www.rockarch.org/research/citations.php">http://www.rockarch.org/research/citations.php</extref></p>  </prefercite>
+  <fileplan id="e8b21163365cafcad9677ac2cf4febe6">
+    <head>File Plan note</head>
+<p>Former Classification: I 462</p>  </fileplan>
+  <accessrestrict id="5d12524a2cab6e2ee6855ef9300345df">
+    <head>Conditions Governing Access note</head>
+<p>This collection is open for research. Brittle or damaged items are available at the discretion of the RAC.</p>  </accessrestrict>
+  <scopecontent id="1d09f3f4687682c616e7c5e0ace0027e">
+    <head>Scope and Contents</head>
+<p>Various lists were made to maintain a record of up-to-date activities and addresses of students who were graduates of The Rockefeller University. The form varied in the early years, but starting with 1972/1973 there appeared a greater regularity.</p>  </scopecontent>
+  <arrangement id="3ed38dd8f74ab9f548c6e1f74b7514cf">
+    <head>Arrangement</head>
+<p>Arranged in chronological order. Alphabetical arrangement starting with 1966/1967.</p>  </arrangement>
+  <controlaccess>
+    <subject source="lcsh">Arboviruses</subject>
+    <subject source="lcsh">Cell and biomolecular sciences</subject>
+    <subject source="lcsh">Medicine, Preventive</subject>
+    <subject source="lcsh">Medical technology</subject>
+    <subject source="lcsh">Chemistry</subject>
+    <subject source="lcsh">Animal behavior</subject>
+    <subject source="lcsh">Biochemistry</subject>
+    <subject source="lcsh">Medical sciences</subject>
+    <subject source="lcsh">Life sciences</subject>
+    <subject source="lcsh">Biology -- Research</subject>
+    <subject source="lcsh">Medical education</subject>
+    <subject source="lcsh">Science -- Study and teaching</subject>
+    <subject source="lcsh">Medical research</subject>
+  </controlaccess>
+  <dsc><c id="499e1d32e3dc408d99e98e7d7f9f9493" level="file"><did><unittitle>"Present activities of 50 Graduates"</unittitle><unitdate normal="1959/1963" type="inclusive">1959/1963</unitdate><container id="10027a9d518a553edb09e1a1db7da267" label="mixed materials" type="box">1</container></did><arrangement id="b09998b54055820c3fc1324f71e3442d"><head>Arrangement note</head><p>Arranged by type of appointment held.</p></arrangement></c><c id="11b0ed5bdf204acabf025023f04f6b87" level="file"><did><unittitle>Alumni</unittitle><unitdate>1964 October</unitdate></did><arrangement id="45f6e1ca75d77c0adff68731dea4666d"><head>Arrangement note</head><p>Arranged in alphabetical order.</p></arrangement><c id="ec50166d07cc4f8f8802deb5d9e2af79" level="file"><did><unitdate normal="1964/1964" type="inclusive">1964 October</unitdate><container altrender="Half Ltr Document Storage Box" id="38391ee35188d9ab8fc8359037166035" label="mixed materials [A0000000086852]" type="box">1</container></did></c><c id="e599cff27c494c3cb1e298a456a63917" level="file"><did><unitdate normal="1966/1967" type="inclusive">1966/1967</unitdate><container altrender="Half Ltr Document Storage Box" id="06f5bec2afe867221d634407bd46f64c" label="mixed materials [A0000000086852]" type="box">1</container></did></c><c id="c86e6c5c4711480eb79b3cd143695037" level="file"><did><unitdate normal="1967/1968" type="inclusive">1967/1968</unitdate><container altrender="Half Ltr Document Storage Box" id="1f60741cc65c6a503f7a5a42445092c2" label="mixed materials [A0000000086852]" type="box">1</container></did></c><c id="9f740fdec40348f3b9c048bb6460bfe3" level="file"><did><unitdate normal="1968/1969" type="inclusive">1968/1969</unitdate><container altrender="Half Ltr Document Storage Box" id="6841ed656c1080d70f627bfabf308f4f" label="mixed materials [A0000000086852]" type="box">1</container></did></c><c id="fb68499f65d54038b9d339d9ab157636" level="file"><did><unitdate normal="1969/1970" type="inclusive">1969/1970</unitdate><container altrender="Half Ltr Document Storage Box" id="2c9fb20bcf6cca8f67591d2d5bb696aa" label="mixed materials [A0000000086852]" type="box">1</container></did></c><c id="239732527b54487eb9f7ca6b4630f737" level="file"><did><unitdate normal="1970/1971" type="inclusive">1970/1971</unitdate><container altrender="Half Ltr Document Storage Box" id="756b2347554f97b16440dad6da309ff9" label="mixed materials [A0000000086852]" type="box">1</container></did></c><c id="9b0a6a1116574c56b005758ee67203a0" level="file"><did><unitdate normal="1971/1972" type="inclusive">1971/1972</unitdate><container altrender="Half Ltr Document Storage Box" id="1852c3f4d332ff36501180f93d324b63" label="mixed materials [A0000000086852]" type="box">1</container></did></c><c id="8afc9fcd4c41479eaac71dcb38259939" level="file"><did><unitdate normal="1972/1973" type="inclusive">1972/1973</unitdate><container altrender="Half Ltr Document Storage Box" id="59c971fa41cc53a9cae86264086d8fdb" label="mixed materials [A0000000086852]" type="box">1</container></did><scopecontent id="b632be14c0be69cca3cbd3e67389e6c7"><head>Scope and Contents note</head><p>Published March 1973.</p></scopecontent></c><c id="42e701eb194c45f4a1b2eb6847ba328f" level="file"><did><unitdate normal="1973/1973" type="inclusive">1973</unitdate><container altrender="Half Ltr Document Storage Box" id="68a73af60accee375ea3cdf5b94c99ee" label="mixed materials [A0000000086852]" type="box">1</container></did><scopecontent id="d831814ced2a785b109deb77c39300a8"><head>Scope and Contents note</head><p>Published December 1973.</p></scopecontent></c><c id="69a20c726f234154862bfd6c8be7bd76" level="file"><did><unitdate normal="1974/1974" type="inclusive">1974</unitdate><container altrender="Half Ltr Document Storage Box" id="6c3a948acef26293c4d39e9c61ac8ec5" label="mixed materials [A0000000086852]" type="box">1</container></did><scopecontent id="1adebe5ec99465ee2221ff7ebe66b52b"><head>Scope and Contents note</head><p>Published December 1974.</p></scopecontent></c><c id="7090a33895564cbcbe9584d7724df05e" level="file"><did><unitdate normal="1976/1976" type="inclusive">1976</unitdate><container altrender="Half Ltr Document Storage Box" id="e1d58c29ea5119988c9be18bf492a979" label="mixed materials [A0000000086852]" type="box">1</container></did></c><c id="2b35e1f5a93749438ff7a0b3d1488469" level="file"><did><unitdate normal="1977/1977" type="inclusive">1977</unitdate><container altrender="Half Ltr Document Storage Box" id="9fa797d630b91e9a1ddee75d64974d9a" label="mixed materials [A0000000086852]" type="box">1</container></did></c><c id="c887fb23293340eab8369697dc50e596" level="file"><did><unitdate normal="1978/1978" type="inclusive">1978</unitdate><container altrender="Half Ltr Document Storage Box" id="6c7c06d973c2c9c5f6f59649b78ff477" label="mixed materials [A0000000086852]" type="box">1</container></did></c><c id="e851ce756a7a4b7da6e2ecde1b297c5f" level="file"><did><unitdate normal="1979/1979" type="inclusive">1979</unitdate><container altrender="Half Ltr Document Storage Box" id="2fbe671a67b5d95bb16f126edb306a08" label="mixed materials [A0000000086852]" type="box">1</container></did></c><c id="412f42c6b6a14c95954acc3a42b8ce5b" level="file"><did><unitdate normal="1986/1986" type="inclusive">1986</unitdate><container altrender="Half Ltr Document Storage Box" id="5de7855aad1b9193c79c14ba53cd58af" label="mixed materials [A0000000086852]" type="box">1</container></did></c><c id="a18e62ed7f3144b8b10b141109a97241" level="file"><did><unitdate normal="1987/1987" type="inclusive">1987</unitdate><container altrender="Half Ltr Document Storage Box" id="f5ff2a7b8e405759f7746579a7cae604" label="mixed materials [A0000000086852]" type="box">1</container></did></c><c id="1fb0bb45821747529702225e44df1b1d" level="file"><did><unitdate normal="1990/1990" type="inclusive">1990</unitdate><container altrender="Letter Document Storage Box" id="81b2587349e065ae5c395885e291aa27" label="mixed materials [A0000000086853]" type="box">2</container><container id="46d48bd542c8618a76a28742aa24ea72" parent="81b2587349e065ae5c395885e291aa27" type="folder">1</container></did></c><c id="7a1511ac5cb0453d9c54545d69d846d4" level="file"><did><unitdate normal="1991/1991" type="inclusive">1991</unitdate><container altrender="Letter Document Storage Box" id="9627111d866471e6742cbb783b784f50" label="mixed materials [A0000000086853]" type="box">2</container><container id="fcdcc16de4dde9393d699c22569dfadf" parent="9627111d866471e6742cbb783b784f50" type="folder">2</container></did></c><c id="b2ded99b886f46c691026650536ebd5a" level="file"><did><unitdate normal="1992/1992" type="inclusive">1992</unitdate><container altrender="Letter Document Storage Box" id="99adc175f8df7c9f97161b3b254c1378" label="mixed materials [A0000000086853]" type="box">2</container><container id="86de64ce278ea951174668d95125448a" parent="99adc175f8df7c9f97161b3b254c1378" type="folder">3</container></did></c><c id="703d8acaed3f4fb5a106d86d2a328185" level="file"><did><unitdate normal="2000/2001" type="inclusive">2000-2001</unitdate><container altrender="Letter Document Storage Box" id="262e4f743027c2f4a76190c67f676d97" label="mixed materials [A0000000086853]" type="box">2</container><container id="4aac8ce65e96df84a9fe51b7aad7d5be" parent="262e4f743027c2f4a76190c67f676d97" type="folder">4</container></did></c></c></dsc>
+</archdesc>
 </ead>

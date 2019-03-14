@@ -1,155 +1,62 @@
-<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
-  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="under_revision" langencoding="iso639-2b" repositoryencoding="iso15511">
-    <eadid>FA893.xml</eadid>
-    <filedesc>
-      <titlestmt>
-        <titleproper type="filing">Rockefeller University records, Special Events and Activities, Fifty Years of DNA</titleproper>
-        <titleproper>A Guide to the Rockefeller University records, Special Events and Activities, Fifty Years of DNA
- <num>FA893</num></titleproper>
-      </titlestmt>
-      <publicationstmt>
-        <publisher>Rockefeller Archive Center</publisher>
-        <address>
-          <addressline>15 Dayton Avenue</addressline>
-          <addressline>Sleepy Hollow 10591</addressline>
-          <addressline>archive@rockarch.org</addressline>
-          <addressline>URL: <extptr xlink:href="http://www.rockarch.org" xlink:show="new" xlink:title="http://www.rockarch.org" xlink:type="simple"/></addressline>
-        </address>
-      </publicationstmt>
-    </filedesc>
-    <profiledesc>
-      <creation>This finding aid was produced using ArchivesSpace on <date>2018-07-07 00:06:47 -0400</date>.</creation>
-    </profiledesc>
-    <revisiondesc>
-      <date>2010 August 19</date>
-      <item>Paper finding aid converted to EAD/XML by AureXus in 2010. Imported into the Archvists’ Toolkit by Becky Robbins.</item>
-    </revisiondesc>
-  </eadheader>
-  <archdesc level="collection">
-    <did>
-      <langmaterial>
-        <language langcode="eng">English</language>
-      </langmaterial>
-      <repository>
-        <corpname>Rockefeller Archive Center</corpname>
-      </repository>
-      <unittitle>Rockefeller University records, Special Events and Activities, Fifty Years of DNA</unittitle>
-      <origination label="creator">
-        <corpname role="ctb" source="naf">Rockefeller Institute for Medical Research</corpname>
-      </origination>
-      <origination label="creator">
-        <corpname role="aut" source="naf">Rockefeller University</corpname>
-      </origination>
-      <unitid>FA893</unitid>
-      <physdesc altrender="whole">
-        <extent altrender="materialtype spaceoccupied">0.25 Cubic Feet</extent>
-        <extent altrender="carrier">1 box</extent>
-      </physdesc>
-      <unitdate normal="1993/1994" type="inclusive">1993-1994</unitdate>
-      <physdesc id="d08b2bca399636650cddd13e3c66bc80">
-        <extent>1 half document box</extent>
-      </physdesc>
-    </did>
-    <prefercite id="8a533c21b6c1abff0c65309da33914c4">
-      <head>Preferred Citation note</head>
-      <p>Information regarding the Rockefeller Archive Center's preferred elements and forms of citation can be found at <extref href="http://www.rockarch.org/research/citations.php">http://www.rockarch.org/research/citations.php</extref></p>
-    </prefercite>
-    <fileplan id="78915d3f83ef02c892a04e07a2616bf5">
-      <head>File Plan note</head>
-      <p>Former Classification: I 600-24</p>
-    </fileplan>
-    <scopecontent id="ebadade3016c8d610b7f0d1ef21ad94e">
-      <head>Scope and Contents</head>
-      <p>Consists of material related to the RU celebration of the fiftieth anniversary of Avery, MacLeod, and McCarty's paper showing that genes were made of DNA.</p>
-      <p>Includes memorabilia and photographs.</p>
-    </scopecontent>
-    <arrangement id="945c34629f12ce71be6b1a2d058e713c">
-      <head>Arrangement</head>
-      <p>Arranged by format.</p>
-    </arrangement>
-    <processinfo id="be549a0027e12579b21fa82d966929b7">
-      <head>Processing Information</head>
-      <p>Initially processed by Lee Hiltzik, 1996. Additional processing 2017.</p>
-    </processinfo>
-    <accessrestrict id="116d850c22271f595e48d90c727975b4">
-      <head>Conditions Governing Access</head>
-      <p>Collection is open for research. Brittle or damaged items are available at the discretion of RAC.</p>
-    </accessrestrict>
-    <controlaccess>
-      <subject source="lcsh">Medical research</subject>
-      <subject source="lcsh">Genetics</subject>
-      <geogname source="lcsh">China</geogname>
-      <subject source="lcsh">Medical care</subject>
-      <subject source="lcsh">DNA</subject>
-      <subject source="lcsh">Biology -- Research</subject>
-      <subject source="lcsh">Medical sciences</subject>
-      <subject source="lcsh">Medicine, Preventive</subject>
-      <subject source="lcsh">Vivisection</subject>
-      <subject source="lcsh">Cell and biomolecular sciences</subject>
-      <persname source="naf">McCarty, Maclyn</persname>
-      <persname source="naf">Avery, Oswald Theodore</persname>
-      <persname source="naf">Seitz, Frederick</persname>
-      <persname source="naf">MacLeod, Colin M. (Colin Munro)</persname>
-    </controlaccess>
-    <dsc>
-      <c id="1585ace060da42149b9850ce2c7c384a" level="file">
-        <did>
-          <unittitle>Oswald Avery, Colin M. MacLeod, and Maclyn McCarty, "Studies on the Chemical Nature of the Substance Inducing Transformation of Pneumococcal Types" - Anniversary Edition 1994</unittitle>
-          <unitdate normal="1994/1994" type="inclusive">1994</unitdate>
-          <container altrender="Half Ltr Document Storage Box" id="887b5b8376dc398afa2b318cbcd2355d" label="mixed materials [A0000000092931]" type="box">1</container>
-          <container id="1f697ee71f2ee106533d46c5e9ba3c6d" parent="887b5b8376dc398afa2b318cbcd2355d" type="folder">1</container>
-        </did>
-      </c>
-      <c id="b10366a8e64749b4b000f5adecee88a5" level="file">
-        <did>
-          <unittitle>"Fiftieth Anniversary of the Publication of a Paper that Proved Genes are Comprised of Deoxyribonucleic Acid" Congressional Record</unittitle>
-          <unitdate normal="1994/1994" type="inclusive">1994 February 2</unitdate>
-          <container altrender="Half Ltr Document Storage Box" id="40de283b79982a040b8f0a980f9d96e1" label="mixed materials [A0000000092931]" type="box">1</container>
-          <container id="09c8aea550e8b3d12e16a863d23945df" parent="40de283b79982a040b8f0a980f9d96e1" type="folder">2</container>
-        </did>
-      </c>
-      <c id="063618bd7e874a65b5a2930f910bbfd1" level="file">
-        <did>
-          <unittitle>"50 Years of DNA: Celebrating Oswald Avery and the Discovery of the Thread of Life"</unittitle>
-          <unitdate normal="1993/1993" type="inclusive">1993</unitdate>
-          <physdesc id="8edf7d48d2071dda87798163d31947ea">brochure</physdesc>
-          <container altrender="Half Ltr Document Storage Box" id="52e1091584cb15b9bec718aeebfc9b1e" label="mixed materials [A0000000092931]" type="box">1</container>
-          <container id="5cda50e97e870a3308fd636395839d68" parent="52e1091584cb15b9bec718aeebfc9b1e" type="folder">3</container>
-        </did>
-      </c>
-      <c id="6d2fe8447dc74f1c86fdfdbcc1912d3a" level="file">
-        <did>
-          <unittitle>Photographs</unittitle>
-          <unitdate normal="1994/1994" type="inclusive">1994</unitdate>
-          <container altrender="Half Ltr Document Storage Box" id="d313ce23c75a1ab978734090ef39ff2b" label="mixed materials [A0000000092931]" type="box">1</container>
-          <container id="2f8090561b8d9005f4c3ba1003e84fbe" parent="d313ce23c75a1ab978734090ef39ff2b" type="folder">4</container>
-        </did>
-      </c>
-      <c id="2c2216eb832f46d7a427fe890c6230a1" level="file">
-        <did>
-          <unittitle>Photographs</unittitle>
-          <unitdate normal="1994/1994" type="inclusive">1994</unitdate>
-          <container altrender="Half Ltr Document Storage Box" id="21f88e2afbb8fc00335bf1bfeccd0ec3" label="mixed materials [A0000000092931]" type="box">1</container>
-          <container id="bada14be5de3e160c1c00afc6690387f" parent="21f88e2afbb8fc00335bf1bfeccd0ec3" type="folder">5</container>
-        </did>
-      </c>
-      <c id="e80a415b8c0e40ec84797485e34cccf1" level="file">
-        <did>
-          <unittitle>Photographs</unittitle>
-          <unitdate normal="1994/1994" type="inclusive">1994</unitdate>
-          <container altrender="Half Ltr Document Storage Box" id="e843200f8ef53247a3765afa1f5b328f" label="mixed materials [A0000000092931]" type="box">1</container>
-          <container id="ce7885e08d4ad53a4cc31bb4abda6aa6" parent="e843200f8ef53247a3765afa1f5b328f" type="folder">6</container>
-        </did>
-      </c>
-      <c id="cad059c7f3c94764bbb1af04c88c3562" level="file">
-        <did>
-          <unittitle>Historical Roundtable</unittitle>
-          <unitdate>1994 February 3</unitdate>
-          <physdesc id="20613ec14574754f9f30c4623c157063">typescript</physdesc>
-          <container altrender="Half Ltr Document Storage Box" id="aa3ee4984e5891112aade89f13290a9c" label="mixed materials [A0000000092931]" type="box">1</container>
-          <container id="b55c2d1fea32708e9553349745c961a2" parent="aa3ee4984e5891112aade89f13290a9c" type="folder">7</container>
-        </did>
-      </c>
-    </dsc>
-  </archdesc>
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="under_revision" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid>FA893.xml</eadid><filedesc><titlestmt><titleproper type="filing">Rockefeller University records, Special Events and Activities, Fifty Years of DNA</titleproper><titleproper>A Guide to the Rockefeller University records, Special Events and Activities, Fifty Years of DNA
+ <num>FA893</num></titleproper></titlestmt><publicationstmt><publisher>Rockefeller Archive Center</publisher><address><addressline>15 Dayton Avenue</addressline><addressline>Sleepy Hollow 10591</addressline><addressline>archive@rockarch.org</addressline><addressline>URL: <extptr xlink:href="http://www.rockarch.org" xlink:show="new" xlink:title="http://www.rockarch.org" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2019-03-14 02:50:14 -0400</date>.</creation></profiledesc><revisiondesc><date>2010 August 19</date><item>Paper finding aid converted to EAD/XML by AureXus in 2010. Imported into the Archvists’ Toolkit by Becky Robbins.</item></revisiondesc></eadheader><archdesc level="collection">
+  <did>
+    <langmaterial>
+      <language langcode="eng">English</language>
+    </langmaterial>
+    <repository>
+      <corpname>Rockefeller Archive Center</corpname>
+    </repository>
+    <unittitle>Rockefeller University records, Special Events and Activities, Fifty Years of DNA</unittitle>
+    <origination label="creator">
+      <corpname role="ctb" source="naf">Rockefeller Institute for Medical Research</corpname>
+    </origination>
+    <origination label="creator">
+      <corpname role="aut" source="naf">Rockefeller University</corpname>
+    </origination>
+    <unitid>FA893</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">0.25 Cubic Feet</extent>
+      <extent altrender="carrier">1 box</extent>
+    </physdesc>
+    <unitdate normal="1993/1994" type="inclusive">1993-1994</unitdate>
+    <physdesc id="d08b2bca399636650cddd13e3c66bc80"><extent>1 half document box</extent></physdesc>
+  </did>
+  <prefercite id="8a533c21b6c1abff0c65309da33914c4">
+    <head>Preferred Citation note</head>
+<p>Information regarding the Rockefeller Archive Center's preferred elements and forms of citation can be found at <extref href="http://www.rockarch.org/research/citations.php">http://www.rockarch.org/research/citations.php</extref></p>  </prefercite>
+  <fileplan id="78915d3f83ef02c892a04e07a2616bf5">
+    <head>File Plan note</head>
+<p>Former Classification: I 600-24</p>  </fileplan>
+  <scopecontent id="ebadade3016c8d610b7f0d1ef21ad94e">
+    <head>Scope and Contents</head>
+<p>Consists of material related to the RU celebration of the fiftieth anniversary of Avery, MacLeod, and McCarty's paper showing that genes were made of DNA.</p><p>Includes memorabilia and photographs.</p>  </scopecontent>
+  <arrangement id="945c34629f12ce71be6b1a2d058e713c">
+    <head>Arrangement</head>
+<p>Arranged by format.</p>  </arrangement>
+  <processinfo id="be549a0027e12579b21fa82d966929b7">
+    <head>Processing Information</head>
+<p>Initially processed by Lee Hiltzik, 1996. Additional processing 2017.</p>  </processinfo>
+  <accessrestrict id="116d850c22271f595e48d90c727975b4">
+    <head>Conditions Governing Access</head>
+<p>Collection is open for research. Brittle or damaged items are available at the discretion of RAC.</p>  </accessrestrict>
+  <controlaccess>
+    <subject source="lcsh">Medical research</subject>
+    <subject source="lcsh">Genetics</subject>
+    <geogname source="lcsh">China</geogname>
+    <subject source="lcsh">Medical care</subject>
+    <subject source="lcsh">DNA</subject>
+    <subject source="lcsh">Biology -- Research</subject>
+    <subject source="lcsh">Medical sciences</subject>
+    <subject source="lcsh">Medicine, Preventive</subject>
+    <subject source="lcsh">Vivisection</subject>
+    <subject source="lcsh">Cell and biomolecular sciences</subject>
+    <persname source="naf">McCarty, Maclyn</persname>
+    <persname source="naf">Avery, Oswald Theodore</persname>
+    <persname source="naf">Seitz, Frederick</persname>
+    <persname source="naf">MacLeod, Colin M. (Colin Munro)</persname>
+  </controlaccess>
+  <dsc><c id="1585ace060da42149b9850ce2c7c384a" level="file"><did><unittitle>Oswald Avery, Colin M. MacLeod, and Maclyn McCarty, "Studies on the Chemical Nature of the Substance Inducing Transformation of Pneumococcal Types" - Anniversary Edition 1994</unittitle><unitdate normal="1994/1994" type="inclusive">1994</unitdate><container altrender="Half Ltr Document Storage Box" id="fa4208513fa12620b5347c5871e16251" label="mixed materials [A0000000092931]" type="box">1</container><container id="cbbf3578c7be1020448b8977b38a163f" parent="fa4208513fa12620b5347c5871e16251" type="folder">1</container></did></c><c id="b10366a8e64749b4b000f5adecee88a5" level="file"><did><unittitle>"Fiftieth Anniversary of the Publication of a Paper that Proved Genes are Comprised of Deoxyribonucleic Acid" Congressional Record</unittitle><unitdate normal="1994/1994" type="inclusive">1994 February 2</unitdate><container altrender="Half Ltr Document Storage Box" id="8e1e5f7994266662ed0ddefde8e3a7b3" label="mixed materials [A0000000092931]" type="box">1</container><container id="3f32a65b636da340d0d2596b29b22e63" parent="8e1e5f7994266662ed0ddefde8e3a7b3" type="folder">2</container></did></c><c id="063618bd7e874a65b5a2930f910bbfd1" level="file"><did><unittitle>"50 Years of DNA: Celebrating Oswald Avery and the Discovery of the Thread of Life"</unittitle><unitdate normal="1993/1993" type="inclusive">1993</unitdate><physdesc id="8edf7d48d2071dda87798163d31947ea">brochure</physdesc><container altrender="Half Ltr Document Storage Box" id="c28b5cba1aba5f1378ea0b8b93a27e4a" label="mixed materials [A0000000092931]" type="box">1</container><container id="81d8ce6cc153fddd70f7b248e5b27ef9" parent="c28b5cba1aba5f1378ea0b8b93a27e4a" type="folder">3</container></did></c><c id="6d2fe8447dc74f1c86fdfdbcc1912d3a" level="file"><did><unittitle>Photographs</unittitle><unitdate normal="1994/1994" type="inclusive">1994</unitdate><container altrender="Half Ltr Document Storage Box" id="71d84de3a3dc36d9e1302dd1c4fc45e0" label="mixed materials [A0000000092931]" type="box">1</container><container id="2709d1a79e4fe5f345e9f5dbb5f19c1f" parent="71d84de3a3dc36d9e1302dd1c4fc45e0" type="folder">4</container></did></c><c id="2c2216eb832f46d7a427fe890c6230a1" level="file"><did><unittitle>Photographs</unittitle><unitdate normal="1994/1994" type="inclusive">1994</unitdate><container altrender="Half Ltr Document Storage Box" id="6f797e6744099cff7e864f891774a97c" label="mixed materials [A0000000092931]" type="box">1</container><container id="a9b4eb92ac8e4758b1aca26721da0eb3" parent="6f797e6744099cff7e864f891774a97c" type="folder">5</container></did></c><c id="e80a415b8c0e40ec84797485e34cccf1" level="file"><did><unittitle>Photographs</unittitle><unitdate normal="1994/1994" type="inclusive">1994</unitdate><container altrender="Half Ltr Document Storage Box" id="89135b27dc93fa9be1795620194ace52" label="mixed materials [A0000000092931]" type="box">1</container><container id="57d6e1b50018c0495595b9390ddfd4ee" parent="89135b27dc93fa9be1795620194ace52" type="folder">6</container></did></c><c id="cad059c7f3c94764bbb1af04c88c3562" level="file"><did><unittitle>Historical Roundtable</unittitle><unitdate>1994 February 3</unitdate><physdesc id="20613ec14574754f9f30c4623c157063">typescript</physdesc><container altrender="Half Ltr Document Storage Box" id="1ce787d7212af95e066c330f26589f09" label="mixed materials [A0000000092931]" type="box">1</container><container id="c67d6bd69e62560ee7f40889bc53af57" parent="1ce787d7212af95e066c330f26589f09" type="folder">7</container></did></c></dsc>
+</archdesc>
 </ead>

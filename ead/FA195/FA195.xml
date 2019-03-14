@@ -1,174 +1,61 @@
-<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
-  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="under_revision" langencoding="iso639-2b" repositoryencoding="iso15511">
-    <eadid>FA195.xml</eadid>
-    <filedesc>
-      <titlestmt>
-        <titleproper type="filing">Rudzinska (Maria) papers</titleproper>
-        <titleproper>A Guide to the Maria Rudzinska papers, Rockefeller University Faculty
- <num>FA195</num></titleproper>
-      </titlestmt>
-      <publicationstmt>
-        <publisher>Rockefeller Archive Center</publisher>
-        <address>
-          <addressline>15 Dayton Avenue</addressline>
-          <addressline>Sleepy Hollow 10591</addressline>
-          <addressline>archive@rockarch.org</addressline>
-          <addressline>URL: <extptr xlink:href="http://www.rockarch.org" xlink:show="new" xlink:title="http://www.rockarch.org" xlink:type="simple"/></addressline>
-        </address>
-      </publicationstmt>
-    </filedesc>
-    <profiledesc>
-      <creation>This finding aid was produced using ArchivesSpace on <date>2018-11-02 00:42:04 -0400</date>.</creation>
-    </profiledesc>
-    <revisiondesc>
-      <change>
-        <date>2010 September 29</date>
-        <item>Paper finding aid converted to EAD/XML by AureXus in 2010. Imported into the Archvists’ Toolkit by Becky Robbins.</item>
-      </change>
-    </revisiondesc>
-  </eadheader>
-  <archdesc level="collection">
-    <did>
-      <langmaterial>
-        <language langcode="eng">English</language>
-      </langmaterial>
-      <repository>
-        <corpname>Rockefeller Archive Center</corpname>
-      </repository>
-      <unittitle>Maria Rudzinska papers, Rockefeller University Faculty</unittitle>
-      <origination label="creator">
-        <persname role="aut" rules="dacs">Rudzinska, Maria A.</persname>
-      </origination>
-      <unitid>FA195</unitid>
-      <physdesc altrender="whole">
-        <extent altrender="materialtype spaceoccupied">1 Cubic Feet</extent>
-        <extent altrender="carrier">2 boxes</extent>
-      </physdesc>
-      <unitdate normal="1952/1988" type="inclusive">1952-1988</unitdate>
-      <physdesc id="61a4ab6fb7d933af2beae654890f846d">2 boxes</physdesc>
-    </did>
-    <bioghist id="3b1d346d9d6f918a22fcc16bdab5cf39">
-      <head>Biographical/Historical note</head>
-      <p>Maria A. Rudzinska (1904- ), a protozoologist and professor emeritus, began her association with The Rockefeller Institute for Medical Research/University in 1952. She worked as a guest investigator with William Trager in the parasitology laboratory. One of Maria Rudzinska's most significant finding was that malaria parasites feed on their host by endocytosis, engulfing large portions of the red blood cell cytoplasm into food vacuoles. She was also one of the first researchers to use electron microscopy in the study of parasitology. Rudzinska focused primarily on tokophyrya, studying its structure and physiology.</p>
-      <p>Dr. Rudzinska was born in Dalorova, Poland on January 4, 1904. She graduated from the Jagellonian University of Cracow in 1926 with an M.S. in biology and a Ph.D. in zoology in 1929. After emigrating to the U.S. in 1945, she worked as a research associate and instructor in Biology at New York University (1946-1952).</p>
-    </bioghist>
-    <scopecontent id="2d26ee2b03bee1eae72b6fa68c54e8ae">
-      <head>Scope and Contents note</head>
-      <p>Reprints. Incomplete set.</p>
-    </scopecontent>
-    <arrangement id="7590c0e427387770e6765a76c07513c9">
-      <head>Arrangement note</head>
-      <p>Arranged in chronological order.</p>
-    </arrangement>
-    <fileplan id="123a835600e2c59135e9e93736f864fd">
-      <head>File Plan note</head>
-      <p>Former Classification: I 450 R836</p>
-    </fileplan>
-    <accessrestrict id="41fc37c979ac545c028f765816aaa490">
-      <head>Conditions Governing Access note</head>
-      <p>Access to this collection is restricted pending permission from Rockefeller University.</p>
-    </accessrestrict>
-    <prefercite id="5139f6e0997ee8c2ab5821603bb55159">
-      <head>Preferred Citation</head>
-      <p>Information regarding the Rockefeller Archive Center's preferred elements and forms of citation can be found at <extref href="http://www.rockarch.org/research/citations.php">http://www.rockarch.org/research/citations.php</extref></p>
-    </prefercite>
-    <controlaccess>
-      <subject source="lcsh">Endocytosis</subject>
-      <subject source="lcsh">Parasitology</subject>
-      <subject source="lcsh">Life sciences</subject>
-      <subject source="lcsh">Biology -- Research</subject>
-      <subject source="lcsh">Cell and biomolecular sciences</subject>
-      <subject source="lcsh">Medical technology</subject>
-      <subject source="lcsh">Biochemistry</subject>
-      <subject source="lcsh">Medicine, Preventive</subject>
-      <subject source="lcsh">Medical research</subject>
-      <subject source="lcsh">Medical education</subject>
-      <subject source="lcsh">Medical sciences</subject>
-      <subject source="lcsh">Protozoology</subject>
-      <subject source="lcsh">Malaria</subject>
-      <subject source="lcsh">Zoology</subject>
-      <corpname role="ctb" source="naf">Rockefeller Institute for Medical Research</corpname>
-      <corpname role="ctb" source="naf">Rockefeller University</corpname>
-    </controlaccess>
-    <dsc>
-      <c id="a60763e06e02477c855f06e704295466" level="file">
-        <did>
-          <unittitle>Reprints</unittitle>
-          <unitdate normal="1952/1988" type="inclusive">1952-1988</unitdate>
-        </did>
-        <c id="0414762f6b59412382e7b82c16b9a167" level="file">
-          <did>
-            <unittitle>#21, 27, 31, 34, 37-41</unittitle>
-            <unitdate normal="1952/1956" type="inclusive">1952-1956</unitdate>
-            <container altrender="Letter Document Storage Box" id="9a2fea4fb267407fcb0d40232761e1b9" label="mixed materials [A0000000085223]" type="box">1</container>
-            <container id="d995e9b4a20ef191af6c2134a20d7a7f" parent="9a2fea4fb267407fcb0d40232761e1b9" type="folder">1</container>
-          </did>
-        </c>
-        <c id="557b088c475b42e987090e4a04f1a733" level="file">
-          <did>
-            <unittitle>#46, 49, 54a, 56, 58</unittitle>
-            <unitdate normal="1957/1959" type="inclusive">1957-1959</unitdate>
-            <container altrender="Letter Document Storage Box" id="62270d7680fae6980b5f90ec11d3c2ea" label="mixed materials [A0000000085223]" type="box">1</container>
-            <container id="de5f6173b0c507c4d9424748e1db0188" parent="62270d7680fae6980b5f90ec11d3c2ea" type="folder">2</container>
-          </did>
-        </c>
-        <c id="35fc3cb78f0c4d7081f14a766852d44d" level="file">
-          <did>
-            <unittitle>#65-68, 71-75</unittitle>
-            <unitdate normal="1961/1963" type="inclusive">1961-1963</unitdate>
-            <container altrender="Letter Document Storage Box" id="70cf6206595fe3660d5049635d1917eb" label="mixed materials [A0000000085223]" type="box">1</container>
-            <container id="f326147d580af05711492ed285928755" parent="70cf6206595fe3660d5049635d1917eb" type="folder">3</container>
-          </did>
-        </c>
-        <c id="dfb09778e8c543b2979b0ee1928690fd" level="file">
-          <did>
-            <unittitle>#77-83</unittitle>
-            <unitdate normal="1964/1965" type="inclusive">1964-1965</unitdate>
-            <container altrender="Letter Document Storage Box" id="13825f02c5ae72ce2326278b507a2bed" label="mixed materials [A0000000085223]" type="box">1</container>
-            <container id="4897cb35313807410db3ed519b1de795" parent="13825f02c5ae72ce2326278b507a2bed" type="folder">4</container>
-          </did>
-        </c>
-        <c id="0dfdf6b2269a4894834c0b0dea400f7b" level="file">
-          <did>
-            <unittitle>#84, 86-89, 91</unittitle>
-            <unitdate normal="1966/1968" type="inclusive">1966-1968</unitdate>
-            <container altrender="Letter Document Storage Box" id="bdcde52baa8acc76f9884b36d1f387b2" label="mixed materials [A0000000085223]" type="box">1</container>
-            <container id="e77d4c61deaf0392fa371b73a7d0d64a" parent="bdcde52baa8acc76f9884b36d1f387b2" type="folder">5</container>
-          </did>
-        </c>
-        <c id="0a1dcd6b0d454554a6974074e8a73563" level="file">
-          <did>
-            <unittitle>#92, 99, 102-105</unittitle>
-            <unitdate normal="1969/1970" type="inclusive">1969-1970</unitdate>
-            <container altrender="Letter Document Storage Box" id="9ed6c5f6ea8008ce5fc96ac9cdc55b5a" label="mixed materials [A0000000085223]" type="box">1</container>
-            <container id="6d1ec9e424ac15e1d7fd4f069a19863d" parent="9ed6c5f6ea8008ce5fc96ac9cdc55b5a" type="folder">6</container>
-          </did>
-        </c>
-        <c id="ef281f78e6ea478b8b08b531da9e4a98" level="file">
-          <did>
-            <unittitle>#108-112</unittitle>
-            <unitdate normal="1972/1973" type="inclusive">1972-1973</unitdate>
-            <container altrender="Letter Document Storage Box" id="5beeb33315cb9a57f2c4d29c99dba4c6" label="mixed materials [A0000000085223]" type="box">1</container>
-            <container id="c17834d39da1777c5ec3266700ce4822" parent="5beeb33315cb9a57f2c4d29c99dba4c6" type="folder">7</container>
-          </did>
-        </c>
-        <c id="94a664a5013a4be79bd92b85e2cfa3c4" level="file">
-          <did>
-            <unittitle>#123-125, 127, 130, 132, 135-138</unittitle>
-            <unitdate normal="1976/1983" type="inclusive">1976-1977, 1979-1983</unitdate>
-            <container altrender="Letter Document Storage Box" id="f6a8c02cadae67c62c1ab5f735c8e884" label="mixed materials [A0000000085222]" type="box">2</container>
-            <container id="cc7f43d7f7ae3756a3ac689211df4878" parent="f6a8c02cadae67c62c1ab5f735c8e884" type="folder">1</container>
-          </did>
-        </c>
-        <c id="6db4a39cdb7f49bfb439f7a50adcf8fd" level="file">
-          <did>
-            <unittitle>#140-142, 144, 146, 147, 149-151, 154-155</unittitle>
-            <unitdate normal="1983/1988" type="inclusive">1983-1984, 1986-1988</unitdate>
-            <container altrender="Letter Document Storage Box" id="97cd00041832f0a2e2ba7d933f63f542" label="mixed materials [A0000000085222]" type="box">2</container>
-            <container id="bc4f422ecf9d90368a8433eaeb594051" parent="97cd00041832f0a2e2ba7d933f63f542" type="folder">2</container>
-          </did>
-        </c>
-      </c>
-    </dsc>
-  </archdesc>
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="under_revision" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid>FA195.xml</eadid><filedesc><titlestmt><titleproper type="filing">Rudzinska (Maria) papers</titleproper><titleproper>A Guide to the Maria Rudzinska papers, Rockefeller University Faculty
+ <num>FA195</num></titleproper></titlestmt><publicationstmt><publisher>Rockefeller Archive Center</publisher><address><addressline>15 Dayton Avenue</addressline><addressline>Sleepy Hollow 10591</addressline><addressline>archive@rockarch.org</addressline><addressline>URL: <extptr xlink:href="http://www.rockarch.org" xlink:show="new" xlink:title="http://www.rockarch.org" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2019-03-14 00:30:03 -0400</date>.</creation></profiledesc><revisiondesc><change><date>2010 September 29</date><item>Paper finding aid converted to EAD/XML by AureXus in 2010. Imported into the Archvists’ Toolkit by Becky Robbins.</item></change></revisiondesc></eadheader><archdesc level="collection">
+  <did>
+    <langmaterial>
+      <language langcode="eng">English</language>
+    </langmaterial>
+    <repository>
+      <corpname>Rockefeller Archive Center</corpname>
+    </repository>
+    <unittitle>Maria Rudzinska papers, Rockefeller University Faculty</unittitle>
+    <origination label="creator">
+      <persname role="aut" rules="dacs">Rudzinska, Maria A.</persname>
+    </origination>
+    <unitid>FA195</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">1 Cubic Feet</extent>
+      <extent altrender="carrier">2 boxes</extent>
+    </physdesc>
+    <unitdate normal="1952/1988" type="inclusive">1952-1988</unitdate>
+    <physdesc id="61a4ab6fb7d933af2beae654890f846d">2 boxes</physdesc>
+  </did>
+  <bioghist id="3b1d346d9d6f918a22fcc16bdab5cf39">
+    <head>Biographical/Historical note</head>
+<p>Maria A. Rudzinska (1904- ), a protozoologist and professor emeritus, began her association with The Rockefeller Institute for Medical Research/University in 1952. She worked as a guest investigator with William Trager in the parasitology laboratory. One of Maria Rudzinska's most significant finding was that malaria parasites feed on their host by endocytosis, engulfing large portions of the red blood cell cytoplasm into food vacuoles. She was also one of the first researchers to use electron microscopy in the study of parasitology. Rudzinska focused primarily on tokophyrya, studying its structure and physiology.</p><p>Dr. Rudzinska was born in Dalorova, Poland on January 4, 1904. She graduated from the Jagellonian University of Cracow in 1926 with an M.S. in biology and a Ph.D. in zoology in 1929. After emigrating to the U.S. in 1945, she worked as a research associate and instructor in Biology at New York University (1946-1952).</p>  </bioghist>
+  <scopecontent id="2d26ee2b03bee1eae72b6fa68c54e8ae">
+    <head>Scope and Contents note</head>
+<p>Reprints. Incomplete set.</p>  </scopecontent>
+  <arrangement id="7590c0e427387770e6765a76c07513c9">
+    <head>Arrangement note</head>
+<p>Arranged in chronological order.</p>  </arrangement>
+  <fileplan id="123a835600e2c59135e9e93736f864fd">
+    <head>File Plan note</head>
+<p>Former Classification: I 450 R836</p>  </fileplan>
+  <accessrestrict id="41fc37c979ac545c028f765816aaa490">
+    <head>Conditions Governing Access note</head>
+<p>Access to this collection is restricted pending permission from Rockefeller University.</p>  </accessrestrict>
+  <prefercite id="5139f6e0997ee8c2ab5821603bb55159">
+    <head>Preferred Citation</head>
+<p>Information regarding the Rockefeller Archive Center's preferred elements and forms of citation can be found at <extref href="http://www.rockarch.org/research/citations.php">http://www.rockarch.org/research/citations.php</extref></p>  </prefercite>
+  <controlaccess>
+    <subject source="lcsh">Endocytosis</subject>
+    <subject source="lcsh">Parasitology</subject>
+    <subject source="lcsh">Life sciences</subject>
+    <subject source="lcsh">Biology -- Research</subject>
+    <subject source="lcsh">Cell and biomolecular sciences</subject>
+    <subject source="lcsh">Medical technology</subject>
+    <subject source="lcsh">Biochemistry</subject>
+    <subject source="lcsh">Medicine, Preventive</subject>
+    <subject source="lcsh">Medical research</subject>
+    <subject source="lcsh">Medical education</subject>
+    <subject source="lcsh">Medical sciences</subject>
+    <subject source="lcsh">Protozoology</subject>
+    <subject source="lcsh">Malaria</subject>
+    <subject source="lcsh">Zoology</subject>
+    <corpname role="ctb" source="naf">Rockefeller Institute for Medical Research</corpname>
+    <corpname role="ctb" source="naf">Rockefeller University</corpname>
+  </controlaccess>
+  <dsc><c id="a60763e06e02477c855f06e704295466" level="file"><did><unittitle>Reprints</unittitle><unitdate normal="1952/1988" type="inclusive">1952-1988</unitdate></did><c id="0414762f6b59412382e7b82c16b9a167" level="file"><did><unittitle>#21, 27, 31, 34, 37-41</unittitle><unitdate normal="1952/1956" type="inclusive">1952-1956</unitdate><container altrender="Letter Document Storage Box" id="98ce94590238876d586320a56e985431" label="mixed materials [A0000000085223]" type="box">1</container><container id="57f015f6b679efbf455ef827123f0b38" parent="98ce94590238876d586320a56e985431" type="folder">1</container></did></c><c id="557b088c475b42e987090e4a04f1a733" level="file"><did><unittitle>#46, 49, 54a, 56, 58</unittitle><unitdate normal="1957/1959" type="inclusive">1957-1959</unitdate><container altrender="Letter Document Storage Box" id="056bf7e8e8627c3332b877fd00ff788b" label="mixed materials [A0000000085223]" type="box">1</container><container id="b196b3d8bcf71c242c75d17505cc0aa6" parent="056bf7e8e8627c3332b877fd00ff788b" type="folder">2</container></did></c><c id="35fc3cb78f0c4d7081f14a766852d44d" level="file"><did><unittitle>#65-68, 71-75</unittitle><unitdate normal="1961/1963" type="inclusive">1961-1963</unitdate><container altrender="Letter Document Storage Box" id="49d7ef9303845dacc66eb807ac0d1991" label="mixed materials [A0000000085223]" type="box">1</container><container id="519d229a3d7334cf2ebb2a2ea934cabc" parent="49d7ef9303845dacc66eb807ac0d1991" type="folder">3</container></did></c><c id="dfb09778e8c543b2979b0ee1928690fd" level="file"><did><unittitle>#77-83</unittitle><unitdate normal="1964/1965" type="inclusive">1964-1965</unitdate><container altrender="Letter Document Storage Box" id="98f21de8db42029be957638e0ae594f1" label="mixed materials [A0000000085223]" type="box">1</container><container id="0e75b3f478fdf34213135661f6248f2f" parent="98f21de8db42029be957638e0ae594f1" type="folder">4</container></did></c><c id="0dfdf6b2269a4894834c0b0dea400f7b" level="file"><did><unittitle>#84, 86-89, 91</unittitle><unitdate normal="1966/1968" type="inclusive">1966-1968</unitdate><container altrender="Letter Document Storage Box" id="d19a2aece80b13dc5ec67870a545277b" label="mixed materials [A0000000085223]" type="box">1</container><container id="0dbb24818702e284601fd7de618984cd" parent="d19a2aece80b13dc5ec67870a545277b" type="folder">5</container></did></c><c id="0a1dcd6b0d454554a6974074e8a73563" level="file"><did><unittitle>#92, 99, 102-105</unittitle><unitdate normal="1969/1970" type="inclusive">1969-1970</unitdate><container altrender="Letter Document Storage Box" id="4c0c3f6711b1f620beab556580f3f5b2" label="mixed materials [A0000000085223]" type="box">1</container><container id="98f8a0de23cc293dae9f07a0ce09c141" parent="4c0c3f6711b1f620beab556580f3f5b2" type="folder">6</container></did></c><c id="ef281f78e6ea478b8b08b531da9e4a98" level="file"><did><unittitle>#108-112</unittitle><unitdate normal="1972/1973" type="inclusive">1972-1973</unitdate><container altrender="Letter Document Storage Box" id="cc86591108ac7ae7c9e8971c13f38b31" label="mixed materials [A0000000085223]" type="box">1</container><container id="05afdd3626b8473fd420b476d1feb39f" parent="cc86591108ac7ae7c9e8971c13f38b31" type="folder">7</container></did></c><c id="94a664a5013a4be79bd92b85e2cfa3c4" level="file"><did><unittitle>#123-125, 127, 130, 132, 135-138</unittitle><unitdate normal="1976/1983" type="inclusive">1976-1977, 1979-1983</unitdate><container altrender="Letter Document Storage Box" id="a05acf06395e8d98dbb7d9343db66edc" label="mixed materials [A0000000085222]" type="box">2</container><container id="9b0bb5875365f14fb600ea1719d16d59" parent="a05acf06395e8d98dbb7d9343db66edc" type="folder">1</container></did></c><c id="6db4a39cdb7f49bfb439f7a50adcf8fd" level="file"><did><unittitle>#140-142, 144, 146, 147, 149-151, 154-155</unittitle><unitdate normal="1983/1988" type="inclusive">1983-1984, 1986-1988</unitdate><container altrender="Letter Document Storage Box" id="496f35096e7db235b08814d2e9a9d919" label="mixed materials [A0000000085222]" type="box">2</container><container id="892d2cda5f8107872180c2c996a61e1f" parent="496f35096e7db235b08814d2e9a9d919" type="folder">2</container></did></c></c></dsc>
+</archdesc>
 </ead>

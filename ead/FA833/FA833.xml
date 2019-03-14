@@ -1,262 +1,68 @@
-<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
-  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="under_revision" langencoding="iso639-2b" repositoryencoding="iso15511">
-    <eadid>FA833.xml</eadid>
-    <filedesc>
-      <titlestmt>
-        <titleproper type="filing">Rockefeller University records, Laboratory of Electronics, Subject Files</titleproper>
-        <titleproper>A Guide to the Rockefeller University records, Laboratory of Electronics, Subject Files
- <num>FA833</num></titleproper>
-      </titlestmt>
-      <publicationstmt>
-        <publisher>Rockefeller Archive Center</publisher>
-        <address>
-          <addressline>15 Dayton Avenue</addressline>
-          <addressline>Sleepy Hollow 10591</addressline>
-          <addressline>archive@rockarch.org</addressline>
-          <addressline>URL: <extptr xlink:href="http://www.rockarch.org" xlink:show="new" xlink:title="http://www.rockarch.org" xlink:type="simple"/></addressline>
-        </address>
-      </publicationstmt>
-    </filedesc>
-    <profiledesc>
-      <creation>This finding aid was produced using ArchivesSpace on <date>2019-02-21 00:00:18 -0500</date>.</creation>
-    </profiledesc>
-    <revisiondesc>
-      <date>2010 November 12</date>
-      <item>Paper finding aid converted to EAD/XML by AureXus in 2010. Imported into the Archvists’ Toolkit by Becky Robbins.</item>
-    </revisiondesc>
-  </eadheader>
-  <archdesc level="collection">
-    <did>
-      <langmaterial>
-        <language langcode="eng">English</language>
-      </langmaterial>
-      <repository>
-        <corpname>Rockefeller Archive Center</corpname>
-      </repository>
-      <unittitle>Rockefeller University records, Laboratory of Electronics, Subject Files</unittitle>
-      <origination label="creator">
-        <corpname role="aut" source="naf">Rockefeller University</corpname>
-      </origination>
-      <origination label="creator">
-        <corpname role="aut" source="naf">Rockefeller Institute for Medical Research</corpname>
-      </origination>
-      <unitid>FA833</unitid>
-      <physdesc altrender="whole">
-        <extent altrender="materialtype spaceoccupied">0.44 Cubic Feet</extent>
-        <extent altrender="carrier">1 box.</extent>
-      </physdesc>
-      <unitdate normal="1949/1985" type="inclusive">1949-1985</unitdate>
-      <physdesc id="3aa0810381cef84f0810ba8e740e87fa">1 box.</physdesc>
-    </did>
-    <fileplan id="c84f7fd031f57328f57ed05cb88335c9">
-      <head>File Plan note</head>
-      <p>Former Classification: I 421-4</p>
-    </fileplan>
-    <otherfindaid id="9088ffa6a0381f28ab709d897aa65e4b">
-      <head>Other Finding Aids</head>
-      <p>FA227 Rockefeller University records, Laboratory of Electronics, Technical Report</p>
-    </otherfindaid>
-    <prefercite id="e2c729d2596871ac3a91d8985123aff6">
-      <head>Preferred Citation</head>
-      <p>Information regarding the Rockefeller Archive Center's preferred elements and forms of citation can be found at <extref href="http://www.rockarch.org/research/citations.php">http://www.rockarch.org/research/citations.php</extref></p>
-    </prefercite>
-    <bioghist id="85c7cc1b51999ee819671f72f1148f53">
-      <head>Biographical / Historical</head>
-      <p>After Detlev Bronk became President of the Rockefeller Institute in 1953, he decided to strengthen the already existing Electronics Laboratory by hiring John P. Hervey, a professional electrical engineer. Hervey, in turn, hired Dr. C. Yang to be his assistant. When Yang left for China in 1956, Robert L. Schoenfeld replaced him. While Hervey was in charge of long-term projects at the Institute's Jacques Loeb Laboratory in Woods Hole, Massachusetts, Schoenfeld ran the laboratory in New York, working on development and research.</p>
-    </bioghist>
-    <scopecontent id="548b1fab226eb00fa29d99609230f0f0">
-      <head>Scope and Contents</head>
-      <p>Includes primarily publications (reprints and technical reports); also includes correspondence and personnel material.</p>
-      <p>Subjects include policy matters and the National Academy of Engineering.</p>
-      <p>Correspondents include Detlev W. Bronk.</p>
-    </scopecontent>
-    <arrangement id="06853179d89d51cafe87145cb7eed6b9">
-      <head>Arrangement</head>
-      <p>Alphabetical.</p>
-    </arrangement>
-    <processinfo id="1057d4f64573b445dfccefd9d2b0722b">
-      <head>Processing Information</head>
-      <p>Processed by BJG, 4/28/88 (revision).</p>
-    </processinfo>
-    <accessrestrict id="335fc8df43eb55a118782a1ac043f992">
-      <head>Conditions Governing Access note</head>
-      <p>This collection is open for research. Brittle or damaged items are available at the discretion of RAC.</p>
-    </accessrestrict>
-    <controlaccess>
-      <subject source="lcsh">Plant diseases</subject>
-      <subject source="lcsh">Diseases</subject>
-      <subject source="lcsh">Animals -- Diseases</subject>
-      <subject source="lcsh">Biology -- Research</subject>
-      <subject source="lcsh">Medical technology</subject>
-      <subject source="lcsh">Life sciences</subject>
-      <subject source="lcsh">Medical education</subject>
-      <subject source="lcsh">Medical sciences</subject>
-      <subject source="lcsh">Cell and biomolecular sciences</subject>
-      <subject source="lcsh">Technology</subject>
-      <subject source="lcsh">Medical research</subject>
-      <subject source="lcsh">Pathology</subject>
-      <subject source="lcsh">Medicine, Preventive</subject>
-      <subject source="lcsh">Biochemistry</subject>
-    </controlaccess>
-    <dsc>
-      <c id="00dfbb213ac3432fb586acd1f44ff276" level="file">
-        <did>
-          <unittitle>Correspondence-General</unittitle>
-          <unitdate normal="1963/1984" type="inclusive">1963-1964 1984</unitdate>
-          <container altrender="Letter Document Storage Box" id="af8d83ffea144303acda5eb7cdbfb5f1" label="mixed materials [A0000000087200]" type="box">1</container>
-          <container id="5fb4717a7da9b8792f044f4bf816737e" parent="af8d83ffea144303acda5eb7cdbfb5f1" type="folder">1</container>
-        </did>
-      </c>
-      <c id="20990afc3c454b59911a04d5dbfa2e81" level="file">
-        <did>
-          <unittitle>Encyclopedia Americana Article</unittitle>
-          <unitdate normal="1966/1966" type="inclusive">1966</unitdate>
-          <container altrender="Letter Document Storage Box" id="7bb7f3598bf96f06626db38e4c655e73" label="mixed materials [A0000000087200]" type="box">1</container>
-          <container id="0793ab708c13bc3eb90b2a5a4e8bbab5" parent="7bb7f3598bf96f06626db38e4c655e73" type="folder">2</container>
-        </did>
-      </c>
-      <c id="f984f6e08d384a08b1268ba68748146a" level="file">
-        <did>
-          <unittitle>Hervey-Neg. Cap. Probe Mass</unittitle>
-          <unitdate normal="1958/1964" type="inclusive">1958-1964</unitdate>
-          <container altrender="Letter Document Storage Box" id="d89ff343d6acd2cf7e6a884afcccd6d0" label="mixed materials [A0000000087200]" type="box">1</container>
-          <container id="4d69262e97ec10ab3a079a0e40e6f7f8" parent="d89ff343d6acd2cf7e6a884afcccd6d0" type="folder">3</container>
-        </did>
-      </c>
-      <c id="ff1bc3ace1ac441da5d1d831b7abbb07" level="file">
-        <did>
-          <unittitle>National Academy of Engineering</unittitle>
-          <unitdate normal="1966/1966" type="inclusive">1966</unitdate>
-          <container altrender="Letter Document Storage Box" id="29781204e1c18e216f54879bcfe21706" label="mixed materials [A0000000087200]" type="box">1</container>
-          <container id="eded60c9c1e70e39a6c45c9788d68af7" parent="29781204e1c18e216f54879bcfe21706" type="folder">4</container>
-        </did>
-      </c>
-      <c id="7012ba9ddf71439b923ef27630038c22" level="file">
-        <did>
-          <unittitle>Original Drawings - "Computers in Medicine and Biology"</unittitle>
-          <unitdate normal="1965/1965" type="inclusive">1965</unitdate>
-          <container altrender="Letter Document Storage Box" id="25193c866f735ccb3760f9d49738eb57" label="mixed materials [A0000000087200]" type="box">1</container>
-          <container id="c268d5e075bad72ec19b5e891418911a" parent="25193c866f735ccb3760f9d49738eb57" type="folder">5</container>
-        </did>
-      </c>
-      <c id="dc4e91d2652949c28074e44658fc79ab" level="file">
-        <did>
-          <unittitle>Personnel</unittitle>
-          <unitdate normal="1954/1958" type="inclusive">1954-1958</unitdate>
-          <container altrender="Letter Document Storage Box" id="ff782a9db6216ab8959fe6e030dab695" label="mixed materials [A0000000087200]" type="box">1</container>
-          <container id="925eb11ca698c3ed6bc3c5918eca5a15" parent="ff782a9db6216ab8959fe6e030dab695" type="folder">6</container>
-        </did>
-      </c>
-      <c id="fb7b0663bc424232b41d6a4551dcfd60" level="file">
-        <did>
-          <unittitle>Policy Matters</unittitle>
-          <unitdate normal="1955/1961" type="inclusive">1955-1961</unitdate>
-          <container altrender="Letter Document Storage Box" id="85990240d29054a0057f7d350a1aae84" label="mixed materials [A0000000087200]" type="box">1</container>
-          <container id="5b4d9ee68af32596b1ece1f6a6dbc73e" parent="85990240d29054a0057f7d350a1aae84" type="folder">7</container>
-        </did>
-      </c>
-      <c id="0e9eabab3b6049fdbd43e6ab7311d5e2" level="file">
-        <did>
-          <unittitle>Schoenfeld Reprints</unittitle>
-          <unitdate normal="1949/1959" type="inclusive">1949-1959</unitdate>
-          <container altrender="Letter Document Storage Box" id="a8b294f409f828e079b384fe8ac7f092" label="mixed materials [A0000000087200]" type="box">1</container>
-          <container id="866ac3b9792a70d5fbb023cd8de760d9" parent="a8b294f409f828e079b384fe8ac7f092" type="folder">8</container>
-        </did>
-      </c>
-      <c id="3d85c77666a24370be1618e745400df1" level="file">
-        <did>
-          <unittitle>Schoenfeld Reprints</unittitle>
-          <unitdate normal="1960/1969" type="inclusive">1960-1969</unitdate>
-          <container altrender="Letter Document Storage Box" id="16441afb0266f6e8c7105b5b4354968c" label="mixed materials [A0000000087200]" type="box">1</container>
-          <container id="d4a1f27296ea501f7c020a8ca23db8d0" parent="16441afb0266f6e8c7105b5b4354968c" type="folder">9</container>
-        </did>
-      </c>
-      <c id="7616d2f42de64e80820cc2bcf09af942" level="file">
-        <did>
-          <unittitle>Schoenfeld Reprints</unittitle>
-          <unitdate normal="1970/1985" type="inclusive">1970-1985</unitdate>
-          <container altrender="Letter Document Storage Box" id="e6d0a3b1bfacb788e1c2aa2da93ebaba" label="mixed materials [A0000000087200]" type="box">1</container>
-          <container id="de01782cc50a80f34ec2f5308eae162b" parent="e6d0a3b1bfacb788e1c2aa2da93ebaba" type="folder">10</container>
-        </did>
-      </c>
-      <c id="7d2436bdc86e4df08a76209d1314469e" level="file">
-        <did>
-          <unittitle>U.S. National Committee for Pure and Applied Biophysics</unittitle>
-          <unitdate normal="1965/1967" type="inclusive">1965-1967</unitdate>
-          <container altrender="Letter Document Storage Box" id="53b53a7163d7feab0789502dea6fe367" label="mixed materials [A0000000087200]" type="box">1</container>
-          <container id="8a59297103907ba2e08e6a25fa7c1bc8" parent="53b53a7163d7feab0789502dea6fe367" type="folder">11</container>
-        </did>
-      </c>
-      <c id="3bf6149c88cc49c881002c316e2c5614" level="file">
-        <did>
-          <unittitle>Publications</unittitle>
-          <container altrender="Letter Document Storage Box" id="2a62bd37f558d3e13385c3aeeb899e94" label="mixed materials [A0000000087200]" type="box">1</container>
-          <container id="c3eb7f5b509d32cab85f6ca395cd0cad" parent="2a62bd37f558d3e13385c3aeeb899e94" type="folder">11</container>
-        </did>
-        <c id="710a4e37e7e74c508f6c7143799b830a" level="item">
-          <did>
-            <unittitle>The Rockefeller Institute Quarterly</unittitle>
-            <unitdate>Winter 1962</unitdate>
-            <container altrender="Letter Document Storage Box" id="4177ada59312f46e19e10aa1a949579d" label="mixed materials [A0000000087200]" type="box">1</container>
-            <container id="e105db651ddae46f3466da41499c55d9" parent="4177ada59312f46e19e10aa1a949579d" type="folder">11</container>
-          </did>
-        </c>
-        <c id="316f4f95cb7349d299e3b646f6b80b16" level="item">
-          <did>
-            <unittitle>Laboratory of Electronics Technical Report #1. Robert Bornmann and Michael Chen. "LIS-II Based Constant Current Stimulator"</unittitle>
-            <unitdate>1979 February</unitdate>
-            <container altrender="Letter Document Storage Box" id="101c44b60f63e9fe6a448ba2130b1257" label="mixed materials [A0000000087200]" type="box">1</container>
-            <container id="883374f9c58a998f665ca06872f73972" parent="101c44b60f63e9fe6a448ba2130b1257" type="folder">11</container>
-          </did>
-        </c>
-        <c id="637e57e0e3e24ed1990ae624669a8779" level="item">
-          <did>
-            <unittitle>Laboratory of Electronics Technical Report #2. Gordon Silverman</unittitle>
-            <container altrender="Letter Document Storage Box" id="988dea636236695831f53e21f1234595" label="mixed materials [A0000000087200]" type="box">1</container>
-            <container id="f2528dda12d02a055dc5d51323b5e50b" parent="988dea636236695831f53e21f1234595" type="folder">11</container>
-          </did>
-        </c>
-        <c id="2d08f83592fd49be84a0ed4bcdfa6926" level="item">
-          <did>
-            <unittitle>"Microprocessor Controlled Instruments for Data Acquisition in Behavioral Research"</unittitle>
-            <unitdate>1979 February</unitdate>
-            <container altrender="Letter Document Storage Box" id="0bcd1ab8378ddc7cd0115dd999999d98" label="mixed materials [A0000000087200]" type="box">1</container>
-            <container id="b20126523209e631441263dab7ff32dd" parent="0bcd1ab8378ddc7cd0115dd999999d98" type="folder">11</container>
-          </did>
-        </c>
-        <c id="787e54d85add40ab9eeed678bb946003" level="item">
-          <did>
-            <unittitle>Laboratory of Electronics Technical Report #4. Robert Bornmann and John Lehman. "LSI-II Based Average-Histogram Generator"</unittitle>
-            <unitdate>1980 May</unitdate>
-            <container altrender="Letter Document Storage Box" id="33b991f9f0dca88735a377a55f806e97" label="mixed materials [A0000000087200]" type="box">1</container>
-            <container id="9a76b0243a27b6285560f4b9156404ee" parent="33b991f9f0dca88735a377a55f806e97" type="folder">11</container>
-          </did>
-        </c>
-        <c id="707aa7fe82cb4005864dd424ae560543" level="item">
-          <did>
-            <unittitle>Laboratory of Electronics Technical Report #5. Robert L. Schoenfeld, Stanley Habib and Owen B. Smith. "Experience with Modula for Laboratory Applications"</unittitle>
-            <unitdate>1981 October</unitdate>
-            <container altrender="Letter Document Storage Box" id="f928e8662c52031f25ddaaa1048a59f4" label="mixed materials [A0000000087200]" type="box">1</container>
-            <container id="5511f4940cbc3409fb99adc19d4b1bce" parent="f928e8662c52031f25ddaaa1048a59f4" type="folder">11</container>
-          </did>
-        </c>
-        <c id="829dc99e035a471abdde7b67ef00b44c" level="item">
-          <did>
-            <unittitle>Electronics. Printed by The Rockefeller University</unittitle>
-            <unitdate normal="1985/1986" type="inclusive">1985 or 1986</unitdate>
-            <container altrender="Letter Document Storage Box" id="c84b0c5b69538f3f968953a89b86e404" label="mixed materials [A0000000087200]" type="box">1</container>
-            <container id="f068ba5d0e0982e502d6e2aa2dd38ac1" parent="c84b0c5b69538f3f968953a89b86e404" type="folder">11</container>
-          </did>
-        </c>
-      </c>
-      <c id="447c6ed2ba0b4f26b54505bc89c7efe2" level="file">
-        <did>
-          <unittitle>Letters of Testimony for renewal of "Microprocessor Bio-technology Resources Grant</unittitle>
-          <unitdate normal="1982/1982" type="inclusive">1982</unitdate>
-          <container altrender="Letter Document Storage Box" id="2daa71abbebb408fb2fc1022a81ea633" label="mixed materials [A0000000087200]" type="box">1</container>
-          <container id="e212e001cbe756ab0b16f4f682563bcd" parent="2daa71abbebb408fb2fc1022a81ea633" type="folder">12</container>
-        </did>
-      </c>
-    </dsc>
-  </archdesc>
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="under_revision" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid>FA833.xml</eadid><filedesc><titlestmt><titleproper type="filing">Rockefeller University records, Laboratory of Electronics, Subject Files</titleproper><titleproper>A Guide to the Rockefeller University records, Laboratory of Electronics, Subject Files
+ <num>FA833</num></titleproper></titlestmt><publicationstmt><publisher>Rockefeller Archive Center</publisher><address><addressline>15 Dayton Avenue</addressline><addressline>Sleepy Hollow 10591</addressline><addressline>archive@rockarch.org</addressline><addressline>URL: <extptr xlink:href="http://www.rockarch.org" xlink:show="new" xlink:title="http://www.rockarch.org" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2019-03-14 02:41:14 -0400</date>.</creation></profiledesc><revisiondesc><date>2010 November 12</date><item>Paper finding aid converted to EAD/XML by AureXus in 2010. Imported into the Archvists’ Toolkit by Becky Robbins.</item></revisiondesc></eadheader><archdesc level="collection">
+  <did>
+    <langmaterial>
+      <language langcode="eng">English</language>
+    </langmaterial>
+    <repository>
+      <corpname>Rockefeller Archive Center</corpname>
+    </repository>
+    <unittitle>Rockefeller University records, Laboratory of Electronics, Subject Files</unittitle>
+    <origination label="creator">
+      <corpname role="aut" source="naf">Rockefeller University</corpname>
+    </origination>
+    <origination label="creator">
+      <corpname role="aut" source="naf">Rockefeller Institute for Medical Research</corpname>
+    </origination>
+    <unitid>FA833</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">0.44 Cubic Feet</extent>
+      <extent altrender="carrier">1 box.</extent>
+    </physdesc>
+    <unitdate normal="1949/1985" type="inclusive">1949-1985</unitdate>
+    <physdesc id="3aa0810381cef84f0810ba8e740e87fa">1 box.</physdesc>
+  </did>
+  <fileplan id="c84f7fd031f57328f57ed05cb88335c9">
+    <head>File Plan note</head>
+<p>Former Classification: I 421-4</p>  </fileplan>
+  <otherfindaid id="9088ffa6a0381f28ab709d897aa65e4b">
+    <head>Other Finding Aids</head>
+<p>FA227 Rockefeller University records, Laboratory of Electronics, Technical Report</p>  </otherfindaid>
+  <prefercite id="e2c729d2596871ac3a91d8985123aff6">
+    <head>Preferred Citation</head>
+<p>Information regarding the Rockefeller Archive Center's preferred elements and forms of citation can be found at <extref href="http://www.rockarch.org/research/citations.php">http://www.rockarch.org/research/citations.php</extref></p>  </prefercite>
+  <bioghist id="85c7cc1b51999ee819671f72f1148f53">
+    <head>Biographical / Historical</head>
+<p>After Detlev Bronk became President of the Rockefeller Institute in 1953, he decided to strengthen the already existing Electronics Laboratory by hiring John P. Hervey, a professional electrical engineer. Hervey, in turn, hired Dr. C. Yang to be his assistant. When Yang left for China in 1956, Robert L. Schoenfeld replaced him. While Hervey was in charge of long-term projects at the Institute's Jacques Loeb Laboratory in Woods Hole, Massachusetts, Schoenfeld ran the laboratory in New York, working on development and research.</p>  </bioghist>
+  <scopecontent id="548b1fab226eb00fa29d99609230f0f0">
+    <head>Scope and Contents</head>
+<p>Includes primarily publications (reprints and technical reports); also includes correspondence and personnel material.</p><p>Subjects include policy matters and the National Academy of Engineering.</p><p>Correspondents include Detlev W. Bronk.</p>  </scopecontent>
+  <arrangement id="06853179d89d51cafe87145cb7eed6b9">
+    <head>Arrangement</head>
+<p>Alphabetical.</p>  </arrangement>
+  <processinfo id="1057d4f64573b445dfccefd9d2b0722b">
+    <head>Processing Information</head>
+<p>Processed by BJG, 4/28/88 (revision).</p>  </processinfo>
+  <accessrestrict id="335fc8df43eb55a118782a1ac043f992">
+    <head>Conditions Governing Access note</head>
+<p>This collection is open for research. Brittle or damaged items are available at the discretion of RAC.</p>  </accessrestrict>
+  <controlaccess>
+    <subject source="lcsh">Plant diseases</subject>
+    <subject source="lcsh">Diseases</subject>
+    <subject source="lcsh">Animals -- Diseases</subject>
+    <subject source="lcsh">Biology -- Research</subject>
+    <subject source="lcsh">Medical technology</subject>
+    <subject source="lcsh">Life sciences</subject>
+    <subject source="lcsh">Medical education</subject>
+    <subject source="lcsh">Medical sciences</subject>
+    <subject source="lcsh">Cell and biomolecular sciences</subject>
+    <subject source="lcsh">Technology</subject>
+    <subject source="lcsh">Medical research</subject>
+    <subject source="lcsh">Pathology</subject>
+    <subject source="lcsh">Medicine, Preventive</subject>
+    <subject source="lcsh">Biochemistry</subject>
+  </controlaccess>
+  <dsc><c id="00dfbb213ac3432fb586acd1f44ff276" level="file"><did><unittitle>Correspondence-General</unittitle><unitdate normal="1963/1984" type="inclusive">1963-1964 1984</unitdate><container altrender="Letter Document Storage Box" id="46c5ffa91f1ff2e2da6284e14f40d540" label="mixed materials [A0000000087200]" type="box">1</container><container id="95da4d52adeaf5d1df05fa306a890ac6" parent="46c5ffa91f1ff2e2da6284e14f40d540" type="folder">1</container></did></c><c id="20990afc3c454b59911a04d5dbfa2e81" level="file"><did><unittitle>Encyclopedia Americana Article</unittitle><unitdate normal="1966/1966" type="inclusive">1966</unitdate><container altrender="Letter Document Storage Box" id="42b6df73614a8bb9cbb79fef4c9badac" label="mixed materials [A0000000087200]" type="box">1</container><container id="2ea7eb8fd242b2890aa4fe1b87646fa1" parent="42b6df73614a8bb9cbb79fef4c9badac" type="folder">2</container></did></c><c id="f984f6e08d384a08b1268ba68748146a" level="file"><did><unittitle>Hervey-Neg. Cap. Probe Mass</unittitle><unitdate normal="1958/1964" type="inclusive">1958-1964</unitdate><container altrender="Letter Document Storage Box" id="5b9ccba2c49a8910d2426c8ecb07d326" label="mixed materials [A0000000087200]" type="box">1</container><container id="29fd2afd12874703e52d3a9096838694" parent="5b9ccba2c49a8910d2426c8ecb07d326" type="folder">3</container></did></c><c id="ff1bc3ace1ac441da5d1d831b7abbb07" level="file"><did><unittitle>National Academy of Engineering</unittitle><unitdate normal="1966/1966" type="inclusive">1966</unitdate><container altrender="Letter Document Storage Box" id="581b5335cf99966c79f453502fd67f2f" label="mixed materials [A0000000087200]" type="box">1</container><container id="d3691c45b1138e017e9bdf4b0e7c88e8" parent="581b5335cf99966c79f453502fd67f2f" type="folder">4</container></did></c><c id="7012ba9ddf71439b923ef27630038c22" level="file"><did><unittitle>Original Drawings - "Computers in Medicine and Biology"</unittitle><unitdate normal="1965/1965" type="inclusive">1965</unitdate><container altrender="Letter Document Storage Box" id="1d0b9e2f7ba75162e56344577d584ceb" label="mixed materials [A0000000087200]" type="box">1</container><container id="80199b0b4db7236bff8548d08e9a2c47" parent="1d0b9e2f7ba75162e56344577d584ceb" type="folder">5</container></did></c><c id="dc4e91d2652949c28074e44658fc79ab" level="file"><did><unittitle>Personnel</unittitle><unitdate normal="1954/1958" type="inclusive">1954-1958</unitdate><container altrender="Letter Document Storage Box" id="049ea911fdcb81792bbf3f62ca8c0f1c" label="mixed materials [A0000000087200]" type="box">1</container><container id="98225ae42a2a9b18103d8d22e2c1702e" parent="049ea911fdcb81792bbf3f62ca8c0f1c" type="folder">6</container></did></c><c id="fb7b0663bc424232b41d6a4551dcfd60" level="file"><did><unittitle>Policy Matters</unittitle><unitdate normal="1955/1961" type="inclusive">1955-1961</unitdate><container altrender="Letter Document Storage Box" id="1101eb0b49dd83b16c1e89c71478bf36" label="mixed materials [A0000000087200]" type="box">1</container><container id="8656f45a30a273f0fa096ac4375f745d" parent="1101eb0b49dd83b16c1e89c71478bf36" type="folder">7</container></did></c><c id="0e9eabab3b6049fdbd43e6ab7311d5e2" level="file"><did><unittitle>Schoenfeld Reprints</unittitle><unitdate normal="1949/1959" type="inclusive">1949-1959</unitdate><container altrender="Letter Document Storage Box" id="ab53ae7a45670f6d6dd1833fdd160a1c" label="mixed materials [A0000000087200]" type="box">1</container><container id="0b68d602b945dea88491c6c16b673ea0" parent="ab53ae7a45670f6d6dd1833fdd160a1c" type="folder">8</container></did></c><c id="3d85c77666a24370be1618e745400df1" level="file"><did><unittitle>Schoenfeld Reprints</unittitle><unitdate normal="1960/1969" type="inclusive">1960-1969</unitdate><container altrender="Letter Document Storage Box" id="af78d148ff00d9a732a1f19d002d643c" label="mixed materials [A0000000087200]" type="box">1</container><container id="b89edb55193e3b7b9daab185dc0ac1aa" parent="af78d148ff00d9a732a1f19d002d643c" type="folder">9</container></did></c><c id="7616d2f42de64e80820cc2bcf09af942" level="file"><did><unittitle>Schoenfeld Reprints</unittitle><unitdate normal="1970/1985" type="inclusive">1970-1985</unitdate><container altrender="Letter Document Storage Box" id="a76276788637324320bb36141c290d77" label="mixed materials [A0000000087200]" type="box">1</container><container id="ee414a0cf3747b126dc2e917810329e5" parent="a76276788637324320bb36141c290d77" type="folder">10</container></did></c><c id="7d2436bdc86e4df08a76209d1314469e" level="file"><did><unittitle>U.S. National Committee for Pure and Applied Biophysics</unittitle><unitdate normal="1965/1967" type="inclusive">1965-1967</unitdate><container altrender="Letter Document Storage Box" id="d7787dd2a984a3a7a2b077b2fcb0baaf" label="mixed materials [A0000000087200]" type="box">1</container><container id="0bfdc28d0486410e688224410809d865" parent="d7787dd2a984a3a7a2b077b2fcb0baaf" type="folder">11</container></did></c><c id="3bf6149c88cc49c881002c316e2c5614" level="file"><did><unittitle>Publications</unittitle><container altrender="Letter Document Storage Box" id="08fb36d42326a989661d255591cedcf7" label="mixed materials [A0000000087200]" type="box">1</container><container id="6031fe0fe7d55ea0cc3fa528631e4b76" parent="08fb36d42326a989661d255591cedcf7" type="folder">11</container></did><c id="710a4e37e7e74c508f6c7143799b830a" level="item"><did><unittitle>The Rockefeller Institute Quarterly</unittitle><unitdate>Winter 1962</unitdate><container altrender="Letter Document Storage Box" id="d98f7e108f6e976eede4e62c7c449816" label="mixed materials [A0000000087200]" type="box">1</container><container id="841260c97182ee2d946a4582cdf714b8" parent="d98f7e108f6e976eede4e62c7c449816" type="folder">11</container></did></c><c id="316f4f95cb7349d299e3b646f6b80b16" level="item"><did><unittitle>Laboratory of Electronics Technical Report #1. Robert Bornmann and Michael Chen. "LIS-II Based Constant Current Stimulator"</unittitle><unitdate>1979 February</unitdate><container altrender="Letter Document Storage Box" id="5b326bac7af69797a11dc9f565bf9c5b" label="mixed materials [A0000000087200]" type="box">1</container><container id="c7c75a87411ca7f4b0974220a54929d6" parent="5b326bac7af69797a11dc9f565bf9c5b" type="folder">11</container></did></c><c id="637e57e0e3e24ed1990ae624669a8779" level="item"><did><unittitle>Laboratory of Electronics Technical Report #2. Gordon Silverman</unittitle><container altrender="Letter Document Storage Box" id="a4b66149db52ae0db41101d7fce6515a" label="mixed materials [A0000000087200]" type="box">1</container><container id="9f343683c275896b6cb7e2779ea34a0e" parent="a4b66149db52ae0db41101d7fce6515a" type="folder">11</container></did></c><c id="2d08f83592fd49be84a0ed4bcdfa6926" level="item"><did><unittitle>"Microprocessor Controlled Instruments for Data Acquisition in Behavioral Research"</unittitle><unitdate>1979 February</unitdate><container altrender="Letter Document Storage Box" id="62c765bb9f797119f4d226228464d5fd" label="mixed materials [A0000000087200]" type="box">1</container><container id="dedb7b76a27b8d254f3bc3fb7c2f4c40" parent="62c765bb9f797119f4d226228464d5fd" type="folder">11</container></did></c><c id="787e54d85add40ab9eeed678bb946003" level="item"><did><unittitle>Laboratory of Electronics Technical Report #4. Robert Bornmann and John Lehman. "LSI-II Based Average-Histogram Generator"</unittitle><unitdate>1980 May</unitdate><container altrender="Letter Document Storage Box" id="c1f5e9e5e6e5c7494bb09d0bab26bd0d" label="mixed materials [A0000000087200]" type="box">1</container><container id="8d0cce52bb62b0ab2aad2920587d9d54" parent="c1f5e9e5e6e5c7494bb09d0bab26bd0d" type="folder">11</container></did></c><c id="707aa7fe82cb4005864dd424ae560543" level="item"><did><unittitle>Laboratory of Electronics Technical Report #5. Robert L. Schoenfeld, Stanley Habib and Owen B. Smith. "Experience with Modula for Laboratory Applications"</unittitle><unitdate>1981 October</unitdate><container altrender="Letter Document Storage Box" id="8ac4cef7f4b0495fbab741ff01b3e47b" label="mixed materials [A0000000087200]" type="box">1</container><container id="94d81a3bf4e33936e09d446cf6c61ce8" parent="8ac4cef7f4b0495fbab741ff01b3e47b" type="folder">11</container></did></c><c id="829dc99e035a471abdde7b67ef00b44c" level="item"><did><unittitle>Electronics. Printed by The Rockefeller University</unittitle><unitdate normal="1985/1986" type="inclusive">1985 or 1986</unitdate><container altrender="Letter Document Storage Box" id="b0659f60bfff5599ebe195b42f52e493" label="mixed materials [A0000000087200]" type="box">1</container><container id="5ea43154aefb795cf77bdf5bd19bc764" parent="b0659f60bfff5599ebe195b42f52e493" type="folder">11</container></did></c></c><c id="447c6ed2ba0b4f26b54505bc89c7efe2" level="file"><did><unittitle>Letters of Testimony for renewal of "Microprocessor Bio-technology Resources Grant</unittitle><unitdate normal="1982/1982" type="inclusive">1982</unitdate><container altrender="Letter Document Storage Box" id="4fc2e3b759e906823d36ff676916e2bc" label="mixed materials [A0000000087200]" type="box">1</container><container id="a53df01a42af89f068ccdd8e9d98c575" parent="4fc2e3b759e906823d36ff676916e2bc" type="folder">12</container></did></c></dsc>
+</archdesc>
 </ead>

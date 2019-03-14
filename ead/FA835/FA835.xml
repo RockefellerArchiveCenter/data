@@ -1,409 +1,63 @@
-<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
-  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="under_revision" langencoding="iso639-2b" repositoryencoding="iso15511">
-    <eadid>FA835.xml</eadid>
-    <filedesc>
-      <titlestmt>
-        <titleproper type="filing">Rockefeller University records, Department of Animal and Plant Pathology, Subject Files</titleproper>
-        <titleproper>A Guide to the Rockefeller University records, Department of Animal and Plant Pathology, Subject Files
- <num>FA835</num></titleproper>
-      </titlestmt>
-      <publicationstmt>
-        <publisher>Rockefeller Archive Center</publisher>
-        <address>
-          <addressline>15 Dayton Avenue</addressline>
-          <addressline>Sleepy Hollow 10591</addressline>
-          <addressline>archive@rockarch.org</addressline>
-          <addressline>URL: <extptr xlink:href="http://www.rockarch.org" xlink:show="new" xlink:title="http://www.rockarch.org" xlink:type="simple"/></addressline>
-        </address>
-      </publicationstmt>
-    </filedesc>
-    <profiledesc>
-      <creation>This finding aid was produced using ArchivesSpace on <date>2017-11-22 00:05:03 -0500</date>.</creation>
-    </profiledesc>
-    <revisiondesc>
-      <date>2010 November 12</date>
-      <item>Paper finding aid converted to EAD/XML by AureXus in 2010. Imported into the Archvists’ Toolkit by Becky Robbins.</item>
-    </revisiondesc>
-  </eadheader>
-  <archdesc level="collection">
-    <did>
-      <langmaterial>
-        <language langcode="eng">English</language>
-      </langmaterial>
-      <repository>
-        <corpname>Rockefeller Archive Center</corpname>
-      </repository>
-      <unittitle>Rockefeller University records, Department of Animal and Plant Pathology, Subject Files</unittitle>
-      <origination label="creator">
-        <corpname role="ctb" source="naf">Rockefeller University</corpname>
-      </origination>
-      <origination label="creator">
-        <corpname role="aut" source="naf">Rockefeller Institute for Medical Research</corpname>
-      </origination>
-      <unitid>FA835</unitid>
-      <physdesc altrender="whole">
-        <extent altrender="materialtype spaceoccupied">1.76 Cubic Feet</extent>
-        <extent altrender="carrier">4 document boxes</extent>
-      </physdesc>
-      <unitdate normal="1907/1951" type="inclusive">1915-1955 (includes 1907-1914 Clyde, NJ)</unitdate>
-      <unitdate normal="1915/1951" type="bulk">1915-1951</unitdate>
-      <physdesc id="0b46b7345dc5319d169297fc16a115fa">4 document boxes.</physdesc>
-    </did>
-    <fileplan id="78c34b00723f416e34784f29b2e9bb42">
-      <head>File Plan note</head>
-      <p>Former Classification: I 425-3</p>
-    </fileplan>
-    <arrangement id="35f4c0a21c4c4547c0712dcbb5373e84">
-      <head>Arrangement</head>
-      <p>Arranged in alphabetical order by subject.</p>
-    </arrangement>
-    <scopecontent id="448cccca0ac7693fc2df772a0d0ad22e">
-      <head>Scope and Contents</head>
-      <p>Subject arrangement of correspondence, contracts, blueprints and reports dealing with Princeton properties.</p>
-    </scopecontent>
-    <otherfindaid id="c426b5a423f724541719aa16315b1f89">
-      <head>Other Finding Aids</head>
-      <p>FA834 Rockefeller University records, Department of Animal and Plant Pathology, Princeton, NJ, Correspondence.</p>
-      <p>FA968 Rockefeller University records, Department of Animal and Plant Pathology, Princeton, NJ, Carl TenBroeck papers.</p>
-      <p>FA969 Rockefeller University records, Department of Animal and Plant Pathology, Princeton, NJ, Publications.</p>
-    </otherfindaid>
-    <accessrestrict id="28496777fccbf4ccee8fe1a73c76fc0c">
-      <head>Conditions Governing Access note</head>
-      <p>This collection is open for research. Brittle or damaged items are available at the discretion of RAC. Oversize material may necessistate special viewing arrangements be made.</p>
-    </accessrestrict>
-    <prefercite id="fafac0d0cd505577d8046d7961666db4">
-      <head>Preferred Citation</head>
-      <p>Information regarding the Rockefeller Archive Center's preferred elements and forms of citation can be found at <extref href="http://www.rockarch.org/research/citations.php">http://www.rockarch.org/research/citations.php</extref></p>
-    </prefercite>
-    <controlaccess>
-      <subject source="lcsh">Diseases</subject>
-      <subject source="lcsh">Plant diseases</subject>
-      <subject source="lcsh">Medical research</subject>
-      <subject source="lcsh">Medicine, Preventive</subject>
-      <subject source="lcsh">Biochemistry</subject>
-      <subject source="lcsh">Animals -- Diseases</subject>
-      <subject source="lcsh">Cell and biomolecular sciences</subject>
-      <subject source="lcsh">Medical sciences</subject>
-      <subject source="lcsh">Technology</subject>
-      <subject source="lcsh">Medical technology</subject>
-      <subject source="lcsh">Pathology</subject>
-      <subject source="lcsh">Biology -- Research</subject>
-      <subject source="lcsh">Life sciences</subject>
-      <subject source="lcsh">Medical education</subject>
-    </controlaccess>
-    <dsc>
-      <c id="40f8a3383ab04809b9ef2ebf13a121c4" level="file">
-        <did>
-          <unittitle>Banks in Princeton</unittitle>
-          <unitdate normal="1916/1946" type="inclusive">1916-1946</unitdate>
-          <container id="7c066f337378a3136454655fa6c8dfbc" label="mixed materials (A0000000087743)" type="box">1</container>
-        </did>
-      </c>
-      <c id="8331cbd1ced2405baf4758082b6c09d9" level="file">
-        <did>
-          <unittitle>Buildings (dwellings)</unittitle>
-          <unitdate normal="1910/1950" type="inclusive">1910-1950</unitdate>
-          <container id="c7727edc07dcab176cce1761c648a427" label="mixed materials (A0000000087743)" type="box">1</container>
-        </did>
-        <scopecontent id="6ec1469eeceef6a9151f80e14566bd6b">
-          <head>Scope and Contents note</head>
-          <p>See also Construction.</p>
-        </scopecontent>
-      </c>
-      <c id="d47fbf6d3375472480d16f5742e299a2" level="file">
-        <did>
-          <unittitle>Cattle 1946 with NY State Veterinary College (Cornell)</unittitle>
-          <container id="b31d3584185330a721b9caf9dbc350bf" label="mixed materials (A0000000087743)" type="box">1</container>
-        </did>
-      </c>
-      <c id="93b1aefd1b6f484984593f867d301283" level="file">
-        <did>
-          <unittitle>Clyde, NJ</unittitle>
-          <unitdate normal="1907/1934" type="inclusive">1907-1934</unitdate>
-          <container id="770e029b664c6469e20e719fc08093b8" label="mixed materials (A0000000087743)" type="box">1</container>
-        </did>
-        <scopecontent id="497b3b6d360109f0848ca91b357eb76d">
-          <head>Scope and Contents note</head>
-          <p>Includes reports Jan. 30, 1912 and Jan. 1914. Purchase, sale and difficulties with personnel and mortgage.</p>
-        </scopecontent>
-      </c>
-      <c id="1d7e171dbb254036898879b3d559234d" level="file">
-        <did>
-          <unittitle>Coal hauling (Walter Sachs)</unittitle>
-          <unitdate normal="1941/1949" type="inclusive">1941-1949</unitdate>
-          <container id="7663de63726916916416dab6aa8d427d" label="mixed materials (A0000000087743)" type="box">1</container>
-        </did>
-      </c>
-      <c id="683888d728864b5dbc3f614b1b840522" level="file">
-        <did>
-          <unittitle>Construction (other than dwellings)</unittitle>
-          <unitdate normal="1915/1931" type="inclusive">1915-1931</unitdate>
-          <container id="7e3f6cfe67b3d572c85538ada21d2817" label="mixed materials (A0000000087743)" type="box">1</container>
-        </did>
-        <scopecontent id="8a18b37fade2e34cb63189ab6c81d914">
-          <head>Scope and Contents note</head>
-          <p>Includes agreements and specifications.</p>
-        </scopecontent>
-      </c>
-      <c id="f39d134226484f5f86899affd6b651b7" level="file">
-        <did>
-          <unittitle>Construction (other than dwellings)</unittitle>
-          <unitdate normal="1932/1947" type="inclusive">1932-1947</unitdate>
-          <container id="7519105325cee9e2be59de7d579eb4c5" label="mixed materials (A0000000087743)" type="box">1</container>
-        </did>
-        <scopecontent id="8dce3d17d372df74cc965eb16112741d">
-          <head>Scope and Contents note</head>
-          <p>Includes agreements and specifications.</p>
-        </scopecontent>
-      </c>
-      <c id="eb30457cf6194543982159f2d6727d3c" level="file">
-        <did>
-          <unittitle>Deeds, agreements, title abstract</unittitle>
-          <unitdate normal="1915/1950" type="inclusive">1915-1950</unitdate>
-          <container id="02d2fd87341a12cc066428c78f1b0bb3" label="mixed materials (A0000000087743)" type="box">1</container>
-        </did>
-      </c>
-      <c id="a64bd6f13296493abec2dbd3f1cc1d91" level="file">
-        <did>
-          <unittitle>Deeds (correspondence and blueprints)</unittitle>
-          <container id="d77f6284c690f2c3ba9c422f08b12f6a" label="mixed materials (A0000000087744)" type="box">2</container>
-        </did>
-      </c>
-      <c id="ea52104718de4396b4072678668eeb85" level="file">
-        <did>
-          <unittitle>Delaware and Raritan Canal</unittitle>
-          <unitdate normal="1915/1945" type="inclusive">1915-1945</unitdate>
-          <container id="17f2c33ff9403ebd1dd3cc099562c576" label="mixed materials (A0000000087744)" type="box">2</container>
-        </did>
-        <scopecontent id="5504d13e058ee37a177ed9837c4e075e">
-          <head>Scope and Contents note</head>
-          <p>(includes Mosquito control).</p>
-        </scopecontent>
-      </c>
-      <c id="3cde369dfbf04ceb927ebf76d41bf631" level="file">
-        <did>
-          <unittitle>Development Committee</unittitle>
-          <unitdate normal="1913/1921" type="inclusive">1913-1921</unitdate>
-          <container id="409cd982d3ed1e6f6705fd07100bf10f" label="mixed materials (A0000000087744)" type="box">2</container>
-        </did>
-        <scopecontent id="f52181e2903853dd27d7a3b5fc4ecf16">
-          <head>Scope and Contents note</head>
-          <p>Includes 1913 report on visits to European Institutes; includes planting design by Beatrix Farrand, 1916; 1921.</p>
-        </scopecontent>
-      </c>
-      <c id="e347e58ecf864d6d963db612c8afb33b" level="file">
-        <did>
-          <unittitle>Electrical construction</unittitle>
-          <unitdate normal="1917/1938" type="inclusive">1917-1938</unitdate>
-          <container id="70aba93d4b9c69ccf8dbdefd12db0305" label="mixed materials (A0000000087744)" type="box">2</container>
-        </did>
-        <scopecontent id="c081edaffc2ea82f7a8452e755115dac">
-          <head>Scope and Contents note</head>
-          <p>(including Power House and Public Service Elec. Co.).</p>
-        </scopecontent>
-      </c>
-      <c id="e79a96d6093947e5b51818e65db9dccd" level="file">
-        <did>
-          <unittitle>Employees</unittitle>
-          <unitdate normal="1916/1949" type="inclusive">1916-1949</unitdate>
-          <container id="0a1f18f186cb7d847ef87a9292d33e39" label="mixed materials (A0000000087744)" type="box">2</container>
-        </did>
-        <scopecontent id="8aadd9904a93827f3817bbc5f8cad99e">
-          <head>Scope and Contents note</head>
-          <p>(Primarily special arrangements for long-term illness).</p>
-        </scopecontent>
-      </c>
-      <c id="4e00b36f76504ac693cb79398daf8cd5" level="file">
-        <did>
-          <unittitle>Employees</unittitle>
-          <container id="0a2ca5a197edfb8795a5874724a0a6d0" label="mixed materials (A0000000087744)" type="box">2</container>
-        </did>
-        <scopecontent id="86b988d07f2f9f8d0381d80b201b64be">
-          <head>Scope and Contents note</head>
-          <p>(Correspondence by and about Reed, Ring, Roeder, Shaw).</p>
-        </scopecontent>
-      </c>
-      <c id="415a08c81fe4494480c0170f48f47ef0" level="file">
-        <did>
-          <unittitle>Farm</unittitle>
-          <unitdate normal="1916/1952" type="inclusive">1916-1952</unitdate>
-          <container id="3a32a7e99dab9f8544423ea56b5c08f0" label="mixed materials (A0000000087744)" type="box">2</container>
-        </did>
-        <scopecontent id="053dd3271485b60ffc1fa73c97870885">
-          <head>Scope and Contents note</head>
-          <p>(Includes correspondence with Commodity Credit Corp. and Farmers' Coop. Assoc.) also correspondence with Voorhees Hunt.</p>
-        </scopecontent>
-      </c>
-      <c id="199ff7f84a774118aadc2b9caf551ddd" level="file">
-        <did>
-          <unittitle>Forestry</unittitle>
-          <unitdate normal="1917/1951" type="inclusive">1917-1951</unitdate>
-        </did>
-        <scopecontent id="5f7584fc9449a52e51f5625d33caa740">
-          <head>Scope and Contents note</head>
-          <p>(includes lumber contract 1950).</p>
-        </scopecontent>
-      </c>
-      <c id="7a3d685ded224bb6bacd6d1a834a8a46" level="file">
-        <did>
-          <unittitle>Insurance</unittitle>
-          <unitdate normal="1930/1951" type="inclusive">1930-1951</unitdate>
-          <container id="7e3cb385d907cc73ad109c6574b07fdb" label="mixed materials (A0000000087744)" type="box">2</container>
-        </did>
-      </c>
-      <c id="28c55403eed34689b32c9e430eef6099" level="file">
-        <did>
-          <unittitle>Mosquito control</unittitle>
-          <container id="2c353d82c218e55735e312005915176d" label="mixed materials (A0000000087745)" type="box">3</container>
-        </did>
-        <scopecontent id="9d5387ea72fbde16d8645dab8b2ea511">
-          <head>Scope and Contents note</head>
-          <p>(see Delaware and Raritan Canal).</p>
-        </scopecontent>
-      </c>
-      <c id="ebbefbfccd67461cb9d6024189b776b7" level="file">
-        <did>
-          <unittitle>New Jersey (State)</unittitle>
-          <unitdate normal="1914/1942" type="inclusive">1914-1942</unitdate>
-          <container id="a9c52fb3e388d1926f478b1649eea44b" label="mixed materials (A0000000087745)" type="box">3</container>
-        </did>
-        <scopecontent id="e18043d9916010cc3b2eb755ca6be82f">
-          <head>Scope and Contents note</head>
-          <p>Includes Agricultural Experiment Station and Highway Commission regarding Trenton/Hew Brunswick Turnpike.</p>
-        </scopecontent>
-      </c>
-      <c id="1142763434034afab1c774a29f3f84d0" level="file">
-        <did>
-          <unittitle>Property acquisition</unittitle>
-          <unitdate normal="1914/1951" type="inclusive">1914-1951</unitdate>
-          <container id="c65389485c612356425387fc5d743844" label="mixed materials (A0000000087745)" type="box">3</container>
-        </did>
-        <scopecontent id="74c597d100ad47d289c119a991120ef8">
-          <head>Scope and Contents note</head>
-          <p>(Purchases and leases including summary made at time of sale).</p>
-        </scopecontent>
-      </c>
-      <c id="6fcef79ec66a4ecaa4d6d842b37daa08" level="file">
-        <did>
-          <unittitle>Receptions or meetings</unittitle>
-          <unitdate normal="1932/1946" type="inclusive">1932-1946</unitdate>
-          <container id="55349a386497fd50078481e6331fe2ef" label="mixed materials (A0000000087745)" type="box">3</container>
-        </did>
-      </c>
-      <c id="b9f24348063b4f5aa21db4037a6221e7" level="file">
-        <did>
-          <unittitle>Sale of property</unittitle>
-          <unitdate normal="1947/1951" type="inclusive">1947-1951</unitdate>
-          <physdesc id="9f13ed7b5623031b8a6100c4efe9d93f">2 folders</physdesc>
-          <container id="d071c6f559f04409a440a2186bf91b90" label="mixed materials (A0000000087745)" type="box">3</container>
-        </did>
-        <scopecontent id="416de4d15345a47e7782d56424e0a84b">
-          <head>Scope and Contents note</head>
-          <p>(Includes library inventory).</p>
-        </scopecontent>
-      </c>
-      <c id="0c7746223992439f8004161a0956b3b9" level="file">
-        <did>
-          <unittitle>Storeroom</unittitle>
-          <container id="0cb4c33ecfba38b035aa7708d80e93a3" label="mixed materials (A0000000087745)" type="box">3</container>
-        </did>
-      </c>
-      <c id="c708d6a464d249618c7204dd3fed1c47" level="file">
-        <did>
-          <unittitle>Surveyor</unittitle>
-          <unitdate normal="1914/1931" type="inclusive">1914-1931</unitdate>
-          <container id="1b1a6fc233474f2ce8df900fb97b3a94" label="mixed materials (A0000000087745)" type="box">3</container>
-        </did>
-        <scopecontent id="b99439b160974bc0cd2620bd4b3f3df9">
-          <head>Scope and Contents note</head>
-          <p>(includes work on roads).</p>
-        </scopecontent>
-      </c>
-      <c id="79367be0ae0c4f8e849db243a4dab95a" level="file">
-        <did>
-          <unittitle>Telephone</unittitle>
-          <unitdate normal="1915/1918" type="inclusive">1915-1918</unitdate>
-          <container id="1e272114cdba26384f0f9719847b3e1c" label="mixed materials (A0000000087745)" type="box">3</container>
-        </did>
-      </c>
-      <c id="1d435a61974c416597fd8f05492cee62" level="file">
-        <did>
-          <unittitle>Theobald Smith House</unittitle>
-          <unitdate normal="1931/1936" type="inclusive">1931-1936</unitdate>
-          <container id="8345c3cb6248a5d18968d0bf1ef61426" label="mixed materials (A0000000087745)" type="box">3</container>
-        </did>
-        <scopecontent id="4a00ace4e6d978f184760fdd64ba15be">
-          <head>Scope and Contents note</head>
-          <p>(Includes remodeling and refurnishing).</p>
-        </scopecontent>
-      </c>
-      <c id="9dddafc48ec846aa94949b47b57cedc1" level="file">
-        <did>
-          <unittitle>Sewage disposal and water</unittitle>
-          <unitdate>1915-1916 June</unitdate>
-          <container id="93ba7dd6edaf4bb1a704183bb3be4110" label="mixed materials (A0000000087746)" type="box">4</container>
-        </did>
-      </c>
-      <c id="3ad9e38408e24be392bfa9a65574d79d" level="file">
-        <did>
-          <unittitle>Sewage disposal and water</unittitle>
-          <unitdate>1916 July-1942</unitdate>
-          <container id="49d3b2eb2b8c8b9edc70b9d5928cd5b6" label="mixed materials (A0000000087746)" type="box">4</container>
-        </did>
-      </c>
-      <c id="ed39531d4b92433083bf09c9acbf32c6" level="file">
-        <did>
-          <unittitle>Sunday work</unittitle>
-          <unitdate normal="1917/1918" type="inclusive">1917-1918</unitdate>
-          <container id="eaec745da01ff97f003bd2f2af2d2270" label="mixed materials (A0000000087746)" type="box">4</container>
-        </did>
-      </c>
-      <c id="a736e0f57e1d4ef0b434e3840133db48" level="file">
-        <did>
-          <unittitle>Taxes</unittitle>
-          <unitdate normal="1916/1951" type="inclusive">1916-1951</unitdate>
-          <container id="0369e08e57caac9e794dc79a53ba887d" label="mixed materials (A0000000087746)" type="box">4</container>
-        </did>
-      </c>
-      <c id="f0e88a6b0091473b9c70ea3d01085b51" level="file">
-        <did>
-          <unittitle>Underpass</unittitle>
-          <unitdate normal="1932/1932" type="inclusive">1932</unitdate>
-          <container id="0716b1f43568686d7e9c75b242ac93b4" label="mixed materials (A0000000087746)" type="box">4</container>
-        </did>
-      </c>
-      <c id="cbd10cf733904b6db0b3ea038b20c167" level="file">
-        <did>
-          <unittitle>Walker-Gordon</unittitle>
-          <unitdate normal="1913/1950" type="inclusive">1913-1950</unitdate>
-          <container id="a73ef77a77fa757abb9732f5847bdef0" label="mixed materials (A0000000087746)" type="box">4</container>
-        </did>
-        <scopecontent id="9bce13e41bc8b906817d9d53143f31a3">
-          <head>Scope and Contents note</head>
-          <p>Original negotiations relating to right-of-way through property, also correspondence relating to leases and land exchanges; excerpts from Minutes 1915-1929 dealing with cooperative experimental arrangements.</p>
-        </scopecontent>
-      </c>
-      <c id="39deca8a94d544a88568648bfdd0447c" level="file">
-        <did>
-          <unittitle>Wartime rationing</unittitle>
-          <container id="17b3d1a910a4bd60bbc38c96c6a94d5d" label="mixed materials (A0000000087746)" type="box">4</container>
-        </did>
-        <scopecontent id="a44c7f5f52287c2c248f59b399de2601">
-          <head>Scope and Contents note</head>
-          <p>(includes car needs).</p>
-        </scopecontent>
-      </c>
-      <c id="24641df11b5b424795142731d8590a87" level="file">
-        <did>
-          <unittitle>Wicoff</unittitle>
-          <unitdate normal="1915/1951" type="inclusive">1915-1951</unitdate>
-          <container id="fe42d72e4a381ab3ce5e1a6d6e1db820" label="mixed materials (A0000000087746)" type="box">4</container>
-        </did>
-        <scopecontent id="28b412408f0ba944f7d1468e8305550a">
-          <head>Scope and Contents note</head>
-          <p>Correspondence regarding legal service rendered. Includes purchases of Williamson, Robison and Jemison property.</p>
-        </scopecontent>
-      </c>
-    </dsc>
-  </archdesc>
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="under_revision" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid>FA835.xml</eadid><filedesc><titlestmt><titleproper type="filing">Rockefeller University records, Department of Animal and Plant Pathology, Subject Files</titleproper><titleproper>A Guide to the Rockefeller University records, Department of Animal and Plant Pathology, Subject Files
+ <num>FA835</num></titleproper></titlestmt><publicationstmt><publisher>Rockefeller Archive Center</publisher><address><addressline>15 Dayton Avenue</addressline><addressline>Sleepy Hollow 10591</addressline><addressline>archive@rockarch.org</addressline><addressline>URL: <extptr xlink:href="http://www.rockarch.org" xlink:show="new" xlink:title="http://www.rockarch.org" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2019-03-14 02:41:43 -0400</date>.</creation></profiledesc><revisiondesc><date>2010 November 12</date><item>Paper finding aid converted to EAD/XML by AureXus in 2010. Imported into the Archvists’ Toolkit by Becky Robbins.</item></revisiondesc></eadheader><archdesc level="collection">
+  <did>
+    <langmaterial>
+      <language langcode="eng">English</language>
+    </langmaterial>
+    <repository>
+      <corpname>Rockefeller Archive Center</corpname>
+    </repository>
+    <unittitle>Rockefeller University records, Department of Animal and Plant Pathology, Subject Files</unittitle>
+    <origination label="creator">
+      <corpname role="ctb" source="naf">Rockefeller University</corpname>
+    </origination>
+    <origination label="creator">
+      <corpname role="aut" source="naf">Rockefeller Institute for Medical Research</corpname>
+    </origination>
+    <unitid>FA835</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">1.76 Cubic Feet</extent>
+      <extent altrender="carrier">4 document boxes</extent>
+    </physdesc>
+    <unitdate normal="1907/1951" type="inclusive">1915-1955 (includes 1907-1914 Clyde, NJ)</unitdate>
+    <unitdate normal="1915/1951" type="bulk">1915-1951</unitdate>
+    <physdesc id="0b46b7345dc5319d169297fc16a115fa">4 document boxes.</physdesc>
+  </did>
+  <fileplan id="78c34b00723f416e34784f29b2e9bb42">
+    <head>File Plan note</head>
+<p>Former Classification: I 425-3</p>  </fileplan>
+  <arrangement id="35f4c0a21c4c4547c0712dcbb5373e84">
+    <head>Arrangement</head>
+<p>Arranged in alphabetical order by subject.</p>  </arrangement>
+  <scopecontent id="448cccca0ac7693fc2df772a0d0ad22e">
+    <head>Scope and Contents</head>
+<p>Subject arrangement of correspondence, contracts, blueprints and reports dealing with Princeton properties.</p>  </scopecontent>
+  <otherfindaid id="c426b5a423f724541719aa16315b1f89">
+    <head>Other Finding Aids</head>
+<p>FA834 Rockefeller University records, Department of Animal and Plant Pathology, Princeton, NJ, Correspondence.</p><p>FA968 Rockefeller University records, Department of Animal and Plant Pathology, Princeton, NJ, Carl TenBroeck papers.</p><p>FA969 Rockefeller University records, Department of Animal and Plant Pathology, Princeton, NJ, Publications.</p>  </otherfindaid>
+  <accessrestrict id="28496777fccbf4ccee8fe1a73c76fc0c">
+    <head>Conditions Governing Access note</head>
+<p>This collection is open for research. Brittle or damaged items are available at the discretion of RAC. Oversize material may necessistate special viewing arrangements be made.</p>  </accessrestrict>
+  <prefercite id="fafac0d0cd505577d8046d7961666db4">
+    <head>Preferred Citation</head>
+<p>Information regarding the Rockefeller Archive Center's preferred elements and forms of citation can be found at <extref href="http://www.rockarch.org/research/citations.php">http://www.rockarch.org/research/citations.php</extref></p>  </prefercite>
+  <controlaccess>
+    <subject source="lcsh">Diseases</subject>
+    <subject source="lcsh">Plant diseases</subject>
+    <subject source="lcsh">Medical research</subject>
+    <subject source="lcsh">Medicine, Preventive</subject>
+    <subject source="lcsh">Biochemistry</subject>
+    <subject source="lcsh">Animals -- Diseases</subject>
+    <subject source="lcsh">Cell and biomolecular sciences</subject>
+    <subject source="lcsh">Medical sciences</subject>
+    <subject source="lcsh">Technology</subject>
+    <subject source="lcsh">Medical technology</subject>
+    <subject source="lcsh">Pathology</subject>
+    <subject source="lcsh">Biology -- Research</subject>
+    <subject source="lcsh">Life sciences</subject>
+    <subject source="lcsh">Medical education</subject>
+  </controlaccess>
+  <dsc><c id="40f8a3383ab04809b9ef2ebf13a121c4" level="file"><did><unittitle>Banks in Princeton</unittitle><unitdate normal="1916/1946" type="inclusive">1916-1946</unitdate><container altrender="Letter Document Storage Box" id="bdbf5b50c0559a963eba8194ec2d83b0" label="mixed materials [A0000000087743]" type="box">1</container></did></c><c id="8331cbd1ced2405baf4758082b6c09d9" level="file"><did><unittitle>Buildings (dwellings)</unittitle><unitdate normal="1910/1950" type="inclusive">1910-1950</unitdate><container altrender="Letter Document Storage Box" id="e15d97b23a37d4cd2f81d2116885434b" label="mixed materials [A0000000087743]" type="box">1</container></did><scopecontent id="6ec1469eeceef6a9151f80e14566bd6b"><head>Scope and Contents note</head><p>See also Construction.</p></scopecontent></c><c id="d47fbf6d3375472480d16f5742e299a2" level="file"><did><unittitle>Cattle 1946 with NY State Veterinary College (Cornell)</unittitle><container altrender="Letter Document Storage Box" id="f959d2cb4a6a7b024bdf559cbbc189a7" label="mixed materials [A0000000087743]" type="box">1</container></did></c><c id="93b1aefd1b6f484984593f867d301283" level="file"><did><unittitle>Clyde, NJ</unittitle><unitdate normal="1907/1934" type="inclusive">1907-1934</unitdate><container altrender="Letter Document Storage Box" id="6ab47b0dabdd85a1440960085565e642" label="mixed materials [A0000000087743]" type="box">1</container></did><scopecontent id="497b3b6d360109f0848ca91b357eb76d"><head>Scope and Contents note</head><p>Includes reports Jan. 30, 1912 and Jan. 1914. Purchase, sale and difficulties with personnel and mortgage.</p></scopecontent></c><c id="1d7e171dbb254036898879b3d559234d" level="file"><did><unittitle>Coal hauling (Walter Sachs)</unittitle><unitdate normal="1941/1949" type="inclusive">1941-1949</unitdate><container altrender="Letter Document Storage Box" id="de91984c7146f526bc13f139a10f2b3a" label="mixed materials [A0000000087743]" type="box">1</container></did></c><c id="683888d728864b5dbc3f614b1b840522" level="file"><did><unittitle>Construction (other than dwellings)</unittitle><unitdate normal="1915/1931" type="inclusive">1915-1931</unitdate><container altrender="Letter Document Storage Box" id="e0866d72e49e2e13b89bb320a6eb2a8f" label="mixed materials [A0000000087743]" type="box">1</container></did><scopecontent id="8a18b37fade2e34cb63189ab6c81d914"><head>Scope and Contents note</head><p>Includes agreements and specifications.</p></scopecontent></c><c id="f39d134226484f5f86899affd6b651b7" level="file"><did><unittitle>Construction (other than dwellings)</unittitle><unitdate normal="1932/1947" type="inclusive">1932-1947</unitdate><container altrender="Letter Document Storage Box" id="5bff381d4ba8896241a5370b62244353" label="mixed materials [A0000000087743]" type="box">1</container></did><scopecontent id="8dce3d17d372df74cc965eb16112741d"><head>Scope and Contents note</head><p>Includes agreements and specifications.</p></scopecontent></c><c id="eb30457cf6194543982159f2d6727d3c" level="file"><did><unittitle>Deeds, agreements, title abstract</unittitle><unitdate normal="1915/1950" type="inclusive">1915-1950</unitdate><container altrender="Letter Document Storage Box" id="568dc433a2ec167cea45acb144f85177" label="mixed materials [A0000000087743]" type="box">1</container></did></c><c id="a64bd6f13296493abec2dbd3f1cc1d91" level="file"><did><unittitle>Deeds (correspondence and blueprints)</unittitle><container altrender="Letter Document Storage Box" id="63331f9d24ce6679c5798e39c3eca15e" label="mixed materials [A0000000087744]" type="box">2</container></did></c><c id="ea52104718de4396b4072678668eeb85" level="file"><did><unittitle>Delaware and Raritan Canal</unittitle><unitdate normal="1915/1945" type="inclusive">1915-1945</unitdate><container altrender="Letter Document Storage Box" id="6b7eca3ca59f00eb6793255de8b4583e" label="mixed materials [A0000000087744]" type="box">2</container></did><scopecontent id="5504d13e058ee37a177ed9837c4e075e"><head>Scope and Contents note</head><p>(includes Mosquito control).</p></scopecontent></c><c id="3cde369dfbf04ceb927ebf76d41bf631" level="file"><did><unittitle>Development Committee</unittitle><unitdate normal="1913/1921" type="inclusive">1913-1921</unitdate><container altrender="Letter Document Storage Box" id="4bf9df37755ca865bf2244dbca05c4f9" label="mixed materials [A0000000087744]" type="box">2</container></did><scopecontent id="f52181e2903853dd27d7a3b5fc4ecf16"><head>Scope and Contents note</head><p>Includes 1913 report on visits to European Institutes; includes planting design by Beatrix Farrand, 1916; 1921.</p></scopecontent></c><c id="e347e58ecf864d6d963db612c8afb33b" level="file"><did><unittitle>Electrical construction</unittitle><unitdate normal="1917/1938" type="inclusive">1917-1938</unitdate><container altrender="Letter Document Storage Box" id="198e92dac739f572a53e8dc18b62c546" label="mixed materials [A0000000087744]" type="box">2</container></did><scopecontent id="c081edaffc2ea82f7a8452e755115dac"><head>Scope and Contents note</head><p>(including Power House and Public Service Elec. Co.).</p></scopecontent></c><c id="e79a96d6093947e5b51818e65db9dccd" level="file"><did><unittitle>Employees</unittitle><unitdate normal="1916/1949" type="inclusive">1916-1949</unitdate><container altrender="Letter Document Storage Box" id="6e2f524c3f4c95604ff84711242eff00" label="mixed materials [A0000000087744]" type="box">2</container></did><scopecontent id="8aadd9904a93827f3817bbc5f8cad99e"><head>Scope and Contents note</head><p>(Primarily special arrangements for long-term illness).</p></scopecontent></c><c id="4e00b36f76504ac693cb79398daf8cd5" level="file"><did><unittitle>Employees</unittitle><container altrender="Letter Document Storage Box" id="c19ec0135685875439495e5e258c5a95" label="mixed materials [A0000000087744]" type="box">2</container></did><scopecontent id="86b988d07f2f9f8d0381d80b201b64be"><head>Scope and Contents note</head><p>(Correspondence by and about Reed, Ring, Roeder, Shaw).</p></scopecontent></c><c id="415a08c81fe4494480c0170f48f47ef0" level="file"><did><unittitle>Farm</unittitle><unitdate normal="1916/1952" type="inclusive">1916-1952</unitdate><container altrender="Letter Document Storage Box" id="726bfac1c050bbb45555fefe78a9a21f" label="mixed materials [A0000000087744]" type="box">2</container></did><scopecontent id="053dd3271485b60ffc1fa73c97870885"><head>Scope and Contents note</head><p>(Includes correspondence with Commodity Credit Corp. and Farmers' Coop. Assoc.) also correspondence with Voorhees Hunt.</p></scopecontent></c><c id="199ff7f84a774118aadc2b9caf551ddd" level="file"><did><unittitle>Forestry</unittitle><unitdate normal="1917/1951" type="inclusive">1917-1951</unitdate></did><scopecontent id="5f7584fc9449a52e51f5625d33caa740"><head>Scope and Contents note</head><p>(includes lumber contract 1950).</p></scopecontent></c><c id="7a3d685ded224bb6bacd6d1a834a8a46" level="file"><did><unittitle>Insurance</unittitle><unitdate normal="1930/1951" type="inclusive">1930-1951</unitdate><container altrender="Letter Document Storage Box" id="8c71a83b6142c34b71bf82969eba41f7" label="mixed materials [A0000000087744]" type="box">2</container></did></c><c id="28c55403eed34689b32c9e430eef6099" level="file"><did><unittitle>Mosquito control</unittitle><container altrender="Letter Document Storage Box" id="97ad554bbe36eeca11ba36dc450e94fa" label="mixed materials [A0000000087745]" type="box">3</container></did><scopecontent id="9d5387ea72fbde16d8645dab8b2ea511"><head>Scope and Contents note</head><p>(see Delaware and Raritan Canal).</p></scopecontent></c><c id="ebbefbfccd67461cb9d6024189b776b7" level="file"><did><unittitle>New Jersey (State)</unittitle><unitdate normal="1914/1942" type="inclusive">1914-1942</unitdate><container altrender="Letter Document Storage Box" id="1e1101d625193f35f148eae2b9780d19" label="mixed materials [A0000000087745]" type="box">3</container></did><scopecontent id="e18043d9916010cc3b2eb755ca6be82f"><head>Scope and Contents note</head><p>Includes Agricultural Experiment Station and Highway Commission regarding Trenton/Hew Brunswick Turnpike.</p></scopecontent></c><c id="1142763434034afab1c774a29f3f84d0" level="file"><did><unittitle>Property acquisition</unittitle><unitdate normal="1914/1951" type="inclusive">1914-1951</unitdate><container altrender="Letter Document Storage Box" id="0934a8773286f638532612f0ab4f3ee0" label="mixed materials [A0000000087745]" type="box">3</container></did><scopecontent id="74c597d100ad47d289c119a991120ef8"><head>Scope and Contents note</head><p>(Purchases and leases including summary made at time of sale).</p></scopecontent></c><c id="6fcef79ec66a4ecaa4d6d842b37daa08" level="file"><did><unittitle>Receptions or meetings</unittitle><unitdate normal="1932/1946" type="inclusive">1932-1946</unitdate><container altrender="Letter Document Storage Box" id="bdbde8d5d5e78a64c0740e06431562f9" label="mixed materials [A0000000087745]" type="box">3</container></did></c><c id="b9f24348063b4f5aa21db4037a6221e7" level="file"><did><unittitle>Sale of property</unittitle><unitdate normal="1947/1951" type="inclusive">1947-1951</unitdate><physdesc id="9f13ed7b5623031b8a6100c4efe9d93f">2 folders</physdesc><container altrender="Letter Document Storage Box" id="94a748203f5a32c5b7e87b74c2d5b9b5" label="mixed materials [A0000000087745]" type="box">3</container></did><scopecontent id="416de4d15345a47e7782d56424e0a84b"><head>Scope and Contents note</head><p>(Includes library inventory).</p></scopecontent></c><c id="0c7746223992439f8004161a0956b3b9" level="file"><did><unittitle>Storeroom</unittitle><container altrender="Letter Document Storage Box" id="0e25e9c62d3b8ba9314ed948b468f439" label="mixed materials [A0000000087745]" type="box">3</container></did></c><c id="c708d6a464d249618c7204dd3fed1c47" level="file"><did><unittitle>Surveyor</unittitle><unitdate normal="1914/1931" type="inclusive">1914-1931</unitdate><container altrender="Letter Document Storage Box" id="6fac8e7c96938d4552da82c69aeaf70f" label="mixed materials [A0000000087745]" type="box">3</container></did><scopecontent id="b99439b160974bc0cd2620bd4b3f3df9"><head>Scope and Contents note</head><p>(includes work on roads).</p></scopecontent></c><c id="79367be0ae0c4f8e849db243a4dab95a" level="file"><did><unittitle>Telephone</unittitle><unitdate normal="1915/1918" type="inclusive">1915-1918</unitdate><container altrender="Letter Document Storage Box" id="cb409c6a8e26253497315f252065a481" label="mixed materials [A0000000087745]" type="box">3</container></did></c><c id="1d435a61974c416597fd8f05492cee62" level="file"><did><unittitle>Theobald Smith House</unittitle><unitdate normal="1931/1936" type="inclusive">1931-1936</unitdate><container altrender="Letter Document Storage Box" id="5f964f1c331247934e6582cfbe003c8e" label="mixed materials [A0000000087745]" type="box">3</container></did><scopecontent id="4a00ace4e6d978f184760fdd64ba15be"><head>Scope and Contents note</head><p>(Includes remodeling and refurnishing).</p></scopecontent></c><c id="9dddafc48ec846aa94949b47b57cedc1" level="file"><did><unittitle>Sewage disposal and water</unittitle><unitdate>1915-1916 June</unitdate><container altrender="Letter Document Storage Box" id="a5f19684b4929e26d53ef7d142398204" label="mixed materials [A0000000087746]" type="box">4</container></did></c><c id="3ad9e38408e24be392bfa9a65574d79d" level="file"><did><unittitle>Sewage disposal and water</unittitle><unitdate>1916 July-1942</unitdate><container altrender="Letter Document Storage Box" id="4a244ec739ff1c50a6bf3cff74b0c34c" label="mixed materials [A0000000087746]" type="box">4</container></did></c><c id="ed39531d4b92433083bf09c9acbf32c6" level="file"><did><unittitle>Sunday work</unittitle><unitdate normal="1917/1918" type="inclusive">1917-1918</unitdate><container altrender="Letter Document Storage Box" id="2990e23e19e08ac47619134dd19e9cf3" label="mixed materials [A0000000087746]" type="box">4</container></did></c><c id="a736e0f57e1d4ef0b434e3840133db48" level="file"><did><unittitle>Taxes</unittitle><unitdate normal="1916/1951" type="inclusive">1916-1951</unitdate><container altrender="Letter Document Storage Box" id="648fe88cccfc6952bc688dc32a4de018" label="mixed materials [A0000000087746]" type="box">4</container></did></c><c id="f0e88a6b0091473b9c70ea3d01085b51" level="file"><did><unittitle>Underpass</unittitle><unitdate normal="1932/1932" type="inclusive">1932</unitdate><container altrender="Letter Document Storage Box" id="e900197bd308e5b5c6295ed330208532" label="mixed materials [A0000000087746]" type="box">4</container></did></c><c id="cbd10cf733904b6db0b3ea038b20c167" level="file"><did><unittitle>Walker-Gordon</unittitle><unitdate normal="1913/1950" type="inclusive">1913-1950</unitdate><container altrender="Letter Document Storage Box" id="b00ca1958f4f017418c898e07ecd6406" label="mixed materials [A0000000087746]" type="box">4</container></did><scopecontent id="9bce13e41bc8b906817d9d53143f31a3"><head>Scope and Contents note</head><p>Original negotiations relating to right-of-way through property, also correspondence relating to leases and land exchanges; excerpts from Minutes 1915-1929 dealing with cooperative experimental arrangements.</p></scopecontent></c><c id="39deca8a94d544a88568648bfdd0447c" level="file"><did><unittitle>Wartime rationing</unittitle><container altrender="Letter Document Storage Box" id="fe86150ece49511b9b222667b3d99e9f" label="mixed materials [A0000000087746]" type="box">4</container></did><scopecontent id="a44c7f5f52287c2c248f59b399de2601"><head>Scope and Contents note</head><p>(includes car needs).</p></scopecontent></c><c id="24641df11b5b424795142731d8590a87" level="file"><did><unittitle>Wicoff</unittitle><unitdate normal="1915/1951" type="inclusive">1915-1951</unitdate><container altrender="Letter Document Storage Box" id="0964db5a887d69fca91a1a276213e9e0" label="mixed materials [A0000000087746]" type="box">4</container></did><scopecontent id="28b412408f0ba944f7d1468e8305550a"><head>Scope and Contents note</head><p>Correspondence regarding legal service rendered. Includes purchases of Williamson, Robison and Jemison property.</p></scopecontent></c></dsc>
+</archdesc>
 </ead>

@@ -1,410 +1,57 @@
-<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
-  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="under_revision" langencoding="iso639-2b" repositoryencoding="iso15511">
-    <eadid>FA917.xml</eadid>
-    <filedesc>
-      <titlestmt>
-        <titleproper type="filing">Rockefeller University Press, Subject Files</titleproper>
-        <titleproper>A Guide to the Rockefeller University Press, Subject Files
- <num>FA917</num></titleproper>
-      </titlestmt>
-      <publicationstmt>
-        <publisher>Rockefeller Archive Center</publisher>
-        <address>
-          <addressline>15 Dayton Avenue</addressline>
-          <addressline>Sleepy Hollow 10591</addressline>
-          <addressline>archive@rockarch.org</addressline>
-          <addressline>URL: <extptr xlink:href="http://www.rockarch.org" xlink:show="new" xlink:title="http://www.rockarch.org" xlink:type="simple"/></addressline>
-        </address>
-      </publicationstmt>
-    </filedesc>
-    <profiledesc>
-      <creation>This finding aid was produced using ArchivesSpace on <date>2018-07-28 00:06:03 -0400</date>.</creation>
-      <descrules>Describing Archives: A Content Standard</descrules>
-    </profiledesc>
-    <revisiondesc>
-      <date>2008 October 21</date>
-      <item>Paper finding aid converted to EAD/XML by AureXus in 2010. Imported into the Archvists’ Toolkit by Becky Robbins.</item>
-    </revisiondesc>
-  </eadheader>
-  <archdesc level="collection">
-    <did>
-      <langmaterial>
-        <language langcode="eng">English</language>
-      </langmaterial>
-      <repository>
-        <corpname>Rockefeller Archive Center</corpname>
-      </repository>
-      <unittitle>Rockefeller University Press, Subject Files</unittitle>
-      <origination label="creator">
-        <corpname role="aut" rules="dacs">Rockefeller University Press</corpname>
-      </origination>
-      <origination label="creator">
-        <corpname role="aut" source="naf">Rockefeller University</corpname>
-      </origination>
-      <origination label="creator">
-        <corpname role="aut" source="ingest">Rockefeller Institute for Medical Research.</corpname>
-      </origination>
-      <unitid>FA917</unitid>
-      <physdesc altrender="whole">
-        <extent altrender="materialtype spaceoccupied">2.5 Cubic Feet</extent>
-        <extent altrender="carrier">4 boxes.</extent>
-      </physdesc>
-      <unitdate normal="1957/1988" type="inclusive">1957-1988</unitdate>
-      <physdesc id="e3af78b5313d4abaeb7ba49c56d6573c">4 boxes.</physdesc>
-    </did>
-    <bioghist id="b7272549cb1bf2400908ebdec1081728">
-      <head>Biographical/Historical note</head>
-      <p>In order to assist in the dissemination of scientific investigations conducted at the Institute and elsewhere, publication was an early and important activity of The Rockefeller Institute for Medical Research. A senior member of the scientific staff was usually the editor of a periodical. As early as 1910 the Institute had a Publication Service, which was supervised from 1910 by Editha C. Campbell until she retired in the fall of 1940. A Department of Illustration and Photography was under a part-time arrangement with De. Eduard Learning from 1906 until 1910 when Louis Schmidt undertook the direction of a full-time department. Louis Schmidt was at the head of the department until he reached the age of 70 in 1936. The work in the Department of Illustrations included hand-drawn illustrations for publications, photographs, moving pictures of experimental procedures made for the various investigators and used for a variety of purposes. Louis Schmidt served on a consultant basis until his death in 1939. Joseph Blauvelt Haulenbeek was acting in charge of Illustrations during that time and named officially in charge of illustrations in 1942, serving until he resigned September 1, 1946. Julian Alexander Carlile who was in charge of illustrations in the Department of Animal and Plant Pathology at Princeton took charge of the New York Department starting October 1, 1947 and divided his time between the two departments until they were consolidated during 1950. He directed the expanding department until his death in 1959 when he was succeeded by Richard F. Carter until 1964. In the academic year 1968/1969 Lewis William Koster became Manager of Graphic Services until 1973. March 1973 Bill Leyrer was appointed to that position.</p>
-      <p>Florence M. Stewart succeeded Editha Campbell in charge of the Publication Service in 1940 and served until she retired June 30, 1963, when she was succeeded by Margaret E. Broadbent.</p>
-      <p>Effective January 1, 1957 Charles Irvin Campbell was appointed Administrative Associate for Information Services. He had responsibility for a variety of information services among which were Secretary of the Library Committee, Librarian, ex officio, and supervision of the Publication Service and Illustration and Duplicating Services. Included were publication duties of such items as the Annual Report, Rockefeller Institute Quarterly, and the Calendar of Events. On October 20, 1958 the Board of Trustees approved a cooperative arrangement with the Oxford University Press to assist in producing, advertising and selling publications of the newly established Rockefeller Institute Press. The plan was for the Institute to continue publishing journals in accord with previously established policy and arrangements. Charles I. Campbell was appointed Director of The Rockefeller Institute Press. The Publications Service became the Journals Department without change of personnel or function. A new Books and Reports Department was created with responsibility for the production of books and the publication of bulletins and reports issued by the Institute.</p>
-      <p>January 1, 1960 Reynard F. Biemiller was appointed Assistant Director of The Rockefeller Institute Press. Effective December 5, 1960 Raymond B. Griffiths was appointed to the newly created position of Executive Editor of the Journal of Cell Biology.</p>
-      <p>Charles I. Campbell resigned May 15, 1962 and Joseph G. Sutton served as Acting Director of the Press from January 1963 until in 1964 William Arthur Bayless was named Director of the Press.</p>
-      <p>William Bayless retired as Director of The Rockefeller University Press on February 8, 1980. As of February 11, 1980, Mrs. Helene Jordan agreed to serve as acting director of the Press.</p>
-      <p>Effective July 1, 1980, Mrs. Helene Jordan was appointed Director of The Rockefeller University Press.</p>
-    </bioghist>
-    <prefercite id="576f10f5cf321798a388c82a9ae3cecb">
-      <head>Preferred Citation note</head>
-      <p>Information regarding the Rockefeller Archive Center's preferred elements and forms of citation can be found at <extref href="http://www.rockarch.org/research/citations.php">http://www.rockarch.org/research/citations.php</extref></p>
-    </prefercite>
-    <accessrestrict id="2c046dd69e2547b9e2a0f652aeb2aff6">
-      <head>Conditions Governing Access</head>
-      <p>Collection is open for research with select materials restricted as noted. Brittle or damaged items are available at the discretion of RAC.</p>
-    </accessrestrict>
-    <fileplan id="a83bddd428690b2b8fa99b3c1bf4eb2b">
-      <head>File Plan note</head>
-      <p>Former Classification: I 500 and I 501 (Boxes 1-3); I 501-U (Box 4).</p>
-    </fileplan>
-    <scopecontent id="1f5be94763a4f59cdd36655424060fdc">
-      <head>Scope and Contents</head>
-      <p>Types of records include: subject files.</p>
-    </scopecontent>
-    <controlaccess>
-      <subject source="lcsh">Medical sciences</subject>
-      <subject source="lcsh">Medical education</subject>
-      <subject source="lcsh">Science -- Study and teaching</subject>
-      <subject source="lcsh">Medicine, Preventive</subject>
-      <subject source="lcsh">Medical research</subject>
-      <subject source="lcsh">Biology -- Research</subject>
-      <subject source="lcsh">Life sciences</subject>
-      <subject source="lcsh">Cell and biomolecular sciences</subject>
-      <subject source="lcsh">Medical technology</subject>
-    </controlaccess>
-    <dsc>
-      <c id="a213ab6ba83c45e68761dde0676cf2d9" level="otherlevel" otherlevel="Subject">
-        <did>
-          <unittitle>Christmas Lectures</unittitle>
-          <unitdate normal="1958/1959" type="inclusive">1958-1959</unitdate>
-          <physdesc id="5a13d875dad61d3b21e225568d15c454">1 box (2½ inches)</physdesc>
-        </did>
-        <bioghist id="4bfa295ca8462e83012fafb9e3f74a3a">
-          <head>Biographical/Historical note</head>
-          <p>In 1958 Dr. Mirsky presented the idea of holding lectures on science for high school students at the period during the Christmas holidays (based on the pattern of the Christmas Lectures at the Royal Institution in London). The first lecturer was René Dubos who spoke on "The Unseen World" which subsequently appeared as a book from The Rockefeller Institute Press.</p>
-        </bioghist>
-        <relatedmaterial id="5a8c2a0646b6a412754de8d4a58027fe">
-          <head>Related Archival Materials note</head>
-          <p>For additional Christmas lecture material see the Alfred E. Mirsky Papers and the Christmas lecture file.</p>
-        </relatedmaterial>
-        <scopecontent id="65e3f4be3939d185bcc3e771c0aac92d">
-          <head>Scope and Contents note</head>
-          <p>The material in this file deals primarily with correspondence and arrangements made to collect various films that were used for the lectures, the previews and opinions of the various films viewed, until the final decisions were made.</p>
-        </scopecontent>
-        <acqinfo id="5a84f95a9e10588cd66a58f6daefd897">
-          <head>Immediate Source of Acquisition note</head>
-          <p>Date received or inventoried: November 1979</p>
-        </acqinfo>
-        <arrangement id="d8a1e9757f48c20d692e1180f46cb9c3">
-          <head>Arrangement note</head>
-          <p>Arranged in three folders and one envelope.</p>
-        </arrangement>
-        <c id="5766a890bb814330b1add5ebf47c1da9" level="file">
-          <did>
-            <unittitle>Correspondence on films</unittitle>
-            <container altrender="Half Ltr Document Storage Box" id="0fc464095306dfa1326c9b2345e33dcc" label="mixed materials [A0000000092961]" type="box">1</container>
-            <container id="cde2d42fc7ed0834af62de15301cea04" parent="0fc464095306dfa1326c9b2345e33dcc" type="folder">1-2</container>
-          </did>
-        </c>
-        <c id="c04f5f43d4cf4b2a961cb5dfed9b2651" level="file">
-          <did>
-            <unittitle>List of students invited and school notices</unittitle>
-            <container altrender="Half Ltr Document Storage Box" id="7be2ca9da2f5dbcacb496418796d8c1e" label="mixed materials [A0000000092961]" type="box">1</container>
-            <container id="4c24ab9faf4c4a89f7d467c4bec1dfc6" parent="7be2ca9da2f5dbcacb496418796d8c1e" type="folder">3</container>
-          </did>
-        </c>
-        <c id="aec3ce09bfb24a60b42c342ddfa14929" level="file">
-          <did>
-            <unittitle>School listings on cards</unittitle>
-            <physdesc id="1f88c8517a70f3ac2df84fa235ac5cf6">envelope</physdesc>
-            <container altrender="Half Ltr Document Storage Box" id="deac27cacc67a849305e55c38b162eb4" label="mixed materials [A0000000092961]" type="box">1</container>
-          </did>
-        </c>
-      </c>
-      <c id="0e5c0945cd164a928828a843ec07430f" level="otherlevel" otherlevel="Subject">
-        <did>
-          <unittitle>Staff</unittitle>
-          <physdesc id="ec772cec76992cd9094b3904d0a4ccf5">1 folder</physdesc>
-          <container altrender="Letter Document Storage Box" id="16e3c7c252e5eacb0bb6d5742f891919" label="mixed materials [A0000000092962]" type="box">2</container>
-        </did>
-        <scopecontent id="b63d424ec0deba5ee1bc6fd1ce84aa08">
-          <head>Scope and Contents note</head>
-          <p>Photographs of William A. Bayless, director of the RU Press.</p>
-          <p>Photographs of Roynard Biemiller, Director of design and production</p>
-        </scopecontent>
-        <fileplan id="e7a6709b6c26281d440c3e30c0ff42b4">
-          <head>File Plan note</head>
-          <p>Former Classification: I 500</p>
-        </fileplan>
-        <c id="b7ecd10719894ab699261ce53f96ce70" level="file">
-          <did>
-            <unittitle>William A. Bayless</unittitle>
-            <unitdate>after 1963</unitdate>
-          </did>
-          <c id="95fb6b7c13ef46ba8c04e1842a65a221" level="item">
-            <did>
-              <unittitle>Rous, Peyton. 6 letters to William Bayless</unittitle>
-              <unitdate normal="1964/1968" type="inclusive">1964-1968</unitdate>
-              <container altrender="Letter Document Storage Box" id="58eeee95fc3e29936738771d3e455f82" label="mixed materials [A0000000092962]" type="box">2</container>
-            </did>
-            <scopecontent id="48c4caf03d0ab883b3b7a39db24515da">
-              <head>Scope and Contents note</head>
-              <p>Includes (4 holograph) reprint from NATURE 207 (1965) "Viruses and tumor causation" and two obituary articles by J.S. Henderson: American Philosophical yearbook, 1971 (2 copies) and ARCHIVES OF PATHOLOGY 90 (1970).</p>
-            </scopecontent>
-          </c>
-        </c>
-        <c id="6fbeec4339b64ede8550711ef37d0b64" level="file">
-          <did>
-            <unittitle>William A. Bayless - Biographical material and photographs</unittitle>
-            <unitdate normal="1964/1980" type="inclusive">1964-1980</unitdate>
-            <physdesc id="2a876d4c4c68c4f811aa5ef0a5b3cdcc">1 folder</physdesc>
-            <container altrender="Letter Document Storage Box" id="fb9ca9b795b84b9d65824e7217463342" label="mixed materials [A0000000092962]" type="box">2</container>
-          </did>
-          <scopecontent id="b1cd38f27cac008e69b7230c15bfdad2">
-            <head>Scope and Contents note</head>
-            <p>Photographs; announcements; biographical items.</p>
-          </scopecontent>
-        </c>
-      </c>
-      <c id="d770a2643cec4b3bbce00f0d6756a315" level="otherlevel" otherlevel="Subject">
-        <did>
-          <unittitle>Subject Files</unittitle>
-          <unitdate normal="1964/1964" type="inclusive">1964-</unitdate>
-        </did>
-        <bioghist id="8b5a82846507253919977e2ac174f61d">
-          <head>Biographical/Historical note</head>
-          <p>In 1964 William Bayless was named Director of the Rockefeller University Press.</p>
-        </bioghist>
-        <arrangement id="41b4c4265bda5f595c18e6aa025d6cd8">
-          <head>Arrangement note</head>
-          <p>Arranged in alphabetical order by subject.</p>
-        </arrangement>
-        <acqinfo id="0f47ab78009c0588ec57be93b50dc3a6">
-          <head>Immediate Source of Acquisition note</head>
-          <p>Date received or inventoried: 1978 and later</p>
-        </acqinfo>
-        <processinfo id="36ccc092bb241e47e9c4a6ce6c0dc977">
-          <head>Processing Information note</head>
-          <p>From 1978 and later discreet subject files were sent to the Archives.</p>
-        </processinfo>
-        <c id="50e7c67ef5bc4d56b9a5c357cd9c8500" level="file">
-          <did>
-            <unittitle>Dolce, Philip C., editor</unittitle>
-            <unitdate>1974 December-1975 September</unitdate>
-            <container altrender="Letter Document Storage Box" id="b401b16f8a8c928c68a81466fbc51110" label="mixed materials [A0000000092962]" type="box">2</container>
-          </did>
-          <scopecontent id="dc3a1f2b33adb53aad643f9b23aec920">
-            <head>Scope and Contents note</head>
-            <p>Between 1974 and 1975 there was consideration of a University Press publication called SCIENCE AND SOCIETY: A HUMANISTIC VIEW. This was to consist of selected portions from a CBS/TV series planned with the sponsorship of Bergen Community College with Philip C. Dolce as coordinator. The book was not published but the file consists of plans, programs with numerous revisions, grant proposal and correspondence.</p>
-          </scopecontent>
-        </c>
-        <c id="0523661f894a4491831d1c16c79231a7" level="file">
-          <did>
-            <unittitle>Goudsmit, Samuel A</unittitle>
-            <unitdate normal="1964/1975" type="inclusive">1964-1975</unitdate>
-            <container altrender="Letter Document Storage Box" id="b106fe478e2b52864cce153b73757df8" label="mixed materials [A0000000092962]" type="box">2</container>
-          </did>
-          <scopecontent id="d6420d63834b47d58968a3d5178ed8a0">
-            <head>Scope and Contents note</head>
-            <p>Correspondence which also includes comments on the film "The Making of the Atom Bomb" transcript and edited versions of talk at the Seminar on Quantum Mechanics at American Institute of Physics on 6 October 1964; draft of article "The Physics Editor" [Correspondence re[? ] hieroglyph book].</p>
-          </scopecontent>
-        </c>
-        <c id="ae6ef6f3651045e68f32164e6566c6c8" level="file">
-          <did>
-            <unittitle>Opie, Eugene L. - Chinese Medicine manuscript (photocopy) see also Bronk papers Rockefeller University subject file under "Opie"</unittitle>
-            <unitdate>1963-1970</unitdate>
-            <container altrender="Letter Document Storage Box" id="5518b5949f4107a74c8eb7d52aa0a272" label="mixed materials [A0000000092962]" type="box">2</container>
-          </did>
-        </c>
-        <c id="00875bfdfb914f1ebbcddc9439e816c1" level="file">
-          <did>
-            <unittitle>Opie, Eugene L.- Correspondence about publication by the Rockefeller University Press of Dr. Opie's "Traditional Chinese Medicine"</unittitle>
-            <unitdate>1963-1970</unitdate>
-            <container altrender="Letter Document Storage Box" id="9a0d3e36fd0d42ff3baa92375a0eac63" label="mixed materials [A0000000092962]" type="box">2</container>
-          </did>
-          <scopecontent id="5a7922047c7351634597a47a8ff2d69c">
-            <head>Scope and Contents</head>
-            <p>Includes calculations of costs, comments regarding suitability for RU Press. Also includes photocopy of Opie article on founding of The Rockefeller Institute for Medical Research prepared for George W. Corner.</p>
-          </scopecontent>
-        </c>
-        <c id="3cc17b429b37446593e09d838700ac6d" level="file">
-          <did>
-            <unittitle>Seitz, Frederick</unittitle>
-            <unitdate normal="1968/1977" type="inclusive">1968-1977</unitdate>
-            <physdesc id="c4ceda47f2eb0c24879b1c3475d8b9ce">2 folders</physdesc>
-            <container altrender="Letter Document Storage Box" id="91800890e38ca29581e014c5d6064a3d" label="mixed materials [A0000000092962]" type="box">2</container>
-          </did>
-          <scopecontent id="11e6cc9725ac01ea7dc830c0cdab72ce">
-            <head>Scope and Contents note</head>
-            <p>Primarily copies of correspondence and informational memoranda between William Bayless and Frederick Seitz dealing with publications, stationary and matters of production, Christmas Party invitations.</p>
-            <p>Items of special interest are listed below.</p>
-          </scopecontent>
-          <c id="2e0949baf4a64ae9b743139107826a18" level="file">
-            <did>
-              <unittitle>Changes in faculty titles for fiscal year 1971</unittitle>
-              <unitdate>1969 July 22</unitdate>
-              <container altrender="Letter Document Storage Box" id="e150b40b97ed547a794bd16cb6a88c70" label="mixed materials [A0000000092962]" type="box">2</container>
-            </did>
-          </c>
-          <c id="5d1fe22449a74b48a146db1031af00ba" level="file">
-            <did>
-              <unittitle>Copy of Commencement address at Cornell Medical College "Science in Public Crisis"</unittitle>
-              <unitdate>1970 June 2</unitdate>
-              <container altrender="Letter Document Storage Box" id="549f435422e3ba9bf58371fd833a0a54" label="mixed materials [A0000000092962]" type="box">2</container>
-            </did>
-          </c>
-          <c id="0ddea85b6b36460ab99712e83b899eaa" level="file">
-            <did>
-              <unittitle>"Parable of the Far-sighted Scientist"</unittitle>
-              <unitdate>1970 June</unitdate>
-              <container altrender="Letter Document Storage Box" id="29e7cd972bc8f794ee99d9531c4d7f4e" label="mixed materials [A0000000092962]" type="box">2</container>
-            </did>
-          </c>
-        </c>
-        <c id="464175aa4b614cd5af92f4e41d78b5f8" level="file">
-          <did>
-            <unittitle>Charles Campbell; William Bayless</unittitle>
-            <unitdate normal="1957/1969" type="inclusive">1957-1969</unitdate>
-            <physdesc id="9f4fef319f901da1fbdbc18ec8122e26">1 box</physdesc>
-          </did>
-          <scopecontent id="8d2b7fd89072127fb91fd86e57f93e04">
-            <head>Scope and Contents note</head>
-            <p>Subject files.</p>
-          </scopecontent>
-          <arrangement id="7efec84670b67708d2083c32b9db5cdc">
-            <head>Arrangement note</head>
-            <p>Arranged in chronological order.</p>
-          </arrangement>
-          <acqinfo id="dfcfe22ae6790d58c41996a68c9d8f49">
-            <head>Immediate Source of Acquisition note</head>
-            <p>Date received or inventoried: March 1980</p>
-          </acqinfo>
-          <c id="fcf57c5968e04ecb83ae8c7a120333e6" level="file">
-            <did>
-              <unittitle>Rockefeller Institute for Medical Research Seal</unittitle>
-              <container altrender="Half Ltr Document Storage Box" id="623e55aa8c3e05f669a4896744f42d1b" label="mixed materials [A0000000092963]" type="box">3</container>
-              <container id="182657298fa8e51ae05e97055734cd84" parent="623e55aa8c3e05f669a4896744f42d1b" type="folder">1</container>
-            </did>
-            <scopecontent id="9f5bd62954b5caf7bee20181a118037f">
-              <head>Scope and Contents note</head>
-              <p>Casting of original seal. Box bears stamp: Made by Florentine Mastercraft Studio 132 East 26th St. N.Y.C.</p>
-            </scopecontent>
-          </c>
-          <c id="8ba59869876c4d21a0ba3089a664a75e" level="file">
-            <did>
-              <unittitle>Correspondence between Charles Campbell and Rudolph Ruzicka</unittitle>
-              <unitdate normal="1957/1961" type="inclusive">1957-1961</unitdate>
-              <container altrender="Half Ltr Document Storage Box" id="2a60814f527d276be5c873c623022ccb" label="mixed materials [A0000000092963]" type="box">3</container>
-              <container id="c85c4e6dda138cab39161e01b1517ee1" parent="2a60814f527d276be5c873c623022ccb" type="folder">2</container>
-            </did>
-            <scopecontent id="5c4dfb0afd2e5cd8bf3a3d410a7504f0">
-              <head>Scope and Contents note</head>
-              <p>Including a few letters from Douglas Whitaker, George Corner, Dr. William Robbins, Dr. Eugene L. Opie, Detlev Bronk and Robert Loeb dealing with designs submitted for new University seal and considerations for final decision. Included in the correspondence is a summary from the Minutes of meetings of the Board of Scientific Directors referring to the original seal and an explanation of the original design symbols.</p>
-            </scopecontent>
-          </c>
-          <c id="5481e19e3445469aaef1f84b856f7120" level="file">
-            <did>
-              <unittitle>Rockefeller University Seal photographs and imprints of suggested designs</unittitle>
-              <container altrender="Half Ltr Document Storage Box" id="6672c19db9faf4e084915358d3906059" label="mixed materials [A0000000092963]" type="box">3</container>
-              <container id="6dbc5c6ecb7627f4fc972e0928ed5dad" parent="6672c19db9faf4e084915358d3906059" type="folder">3</container>
-            </did>
-          </c>
-          <c id="0fe49dde95f84e0baa397a1751f7e2d2" level="file">
-            <did>
-              <unittitle>Correspondence on a textbook of Comparative histology. Dropped</unittitle>
-              <unitdate normal="1959/1962" type="inclusive">1959-1962</unitdate>
-              <container altrender="Half Ltr Document Storage Box" id="6132254fdc61ff562ea12e9adb559901" label="mixed materials [A0000000092963]" type="box">3</container>
-              <container id="a04126bdd1d8028f2c65919e83c55856" parent="6132254fdc61ff562ea12e9adb559901" type="folder">4</container>
-            </did>
-          </c>
-          <c id="b9af556b93ad4ddb84cf9769bc809a96" level="file">
-            <did>
-              <unittitle>Assorted correspondence on publishing projects</unittitle>
-              <unitdate normal="1961/1968" type="inclusive">1961-1968</unitdate>
-              <container altrender="Half Ltr Document Storage Box" id="23de0213b94f38a4bce8588f886086c4" label="mixed materials [A0000000092963]" type="box">3</container>
-              <container id="3468c3ef81c3462e3ef85e58a1ac015f" parent="23de0213b94f38a4bce8588f886086c4" type="folder">5</container>
-            </did>
-            <scopecontent id="e9aea6d46eba781680893a282a46087a">
-              <head>Scope and Contents note</head>
-              <p>Dubos book; Pop Council volume: Oceanography volume</p>
-            </scopecontent>
-          </c>
-          <c id="aa04dab5cbcb49489141874cfbecf3e6" level="file">
-            <did>
-              <unittitle>Book on classical studies in Quantum Mechanics</unittitle>
-              <unitdate normal="1961/1961" type="inclusive">1961</unitdate>
-              <container altrender="Half Ltr Document Storage Box" id="900240de7bbc9158315b26109b0a162e" label="mixed materials [A0000000092963]" type="box">3</container>
-              <container id="a98b83268d428574477ff8f52e8b652b" parent="900240de7bbc9158315b26109b0a162e" type="folder">6</container>
-            </did>
-          </c>
-          <c id="5f790b7d4df441449c9bf7a0516c8a5b" level="file">
-            <did>
-              <unittitle>Consideration of publication of collection selected by Ludwig Edelstein</unittitle>
-              <unitdate normal="1962/1963" type="inclusive">1962-1963</unitdate>
-              <container altrender="Half Ltr Document Storage Box" id="b6c6d5954f75664352282ab0d37b62c6" label="mixed materials [A0000000092963]" type="box">3</container>
-              <container id="ec56a433adc97d79c1c7d063576d8e49" parent="b6c6d5954f75664352282ab0d37b62c6" type="folder">7</container>
-            </did>
-          </c>
-          <c id="40c6743671284cf3b581c2ebd0798a6c" level="file">
-            <did>
-              <unittitle>Consideration of a translation of Mach Erkenntnis und Irrtum</unittitle>
-              <unitdate normal="1965/1965" type="inclusive">1965</unitdate>
-              <container altrender="Half Ltr Document Storage Box" id="90211b397ad658ef85707492fbc1c4c3" label="mixed materials [A0000000092963]" type="box">3</container>
-              <container id="f1f572e8f10a2c7b87d5c657c26a6df3" parent="90211b397ad658ef85707492fbc1c4c3" type="folder">8</container>
-            </did>
-          </c>
-          <c id="d1bdb611fc8249eaba584592fe9fc0ac" level="file">
-            <did>
-              <unittitle>Consideration of publishing a translation of Contemporary Brain Research in China</unittitle>
-              <unitdate normal="1969/1969" type="inclusive">1969</unitdate>
-              <container altrender="Half Ltr Document Storage Box" id="b5bc4b1f0d772aa4d0ef82287ad1bdb5" label="mixed materials [A0000000092963]" type="box">3</container>
-              <container id="f7de112dfce821bf5eeaafa5ebcb7a4d" parent="b5bc4b1f0d772aa4d0ef82287ad1bdb5" type="folder">9</container>
-            </did>
-          </c>
-        </c>
-      </c>
-      <c id="daed1f18bcfa4b10ba4c521bcef7cf12" level="file">
-        <did>
-          <unittitle>Computer documentation</unittitle>
-          <unitdate normal="1983/1987" type="inclusive">1983-1987</unitdate>
-          <container altrender="Letter Document Storage Box" id="4c08893f10503c3a02de6d61ac7e0159" label="mixed materials [A0000000076854]" type="box">4</container>
-        </did>
-      </c>
-      <c id="b2ea75a7c07743a384d99eb667e3bd2a" level="file">
-        <did>
-          <unittitle>Rockefeller University Computing Services</unittitle>
-          <unitdate normal="1985/1987" type="inclusive">1985-1987</unitdate>
-          <container altrender="Letter Document Storage Box" id="7b5ce25fac8100925f67f3c4f02f367a" label="mixed materials [A0000000076854]" type="box">4</container>
-        </did>
-      </c>
-      <c id="5eacfe9004884706b32fcd03d07e0acb" level="file">
-        <did>
-          <unittitle>Computer related press clippings, articles, newsletters, press releases</unittitle>
-          <unitdate normal="1980/1988" type="inclusive">1980-1988</unitdate>
-          <container altrender="Letter Document Storage Box" id="361e800a6c291fd04f057caae7c3493d" label="mixed materials [A0000000076854]" type="box">4</container>
-        </did>
-        <accessrestrict id="0145a76306790063d961fd490f71e7cb">
-          <head>Conditions Governing Access</head>
-          <p>Closed to scholarly research.</p>
-        </accessrestrict>
-      </c>
-    </dsc>
-  </archdesc>
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="under_revision" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid>FA917.xml</eadid><filedesc><titlestmt><titleproper type="filing">Rockefeller University Press, Subject Files</titleproper><titleproper>A Guide to the Rockefeller University Press, Subject Files
+ <num>FA917</num></titleproper></titlestmt><publicationstmt><publisher>Rockefeller Archive Center</publisher><address><addressline>15 Dayton Avenue</addressline><addressline>Sleepy Hollow 10591</addressline><addressline>archive@rockarch.org</addressline><addressline>URL: <extptr xlink:href="http://www.rockarch.org" xlink:show="new" xlink:title="http://www.rockarch.org" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2019-03-14 02:55:35 -0400</date>.</creation><descrules>Describing Archives: A Content Standard</descrules></profiledesc><revisiondesc><date>2008 October 21</date><item>Paper finding aid converted to EAD/XML by AureXus in 2010. Imported into the Archvists’ Toolkit by Becky Robbins.</item></revisiondesc></eadheader><archdesc level="collection">
+  <did>
+    <langmaterial>
+      <language langcode="eng">English</language>
+    </langmaterial>
+    <repository>
+      <corpname>Rockefeller Archive Center</corpname>
+    </repository>
+    <unittitle>Rockefeller University Press, Subject Files</unittitle>
+    <origination label="creator">
+      <corpname role="aut" rules="dacs">Rockefeller University Press</corpname>
+    </origination>
+    <origination label="creator">
+      <corpname role="aut" source="naf">Rockefeller University</corpname>
+    </origination>
+    <origination label="creator">
+      <corpname role="aut" source="ingest">Rockefeller Institute for Medical Research.</corpname>
+    </origination>
+    <unitid>FA917</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">2.5 Cubic Feet</extent>
+      <extent altrender="carrier">4 boxes.</extent>
+    </physdesc>
+    <unitdate normal="1957/1988" type="inclusive">1957-1988</unitdate>
+    <physdesc id="e3af78b5313d4abaeb7ba49c56d6573c">4 boxes.</physdesc>
+  </did>
+  <bioghist id="b7272549cb1bf2400908ebdec1081728">
+    <head>Biographical/Historical note</head>
+<p>In order to assist in the dissemination of scientific investigations conducted at the Institute and elsewhere, publication was an early and important activity of The Rockefeller Institute for Medical Research. A senior member of the scientific staff was usually the editor of a periodical. As early as 1910 the Institute had a Publication Service, which was supervised from 1910 by Editha C. Campbell until she retired in the fall of 1940. A Department of Illustration and Photography was under a part-time arrangement with De. Eduard Learning from 1906 until 1910 when Louis Schmidt undertook the direction of a full-time department. Louis Schmidt was at the head of the department until he reached the age of 70 in 1936. The work in the Department of Illustrations included hand-drawn illustrations for publications, photographs, moving pictures of experimental procedures made for the various investigators and used for a variety of purposes. Louis Schmidt served on a consultant basis until his death in 1939. Joseph Blauvelt Haulenbeek was acting in charge of Illustrations during that time and named officially in charge of illustrations in 1942, serving until he resigned September 1, 1946. Julian Alexander Carlile who was in charge of illustrations in the Department of Animal and Plant Pathology at Princeton took charge of the New York Department starting October 1, 1947 and divided his time between the two departments until they were consolidated during 1950. He directed the expanding department until his death in 1959 when he was succeeded by Richard F. Carter until 1964. In the academic year 1968/1969 Lewis William Koster became Manager of Graphic Services until 1973. March 1973 Bill Leyrer was appointed to that position.</p><p>Florence M. Stewart succeeded Editha Campbell in charge of the Publication Service in 1940 and served until she retired June 30, 1963, when she was succeeded by Margaret E. Broadbent.</p><p>Effective January 1, 1957 Charles Irvin Campbell was appointed Administrative Associate for Information Services. He had responsibility for a variety of information services among which were Secretary of the Library Committee, Librarian, ex officio, and supervision of the Publication Service and Illustration and Duplicating Services. Included were publication duties of such items as the Annual Report, Rockefeller Institute Quarterly, and the Calendar of Events. On October 20, 1958 the Board of Trustees approved a cooperative arrangement with the Oxford University Press to assist in producing, advertising and selling publications of the newly established Rockefeller Institute Press. The plan was for the Institute to continue publishing journals in accord with previously established policy and arrangements. Charles I. Campbell was appointed Director of The Rockefeller Institute Press. The Publications Service became the Journals Department without change of personnel or function. A new Books and Reports Department was created with responsibility for the production of books and the publication of bulletins and reports issued by the Institute.</p><p>January 1, 1960 Reynard F. Biemiller was appointed Assistant Director of The Rockefeller Institute Press. Effective December 5, 1960 Raymond B. Griffiths was appointed to the newly created position of Executive Editor of the Journal of Cell Biology.</p><p>Charles I. Campbell resigned May 15, 1962 and Joseph G. Sutton served as Acting Director of the Press from January 1963 until in 1964 William Arthur Bayless was named Director of the Press.</p><p>William Bayless retired as Director of The Rockefeller University Press on February 8, 1980. As of February 11, 1980, Mrs. Helene Jordan agreed to serve as acting director of the Press.</p><p>Effective July 1, 1980, Mrs. Helene Jordan was appointed Director of The Rockefeller University Press.</p>  </bioghist>
+  <prefercite id="576f10f5cf321798a388c82a9ae3cecb">
+    <head>Preferred Citation note</head>
+<p>Information regarding the Rockefeller Archive Center's preferred elements and forms of citation can be found at <extref href="http://www.rockarch.org/research/citations.php">http://www.rockarch.org/research/citations.php</extref></p>  </prefercite>
+  <accessrestrict id="2c046dd69e2547b9e2a0f652aeb2aff6">
+    <head>Conditions Governing Access</head>
+<p>Collection is open for research with select materials restricted as noted. Brittle or damaged items are available at the discretion of RAC.</p>  </accessrestrict>
+  <fileplan id="a83bddd428690b2b8fa99b3c1bf4eb2b">
+    <head>File Plan note</head>
+<p>Former Classification: I 500 and I 501 (Boxes 1-3); I 501-U (Box 4).</p>  </fileplan>
+  <scopecontent id="1f5be94763a4f59cdd36655424060fdc">
+    <head>Scope and Contents</head>
+<p>Types of records include: subject files.</p>  </scopecontent>
+  <controlaccess>
+    <subject source="lcsh">Medical sciences</subject>
+    <subject source="lcsh">Medical education</subject>
+    <subject source="lcsh">Science -- Study and teaching</subject>
+    <subject source="lcsh">Medicine, Preventive</subject>
+    <subject source="lcsh">Medical research</subject>
+    <subject source="lcsh">Biology -- Research</subject>
+    <subject source="lcsh">Life sciences</subject>
+    <subject source="lcsh">Cell and biomolecular sciences</subject>
+    <subject source="lcsh">Medical technology</subject>
+  </controlaccess>
+  <dsc><c id="a213ab6ba83c45e68761dde0676cf2d9" level="otherlevel" otherlevel="Subject"><did><unittitle>Christmas Lectures</unittitle><unitdate normal="1958/1959" type="inclusive">1958-1959</unitdate><physdesc id="5a13d875dad61d3b21e225568d15c454">1 box (2½ inches)</physdesc></did><bioghist id="4bfa295ca8462e83012fafb9e3f74a3a"><head>Biographical/Historical note</head><p>In 1958 Dr. Mirsky presented the idea of holding lectures on science for high school students at the period during the Christmas holidays (based on the pattern of the Christmas Lectures at the Royal Institution in London). The first lecturer was René Dubos who spoke on "The Unseen World" which subsequently appeared as a book from The Rockefeller Institute Press.</p></bioghist><relatedmaterial id="5a8c2a0646b6a412754de8d4a58027fe"><head>Related Archival Materials note</head><p>For additional Christmas lecture material see the Alfred E. Mirsky Papers and the Christmas lecture file.</p></relatedmaterial><scopecontent id="65e3f4be3939d185bcc3e771c0aac92d"><head>Scope and Contents note</head><p>The material in this file deals primarily with correspondence and arrangements made to collect various films that were used for the lectures, the previews and opinions of the various films viewed, until the final decisions were made.</p></scopecontent><acqinfo id="5a84f95a9e10588cd66a58f6daefd897"><head>Immediate Source of Acquisition note</head><p>Date received or inventoried: November 1979</p></acqinfo><arrangement id="d8a1e9757f48c20d692e1180f46cb9c3"><head>Arrangement note</head><p>Arranged in three folders and one envelope.</p></arrangement><c id="5766a890bb814330b1add5ebf47c1da9" level="file"><did><unittitle>Correspondence on films</unittitle><container altrender="Half Ltr Document Storage Box" id="e441252dd38d70c9894c5dbac0828759" label="mixed materials [A0000000092961]" type="box">1</container><container id="ae4dfdb1338c22901958cbc3e24b850f" parent="e441252dd38d70c9894c5dbac0828759" type="folder">1-2</container></did></c><c id="c04f5f43d4cf4b2a961cb5dfed9b2651" level="file"><did><unittitle>List of students invited and school notices</unittitle><container altrender="Half Ltr Document Storage Box" id="09a95fc7a662c9d09dec87008734e81d" label="mixed materials [A0000000092961]" type="box">1</container><container id="3fe1a70c62797ca07982cc077472c27a" parent="09a95fc7a662c9d09dec87008734e81d" type="folder">3</container></did></c><c id="aec3ce09bfb24a60b42c342ddfa14929" level="file"><did><unittitle>School listings on cards</unittitle><physdesc id="1f88c8517a70f3ac2df84fa235ac5cf6">envelope</physdesc><container altrender="Half Ltr Document Storage Box" id="a660f78b4409ff7d57a1c5d63a7dd811" label="mixed materials [A0000000092961]" type="box">1</container></did></c></c><c id="0e5c0945cd164a928828a843ec07430f" level="otherlevel" otherlevel="Subject"><did><unittitle>Staff</unittitle><physdesc id="ec772cec76992cd9094b3904d0a4ccf5">1 folder</physdesc><container altrender="Letter Document Storage Box" id="6294b8d4ec56e9a3ebe9794d3789f5c1" label="mixed materials [A0000000092962]" type="box">2</container></did><scopecontent id="b63d424ec0deba5ee1bc6fd1ce84aa08"><head>Scope and Contents note</head><p>Photographs of William A. Bayless, director of the RU Press.</p><p>Photographs of Roynard Biemiller, Director of design and production</p></scopecontent><fileplan id="e7a6709b6c26281d440c3e30c0ff42b4"><head>File Plan note</head><p>Former Classification: I 500</p></fileplan><c id="b7ecd10719894ab699261ce53f96ce70" level="file"><did><unittitle>William A. Bayless</unittitle><unitdate>after 1963</unitdate></did><c id="95fb6b7c13ef46ba8c04e1842a65a221" level="item"><did><unittitle>Rous, Peyton. 6 letters to William Bayless</unittitle><unitdate normal="1964/1968" type="inclusive">1964-1968</unitdate><container altrender="Letter Document Storage Box" id="50a972fc22c28d1b9a27cabee4843d1d" label="mixed materials [A0000000092962]" type="box">2</container></did><scopecontent id="48c4caf03d0ab883b3b7a39db24515da"><head>Scope and Contents note</head><p>Includes (4 holograph) reprint from NATURE 207 (1965) "Viruses and tumor causation" and two obituary articles by J.S. Henderson: American Philosophical yearbook, 1971 (2 copies) and ARCHIVES OF PATHOLOGY 90 (1970).</p></scopecontent></c></c><c id="6fbeec4339b64ede8550711ef37d0b64" level="file"><did><unittitle>William A. Bayless - Biographical material and photographs</unittitle><unitdate normal="1964/1980" type="inclusive">1964-1980</unitdate><physdesc id="2a876d4c4c68c4f811aa5ef0a5b3cdcc">1 folder</physdesc><container altrender="Letter Document Storage Box" id="2328a96382b91238db8023c29c5a15ef" label="mixed materials [A0000000092962]" type="box">2</container></did><scopecontent id="b1cd38f27cac008e69b7230c15bfdad2"><head>Scope and Contents note</head><p>Photographs; announcements; biographical items.</p></scopecontent></c></c><c id="d770a2643cec4b3bbce00f0d6756a315" level="otherlevel" otherlevel="Subject"><did><unittitle>Subject Files</unittitle><unitdate normal="1964/1964" type="inclusive">1964-</unitdate></did><bioghist id="8b5a82846507253919977e2ac174f61d"><head>Biographical/Historical note</head><p>In 1964 William Bayless was named Director of the Rockefeller University Press.</p></bioghist><arrangement id="41b4c4265bda5f595c18e6aa025d6cd8"><head>Arrangement note</head><p>Arranged in alphabetical order by subject.</p></arrangement><acqinfo id="0f47ab78009c0588ec57be93b50dc3a6"><head>Immediate Source of Acquisition note</head><p>Date received or inventoried: 1978 and later</p></acqinfo><processinfo id="36ccc092bb241e47e9c4a6ce6c0dc977"><head>Processing Information note</head><p>From 1978 and later discreet subject files were sent to the Archives.</p></processinfo><c id="50e7c67ef5bc4d56b9a5c357cd9c8500" level="file"><did><unittitle>Dolce, Philip C., editor</unittitle><unitdate>1974 December-1975 September</unitdate><container altrender="Letter Document Storage Box" id="7bee644a4dab68fa4a296b8fd417208a" label="mixed materials [A0000000092962]" type="box">2</container></did><scopecontent id="dc3a1f2b33adb53aad643f9b23aec920"><head>Scope and Contents note</head><p>Between 1974 and 1975 there was consideration of a University Press publication called SCIENCE AND SOCIETY: A HUMANISTIC VIEW. This was to consist of selected portions from a CBS/TV series planned with the sponsorship of Bergen Community College with Philip C. Dolce as coordinator. The book was not published but the file consists of plans, programs with numerous revisions, grant proposal and correspondence.</p></scopecontent></c><c id="0523661f894a4491831d1c16c79231a7" level="file"><did><unittitle>Goudsmit, Samuel A</unittitle><unitdate normal="1964/1975" type="inclusive">1964-1975</unitdate><container altrender="Letter Document Storage Box" id="9b918fb5aa7e9aaa95d42c96aa3f5801" label="mixed materials [A0000000092962]" type="box">2</container></did><scopecontent id="d6420d63834b47d58968a3d5178ed8a0"><head>Scope and Contents note</head><p>Correspondence which also includes comments on the film "The Making of the Atom Bomb" transcript and edited versions of talk at the Seminar on Quantum Mechanics at American Institute of Physics on 6 October 1964; draft of article "The Physics Editor" [Correspondence re[? ] hieroglyph book].</p></scopecontent></c><c id="ae6ef6f3651045e68f32164e6566c6c8" level="file"><did><unittitle>Opie, Eugene L. - Chinese Medicine manuscript (photocopy) see also Bronk papers Rockefeller University subject file under "Opie"</unittitle><unitdate>1963-1970</unitdate><container altrender="Letter Document Storage Box" id="16c14777602bfcdefd76c39f6120c13f" label="mixed materials [A0000000092962]" type="box">2</container></did></c><c id="00875bfdfb914f1ebbcddc9439e816c1" level="file"><did><unittitle>Opie, Eugene L.- Correspondence about publication by the Rockefeller University Press of Dr. Opie's "Traditional Chinese Medicine"</unittitle><unitdate>1963-1970</unitdate><container altrender="Letter Document Storage Box" id="593a77f97c55e39f8fdb877ba83534e6" label="mixed materials [A0000000092962]" type="box">2</container></did><scopecontent id="5a7922047c7351634597a47a8ff2d69c"><head>Scope and Contents</head><p>Includes calculations of costs, comments regarding suitability for RU Press. Also includes photocopy of Opie article on founding of The Rockefeller Institute for Medical Research prepared for George W. Corner.</p></scopecontent></c><c id="3cc17b429b37446593e09d838700ac6d" level="file"><did><unittitle>Seitz, Frederick</unittitle><unitdate normal="1968/1977" type="inclusive">1968-1977</unitdate><physdesc id="c4ceda47f2eb0c24879b1c3475d8b9ce">2 folders</physdesc><container altrender="Letter Document Storage Box" id="1c4490220858bb0c49ced0c157d450b2" label="mixed materials [A0000000092962]" type="box">2</container></did><scopecontent id="11e6cc9725ac01ea7dc830c0cdab72ce"><head>Scope and Contents note</head><p>Primarily copies of correspondence and informational memoranda between William Bayless and Frederick Seitz dealing with publications, stationary and matters of production, Christmas Party invitations.</p><p>Items of special interest are listed below.</p></scopecontent><c id="2e0949baf4a64ae9b743139107826a18" level="file"><did><unittitle>Changes in faculty titles for fiscal year 1971</unittitle><unitdate>1969 July 22</unitdate><container altrender="Letter Document Storage Box" id="2761b064c617a324bacdd8eb9285b9ab" label="mixed materials [A0000000092962]" type="box">2</container></did></c><c id="5d1fe22449a74b48a146db1031af00ba" level="file"><did><unittitle>Copy of Commencement address at Cornell Medical College "Science in Public Crisis"</unittitle><unitdate>1970 June 2</unitdate><container altrender="Letter Document Storage Box" id="f395de19ff51fb43296b6646d143868e" label="mixed materials [A0000000092962]" type="box">2</container></did></c><c id="0ddea85b6b36460ab99712e83b899eaa" level="file"><did><unittitle>"Parable of the Far-sighted Scientist"</unittitle><unitdate>1970 June</unitdate><container altrender="Letter Document Storage Box" id="eaa52ddf6a08fce1668ef6aa9fcd3fd8" label="mixed materials [A0000000092962]" type="box">2</container></did></c></c><c id="464175aa4b614cd5af92f4e41d78b5f8" level="file"><did><unittitle>Charles Campbell; William Bayless</unittitle><unitdate normal="1957/1969" type="inclusive">1957-1969</unitdate><physdesc id="9f4fef319f901da1fbdbc18ec8122e26">1 box</physdesc></did><scopecontent id="8d2b7fd89072127fb91fd86e57f93e04"><head>Scope and Contents note</head><p>Subject files.</p></scopecontent><arrangement id="7efec84670b67708d2083c32b9db5cdc"><head>Arrangement note</head><p>Arranged in chronological order.</p></arrangement><acqinfo id="dfcfe22ae6790d58c41996a68c9d8f49"><head>Immediate Source of Acquisition note</head><p>Date received or inventoried: March 1980</p></acqinfo><c id="fcf57c5968e04ecb83ae8c7a120333e6" level="file"><did><unittitle>Rockefeller Institute for Medical Research Seal</unittitle><container altrender="Half Ltr Document Storage Box" id="7efed3149a4b5ae4e513c2e78a3f5638" label="mixed materials [A0000000092963]" type="box">3</container><container id="bea524104c36b8812f83284f119f91cb" parent="7efed3149a4b5ae4e513c2e78a3f5638" type="folder">1</container></did><scopecontent id="9f5bd62954b5caf7bee20181a118037f"><head>Scope and Contents note</head><p>Casting of original seal. Box bears stamp: Made by Florentine Mastercraft Studio 132 East 26th St. N.Y.C.</p></scopecontent></c><c id="8ba59869876c4d21a0ba3089a664a75e" level="file"><did><unittitle>Correspondence between Charles Campbell and Rudolph Ruzicka</unittitle><unitdate normal="1957/1961" type="inclusive">1957-1961</unitdate><container altrender="Half Ltr Document Storage Box" id="1abd34757f1cf371139ddea563a933d3" label="mixed materials [A0000000092963]" type="box">3</container><container id="ec336cebb47fa788d11f862f81999933" parent="1abd34757f1cf371139ddea563a933d3" type="folder">2</container></did><scopecontent id="5c4dfb0afd2e5cd8bf3a3d410a7504f0"><head>Scope and Contents note</head><p>Including a few letters from Douglas Whitaker, George Corner, Dr. William Robbins, Dr. Eugene L. Opie, Detlev Bronk and Robert Loeb dealing with designs submitted for new University seal and considerations for final decision. Included in the correspondence is a summary from the Minutes of meetings of the Board of Scientific Directors referring to the original seal and an explanation of the original design symbols.</p></scopecontent></c><c id="5481e19e3445469aaef1f84b856f7120" level="file"><did><unittitle>Rockefeller University Seal photographs and imprints of suggested designs</unittitle><container altrender="Half Ltr Document Storage Box" id="4c42e4f8f8a02f55aa5b864aa5f9c429" label="mixed materials [A0000000092963]" type="box">3</container><container id="9497883b90d93be24d46e832846d3010" parent="4c42e4f8f8a02f55aa5b864aa5f9c429" type="folder">3</container></did></c><c id="0fe49dde95f84e0baa397a1751f7e2d2" level="file"><did><unittitle>Correspondence on a textbook of Comparative histology. Dropped</unittitle><unitdate normal="1959/1962" type="inclusive">1959-1962</unitdate><container altrender="Half Ltr Document Storage Box" id="3c6094ee02f33c9c10269956d83cdc79" label="mixed materials [A0000000092963]" type="box">3</container><container id="fe7b1d492231bd6f5c592e02fe1ab46c" parent="3c6094ee02f33c9c10269956d83cdc79" type="folder">4</container></did></c><c id="b9af556b93ad4ddb84cf9769bc809a96" level="file"><did><unittitle>Assorted correspondence on publishing projects</unittitle><unitdate normal="1961/1968" type="inclusive">1961-1968</unitdate><container altrender="Half Ltr Document Storage Box" id="cbf0df50f5419742d07ebf787941afe8" label="mixed materials [A0000000092963]" type="box">3</container><container id="5dfee18d088fef318f5df33c50427942" parent="cbf0df50f5419742d07ebf787941afe8" type="folder">5</container></did><scopecontent id="e9aea6d46eba781680893a282a46087a"><head>Scope and Contents note</head><p>Dubos book; Pop Council volume: Oceanography volume</p></scopecontent></c><c id="aa04dab5cbcb49489141874cfbecf3e6" level="file"><did><unittitle>Book on classical studies in Quantum Mechanics</unittitle><unitdate normal="1961/1961" type="inclusive">1961</unitdate><container altrender="Half Ltr Document Storage Box" id="8916390b793821735bfbeea7df1ab0d1" label="mixed materials [A0000000092963]" type="box">3</container><container id="7d71a2acca39b3aae5bbda61c6580dc8" parent="8916390b793821735bfbeea7df1ab0d1" type="folder">6</container></did></c><c id="5f790b7d4df441449c9bf7a0516c8a5b" level="file"><did><unittitle>Consideration of publication of collection selected by Ludwig Edelstein</unittitle><unitdate normal="1962/1963" type="inclusive">1962-1963</unitdate><container altrender="Half Ltr Document Storage Box" id="ccc7a756ce1db2397144bb2d70b62e9c" label="mixed materials [A0000000092963]" type="box">3</container><container id="9cc501a3b691c95649802d207d8cddc8" parent="ccc7a756ce1db2397144bb2d70b62e9c" type="folder">7</container></did></c><c id="40c6743671284cf3b581c2ebd0798a6c" level="file"><did><unittitle>Consideration of a translation of Mach Erkenntnis und Irrtum</unittitle><unitdate normal="1965/1965" type="inclusive">1965</unitdate><container altrender="Half Ltr Document Storage Box" id="7725b3082289e591ed7de7eef62800bd" label="mixed materials [A0000000092963]" type="box">3</container><container id="cfa063c633f4bdb77ec3b570c1e81983" parent="7725b3082289e591ed7de7eef62800bd" type="folder">8</container></did></c><c id="d1bdb611fc8249eaba584592fe9fc0ac" level="file"><did><unittitle>Consideration of publishing a translation of Contemporary Brain Research in China</unittitle><unitdate normal="1969/1969" type="inclusive">1969</unitdate><container altrender="Half Ltr Document Storage Box" id="3e2891243e6a2dfe10cc4f9620d9087a" label="mixed materials [A0000000092963]" type="box">3</container><container id="e03e8505609ecc11bc5c2e212615cc4e" parent="3e2891243e6a2dfe10cc4f9620d9087a" type="folder">9</container></did></c></c></c><c id="daed1f18bcfa4b10ba4c521bcef7cf12" level="file"><did><unittitle>Computer documentation</unittitle><unitdate normal="1983/1987" type="inclusive">1983-1987</unitdate><container altrender="Letter Document Storage Box" id="4ec4b94405db4d2d39d72019c2ba2ea6" label="mixed materials [A0000000076854]" type="box">4</container></did></c><c id="b2ea75a7c07743a384d99eb667e3bd2a" level="file"><did><unittitle>Rockefeller University Computing Services</unittitle><unitdate normal="1985/1987" type="inclusive">1985-1987</unitdate><container altrender="Letter Document Storage Box" id="0f034ef6073d0e193248a312ca93daf6" label="mixed materials [A0000000076854]" type="box">4</container></did></c><c id="5eacfe9004884706b32fcd03d07e0acb" level="file"><did><unittitle>Computer related press clippings, articles, newsletters, press releases</unittitle><unitdate normal="1980/1988" type="inclusive">1980-1988</unitdate><container altrender="Letter Document Storage Box" id="24e39cef16cc7ac775d75079306c18e5" label="mixed materials [A0000000076854]" type="box">4</container></did><accessrestrict id="0145a76306790063d961fd490f71e7cb"><head>Conditions Governing Access</head><p>Closed to scholarly research.</p></accessrestrict></c></dsc>
+</archdesc>
 </ead>

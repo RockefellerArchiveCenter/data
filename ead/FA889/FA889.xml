@@ -1,159 +1,61 @@
-<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
-  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="under_revision" langencoding="iso639-2b" repositoryencoding="iso15511">
-    <eadid>FA889.xml</eadid>
-    <filedesc>
-      <titlestmt>
-        <titleproper type="filing">Rockefeller University records, Special Events and Activities, James G. Hirsch Memorial</titleproper>
-        <titleproper>A Guide to the Rockefeller University records, Special Events and Activities, James G. Hirsch Memorial
- <num>FA889</num></titleproper>
-      </titlestmt>
-      <publicationstmt>
-        <publisher>Rockefeller Archive Center</publisher>
-        <address>
-          <addressline>15 Dayton Avenue</addressline>
-          <addressline>Sleepy Hollow 10591</addressline>
-          <addressline>archive@rockarch.org</addressline>
-          <addressline>URL: <extptr xlink:href="http://www.rockarch.org" xlink:show="new" xlink:title="http://www.rockarch.org" xlink:type="simple"/></addressline>
-        </address>
-      </publicationstmt>
-    </filedesc>
-    <profiledesc>
-      <creation>This finding aid was produced using ArchivesSpace on <date>2018-06-19 00:07:31 -0400</date>.</creation>
-    </profiledesc>
-    <revisiondesc>
-      <date>2010 August 19</date>
-      <item>Paper finding aid converted to EAD/XML by AureXus in 2010. Imported into the Archvists’ Toolkit by Becky Robbins.</item>
-    </revisiondesc>
-  </eadheader>
-  <archdesc level="collection">
-    <did>
-      <langmaterial>
-        <language langcode="eng">English</language>
-      </langmaterial>
-      <repository>
-        <corpname>Rockefeller Archive Center</corpname>
-      </repository>
-      <unittitle>Rockefeller University records, Special Events and Activities, James G. Hirsch Memorial</unittitle>
-      <origination label="creator">
-        <corpname source="naf">Rockefeller Institute for Medical Research</corpname>
-      </origination>
-      <origination label="creator">
-        <corpname role="aut" source="naf">Rockefeller University</corpname>
-      </origination>
-      <unitid>FA889</unitid>
-      <physdesc altrender="whole">
-        <extent altrender="materialtype spaceoccupied">0.25 Cubic Feet</extent>
-        <extent altrender="carrier">One half-document box</extent>
-      </physdesc>
-      <unitdate normal="1987/1988" type="inclusive">1987-1988</unitdate>
-    </did>
-    <prefercite id="3a71bbde21db071305988daa705a9d85">
-      <head>Preferred Citation note</head>
-      <p>Information regarding the Rockefeller Archive Center's preferred elements and forms of citation can be found at <extref href="http://www.rockarch.org/research/citations.php">http://www.rockarch.org/research/citations.php</extref></p>
-    </prefercite>
-    <fileplan id="ea0e118e0ea180648c14476c0c661ee7">
-      <head>File Plan note</head>
-      <p>Former Classification: I 600-19</p>
-    </fileplan>
-    <bioghist id="529c3c2c63295df9282321e98793d75d">
-      <head>Biographical / Historical</head>
-      <p>James G. Hirsch (1922-1987) was associated with the RU from 1950-1987, when he left to become president of the Josiah Macy, Jr. Foundation. Professor and senior physician, Hirsch worked in tuberculosis with René Dubos and went on to discover phagocytin in white blood cells.</p>
-      <p>On December 7, 1987, a memorial was held in Hirsch's honor in Caspary Hall at the RU. Speakers included Clarence M. Connelly, Joshua Lederberg, Zanvil A. Cohn, George B. Mackaness, John T. Bruer, and Maxine F. Singer. There was also a scientific tribute held later that day. Speakers included Sally H. Zigmond, Seymour J. Klebanoff, Thomas P. Stossel, and Ira S. Mellman.</p>
-    </bioghist>
-    <scopecontent id="0daf01f05d425acd81b71e1c61c61b22">
-      <head>Scope and Contents</head>
-      <p>Includes primarily typed speeches given at memorial; also includes correspondence, and a photocopy of the program.</p>
-    </scopecontent>
-    <arrangement id="c7cc0230ddff44cae9d9b1198262e5cd">
-      <head>Arrangement</head>
-      <p>Alphabetical</p>
-    </arrangement>
-    <accessrestrict id="883d0b266a142009e99b36649600789d">
-      <head>Conditions Governing Access</head>
-      <p>Collection is open for research with select materials restricted as noted. Brittle or damaged items are available at the discretion of RAC.</p>
-    </accessrestrict>
-    <processinfo id="50833d6c26e13569637aee312b2f792d">
-      <head>Processing Information</head>
-      <p>Initial processing: BJG, 1988 January 28. Additional processing, 2017</p>
-    </processinfo>
-    <controlaccess>
-      <subject source="lcsh">DNA</subject>
-      <subject source="lcsh">Medicine, Preventive</subject>
-      <subject source="lcsh">Medical care</subject>
-      <subject source="lcsh">Biology -- Research</subject>
-      <subject source="lcsh">Vivisection</subject>
-      <subject source="lcsh">Medical sciences</subject>
-      <subject source="lcsh">Medical research</subject>
-      <geogname source="lcsh">China</geogname>
-      <subject source="lcsh">Genetics</subject>
-      <subject source="lcsh">Cell and biomolecular sciences</subject>
-      <persname source="naf">McCarty, Maclyn</persname>
-    </controlaccess>
-    <dsc>
-      <c id="d0c388f41f1941d595002d2d3f103c7d" level="file">
-        <did>
-          <unittitle>John R. Bruer Remarks</unittitle>
-          <unitdate normal="1987/1987" type="inclusive">1987</unitdate>
-          <container altrender="Half Ltr Document Storage Box" id="ad6f27201a50c69ec598c315ac60dffa" label="mixed materials [A0000000089713]" type="box">1</container>
-          <container id="4aa61b9f53d8f1b7b6fbb30c99d3d097" parent="ad6f27201a50c69ec598c315ac60dffa" type="folder">1</container>
-        </did>
-      </c>
-      <c id="94fada655ded4ccabc95a1c04a50ad42" level="file">
-        <did>
-          <unittitle>Clarence Connelly Remarks</unittitle>
-          <unitdate normal="1987/1987" type="inclusive">1987</unitdate>
-          <container altrender="Half Ltr Document Storage Box" id="17dcee5e4b0e542c73ce3bc65d74fcf3" label="mixed materials [A0000000089713]" type="box">1</container>
-          <container id="93c51b69d560b7316e9de82f470f1815" parent="17dcee5e4b0e542c73ce3bc65d74fcf3" type="folder">2</container>
-        </did>
-      </c>
-      <c id="a08d21fe36fe49a38f98d94f6a4e831f" level="file">
-        <did>
-          <unittitle>George B. Mackaness Remarks</unittitle>
-          <unitdate normal="1987/1987" type="inclusive">1987</unitdate>
-          <container altrender="Half Ltr Document Storage Box" id="4febad7b27dd3132a710107dd4ef3d00" label="mixed materials [A0000000089713]" type="box">1</container>
-          <container id="ce2497685b4b357a967739b47f4137a9" parent="4febad7b27dd3132a710107dd4ef3d00" type="folder">3</container>
-        </did>
-      </c>
-      <c id="5b1ed36ba36646ad940010c4efe9aebc" level="file">
-        <did>
-          <unittitle>Program</unittitle>
-          <unitdate normal="1987/1987" type="inclusive">1987</unitdate>
-          <container altrender="Half Ltr Document Storage Box" id="aca5fa033d5ed3d134e8fc6929e1163b" label="mixed materials [A0000000089713]" type="box">1</container>
-          <container id="ca84b98349739c3e35c457643fd8124e" parent="aca5fa033d5ed3d134e8fc6929e1163b" type="folder">4</container>
-        </did>
-      </c>
-      <c id="5cab445fa0084646901c8834cc9a9d68" level="file">
-        <did>
-          <unittitle>Maxine F. Singer Remarks</unittitle>
-          <unitdate normal="1987/1987" type="inclusive">1987</unitdate>
-          <container altrender="Half Ltr Document Storage Box" id="8738662c56dcffb6591196cfcd36df4c" label="mixed materials [A0000000089713]" type="box">1</container>
-          <container id="afded265d7fa933cd097e46933dbd266" parent="8738662c56dcffb6591196cfcd36df4c" type="folder">5</container>
-        </did>
-      </c>
-      <c id="29d2555f909942ffa1e62e826ea3fcfa" level="file">
-        <did>
-          <unittitle>Scientific tribute</unittitle>
-          <unitdate normal="1987/1987" type="inclusive">1987</unitdate>
-          <physdesc id="4ca83ad6a3ee03114be157edf03aaebb">2 VHS cassettes</physdesc>
-          <container altrender="Half Ltr Document Storage Box" id="0ace28b9f36c4a21ab6d6703ad0dcbc6" label="mixed materials [A0000000089713]" type="box">1</container>
-        </did>
-        <accessrestrict id="96155eedad205e3b6e3d876b08b5aebb">
-          <head>Conditions Governing Access</head>
-          <p>RAC is unable to provide access to obsolete media. When feasible, a digital surrogate may be created via special order. All applicable charges will apply. See RAC Head of Archival Services or RAC Head of Digital Programs for details.</p>
-        </accessrestrict>
-      </c>
-      <c id="1cae38b26d1d4f15aa14a4f69df28227" level="file">
-        <did>
-          <unittitle>Scientific tribute</unittitle>
-          <unitdate normal="1987/1987" type="inclusive">1987</unitdate>
-          <physdesc id="a7e4d250c7c0a9efbc4b254a36822f18">3 audio cassettes</physdesc>
-          <container altrender="Half Ltr Document Storage Box" id="154c36668e8656e6283fd25a67b5aa10" label="mixed materials [A0000000089713]" type="box">1</container>
-        </did>
-        <accessrestrict id="440e36fa6ceb3a93fbec89f34d7d748d">
-          <head>Conditions Governing Access</head>
-          <p>RAC is unable to provide access to obsolete media. When feasible, a digital surrogate may be created via special order. All applicable charges will apply. See RAC Head of Archival Services or RAC Head of Digital Programs for details.</p>
-        </accessrestrict>
-      </c>
-    </dsc>
-  </archdesc>
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="under_revision" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid>FA889.xml</eadid><filedesc><titlestmt><titleproper type="filing">Rockefeller University records, Special Events and Activities, James G. Hirsch Memorial</titleproper><titleproper>A Guide to the Rockefeller University records, Special Events and Activities, James G. Hirsch Memorial
+ <num>FA889</num></titleproper></titlestmt><publicationstmt><publisher>Rockefeller Archive Center</publisher><address><addressline>15 Dayton Avenue</addressline><addressline>Sleepy Hollow 10591</addressline><addressline>archive@rockarch.org</addressline><addressline>URL: <extptr xlink:href="http://www.rockarch.org" xlink:show="new" xlink:title="http://www.rockarch.org" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2019-03-14 02:49:16 -0400</date>.</creation></profiledesc><revisiondesc><date>2010 August 19</date><item>Paper finding aid converted to EAD/XML by AureXus in 2010. Imported into the Archvists’ Toolkit by Becky Robbins.</item></revisiondesc></eadheader><archdesc level="collection">
+  <did>
+    <langmaterial>
+      <language langcode="eng">English</language>
+    </langmaterial>
+    <repository>
+      <corpname>Rockefeller Archive Center</corpname>
+    </repository>
+    <unittitle>Rockefeller University records, Special Events and Activities, James G. Hirsch Memorial</unittitle>
+    <origination label="creator">
+      <corpname source="naf">Rockefeller Institute for Medical Research</corpname>
+    </origination>
+    <origination label="creator">
+      <corpname role="aut" source="naf">Rockefeller University</corpname>
+    </origination>
+    <unitid>FA889</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">0.25 Cubic Feet</extent>
+      <extent altrender="carrier">One half-document box</extent>
+    </physdesc>
+    <unitdate normal="1987/1988" type="inclusive">1987-1988</unitdate>
+  </did>
+  <prefercite id="3a71bbde21db071305988daa705a9d85">
+    <head>Preferred Citation note</head>
+<p>Information regarding the Rockefeller Archive Center's preferred elements and forms of citation can be found at <extref href="http://www.rockarch.org/research/citations.php">http://www.rockarch.org/research/citations.php</extref></p>  </prefercite>
+  <fileplan id="ea0e118e0ea180648c14476c0c661ee7">
+    <head>File Plan note</head>
+<p>Former Classification: I 600-19</p>  </fileplan>
+  <bioghist id="529c3c2c63295df9282321e98793d75d">
+    <head>Biographical / Historical</head>
+<p>James G. Hirsch (1922-1987) was associated with the RU from 1950-1987, when he left to become president of the Josiah Macy, Jr. Foundation. Professor and senior physician, Hirsch worked in tuberculosis with René Dubos and went on to discover phagocytin in white blood cells.</p><p>On December 7, 1987, a memorial was held in Hirsch's honor in Caspary Hall at the RU. Speakers included Clarence M. Connelly, Joshua Lederberg, Zanvil A. Cohn, George B. Mackaness, John T. Bruer, and Maxine F. Singer. There was also a scientific tribute held later that day. Speakers included Sally H. Zigmond, Seymour J. Klebanoff, Thomas P. Stossel, and Ira S. Mellman.</p>  </bioghist>
+  <scopecontent id="0daf01f05d425acd81b71e1c61c61b22">
+    <head>Scope and Contents</head>
+<p>Includes primarily typed speeches given at memorial; also includes correspondence, and a photocopy of the program.</p>  </scopecontent>
+  <arrangement id="c7cc0230ddff44cae9d9b1198262e5cd">
+    <head>Arrangement</head>
+<p>Alphabetical</p>  </arrangement>
+  <accessrestrict id="883d0b266a142009e99b36649600789d">
+    <head>Conditions Governing Access</head>
+<p>Collection is open for research with select materials restricted as noted. Brittle or damaged items are available at the discretion of RAC.</p>  </accessrestrict>
+  <processinfo id="50833d6c26e13569637aee312b2f792d">
+    <head>Processing Information</head>
+<p>Initial processing: BJG, 1988 January 28. Additional processing, 2017</p>  </processinfo>
+  <controlaccess>
+    <subject source="lcsh">DNA</subject>
+    <subject source="lcsh">Medicine, Preventive</subject>
+    <subject source="lcsh">Medical care</subject>
+    <subject source="lcsh">Biology -- Research</subject>
+    <subject source="lcsh">Vivisection</subject>
+    <subject source="lcsh">Medical sciences</subject>
+    <subject source="lcsh">Medical research</subject>
+    <geogname source="lcsh">China</geogname>
+    <subject source="lcsh">Genetics</subject>
+    <subject source="lcsh">Cell and biomolecular sciences</subject>
+    <persname source="naf">McCarty, Maclyn</persname>
+  </controlaccess>
+  <dsc><c id="d0c388f41f1941d595002d2d3f103c7d" level="file"><did><unittitle>John R. Bruer Remarks</unittitle><unitdate normal="1987/1987" type="inclusive">1987</unitdate><container altrender="Half Ltr Document Storage Box" id="90c119e6f9d3ef528171c822a9a87218" label="mixed materials [A0000000089713]" type="box">1</container><container id="49b5c13612734c3f94c17f40e88425e6" parent="90c119e6f9d3ef528171c822a9a87218" type="folder">1</container></did></c><c id="94fada655ded4ccabc95a1c04a50ad42" level="file"><did><unittitle>Clarence Connelly Remarks</unittitle><unitdate normal="1987/1987" type="inclusive">1987</unitdate><container altrender="Half Ltr Document Storage Box" id="02ac8f6b208e0107e003534903a10f75" label="mixed materials [A0000000089713]" type="box">1</container><container id="ab4e59eb59364e39a3950fcc09d3cc4d" parent="02ac8f6b208e0107e003534903a10f75" type="folder">2</container></did></c><c id="a08d21fe36fe49a38f98d94f6a4e831f" level="file"><did><unittitle>George B. Mackaness Remarks</unittitle><unitdate normal="1987/1987" type="inclusive">1987</unitdate><container altrender="Half Ltr Document Storage Box" id="d19d4db350ac6c266dba2428c3a90461" label="mixed materials [A0000000089713]" type="box">1</container><container id="0980e907c19f2b96526bdbbedd3a2378" parent="d19d4db350ac6c266dba2428c3a90461" type="folder">3</container></did></c><c id="5b1ed36ba36646ad940010c4efe9aebc" level="file"><did><unittitle>Program</unittitle><unitdate normal="1987/1987" type="inclusive">1987</unitdate><container altrender="Half Ltr Document Storage Box" id="b85b93c54acc2e21647bdf20d700a6ec" label="mixed materials [A0000000089713]" type="box">1</container><container id="9715b286395ed2f1e2854f7ff433f3f1" parent="b85b93c54acc2e21647bdf20d700a6ec" type="folder">4</container></did></c><c id="5cab445fa0084646901c8834cc9a9d68" level="file"><did><unittitle>Maxine F. Singer Remarks</unittitle><unitdate normal="1987/1987" type="inclusive">1987</unitdate><container altrender="Half Ltr Document Storage Box" id="2ccf297f064cc6daf02ac89a287fb912" label="mixed materials [A0000000089713]" type="box">1</container><container id="83df7592c27baebdcb2e1f2a6e8970e9" parent="2ccf297f064cc6daf02ac89a287fb912" type="folder">5</container></did></c><c id="29d2555f909942ffa1e62e826ea3fcfa" level="file"><did><unittitle>Scientific tribute</unittitle><unitdate normal="1987/1987" type="inclusive">1987</unitdate><physdesc id="4ca83ad6a3ee03114be157edf03aaebb">2 VHS cassettes</physdesc><container altrender="Half Ltr Document Storage Box" id="2e2db8b1259156fb375b28a7f62eac40" label="mixed materials [A0000000089713]" type="box">1</container></did><accessrestrict id="96155eedad205e3b6e3d876b08b5aebb"><head>Conditions Governing Access</head><p>RAC is unable to provide access to obsolete media. When feasible, a digital surrogate may be created via special order. All applicable charges will apply. See RAC Head of Archival Services or RAC Head of Digital Programs for details.</p></accessrestrict></c><c id="1cae38b26d1d4f15aa14a4f69df28227" level="file"><did><unittitle>Scientific tribute</unittitle><unitdate normal="1987/1987" type="inclusive">1987</unitdate><physdesc id="a7e4d250c7c0a9efbc4b254a36822f18">3 audio cassettes</physdesc><container altrender="Half Ltr Document Storage Box" id="037e355df87f0448da4206adf30849d3" label="mixed materials [A0000000089713]" type="box">1</container></did><accessrestrict id="440e36fa6ceb3a93fbec89f34d7d748d"><head>Conditions Governing Access</head><p>RAC is unable to provide access to obsolete media. When feasible, a digital surrogate may be created via special order. All applicable charges will apply. See RAC Head of Archival Services or RAC Head of Digital Programs for details.</p></accessrestrict></c></dsc>
+</archdesc>
 </ead>

@@ -1,398 +1,51 @@
-<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
-  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="under_revision" langencoding="iso639-2b" repositoryencoding="iso15511">
-    <eadid>FA216.xml</eadid>
-    <filedesc>
-      <titlestmt>
-        <titleproper type="filing">Rockefeller University records, Accounting Service</titleproper>
-        <titleproper>A Guide to the Rockefeller University records, Accounting Service
- <num>FA216</num></titleproper>
-      </titlestmt>
-      <publicationstmt>
-        <publisher>Rockefeller Archive Center</publisher>
-        <address>
-          <addressline>15 Dayton Avenue</addressline>
-          <addressline>Sleepy Hollow 10591</addressline>
-          <addressline>archive@rockarch.org</addressline>
-          <addressline>URL: <extptr xlink:href="http://www.rockarch.org" xlink:show="new" xlink:title="http://www.rockarch.org" xlink:type="simple"/></addressline>
-        </address>
-      </publicationstmt>
-    </filedesc>
-    <profiledesc>
-      <creation>This finding aid was produced using ArchivesSpace on <date>2018-03-17 00:15:19 -0400</date>.</creation>
-    </profiledesc>
-    <revisiondesc>
-      <change>
-        <date>2010 October 8</date>
-        <item>Paper finding aid converted to EAD/XML by AureXus in 2010. Imported into the Archvists’ Toolkit by Becky Robbins.</item>
-      </change>
-    </revisiondesc>
-  </eadheader>
-  <archdesc level="collection">
-    <did>
-      <langmaterial>
-        <language langcode="eng">English</language>
-      </langmaterial>
-      <repository>
-        <corpname>Rockefeller Archive Center</corpname>
-      </repository>
-      <unittitle>Rockefeller University records, Accounting Service</unittitle>
-      <origination label="creator">
-        <corpname role="aut" source="naf">Rockefeller University</corpname>
-      </origination>
-      <origination label="creator">
-        <corpname role="ctb" source="naf">Rockefeller Institute for Medical Research</corpname>
-      </origination>
-      <unitid>FA216</unitid>
-      <physdesc altrender="whole">
-        <extent altrender="materialtype spaceoccupied">5.24 Cubic Feet</extent>
-        <extent altrender="carrier">5 boxes</extent>
-      </physdesc>
-      <unitdate normal="1901/1930" type="inclusive">1901-1930</unitdate>
-      <physdesc id="9fdd69bf1b73b7edf9d180855cb7f078">4 5" hollingers &amp; 1 2½" hollinger.</physdesc>
-    </did>
-    <acqinfo id="3c64b7c87398405728dc14f0b4e46bf1">
-      <head>Immediate Source of Acquisition</head>
-      <p>Received from Accounting Service in February 1981.</p>
-    </acqinfo>
-    <scopecontent id="93348d47fb473d5e0fcb08509d2ddda1">
-      <head>Scope and Contents note</head>
-      <p>These boxes contain account books, cash books, check books, journal and ledger books, and also notebooks.</p>
-      <p>The notebooks also appear to be concerned with experiments (especially scientific solutions) rather than money. Cross-references have been made in the card catalog under the person's name.</p>
-    </scopecontent>
-    <arrangement id="e90fa45f992ec09aec9781474bedbcf2">
-      <head>Arrangement note</head>
-      <p>Arranged in chronological order with the exception of the notebooks, which are arranged according to the person's name. The dates are not always in perfect order - ie, the Cash books overlap each other (See Box 2, Folders 3-4).</p>
-    </arrangement>
-    <fileplan id="ada2e7484523cb84bba95ff41274f7ae">
-      <head>File Plan note</head>
-      <p>Former Classification: I 280</p>
-    </fileplan>
-    <accessrestrict id="88770cab28321847b6cbe9bf2796f7d6">
-      <head>Conditions Governing Access note</head>
-      <p>Open for researchd. Brittle or damaged items are available at the discretion of RAC.</p>
-    </accessrestrict>
-    <prefercite id="1a2e5a55c14ab8fd55d13376c5a3abdb">
-      <head>Preferred Citation</head>
-      <p>Information regarding the Rockefeller Archive Center's preferred elements and forms of citation can be found at <extref href="http://www.rockarch.org/research/citations.php">http://www.rockarch.org/research/citations.php</extref></p>
-    </prefercite>
-    <controlaccess>
-      <subject source="lcsh">Medicine, Preventive</subject>
-      <subject source="lcsh">Medical sciences</subject>
-      <subject source="lcsh">Medical research</subject>
-    </controlaccess>
-    <dsc>
-      <c id="c1ecbd59b13a403f916a7f86115e594b" level="file">
-        <did>
-          <unittitle>Account and Cash Books</unittitle>
-        </did>
-        <c id="e20656d833994de4bf6f9d36e8975ca8" level="file">
-          <did>
-            <unittitle>Account Books. The Corn Exchange Bank, Lexington Branch, New York</unittitle>
-            <unitdate normal="1915/1928" type="inclusive">1915 February 15-1928 January 21</unitdate>
-            <container altrender="Letter Document Storage Box" id="4fa22fc064878f3b94c28547f309d387" label="mixed materials [A0000000066886]" type="box">1</container>
-            <container id="db75ba4c1a7afb1785a92dde03ae066c" parent="4fa22fc064878f3b94c28547f309d387" type="folder">1</container>
-          </did>
-        </c>
-        <c id="a006735cdfb348cfbbe50af545814585" level="file">
-          <did>
-            <unittitle>Account Book. The Corn Exchange Bank, Lexington Branch, New York</unittitle>
-            <unitdate normal="1922/1926" type="inclusive">1922 June 30-1926 April 30</unitdate>
-            <container altrender="Letter Document Storage Box" id="b99db827d21a21939c0bfac305056b2a" label="mixed materials [A0000000066886]" type="box">1</container>
-            <container id="655e47482cb01f8ce199a53fb405b2b5" parent="b99db827d21a21939c0bfac305056b2a" type="folder">2</container>
-          </did>
-        </c>
-        <c id="25c1f70af27a426583725e08ce9ca4c3" level="file">
-          <did>
-            <unittitle>Account Book. The Corn Exchange Bank, Lexington Branch, New York. Payroll Account</unittitle>
-            <unitdate normal="1926/1929" type="inclusive">1926 February 13-1929 January 29</unitdate>
-            <container altrender="Letter Document Storage Box" id="734fb749d60d62f569f9b1e0d1c24b49" label="mixed materials [A0000000066886]" type="box">1</container>
-            <container id="dad9077a160ea653a2ce3b906c8457f4" parent="734fb749d60d62f569f9b1e0d1c24b49" type="folder">3</container>
-          </did>
-        </c>
-        <c id="e1cf6176df13457c89220843c30b1dc4" level="file">
-          <did>
-            <unittitle>Account Book. The Corn Exchange Bank, Lexington Branch, New York</unittitle>
-            <unitdate normal="1926/1930" type="inclusive">1926 May 1-1930 June 30</unitdate>
-            <container altrender="Letter Document Storage Box" id="44f221fe2f83e8d21d272da963bd9cf2" label="mixed materials [A0000000066886]" type="box">1</container>
-            <container id="25d6a64e63ee0944d90040b35e01dc16" parent="44f221fe2f83e8d21d272da963bd9cf2" type="folder">4</container>
-          </did>
-        </c>
-        <c id="48c6a4330b504e04879bf98cd86a1914" level="file">
-          <did>
-            <unittitle>Account Book. The Corn Exchange Bank, Lexington Branch, New York. A.D. Robertson, Bursar's Special Account</unittitle>
-            <unitdate normal="1928/1928" type="inclusive">1928</unitdate>
-            <container altrender="Letter Document Storage Box" id="c6ac2170625a7dd26d07da6cb7179a9c" label="mixed materials [A0000000066886]" type="box">1</container>
-            <container id="29863aed48fada8cb3caee2e0f9c2bdf" parent="c6ac2170625a7dd26d07da6cb7179a9c" type="folder">5</container>
-          </did>
-        </c>
-        <c id="815d37196c844fab8dd280b4bfe632c4" level="file">
-          <did>
-            <unittitle>Account Book. Princeton Bank and Trust Company, Princeton, New Jersey</unittitle>
-            <unitdate normal="1917/1927" type="inclusive">1917 March 9-1927 June 19</unitdate>
-            <container altrender="Letter Document Storage Box" id="2592648268351cdc023c8edd5da39dd7" label="mixed materials [A0000000066886]" type="box">1</container>
-            <container id="bb0dad9382ee68c23c4ae15b38fcee74" parent="2592648268351cdc023c8edd5da39dd7" type="folder">6</container>
-          </did>
-        </c>
-        <c id="da994face16c4a50ac421c550b1f466a" level="file">
-          <did>
-            <unittitle>Account Book. Princeton Bank and Trust Company, Princeton, New Jersey. Payroll Account</unittitle>
-            <unitdate normal="1926/1928" type="inclusive">1926 April 13-1928 June 27</unitdate>
-            <container altrender="Letter Document Storage Box" id="ee13365289d1a49f7244f2bd10542af9" label="mixed materials [A0000000066886]" type="box">1</container>
-            <container id="55aa910d2cb1a44e04ba00fa18accc3b" parent="ee13365289d1a49f7244f2bd10542af9" type="folder">7</container>
-          </did>
-        </c>
-        <c id="88c9554018e74f67827e529b41fa6564" level="file">
-          <did>
-            <unittitle>Cash Book. Cover: "Institute Acct. March 1906-August 1907"</unittitle>
-            <unitdate normal="1906/1907" type="inclusive">1906-1907 August</unitdate>
-            <physdesc id="d6f2ad3023b55a2eae8721acedde2f24">168 pp.</physdesc>
-            <container altrender="Letter Document Storage Box" id="178dcb3c7f00519a322e11c194a98f6a" label="mixed materials [A0000000066886]" type="box">1</container>
-            <container id="47d31fc70164cd402d051d4513c66fc3" parent="178dcb3c7f00519a322e11c194a98f6a" type="folder">8</container>
-          </did>
-        </c>
-        <c id="af327b8483cb4d9ca49f44fd126d70bf" level="file">
-          <did>
-            <unittitle>Cash Book. Cover: "Board of Health 1906"</unittitle>
-            <unitdate normal="1905/1907" type="inclusive">1905-1907</unitdate>
-            <physdesc id="cbfc0ff9597cc8081c3130757c606c05">7 pp. entries</physdesc>
-            <container altrender="Letter Document Storage Box" id="3e442c8eca845deb54103f5901980351" label="mixed materials [A0000000066886]" type="box">1</container>
-            <container id="53f823909122b83aead572c4b4f7d549" parent="3e442c8eca845deb54103f5901980351" type="folder">9</container>
-          </did>
-          <scopecontent id="1e36cd2862dbc6de281a4d0d0f75696f">
-            <head>Scope and Contents note</head>
-            <p>Includes 19 pp. insert (loose, some half-size) bills &amp; expense statements.</p>
-          </scopecontent>
-        </c>
-        <c id="05fb2ad444914276b605bb8e316a5c71" level="file">
-          <did>
-            <unittitle>Cash Book. Petty Cash, Institute Account</unittitle>
-            <unitdate normal="1904/1906" type="inclusive">1904 October-1906 February</unitdate>
-            <container altrender="Letter Document Storage Box" id="7e4e8b9f2df309d1de099051584dff05" label="mixed materials [A0000000066886]" type="box">1</container>
-            <container id="9ee017c9d466b9afbf29bed0f0be2a0e" parent="7e4e8b9f2df309d1de099051584dff05" type="folder">10</container>
-          </did>
-        </c>
-        <c id="a01384b44aa646a79a4450dad7698b4f" level="file">
-          <did>
-            <unittitle>Cash Book. Petty Cash</unittitle>
-            <unitdate normal="1908/1909" type="inclusive">1908 April-1909 March</unitdate>
-            <container altrender="Letter Document Storage Box" id="39b01b88b8c465797cfe7f1d9f7f5cca" label="mixed materials [A0000000066886]" type="box">1</container>
-            <container id="ceb738a21eaf05aab7fac867eb49c7ac" parent="39b01b88b8c465797cfe7f1d9f7f5cca" type="folder">11</container>
-          </did>
-        </c>
-        <c id="d03d2778ce594e6b9292ee4e678afcc1" level="file">
-          <did>
-            <unittitle>Cash Book. Hospital, Petty Cash</unittitle>
-            <unitdate normal="1908/1910" type="inclusive">1908 October 12-1910 September 26</unitdate>
-            <physdesc id="d917367b4240d126d8568628bff438b6">(4 pp. entries)</physdesc>
-            <container altrender="Letter Document Storage Box" id="b2c4e459b6280ccee2c9c7c6eacc99ff" label="mixed materials [A0000000066886]" type="box">1</container>
-            <container id="b8007bd3ccae5a1c516940ae8fdc696d" parent="b2c4e459b6280ccee2c9c7c6eacc99ff" type="folder">12</container>
-          </did>
-        </c>
-      </c>
-      <c id="fc051c98e6594c0f994bdab5d4d3a5bf" level="file">
-        <did>
-          <unittitle>Cash and Check Books</unittitle>
-        </did>
-        <c id="df1c912520b64d279c028788a4bb71b1" level="file">
-          <did>
-            <unittitle>Cash Book</unittitle>
-            <unitdate normal="1910/1910" type="inclusive">1910 April 1-1910 December 30</unitdate>
-            <container altrender="Letter Document Storage Box" id="ceef75a1536d1bf3da880ea29e99f562" label="mixed materials [A0000000066887]" type="box">2</container>
-            <container id="d0316a8c5490ec3c4013fcd0f3b604ae" parent="ceef75a1536d1bf3da880ea29e99f562" type="folder">1</container>
-          </did>
-        </c>
-        <c id="4960b7e771bb4ee0aa6c3dcce3076369" level="file">
-          <did>
-            <unittitle>Cash Book. Petty Cash</unittitle>
-            <unitdate normal="1916/1917" type="inclusive">1916 November 4-1917 June 30</unitdate>
-            <container altrender="Letter Document Storage Box" id="ff09bec4eddbb7f23aa28af01e17cbfa" label="mixed materials [A0000000066887]" type="box">2</container>
-            <container id="9a9c9f801cc20d18915cc047fc7b60ac" parent="ff09bec4eddbb7f23aa28af01e17cbfa" type="folder">2</container>
-          </did>
-        </c>
-        <c id="4f28ea09eec24a638c62380a70b27ffa" level="file">
-          <did>
-            <unittitle>Cash Book</unittitle>
-            <unitdate normal="1917/1918" type="inclusive">1917 August 24-1918 December 23</unitdate>
-            <container altrender="Letter Document Storage Box" id="c944e47599f22dd7babc835120307ba7" label="mixed materials [A0000000066887]" type="box">2</container>
-            <container id="c826eb8efe3944d689b0221759dbc17d" parent="c944e47599f22dd7babc835120307ba7" type="folder">3</container>
-          </did>
-        </c>
-        <c id="0e0e2599f3ce4370a9b15fdafe3beda6" level="file">
-          <did>
-            <unittitle>Cash Book</unittitle>
-            <unitdate normal="1917/1918" type="inclusive">1917 June 21-1918 March 15</unitdate>
-            <container altrender="Letter Document Storage Box" id="7d259faf87cd5b5ef3b66190aeb8fcab" label="mixed materials [A0000000066887]" type="box">2</container>
-            <container id="dd360e28b5dea23c803558165c440c9e" parent="7d259faf87cd5b5ef3b66190aeb8fcab" type="folder">4</container>
-          </did>
-        </c>
-        <c id="0eda7d52a58347fdbc7d07cbae93e112" level="file">
-          <did>
-            <unittitle>Cash Book. Inside Cover</unittitle>
-            <unitdate normal="1918/1919" type="inclusive">1918 December 18-1919 December 31</unitdate>
-            <physdesc id="693c2f190bce558a8fbd5cd6689647e4">180 pp.</physdesc>
-            <container altrender="Letter Document Storage Box" id="bb7c15fdafc1bd4981006410ee9afd18" label="mixed materials [A0000000066887]" type="box">2</container>
-            <container id="6a20a42aa7008f82952610b00b8e6890" parent="bb7c15fdafc1bd4981006410ee9afd18" type="folder">5</container>
-          </did>
-        </c>
-        <c id="e17f4e28f81c46e2920b9380ff896505" level="file">
-          <did>
-            <unittitle>Cash Book</unittitle>
-            <unitdate normal="1919/1920" type="inclusive">1919 December 13-1920 December 11</unitdate>
-            <container altrender="Letter Document Storage Box" id="8a10b849a03eb2d242b44a31ac0085bc" label="mixed materials [A0000000066887]" type="box">2</container>
-            <container id="8d4e9fd87c84b60f05e868d81960e161" parent="8a10b849a03eb2d242b44a31ac0085bc" type="folder">6</container>
-          </did>
-        </c>
-        <c id="a51487f9d43c4e87897d300b8621be06" level="file">
-          <did>
-            <unittitle>Check Book</unittitle>
-            <unitdate normal="1901/1904" type="inclusive">1901 July 3-1904 October 11</unitdate>
-            <container altrender="Letter Document Storage Box" id="302bf0483fc7cfeef06fa905ef10df64" label="mixed materials [A0000000066887]" type="box">2</container>
-            <container id="e9998f83e6957ec2844990bb61c0725f" parent="302bf0483fc7cfeef06fa905ef10df64" type="folder">7</container>
-          </did>
-          <scopecontent id="36f698f173f30e796d5b0b9d66cfc9d8">
-            <head>Scope and Contents note</head>
-            <p>(501 entries, with 3 loose pages, "Copy of Appropriations for 1903-1904 voted at meeting Rockefeller Institute, held June 1903").</p>
-          </scopecontent>
-        </c>
-      </c>
-      <c id="43af2b97ae3f41a8b8086cdb97436946" level="file">
-        <did>
-          <unittitle>Journal and Ledger Books</unittitle>
-        </did>
-        <c id="37ff83e05dd84911ba8fab41e61aa579" level="file">
-          <did>
-            <unittitle>Journal Book. Petty Cash</unittitle>
-            <unitdate normal="1918/1919" type="inclusive">1918 January-1919 April</unitdate>
-            <container altrender="Letter Document Storage Box" id="eb4be33bdd812d2c2ca10c014fd1124b" label="mixed materials [A0000000066888]" type="box">3</container>
-            <container id="063e898ccf0b44cae73fab2ea4face47" parent="eb4be33bdd812d2c2ca10c014fd1124b" type="folder">1</container>
-          </did>
-        </c>
-        <c id="b92ecbe479794e18b73d990d187e4071" level="file">
-          <did>
-            <unittitle>Ledger Book</unittitle>
-            <unitdate normal="1920/1921" type="inclusive">1920 December 8-1921 September 30</unitdate>
-            <physdesc id="5f441d05d8058fc3bc992801d799b038">164 pp.</physdesc>
-            <container altrender="Letter Document Storage Box" id="978b5a59f9b7a00749a85e348c54bd7d" label="mixed materials [A0000000066888]" type="box">3</container>
-            <container id="ce079e0acd0c0dc4d6c820a43d3746c8" parent="978b5a59f9b7a00749a85e348c54bd7d" type="folder">2</container>
-          </did>
-        </c>
-        <c id="b9895d0393f042fcadd8bb14b1384000" level="file">
-          <did>
-            <unittitle>Ledger Book</unittitle>
-            <unitdate normal="1921/1922" type="inclusive">1921 September 2-1922 June 30</unitdate>
-            <container altrender="Letter Document Storage Box" id="df7bcc6bd5d8fb1fb6291b1c1048b722" label="mixed materials [A0000000066888]" type="box">3</container>
-            <container id="b4bf0ac846e43895195294b8829f36fb" parent="df7bcc6bd5d8fb1fb6291b1c1048b722" type="folder">3</container>
-          </did>
-        </c>
-        <c id="691b7a00a8ec4594b69ae44687b1f403" level="file">
-          <did>
-            <unittitle>Ledger Book</unittitle>
-            <unitdate normal="1922/1923" type="inclusive">1922 May 30-1923 May 5</unitdate>
-            <container altrender="Letter Document Storage Box" id="f405cd448ed8f0e793bcab1f6a022c18" label="mixed materials [A0000000066888]" type="box">3</container>
-            <container id="2baaf797330a4b47b7fc2627c8a60daa" parent="f405cd448ed8f0e793bcab1f6a022c18" type="folder">4</container>
-          </did>
-        </c>
-        <c id="a4266f43a5e94c62b5cf604352e67758" level="file">
-          <did>
-            <unittitle>Journal Book</unittitle>
-            <unitdate normal="1923/1923" type="inclusive">1923 May 3-1923 June 30</unitdate>
-            <container altrender="Letter Document Storage Box" id="2ead2c00f0e9a82d3302d9a73148ad22" label="mixed materials [A0000000066888]" type="box">3</container>
-            <container id="700f575c4b8d1a277f7e1be110270a3f" parent="2ead2c00f0e9a82d3302d9a73148ad22" type="folder">5</container>
-          </did>
-        </c>
-      </c>
-      <c id="da8870f8eeff4d5197b4e99a9df4cd3c" level="file">
-        <did>
-          <unittitle>Notebooks: Louis Sattler and James K. Senior</unittitle>
-        </did>
-        <c id="056c331f9d3c46189324fa0ec43b9b78" level="file">
-          <did>
-            <unittitle>Notebook. Cover: 1914-1915. Inside page: "Louis Sattler, Room 207"</unittitle>
-            <unitdate normal="1914/1915" type="inclusive">1914-1915</unitdate>
-            <container altrender="Letter Document Storage Box" id="b17db1c98dadc97d3287870f03782706" label="mixed materials [A0000000066889]" type="box">4</container>
-            <container id="8d811774cb6ad5ace6b57b7928060a3a" parent="b17db1c98dadc97d3287870f03782706" type="folder">1</container>
-          </did>
-        </c>
-        <c id="bd20f9c772cb42e69d8d45cbb792296d" level="file">
-          <did>
-            <unittitle>Notebook. Cover: 1915-1916. Inside page: "Louis Sattler, Room 210, Sept 14, 1915. Kjedahl Book #2" Kjedahl Book #3"</unittitle>
-            <unitdate normal="1915/1915" type="inclusive">1915 September 14</unitdate>
-            <container altrender="Letter Document Storage Box" id="fff90504008e6da2616840cf6975883f" label="mixed materials [A0000000066889]" type="box">4</container>
-            <container id="026a318763954ebaccfe524689627223" parent="fff90504008e6da2616840cf6975883f" type="folder">2</container>
-          </did>
-        </c>
-        <c id="3b529643831d4524885285f739fb636f" level="file">
-          <did>
-            <unittitle>Notebook. Inside cover: "Louis Sattler, Room 505"</unittitle>
-            <unitdate normal="1916/1916" type="inclusive">1916 November 20</unitdate>
-            <container altrender="Letter Document Storage Box" id="065d7fb703180c717b3cc20b25a08ce8" label="mixed materials [A0000000066889]" type="box">4</container>
-            <container id="242dc0fde6b5e1c6bcb94e32dd28f02f" parent="065d7fb703180c717b3cc20b25a08ce8" type="folder">3</container>
-          </did>
-        </c>
-        <c id="7c5b29d4cf614f4b87de190b60a0e7ff" level="file">
-          <did>
-            <unittitle>Notebook. Inside page: "James K. Senior, Room 207. Louis Sattler"</unittitle>
-            <unitdate normal="1915/1915" type="inclusive">1915 June 9</unitdate>
-            <container altrender="Letter Document Storage Box" id="64e701b76620f7d6339830511e5aa896" label="mixed materials [A0000000066889]" type="box">4</container>
-            <container id="e958ede8721b16ed3f24e3947ec8394a" parent="64e701b76620f7d6339830511e5aa896" type="folder">4</container>
-          </did>
-        </c>
-        <c id="b7a9000ece8f4e0ca94eba708ece8a2c" level="file">
-          <did>
-            <unittitle>Laboratory Notebook. Cover: "James K. Senior, Room 207, 1-100"</unittitle>
-            <unitdate normal="1915/1915" type="inclusive">1915 February 2</unitdate>
-            <physdesc id="30531a9d7ecd976acf5782fdf72ec64d">(with 6 pages laboratory notes inserted) 95 pp.</physdesc>
-            <container altrender="Letter Document Storage Box" id="edc569b3b06f57d4a5488cdef2382b3d" label="mixed materials [A0000000066889]" type="box">4</container>
-            <container id="320fb625af0db3edee4fc38e2e1e2861" parent="edc569b3b06f57d4a5488cdef2382b3d" type="folder">5</container>
-          </did>
-        </c>
-        <c id="6d78d64f2dd9425c9432dac480f221de" level="file">
-          <did>
-            <unittitle>Notebook. Cover: "James K. Senior, Room 210. 301-400"</unittitle>
-            <unitdate>undated</unitdate>
-            <container altrender="Letter Document Storage Box" id="60af1dd4a15d27b71e83806eaf26a72e" label="mixed materials [A0000000066889]" type="box">4</container>
-            <container id="a2f01c391b70eedf0507adae25efd132" parent="60af1dd4a15d27b71e83806eaf26a72e" type="folder">6</container>
-          </did>
-        </c>
-        <c id="15b577edc6d047cd8381da44abc7ff58" level="file">
-          <did>
-            <unittitle>Notebook. Inside facing page: "James K. Senior, Room 210"</unittitle>
-            <unitdate>undated</unitdate>
-            <physdesc id="4c470eab088386f1b4cdb43e824ce50c">15 pp. entries</physdesc>
-            <container altrender="Letter Document Storage Box" id="a2adfe1940d66ed43b9ebcc1d1e6c7d8" label="mixed materials [A0000000066889]" type="box">4</container>
-            <container id="2139cb52e7def46f0dd77b9358fb515a" parent="a2adfe1940d66ed43b9ebcc1d1e6c7d8" type="folder">7</container>
-          </did>
-        </c>
-      </c>
-      <c id="df5d9fd62735401f893fca682f78fd55" level="file">
-        <did>
-          <unittitle>Notebooks: F.M. Mader and H.C. Ward</unittitle>
-        </did>
-        <c id="ec6849798f124efba60455a6b8f3f768" level="file">
-          <did>
-            <unittitle>Notebook. Inside cover: "F.M. Mader, #2"</unittitle>
-            <unitdate normal="1905/1905" type="inclusive">1905 April 4-June 30</unitdate>
-            <container altrender="Half Ltr Document Storage Box" id="a291d2d21acc993277ae339fe0d94a7a" label="mixed materials [A0000000066890]" type="box">5</container>
-            <container id="958ea37c4f13919096ee064dcf27e004" parent="a291d2d21acc993277ae339fe0d94a7a" type="folder">1</container>
-          </did>
-        </c>
-        <c id="4222c47e36ce4a77bdbaca5f4b8a90bf" level="file">
-          <did>
-            <unittitle>Notebook. Inside cover: "Book #1, H.C. Ward. Short General Index on the last page"</unittitle>
-            <unitdate normal="1905/1905" type="inclusive">1905 April 7-1905 circa May 30</unitdate>
-            <container altrender="Half Ltr Document Storage Box" id="aa48b7d3c68db6984cb7a2a1aae11052" label="mixed materials [A0000000066890]" type="box">5</container>
-            <container id="75d393ca28091a9eb747dc6716b3e39a" parent="aa48b7d3c68db6984cb7a2a1aae11052" type="folder">2</container>
-          </did>
-        </c>
-        <c id="9f55c3d8cfc34153a3828ffbb0c1511d" level="file">
-          <did>
-            <unittitle>Notebooks. (3 bound together) H.C. Ward, Books # 2, 3, 4</unittitle>
-            <unitdate normal="1905/1905" type="inclusive">1905 May 3-circa July 1905</unitdate>
-            <container altrender="Half Ltr Document Storage Box" id="887797c5cfb928bd47679c65e113cb0f" label="mixed materials [A0000000066890]" type="box">5</container>
-            <container id="d8bd532966c9e02fef42abb6e9002ee2" parent="887797c5cfb928bd47679c65e113cb0f" type="folder">3</container>
-          </did>
-        </c>
-      </c>
-    </dsc>
-  </archdesc>
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="under_revision" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid>FA216.xml</eadid><filedesc><titlestmt><titleproper type="filing">Rockefeller University records, Accounting Service</titleproper><titleproper>A Guide to the Rockefeller University records, Accounting Service
+ <num>FA216</num></titleproper></titlestmt><publicationstmt><publisher>Rockefeller Archive Center</publisher><address><addressline>15 Dayton Avenue</addressline><addressline>Sleepy Hollow 10591</addressline><addressline>archive@rockarch.org</addressline><addressline>URL: <extptr xlink:href="http://www.rockarch.org" xlink:show="new" xlink:title="http://www.rockarch.org" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2019-03-14 00:38:49 -0400</date>.</creation></profiledesc><revisiondesc><change><date>2010 October 8</date><item>Paper finding aid converted to EAD/XML by AureXus in 2010. Imported into the Archvists’ Toolkit by Becky Robbins.</item></change></revisiondesc></eadheader><archdesc level="collection">
+  <did>
+    <langmaterial>
+      <language langcode="eng">English</language>
+    </langmaterial>
+    <repository>
+      <corpname>Rockefeller Archive Center</corpname>
+    </repository>
+    <unittitle>Rockefeller University records, Accounting Service</unittitle>
+    <origination label="creator">
+      <corpname role="aut" source="naf">Rockefeller University</corpname>
+    </origination>
+    <origination label="creator">
+      <corpname role="ctb" source="naf">Rockefeller Institute for Medical Research</corpname>
+    </origination>
+    <unitid>FA216</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">5.24 Cubic Feet</extent>
+      <extent altrender="carrier">5 boxes</extent>
+    </physdesc>
+    <unitdate normal="1901/1930" type="inclusive">1901-1930</unitdate>
+    <physdesc id="9fdd69bf1b73b7edf9d180855cb7f078">4 5" hollingers &amp; 1 2½" hollinger.</physdesc>
+  </did>
+  <acqinfo id="3c64b7c87398405728dc14f0b4e46bf1">
+    <head>Immediate Source of Acquisition</head>
+<p>Received from Accounting Service in February 1981.</p>  </acqinfo>
+  <scopecontent id="93348d47fb473d5e0fcb08509d2ddda1">
+    <head>Scope and Contents note</head>
+<p>These boxes contain account books, cash books, check books, journal and ledger books, and also notebooks.</p><p>The notebooks also appear to be concerned with experiments (especially scientific solutions) rather than money. Cross-references have been made in the card catalog under the person's name.</p>  </scopecontent>
+  <arrangement id="e90fa45f992ec09aec9781474bedbcf2">
+    <head>Arrangement note</head>
+<p>Arranged in chronological order with the exception of the notebooks, which are arranged according to the person's name. The dates are not always in perfect order - ie, the Cash books overlap each other (See Box 2, Folders 3-4).</p>  </arrangement>
+  <fileplan id="ada2e7484523cb84bba95ff41274f7ae">
+    <head>File Plan note</head>
+<p>Former Classification: I 280</p>  </fileplan>
+  <accessrestrict id="88770cab28321847b6cbe9bf2796f7d6">
+    <head>Conditions Governing Access note</head>
+<p>Open for researchd. Brittle or damaged items are available at the discretion of RAC.</p>  </accessrestrict>
+  <prefercite id="1a2e5a55c14ab8fd55d13376c5a3abdb">
+    <head>Preferred Citation</head>
+<p>Information regarding the Rockefeller Archive Center's preferred elements and forms of citation can be found at <extref href="http://www.rockarch.org/research/citations.php">http://www.rockarch.org/research/citations.php</extref></p>  </prefercite>
+  <controlaccess>
+    <subject source="lcsh">Medicine, Preventive</subject>
+    <subject source="lcsh">Medical sciences</subject>
+    <subject source="lcsh">Medical research</subject>
+  </controlaccess>
+  <dsc><c id="c1ecbd59b13a403f916a7f86115e594b" level="file"><did><unittitle>Account and Cash Books</unittitle></did><c id="e20656d833994de4bf6f9d36e8975ca8" level="file"><did><unittitle>Account Books. The Corn Exchange Bank, Lexington Branch, New York</unittitle><unitdate normal="1915/1928" type="inclusive">1915 February 15-1928 January 21</unitdate><container altrender="Letter Document Storage Box" id="7e5da9dca9d17ce56723f25ea2cf9f5e" label="mixed materials [A0000000066886]" type="box">1</container><container id="9784d3b32f7f9b1aaba09da140f485fe" parent="7e5da9dca9d17ce56723f25ea2cf9f5e" type="folder">1</container></did></c><c id="a006735cdfb348cfbbe50af545814585" level="file"><did><unittitle>Account Book. The Corn Exchange Bank, Lexington Branch, New York</unittitle><unitdate normal="1922/1926" type="inclusive">1922 June 30-1926 April 30</unitdate><container altrender="Letter Document Storage Box" id="892686142fd014a93d12d845ad4bfc2d" label="mixed materials [A0000000066886]" type="box">1</container><container id="e8935b1c623c3e20eca489058145352e" parent="892686142fd014a93d12d845ad4bfc2d" type="folder">2</container></did></c><c id="25c1f70af27a426583725e08ce9ca4c3" level="file"><did><unittitle>Account Book. The Corn Exchange Bank, Lexington Branch, New York. Payroll Account</unittitle><unitdate normal="1926/1929" type="inclusive">1926 February 13-1929 January 29</unitdate><container altrender="Letter Document Storage Box" id="230730d5cfd5d2ab81c7fd431cd5bca8" label="mixed materials [A0000000066886]" type="box">1</container><container id="2c07e6467627cd11b8aef4e20f456f69" parent="230730d5cfd5d2ab81c7fd431cd5bca8" type="folder">3</container></did></c><c id="e1cf6176df13457c89220843c30b1dc4" level="file"><did><unittitle>Account Book. The Corn Exchange Bank, Lexington Branch, New York</unittitle><unitdate normal="1926/1930" type="inclusive">1926 May 1-1930 June 30</unitdate><container altrender="Letter Document Storage Box" id="c840f08c3853beaab2af29299438afe0" label="mixed materials [A0000000066886]" type="box">1</container><container id="a710db4625ab528ff092f3201e0563b9" parent="c840f08c3853beaab2af29299438afe0" type="folder">4</container></did></c><c id="48c6a4330b504e04879bf98cd86a1914" level="file"><did><unittitle>Account Book. The Corn Exchange Bank, Lexington Branch, New York. A.D. Robertson, Bursar's Special Account</unittitle><unitdate normal="1928/1928" type="inclusive">1928</unitdate><container altrender="Letter Document Storage Box" id="121f5512c0c4edb4a071d95f84772940" label="mixed materials [A0000000066886]" type="box">1</container><container id="c6504738799144e58d1a25e6ce8ffbaa" parent="121f5512c0c4edb4a071d95f84772940" type="folder">5</container></did></c><c id="815d37196c844fab8dd280b4bfe632c4" level="file"><did><unittitle>Account Book. Princeton Bank and Trust Company, Princeton, New Jersey</unittitle><unitdate normal="1917/1927" type="inclusive">1917 March 9-1927 June 19</unitdate><container altrender="Letter Document Storage Box" id="7fc064321dabfddd0f829297cf9b7660" label="mixed materials [A0000000066886]" type="box">1</container><container id="9b31f5c59854669931e9ce1d0d905eeb" parent="7fc064321dabfddd0f829297cf9b7660" type="folder">6</container></did></c><c id="da994face16c4a50ac421c550b1f466a" level="file"><did><unittitle>Account Book. Princeton Bank and Trust Company, Princeton, New Jersey. Payroll Account</unittitle><unitdate normal="1926/1928" type="inclusive">1926 April 13-1928 June 27</unitdate><container altrender="Letter Document Storage Box" id="86aecdd823c45cbb5b6cfab009914904" label="mixed materials [A0000000066886]" type="box">1</container><container id="9b56a2a2799e74792a89e1291dcedcfa" parent="86aecdd823c45cbb5b6cfab009914904" type="folder">7</container></did></c><c id="88c9554018e74f67827e529b41fa6564" level="file"><did><unittitle>Cash Book. Cover: "Institute Acct. March 1906-August 1907"</unittitle><unitdate normal="1906/1907" type="inclusive">1906-1907 August</unitdate><physdesc id="d6f2ad3023b55a2eae8721acedde2f24">168 pp.</physdesc><container altrender="Letter Document Storage Box" id="bc4ec737868a63d499db42f0c66fff75" label="mixed materials [A0000000066886]" type="box">1</container><container id="4e95f13822ff26157aeaa6f5bddb0849" parent="bc4ec737868a63d499db42f0c66fff75" type="folder">8</container></did></c><c id="af327b8483cb4d9ca49f44fd126d70bf" level="file"><did><unittitle>Cash Book. Cover: "Board of Health 1906"</unittitle><unitdate normal="1905/1907" type="inclusive">1905-1907</unitdate><physdesc id="cbfc0ff9597cc8081c3130757c606c05">7 pp. entries</physdesc><container altrender="Letter Document Storage Box" id="8863c3c899f41beb3aeea571af3623c6" label="mixed materials [A0000000066886]" type="box">1</container><container id="988bee14814d297ce86c7fb8259ddcf1" parent="8863c3c899f41beb3aeea571af3623c6" type="folder">9</container></did><scopecontent id="1e36cd2862dbc6de281a4d0d0f75696f"><head>Scope and Contents note</head><p>Includes 19 pp. insert (loose, some half-size) bills &amp; expense statements.</p></scopecontent></c><c id="05fb2ad444914276b605bb8e316a5c71" level="file"><did><unittitle>Cash Book. Petty Cash, Institute Account</unittitle><unitdate normal="1904/1906" type="inclusive">1904 October-1906 February</unitdate><container altrender="Letter Document Storage Box" id="62b19aec0364f3c79e6ea98f237be9ef" label="mixed materials [A0000000066886]" type="box">1</container><container id="a167fd2f0d8135f5b17477b7398a48b3" parent="62b19aec0364f3c79e6ea98f237be9ef" type="folder">10</container></did></c><c id="a01384b44aa646a79a4450dad7698b4f" level="file"><did><unittitle>Cash Book. Petty Cash</unittitle><unitdate normal="1908/1909" type="inclusive">1908 April-1909 March</unitdate><container altrender="Letter Document Storage Box" id="ba4b402d726fd72076c0e5d8d0568155" label="mixed materials [A0000000066886]" type="box">1</container><container id="a32836f1656f5b78015d562a1b5a0287" parent="ba4b402d726fd72076c0e5d8d0568155" type="folder">11</container></did></c><c id="d03d2778ce594e6b9292ee4e678afcc1" level="file"><did><unittitle>Cash Book. Hospital, Petty Cash</unittitle><unitdate normal="1908/1910" type="inclusive">1908 October 12-1910 September 26</unitdate><physdesc id="d917367b4240d126d8568628bff438b6">(4 pp. entries)</physdesc><container altrender="Letter Document Storage Box" id="d1f7a29e3812b86200234bfbc912b27c" label="mixed materials [A0000000066886]" type="box">1</container><container id="540ffe783eb12eae367f24e84397c332" parent="d1f7a29e3812b86200234bfbc912b27c" type="folder">12</container></did></c></c><c id="fc051c98e6594c0f994bdab5d4d3a5bf" level="file"><did><unittitle>Cash and Check Books</unittitle></did><c id="df1c912520b64d279c028788a4bb71b1" level="file"><did><unittitle>Cash Book</unittitle><unitdate normal="1910/1910" type="inclusive">1910 April 1-1910 December 30</unitdate><container altrender="Letter Document Storage Box" id="b07bea2147c9c255691deb0fce7654f7" label="mixed materials [A0000000066887]" type="box">2</container><container id="d0c3781a6912657b2a89d7528d6e4559" parent="b07bea2147c9c255691deb0fce7654f7" type="folder">1</container></did></c><c id="4960b7e771bb4ee0aa6c3dcce3076369" level="file"><did><unittitle>Cash Book. Petty Cash</unittitle><unitdate normal="1916/1917" type="inclusive">1916 November 4-1917 June 30</unitdate><container altrender="Letter Document Storage Box" id="86ef3a6bcec6632540dd84beb87dff9a" label="mixed materials [A0000000066887]" type="box">2</container><container id="bed53a3e86106455d8fd1048a6dfd77b" parent="86ef3a6bcec6632540dd84beb87dff9a" type="folder">2</container></did></c><c id="4f28ea09eec24a638c62380a70b27ffa" level="file"><did><unittitle>Cash Book</unittitle><unitdate normal="1917/1918" type="inclusive">1917 August 24-1918 December 23</unitdate><container altrender="Letter Document Storage Box" id="fdc47ab40589f50e1a8202c1de028bdf" label="mixed materials [A0000000066887]" type="box">2</container><container id="ee21eb24cf26f7b6b021e2726c2e3ac4" parent="fdc47ab40589f50e1a8202c1de028bdf" type="folder">3</container></did></c><c id="0e0e2599f3ce4370a9b15fdafe3beda6" level="file"><did><unittitle>Cash Book</unittitle><unitdate normal="1917/1918" type="inclusive">1917 June 21-1918 March 15</unitdate><container altrender="Letter Document Storage Box" id="8ba597216d7e47df0a402f3b55af840e" label="mixed materials [A0000000066887]" type="box">2</container><container id="87167ebd580b09137e535f0be5f7ad94" parent="8ba597216d7e47df0a402f3b55af840e" type="folder">4</container></did></c><c id="0eda7d52a58347fdbc7d07cbae93e112" level="file"><did><unittitle>Cash Book. Inside Cover</unittitle><unitdate normal="1918/1919" type="inclusive">1918 December 18-1919 December 31</unitdate><physdesc id="693c2f190bce558a8fbd5cd6689647e4">180 pp.</physdesc><container altrender="Letter Document Storage Box" id="3bbf105daa9c4a1af7cc8aa20235fdfa" label="mixed materials [A0000000066887]" type="box">2</container><container id="cfcf699e008e8468f4b73ea0b35ba1ef" parent="3bbf105daa9c4a1af7cc8aa20235fdfa" type="folder">5</container></did></c><c id="e17f4e28f81c46e2920b9380ff896505" level="file"><did><unittitle>Cash Book</unittitle><unitdate normal="1919/1920" type="inclusive">1919 December 13-1920 December 11</unitdate><container altrender="Letter Document Storage Box" id="f88146c6c5e52f8716bb9e2262938b79" label="mixed materials [A0000000066887]" type="box">2</container><container id="02ed73cea991d4d5827452ac02aa7f4e" parent="f88146c6c5e52f8716bb9e2262938b79" type="folder">6</container></did></c><c id="a51487f9d43c4e87897d300b8621be06" level="file"><did><unittitle>Check Book</unittitle><unitdate normal="1901/1904" type="inclusive">1901 July 3-1904 October 11</unitdate><container altrender="Letter Document Storage Box" id="40bee1ca8bdd067cf0bc15dd26412e11" label="mixed materials [A0000000066887]" type="box">2</container><container id="5a41601587e79a47a961727c1134e853" parent="40bee1ca8bdd067cf0bc15dd26412e11" type="folder">7</container></did><scopecontent id="36f698f173f30e796d5b0b9d66cfc9d8"><head>Scope and Contents note</head><p>(501 entries, with 3 loose pages, "Copy of Appropriations for 1903-1904 voted at meeting Rockefeller Institute, held June 1903").</p></scopecontent></c></c><c id="43af2b97ae3f41a8b8086cdb97436946" level="file"><did><unittitle>Journal and Ledger Books</unittitle></did><c id="37ff83e05dd84911ba8fab41e61aa579" level="file"><did><unittitle>Journal Book. Petty Cash</unittitle><unitdate normal="1918/1919" type="inclusive">1918 January-1919 April</unitdate><container altrender="Letter Document Storage Box" id="0c7572720fa6dd777c3802510e6126af" label="mixed materials [A0000000066888]" type="box">3</container><container id="8eaec49b623281d351c19dfe78f3a4b5" parent="0c7572720fa6dd777c3802510e6126af" type="folder">1</container></did></c><c id="b92ecbe479794e18b73d990d187e4071" level="file"><did><unittitle>Ledger Book</unittitle><unitdate normal="1920/1921" type="inclusive">1920 December 8-1921 September 30</unitdate><physdesc id="5f441d05d8058fc3bc992801d799b038">164 pp.</physdesc><container altrender="Letter Document Storage Box" id="09ebbe4909c0c16bbc0377f76a0e342c" label="mixed materials [A0000000066888]" type="box">3</container><container id="f547d01f1cd174116ffd4ed92045c3cc" parent="09ebbe4909c0c16bbc0377f76a0e342c" type="folder">2</container></did></c><c id="b9895d0393f042fcadd8bb14b1384000" level="file"><did><unittitle>Ledger Book</unittitle><unitdate normal="1921/1922" type="inclusive">1921 September 2-1922 June 30</unitdate><container altrender="Letter Document Storage Box" id="e027fe98bc4bad33b6377bc500ec9848" label="mixed materials [A0000000066888]" type="box">3</container><container id="13bed05e7e6b6128a05abef6dd3b2db5" parent="e027fe98bc4bad33b6377bc500ec9848" type="folder">3</container></did></c><c id="691b7a00a8ec4594b69ae44687b1f403" level="file"><did><unittitle>Ledger Book</unittitle><unitdate normal="1922/1923" type="inclusive">1922 May 30-1923 May 5</unitdate><container altrender="Letter Document Storage Box" id="41696469869fbe6e78486f8588b44be8" label="mixed materials [A0000000066888]" type="box">3</container><container id="313c3011a173b66346a3b58dfb7b0675" parent="41696469869fbe6e78486f8588b44be8" type="folder">4</container></did></c><c id="a4266f43a5e94c62b5cf604352e67758" level="file"><did><unittitle>Journal Book</unittitle><unitdate normal="1923/1923" type="inclusive">1923 May 3-1923 June 30</unitdate><container altrender="Letter Document Storage Box" id="a2fb6efaf42b59ffeb869c358d44e048" label="mixed materials [A0000000066888]" type="box">3</container><container id="9f2b49d7ad232f0aea838f57a2f6ff40" parent="a2fb6efaf42b59ffeb869c358d44e048" type="folder">5</container></did></c></c><c id="da8870f8eeff4d5197b4e99a9df4cd3c" level="file"><did><unittitle>Notebooks: Louis Sattler and James K. Senior</unittitle></did><c id="056c331f9d3c46189324fa0ec43b9b78" level="file"><did><unittitle>Notebook. Cover: 1914-1915. Inside page: "Louis Sattler, Room 207"</unittitle><unitdate normal="1914/1915" type="inclusive">1914-1915</unitdate><container altrender="Letter Document Storage Box" id="ca3430d8972d8c483a5835217e1dae23" label="mixed materials [A0000000066889]" type="box">4</container><container id="7b693835eaf14d0521ee46717324a08b" parent="ca3430d8972d8c483a5835217e1dae23" type="folder">1</container></did></c><c id="bd20f9c772cb42e69d8d45cbb792296d" level="file"><did><unittitle>Notebook. Cover: 1915-1916. Inside page: "Louis Sattler, Room 210, Sept 14, 1915. Kjedahl Book #2" Kjedahl Book #3"</unittitle><unitdate normal="1915/1915" type="inclusive">1915 September 14</unitdate><container altrender="Letter Document Storage Box" id="01f503fd4674e1b471987a6576d872b1" label="mixed materials [A0000000066889]" type="box">4</container><container id="8a0460a06b94d0751a21dd88cb5d93e6" parent="01f503fd4674e1b471987a6576d872b1" type="folder">2</container></did></c><c id="3b529643831d4524885285f739fb636f" level="file"><did><unittitle>Notebook. Inside cover: "Louis Sattler, Room 505"</unittitle><unitdate normal="1916/1916" type="inclusive">1916 November 20</unitdate><container altrender="Letter Document Storage Box" id="6a8ef8bf4679abb4173ff76f1f5c5bb8" label="mixed materials [A0000000066889]" type="box">4</container><container id="dd8e2537e308a380ac1af546103fb4ba" parent="6a8ef8bf4679abb4173ff76f1f5c5bb8" type="folder">3</container></did></c><c id="7c5b29d4cf614f4b87de190b60a0e7ff" level="file"><did><unittitle>Notebook. Inside page: "James K. Senior, Room 207. Louis Sattler"</unittitle><unitdate normal="1915/1915" type="inclusive">1915 June 9</unitdate><container altrender="Letter Document Storage Box" id="6e3fcfe0fc4567ab7ff18d695cbe819b" label="mixed materials [A0000000066889]" type="box">4</container><container id="4484478576c410d253950a7709efe784" parent="6e3fcfe0fc4567ab7ff18d695cbe819b" type="folder">4</container></did></c><c id="b7a9000ece8f4e0ca94eba708ece8a2c" level="file"><did><unittitle>Laboratory Notebook. Cover: "James K. Senior, Room 207, 1-100"</unittitle><unitdate normal="1915/1915" type="inclusive">1915 February 2</unitdate><physdesc id="30531a9d7ecd976acf5782fdf72ec64d">(with 6 pages laboratory notes inserted) 95 pp.</physdesc><container altrender="Letter Document Storage Box" id="c6b5bbffa44ece6b36ae37ddbaec4d96" label="mixed materials [A0000000066889]" type="box">4</container><container id="a31b531e7e8df2d9783d5d89f945a925" parent="c6b5bbffa44ece6b36ae37ddbaec4d96" type="folder">5</container></did></c><c id="6d78d64f2dd9425c9432dac480f221de" level="file"><did><unittitle>Notebook. Cover: "James K. Senior, Room 210. 301-400"</unittitle><unitdate>undated</unitdate><container altrender="Letter Document Storage Box" id="596ee488c78f4e841a0655bbde2cde22" label="mixed materials [A0000000066889]" type="box">4</container><container id="25e184db9129942931f648e1d23a00be" parent="596ee488c78f4e841a0655bbde2cde22" type="folder">6</container></did></c><c id="15b577edc6d047cd8381da44abc7ff58" level="file"><did><unittitle>Notebook. Inside facing page: "James K. Senior, Room 210"</unittitle><unitdate>undated</unitdate><physdesc id="4c470eab088386f1b4cdb43e824ce50c">15 pp. entries</physdesc><container altrender="Letter Document Storage Box" id="0346403d1154b50a40739987c555fb8a" label="mixed materials [A0000000066889]" type="box">4</container><container id="f36711eb7cb587093e014de722fa479b" parent="0346403d1154b50a40739987c555fb8a" type="folder">7</container></did></c></c><c id="df5d9fd62735401f893fca682f78fd55" level="file"><did><unittitle>Notebooks: F.M. Mader and H.C. Ward</unittitle></did><c id="ec6849798f124efba60455a6b8f3f768" level="file"><did><unittitle>Notebook. Inside cover: "F.M. Mader, #2"</unittitle><unitdate normal="1905/1905" type="inclusive">1905 April 4-June 30</unitdate><container altrender="Half Ltr Document Storage Box" id="51e76fe05e9b890b583549ccb89077b6" label="mixed materials [A0000000066890]" type="box">5</container><container id="8d15d9bca7a0d584ed04222c4ce49dc6" parent="51e76fe05e9b890b583549ccb89077b6" type="folder">1</container></did></c><c id="4222c47e36ce4a77bdbaca5f4b8a90bf" level="file"><did><unittitle>Notebook. Inside cover: "Book #1, H.C. Ward. Short General Index on the last page"</unittitle><unitdate normal="1905/1905" type="inclusive">1905 April 7-1905 circa May 30</unitdate><container altrender="Half Ltr Document Storage Box" id="0a39a842a8e0f9de0aa4232a97559ce6" label="mixed materials [A0000000066890]" type="box">5</container><container id="8fe626985e667e0ffd7a7ca2bc4ded3a" parent="0a39a842a8e0f9de0aa4232a97559ce6" type="folder">2</container></did></c><c id="9f55c3d8cfc34153a3828ffbb0c1511d" level="file"><did><unittitle>Notebooks. (3 bound together) H.C. Ward, Books # 2, 3, 4</unittitle><unitdate normal="1905/1905" type="inclusive">1905 May 3-circa July 1905</unitdate><container altrender="Half Ltr Document Storage Box" id="926eeaebbe5292e209bc02b6c07badf0" label="mixed materials [A0000000066890]" type="box">5</container><container id="a015c6f8219e804b36370163df6f01f6" parent="926eeaebbe5292e209bc02b6c07badf0" type="folder">3</container></did></c></c></dsc>
+</archdesc>
 </ead>

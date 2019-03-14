@@ -1,145 +1,49 @@
-<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
-  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="under_revision" langencoding="iso639-2b" repositoryencoding="iso15511">
-    <eadid>FA915.xml</eadid>
-    <filedesc>
-      <titlestmt>
-        <titleproper type="filing">Rockefeller University records, Catalogue</titleproper>
-        <titleproper>A Guide to the Rockefeller University records, Catalogue
- <num>FA915</num></titleproper>
-      </titlestmt>
-      <publicationstmt>
-        <publisher>Rockefeller Archive Center</publisher>
-        <address>
-          <addressline>15 Dayton Avenue</addressline>
-          <addressline>Sleepy Hollow 10591</addressline>
-          <addressline>archive@rockarch.org</addressline>
-          <addressline>URL: <extptr xlink:href="http://www.rockarch.org" xlink:show="new" xlink:title="http://www.rockarch.org" xlink:type="simple"/></addressline>
-        </address>
-      </publicationstmt>
-    </filedesc>
-    <profiledesc>
-      <creation>This finding aid was produced using ArchivesSpace on <date>2019-02-02 00:21:17 -0500</date>.</creation>
-    </profiledesc>
-    <revisiondesc>
-      <date>2010 October 12</date>
-      <item>Paper finding aid converted to EAD/XML by AureXus in 2010. Imported into the Archvists’ Toolkit by Becky Robbins.</item>
-    </revisiondesc>
-  </eadheader>
-  <archdesc level="collection">
-    <did>
-      <langmaterial>
-        <language langcode="eng">English</language>
-      </langmaterial>
-      <repository>
-        <corpname>Rockefeller Archive Center</corpname>
-      </repository>
-      <unittitle>Rockefeller University records, Catalogue</unittitle>
-      <origination label="creator">
-        <corpname role="ctb" source="naf">Rockefeller Institute for Medical Research</corpname>
-      </origination>
-      <origination label="creator">
-        <corpname role="aut" source="naf">Rockefeller University</corpname>
-      </origination>
-      <unitid>FA915</unitid>
-      <physdesc altrender="whole">
-        <extent altrender="materialtype spaceoccupied">0.44 Cubic Feet</extent>
-        <extent altrender="carrier">1 box, consisting of eleven volumes.</extent>
-      </physdesc>
-      <unitdate normal="1965/1979" type="inclusive">1965-1979</unitdate>
-      <physdesc id="3b7d6f270b34bd4a50fa8987950d2f13">1 box, consisting of eleven volumes.</physdesc>
-    </did>
-    <fileplan id="462866ac80d27570ff859f2d836d1f4f">
-      <head>File Plan note</head>
-      <p>Former Classification: I 419</p>
-    </fileplan>
-    <prefercite id="fd510b05b8a4ddce5b0dc16f8c3244f4">
-      <head>Preferred Citation</head>
-      <p>Information regarding the Rockefeller Archive Center's preferred elements and forms of citation can be found at <extref href="http://www.rockarch.org/research/citations.php">http://www.rockarch.org/research/citations.php</extref></p>
-    </prefercite>
-    <accessrestrict id="de4aa9807190f24b823da01ea44d1e1e">
-      <head>Conditions Governing Access note</head>
-      <p>This collection is open for research. Brittle or damaged items are available at the discretion of RAC.</p>
-    </accessrestrict>
-    <scopecontent id="de8012063885a5ad9f50dec382ab5491">
-      <head>Scope and Contents</head>
-      <p>Contains catalogue.</p>
-    </scopecontent>
-    <controlaccess>
-      <subject source="lcsh">Operations management</subject>
-      <subject source="lcsh">Medical research</subject>
-      <subject source="lcsh">Cell and biomolecular sciences</subject>
-      <subject source="lcsh">Life sciences</subject>
-      <subject source="lcsh">Medical sciences</subject>
-      <subject source="lcsh">Medical education</subject>
-      <subject source="lcsh">Biology -- Research</subject>
-    </controlaccess>
-    <dsc>
-      <c id="bd2b91eef81a49a198695e572f68c0c3" level="file">
-        <did>
-          <unitdate normal="1965/1966" type="inclusive">1965-1966</unitdate>
-          <container altrender="Letter Document Storage Box" id="3686aad372a12318229569809652bfbb" label="mixed materials [A0000000068024]" type="box">1</container>
-        </did>
-      </c>
-      <c id="2bc963d6ca794ca0bc53775e8253332e" level="file">
-        <did>
-          <unitdate normal="1968/1969" type="inclusive">1968-1969</unitdate>
-          <container altrender="Letter Document Storage Box" id="8d21d306fa61deb5e91383ec5b3d9fed" label="mixed materials [A0000000068024]" type="box">1</container>
-        </did>
-      </c>
-      <c id="3bbd1db6bf284a98868c08ce003a945a" level="file">
-        <did>
-          <unitdate normal="1969/1970" type="inclusive">1969-1970</unitdate>
-          <container altrender="Letter Document Storage Box" id="222e7717496097aef8704885d695a684" label="mixed materials [A0000000068024]" type="box">1</container>
-        </did>
-      </c>
-      <c id="d26e9e20544142a28699fc3deb32c089" level="file">
-        <did>
-          <unitdate normal="1970/1971" type="inclusive">1970-1971</unitdate>
-          <container altrender="Letter Document Storage Box" id="27bb335e1a7dde85f5bfed8aef355fd7" label="mixed materials [A0000000068024]" type="box">1</container>
-        </did>
-      </c>
-      <c id="99ca61dfa218481c9f86670dd527feb5" level="file">
-        <did>
-          <unitdate normal="1971/1972" type="inclusive">1971-1972</unitdate>
-          <container altrender="Letter Document Storage Box" id="c228f4dfa00ff7b670bddcd85ba3709d" label="mixed materials [A0000000068024]" type="box">1</container>
-        </did>
-      </c>
-      <c id="a0bace14c2034bf187a604d38a812562" level="file">
-        <did>
-          <unitdate normal="1972/1973" type="inclusive">1972-1973</unitdate>
-          <container altrender="Letter Document Storage Box" id="16652e1a6997cf542fa9ced9ae4725f4" label="mixed materials [A0000000068024]" type="box">1</container>
-        </did>
-      </c>
-      <c id="a1b299a1717c4cd1ac01d57b9a2d8b7c" level="file">
-        <did>
-          <unitdate normal="1973/1974" type="inclusive">1973-1974</unitdate>
-          <container altrender="Letter Document Storage Box" id="cee6fb86f4b30876b00bb422c7d76de4" label="mixed materials [A0000000068024]" type="box">1</container>
-        </did>
-      </c>
-      <c id="49f868c46c014a559a9acee5afe02f79" level="file">
-        <did>
-          <unitdate normal="1975/1976" type="inclusive">1975-1976</unitdate>
-          <container altrender="Letter Document Storage Box" id="e44e34578616beae1886e5b07726ee2f" label="mixed materials [A0000000068024]" type="box">1</container>
-        </did>
-      </c>
-      <c id="45526cb3070e4a9bb120b216edcb6f42" level="file">
-        <did>
-          <unitdate normal="1976/1977" type="inclusive">1976-1977</unitdate>
-          <container altrender="Letter Document Storage Box" id="0564978268b17495f66a05dba8b92776" label="mixed materials [A0000000068024]" type="box">1</container>
-        </did>
-      </c>
-      <c id="03083565cf094ceb80371bc9b1c72bdd" level="file">
-        <did>
-          <unitdate normal="1977/1978" type="inclusive">1977-1978</unitdate>
-          <container altrender="Letter Document Storage Box" id="8d061cc0b625728beb427bf861d7c692" label="mixed materials [A0000000068024]" type="box">1</container>
-        </did>
-      </c>
-      <c id="0b526538d08b4a78a01743c409a9d14e" level="file">
-        <did>
-          <unitdate normal="1978/1979" type="inclusive">1978-1979</unitdate>
-          <container altrender="Letter Document Storage Box" id="0a81c042794137de11b7cdfb482c1f3b" label="mixed materials [A0000000068024]" type="box">1</container>
-        </did>
-      </c>
-    </dsc>
-  </archdesc>
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="under_revision" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid>FA915.xml</eadid><filedesc><titlestmt><titleproper type="filing">Rockefeller University records, Catalogue</titleproper><titleproper>A Guide to the Rockefeller University records, Catalogue
+ <num>FA915</num></titleproper></titlestmt><publicationstmt><publisher>Rockefeller Archive Center</publisher><address><addressline>15 Dayton Avenue</addressline><addressline>Sleepy Hollow 10591</addressline><addressline>archive@rockarch.org</addressline><addressline>URL: <extptr xlink:href="http://www.rockarch.org" xlink:show="new" xlink:title="http://www.rockarch.org" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2019-03-14 02:55:04 -0400</date>.</creation></profiledesc><revisiondesc><date>2010 October 12</date><item>Paper finding aid converted to EAD/XML by AureXus in 2010. Imported into the Archvists’ Toolkit by Becky Robbins.</item></revisiondesc></eadheader><archdesc level="collection">
+  <did>
+    <langmaterial>
+      <language langcode="eng">English</language>
+    </langmaterial>
+    <repository>
+      <corpname>Rockefeller Archive Center</corpname>
+    </repository>
+    <unittitle>Rockefeller University records, Catalogue</unittitle>
+    <origination label="creator">
+      <corpname role="ctb" source="naf">Rockefeller Institute for Medical Research</corpname>
+    </origination>
+    <origination label="creator">
+      <corpname role="aut" source="naf">Rockefeller University</corpname>
+    </origination>
+    <unitid>FA915</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">0.44 Cubic Feet</extent>
+      <extent altrender="carrier">1 box, consisting of eleven volumes.</extent>
+    </physdesc>
+    <unitdate normal="1965/1979" type="inclusive">1965-1979</unitdate>
+    <physdesc id="3b7d6f270b34bd4a50fa8987950d2f13">1 box, consisting of eleven volumes.</physdesc>
+  </did>
+  <fileplan id="462866ac80d27570ff859f2d836d1f4f">
+    <head>File Plan note</head>
+<p>Former Classification: I 419</p>  </fileplan>
+  <prefercite id="fd510b05b8a4ddce5b0dc16f8c3244f4">
+    <head>Preferred Citation</head>
+<p>Information regarding the Rockefeller Archive Center's preferred elements and forms of citation can be found at <extref href="http://www.rockarch.org/research/citations.php">http://www.rockarch.org/research/citations.php</extref></p>  </prefercite>
+  <accessrestrict id="de4aa9807190f24b823da01ea44d1e1e">
+    <head>Conditions Governing Access note</head>
+<p>This collection is open for research. Brittle or damaged items are available at the discretion of RAC.</p>  </accessrestrict>
+  <scopecontent id="de8012063885a5ad9f50dec382ab5491">
+    <head>Scope and Contents</head>
+<p>Contains catalogue.</p>  </scopecontent>
+  <controlaccess>
+    <subject source="lcsh">Operations management</subject>
+    <subject source="lcsh">Medical research</subject>
+    <subject source="lcsh">Cell and biomolecular sciences</subject>
+    <subject source="lcsh">Life sciences</subject>
+    <subject source="lcsh">Medical sciences</subject>
+    <subject source="lcsh">Medical education</subject>
+    <subject source="lcsh">Biology -- Research</subject>
+  </controlaccess>
+  <dsc><c id="bd2b91eef81a49a198695e572f68c0c3" level="file"><did><unitdate normal="1965/1966" type="inclusive">1965-1966</unitdate><container altrender="Letter Document Storage Box" id="f47988ddb58d858eb37334f926c8a7ca" label="mixed materials [A0000000068024]" type="box">1</container></did></c><c id="2bc963d6ca794ca0bc53775e8253332e" level="file"><did><unitdate normal="1968/1969" type="inclusive">1968-1969</unitdate><container altrender="Letter Document Storage Box" id="b911f9f3b2f20948ad5e96fa18e62bfe" label="mixed materials [A0000000068024]" type="box">1</container></did></c><c id="3bbd1db6bf284a98868c08ce003a945a" level="file"><did><unitdate normal="1969/1970" type="inclusive">1969-1970</unitdate><container altrender="Letter Document Storage Box" id="38a0fefb99ab3d7b59d705ce8af2ba23" label="mixed materials [A0000000068024]" type="box">1</container></did></c><c id="d26e9e20544142a28699fc3deb32c089" level="file"><did><unitdate normal="1970/1971" type="inclusive">1970-1971</unitdate><container altrender="Letter Document Storage Box" id="979bd3def3af909e7600e17499518b3e" label="mixed materials [A0000000068024]" type="box">1</container></did></c><c id="99ca61dfa218481c9f86670dd527feb5" level="file"><did><unitdate normal="1971/1972" type="inclusive">1971-1972</unitdate><container altrender="Letter Document Storage Box" id="7c85e2ace77a52358d818975c68b35a1" label="mixed materials [A0000000068024]" type="box">1</container></did></c><c id="a0bace14c2034bf187a604d38a812562" level="file"><did><unitdate normal="1972/1973" type="inclusive">1972-1973</unitdate><container altrender="Letter Document Storage Box" id="1562dc2f9e53ed1768e28208809c2d46" label="mixed materials [A0000000068024]" type="box">1</container></did></c><c id="a1b299a1717c4cd1ac01d57b9a2d8b7c" level="file"><did><unitdate normal="1973/1974" type="inclusive">1973-1974</unitdate><container altrender="Letter Document Storage Box" id="9bbd1dac34755fde247a8e53e1261afa" label="mixed materials [A0000000068024]" type="box">1</container></did></c><c id="49f868c46c014a559a9acee5afe02f79" level="file"><did><unitdate normal="1975/1976" type="inclusive">1975-1976</unitdate><container altrender="Letter Document Storage Box" id="e4654578e9bf1351627a9277fa1099f7" label="mixed materials [A0000000068024]" type="box">1</container></did></c><c id="45526cb3070e4a9bb120b216edcb6f42" level="file"><did><unitdate normal="1976/1977" type="inclusive">1976-1977</unitdate><container altrender="Letter Document Storage Box" id="d848ce922f55f721bf5b2181cf484ad6" label="mixed materials [A0000000068024]" type="box">1</container></did></c><c id="03083565cf094ceb80371bc9b1c72bdd" level="file"><did><unitdate normal="1977/1978" type="inclusive">1977-1978</unitdate><container altrender="Letter Document Storage Box" id="ff412f1b3f4ab8a8a43362126e8c3bcf" label="mixed materials [A0000000068024]" type="box">1</container></did></c><c id="0b526538d08b4a78a01743c409a9d14e" level="file"><did><unitdate normal="1978/1979" type="inclusive">1978-1979</unitdate><container altrender="Letter Document Storage Box" id="446429497babe99cbd7a14443ed20e18" label="mixed materials [A0000000068024]" type="box">1</container></did></c></dsc>
+</archdesc>
 </ead>

@@ -1,190 +1,54 @@
-<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
-  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="under_revision" langencoding="iso639-2b" repositoryencoding="iso15511">
-    <eadid>FA958.xml</eadid>
-    <filedesc>
-      <titlestmt>
-        <titleproper type="filing">Rockefeller University records, Rockefeller University Press, Ingests, 1982</titleproper>
-        <titleproper>A Guide to the Rockefeller University records, Rockefeller University Press, Ingests, 1982
- <num>FA958</num></titleproper>
-      </titlestmt>
-      <publicationstmt>
-        <publisher>Rockefeller Archive Center</publisher>
-        <address>
-          <addressline>15 Dayton Avenue</addressline>
-          <addressline>Sleepy Hollow 10591</addressline>
-          <addressline>archive@rockarch.org</addressline>
-          <addressline>URL: <extptr xlink:href="http://www.rockarch.org" xlink:show="new" xlink:title="http://www.rockarch.org" xlink:type="simple"/></addressline>
-        </address>
-      </publicationstmt>
-    </filedesc>
-    <profiledesc>
-      <creation>This finding aid was produced using ArchivesSpace on <date>2018-08-04 00:03:20 -0400</date>.</creation>
-    </profiledesc>
-    <revisiondesc>
-      <date>2008 October 21</date>
-      <item>Paper finding aid converted to EAD/XML by AureXus in 2010. Imported into the Archvists’ Toolkit by Becky Robbins.</item>
-    </revisiondesc>
-  </eadheader>
-  <archdesc level="collection">
-    <did>
-      <langmaterial>
-        <language langcode="eng">English</language>
-      </langmaterial>
-      <repository>
-        <corpname>Rockefeller Archive Center</corpname>
-      </repository>
-      <unittitle>Rockefeller University records, Rockefeller University Press, Ingests, 1982</unittitle>
-      <origination label="creator">
-        <corpname role="aut" rules="dacs">Rockefeller University Press</corpname>
-      </origination>
-      <unitid>FA958</unitid>
-      <physdesc altrender="whole">
-        <extent altrender="materialtype spaceoccupied">0.44 Cubic Feet</extent>
-        <extent altrender="carrier">1 box.</extent>
-      </physdesc>
-      <unitdate normal="1963/1976" type="inclusive">1963-1976</unitdate>
-      <physdesc id="3575253c68c14275c5e2dea962ec259a">1 box.</physdesc>
-    </did>
-    <prefercite id="50ca528f98a301775eae627e01f89409">
-      <head>Preferred Citation note</head>
-      <p>Information regarding the Rockefeller Archive Center's preferred elements and forms of citation can be found at <extref href="http://www.rockarch.org/research/citations.php">http://www.rockarch.org/research/citations.php</extref></p>
-    </prefercite>
-    <processinfo id="3bf5f9d24e3b5e51d82fa96d2551687a">
-      <head>Processing Information</head>
-      <p>Processed by CK, 1982 September 13.</p>
-    </processinfo>
-    <acqinfo id="78165de6f60b104c5beb883bb08d3bf7">
-      <head>Immediate Source of Acquisition</head>
-      <p>Material received from RU Press, June 1982.</p>
-    </acqinfo>
-    <accessrestrict id="2e2cad739f84029305a9f1024f7e400b">
-      <head>Conditions Governing Access</head>
-      <p>Collection is open for research. Brittle or damaged items are available at the discretion of RAC.</p>
-    </accessrestrict>
-    <fileplan id="016b0122514ad04b1f48ef3e5e8d293d">
-      <head>File Plan note</head>
-      <p>Former Classification: I 580</p>
-    </fileplan>
-    <scopecontent id="eadefffc205a3d52e6720b497c0cb601">
-      <head>Scope and Contents</head>
-      <p>Documents exhibits and conferences, 1960s-1970s.</p>
-    </scopecontent>
-    <controlaccess>
-      <subject source="lcsh">Medical research</subject>
-      <subject source="lcsh">Medical education</subject>
-      <subject source="lcsh">Medical sciences</subject>
-      <subject source="lcsh">Life sciences</subject>
-      <subject source="lcsh">Science -- Study and teaching</subject>
-      <subject source="lcsh">Cell and biomolecular sciences</subject>
-      <subject source="lcsh">Medicine, Preventive</subject>
-      <subject source="lcsh">Medical technology</subject>
-      <subject source="lcsh">Biology -- Research</subject>
-    </controlaccess>
-    <dsc>
-      <c id="d7700537f523499c9fd28a5a1b5355d8" level="file">
-        <did>
-          <unittitle>Arts and Crafts Exhibit</unittitle>
-          <unitdate normal="1971/1971" type="inclusive">1971</unitdate>
-          <container altrender="Letter Document Storage Box" id="ca286ba4d70c47eba318e3c2cd37d97b" label="mixed materials [A0000000089906]" type="box">1</container>
-          <container id="0d3d9dd35e24b69923af437e597b98bb" parent="ca286ba4d70c47eba318e3c2cd37d97b" type="folder">1</container>
-        </did>
-        <scopecontent id="918e1743edb6ec1f07fa7cfc52e0d6ea">
-          <head>Scope and Contents</head>
-          <p>Includes photographs.</p>
-        </scopecontent>
-      </c>
-      <c id="4e21a23857aa478c86fb4c0ae8da768d" level="file">
-        <did>
-          <unittitle>Arts and Crafts Exhibit</unittitle>
-          <unitdate normal="1974/1974" type="inclusive">1974</unitdate>
-          <container altrender="Letter Document Storage Box" id="69da17e93330deddaa648328731636e4" label="mixed materials [A0000000089906]" type="box">1</container>
-          <container id="fe56fa3f449afcadd64d1cfb2be88c9e" parent="69da17e93330deddaa648328731636e4" type="folder">2</container>
-        </did>
-        <scopecontent id="af6189851d914ca4edee7b0dab0cb36f">
-          <head>Scope and Contents</head>
-          <p>Includes photographs.</p>
-        </scopecontent>
-      </c>
-      <c id="124f954fb11f460c9f3ff7b1ab764a9a" level="file">
-        <did>
-          <unittitle>Botanical Exhibit</unittitle>
-          <unitdate normal="1967/1967" type="inclusive">1967</unitdate>
-          <container altrender="Letter Document Storage Box" id="267464e79a3f6fb5474bd5776e1f77f2" label="mixed materials [A0000000089906]" type="box">1</container>
-          <container id="d9e9ecb39f06d9b6d1677fb283c5b80e" parent="267464e79a3f6fb5474bd5776e1f77f2" type="folder">3</container>
-        </did>
-        <scopecontent id="fb72681a482b5db847520399bf6da413">
-          <head>Scope and Contents</head>
-          <p>Includes photographs.</p>
-        </scopecontent>
-      </c>
-      <c id="c80ced9c52854ab2af8b28ea32e42b33" level="file">
-        <did>
-          <unittitle>Minoru Niizuma Sculpture Exhibit</unittitle>
-          <container altrender="Letter Document Storage Box" id="41959940c88c67a930c239b0694f9261" label="mixed materials [A0000000089906]" type="box">1</container>
-          <container id="b2b1b2c81cad26eb749758b187c66091" parent="41959940c88c67a930c239b0694f9261" type="folder">4</container>
-        </did>
-        <scopecontent id="579d83836d4c7a2ff6bbc987c358b95e">
-          <head>Scope and Contents</head>
-          <p>Includes photographs.</p>
-        </scopecontent>
-      </c>
-      <c id="9456858f8daa48319cf9eba76bd2bd88" level="file">
-        <did>
-          <unittitle>Miscellaneous</unittitle>
-          <container altrender="Letter Document Storage Box" id="917010d2102ad8c090132336470f44be" label="mixed materials [A0000000089906]" type="box">1</container>
-          <container id="041b51dad588116427410af2e4a95572" parent="917010d2102ad8c090132336470f44be" type="folder">5</container>
-        </did>
-        <scopecontent id="19abe0610fadd23ccea84d54117145d3">
-          <head>Scope and Contents</head>
-          <p>Includes photographs.</p>
-        </scopecontent>
-      </c>
-      <c id="d49510055a9c4769be3660892231ac26" level="file">
-        <did>
-          <unittitle>Avery Memorial Gateway</unittitle>
-          <container altrender="Letter Document Storage Box" id="a21390db66d6f41013d39b9609e946ee" label="mixed materials [A0000000089906]" type="box">1</container>
-          <container id="9b9cbcc3b90e4f81c0cfec84d23bbb94" parent="a21390db66d6f41013d39b9609e946ee" type="folder">6</container>
-        </did>
-      </c>
-      <c id="e30eba79cbad43899a4fd81d5e17d849" level="file">
-        <did>
-          <unittitle>Dubos, R.J. Book proposal: Biology and Urban Life</unittitle>
-          <unitdate normal="1968/1968" type="inclusive">1968</unitdate>
-          <container altrender="Letter Document Storage Box" id="0a8bf3ff591fe6851a7eacc8f18aa8a9" label="mixed materials [A0000000089906]" type="box">1</container>
-          <container id="edb3b464b1815274a234ba1fd1461e82" parent="0a8bf3ff591fe6851a7eacc8f18aa8a9" type="folder">7</container>
-        </did>
-      </c>
-      <c id="19d3076337ef47cfa59c31fc9a1596c3" level="file">
-        <did>
-          <unittitle>"Beyond Tomorrow" Conference</unittitle>
-          <unitdate normal="1976/1976" type="inclusive">1976</unitdate>
-          <container altrender="Letter Document Storage Box" id="2ae3e41a0d22f9ecc2f6eaa3a898d379" label="mixed materials [A0000000089906]" type="box">1</container>
-          <container id="2f83a7255ebb6b3feb5bd95ec23003ec" parent="2ae3e41a0d22f9ecc2f6eaa3a898d379" type="folder">8</container>
-        </did>
-      </c>
-      <c id="77b48f2b52c74660a276d2c872caece4" level="file">
-        <did>
-          <unittitle>Peyton Rous Memorial Booklet</unittitle>
-          <container altrender="Letter Document Storage Box" id="59d2184a7d52f955c30960e4b5dcd6a1" label="mixed materials [A0000000089906]" type="box">1</container>
-          <container id="3ea5233c8ddf0182e9ddb5bae458436d" parent="59d2184a7d52f955c30960e4b5dcd6a1" type="folder">9-10</container>
-        </did>
-      </c>
-      <c id="2034db1ecb834296bba1005f0827ca20" level="file">
-        <did>
-          <unittitle>National Academy of Sciences Centennial</unittitle>
-          <unitdate normal="1963/1963" type="inclusive">1963</unitdate>
-          <container altrender="Letter Document Storage Box" id="73c7c48c9a0dbde423143eaf1a8f5549" label="mixed materials [A0000000089906]" type="box">1</container>
-          <container id="0cee57b01eb10f2317b22dcec00ab006" parent="73c7c48c9a0dbde423143eaf1a8f5549" type="folder">11</container>
-        </did>
-      </c>
-      <c id="2aea4e99e4314ef5819b44a5f23c1255" level="file">
-        <did>
-          <unittitle>Press Book. The Richard Prentice Ettinger Program for Creative Writing. Symposium and Dinner. The Rockefeller Institute</unittitle>
-          <unitdate>1963 October 29</unitdate>
-          <container altrender="Letter Document Storage Box" id="2752de26cf4b8c82696aee6d6b02c39f" label="mixed materials [A0000000089906]" type="box">1</container>
-          <container id="8aa0825d0e9afbe505dc4ddb92f9ad8a" parent="2752de26cf4b8c82696aee6d6b02c39f" type="folder">12</container>
-        </did>
-      </c>
-    </dsc>
-  </archdesc>
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="under_revision" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid>FA958.xml</eadid><filedesc><titlestmt><titleproper type="filing">Rockefeller University records, Rockefeller University Press, Ingests, 1982</titleproper><titleproper>A Guide to the Rockefeller University records, Rockefeller University Press, Ingests, 1982
+ <num>FA958</num></titleproper></titlestmt><publicationstmt><publisher>Rockefeller Archive Center</publisher><address><addressline>15 Dayton Avenue</addressline><addressline>Sleepy Hollow 10591</addressline><addressline>archive@rockarch.org</addressline><addressline>URL: <extptr xlink:href="http://www.rockarch.org" xlink:show="new" xlink:title="http://www.rockarch.org" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2019-03-14 03:11:24 -0400</date>.</creation></profiledesc><revisiondesc><date>2008 October 21</date><item>Paper finding aid converted to EAD/XML by AureXus in 2010. Imported into the Archvists’ Toolkit by Becky Robbins.</item></revisiondesc></eadheader><archdesc level="collection">
+  <did>
+    <langmaterial>
+      <language langcode="eng">English</language>
+    </langmaterial>
+    <repository>
+      <corpname>Rockefeller Archive Center</corpname>
+    </repository>
+    <unittitle>Rockefeller University records, Rockefeller University Press, Ingests, 1982</unittitle>
+    <origination label="creator">
+      <corpname role="aut" rules="dacs">Rockefeller University Press</corpname>
+    </origination>
+    <unitid>FA958</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">0.44 Cubic Feet</extent>
+      <extent altrender="carrier">1 box.</extent>
+    </physdesc>
+    <unitdate normal="1963/1976" type="inclusive">1963-1976</unitdate>
+    <physdesc id="3575253c68c14275c5e2dea962ec259a">1 box.</physdesc>
+  </did>
+  <prefercite id="50ca528f98a301775eae627e01f89409">
+    <head>Preferred Citation note</head>
+<p>Information regarding the Rockefeller Archive Center's preferred elements and forms of citation can be found at <extref href="http://www.rockarch.org/research/citations.php">http://www.rockarch.org/research/citations.php</extref></p>  </prefercite>
+  <processinfo id="3bf5f9d24e3b5e51d82fa96d2551687a">
+    <head>Processing Information</head>
+<p>Processed by CK, 1982 September 13.</p>  </processinfo>
+  <acqinfo id="78165de6f60b104c5beb883bb08d3bf7">
+    <head>Immediate Source of Acquisition</head>
+<p>Material received from RU Press, June 1982.</p>  </acqinfo>
+  <accessrestrict id="2e2cad739f84029305a9f1024f7e400b">
+    <head>Conditions Governing Access</head>
+<p>Collection is open for research. Brittle or damaged items are available at the discretion of RAC.</p>  </accessrestrict>
+  <fileplan id="016b0122514ad04b1f48ef3e5e8d293d">
+    <head>File Plan note</head>
+<p>Former Classification: I 580</p>  </fileplan>
+  <scopecontent id="eadefffc205a3d52e6720b497c0cb601">
+    <head>Scope and Contents</head>
+<p>Documents exhibits and conferences, 1960s-1970s.</p>  </scopecontent>
+  <controlaccess>
+    <subject source="lcsh">Medical research</subject>
+    <subject source="lcsh">Medical education</subject>
+    <subject source="lcsh">Medical sciences</subject>
+    <subject source="lcsh">Life sciences</subject>
+    <subject source="lcsh">Science -- Study and teaching</subject>
+    <subject source="lcsh">Cell and biomolecular sciences</subject>
+    <subject source="lcsh">Medicine, Preventive</subject>
+    <subject source="lcsh">Medical technology</subject>
+    <subject source="lcsh">Biology -- Research</subject>
+  </controlaccess>
+  <dsc><c id="d7700537f523499c9fd28a5a1b5355d8" level="file"><did><unittitle>Arts and Crafts Exhibit</unittitle><unitdate normal="1971/1971" type="inclusive">1971</unitdate><container altrender="Letter Document Storage Box" id="1f32fb6f2559b32a6efff5cc3fce5ca1" label="mixed materials [A0000000089906]" type="box">1</container><container id="0d51577ab87270207636f4bf526756ae" parent="1f32fb6f2559b32a6efff5cc3fce5ca1" type="folder">1</container></did><scopecontent id="918e1743edb6ec1f07fa7cfc52e0d6ea"><head>Scope and Contents</head><p>Includes photographs.</p></scopecontent></c><c id="4e21a23857aa478c86fb4c0ae8da768d" level="file"><did><unittitle>Arts and Crafts Exhibit</unittitle><unitdate normal="1974/1974" type="inclusive">1974</unitdate><container altrender="Letter Document Storage Box" id="67883ce25214af31a381ce2f9fc7d44b" label="mixed materials [A0000000089906]" type="box">1</container><container id="84a4e88393f4d5ca8112306a8dcda2d6" parent="67883ce25214af31a381ce2f9fc7d44b" type="folder">2</container></did><scopecontent id="af6189851d914ca4edee7b0dab0cb36f"><head>Scope and Contents</head><p>Includes photographs.</p></scopecontent></c><c id="124f954fb11f460c9f3ff7b1ab764a9a" level="file"><did><unittitle>Botanical Exhibit</unittitle><unitdate normal="1967/1967" type="inclusive">1967</unitdate><container altrender="Letter Document Storage Box" id="bbeedd7c8991437e39faf94c01a7d249" label="mixed materials [A0000000089906]" type="box">1</container><container id="00256eced677c9f2611f37cb4ed752c7" parent="bbeedd7c8991437e39faf94c01a7d249" type="folder">3</container></did><scopecontent id="fb72681a482b5db847520399bf6da413"><head>Scope and Contents</head><p>Includes photographs.</p></scopecontent></c><c id="c80ced9c52854ab2af8b28ea32e42b33" level="file"><did><unittitle>Minoru Niizuma Sculpture Exhibit</unittitle><container altrender="Letter Document Storage Box" id="c729520d3530dfeb511645d8f052e105" label="mixed materials [A0000000089906]" type="box">1</container><container id="90825af5c8b2aea319c50539fad4fb5e" parent="c729520d3530dfeb511645d8f052e105" type="folder">4</container></did><scopecontent id="579d83836d4c7a2ff6bbc987c358b95e"><head>Scope and Contents</head><p>Includes photographs.</p></scopecontent></c><c id="9456858f8daa48319cf9eba76bd2bd88" level="file"><did><unittitle>Miscellaneous</unittitle><container altrender="Letter Document Storage Box" id="f93de0bf8d5525135ce91806396a0320" label="mixed materials [A0000000089906]" type="box">1</container><container id="f87b1dabce4ef25a8ca0d192b388a386" parent="f93de0bf8d5525135ce91806396a0320" type="folder">5</container></did><scopecontent id="19abe0610fadd23ccea84d54117145d3"><head>Scope and Contents</head><p>Includes photographs.</p></scopecontent></c><c id="d49510055a9c4769be3660892231ac26" level="file"><did><unittitle>Avery Memorial Gateway</unittitle><container altrender="Letter Document Storage Box" id="44e68837157fb8fa834f73d48bad8b09" label="mixed materials [A0000000089906]" type="box">1</container><container id="d8527fb65436a4c4d98ae60d030f4003" parent="44e68837157fb8fa834f73d48bad8b09" type="folder">6</container></did></c><c id="e30eba79cbad43899a4fd81d5e17d849" level="file"><did><unittitle>Dubos, R.J. Book proposal: Biology and Urban Life</unittitle><unitdate normal="1968/1968" type="inclusive">1968</unitdate><container altrender="Letter Document Storage Box" id="47a3ed6fde687a64528d8de5eb419e9b" label="mixed materials [A0000000089906]" type="box">1</container><container id="dde3371cccec73422e228bbdcfa1c898" parent="47a3ed6fde687a64528d8de5eb419e9b" type="folder">7</container></did></c><c id="19d3076337ef47cfa59c31fc9a1596c3" level="file"><did><unittitle>"Beyond Tomorrow" Conference</unittitle><unitdate normal="1976/1976" type="inclusive">1976</unitdate><container altrender="Letter Document Storage Box" id="ead75805129e0345b36d4753931e3977" label="mixed materials [A0000000089906]" type="box">1</container><container id="7090902e86794f4a3a7b2167a800a08c" parent="ead75805129e0345b36d4753931e3977" type="folder">8</container></did></c><c id="77b48f2b52c74660a276d2c872caece4" level="file"><did><unittitle>Peyton Rous Memorial Booklet</unittitle><container altrender="Letter Document Storage Box" id="2a391a00193105260aead2a01ccba62a" label="mixed materials [A0000000089906]" type="box">1</container><container id="0540e5c38ceb8c5e939631af728f6cd6" parent="2a391a00193105260aead2a01ccba62a" type="folder">9-10</container></did></c><c id="2034db1ecb834296bba1005f0827ca20" level="file"><did><unittitle>National Academy of Sciences Centennial</unittitle><unitdate normal="1963/1963" type="inclusive">1963</unitdate><container altrender="Letter Document Storage Box" id="42b7549759502570a7d83d7adf47098c" label="mixed materials [A0000000089906]" type="box">1</container><container id="51634c20c5e8339b4e94e77497a18b70" parent="42b7549759502570a7d83d7adf47098c" type="folder">11</container></did></c><c id="2aea4e99e4314ef5819b44a5f23c1255" level="file"><did><unittitle>Press Book. The Richard Prentice Ettinger Program for Creative Writing. Symposium and Dinner. The Rockefeller Institute</unittitle><unitdate>1963 October 29</unitdate><container altrender="Letter Document Storage Box" id="cef9ab3fdc600b13b5b02abed79aeacf" label="mixed materials [A0000000089906]" type="box">1</container><container id="23a32a9e2658555474e7ececa87d15a3" parent="cef9ab3fdc600b13b5b02abed79aeacf" type="folder">12</container></did></c></dsc>
+</archdesc>
 </ead>

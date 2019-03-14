@@ -1,242 +1,60 @@
-<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
-  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="under_revision" langencoding="iso639-2b" repositoryencoding="iso15511">
-    <eadid>FA181.xml</eadid>
-    <filedesc>
-      <titlestmt>
-        <titleproper type="filing">Michaelis (Leonor) papers</titleproper>
-        <titleproper>A Guide to the Leonor Michaelis papers, Rockefeller Institute for Medical Research Scientific Staff
- <num>FA181</num></titleproper>
-        <author>BJG</author>
-      </titlestmt>
-      <publicationstmt>
-        <publisher>Rockefeller Archive Center</publisher>
-        <p>
-          <date>1989 February 7</date>
-        </p>
-        <address>
-          <addressline>15 Dayton Avenue</addressline>
-          <addressline>Sleepy Hollow 10591</addressline>
-          <addressline>archive@rockarch.org</addressline>
-          <addressline>URL: <extptr xlink:href="http://www.rockarch.org" xlink:show="new" xlink:title="http://www.rockarch.org" xlink:type="simple"/></addressline>
-        </address>
-      </publicationstmt>
-    </filedesc>
-    <profiledesc>
-      <creation>This finding aid was produced using ArchivesSpace on <date>2018-11-02 00:37:52 -0400</date>.</creation>
-    </profiledesc>
-    <revisiondesc>
-      <change>
-        <date>2010 November 9</date>
-        <item>Paper finding aid converted to EAD/XML by AureXus in 2010. Imported into the Archvists’ Toolkit by Becky Robbins.</item>
-      </change>
-    </revisiondesc>
-  </eadheader>
-  <archdesc level="collection">
-    <did>
-      <langmaterial>
-        <language langcode="eng">English</language>
-      </langmaterial>
-      <repository>
-        <corpname>Rockefeller Archive Center</corpname>
-      </repository>
-      <unittitle>Leonor Michaelis papers, Rockefeller Institute for Medical Research Scientific Staff</unittitle>
-      <origination label="creator">
-        <persname role="aut" source="naf">Michaelis, Leonor</persname>
-      </origination>
-      <unitid>FA181</unitid>
-      <physdesc altrender="whole">
-        <extent altrender="materialtype spaceoccupied">0.88 Cubic Feet</extent>
-        <extent altrender="carrier">2 boxes</extent>
-      </physdesc>
-      <unitdate normal="1900/1951" type="inclusive">1900-1951</unitdate>
-      <physdesc id="3970c65ada16f3d3a2171a98e2a93aae">2 boxes</physdesc>
-    </did>
-    <prefercite id="6c964b4c317e714bdbe6b322aa246e98">
-      <head>Preferred Citation</head>
-      <p>Information regarding the Rockefeller Archive Center's preferred elements and forms of citation can be found at <extref href="http://www.rockarch.org/research/citations.php">http://www.rockarch.org/research/citations.php</extref></p>
-    </prefercite>
-    <scopecontent id="c491dcc28c49bc4fdb19466407752516">
-      <head>Scope and Contents</head>
-      <p>Includes an autobiographical sketch, bibliographies, corespondence, curriculum vitaes, manuscripts, obituaries, photographs, and reprints.</p>
-    </scopecontent>
-    <bioghist id="9778ceb5682f1ae571f15d1dbf779f6b">
-      <head>Biographical/Historical note</head>
-      <p>Leonor Michaelis (1875-1949) came to the RIMR as a Member in 1929 and stayed until his death in 1949. His educational background included a solid foundation in the humanities, especially Latin, Greek, and classical philology. He studied with such people as Waldeyer, Hertwig, DuBois-Reymond, and Emil Fischer. It was with Hertwig that he began investigating embryology. After medical school, Michaelis spent a year as an assistant to Paul Ehrlich. During that year he acquired an interest in the staining of tissues - an interest that never left him.</p>
-      <p>In 1921, Dr. Michaelis was made a Professor (Extra-ordinarius) at the University of Berlin, but went to Nagoya, Japan, instead because of the lack of laboratory space and equipment in Berlin. During his three years in Japan, he studied semipermeable membranes and continued this work after he went to Johns Hopkins as a visiting lecturer. In 1922, he published a book on oxidation-reduction potentials.</p>
-    </bioghist>
-    <arrangement id="3940c4f51edc471350e4ba79149aab32">
-      <head>Arrangement note</head>
-      <p>Arrangement by subject.</p>
-    </arrangement>
-    <fileplan id="0e6bdda06c250fcf835995776e5feb57">
-      <head>File Plan note</head>
-      <p>Former Classification: I 450 M582</p>
-    </fileplan>
-    <accessrestrict id="44f79397e34d86e289c4e1adbfd454d7">
-      <head>Conditions Governing Access note</head>
-      <p>Access to this collection is restricted pending permission from Rockefeller University.</p>
-    </accessrestrict>
-    <processinfo id="7a9f97d1999055bbacfa92b373b97028">
-      <head>Processing Information</head>
-      <p>Inventorying completed by BJG, 1989 February 7.</p>
-    </processinfo>
-    <controlaccess>
-      <subject source="lcsh">Enzymes</subject>
-      <subject source="lcsh">Enzymology</subject>
-      <subject source="lcsh">Electrochemistry</subject>
-      <subject source="lcsh">Biochemistry</subject>
-      <subject source="lcsh">Medical sciences</subject>
-      <subject source="lcsh">Biology -- Research</subject>
-      <subject source="lcsh">Cell and biomolecular sciences</subject>
-      <subject source="lcsh">Chemistry</subject>
-      <subject source="lcsh">Medical research</subject>
-      <subject source="lcsh">Proteins</subject>
-      <corpname role="ctb" source="naf">Rockefeller University</corpname>
-      <corpname role="ctb" source="naf">Rockefeller Institute for Medical Research</corpname>
-    </controlaccess>
-    <dsc>
-      <c id="de3ecd1dd9184a5f9d8ea69606289b96" level="file">
-        <did>
-          <unittitle>Autobiographic sketch</unittitle>
-          <unitdate normal="1948/1948" type="inclusive">1948</unitdate>
-          <container altrender="Letter Document Storage Box" id="5bc0d0474f8aa55b85c7b84188fcf55f" label="mixed materials [A0000000089917]" type="box">1</container>
-          <container id="025dbe06f565e2521e11989e0cfcf259" parent="5bc0d0474f8aa55b85c7b84188fcf55f" type="folder">1</container>
-        </did>
-      </c>
-      <c id="864ff407dfce4a1aa177f459363782a0" level="file">
-        <did>
-          <unittitle>Curriculum vitae</unittitle>
-          <unitdate normal="1943/1943" type="inclusive">1943</unitdate>
-          <container altrender="Letter Document Storage Box" id="98512042aab2290afc032d7643d9589c" label="mixed materials [A0000000089917]" type="box">1</container>
-          <container id="c9fd691313dfd8578ad2aea239c68e11" parent="98512042aab2290afc032d7643d9589c" type="folder">2</container>
-        </did>
-      </c>
-      <c id="678a3bd85a844f43aa7055119bf51625" level="file">
-        <did>
-          <unittitle>Memorial minute by H. S. Gasser</unittitle>
-          <unitdate normal="1950/1950" type="inclusive">1950</unitdate>
-          <container altrender="Letter Document Storage Box" id="0119a434ac82f758f41ad2aed49be4a0" label="mixed materials [A0000000089917]" type="box">1</container>
-          <container id="efec50211215042ba1261eaaaf3bcd11" parent="0119a434ac82f758f41ad2aed49be4a0" type="folder">3</container>
-        </did>
-      </c>
-      <c id="530f6de8b5a94c4886d744d03605fde8" level="file">
-        <did>
-          <unittitle>NAS Biographical Memoir</unittitle>
-          <unitdate normal="1951/1951" type="inclusive">1951</unitdate>
-          <container altrender="Letter Document Storage Box" id="b40c086f7637d302304ed991374dfccf" label="mixed materials [A0000000089917]" type="box">1</container>
-          <container id="4a8df1c7737d35e5b4712da7cf5730c8" parent="b40c086f7637d302304ed991374dfccf" type="folder">4</container>
-        </did>
-      </c>
-      <c id="9f4f3f4dc7bd475982f9165b876d25c7" level="file">
-        <did>
-          <unittitle>Obituaries and memorials, general</unittitle>
-          <unitdate normal="1949/1950" type="inclusive">1949-1950</unitdate>
-          <container altrender="Letter Document Storage Box" id="139b67a5983db41dc9c51cf7d257cc7c" label="mixed materials [A0000000089917]" type="box">1</container>
-          <container id="2eb5fac5a7f2047f988414abe093a45d" parent="139b67a5983db41dc9c51cf7d257cc7c" type="folder">5</container>
-        </did>
-      </c>
-      <c id="3303edb86a7048709c0c86a0ce3431b7" level="file">
-        <did>
-          <unittitle>Photographs</unittitle>
-          <container altrender="Letter Document Storage Box" id="25a6221255dab6629f8929b8ef509583" label="mixed materials [A0000000089917]" type="box">1</container>
-          <container id="b914234213b64952f25c892cea8f8c92" parent="25a6221255dab6629f8929b8ef509583" type="folder">6</container>
-        </did>
-      </c>
-      <c id="1d6a814f4a7145f49f6627eb69efcfe9" level="file">
-        <did>
-          <unittitle>Incomplete scientific manuscripts</unittitle>
-          <unitdate>undated</unitdate>
-          <container altrender="Letter Document Storage Box" id="8342122b18b7433dd8e1379ee0da9d47" label="mixed materials [A0000000089917]" type="box">1</container>
-          <container id="920d5595dc3f60bb9a0ad1cfe0ca6d1e" parent="8342122b18b7433dd8e1379ee0da9d47" type="folder">7</container>
-        </did>
-      </c>
-      <c id="72a916c2bcbe4d6cb98add7c72799264" level="file">
-        <did>
-          <unittitle>Bibliographies, incomplete</unittitle>
-          <container altrender="Letter Document Storage Box" id="691b843da0dcd4713a43198e56531360" label="mixed materials [A0000000089917]" type="box">1</container>
-          <container id="50247249364b64a9b048efc1e3cc8a86" parent="691b843da0dcd4713a43198e56531360" type="folder">8</container>
-        </did>
-      </c>
-      <c id="ea40cfcaae6648e3bd86436ca8af73a3" level="file">
-        <did>
-          <unittitle>Administrative Correspondence</unittitle>
-          <unitdate normal="1929/1929" type="inclusive">1929</unitdate>
-          <container altrender="Letter Document Storage Box" id="990c032281de374f54f89764f8400b8f" label="mixed materials [A0000000089917]" type="box">1</container>
-          <container id="6e47b036a594790a9ad0812255ca2688" parent="990c032281de374f54f89764f8400b8f" type="folder">9</container>
-        </did>
-      </c>
-      <c id="ead860d6cb1047e4a444f100b48f3933" level="file">
-        <did>
-          <unittitle>Administrative Correspondence</unittitle>
-          <unitdate normal="1930/1938" type="inclusive">1930-1938</unitdate>
-          <container altrender="Letter Document Storage Box" id="844f838051f48058c36953f29c962ba2" label="mixed materials [A0000000089917]" type="box">1</container>
-          <container id="733385556c25adbb7c6c80a5a9da5c42" parent="844f838051f48058c36953f29c962ba2" type="folder">10</container>
-        </did>
-      </c>
-      <c id="5eb900e5210f4f2693c450646f97b21d" level="file">
-        <did>
-          <unittitle>Administrative Correspondence</unittitle>
-          <unitdate normal="1939/1949" type="inclusive">1939-1949</unitdate>
-          <container altrender="Letter Document Storage Box" id="68524a8d6e856126c46494e91280edeb" label="mixed materials [A0000000089917]" type="box">1</container>
-          <container id="80668628ceb37777f18323301db61f72" parent="68524a8d6e856126c46494e91280edeb" type="folder">11</container>
-        </did>
-      </c>
-      <c id="2d4c0a7fefb04d2db3a04bdce38937ab" level="file">
-        <did>
-          <unittitle>Posthumous Correspondence</unittitle>
-          <unitdate normal="1949/1951" type="inclusive">1949-1951</unitdate>
-          <container altrender="Letter Document Storage Box" id="8093dc79c4ac34fd4c6efba9d34d623e" label="mixed materials [A0000000089917]" type="box">1</container>
-          <container id="9a86c60b32ebb57871e4bdf4bca47f57" parent="8093dc79c4ac34fd4c6efba9d34d623e" type="folder">12</container>
-        </did>
-      </c>
-      <c id="5aeae4400eb2404e9ac3546b5579a275" level="file">
-        <did>
-          <unittitle>Bibliography</unittitle>
-          <unitdate normal="1950/1950" type="inclusive">1950</unitdate>
-          <container altrender="Letter Document Storage Box" id="a2187733a4dee25ea600b4c31c4e502a" label="mixed materials [A0000000089918]" type="box">2</container>
-          <container id="df0944ddd6f8c3430939b68c0dd79e2e" parent="a2187733a4dee25ea600b4c31c4e502a" type="folder">1</container>
-        </did>
-      </c>
-      <c id="e9e6fd7a02ee46da805242c804b8da22" level="file">
-        <did>
-          <unittitle>Reprints</unittitle>
-          <unitdate normal="1900/1912" type="inclusive">1900-1912</unitdate>
-          <container altrender="Letter Document Storage Box" id="53c1b9d64e66ffd8ee6a904d2279a725" label="mixed materials [A0000000089918]" type="box">2</container>
-          <container id="7775ae0a1e7929659d8940c4ce65be72" parent="53c1b9d64e66ffd8ee6a904d2279a725" type="folder">2</container>
-        </did>
-      </c>
-      <c id="fa5f62305f124a39b01b81342296fe9c" level="file">
-        <did>
-          <unittitle>Reprints</unittitle>
-          <unitdate normal="1913/1924" type="inclusive">1913-1924</unitdate>
-          <container altrender="Letter Document Storage Box" id="7be9faa487875aab0153015331c4b9c3" label="mixed materials [A0000000089918]" type="box">2</container>
-          <container id="e47059f117eac39009ec1179d564746a" parent="7be9faa487875aab0153015331c4b9c3" type="folder">3</container>
-        </did>
-      </c>
-      <c id="563e482a8dfa412fb6461acf551a88c7" level="file">
-        <did>
-          <unittitle>Reprints</unittitle>
-          <unitdate normal="1925/1932" type="inclusive">1925-1932</unitdate>
-          <container altrender="Letter Document Storage Box" id="3711a76ab0a36e23e0befe14cb48b0af" label="mixed materials [A0000000089918]" type="box">2</container>
-          <container id="fbc2250a9fb71bba827c824320a9d902" parent="3711a76ab0a36e23e0befe14cb48b0af" type="folder">4</container>
-        </did>
-      </c>
-      <c id="899c7cb04125443aa4871a187e4233a6" level="file">
-        <did>
-          <unittitle>Reprints</unittitle>
-          <unitdate normal="1929/1946" type="inclusive">1929-1946</unitdate>
-          <container altrender="Letter Document Storage Box" id="169a9c07eec92239350230a1e18eb0e2" label="mixed materials [A0000000089918]" type="box">2</container>
-          <container id="befa99b77676460fa9586f984171cc0b" parent="169a9c07eec92239350230a1e18eb0e2" type="folder">5</container>
-        </did>
-      </c>
-      <c id="5565a09239bc417eb1c00f7406405dac" level="file">
-        <did>
-          <unittitle>Reprints</unittitle>
-          <unitdate normal="1931/1950" type="inclusive">1931-1950</unitdate>
-          <container altrender="Letter Document Storage Box" id="f65314e020177cfe996419eeda7149ff" label="mixed materials [A0000000089918]" type="box">2</container>
-          <container id="a36436cc81356548eff40b0eddc8a060" parent="f65314e020177cfe996419eeda7149ff" type="folder">6</container>
-        </did>
-      </c>
-    </dsc>
-  </archdesc>
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="under_revision" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid>FA181.xml</eadid><filedesc><titlestmt><titleproper type="filing">Michaelis (Leonor) papers</titleproper><titleproper>A Guide to the Leonor Michaelis papers, Rockefeller Institute for Medical Research Scientific Staff
+ <num>FA181</num></titleproper><author>BJG</author></titlestmt><publicationstmt><publisher>Rockefeller Archive Center</publisher><p><date>1989 February 7</date></p><address><addressline>15 Dayton Avenue</addressline><addressline>Sleepy Hollow 10591</addressline><addressline>archive@rockarch.org</addressline><addressline>URL: <extptr xlink:href="http://www.rockarch.org" xlink:show="new" xlink:title="http://www.rockarch.org" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2019-03-14 00:26:00 -0400</date>.</creation></profiledesc><revisiondesc><change><date>2010 November 9</date><item>Paper finding aid converted to EAD/XML by AureXus in 2010. Imported into the Archvists’ Toolkit by Becky Robbins.</item></change></revisiondesc></eadheader><archdesc level="collection">
+  <did>
+    <langmaterial>
+      <language langcode="eng">English</language>
+    </langmaterial>
+    <repository>
+      <corpname>Rockefeller Archive Center</corpname>
+    </repository>
+    <unittitle>Leonor Michaelis papers, Rockefeller Institute for Medical Research Scientific Staff</unittitle>
+    <origination label="creator">
+      <persname role="aut" source="naf">Michaelis, Leonor</persname>
+    </origination>
+    <unitid>FA181</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">0.88 Cubic Feet</extent>
+      <extent altrender="carrier">2 boxes</extent>
+    </physdesc>
+    <unitdate normal="1900/1951" type="inclusive">1900-1951</unitdate>
+    <physdesc id="3970c65ada16f3d3a2171a98e2a93aae">2 boxes</physdesc>
+  </did>
+  <prefercite id="6c964b4c317e714bdbe6b322aa246e98">
+    <head>Preferred Citation</head>
+<p>Information regarding the Rockefeller Archive Center's preferred elements and forms of citation can be found at <extref href="http://www.rockarch.org/research/citations.php">http://www.rockarch.org/research/citations.php</extref></p>  </prefercite>
+  <scopecontent id="c491dcc28c49bc4fdb19466407752516">
+    <head>Scope and Contents</head>
+<p>Includes an autobiographical sketch, bibliographies, corespondence, curriculum vitaes, manuscripts, obituaries, photographs, and reprints.</p>  </scopecontent>
+  <bioghist id="9778ceb5682f1ae571f15d1dbf779f6b">
+    <head>Biographical/Historical note</head>
+<p>Leonor Michaelis (1875-1949) came to the RIMR as a Member in 1929 and stayed until his death in 1949. His educational background included a solid foundation in the humanities, especially Latin, Greek, and classical philology. He studied with such people as Waldeyer, Hertwig, DuBois-Reymond, and Emil Fischer. It was with Hertwig that he began investigating embryology. After medical school, Michaelis spent a year as an assistant to Paul Ehrlich. During that year he acquired an interest in the staining of tissues - an interest that never left him.</p><p>In 1921, Dr. Michaelis was made a Professor (Extra-ordinarius) at the University of Berlin, but went to Nagoya, Japan, instead because of the lack of laboratory space and equipment in Berlin. During his three years in Japan, he studied semipermeable membranes and continued this work after he went to Johns Hopkins as a visiting lecturer. In 1922, he published a book on oxidation-reduction potentials.</p>  </bioghist>
+  <arrangement id="3940c4f51edc471350e4ba79149aab32">
+    <head>Arrangement note</head>
+<p>Arrangement by subject.</p>  </arrangement>
+  <fileplan id="0e6bdda06c250fcf835995776e5feb57">
+    <head>File Plan note</head>
+<p>Former Classification: I 450 M582</p>  </fileplan>
+  <accessrestrict id="44f79397e34d86e289c4e1adbfd454d7">
+    <head>Conditions Governing Access note</head>
+<p>Access to this collection is restricted pending permission from Rockefeller University.</p>  </accessrestrict>
+  <processinfo id="7a9f97d1999055bbacfa92b373b97028">
+    <head>Processing Information</head>
+<p>Inventorying completed by BJG, 1989 February 7.</p>  </processinfo>
+  <controlaccess>
+    <subject source="lcsh">Enzymes</subject>
+    <subject source="lcsh">Enzymology</subject>
+    <subject source="lcsh">Electrochemistry</subject>
+    <subject source="lcsh">Biochemistry</subject>
+    <subject source="lcsh">Medical sciences</subject>
+    <subject source="lcsh">Biology -- Research</subject>
+    <subject source="lcsh">Cell and biomolecular sciences</subject>
+    <subject source="lcsh">Chemistry</subject>
+    <subject source="lcsh">Medical research</subject>
+    <subject source="lcsh">Proteins</subject>
+    <corpname role="ctb" source="naf">Rockefeller University</corpname>
+    <corpname role="ctb" source="naf">Rockefeller Institute for Medical Research</corpname>
+  </controlaccess>
+  <dsc><c id="de3ecd1dd9184a5f9d8ea69606289b96" level="file"><did><unittitle>Autobiographic sketch</unittitle><unitdate normal="1948/1948" type="inclusive">1948</unitdate><container altrender="Letter Document Storage Box" id="4eb5adf0aace15c7a63d96e9a3a43ddc" label="mixed materials [A0000000089917]" type="box">1</container><container id="2a853483570a817e0ac46dc2acc542ca" parent="4eb5adf0aace15c7a63d96e9a3a43ddc" type="folder">1</container></did></c><c id="864ff407dfce4a1aa177f459363782a0" level="file"><did><unittitle>Curriculum vitae</unittitle><unitdate normal="1943/1943" type="inclusive">1943</unitdate><container altrender="Letter Document Storage Box" id="b22199faeeb6b1dbad8f87d43717c012" label="mixed materials [A0000000089917]" type="box">1</container><container id="1c8e011701fd7e19cfe32894f625d490" parent="b22199faeeb6b1dbad8f87d43717c012" type="folder">2</container></did></c><c id="678a3bd85a844f43aa7055119bf51625" level="file"><did><unittitle>Memorial minute by H. S. Gasser</unittitle><unitdate normal="1950/1950" type="inclusive">1950</unitdate><container altrender="Letter Document Storage Box" id="4c37fe5304379a787608a3c27dde0934" label="mixed materials [A0000000089917]" type="box">1</container><container id="c5bd41ac748cb6e7579dc3bf18b8c66f" parent="4c37fe5304379a787608a3c27dde0934" type="folder">3</container></did></c><c id="530f6de8b5a94c4886d744d03605fde8" level="file"><did><unittitle>NAS Biographical Memoir</unittitle><unitdate normal="1951/1951" type="inclusive">1951</unitdate><container altrender="Letter Document Storage Box" id="ca51e246b93123fa77fe596bc5fff6c1" label="mixed materials [A0000000089917]" type="box">1</container><container id="7ad0bcf88bba0c32acf912be4d2b880d" parent="ca51e246b93123fa77fe596bc5fff6c1" type="folder">4</container></did></c><c id="9f4f3f4dc7bd475982f9165b876d25c7" level="file"><did><unittitle>Obituaries and memorials, general</unittitle><unitdate normal="1949/1950" type="inclusive">1949-1950</unitdate><container altrender="Letter Document Storage Box" id="caa41f761f10fcb72b5c8d61e8040d41" label="mixed materials [A0000000089917]" type="box">1</container><container id="396780f0fe8ded727ce63735fa377846" parent="caa41f761f10fcb72b5c8d61e8040d41" type="folder">5</container></did></c><c id="3303edb86a7048709c0c86a0ce3431b7" level="file"><did><unittitle>Photographs</unittitle><container altrender="Letter Document Storage Box" id="8833deeda3bced776dddfda4d12440aa" label="mixed materials [A0000000089917]" type="box">1</container><container id="b637f3836dd0c8d247641da1570158de" parent="8833deeda3bced776dddfda4d12440aa" type="folder">6</container></did></c><c id="1d6a814f4a7145f49f6627eb69efcfe9" level="file"><did><unittitle>Incomplete scientific manuscripts</unittitle><unitdate>undated</unitdate><container altrender="Letter Document Storage Box" id="fa94d7ba8c5719ec4697bcb41f93bb9b" label="mixed materials [A0000000089917]" type="box">1</container><container id="619745f0618070c6439dc5f87e861c2c" parent="fa94d7ba8c5719ec4697bcb41f93bb9b" type="folder">7</container></did></c><c id="72a916c2bcbe4d6cb98add7c72799264" level="file"><did><unittitle>Bibliographies, incomplete</unittitle><container altrender="Letter Document Storage Box" id="fa39c600c5de05024458d6f05bd53d39" label="mixed materials [A0000000089917]" type="box">1</container><container id="d95472c2fcc0b74a6b2e5e7785c1c38c" parent="fa39c600c5de05024458d6f05bd53d39" type="folder">8</container></did></c><c id="ea40cfcaae6648e3bd86436ca8af73a3" level="file"><did><unittitle>Administrative Correspondence</unittitle><unitdate normal="1929/1929" type="inclusive">1929</unitdate><container altrender="Letter Document Storage Box" id="4d50fb6d6f905903656ab22c64c3eb0c" label="mixed materials [A0000000089917]" type="box">1</container><container id="250bebce0b4eb1540c9a01c32779f90c" parent="4d50fb6d6f905903656ab22c64c3eb0c" type="folder">9</container></did></c><c id="ead860d6cb1047e4a444f100b48f3933" level="file"><did><unittitle>Administrative Correspondence</unittitle><unitdate normal="1930/1938" type="inclusive">1930-1938</unitdate><container altrender="Letter Document Storage Box" id="5eb62de50852cba39fbc84736d89b040" label="mixed materials [A0000000089917]" type="box">1</container><container id="fb0594d97e9cef79fd79b4501745e947" parent="5eb62de50852cba39fbc84736d89b040" type="folder">10</container></did></c><c id="5eb900e5210f4f2693c450646f97b21d" level="file"><did><unittitle>Administrative Correspondence</unittitle><unitdate normal="1939/1949" type="inclusive">1939-1949</unitdate><container altrender="Letter Document Storage Box" id="0d163e43f8ed92e5d09e181bb5f7e047" label="mixed materials [A0000000089917]" type="box">1</container><container id="ae1769320acceb017e9a9e65457b5cd6" parent="0d163e43f8ed92e5d09e181bb5f7e047" type="folder">11</container></did></c><c id="2d4c0a7fefb04d2db3a04bdce38937ab" level="file"><did><unittitle>Posthumous Correspondence</unittitle><unitdate normal="1949/1951" type="inclusive">1949-1951</unitdate><container altrender="Letter Document Storage Box" id="949ff7dd879fbd905fd9d6fee429fc9f" label="mixed materials [A0000000089917]" type="box">1</container><container id="eb5d39c1f4999388c8fa8f9b7cea2c5e" parent="949ff7dd879fbd905fd9d6fee429fc9f" type="folder">12</container></did></c><c id="5aeae4400eb2404e9ac3546b5579a275" level="file"><did><unittitle>Bibliography</unittitle><unitdate normal="1950/1950" type="inclusive">1950</unitdate><container altrender="Letter Document Storage Box" id="09d06e40c07bee9a70b5bb5be7589735" label="mixed materials [A0000000089918]" type="box">2</container><container id="7e11ad97b37840536521a0df3dbbe592" parent="09d06e40c07bee9a70b5bb5be7589735" type="folder">1</container></did></c><c id="e9e6fd7a02ee46da805242c804b8da22" level="file"><did><unittitle>Reprints</unittitle><unitdate normal="1900/1912" type="inclusive">1900-1912</unitdate><container altrender="Letter Document Storage Box" id="60e87688953f67a9fd03b2a5da072e0c" label="mixed materials [A0000000089918]" type="box">2</container><container id="a1402685c29ac37357ee091f576b7e0b" parent="60e87688953f67a9fd03b2a5da072e0c" type="folder">2</container></did></c><c id="fa5f62305f124a39b01b81342296fe9c" level="file"><did><unittitle>Reprints</unittitle><unitdate normal="1913/1924" type="inclusive">1913-1924</unitdate><container altrender="Letter Document Storage Box" id="ba67c79be83beba48fe16de9ae8eabe1" label="mixed materials [A0000000089918]" type="box">2</container><container id="4bf77ca092fae855156cb1591d4c36fc" parent="ba67c79be83beba48fe16de9ae8eabe1" type="folder">3</container></did></c><c id="563e482a8dfa412fb6461acf551a88c7" level="file"><did><unittitle>Reprints</unittitle><unitdate normal="1925/1932" type="inclusive">1925-1932</unitdate><container altrender="Letter Document Storage Box" id="e6cf2fe1ee88f14e7134cad7bd7b9e95" label="mixed materials [A0000000089918]" type="box">2</container><container id="3c24bd51ab231957b184ed3a9e8394e3" parent="e6cf2fe1ee88f14e7134cad7bd7b9e95" type="folder">4</container></did></c><c id="899c7cb04125443aa4871a187e4233a6" level="file"><did><unittitle>Reprints</unittitle><unitdate normal="1929/1946" type="inclusive">1929-1946</unitdate><container altrender="Letter Document Storage Box" id="7f4e321849784a06cf769baebd122148" label="mixed materials [A0000000089918]" type="box">2</container><container id="dea4510f4519defdb309654327207375" parent="7f4e321849784a06cf769baebd122148" type="folder">5</container></did></c><c id="5565a09239bc417eb1c00f7406405dac" level="file"><did><unittitle>Reprints</unittitle><unitdate normal="1931/1950" type="inclusive">1931-1950</unitdate><container altrender="Letter Document Storage Box" id="9f00341c2e91ad5ca19b11974384cf27" label="mixed materials [A0000000089918]" type="box">2</container><container id="9f1804cda21b5264e81265fd4833fad5" parent="9f00341c2e91ad5ca19b11974384cf27" type="folder">6</container></did></c></dsc>
+</archdesc>
 </ead>

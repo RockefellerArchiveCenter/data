@@ -1,1051 +1,295 @@
-<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
-  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="under_revision" langencoding="iso639-2b" repositoryencoding="iso15511">
-    <eadid>FA199.xml</eadid>
-    <filedesc>
-      <titlestmt>
-        <titleproper type="filing">Shope (Richard E.) papers</titleproper>
-        <titleproper>A Guide to the Richard E. Shope papers, Rockefeller University Faculty
- <num>FA199</num></titleproper>
-      </titlestmt>
-      <publicationstmt>
-        <publisher>Rockefeller Archive Center</publisher>
-        <address>
-          <addressline>15 Dayton Avenue</addressline>
-          <addressline>Sleepy Hollow 10591</addressline>
-          <addressline>archive@rockarch.org</addressline>
-          <addressline>URL: <extptr xlink:href="http://www.rockarch.org" xlink:show="new" xlink:title="http://www.rockarch.org" xlink:type="simple"/></addressline>
-        </address>
-      </publicationstmt>
-    </filedesc>
-    <profiledesc>
-      <creation>This finding aid was produced using ArchivesSpace on <date>2019-02-21 00:07:11 -0500</date>.</creation>
-    </profiledesc>
-    <revisiondesc>
-      <change>
-        <date>2010 September 30</date>
-        <item>Paper finding aid converted to EAD/XML by AureXus in 2010. Imported into the Archvists’ Toolkit by Becky Robbins.</item>
-      </change>
-    </revisiondesc>
-  </eadheader>
-  <archdesc level="collection">
-    <did>
-      <langmaterial>
-        <language langcode="eng">English</language>
-      </langmaterial>
-      <repository>
-        <corpname>Rockefeller Archive Center</corpname>
-      </repository>
-      <unittitle>Richard E. Shope papers, Rockefeller University Faculty</unittitle>
-      <origination label="creator">
-        <persname role="aut" source="naf">Shope, Richard E. (Richard Edwin)</persname>
-      </origination>
-      <unitid>FA199</unitid>
-      <physdesc altrender="whole">
-        <extent altrender="materialtype spaceoccupied">1 Cubic Feet</extent>
-      </physdesc>
-      <unitdate normal="1925/1971" type="inclusive">1925-1971</unitdate>
-      <physdesc id="5ba6ffe53d327caab6934ed0cbca416e">1 box(2 packages Collected Reprints).</physdesc>
-    </did>
-    <bioghist id="072c2bc619b75c566ed144c47e0a087d">
-      <head>Biographical/Historical note</head>
-      <p>Richard Edwin Shope; 1901-1966, physician and researcher in the field of virology at The Rockefeller Institute for Medical Research, first in the Department of Animal Pathology at Princeton and later at the laboratories in New York City. He discovered the cause of swine influenza and anticipated a similar observation in humans; he identified the "mad itch" virus (disease in Midwestern cattle). He discovered two virus tumors of rabbits, one a fibroma and the other a papiloma which progresses to cancer. During the World War II he directed the work with rinderpest virus leading to development of a vaccine against this disease in cattle. His last work was in epidemiology and he worked with the natural history of three animal diseases and two virus diseases in deer.</p>
-      <chronlist>
-        <head>Biographical note</head>
-        <chronitem>
-          <date>1901 </date>
-          <eventgrp>
-            <event>Born December 25 Des Moines, Iowa</event>
-          </eventgrp>
-        </chronitem>
-        <chronitem>
-          <date>1924 </date>
-          <eventgrp>
-            <event>M.D. State University of Iowa</event>
-          </eventgrp>
-        </chronitem>
-        <chronitem>
-          <date>1924-1925 </date>
-          <eventgrp>
-            <event>Instructor, pharmacology and materia medica, State University of Iowa College of Medicine</event>
-          </eventgrp>
-        </chronitem>
-        <chronitem>
-          <date>1925 </date>
-          <eventgrp>
-            <event>Married Helen Ellis</event>
-          </eventgrp>
-        </chronitem>
-        <chronitem>
-          <date>1925-1930 </date>
-          <eventgrp>
-            <event>Assistant Department of Animal Pathology Rockefeller Institute for Medical Research, Princeton</event>
-          </eventgrp>
-        </chronitem>
-        <chronitem>
-          <date>1930-1934 </date>
-          <eventgrp>
-            <event>Associate RIMR Animal Pathology</event>
-          </eventgrp>
-        </chronitem>
-        <chronitem>
-          <date>1934-1940 </date>
-          <eventgrp>
-            <event>Associate Member RIMR Animal Pathology</event>
-          </eventgrp>
-        </chronitem>
-        <chronitem>
-          <date>1940-1949 </date>
-          <eventgrp>
-            <event>Member RIMR Animal Pathology</event>
-          </eventgrp>
-        </chronitem>
-        <chronitem>
-          <date>1943-1946 </date>
-          <eventgrp>
-            <event>Commander U.S. Navy</event>
-          </eventgrp>
-        </chronitem>
-        <chronitem>
-          <date>1949-1952 </date>
-          <eventgrp>
-            <event>Associate Director Merck Institute</event>
-          </eventgrp>
-        </chronitem>
-        <chronitem>
-          <date>1952-1966 </date>
-          <eventgrp>
-            <event>Member and Professor Rockefeller Institute and Rockefeller University, New York City</event>
-          </eventgrp>
-        </chronitem>
-        <chronitem>
-          <date>1966 </date>
-          <eventgrp>
-            <event>October 2 Died James Ewing Hospital, New York City.</event>
-          </eventgrp>
-        </chronitem>
-      </chronlist>
-      <chronlist>
-        <head>War Service</head>
-        <chronitem>
-          <date>September 1942-April 1944</date>
-          <eventgrp>
-            <event>Director, War Disease Control Station, Grosse Ile, Province of Quebec. Worked on rinderpest leading to development of an effective vaccine.</event>
-          </eventgrp>
-        </chronitem>
-        <chronitem>
-          <date>1944-1946</date>
-          <eventgrp>
-            <event>Pacific area member of Naval Medical Research Unit #2 to go ashore and appraise medical hazards for troops ashore.</event>
-          </eventgrp>
-        </chronitem>
-      </chronlist>
-      <chronlist>
-        <head>Honorary degrees</head>
-        <chronitem>
-          <date>1936 </date>
-          <eventgrp>
-            <event>M.S. Yale University</event>
-          </eventgrp>
-        </chronitem>
-        <chronitem>
-          <date>1951 </date>
-          <eventgrp>
-            <event>V.M.D. University of Utrecht, Holland</event>
-          </eventgrp>
-        </chronitem>
-        <chronitem>
-          <date>1954 </date>
-          <eventgrp>
-            <event>Sc. D. Rutgers University</event>
-          </eventgrp>
-        </chronitem>
-        <chronitem>
-          <date>1957 </date>
-          <eventgrp>
-            <event>V.M.D. Justus-Liebig University Giessen, Germany</event>
-          </eventgrp>
-        </chronitem>
-        <chronitem>
-          <date>1958 </date>
-          <eventgrp>
-            <event>Sc. D. University of Chicago</event>
-          </eventgrp>
-        </chronitem>
-        <chronitem>
-          <date>1959 </date>
-          <eventgrp>
-            <event>Sc. D. University of Pennsylvania</event>
-          </eventgrp>
-        </chronitem>
-        <chronitem>
-          <date>1963 </date>
-          <eventgrp>
-            <event>Sc. D. State University of Iowa</event>
-          </eventgrp>
-        </chronitem>
-      </chronlist>
-      <chronlist>
-        <head>Awards</head>
-        <chronitem>
-          <date>1936 </date>
-          <eventgrp>
-            <event>Sigma Xi Semi-Centennial Research Award</event>
-          </eventgrp>
-        </chronitem>
-        <chronitem>
-          <date>1937 </date>
-          <eventgrp>
-            <event>John Phillips Memorial Medal American College of Physicians</event>
-          </eventgrp>
-        </chronitem>
-        <chronitem>
-          <date>1938 </date>
-          <eventgrp>
-            <event>Alvarenga Prize - College of Physicians</event>
-          </eventgrp>
-        </chronitem>
-        <chronitem>
-          <date>1943 </date>
-          <eventgrp>
-            <event>John Scott Medal and Award, City of Philadelphia</event>
-          </eventgrp>
-        </chronitem>
-        <chronitem>
-          <date>1964 </date>
-          <eventgrp>
-            <event>Legion of Merit U.S. Army</event>
-          </eventgrp>
-        </chronitem>
-        <chronitem>
-          <date>1947 </date>
-          <eventgrp>
-            <event>Certificate of Accomplishment, State University of Iowa</event>
-          </eventgrp>
-        </chronitem>
-        <chronitem>
-          <date>1952 </date>
-          <eventgrp>
-            <event>Anna Fuller Memorial Prize</event>
-          </eventgrp>
-        </chronitem>
-        <chronitem>
-          <date>1956 </date>
-          <eventgrp>
-            <event>Commendation. Department of Conservation and Economic Development State of New Jersey</event>
-          </eventgrp>
-        </chronitem>
-        <chronitem>
-          <date>1956 </date>
-          <eventgrp>
-            <event>Special Commendation. U.S. Department of HEW</event>
-          </eventgrp>
-        </chronitem>
-        <chronitem>
-          <date>1957 </date>
-          <eventgrp>
-            <event>Kober Medal. Association of American Physicians</event>
-          </eventgrp>
-        </chronitem>
-        <chronitem>
-          <date>1957 </date>
-          <eventgrp>
-            <event>Albert Lasker Award</event>
-          </eventgrp>
-        </chronitem>
-        <chronitem>
-          <date>1959 </date>
-          <eventgrp>
-            <event>Bertner Foundation Award</event>
-          </eventgrp>
-        </chronitem>
-        <chronitem>
-          <date>1963 </date>
-          <eventgrp>
-            <event>Howard Taylor Ricketts Memorial Award</event>
-          </eventgrp>
-        </chronitem>
-        <chronitem>
-          <date>1963 </date>
-          <eventgrp>
-            <event>Special Citation. American Cancer Society</event>
-          </eventgrp>
-        </chronitem>
-        <chronitem>
-          <date>1965 </date>
-          <eventgrp>
-            <event>New York Academy of Medicine Medal</event>
-          </eventgrp>
-        </chronitem>
-      </chronlist>
-      <p>Member: National Academy of Sciences, American Philosophical Society, Association of American Physicians, Society for Experimental Pathology, Society for Experimental Biology and Medicine, Harvey Society, Sigma Xi, American Public Health Association, United States Livestock Sanitary Association, American Epidemiological Society, American Academy of Arts and Sciences.</p>
-      <p>Honorary Member: Eastern Iowa Veterinary Association, American Veterinary Medical Association, New York Pathological Soc., Royal Society of Medicine, Great Britain, Central New Jersey Veterinary Medical Association, American Board of Veterinary Public Health (Honorary Fellow)</p>
-      <p>Served on: Board of Scientific advisors - Jane Coffine Childs Fund for Medical Research, Scientific advisors, Merck Institute, Aftosa Technical Advisory Group, Pan American Sanitary Bureau, Zoonoses Technical Advisory Group, Pan American Sanitary Bureau, Board of Scientific Consultants, Sloan-Kettering Institute, Research Advisor Council, American Cancer Society, Vaccine Committee, National Foundation for Infantile Paralysis, Committee on Naval Medical Research NRC, Board of Scientific Advisors, Jackson Memorial Laboratory, New Jersey Public Health Council, Chief, Biological Defense, New Jersey Civil Defense Agency, Panel on Animald, Committee on Biological Warfare, Research and Development Board, Department of National Defense, Consultant, Foot and Mouth Disease Research. Secretary of Agriculture, Technical Advisory Committee, New Jersey Civil Defense, Virus and Rickettsial Study Section, U.S. Public Health Service, Advisory Committee on Animal Diseases Transmissible to Man, New Jersey State Department of Health, Advisory Committee Berg Institute of Scientific Service, New York University, Cancer Advisory Board, Bureau of Biological Research, Rutgers University, Committee on Exotic Animal Diseases, USLA, Chairman, Advisory committee on Research on Etiology of Cancer American Cancer Society, Director, Commission on Epidemiological Survey, Armed Forces Epidemiological Board, Consultant to Surgeon General of Navy, Committee on Nationwide Eradication of Hog Cholera, USLSA, Scientific Advisory Committee, Grayson Foundation, Panel Chemical and Biological Warfare, President's Science Advisory Committee, Scientific Advisory Board, Walter Reed Army Institute of Research, Technical Advisory Panel, Biological and Chemical Warfare Secretary of Defense, Panel on Viruses and Cancer, National Advisory Cancer Council, Biological and Chemical Defense Planning Board, Chairman Research Advisory Council, American Cancer Society, Armed Forces Epidemiological Board, Consultant, Executive Office of the President - Special Projects, Commission on Epidemiological Survey, Armed Forces Epidemiological Board, Plum Island Animal Disease Lab - U.S. Department Agriculture Advisory Committee, Lobund Advisory Board, Notre Dame University, Technical Committee on Poliomyelitis Vaccine U.S. Public Health Service, Board of Medical Education and Research, University of Penn. (also Association Trustee), Science Advisory Committee, National Better Business Bureau, The National Foundation, Committee on Virus Vaccines, Consultant Illinois Zoonoses Research Center, Chairman, Section of Pathology and Microbiology NAS, Board of Scientific Counselors, National Cancer Institute, Committee on Science and Public Policy, NAS, NAS/NRC advisory committee on Foot and Mouth Disease, Scientific Advisory Committee, New England Regional Primate Research Center.</p>
-    </bioghist>
-    <arrangement id="818df5f16fac2a28a12a79f9355e4dcb">
-      <head>Arrangement note</head>
-      <p>Arranged in chronological order.</p>
-    </arrangement>
-    <prefercite id="f1c00dfdbd9ca9febb615a8af94d92cc">
-      <head>Preferred Citation</head>
-      <p>Information regarding the Rockefeller Archive Center's preferred elements and forms of citation can be found at <extref href="http://www.rockarch.org/research/citations.php">http://www.rockarch.org/research/citations.php</extref></p>
-    </prefercite>
-    <fileplan id="8fa46a1338c4832cb6b4353c8c61012c">
-      <head>File Plan note</head>
-      <p>Former Classification: I 450 Sh77</p>
-    </fileplan>
-    <scopecontent id="a4f94ed84260030bb9885d6de7226cb5">
-      <head>Scope and Contents</head>
-      <p>Correspondence, biographical correspondence, photographs, administrative correspondence, bibliography, collected reprints.</p>
-    </scopecontent>
-    <accessrestrict id="50fb11fb29c2172f7553fd2ebfc48675">
-      <head>Conditions Governing Access note</head>
-      <p>Access to this collection is restricted pending permission from Rockefeller University.</p>
-    </accessrestrict>
-    <controlaccess>
-      <subject source="lcsh">Life sciences</subject>
-      <subject source="lcsh">Cell and biomolecular sciences</subject>
-      <subject source="lcsh">Biology -- Research</subject>
-      <subject source="lcsh">Medicine, Preventive</subject>
-      <subject source="lcsh">Biochemistry</subject>
-      <subject source="lcsh">Medical sciences</subject>
-      <subject source="lcsh">Medical research</subject>
-      <subject source="lcsh">Diagnostic virology</subject>
-      <subject source="lcsh">Viruses -- Research</subject>
-      <subject source="lcsh">Cancer</subject>
-      <subject source="lcsh">Cancer -- Research</subject>
-      <subject source="lcsh">Tumors in animals</subject>
-      <subject source="lcsh">Animals -- Diseases</subject>
-      <subject source="lcsh">Swine influenza</subject>
-      <subject source="lcsh">Influenza</subject>
-      <subject source="lcsh">Epidemiology</subject>
-      <subject source="lcsh">Rinderpest virus</subject>
-      <subject source="lcsh">Aujeszky's disease</subject>
-      <subject source="lcsh">Medical education</subject>
-      <subject source="lcsh">Diseases</subject>
-      <subject source="lcsh">Epidemics</subject>
-      <corpname role="ctb" source="naf">Rockefeller University</corpname>
-      <corpname role="ctb" source="naf">Rockefeller Institute for Medical Research</corpname>
-    </controlaccess>
-    <dsc>
-      <c id="500d4a42df7549fe8c6cbd321e20fe8a" level="file">
-        <did>
-          <unittitle>Bibliographies</unittitle>
-          <physdesc id="2e769dcdd1107122e1756c4144e00f5e">5" letter size GL 3/86. [Reprocessing]</physdesc>
-          <container altrender="Letter Document Storage Box" id="a8f31e152759f2f5a0fa6c5697d2c967" label="mixed materials [A0000000085772]" type="box">1</container>
-          <container id="ba7574c09f16e9de5c789889b29a96b4" parent="a8f31e152759f2f5a0fa6c5697d2c967" type="folder">1</container>
-        </did>
-        <c id="d3845a1fa4ee4c24a4c3ce95d6d1487f" level="item">
-          <did>
-            <unitdate normal="1926/1953" type="inclusive">1926-1953 December</unitdate>
-            <physdesc id="dc9bd258d2150634a06a6c1df8761e29">8 pp.</physdesc>
-          </did>
-        </c>
-        <c id="78e50e04cbf847388cba13a25fafff47" level="item">
-          <did>
-            <unitdate normal="1926/1957" type="inclusive">1926-1957</unitdate>
-            <physdesc id="d2b5ee57261d634fb0f27b05b86cdc71">9 pp.</physdesc>
-          </did>
-        </c>
-        <c id="73746d7634c34630a9101565b820d0d5" level="item">
-          <did>
-            <unitdate normal="1926/1966" type="inclusive">1926-1966</unitdate>
-            <physdesc id="6674784a584d7b75879a9117d2505069">17 pp [annotations in pencil by Ruth Sternfeld, RU Archives]</physdesc>
-          </did>
-        </c>
-      </c>
-      <c id="358dd4de237340669867d1e0f3f6f58f" level="file">
-        <did>
-          <unittitle>Biographical General</unittitle>
-          <unitdate normal="1935/1965" type="inclusive">1935-1965</unitdate>
-        </did>
-        <c id="5f42e247232741cfad22d492bde368b1" level="item">
-          <did>
-            <unittitle>Biographical note</unittitle>
-            <unitdate>1935 October 31</unitdate>
-            <container altrender="Letter Document Storage Box" id="8edd10f7a08b2ade27d5614838cf235d" label="mixed materials [A0000000085772]" type="box">1</container>
-            <container id="c588f7f0dbbb07cd7ab1d31af52fa5fa" parent="8edd10f7a08b2ade27d5614838cf235d" type="folder">2</container>
-          </did>
-        </c>
-        <c id="f3673bdaf53a4d79928e114da8f38b6a" level="item">
-          <did>
-            <unittitle>From Who's Who in America</unittitle>
-            <unitdate normal="1942/1944" type="inclusive">1942-1944</unitdate>
-            <physdesc id="192f86ef7249559ef05d6b37c1701278">Photocopy</physdesc>
-            <container altrender="Letter Document Storage Box" id="a1bac56ec520d20038e1a09f7b38ea74" label="mixed materials [A0000000085772]" type="box">1</container>
-            <container id="c7bbbb4d41e18594d0d985e26ba986bd" parent="a1bac56ec520d20038e1a09f7b38ea74" type="folder">2</container>
-          </did>
-        </c>
-        <c id="c48f992c1aaf4e72a9b741ae7bf0a906" level="item">
-          <did>
-            <unittitle>Peyton Rous. "Presentation of the Kober Medal to Richard Shope"</unittitle>
-            <physdesc id="cd7ad7588ea7fab67aa345bdaad10560">pp 29-37</physdesc>
-            <container altrender="Letter Document Storage Box" id="819f2f870c04b8ffb2a949da92e051f6" label="mixed materials [A0000000085772]" type="box">1</container>
-            <container id="a6d54060d69c52cec6ac5efe8aae7122" parent="819f2f870c04b8ffb2a949da92e051f6" type="folder">2</container>
-          </did>
-        </c>
-        <c id="40785b1479024206875760fe2ec87bfc" level="item">
-          <did>
-            <unittitle>Richard Shope. "Acceptance of the Kober Medal for 1957"</unittitle>
-            <unitdate normal="1957/1957" type="inclusive">1957</unitdate>
-            <physdesc id="3bfaad75cfd1895d7cd727e1ad9a6dee">pp 38-40</physdesc>
-            <container altrender="Letter Document Storage Box" id="7fad46b99f669014fcb1a4c17931c669" label="mixed materials [A0000000085772]" type="box">1</container>
-            <container id="3fda6408da9ecf8e8292e57289ed3efd" parent="7fad46b99f669014fcb1a4c17931c669" type="folder">2</container>
-          </did>
-        </c>
-        <c id="950637cd14e04253a8c0745f78750e89" level="item">
-          <did>
-            <unittitle>Transactions of the Association of American Physicians 70 (1957) 29-40</unittitle>
-            <unitdate normal="1957/1957" type="inclusive">1957</unitdate>
-            <physdesc id="a4d3a5be48a3a7a3254820ccc19fb5ea">Reprint</physdesc>
-            <container altrender="Letter Document Storage Box" id="7106742120fe8549ca345e050c1059ef" label="mixed materials [A0000000085772]" type="box">1</container>
-            <container id="64ecf46eee2dd035ed193dbb4b951d2d" parent="7106742120fe8549ca345e050c1059ef" type="folder">2</container>
-          </did>
-        </c>
-        <c id="5f4b736eadf34bd5977b3557c030db87" level="item">
-          <did>
-            <unittitle>Science Service</unittitle>
-            <unitdate>1963 May 31</unitdate>
-            <container altrender="Letter Document Storage Box" id="c7cad5e4d70db18361ed920604b72c1a" label="mixed materials [A0000000085772]" type="box">1</container>
-            <container id="48b659c9c2ed518979e75146d930a9ac" parent="c7cad5e4d70db18361ed920604b72c1a" type="folder">2</container>
-          </did>
-          <scopecontent id="e18b73099d3147cb5be17b55e23e2e39">
-            <head>Scope and Contents note</head>
-            <p>Listing of Dr. Shope's scientific achievements, awards and honorary degrees.</p>
-          </scopecontent>
-        </c>
-        <c id="6e9e000e51504bdda43a3de40be3e986" level="item">
-          <did>
-            <unittitle>E.H. Kone/R.E. Shope re biographical information for award</unittitle>
-            <unitdate>1964 December 28</unitdate>
-            <physdesc id="73f24ab971864360674e2f31a3280575">5 pp.</physdesc>
-            <container altrender="Letter Document Storage Box" id="c1a33220678e331cbbc786bf6d425a60" label="mixed materials [A0000000085772]" type="box">1</container>
-            <container id="d8a8e10938de4f42ef05999dd06f8fbb" parent="c1a33220678e331cbbc786bf6d425a60" type="folder">2</container>
-          </did>
-          <scopecontent id="2d57b7e5bd53c84ec68fc7971046f42d">
-            <head>Scope and Contents note</head>
-            <p>Encl.: 11 January 1965, Richard E. Shope biographical information</p>
-          </scopecontent>
-        </c>
-        <c id="9848fcfd9cc74af5bfa02d62ec367b2d" level="item">
-          <did>
-            <unittitle>Peyton Rous. "Citation of Presentation of The Academy Medal to Richard E. Shope, MD"</unittitle>
-            <container altrender="Letter Document Storage Box" id="5d677b61104a69ffa68c6c9efce39ab6" label="mixed materials [A0000000085772]" type="box">1</container>
-            <container id="72fadb508451304f51b7e7df83027cab" parent="5d677b61104a69ffa68c6c9efce39ab6" type="folder">2</container>
-          </did>
-        </c>
-        <c id="23e33a5ce11141ef9f1d57f75292f130" level="item">
-          <did>
-            <unittitle>Bulletin of the New York Academy of Medicine 41 (1965) 400-403</unittitle>
-            <unitdate normal="1965/1965" type="inclusive">1965</unitdate>
-            <physdesc id="4a8188adc492637611e63cd33e3c8c3f">Photocopy. [Reprint in Folder 15]</physdesc>
-            <container altrender="Letter Document Storage Box" id="04aed2032705b4739ec9f4c298305ce9" label="mixed materials [A0000000085772]" type="box">1</container>
-            <container id="56be36f781e58c35362fde480a5667dd" parent="04aed2032705b4739ec9f4c298305ce9" type="folder">2</container>
-          </did>
-        </c>
-      </c>
-      <c id="9d1c908fc2434ec3b9153e035eed548b" level="file">
-        <did>
-          <unittitle>Biographical General</unittitle>
-          <unitdate normal="1967/1977" type="inclusive">1967-1977</unitdate>
-          <container altrender="Letter Document Storage Box" id="1d0fe61e31ac9cadab4cef91b64530a9" label="mixed materials [A0000000085772]" type="box">1</container>
-          <container id="511bc8f9adea271cc6716c67658c1b79" parent="1d0fe61e31ac9cadab4cef91b64530a9" type="folder">3</container>
-        </did>
-        <c id="93539774e7e740b6ae24642142e9c9b7" level="item">
-          <did>
-            <unittitle>Obituaries for R.E. Shope from the New York Times and unidentified newspaper</unittitle>
-            <unitdate>1966 October 3</unitdate>
-            <physdesc id="b85c011a8ca9b76b5f84995fce6f47bf">Photocopies</physdesc>
-            <container altrender="Letter Document Storage Box" id="18165c2d9917ca8fae44e277028d358d" label="mixed materials [A0000000085772]" type="box">1</container>
-            <container id="e35adc33231c1e8fb82cd8513265628a" parent="18165c2d9917ca8fae44e277028d358d" type="folder">3</container>
-          </did>
-        </c>
-        <c id="eb4423e43e4a4f0785376f896aab1782" level="item">
-          <did>
-            <unittitle>Helen E. Shope/Sidney A. Britten [re] R.E. Shope memorial minute from Members of the Armed Forces Epidemiological Board with copy, 15 May 1967 memorial minute</unittitle>
-            <unitdate>1967 June 15 1967 May 15</unitdate>
-            <container altrender="Letter Document Storage Box" id="ee992236573330188cbb41690f799c05" label="mixed materials [A0000000085772]" type="box">1</container>
-            <container id="2518716aeb726abc7a98b2affdbd3656" parent="ee992236573330188cbb41690f799c05" type="folder">3</container>
-          </did>
-        </c>
-        <c id="1772fc684f34458ebef374a582c0b072" level="item">
-          <did>
-            <unittitle>R.P. Mason/D.W. Bronk [re] 1968 January-February issue of CA 18 (January-February 1968) 40-41</unittitle>
-            <unitdate>1968 March 28</unitdate>
-            <physdesc id="bb95d93c45c0ee0172807152a5095289">Copy of publication</physdesc>
-            <container altrender="Letter Document Storage Box" id="e0ea4d6a13f51e07b15d00ffdcdf5e93" label="mixed materials [A0000000085772]" type="box">1</container>
-            <container id="9436dd3fa49de6c1e7531eb5622a372d" parent="e0ea4d6a13f51e07b15d00ffdcdf5e93" type="folder">3</container>
-          </did>
-          <scopecontent id="e5d50b6f22be797fbd41be0942713d9f">
-            <head>Scope and Contents note</head>
-            <p>R.N.G. [Ronald M. Grant], "To Helen - A Footnote to Medical History"</p>
-          </scopecontent>
-        </c>
-        <c id="7b39bd61f81046ad9726e6019c8e0606" level="item">
-          <did>
-            <unittitle>Colin M. MacLeod/Maclyn McCarty</unittitle>
-            <unitdate>1971 June 8</unitdate>
-            <container altrender="Letter Document Storage Box" id="51319bf2e35255f4f495c96faa01272d" label="mixed materials [A0000000085772]" type="box">1</container>
-            <container id="72aa845fd1f2db008404746d42758dfd" parent="51319bf2e35255f4f495c96faa01272d" type="folder">3</container>
-          </did>
-          <scopecontent id="b8488e01fc00f3926a26088512b4ac8c">
-            <head>Scope and Contents note</head>
-            <p>Photocopies of items re R.E. Shope from RI/RU Quarterly 1957-1961</p>
-          </scopecontent>
-        </c>
-        <c id="a47b432ddf584610a41e80980687ea5b" level="item">
-          <did>
-            <unittitle>C.H. Andrewes, "Biographical Memoir. Richard Edwin Shope (1901-1966)" American Philosophical Society Yearbook</unittitle>
-            <unitdate normal="1971/1971" type="inclusive">1971</unitdate>
-            <physdesc id="3564c339e761c5cf4033a030601334fd">pp 179-184. Photocopy</physdesc>
-            <container altrender="Letter Document Storage Box" id="f757256fdf68c8fdd8ec4e7cd0951609" label="mixed materials [A0000000085772]" type="box">1</container>
-            <container id="a3e0ad82092683c26028f5e3d50b49b8" parent="f757256fdf68c8fdd8ec4e7cd0951609" type="folder">3</container>
-          </did>
-        </c>
-        <c id="a905511c9fdc44c39d96764e2c6e090e" level="item">
-          <did>
-            <unittitle>Medical World News, pp 45-49, 52-53, 57. "Human Genetic Engineering"</unittitle>
-            <unitdate>1973 May 11</unitdate>
-            <container altrender="Letter Document Storage Box" id="8cb36c375a459ad02168ca8552704716" label="mixed materials [A0000000085772]" type="box">1</container>
-            <container id="3f4d6883af38383a0c67ebdd8f0b4930" parent="8cb36c375a459ad02168ca8552704716" type="folder">3</container>
-          </did>
-          <scopecontent id="d61d20bf798038b97e0311869734143f">
-            <head>Scope and Contents note</head>
-            <p>Includes re Shope papilloma virus. Page clippings from publication.</p>
-          </scopecontent>
-        </c>
-        <c id="bb41a0d87cf34b849c2c824d20aa1756" level="item">
-          <did>
-            <unittitle>RU News and Notes 8 (1977) 3-4. "Background on History. Swine Flu Virus"</unittitle>
-            <unitdate normal="1977/1977" type="inclusive">1977</unitdate>
-            <container altrender="Letter Document Storage Box" id="402237fcb1b7c154f4f69f7ed529314b" label="mixed materials [A0000000085772]" type="box">1</container>
-            <container id="246fa5235ed065e197453766429f9e6a" parent="402237fcb1b7c154f4f69f7ed529314b" type="folder">3</container>
-          </did>
-        </c>
-      </c>
-      <c id="6b79fa5db7414384b6c9b856e5fa9654" level="file">
-        <did>
-          <unittitle>N.A.S. Memoir "Richard Edwin Shope 1901-1966. A Biographical Memoir" by Christopher Andrewes</unittitle>
-          <unitdate normal="1979/1979" type="inclusive">1979</unitdate>
-          <physdesc id="7acf2a5d43cc77d3f8f1dca17e3a7936">Reprint</physdesc>
-          <container altrender="Letter Document Storage Box" id="b929389acde4bbfa44901b0d6d29811e" label="mixed materials [A0000000085772]" type="box">1</container>
-          <container id="50d1bcfec67896b6f6c9d052afed80fe" parent="b929389acde4bbfa44901b0d6d29811e" type="folder">4</container>
-        </did>
-      </c>
-      <c id="bd1c78c3dd454c11b6edb733be01817c" level="file">
-        <did>
-          <unittitle>Biographies Rockefeller Institute</unittitle>
-          <unitdate>1962 January-1964 December 29</unitdate>
-          <container altrender="Letter Document Storage Box" id="989b1dccecd0147ba18390427d94b186" label="mixed materials [A0000000085772]" type="box">1</container>
-          <container id="435debba819999388ee2c39548d858e1" parent="989b1dccecd0147ba18390427d94b186" type="folder">5</container>
-        </did>
-        <scopecontent id="bc5be1d1662d1a29c029e3c10e5676b1">
-          <head>Scope and Contents note</head>
-          <p>[Corrected and revised 6/1963]</p>
-        </scopecontent>
-      </c>
-      <c id="eeeb18250f5d4e32a842ac3596973f05" level="file">
-        <did>
-          <unittitle>Biographies: "Statement Concerning Scientific Work of Richard E. Shope"</unittitle>
-          <unitdate normal="1953/1953" type="inclusive">circa 1953</unitdate>
-          <container altrender="Letter Document Storage Box" id="0088ed8d2ef1a6fd6ed56257fb3eb753" label="mixed materials [A0000000085772]" type="box">1</container>
-          <container id="b98d75f7d34cc736b1a1cad2642a033d" parent="0088ed8d2ef1a6fd6ed56257fb3eb753" type="folder">6</container>
-        </did>
-        <scopecontent id="0fb28d73f2a57a465dd998f8a68ea2a6">
-          <head>Scope and Contents note</head>
-          <p>[This appears to be one of the autobiographical accounts written at request of Dr. Gasser ca 1953. C. Kopp].</p>
-        </scopecontent>
-      </c>
-      <c id="77501fea1ced4a5e86a57fca10b7055f" level="file">
-        <did>
-          <unittitle>Biographies</unittitle>
-          <unitdate>undated, mixed dates</unitdate>
-          <container altrender="Letter Document Storage Box" id="6d6c4e726dcbf212bb55ddb82689d262" label="mixed materials [A0000000085772]" type="box">1</container>
-          <container id="eb8c2772db5e5ffa7caf41cf92bf9ba7" parent="6d6c4e726dcbf212bb55ddb82689d262" type="folder">7</container>
-        </did>
-        <scopecontent id="48db632537df415901f04db4d8ad72f5">
-          <head>Scope and Contents note</head>
-          <p>Includes other material.</p>
-        </scopecontent>
-        <c id="6fbf9f1323e24754baafb0d359c0e2f0" level="item">
-          <did>
-            <unittitle>American Men of Science, 9th Edition</unittitle>
-            <unitdate>undated</unitdate>
-          </did>
-        </c>
-        <c id="a998ae9bca08458792111254f3efa7b7" level="item">
-          <did>
-            <unittitle>Citation for Legion of Merit</unittitle>
-          </did>
-        </c>
-        <c id="d67903efe07f4c9b961f285e6239887d" level="item">
-          <did>
-            <unittitle>Record Cards</unittitle>
-          </did>
-        </c>
-        <c id="c8b958ad56694fc0a1e48100820cdd99" level="item">
-          <did>
-            <unittitle>From Business Manager Files</unittitle>
-            <unitdate normal="1953/1953" type="inclusive">circa 1953</unitdate>
-          </did>
-          <scopecontent id="919a422bd187ab119755279dfb140ca7">
-            <head>Scope and Contents note</head>
-            <p>Includes 5 pp of autobiographical account requested by Dr. Gasser</p>
-          </scopecontent>
-        </c>
-        <c id="fff146860cea4506a1f94ffdf17c8803" level="item">
-          <did>
-            <unittitle>Who's Who in America</unittitle>
-            <unitdate normal="1942/1944" type="inclusive">1942-1944</unitdate>
-          </did>
-        </c>
-      </c>
-      <c id="af4f4a5fdfd6406883accbf7d5d4093e" level="file">
-        <did>
-          <unittitle>Biographical. Photographs - Portraits</unittitle>
-          <unitdate normal="1928/1961" type="inclusive">1928 1936 1953 1961</unitdate>
-          <container altrender="Letter Document Storage Box" id="d5e7ebcb8b6874a492f2ad0c255ebd90" label="mixed materials [A0000000085772]" type="box">1</container>
-          <container id="1e49c7e6e94262e6061f7284e9eb8fd9" parent="d5e7ebcb8b6874a492f2ad0c255ebd90" type="folder">8</container>
-        </did>
-        <scopecontent id="c70eb40ce8155ebc8063d51b4fc8c7d3">
-          <head>Scope and Contents note</head>
-          <p>WWII in uniform</p>
-        </scopecontent>
-      </c>
-      <c id="f8d4a1f4552e4ceabfd0f0c6bf51862e" level="file">
-        <did>
-          <unittitle>Photographs. Miscellaneous</unittitle>
-          <container altrender="Letter Document Storage Box" id="3269f4d4c55ac44f25d07e214216d543" label="mixed materials [A0000000085772]" type="box">1</container>
-          <container id="de15d9cab88e66380a9ffce54adc669e" parent="3269f4d4c55ac44f25d07e214216d543" type="folder">9</container>
-        </did>
-        <c id="38120dd76a004b92808c51a8a07b3689" level="item">
-          <did>
-            <unittitle>Biennial symposium on virology in honor of Wendell Stanley</unittitle>
-            <unitdate>1966 January</unitdate>
-            <physdesc id="a49e87030220c27810cfe0119815ccce">4 color snapshots</physdesc>
-          </did>
-          <scopecontent id="3935bd7cd5ce0e376953e5e0b33b869d">
-            <head>Scope and Contents note</head>
-            <p>Identified by Ruth Sternfeld.</p>
-          </scopecontent>
-        </c>
-        <c id="63082d4f96f94719a2e08b5e94e4e4c9" level="item">
-          <did>
-            <unittitle>R.E. Shope (Lt. Commander) collecting snails on Okinawa</unittitle>
-          </did>
-          <scopecontent id="2304b2e98410047c8b2029996414259a">
-            <head>Scope and Contents note</head>
-            <p>(Identified by G.W. Corner but not used in History)</p>
-          </scopecontent>
-        </c>
-        <c id="e8ecaa62a7f643119744ad1e1c78916d" level="item">
-          <did>
-            <unittitle>Perspectives in Virology IV, Barbizon Plaza Hotel, New York City</unittitle>
-            <unitdate>1966 February 3-4</unitdate>
-          </did>
-          <scopecontent id="dde67e800c905796d7a417bc25b06391">
-            <head>Scope and Contents note</head>
-            <p>Group photograph with some identification on back of photograph.</p>
-          </scopecontent>
-        </c>
-      </c>
-      <c id="1af758b787274af19f0d9a1ff1c5d39b" level="file">
-        <did>
-          <unittitle>Administrative Correspondence</unittitle>
-          <unitdate>1925-1969</unitdate>
-          <container altrender="Letter Document Storage Box" id="d428ce1c3413c72ee26680703f529c2b" label="mixed materials [A0000000085772]" type="box">1</container>
-        </did>
-        <c id="aba302a1ef7349cab164ee801bc83395" level="file">
-          <did>
-            <unitdate normal="1925/1939" type="inclusive">1925-1939</unitdate>
-            <container altrender="Letter Document Storage Box" id="c4d1ed94d811bc8ff7adc36ce1245bfe" label="mixed materials [A0000000085772]" type="box">1</container>
-            <container id="dacd6ef4134fb8952ca98c783f2ceb82" parent="c4d1ed94d811bc8ff7adc36ce1245bfe" type="folder">10</container>
-          </did>
-          <scopecontent id="a0ec12b8aa0d8ee9dcd6892e513694c4">
-            <head>Scope and Contents</head>
-            <p>Select individual items include but are not limited to:</p>
-          </scopecontent>
-          <c id="3a27eb192b914948bd0ed9e8a659cc8d" level="item">
-            <did>
-              <unittitle>R.E. Shope employment application to RIMR</unittitle>
-              <unitdate>1925 February 12</unitdate>
-              <container altrender="Letter Document Storage Box" id="d32268097c1797e3af73b9d452fd6c70" label="mixed materials [A0000000085772]" type="box">1</container>
-              <container id="3199d18020e55727826786b223beae41" parent="d32268097c1797e3af73b9d452fd6c70" type="folder">10</container>
-            </did>
-          </c>
-          <c id="d59290551fc7492ab6e2061c604b7f16" level="item">
-            <did>
-              <unittitle>Shope/Francis G. Blake. Acknowledging letter of appointment as Assistant in the Department of Animal Pathology, RIMR at Princeton dated 25 April 1925</unittitle>
-              <unitdate>1925 May 3</unitdate>
-              <container altrender="Letter Document Storage Box" id="b7f27d658f781bdfd61be3334781ce11" label="mixed materials [A0000000085772]" type="box">1</container>
-              <container id="3ab2c33338940799ecea932bcd5502b2" parent="b7f27d658f781bdfd61be3334781ce11" type="folder">10</container>
-            </did>
-          </c>
-          <c id="8b25b7d126a941f4b638829b1a58d63a" level="item">
-            <did>
-              <unittitle>Exchange between S. Flexner, C. Ten Broeck, R.E. Shope, E.G. Smith re financial arrangements for Shope to 1936 International Congress for Microbiology in London</unittitle>
-              <unitdate>1935 April 30-1936 April 7</unitdate>
-              <container altrender="Letter Document Storage Box" id="7eb864af75eeb17642c0c84e28c0d96a" label="mixed materials [A0000000085772]" type="box">1</container>
-              <container id="9060a6e5924121d5874e39c0b2bee907" parent="7eb864af75eeb17642c0c84e28c0d96a" type="folder">10</container>
-            </did>
-          </c>
-          <c id="e84868f87efd4bb7bcf23b9f3da662b7" level="item">
-            <did>
-              <unittitle>Various newspaper clippings, re Shope tracing origin of transmission of human influenza to hog virus and earthworm</unittitle>
-              <unitdate>1939 July-August</unitdate>
-              <container altrender="Letter Document Storage Box" id="74e46779caf4e78ea0dd6d0d76426445" label="mixed materials [A0000000085772]" type="box">1</container>
-              <container id="68f9199ad9d7a9f9c1bee602fe864528" parent="74e46779caf4e78ea0dd6d0d76426445" type="folder">10</container>
-            </did>
-          </c>
-        </c>
-        <c id="88435fe890ab4adea15e131be737575b" level="file">
-          <did>
-            <unitdate>1940-1949</unitdate>
-            <container altrender="Letter Document Storage Box" id="6e965343a0646b19d8b5be3b394b3c56" label="mixed materials [A0000000085772]" type="box">1</container>
-            <container id="7a1c5611e0f601047eda5a60ed65446e" parent="6e965343a0646b19d8b5be3b394b3c56" type="folder">11</container>
-          </did>
-          <scopecontent id="6047adba6863ffb5c7dfb482d5ef9075">
-            <head>Scope and Contents</head>
-            <p>Select individual items include but are not limited to:</p>
-          </scopecontent>
-          <c id="8aacb32eea524ec7b07951646c36052f" level="item">
-            <did>
-              <unittitle>Shope/A.R. Dochez. re R.E. Shope promotion to Member, RIMR as of 1 July 1940</unittitle>
-              <unitdate>1940 June 19</unitdate>
-              <container altrender="Letter Document Storage Box" id="b2faa09fac6e332d4b06dc9eed1c460a" label="mixed materials [A0000000085772]" type="box">1</container>
-              <container id="ad2b081d1425421630e2542da50f6425" parent="b2faa09fac6e332d4b06dc9eed1c460a" type="folder">11</container>
-            </did>
-          </c>
-          <c id="b869d439db2a497e9aadce3563acbb47" level="item">
-            <did>
-              <unittitle>C. Ten Broeck/H.S. Gasser re John Scott Medal Certificate and Premium to Dr. Shope for "Discovery of the Complex Etiology of Swin Influenza"</unittitle>
-              <unitdate>1943 October 13</unitdate>
-              <container altrender="Letter Document Storage Box" id="d732dd7493c56b20723e396962b21100" label="mixed materials [A0000000085772]" type="box">1</container>
-              <container id="78b418f2c99f06accb99ddd14bb010ea" parent="d732dd7493c56b20723e396962b21100" type="folder">11</container>
-            </did>
-          </c>
-          <c id="0523b8660cf347bc8dfbfd33f34f88c8" level="item">
-            <did>
-              <unittitle>R.E. Shope/RIMR Board of Scientific Directors</unittitle>
-              <unitdate>1948 July 16</unitdate>
-              <container altrender="Letter Document Storage Box" id="707ed2555a19bd46066e4c101096d69e" label="mixed materials [A0000000085772]" type="box">1</container>
-              <container id="46f27e79265e84f005ab845b0b2386d2" parent="707ed2555a19bd46066e4c101096d69e" type="folder">11</container>
-            </did>
-            <scopecontent id="ef65e4239df13084acb9d6892aba2719">
-              <head>Scope and Contents note</head>
-              <p>Letter of Resignation from RIMR as of May 16, 1949</p>
-            </scopecontent>
-          </c>
-        </c>
-        <c id="24ffa47b9e0d492c857a388092b223fe" level="file">
-          <did>
-            <unitdate normal="1950/1955" type="inclusive">1950-1955</unitdate>
-          </did>
-          <scopecontent id="4da961c7600eef2a98d4ed92150acfda">
-            <head>Scope and Contents</head>
-            <p>Select individual items include but are not limited to:</p>
-          </scopecontent>
-          <c id="c84b1a1060ec4d1a982aab6599816827" level="item">
-            <did>
-              <unittitle>Shope/A.R. Dochez, re Shope appointment to RIMR as of July 1, 1952</unittitle>
-              <unitdate>1951 December 4</unitdate>
-              <container altrender="Letter Document Storage Box" id="e2a7465a3776f4409a500a56b01e13a6" label="mixed materials [A0000000085772]" type="box">1</container>
-              <container id="e29308acd08297b1fa0fe8843a82cef0" parent="e2a7465a3776f4409a500a56b01e13a6" type="folder">12</container>
-            </did>
-          </c>
-        </c>
-        <c id="03be78d2c9ca4373899ad8512bdacbaa" level="file">
-          <did>
-            <unitdate normal="1956/1959" type="inclusive">1956-1959</unitdate>
-          </did>
-          <scopecontent id="2ed8fdba5b4ef24a985485994f5249c5">
-            <head>Scope and Contents</head>
-            <p>Select individual items include but are not limited to:</p>
-          </scopecontent>
-          <c id="241000a1b82e4495b4303329c2ee6a2d" level="item">
-            <did>
-              <unittitle>Shope/D.W. Bronk re visits to laboratories in Russia. Handwritten</unittitle>
-              <unitdate>1956 March 14</unitdate>
-              <container altrender="Letter Document Storage Box" id="f0fafa8bb07350671f688754ed363dcc" label="mixed materials [A0000000085772]" type="box">1</container>
-              <container id="77877cc8f3ae4a22ca419d8cb17f33ed" parent="f0fafa8bb07350671f688754ed363dcc" type="folder">13</container>
-            </did>
-          </c>
-          <c id="cebf191393434fdd90ea4cb8d2f100e5" level="item">
-            <did>
-              <unittitle>D.W. Bronk/Shope re honorary degree to Dr. Shope on occasion of 350 anniversary of the Justus-Liebig Hochschule, University of Giessen</unittitle>
-              <unitdate>1957 April 2</unitdate>
-              <container altrender="Letter Document Storage Box" id="04eeb25e919583dc3433afb12258ef31" label="mixed materials [A0000000085772]" type="box">1</container>
-              <container id="8a892cfe5d2cf945693012d2b6e507fd" parent="04eeb25e919583dc3433afb12258ef31" type="folder">13</container>
-            </did>
-          </c>
-          <c id="818cb7f19ca3449cbe5352f092bc4fce" level="item">
-            <did>
-              <unittitle>B. Pedersen, Science/E.H. Kone re Kober medal and honorary Sc. D. to Dr. Shope</unittitle>
-              <unitdate>1957 August 15</unitdate>
-              <container altrender="Letter Document Storage Box" id="7a2c407bb08e14d3d2982a3319072e7a" label="mixed materials [A0000000085772]" type="box">1</container>
-              <container id="bb4876e5469b010472155057847f70f0" parent="7a2c407bb08e14d3d2982a3319072e7a" type="folder">13</container>
-            </did>
-          </c>
-          <c id="bb7eee5b6d794a259f8c5e0ab5ec3058" level="item">
-            <did>
-              <unittitle>H. Mantell/Shope re Lasker award to Shope and WCBS Radio interview, "This is New York" by Jim McKay on vaccines for viruses</unittitle>
-              <unitdate>1957 October 2</unitdate>
-              <container altrender="Letter Document Storage Box" id="09a98dbf11782f462e5f5298efe79a4e" label="mixed materials [A0000000085772]" type="box">1</container>
-              <container id="d7b3b95372f57934e29e8d90c075c4c8" parent="09a98dbf11782f462e5f5298efe79a4e" type="folder">13</container>
-            </did>
-          </c>
-          <c id="e34ea9f7d82a44f4a02e579b891b3366" level="item">
-            <did>
-              <unittitle>Eugene Kone/PHS-NIH, re Dyer lecture at NIH by Shope on influenza</unittitle>
-              <unitdate>1957 November 1</unitdate>
-              <container altrender="Letter Document Storage Box" id="73d3c169185e47cd93a64093adbe99f4" label="mixed materials [A0000000085772]" type="box">1</container>
-              <container id="25d74e3d2024d5fa4751266ad740bcb3" parent="73d3c169185e47cd93a64093adbe99f4" type="folder">13</container>
-            </did>
-          </c>
-          <c id="26bd52c9a192461ab4602e19bd8107f5" level="item">
-            <did>
-              <unittitle>C.R. Read/E. Kone re lecture by Dr. Shope at February 8?, 1958, Chicago ACS meeting</unittitle>
-              <unitdate>1958 January 3</unitdate>
-              <container altrender="Letter Document Storage Box" id="4efcf0447e8879efbfb758160cdb48bd" label="mixed materials [A0000000085772]" type="box">1</container>
-              <container id="3edc40a44f7018a724a2926b10fe160a" parent="4efcf0447e8879efbfb758160cdb48bd" type="folder">13</container>
-            </did>
-          </c>
-          <c id="2fa3619b7a0b4a239b5702078a7500b4" level="item">
-            <did>
-              <unittitle>re honorary degree to Dr. Shope in Chicago</unittitle>
-              <unitdate>1958 March 20 1958 June</unitdate>
-              <container altrender="Letter Document Storage Box" id="9164cb0b1caaf8cc33b48d4efa084bf3" label="mixed materials [A0000000085772]" type="box">1</container>
-              <container id="e27475b1017554ffd53d66a46fa23189" parent="9164cb0b1caaf8cc33b48d4efa084bf3" type="folder">13</container>
-            </did>
-          </c>
-          <c id="b8fdc84c72fe40a48cccb60a880eaac6" level="item">
-            <did>
-              <unittitle>Shope/Douglas H. Whitaker re Shope presentation, August 1958, Stockholm, International Congress for Microbiology</unittitle>
-              <unitdate>1958 May 16</unitdate>
-              <container altrender="Letter Document Storage Box" id="c3dc1dda96003b696ed001cf44ba1ceb" label="mixed materials [A0000000085772]" type="box">1</container>
-              <container id="31b1b138c585cbcfc9329ddf7735b5b6" parent="c3dc1dda96003b696ed001cf44ba1ceb" type="folder">13</container>
-            </did>
-          </c>
-          <c id="e92e944eb87245a1be837a6544220b34" level="item">
-            <did>
-              <unittitle>30 September 1959, University of Pennsylvania News Release re honorary D. Sc to Dr Shope, October 3, 1959, at 75th anniversary of School of Veterinary Medicine, University of Pennsylvania, Philadelphia for major contributions in the field of comparative medicine and Shope presentation, "Comparative Medicine"</unittitle>
-              <unitdate>1959 September 30 1959 October 3</unitdate>
-              <container altrender="Letter Document Storage Box" id="325114832e59ad7d3886bff7ec63d4e5" label="mixed materials [A0000000085772]" type="box">1</container>
-              <container id="7a3b23b08062ec6f5b504d9b6d974285" parent="325114832e59ad7d3886bff7ec63d4e5" type="folder">13</container>
-            </did>
-            <scopecontent id="4b3d0eca07fed88297970343055099f4">
-              <head>Scope and Contents note</head>
-              <p>Includes reprint of address.</p>
-            </scopecontent>
-          </c>
-        </c>
-        <c id="eb4b3535ac0a4e43a15915adb61bcf02" level="file">
-          <did>
-            <unitdate normal="1960/1963" type="inclusive">1960-1963</unitdate>
-          </did>
-          <scopecontent id="ffea210f04021d360ffd002b72dd262e">
-            <head>Scope and Contents</head>
-            <p>Select individual items include but are not limited to:</p>
-          </scopecontent>
-          <c id="b44ede1b502041e49e7d3b639371b889" level="item">
-            <did>
-              <unittitle>Shope/W.R. Flinn [re] Shope's bout w/ Eastern equine encephalomyelitis</unittitle>
-              <unitdate>1960 January 6</unitdate>
-              <physdesc id="ea50d31741eed4197e8b970232887bdb">Photocopy</physdesc>
-              <container altrender="Letter Document Storage Box" id="74cf1ca9a4c69de2083306ad7d1c6d77" label="mixed materials [A0000000085772]" type="box">1</container>
-              <container id="b030bd6f49aa34f62d6e5d8b7f286523" parent="74cf1ca9a4c69de2083306ad7d1c6d77" type="folder">14</container>
-            </did>
-            <scopecontent id="c0065989a06348e282ad37b7da9add11">
-              <head>Scope and Contents note</head>
-              <p>Includes New York Herald Tribune, 9 January 1960 clipping.</p>
-            </scopecontent>
-          </c>
-          <c id="73a2edde72b543da8d7f4bcb509925d1" level="item">
-            <did>
-              <unittitle>R.E. Shope, "An Account of the Infection of Richard E. Shope with Eastern Equine Encephalomyelitus Virus"</unittitle>
-              <unitdate>1960 January 6</unitdate>
-              <physdesc id="f1c24c629afb9c26b17f3bd3627f065d">4 pp of photocopies signed by Dr. Shope</physdesc>
-              <container altrender="Letter Document Storage Box" id="ab6df4cac5c1562022da281b9e25cd54" label="mixed materials [A0000000085772]" type="box">1</container>
-              <container id="0d0fb98dcc8416198a06bb368b0498ec" parent="ab6df4cac5c1562022da281b9e25cd54" type="folder">14</container>
-            </did>
-          </c>
-          <c id="bcc4cc41af3a4148b8696488bdcaac01" level="item">
-            <did>
-              <unittitle>[re] Symposium on Eastern Viral Encephalomyelitis, School of Veterinary Medicine, University of Pennsylvania, Philadelphia, Pa</unittitle>
-              <unitdate>1960 January 8</unitdate>
-              <container altrender="Letter Document Storage Box" id="a5021dbe28769e87a1ca538a36904e67" label="mixed materials [A0000000085772]" type="box">1</container>
-              <container id="ad172fc0d50498b1d4c2cd15cab2fb62" parent="a5021dbe28769e87a1ca538a36904e67" type="folder">14</container>
-            </did>
-            <scopecontent id="95517d73ad3b47e0ed222e16cafa1b32">
-              <head>Scope and Contents note</head>
-              <p>Includes Press Reports, and reports re Shope's survival from encephalitis. Also includes R.E. Shope, as Chairman, "Summarization of Symposium on Eastern Viral Encephalomyelitis. (9 pp text of Shope's summary of symposium)</p>
-            </scopecontent>
-          </c>
-          <c id="55f4200d03c24066b24aa4ee600eac45" level="item">
-            <did>
-              <unittitle>D.W. Bronk/Shope re Shope election to membership in Century Association w/Shope acknowledgment</unittitle>
-              <unitdate>1960 April 5</unitdate>
-              <container altrender="Letter Document Storage Box" id="3eef42a90573817bba56cb673659b93d" label="mixed materials [A0000000085772]" type="box">1</container>
-              <container id="595f8a89953406e3055147fb0e048509" parent="3eef42a90573817bba56cb673659b93d" type="folder">14</container>
-            </did>
-          </c>
-          <c id="7b3be81a622d4048b2632e139c1f6b77" level="item">
-            <did>
-              <unittitle>Excerpt from Science re R.E. Shope becoming member of the National Cancer Institute Board of Scientific Counselors</unittitle>
-              <unitdate>1961 July 21</unitdate>
-              <physdesc id="8a871c1f28f8016c00c685d121cd4f9c">Typescript</physdesc>
-              <container altrender="Letter Document Storage Box" id="8f39bbfce75f7e6c6213ba2e6179593c" label="mixed materials [A0000000085772]" type="box">1</container>
-              <container id="afd853fb489dc287618432b4d3bbb1c6" parent="8f39bbfce75f7e6c6213ba2e6179593c" type="folder">14</container>
-            </did>
-          </c>
-          <c id="53478252dcab4df7bab46c8f24078cbf" level="item">
-            <did>
-              <unittitle>exchange re Shope receiving honorary degree, State University of Iowa</unittitle>
-              <unitdate>1963 April-May 1963 June 7</unitdate>
-              <container altrender="Letter Document Storage Box" id="c7d606c8e62364932255d8df8d306dea" label="mixed materials [A0000000085772]" type="box">1</container>
-              <container id="f474f9a665c22c5dcf942ec431926778" parent="c7d606c8e62364932255d8df8d306dea" type="folder">14</container>
-            </did>
-          </c>
-          <c id="3b480092e9b44933bbd47474ae56f07f" level="item">
-            <did>
-              <unittitle>re Dr. Shope receiving Howard Taylor Ricketts Memorial Award, University of Chicago</unittitle>
-              <unitdate>1963 May 3</unitdate>
-              <container altrender="Letter Document Storage Box" id="d7e16f2e37c43dd4964651fbbb817929" label="mixed materials [A0000000085772]" type="box">1</container>
-              <container id="018a75fd8db4701142782779b4b5e5a1" parent="d7e16f2e37c43dd4964651fbbb817929" type="folder">14</container>
-            </did>
-            <scopecontent id="2375ed4bcc34978d5a847bb49eb56c98">
-              <head>Scope and Contents note</head>
-              <p>Announcement of, and biographical information re Dr. Shope.</p>
-            </scopecontent>
-          </c>
-          <c id="254ae9ba8c914da58edcb7b04891e1a4" level="item">
-            <did>
-              <unittitle>Morris Pollard/D.W. Bronk, and 4, N.Y.C., 4th Symposium "Perspectives in Virology" sponsored by the Gustav Stern Foundation of New York on Hidden Viruses" honoring Dr. Shope</unittitle>
-              <unitdate>1963 July 30 1964 February 3</unitdate>
-              <container altrender="Letter Document Storage Box" id="99b7aba5bc0444209232ad920d22f2bb" label="mixed materials [A0000000085772]" type="box">1</container>
-              <container id="5ec229ea4a0e1f6a02cd4a8c21f04678" parent="99b7aba5bc0444209232ad920d22f2bb" type="folder">14</container>
-            </did>
-            <scopecontent id="5ae819cde5cbef84be9cde89cb3e0b33">
-              <head>Scope and Contents note</head>
-              <p>[See also: Folders 9,15]</p>
-            </scopecontent>
-          </c>
-          <c id="af85ab66d8714d6e8097000b87fc9dc7" level="item">
-            <did>
-              <unittitle>Iris Klein, ACS/E.H. Kone re request for photograph of Dr. Shope for receipt of ACS award</unittitle>
-              <unitdate>1963 December 23</unitdate>
-              <container altrender="Letter Document Storage Box" id="2713960c0e576a79c330619a252fdfae" label="mixed materials [A0000000085772]" type="box">1</container>
-              <container id="ff73052c383d1bcc47187ee208d1b321" parent="2713960c0e576a79c330619a252fdfae" type="folder">14</container>
-            </did>
-          </c>
-        </c>
-        <c id="29f955674d3c4daaa20934ad72880ea1" level="file">
-          <did>
-            <unitdate normal="1964/1969" type="inclusive">1964-1969</unitdate>
-          </did>
-          <scopecontent id="5eb3df7e7405feef1eb6a81a39893029">
-            <head>Scope and Contents</head>
-            <p>Select individual items include but are not limited to:</p>
-          </scopecontent>
-          <c id="4b7b60509dca42cd9a48edf7e366f332" level="item">
-            <did>
-              <unittitle>re Perspectives in Virology IV, The Gustav Stern Foundation "World's Leading Virologists in Symposium on "Hidden Viruses". News release and program</unittitle>
-              <unitdate>1964 January 9</unitdate>
-              <container altrender="Letter Document Storage Box" id="881a55aeed55f836cf8e1868aedb8eef" label="mixed materials [A0000000085772]" type="box">1</container>
-              <container id="2aba3062f2e6aebd849b4dc31087c0ac" parent="881a55aeed55f836cf8e1868aedb8eef" type="folder">15</container>
-            </did>
-            <scopecontent id="af8669385a7335c940d30a1cdbed5778">
-              <head>Scope and Contents note</head>
-              <p>[See also: Folders 9, 14]</p>
-            </scopecontent>
-          </c>
-          <c id="a5679152ffae4e3da22bd8757e704fa9" level="item">
-            <did>
-              <unittitle>Peyton Rous, "Citation and Presentation of the Academy Medal to Richard E. Shope, M.D. and R.E. Shope, "Acceptance of the Academy Medal" Bulletin of the New York Academy of Medicine 41 (April 1965) 400-403</unittitle>
-              <unitdate>1965 April</unitdate>
-              <physdesc id="24198f3dbdb6ebcd6a91b59af056eba5">Reprint</physdesc>
-              <container altrender="Letter Document Storage Box" id="2c7a7ded4706f723e901ff94774b65b9" label="mixed materials [A0000000085772]" type="box">1</container>
-              <container id="8f0a454b6ce0f420b3ec7c46b126f7a6" parent="2c7a7ded4706f723e901ff94774b65b9" type="folder">15</container>
-            </did>
-          </c>
-          <c id="dddefb07bf054d2097ab0a4d412fe1b1" level="item">
-            <did>
-              <unittitle>Exchange between D.W. Bronk, David Rockefeller and Dr. Shope re Shope's illness and residence facilities for the Shopes' on the RU campus with Shope reply to David Rockefeller</unittitle>
-              <unitdate>1966 April 19-September 2 1966 June 6</unitdate>
-              <physdesc id="4244c98ede7e82fd625b92b79c297f61">(carbon copy)</physdesc>
-              <container altrender="Letter Document Storage Box" id="98693922ca5d27b6365627cce26a4861" label="mixed materials [A0000000085772]" type="box">1</container>
-              <container id="11f556fe7a4292454f33a13a6190f91e" parent="98693922ca5d27b6365627cce26a4861" type="folder">15</container>
-            </did>
-          </c>
-          <c id="9e3f540d99d1431eb61673c13dd23cc8" level="item">
-            <did>
-              <unittitle>Telegram to RU Board of Trustees reporting Dr. Shope's death on 2 October 1966</unittitle>
-              <unitdate>1966 October 3</unitdate>
-              <physdesc id="8effa86fe867112e454c62dd33a84f44">Carbon copy</physdesc>
-              <container altrender="Letter Document Storage Box" id="4c8f2119a4932c6f57979c2d70d29369" label="mixed materials [A0000000085772]" type="box">1</container>
-              <container id="2b2e7a73532576b30dad111a5a4d3684" parent="4c8f2119a4932c6f57979c2d70d29369" type="folder">15</container>
-            </did>
-          </c>
-          <c id="6c90610d022545cebf96b6fc2b2b78b7" level="file">
-            <did>
-              <unittitle>[re] R.E. Shope's death</unittitle>
-              <unitdate>1966 October 3-December</unitdate>
-              <container altrender="Letter Document Storage Box" id="ec9f5e01bb8399edca9faf37132301f9" label="mixed materials [A0000000085772]" type="box">1</container>
-              <container id="15da2ec36a34f2eec405cb751fc75c79" parent="ec9f5e01bb8399edca9faf37132301f9" type="folder">15</container>
-            </did>
-            <scopecontent id="89a3782111a0fdf0bea37bb8405561fe">
-              <head>Scope and Contents note</head>
-              <p>Includes:</p>
-            </scopecontent>
-            <c id="aa09d29e7df042c89f3f0b4c18444ad7" level="item">
-              <did>
-                <unittitle>Telegram to RU Board of Trustees</unittitle>
-                <unitdate>1966 October 3</unitdate>
-                <physdesc id="db44d290b5e3cf72a7e2ca246da9d664">(copy)</physdesc>
-              </did>
-            </c>
-            <c id="5a11320d4587428e81362e37b3763b13" level="item">
-              <did>
-                <unittitle>News from the Rockefeller University</unittitle>
-                <unitdate>1966 October 3</unitdate>
-              </did>
-            </c>
-            <c id="6994755890654d8aa492cf6910d1fc26" level="item">
-              <did>
-                <unittitle>D.W. Bronk/RU Faculty</unittitle>
-                <unitdate>1966 October 3</unitdate>
-              </did>
-            </c>
-            <c id="9f197668526a4475ad322448ac2e1a1d" level="item">
-              <did>
-                <unittitle>Father Theodore Hesburgh/D.W. Bronk; Bronk reply, 12 October</unittitle>
-                <unitdate>1966 October 6</unitdate>
-              </did>
-            </c>
-            <c id="9b3cfa5c328d4ad4af1348ba6a45196c" level="item">
-              <did>
-                <unittitle>D.W. Bronk/Helen Shope</unittitle>
-                <unitdate>1966 October 23</unitdate>
-              </did>
-            </c>
-            <c id="c6fbe5befe3c4987b671687c31009ae6" level="item">
-              <did>
-                <unittitle>Helen Shope/David Rockefeller</unittitle>
-                <unitdate>1966 November 3</unitdate>
-              </did>
-              <scopecontent id="4d10ec32b5a872971b751d13dc2ae109">
-                <head>Scope and Contents note</head>
-                <p>Photocopy. 17 November 1966. L.G. MacNamara/RIMR re Shope resolution; D.W. Bronk thank you 7 December</p>
-              </scopecontent>
-            </c>
-            <c id="45a8a5724b674499bea4b882acc78bb1" level="item">
-              <did>
-                <unittitle>Helen Shope/D.W. Bronk re Father Hesburgh and Shope's books and papers</unittitle>
-                <unitdate>1966 December 20</unitdate>
-              </did>
-            </c>
-          </c>
-        </c>
-      </c>
-    </dsc>
-  </archdesc>
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="under_revision" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid>FA199.xml</eadid><filedesc><titlestmt><titleproper type="filing">Shope (Richard E.) papers</titleproper><titleproper>A Guide to the Richard E. Shope papers, Rockefeller University Faculty
+ <num>FA199</num></titleproper></titlestmt><publicationstmt><publisher>Rockefeller Archive Center</publisher><address><addressline>15 Dayton Avenue</addressline><addressline>Sleepy Hollow 10591</addressline><addressline>archive@rockarch.org</addressline><addressline>URL: <extptr xlink:href="http://www.rockarch.org" xlink:show="new" xlink:title="http://www.rockarch.org" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2019-03-14 00:30:39 -0400</date>.</creation></profiledesc><revisiondesc><change><date>2010 September 30</date><item>Paper finding aid converted to EAD/XML by AureXus in 2010. Imported into the Archvists’ Toolkit by Becky Robbins.</item></change></revisiondesc></eadheader><archdesc level="collection">
+  <did>
+    <langmaterial>
+      <language langcode="eng">English</language>
+    </langmaterial>
+    <repository>
+      <corpname>Rockefeller Archive Center</corpname>
+    </repository>
+    <unittitle>Richard E. Shope papers, Rockefeller University Faculty</unittitle>
+    <origination label="creator">
+      <persname role="aut" source="naf">Shope, Richard E. (Richard Edwin)</persname>
+    </origination>
+    <unitid>FA199</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">1 Cubic Feet</extent>
+    </physdesc>
+    <unitdate normal="1925/1971" type="inclusive">1925-1971</unitdate>
+    <physdesc id="5ba6ffe53d327caab6934ed0cbca416e">1 box(2 packages Collected Reprints).</physdesc>
+  </did>
+  <bioghist id="072c2bc619b75c566ed144c47e0a087d">
+    <head>Biographical/Historical note</head>
+<p>Richard Edwin Shope; 1901-1966, physician and researcher in the field of virology at The Rockefeller Institute for Medical Research, first in the Department of Animal Pathology at Princeton and later at the laboratories in New York City. He discovered the cause of swine influenza and anticipated a similar observation in humans; he identified the "mad itch" virus (disease in Midwestern cattle). He discovered two virus tumors of rabbits, one a fibroma and the other a papiloma which progresses to cancer. During the World War II he directed the work with rinderpest virus leading to development of a vaccine against this disease in cattle. His last work was in epidemiology and he worked with the natural history of three animal diseases and two virus diseases in deer.</p>    <chronlist>
+      <head>Biographical note</head>
+      <chronitem>
+        <date>1901 </date>
+        <eventgrp>
+          <event>Born December 25 Des Moines, Iowa</event>
+        </eventgrp>
+      </chronitem>
+      <chronitem>
+        <date>1924 </date>
+        <eventgrp>
+          <event>M.D. State University of Iowa</event>
+        </eventgrp>
+      </chronitem>
+      <chronitem>
+        <date>1924-1925 </date>
+        <eventgrp>
+          <event>Instructor, pharmacology and materia medica, State University of Iowa College of Medicine</event>
+        </eventgrp>
+      </chronitem>
+      <chronitem>
+        <date>1925 </date>
+        <eventgrp>
+          <event>Married Helen Ellis</event>
+        </eventgrp>
+      </chronitem>
+      <chronitem>
+        <date>1925-1930 </date>
+        <eventgrp>
+          <event>Assistant Department of Animal Pathology Rockefeller Institute for Medical Research, Princeton</event>
+        </eventgrp>
+      </chronitem>
+      <chronitem>
+        <date>1930-1934 </date>
+        <eventgrp>
+          <event>Associate RIMR Animal Pathology</event>
+        </eventgrp>
+      </chronitem>
+      <chronitem>
+        <date>1934-1940 </date>
+        <eventgrp>
+          <event>Associate Member RIMR Animal Pathology</event>
+        </eventgrp>
+      </chronitem>
+      <chronitem>
+        <date>1940-1949 </date>
+        <eventgrp>
+          <event>Member RIMR Animal Pathology</event>
+        </eventgrp>
+      </chronitem>
+      <chronitem>
+        <date>1943-1946 </date>
+        <eventgrp>
+          <event>Commander U.S. Navy</event>
+        </eventgrp>
+      </chronitem>
+      <chronitem>
+        <date>1949-1952 </date>
+        <eventgrp>
+          <event>Associate Director Merck Institute</event>
+        </eventgrp>
+      </chronitem>
+      <chronitem>
+        <date>1952-1966 </date>
+        <eventgrp>
+          <event>Member and Professor Rockefeller Institute and Rockefeller University, New York City</event>
+        </eventgrp>
+      </chronitem>
+      <chronitem>
+        <date>1966 </date>
+        <eventgrp>
+          <event>October 2 Died James Ewing Hospital, New York City.</event>
+        </eventgrp>
+      </chronitem>
+    </chronlist>
+    <chronlist>
+      <head>War Service</head>
+      <chronitem>
+        <date>September 1942-April 1944</date>
+        <eventgrp>
+          <event>Director, War Disease Control Station, Grosse Ile, Province of Quebec. Worked on rinderpest leading to development of an effective vaccine.</event>
+        </eventgrp>
+      </chronitem>
+      <chronitem>
+        <date>1944-1946</date>
+        <eventgrp>
+          <event>Pacific area member of Naval Medical Research Unit #2 to go ashore and appraise medical hazards for troops ashore.</event>
+        </eventgrp>
+      </chronitem>
+    </chronlist>
+    <chronlist>
+      <head>Honorary degrees</head>
+      <chronitem>
+        <date>1936 </date>
+        <eventgrp>
+          <event>M.S. Yale University</event>
+        </eventgrp>
+      </chronitem>
+      <chronitem>
+        <date>1951 </date>
+        <eventgrp>
+          <event>V.M.D. University of Utrecht, Holland</event>
+        </eventgrp>
+      </chronitem>
+      <chronitem>
+        <date>1954 </date>
+        <eventgrp>
+          <event>Sc. D. Rutgers University</event>
+        </eventgrp>
+      </chronitem>
+      <chronitem>
+        <date>1957 </date>
+        <eventgrp>
+          <event>V.M.D. Justus-Liebig University Giessen, Germany</event>
+        </eventgrp>
+      </chronitem>
+      <chronitem>
+        <date>1958 </date>
+        <eventgrp>
+          <event>Sc. D. University of Chicago</event>
+        </eventgrp>
+      </chronitem>
+      <chronitem>
+        <date>1959 </date>
+        <eventgrp>
+          <event>Sc. D. University of Pennsylvania</event>
+        </eventgrp>
+      </chronitem>
+      <chronitem>
+        <date>1963 </date>
+        <eventgrp>
+          <event>Sc. D. State University of Iowa</event>
+        </eventgrp>
+      </chronitem>
+    </chronlist>
+    <chronlist>
+      <head>Awards</head>
+      <chronitem>
+        <date>1936 </date>
+        <eventgrp>
+          <event>Sigma Xi Semi-Centennial Research Award</event>
+        </eventgrp>
+      </chronitem>
+      <chronitem>
+        <date>1937 </date>
+        <eventgrp>
+          <event>John Phillips Memorial Medal American College of Physicians</event>
+        </eventgrp>
+      </chronitem>
+      <chronitem>
+        <date>1938 </date>
+        <eventgrp>
+          <event>Alvarenga Prize - College of Physicians</event>
+        </eventgrp>
+      </chronitem>
+      <chronitem>
+        <date>1943 </date>
+        <eventgrp>
+          <event>John Scott Medal and Award, City of Philadelphia</event>
+        </eventgrp>
+      </chronitem>
+      <chronitem>
+        <date>1964 </date>
+        <eventgrp>
+          <event>Legion of Merit U.S. Army</event>
+        </eventgrp>
+      </chronitem>
+      <chronitem>
+        <date>1947 </date>
+        <eventgrp>
+          <event>Certificate of Accomplishment, State University of Iowa</event>
+        </eventgrp>
+      </chronitem>
+      <chronitem>
+        <date>1952 </date>
+        <eventgrp>
+          <event>Anna Fuller Memorial Prize</event>
+        </eventgrp>
+      </chronitem>
+      <chronitem>
+        <date>1956 </date>
+        <eventgrp>
+          <event>Commendation. Department of Conservation and Economic Development State of New Jersey</event>
+        </eventgrp>
+      </chronitem>
+      <chronitem>
+        <date>1956 </date>
+        <eventgrp>
+          <event>Special Commendation. U.S. Department of HEW</event>
+        </eventgrp>
+      </chronitem>
+      <chronitem>
+        <date>1957 </date>
+        <eventgrp>
+          <event>Kober Medal. Association of American Physicians</event>
+        </eventgrp>
+      </chronitem>
+      <chronitem>
+        <date>1957 </date>
+        <eventgrp>
+          <event>Albert Lasker Award</event>
+        </eventgrp>
+      </chronitem>
+      <chronitem>
+        <date>1959 </date>
+        <eventgrp>
+          <event>Bertner Foundation Award</event>
+        </eventgrp>
+      </chronitem>
+      <chronitem>
+        <date>1963 </date>
+        <eventgrp>
+          <event>Howard Taylor Ricketts Memorial Award</event>
+        </eventgrp>
+      </chronitem>
+      <chronitem>
+        <date>1963 </date>
+        <eventgrp>
+          <event>Special Citation. American Cancer Society</event>
+        </eventgrp>
+      </chronitem>
+      <chronitem>
+        <date>1965 </date>
+        <eventgrp>
+          <event>New York Academy of Medicine Medal</event>
+        </eventgrp>
+      </chronitem>
+    </chronlist>
+<p>Member: National Academy of Sciences, American Philosophical Society, Association of American Physicians, Society for Experimental Pathology, Society for Experimental Biology and Medicine, Harvey Society, Sigma Xi, American Public Health Association, United States Livestock Sanitary Association, American Epidemiological Society, American Academy of Arts and Sciences.</p><p>Honorary Member: Eastern Iowa Veterinary Association, American Veterinary Medical Association, New York Pathological Soc., Royal Society of Medicine, Great Britain, Central New Jersey Veterinary Medical Association, American Board of Veterinary Public Health (Honorary Fellow)</p><p>Served on: Board of Scientific advisors - Jane Coffine Childs Fund for Medical Research, Scientific advisors, Merck Institute, Aftosa Technical Advisory Group, Pan American Sanitary Bureau, Zoonoses Technical Advisory Group, Pan American Sanitary Bureau, Board of Scientific Consultants, Sloan-Kettering Institute, Research Advisor Council, American Cancer Society, Vaccine Committee, National Foundation for Infantile Paralysis, Committee on Naval Medical Research NRC, Board of Scientific Advisors, Jackson Memorial Laboratory, New Jersey Public Health Council, Chief, Biological Defense, New Jersey Civil Defense Agency, Panel on Animald, Committee on Biological Warfare, Research and Development Board, Department of National Defense, Consultant, Foot and Mouth Disease Research. Secretary of Agriculture, Technical Advisory Committee, New Jersey Civil Defense, Virus and Rickettsial Study Section, U.S. Public Health Service, Advisory Committee on Animal Diseases Transmissible to Man, New Jersey State Department of Health, Advisory Committee Berg Institute of Scientific Service, New York University, Cancer Advisory Board, Bureau of Biological Research, Rutgers University, Committee on Exotic Animal Diseases, USLA, Chairman, Advisory committee on Research on Etiology of Cancer American Cancer Society, Director, Commission on Epidemiological Survey, Armed Forces Epidemiological Board, Consultant to Surgeon General of Navy, Committee on Nationwide Eradication of Hog Cholera, USLSA, Scientific Advisory Committee, Grayson Foundation, Panel Chemical and Biological Warfare, President's Science Advisory Committee, Scientific Advisory Board, Walter Reed Army Institute of Research, Technical Advisory Panel, Biological and Chemical Warfare Secretary of Defense, Panel on Viruses and Cancer, National Advisory Cancer Council, Biological and Chemical Defense Planning Board, Chairman Research Advisory Council, American Cancer Society, Armed Forces Epidemiological Board, Consultant, Executive Office of the President - Special Projects, Commission on Epidemiological Survey, Armed Forces Epidemiological Board, Plum Island Animal Disease Lab - U.S. Department Agriculture Advisory Committee, Lobund Advisory Board, Notre Dame University, Technical Committee on Poliomyelitis Vaccine U.S. Public Health Service, Board of Medical Education and Research, University of Penn. (also Association Trustee), Science Advisory Committee, National Better Business Bureau, The National Foundation, Committee on Virus Vaccines, Consultant Illinois Zoonoses Research Center, Chairman, Section of Pathology and Microbiology NAS, Board of Scientific Counselors, National Cancer Institute, Committee on Science and Public Policy, NAS, NAS/NRC advisory committee on Foot and Mouth Disease, Scientific Advisory Committee, New England Regional Primate Research Center.</p>  </bioghist>
+  <arrangement id="818df5f16fac2a28a12a79f9355e4dcb">
+    <head>Arrangement note</head>
+<p>Arranged in chronological order.</p>  </arrangement>
+  <prefercite id="f1c00dfdbd9ca9febb615a8af94d92cc">
+    <head>Preferred Citation</head>
+<p>Information regarding the Rockefeller Archive Center's preferred elements and forms of citation can be found at <extref href="http://www.rockarch.org/research/citations.php">http://www.rockarch.org/research/citations.php</extref></p>  </prefercite>
+  <fileplan id="8fa46a1338c4832cb6b4353c8c61012c">
+    <head>File Plan note</head>
+<p>Former Classification: I 450 Sh77</p>  </fileplan>
+  <scopecontent id="a4f94ed84260030bb9885d6de7226cb5">
+    <head>Scope and Contents</head>
+<p>Correspondence, biographical correspondence, photographs, administrative correspondence, bibliography, collected reprints.</p>  </scopecontent>
+  <accessrestrict id="50fb11fb29c2172f7553fd2ebfc48675">
+    <head>Conditions Governing Access note</head>
+<p>Access to this collection is restricted pending permission from Rockefeller University.</p>  </accessrestrict>
+  <controlaccess>
+    <subject source="lcsh">Life sciences</subject>
+    <subject source="lcsh">Cell and biomolecular sciences</subject>
+    <subject source="lcsh">Biology -- Research</subject>
+    <subject source="lcsh">Medicine, Preventive</subject>
+    <subject source="lcsh">Biochemistry</subject>
+    <subject source="lcsh">Medical sciences</subject>
+    <subject source="lcsh">Medical research</subject>
+    <subject source="lcsh">Diagnostic virology</subject>
+    <subject source="lcsh">Viruses -- Research</subject>
+    <subject source="lcsh">Cancer</subject>
+    <subject source="lcsh">Cancer -- Research</subject>
+    <subject source="lcsh">Tumors in animals</subject>
+    <subject source="lcsh">Animals -- Diseases</subject>
+    <subject source="lcsh">Swine influenza</subject>
+    <subject source="lcsh">Influenza</subject>
+    <subject source="lcsh">Epidemiology</subject>
+    <subject source="lcsh">Rinderpest virus</subject>
+    <subject source="lcsh">Aujeszky's disease</subject>
+    <subject source="lcsh">Medical education</subject>
+    <subject source="lcsh">Diseases</subject>
+    <subject source="lcsh">Epidemics</subject>
+    <corpname role="ctb" source="naf">Rockefeller University</corpname>
+    <corpname role="ctb" source="naf">Rockefeller Institute for Medical Research</corpname>
+  </controlaccess>
+  <dsc><c id="500d4a42df7549fe8c6cbd321e20fe8a" level="file"><did><unittitle>Bibliographies</unittitle><physdesc id="2e769dcdd1107122e1756c4144e00f5e">5" letter size GL 3/86. [Reprocessing]</physdesc><container altrender="Letter Document Storage Box" id="a01a55350d08d438bd8aebff13402758" label="mixed materials [A0000000085772]" type="box">1</container><container id="21e4469c7a345afbb281a92f5773da70" parent="a01a55350d08d438bd8aebff13402758" type="folder">1</container></did><c id="d3845a1fa4ee4c24a4c3ce95d6d1487f" level="item"><did><unitdate normal="1926/1953" type="inclusive">1926-1953 December</unitdate><physdesc id="dc9bd258d2150634a06a6c1df8761e29">8 pp.</physdesc></did></c><c id="78e50e04cbf847388cba13a25fafff47" level="item"><did><unitdate normal="1926/1957" type="inclusive">1926-1957</unitdate><physdesc id="d2b5ee57261d634fb0f27b05b86cdc71">9 pp.</physdesc></did></c><c id="73746d7634c34630a9101565b820d0d5" level="item"><did><unitdate normal="1926/1966" type="inclusive">1926-1966</unitdate><physdesc id="6674784a584d7b75879a9117d2505069">17 pp [annotations in pencil by Ruth Sternfeld, RU Archives]</physdesc></did></c></c><c id="358dd4de237340669867d1e0f3f6f58f" level="file"><did><unittitle>Biographical General</unittitle><unitdate normal="1935/1965" type="inclusive">1935-1965</unitdate></did><c id="5f42e247232741cfad22d492bde368b1" level="item"><did><unittitle>Biographical note</unittitle><unitdate>1935 October 31</unitdate><container altrender="Letter Document Storage Box" id="36c9f716dd256fce07ee4afb9d7c81af" label="mixed materials [A0000000085772]" type="box">1</container><container id="2101cce5506c7826b967a865f66fdd67" parent="36c9f716dd256fce07ee4afb9d7c81af" type="folder">2</container></did></c><c id="f3673bdaf53a4d79928e114da8f38b6a" level="item"><did><unittitle>From Who's Who in America</unittitle><unitdate normal="1942/1944" type="inclusive">1942-1944</unitdate><physdesc id="192f86ef7249559ef05d6b37c1701278">Photocopy</physdesc><container altrender="Letter Document Storage Box" id="5899d62345d0cd18c6f2ea8cf8462a8a" label="mixed materials [A0000000085772]" type="box">1</container><container id="338acc2f357692396fca6630ca14b5d7" parent="5899d62345d0cd18c6f2ea8cf8462a8a" type="folder">2</container></did></c><c id="c48f992c1aaf4e72a9b741ae7bf0a906" level="item"><did><unittitle>Peyton Rous. "Presentation of the Kober Medal to Richard Shope"</unittitle><physdesc id="cd7ad7588ea7fab67aa345bdaad10560">pp 29-37</physdesc><container altrender="Letter Document Storage Box" id="b1f311f4d88a4c8558c426038ed327ed" label="mixed materials [A0000000085772]" type="box">1</container><container id="0a685d386ce4f9e4be76b4c341409f0d" parent="b1f311f4d88a4c8558c426038ed327ed" type="folder">2</container></did></c><c id="40785b1479024206875760fe2ec87bfc" level="item"><did><unittitle>Richard Shope. "Acceptance of the Kober Medal for 1957"</unittitle><unitdate normal="1957/1957" type="inclusive">1957</unitdate><physdesc id="3bfaad75cfd1895d7cd727e1ad9a6dee">pp 38-40</physdesc><container altrender="Letter Document Storage Box" id="293af5bb0cd333ef7e5aed0e1f4e0746" label="mixed materials [A0000000085772]" type="box">1</container><container id="a5c501365ec91b99b08418f69aee73d4" parent="293af5bb0cd333ef7e5aed0e1f4e0746" type="folder">2</container></did></c><c id="950637cd14e04253a8c0745f78750e89" level="item"><did><unittitle>Transactions of the Association of American Physicians 70 (1957) 29-40</unittitle><unitdate normal="1957/1957" type="inclusive">1957</unitdate><physdesc id="a4d3a5be48a3a7a3254820ccc19fb5ea">Reprint</physdesc><container altrender="Letter Document Storage Box" id="6b1241c2fc75b2bb575d0855fb941a09" label="mixed materials [A0000000085772]" type="box">1</container><container id="c2703f1c29db5660815f82078bb98261" parent="6b1241c2fc75b2bb575d0855fb941a09" type="folder">2</container></did></c><c id="5f4b736eadf34bd5977b3557c030db87" level="item"><did><unittitle>Science Service</unittitle><unitdate>1963 May 31</unitdate><container altrender="Letter Document Storage Box" id="5e79599970504f40aa9a652147863fec" label="mixed materials [A0000000085772]" type="box">1</container><container id="b8e5a6391df8c28741bf7fa0603ccf7a" parent="5e79599970504f40aa9a652147863fec" type="folder">2</container></did><scopecontent id="e18b73099d3147cb5be17b55e23e2e39"><head>Scope and Contents note</head><p>Listing of Dr. Shope's scientific achievements, awards and honorary degrees.</p></scopecontent></c><c id="6e9e000e51504bdda43a3de40be3e986" level="item"><did><unittitle>E.H. Kone/R.E. Shope re biographical information for award</unittitle><unitdate>1964 December 28</unitdate><physdesc id="73f24ab971864360674e2f31a3280575">5 pp.</physdesc><container altrender="Letter Document Storage Box" id="769bc797bbffa70bd6538fb22e277ace" label="mixed materials [A0000000085772]" type="box">1</container><container id="a13aa785cd4b5905c373351b89567f29" parent="769bc797bbffa70bd6538fb22e277ace" type="folder">2</container></did><scopecontent id="2d57b7e5bd53c84ec68fc7971046f42d"><head>Scope and Contents note</head><p>Encl.: 11 January 1965, Richard E. Shope biographical information</p></scopecontent></c><c id="9848fcfd9cc74af5bfa02d62ec367b2d" level="item"><did><unittitle>Peyton Rous. "Citation of Presentation of The Academy Medal to Richard E. Shope, MD"</unittitle><container altrender="Letter Document Storage Box" id="dfae291658eb90f296417478d5e6c45b" label="mixed materials [A0000000085772]" type="box">1</container><container id="aa74964a68b43ed0e97c6172af2b0c61" parent="dfae291658eb90f296417478d5e6c45b" type="folder">2</container></did></c><c id="23e33a5ce11141ef9f1d57f75292f130" level="item"><did><unittitle>Bulletin of the New York Academy of Medicine 41 (1965) 400-403</unittitle><unitdate normal="1965/1965" type="inclusive">1965</unitdate><physdesc id="4a8188adc492637611e63cd33e3c8c3f">Photocopy. [Reprint in Folder 15]</physdesc><container altrender="Letter Document Storage Box" id="7f7ccebf558d1ce7b634c0956b6544d7" label="mixed materials [A0000000085772]" type="box">1</container><container id="e49f9e02807d604f3f6eea0d0b7439cb" parent="7f7ccebf558d1ce7b634c0956b6544d7" type="folder">2</container></did></c></c><c id="9d1c908fc2434ec3b9153e035eed548b" level="file"><did><unittitle>Biographical General</unittitle><unitdate normal="1967/1977" type="inclusive">1967-1977</unitdate><container altrender="Letter Document Storage Box" id="9a42afc55e2efed194e1c0c2f7f1af89" label="mixed materials [A0000000085772]" type="box">1</container><container id="e9249e850b8d97b377af6405374cdad1" parent="9a42afc55e2efed194e1c0c2f7f1af89" type="folder">3</container></did><c id="93539774e7e740b6ae24642142e9c9b7" level="item"><did><unittitle>Obituaries for R.E. Shope from the New York Times and unidentified newspaper</unittitle><unitdate>1966 October 3</unitdate><physdesc id="b85c011a8ca9b76b5f84995fce6f47bf">Photocopies</physdesc><container altrender="Letter Document Storage Box" id="a42e718a17d4f2cb219a6531eee8fa2f" label="mixed materials [A0000000085772]" type="box">1</container><container id="9f2a750aa6a801637c8aa44c3478084d" parent="a42e718a17d4f2cb219a6531eee8fa2f" type="folder">3</container></did></c><c id="eb4423e43e4a4f0785376f896aab1782" level="item"><did><unittitle>Helen E. Shope/Sidney A. Britten [re] R.E. Shope memorial minute from Members of the Armed Forces Epidemiological Board with copy, 15 May 1967 memorial minute</unittitle><unitdate>1967 June 15 1967 May 15</unitdate><container altrender="Letter Document Storage Box" id="a9c5006bfd8d5c62a806c7d013cd77c0" label="mixed materials [A0000000085772]" type="box">1</container><container id="3a3844a23830ad55a24a7e4e2004ecc5" parent="a9c5006bfd8d5c62a806c7d013cd77c0" type="folder">3</container></did></c><c id="1772fc684f34458ebef374a582c0b072" level="item"><did><unittitle>R.P. Mason/D.W. Bronk [re] 1968 January-February issue of CA 18 (January-February 1968) 40-41</unittitle><unitdate>1968 March 28</unitdate><physdesc id="bb95d93c45c0ee0172807152a5095289">Copy of publication</physdesc><container altrender="Letter Document Storage Box" id="adb3084a55f903658d2e625894c0620b" label="mixed materials [A0000000085772]" type="box">1</container><container id="9e088bdf810f5203493aca73bbdbf4ab" parent="adb3084a55f903658d2e625894c0620b" type="folder">3</container></did><scopecontent id="e5d50b6f22be797fbd41be0942713d9f"><head>Scope and Contents note</head><p>R.N.G. [Ronald M. Grant], "To Helen - A Footnote to Medical History"</p></scopecontent></c><c id="7b39bd61f81046ad9726e6019c8e0606" level="item"><did><unittitle>Colin M. MacLeod/Maclyn McCarty</unittitle><unitdate>1971 June 8</unitdate><container altrender="Letter Document Storage Box" id="b5b017cf0fb6ff5f4f694e9808ed1fc3" label="mixed materials [A0000000085772]" type="box">1</container><container id="dea7aa13529c55cdf84108df3bab7bc1" parent="b5b017cf0fb6ff5f4f694e9808ed1fc3" type="folder">3</container></did><scopecontent id="b8488e01fc00f3926a26088512b4ac8c"><head>Scope and Contents note</head><p>Photocopies of items re R.E. Shope from RI/RU Quarterly 1957-1961</p></scopecontent></c><c id="a47b432ddf584610a41e80980687ea5b" level="item"><did><unittitle>C.H. Andrewes, "Biographical Memoir. Richard Edwin Shope (1901-1966)" American Philosophical Society Yearbook</unittitle><unitdate normal="1971/1971" type="inclusive">1971</unitdate><physdesc id="3564c339e761c5cf4033a030601334fd">pp 179-184. Photocopy</physdesc><container altrender="Letter Document Storage Box" id="c0785196aeaa05c47f46800b881b080b" label="mixed materials [A0000000085772]" type="box">1</container><container id="5cc34cac4880b79a95dc6b5bd5945373" parent="c0785196aeaa05c47f46800b881b080b" type="folder">3</container></did></c><c id="a905511c9fdc44c39d96764e2c6e090e" level="item"><did><unittitle>Medical World News, pp 45-49, 52-53, 57. "Human Genetic Engineering"</unittitle><unitdate>1973 May 11</unitdate><container altrender="Letter Document Storage Box" id="0893de181248e7032662c22008a925a4" label="mixed materials [A0000000085772]" type="box">1</container><container id="add15b29986296a042c56134751f69fb" parent="0893de181248e7032662c22008a925a4" type="folder">3</container></did><scopecontent id="d61d20bf798038b97e0311869734143f"><head>Scope and Contents note</head><p>Includes re Shope papilloma virus. Page clippings from publication.</p></scopecontent></c><c id="bb41a0d87cf34b849c2c824d20aa1756" level="item"><did><unittitle>RU News and Notes 8 (1977) 3-4. "Background on History. Swine Flu Virus"</unittitle><unitdate normal="1977/1977" type="inclusive">1977</unitdate><container altrender="Letter Document Storage Box" id="081dbdcb1618b977bce0dc4e5ece85f1" label="mixed materials [A0000000085772]" type="box">1</container><container id="e46342516776ad7faad2e367aea41e50" parent="081dbdcb1618b977bce0dc4e5ece85f1" type="folder">3</container></did></c></c><c id="6b79fa5db7414384b6c9b856e5fa9654" level="file"><did><unittitle>N.A.S. Memoir "Richard Edwin Shope 1901-1966. A Biographical Memoir" by Christopher Andrewes</unittitle><unitdate normal="1979/1979" type="inclusive">1979</unitdate><physdesc id="7acf2a5d43cc77d3f8f1dca17e3a7936">Reprint</physdesc><container altrender="Letter Document Storage Box" id="b561f01a1f1f7518c5f844a0b67e5efd" label="mixed materials [A0000000085772]" type="box">1</container><container id="5c2e737cc8ee0d2e6d056ed0f7556666" parent="b561f01a1f1f7518c5f844a0b67e5efd" type="folder">4</container></did></c><c id="bd1c78c3dd454c11b6edb733be01817c" level="file"><did><unittitle>Biographies Rockefeller Institute</unittitle><unitdate>1962 January-1964 December 29</unitdate><container altrender="Letter Document Storage Box" id="485d736878fccc3a7f317336a9ab0997" label="mixed materials [A0000000085772]" type="box">1</container><container id="f66d5ee830cf794544d5417df2dadb9f" parent="485d736878fccc3a7f317336a9ab0997" type="folder">5</container></did><scopecontent id="bc5be1d1662d1a29c029e3c10e5676b1"><head>Scope and Contents note</head><p>[Corrected and revised 6/1963]</p></scopecontent></c><c id="eeeb18250f5d4e32a842ac3596973f05" level="file"><did><unittitle>Biographies: "Statement Concerning Scientific Work of Richard E. Shope"</unittitle><unitdate normal="1953/1953" type="inclusive">circa 1953</unitdate><container altrender="Letter Document Storage Box" id="89e3b949a849c21cb44e902e4bb0915d" label="mixed materials [A0000000085772]" type="box">1</container><container id="9ca051036baf0309dff356b0d3471357" parent="89e3b949a849c21cb44e902e4bb0915d" type="folder">6</container></did><scopecontent id="0fb28d73f2a57a465dd998f8a68ea2a6"><head>Scope and Contents note</head><p>[This appears to be one of the autobiographical accounts written at request of Dr. Gasser ca 1953. C. Kopp].</p></scopecontent></c><c id="77501fea1ced4a5e86a57fca10b7055f" level="file"><did><unittitle>Biographies</unittitle><unitdate>undated, mixed dates</unitdate><container altrender="Letter Document Storage Box" id="9250efe5c25edbfb8f9767fdf82a8a7f" label="mixed materials [A0000000085772]" type="box">1</container><container id="66e07f244b9a13db3eeb45485d341117" parent="9250efe5c25edbfb8f9767fdf82a8a7f" type="folder">7</container></did><scopecontent id="48db632537df415901f04db4d8ad72f5"><head>Scope and Contents note</head><p>Includes other material.</p></scopecontent><c id="6fbf9f1323e24754baafb0d359c0e2f0" level="item"><did><unittitle>American Men of Science, 9th Edition</unittitle><unitdate>undated</unitdate></did></c><c id="a998ae9bca08458792111254f3efa7b7" level="item"><did><unittitle>Citation for Legion of Merit</unittitle></did></c><c id="d67903efe07f4c9b961f285e6239887d" level="item"><did><unittitle>Record Cards</unittitle></did></c><c id="c8b958ad56694fc0a1e48100820cdd99" level="item"><did><unittitle>From Business Manager Files</unittitle><unitdate normal="1953/1953" type="inclusive">circa 1953</unitdate></did><scopecontent id="919a422bd187ab119755279dfb140ca7"><head>Scope and Contents note</head><p>Includes 5 pp of autobiographical account requested by Dr. Gasser</p></scopecontent></c><c id="fff146860cea4506a1f94ffdf17c8803" level="item"><did><unittitle>Who's Who in America</unittitle><unitdate normal="1942/1944" type="inclusive">1942-1944</unitdate></did></c></c><c id="af4f4a5fdfd6406883accbf7d5d4093e" level="file"><did><unittitle>Biographical. Photographs - Portraits</unittitle><unitdate normal="1928/1961" type="inclusive">1928 1936 1953 1961</unitdate><container altrender="Letter Document Storage Box" id="8617e11df1f4bba2c4be984a20d6b0ad" label="mixed materials [A0000000085772]" type="box">1</container><container id="eaeeb76b407cdaf187aeae39e0d0c180" parent="8617e11df1f4bba2c4be984a20d6b0ad" type="folder">8</container></did><scopecontent id="c70eb40ce8155ebc8063d51b4fc8c7d3"><head>Scope and Contents note</head><p>WWII in uniform</p></scopecontent></c><c id="f8d4a1f4552e4ceabfd0f0c6bf51862e" level="file"><did><unittitle>Photographs. Miscellaneous</unittitle><container altrender="Letter Document Storage Box" id="9fc67485d58460f9479083f4f20ece45" label="mixed materials [A0000000085772]" type="box">1</container><container id="83267c45857a05c47bcafc9773095749" parent="9fc67485d58460f9479083f4f20ece45" type="folder">9</container></did><c id="38120dd76a004b92808c51a8a07b3689" level="item"><did><unittitle>Biennial symposium on virology in honor of Wendell Stanley</unittitle><unitdate>1966 January</unitdate><physdesc id="a49e87030220c27810cfe0119815ccce">4 color snapshots</physdesc></did><scopecontent id="3935bd7cd5ce0e376953e5e0b33b869d"><head>Scope and Contents note</head><p>Identified by Ruth Sternfeld.</p></scopecontent></c><c id="63082d4f96f94719a2e08b5e94e4e4c9" level="item"><did><unittitle>R.E. Shope (Lt. Commander) collecting snails on Okinawa</unittitle></did><scopecontent id="2304b2e98410047c8b2029996414259a"><head>Scope and Contents note</head><p>(Identified by G.W. Corner but not used in History)</p></scopecontent></c><c id="e8ecaa62a7f643119744ad1e1c78916d" level="item"><did><unittitle>Perspectives in Virology IV, Barbizon Plaza Hotel, New York City</unittitle><unitdate>1966 February 3-4</unitdate></did><scopecontent id="dde67e800c905796d7a417bc25b06391"><head>Scope and Contents note</head><p>Group photograph with some identification on back of photograph.</p></scopecontent></c></c><c id="1af758b787274af19f0d9a1ff1c5d39b" level="file"><did><unittitle>Administrative Correspondence</unittitle><unitdate>1925-1969</unitdate><container altrender="Letter Document Storage Box" id="5ca6ba6a3b93b12a386a8773aa57e48c" label="mixed materials [A0000000085772]" type="box">1</container></did><c id="aba302a1ef7349cab164ee801bc83395" level="file"><did><unitdate normal="1925/1939" type="inclusive">1925-1939</unitdate><container altrender="Letter Document Storage Box" id="1fcd4f48ef9eac4ca9f8db9459774ca4" label="mixed materials [A0000000085772]" type="box">1</container><container id="93be753c468ba6d3bc696952ad8ea178" parent="1fcd4f48ef9eac4ca9f8db9459774ca4" type="folder">10</container></did><scopecontent id="a0ec12b8aa0d8ee9dcd6892e513694c4"><head>Scope and Contents</head><p>Select individual items include but are not limited to:</p></scopecontent><c id="3a27eb192b914948bd0ed9e8a659cc8d" level="item"><did><unittitle>R.E. Shope employment application to RIMR</unittitle><unitdate>1925 February 12</unitdate><container altrender="Letter Document Storage Box" id="d2ca47cfb16e895b99e10e841df6a000" label="mixed materials [A0000000085772]" type="box">1</container><container id="163ea65ddd1f0f7ca14ba61deb19cc5b" parent="d2ca47cfb16e895b99e10e841df6a000" type="folder">10</container></did></c><c id="d59290551fc7492ab6e2061c604b7f16" level="item"><did><unittitle>Shope/Francis G. Blake. Acknowledging letter of appointment as Assistant in the Department of Animal Pathology, RIMR at Princeton dated 25 April 1925</unittitle><unitdate>1925 May 3</unitdate><container altrender="Letter Document Storage Box" id="1927b9d8296c05a1892e8f38ab91d905" label="mixed materials [A0000000085772]" type="box">1</container><container id="841ecdb903ea7a50a22303c18dd861fa" parent="1927b9d8296c05a1892e8f38ab91d905" type="folder">10</container></did></c><c id="8b25b7d126a941f4b638829b1a58d63a" level="item"><did><unittitle>Exchange between S. Flexner, C. Ten Broeck, R.E. Shope, E.G. Smith re financial arrangements for Shope to 1936 International Congress for Microbiology in London</unittitle><unitdate>1935 April 30-1936 April 7</unitdate><container altrender="Letter Document Storage Box" id="d8a6ff6f87ab144d709d216b63a9ff60" label="mixed materials [A0000000085772]" type="box">1</container><container id="51093c80cc426fdcba655bddbaa98acf" parent="d8a6ff6f87ab144d709d216b63a9ff60" type="folder">10</container></did></c><c id="e84868f87efd4bb7bcf23b9f3da662b7" level="item"><did><unittitle>Various newspaper clippings, re Shope tracing origin of transmission of human influenza to hog virus and earthworm</unittitle><unitdate>1939 July-August</unitdate><container altrender="Letter Document Storage Box" id="2d6a6d771695f0136c6fb35bc0913a93" label="mixed materials [A0000000085772]" type="box">1</container><container id="015846e27c243ac488f97d978b99f37d" parent="2d6a6d771695f0136c6fb35bc0913a93" type="folder">10</container></did></c></c><c id="88435fe890ab4adea15e131be737575b" level="file"><did><unitdate>1940-1949</unitdate><container altrender="Letter Document Storage Box" id="e7b1ceb398a76dbe236cad71680a7ac8" label="mixed materials [A0000000085772]" type="box">1</container><container id="cebf567a55a317f4cebaec7d0fc6321f" parent="e7b1ceb398a76dbe236cad71680a7ac8" type="folder">11</container></did><scopecontent id="6047adba6863ffb5c7dfb482d5ef9075"><head>Scope and Contents</head><p>Select individual items include but are not limited to:</p></scopecontent><c id="8aacb32eea524ec7b07951646c36052f" level="item"><did><unittitle>Shope/A.R. Dochez. re R.E. Shope promotion to Member, RIMR as of 1 July 1940</unittitle><unitdate>1940 June 19</unitdate><container altrender="Letter Document Storage Box" id="35f0fb9ba64651e7cd956f6df32ac0a9" label="mixed materials [A0000000085772]" type="box">1</container><container id="9b2739af9b1f5eb0f55e5777b38133b8" parent="35f0fb9ba64651e7cd956f6df32ac0a9" type="folder">11</container></did></c><c id="b869d439db2a497e9aadce3563acbb47" level="item"><did><unittitle>C. Ten Broeck/H.S. Gasser re John Scott Medal Certificate and Premium to Dr. Shope for "Discovery of the Complex Etiology of Swin Influenza"</unittitle><unitdate>1943 October 13</unitdate><container altrender="Letter Document Storage Box" id="2b8d51acba3130368ef35d2518914018" label="mixed materials [A0000000085772]" type="box">1</container><container id="f7f0918ecf21d6014e5c55fc91183dd2" parent="2b8d51acba3130368ef35d2518914018" type="folder">11</container></did></c><c id="0523b8660cf347bc8dfbfd33f34f88c8" level="item"><did><unittitle>R.E. Shope/RIMR Board of Scientific Directors</unittitle><unitdate>1948 July 16</unitdate><container altrender="Letter Document Storage Box" id="438fbe594aed75ebe86777e321a4f76f" label="mixed materials [A0000000085772]" type="box">1</container><container id="67a0d44a331f7b100d03e2002882c5df" parent="438fbe594aed75ebe86777e321a4f76f" type="folder">11</container></did><scopecontent id="ef65e4239df13084acb9d6892aba2719"><head>Scope and Contents note</head><p>Letter of Resignation from RIMR as of May 16, 1949</p></scopecontent></c></c><c id="24ffa47b9e0d492c857a388092b223fe" level="file"><did><unitdate normal="1950/1955" type="inclusive">1950-1955</unitdate></did><scopecontent id="4da961c7600eef2a98d4ed92150acfda"><head>Scope and Contents</head><p>Select individual items include but are not limited to:</p></scopecontent><c id="c84b1a1060ec4d1a982aab6599816827" level="item"><did><unittitle>Shope/A.R. Dochez, re Shope appointment to RIMR as of July 1, 1952</unittitle><unitdate>1951 December 4</unitdate><container altrender="Letter Document Storage Box" id="5d4bd08bcdee56965b30775aae10df40" label="mixed materials [A0000000085772]" type="box">1</container><container id="554b71c440b4c5a4d3f040314bae5474" parent="5d4bd08bcdee56965b30775aae10df40" type="folder">12</container></did></c></c><c id="03be78d2c9ca4373899ad8512bdacbaa" level="file"><did><unitdate normal="1956/1959" type="inclusive">1956-1959</unitdate></did><scopecontent id="2ed8fdba5b4ef24a985485994f5249c5"><head>Scope and Contents</head><p>Select individual items include but are not limited to:</p></scopecontent><c id="241000a1b82e4495b4303329c2ee6a2d" level="item"><did><unittitle>Shope/D.W. Bronk re visits to laboratories in Russia. Handwritten</unittitle><unitdate>1956 March 14</unitdate><container altrender="Letter Document Storage Box" id="8cc2b744367ae851a1990276b45e036e" label="mixed materials [A0000000085772]" type="box">1</container><container id="a50f8bcf8db16cc7c7f163911294c257" parent="8cc2b744367ae851a1990276b45e036e" type="folder">13</container></did></c><c id="cebf191393434fdd90ea4cb8d2f100e5" level="item"><did><unittitle>D.W. Bronk/Shope re honorary degree to Dr. Shope on occasion of 350 anniversary of the Justus-Liebig Hochschule, University of Giessen</unittitle><unitdate>1957 April 2</unitdate><container altrender="Letter Document Storage Box" id="6207c1adc7c8b55d4af5d052d009731d" label="mixed materials [A0000000085772]" type="box">1</container><container id="6307b412aa2c5c885e3b32dcd156da6f" parent="6207c1adc7c8b55d4af5d052d009731d" type="folder">13</container></did></c><c id="818cb7f19ca3449cbe5352f092bc4fce" level="item"><did><unittitle>B. Pedersen, Science/E.H. Kone re Kober medal and honorary Sc. D. to Dr. Shope</unittitle><unitdate>1957 August 15</unitdate><container altrender="Letter Document Storage Box" id="8cbfe0aac8dda4eb1fd16ba288c201d0" label="mixed materials [A0000000085772]" type="box">1</container><container id="71f82334cbea851fa861c3079a1e04d2" parent="8cbfe0aac8dda4eb1fd16ba288c201d0" type="folder">13</container></did></c><c id="bb7eee5b6d794a259f8c5e0ab5ec3058" level="item"><did><unittitle>H. Mantell/Shope re Lasker award to Shope and WCBS Radio interview, "This is New York" by Jim McKay on vaccines for viruses</unittitle><unitdate>1957 October 2</unitdate><container altrender="Letter Document Storage Box" id="37eebf3fb83f86af0a84a6e003fde690" label="mixed materials [A0000000085772]" type="box">1</container><container id="a7eba82efdb9f600d52581e0478c667d" parent="37eebf3fb83f86af0a84a6e003fde690" type="folder">13</container></did></c><c id="e34ea9f7d82a44f4a02e579b891b3366" level="item"><did><unittitle>Eugene Kone/PHS-NIH, re Dyer lecture at NIH by Shope on influenza</unittitle><unitdate>1957 November 1</unitdate><container altrender="Letter Document Storage Box" id="576fca568272d695077c895b913b9a53" label="mixed materials [A0000000085772]" type="box">1</container><container id="e3accca9d6d07bb9d6cc0e33216df10f" parent="576fca568272d695077c895b913b9a53" type="folder">13</container></did></c><c id="26bd52c9a192461ab4602e19bd8107f5" level="item"><did><unittitle>C.R. Read/E. Kone re lecture by Dr. Shope at February 8?, 1958, Chicago ACS meeting</unittitle><unitdate>1958 January 3</unitdate><container altrender="Letter Document Storage Box" id="782a7efc70bb4610af187fd00f73605d" label="mixed materials [A0000000085772]" type="box">1</container><container id="d6841a9bff0246a8d293ee5c7c2bafdb" parent="782a7efc70bb4610af187fd00f73605d" type="folder">13</container></did></c><c id="2fa3619b7a0b4a239b5702078a7500b4" level="item"><did><unittitle>re honorary degree to Dr. Shope in Chicago</unittitle><unitdate>1958 March 20 1958 June</unitdate><container altrender="Letter Document Storage Box" id="5290d318895e20de3a08ad38843e18d4" label="mixed materials [A0000000085772]" type="box">1</container><container id="26e7717e3ee0aae0fac309d174425eaa" parent="5290d318895e20de3a08ad38843e18d4" type="folder">13</container></did></c><c id="b8fdc84c72fe40a48cccb60a880eaac6" level="item"><did><unittitle>Shope/Douglas H. Whitaker re Shope presentation, August 1958, Stockholm, International Congress for Microbiology</unittitle><unitdate>1958 May 16</unitdate><container altrender="Letter Document Storage Box" id="d09facabedb3f8710d68d657fda98531" label="mixed materials [A0000000085772]" type="box">1</container><container id="38c79cfbc953f88b5105ed37688ba01f" parent="d09facabedb3f8710d68d657fda98531" type="folder">13</container></did></c><c id="e92e944eb87245a1be837a6544220b34" level="item"><did><unittitle>30 September 1959, University of Pennsylvania News Release re honorary D. Sc to Dr Shope, October 3, 1959, at 75th anniversary of School of Veterinary Medicine, University of Pennsylvania, Philadelphia for major contributions in the field of comparative medicine and Shope presentation, "Comparative Medicine"</unittitle><unitdate>1959 September 30 1959 October 3</unitdate><container altrender="Letter Document Storage Box" id="49a7f87a23a7de1124b387d98f5c1459" label="mixed materials [A0000000085772]" type="box">1</container><container id="9418f94e4ac38cddab3fef8dabc2d8f4" parent="49a7f87a23a7de1124b387d98f5c1459" type="folder">13</container></did><scopecontent id="4b3d0eca07fed88297970343055099f4"><head>Scope and Contents note</head><p>Includes reprint of address.</p></scopecontent></c></c><c id="eb4b3535ac0a4e43a15915adb61bcf02" level="file"><did><unitdate normal="1960/1963" type="inclusive">1960-1963</unitdate></did><scopecontent id="ffea210f04021d360ffd002b72dd262e"><head>Scope and Contents</head><p>Select individual items include but are not limited to:</p></scopecontent><c id="b44ede1b502041e49e7d3b639371b889" level="item"><did><unittitle>Shope/W.R. Flinn [re] Shope's bout w/ Eastern equine encephalomyelitis</unittitle><unitdate>1960 January 6</unitdate><physdesc id="ea50d31741eed4197e8b970232887bdb">Photocopy</physdesc><container altrender="Letter Document Storage Box" id="48bc1be4d4c94f77323422b8469d7a8a" label="mixed materials [A0000000085772]" type="box">1</container><container id="db86988e9610261b25bad3cfc1c89634" parent="48bc1be4d4c94f77323422b8469d7a8a" type="folder">14</container></did><scopecontent id="c0065989a06348e282ad37b7da9add11"><head>Scope and Contents note</head><p>Includes New York Herald Tribune, 9 January 1960 clipping.</p></scopecontent></c><c id="73a2edde72b543da8d7f4bcb509925d1" level="item"><did><unittitle>R.E. Shope, "An Account of the Infection of Richard E. Shope with Eastern Equine Encephalomyelitus Virus"</unittitle><unitdate>1960 January 6</unitdate><physdesc id="f1c24c629afb9c26b17f3bd3627f065d">4 pp of photocopies signed by Dr. Shope</physdesc><container altrender="Letter Document Storage Box" id="d48114fdb55996225bbfb81461f45ad4" label="mixed materials [A0000000085772]" type="box">1</container><container id="a514b97740965b655d646127221586c7" parent="d48114fdb55996225bbfb81461f45ad4" type="folder">14</container></did></c><c id="bcc4cc41af3a4148b8696488bdcaac01" level="item"><did><unittitle>[re] Symposium on Eastern Viral Encephalomyelitis, School of Veterinary Medicine, University of Pennsylvania, Philadelphia, Pa</unittitle><unitdate>1960 January 8</unitdate><container altrender="Letter Document Storage Box" id="c52cc4ff8de45759caaf33b6163c2770" label="mixed materials [A0000000085772]" type="box">1</container><container id="f326cd889e67faa33ad8d49a35b5bd89" parent="c52cc4ff8de45759caaf33b6163c2770" type="folder">14</container></did><scopecontent id="95517d73ad3b47e0ed222e16cafa1b32"><head>Scope and Contents note</head><p>Includes Press Reports, and reports re Shope's survival from encephalitis. Also includes R.E. Shope, as Chairman, "Summarization of Symposium on Eastern Viral Encephalomyelitis. (9 pp text of Shope's summary of symposium)</p></scopecontent></c><c id="55f4200d03c24066b24aa4ee600eac45" level="item"><did><unittitle>D.W. Bronk/Shope re Shope election to membership in Century Association w/Shope acknowledgment</unittitle><unitdate>1960 April 5</unitdate><container altrender="Letter Document Storage Box" id="4b01f8dc2289815a07656d8e10daa947" label="mixed materials [A0000000085772]" type="box">1</container><container id="cd8cd606e22f6d0b465e2aff336d1a01" parent="4b01f8dc2289815a07656d8e10daa947" type="folder">14</container></did></c><c id="7b3be81a622d4048b2632e139c1f6b77" level="item"><did><unittitle>Excerpt from Science re R.E. Shope becoming member of the National Cancer Institute Board of Scientific Counselors</unittitle><unitdate>1961 July 21</unitdate><physdesc id="8a871c1f28f8016c00c685d121cd4f9c">Typescript</physdesc><container altrender="Letter Document Storage Box" id="60d979b127ec860ce191f8acfdd75a5f" label="mixed materials [A0000000085772]" type="box">1</container><container id="1b88ab38b40890df6524185ad9825b3a" parent="60d979b127ec860ce191f8acfdd75a5f" type="folder">14</container></did></c><c id="53478252dcab4df7bab46c8f24078cbf" level="item"><did><unittitle>exchange re Shope receiving honorary degree, State University of Iowa</unittitle><unitdate>1963 April-May 1963 June 7</unitdate><container altrender="Letter Document Storage Box" id="d5912a1dff9b29686289d4273ead959c" label="mixed materials [A0000000085772]" type="box">1</container><container id="3df81c21d054825a7a35f2f2c9757e70" parent="d5912a1dff9b29686289d4273ead959c" type="folder">14</container></did></c><c id="3b480092e9b44933bbd47474ae56f07f" level="item"><did><unittitle>re Dr. Shope receiving Howard Taylor Ricketts Memorial Award, University of Chicago</unittitle><unitdate>1963 May 3</unitdate><container altrender="Letter Document Storage Box" id="5a986b81f6f873b10a6f15fcfdea15f4" label="mixed materials [A0000000085772]" type="box">1</container><container id="99979bc8da8e58599504162b407a7399" parent="5a986b81f6f873b10a6f15fcfdea15f4" type="folder">14</container></did><scopecontent id="2375ed4bcc34978d5a847bb49eb56c98"><head>Scope and Contents note</head><p>Announcement of, and biographical information re Dr. Shope.</p></scopecontent></c><c id="254ae9ba8c914da58edcb7b04891e1a4" level="item"><did><unittitle>Morris Pollard/D.W. Bronk, and 4, N.Y.C., 4th Symposium "Perspectives in Virology" sponsored by the Gustav Stern Foundation of New York on Hidden Viruses" honoring Dr. Shope</unittitle><unitdate>1963 July 30 1964 February 3</unitdate><container altrender="Letter Document Storage Box" id="e664b16f12ebf09d12f2038eb03eac27" label="mixed materials [A0000000085772]" type="box">1</container><container id="4e6fb9855f897f59f474c352baa50050" parent="e664b16f12ebf09d12f2038eb03eac27" type="folder">14</container></did><scopecontent id="5ae819cde5cbef84be9cde89cb3e0b33"><head>Scope and Contents note</head><p>[See also: Folders 9,15]</p></scopecontent></c><c id="af85ab66d8714d6e8097000b87fc9dc7" level="item"><did><unittitle>Iris Klein, ACS/E.H. Kone re request for photograph of Dr. Shope for receipt of ACS award</unittitle><unitdate>1963 December 23</unitdate><container altrender="Letter Document Storage Box" id="054f97dfcecfbc420fdf250680b1c65a" label="mixed materials [A0000000085772]" type="box">1</container><container id="58b3ca9567955497b80ac6f79288b530" parent="054f97dfcecfbc420fdf250680b1c65a" type="folder">14</container></did></c></c><c id="29f955674d3c4daaa20934ad72880ea1" level="file"><did><unitdate normal="1964/1969" type="inclusive">1964-1969</unitdate></did><scopecontent id="5eb3df7e7405feef1eb6a81a39893029"><head>Scope and Contents</head><p>Select individual items include but are not limited to:</p></scopecontent><c id="4b7b60509dca42cd9a48edf7e366f332" level="item"><did><unittitle>re Perspectives in Virology IV, The Gustav Stern Foundation "World's Leading Virologists in Symposium on "Hidden Viruses". News release and program</unittitle><unitdate>1964 January 9</unitdate><container altrender="Letter Document Storage Box" id="8e3f741106d86216ce5e7568eafb0239" label="mixed materials [A0000000085772]" type="box">1</container><container id="f307491fe422412229f379fa9be6876e" parent="8e3f741106d86216ce5e7568eafb0239" type="folder">15</container></did><scopecontent id="af8669385a7335c940d30a1cdbed5778"><head>Scope and Contents note</head><p>[See also: Folders 9, 14]</p></scopecontent></c><c id="a5679152ffae4e3da22bd8757e704fa9" level="item"><did><unittitle>Peyton Rous, "Citation and Presentation of the Academy Medal to Richard E. Shope, M.D. and R.E. Shope, "Acceptance of the Academy Medal" Bulletin of the New York Academy of Medicine 41 (April 1965) 400-403</unittitle><unitdate>1965 April</unitdate><physdesc id="24198f3dbdb6ebcd6a91b59af056eba5">Reprint</physdesc><container altrender="Letter Document Storage Box" id="dfd664b3b99d7be067a9f4d0362a2a60" label="mixed materials [A0000000085772]" type="box">1</container><container id="67fb9cf6aa578b62fcb525128298c132" parent="dfd664b3b99d7be067a9f4d0362a2a60" type="folder">15</container></did></c><c id="dddefb07bf054d2097ab0a4d412fe1b1" level="item"><did><unittitle>Exchange between D.W. Bronk, David Rockefeller and Dr. Shope re Shope's illness and residence facilities for the Shopes' on the RU campus with Shope reply to David Rockefeller</unittitle><unitdate>1966 April 19-September 2 1966 June 6</unitdate><physdesc id="4244c98ede7e82fd625b92b79c297f61">(carbon copy)</physdesc><container altrender="Letter Document Storage Box" id="576373e9648f704917e397fbbcf7a63d" label="mixed materials [A0000000085772]" type="box">1</container><container id="2243d8cb9d6b2f4d9a6534eb20d5adf7" parent="576373e9648f704917e397fbbcf7a63d" type="folder">15</container></did></c><c id="9e3f540d99d1431eb61673c13dd23cc8" level="item"><did><unittitle>Telegram to RU Board of Trustees reporting Dr. Shope's death on 2 October 1966</unittitle><unitdate>1966 October 3</unitdate><physdesc id="8effa86fe867112e454c62dd33a84f44">Carbon copy</physdesc><container altrender="Letter Document Storage Box" id="eeff185a2b32169f5ae3e620b8f594b9" label="mixed materials [A0000000085772]" type="box">1</container><container id="22526f321c75bb812784a784736f67f3" parent="eeff185a2b32169f5ae3e620b8f594b9" type="folder">15</container></did></c><c id="6c90610d022545cebf96b6fc2b2b78b7" level="file"><did><unittitle>[re] R.E. Shope's death</unittitle><unitdate>1966 October 3-December</unitdate><container altrender="Letter Document Storage Box" id="29e1d0de8c5899ead3768a3204219651" label="mixed materials [A0000000085772]" type="box">1</container><container id="7021d6afd3f435f5c8ea9549ba18366d" parent="29e1d0de8c5899ead3768a3204219651" type="folder">15</container></did><scopecontent id="89a3782111a0fdf0bea37bb8405561fe"><head>Scope and Contents note</head><p>Includes:</p></scopecontent><c id="aa09d29e7df042c89f3f0b4c18444ad7" level="item"><did><unittitle>Telegram to RU Board of Trustees</unittitle><unitdate>1966 October 3</unitdate><physdesc id="db44d290b5e3cf72a7e2ca246da9d664">(copy)</physdesc></did></c><c id="5a11320d4587428e81362e37b3763b13" level="item"><did><unittitle>News from the Rockefeller University</unittitle><unitdate>1966 October 3</unitdate></did></c><c id="6994755890654d8aa492cf6910d1fc26" level="item"><did><unittitle>D.W. Bronk/RU Faculty</unittitle><unitdate>1966 October 3</unitdate></did></c><c id="9f197668526a4475ad322448ac2e1a1d" level="item"><did><unittitle>Father Theodore Hesburgh/D.W. Bronk; Bronk reply, 12 October</unittitle><unitdate>1966 October 6</unitdate></did></c><c id="9b3cfa5c328d4ad4af1348ba6a45196c" level="item"><did><unittitle>D.W. Bronk/Helen Shope</unittitle><unitdate>1966 October 23</unitdate></did></c><c id="c6fbe5befe3c4987b671687c31009ae6" level="item"><did><unittitle>Helen Shope/David Rockefeller</unittitle><unitdate>1966 November 3</unitdate></did><scopecontent id="4d10ec32b5a872971b751d13dc2ae109"><head>Scope and Contents note</head><p>Photocopy. 17 November 1966. L.G. MacNamara/RIMR re Shope resolution; D.W. Bronk thank you 7 December</p></scopecontent></c><c id="45a8a5724b674499bea4b882acc78bb1" level="item"><did><unittitle>Helen Shope/D.W. Bronk re Father Hesburgh and Shope's books and papers</unittitle><unitdate>1966 December 20</unitdate></did></c></c></c></c></dsc>
+</archdesc>
 </ead>

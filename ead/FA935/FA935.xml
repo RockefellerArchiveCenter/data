@@ -1,403 +1,51 @@
-<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
-  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="under_revision" langencoding="iso639-2b" repositoryencoding="iso15511">
-    <eadid>FA935.xml</eadid>
-    <filedesc>
-      <titlestmt>
-        <titleproper type="filing">Rockefeller University Press, Books and Reports Department, Subject Files</titleproper>
-        <titleproper>A Guide to the Rockefeller University Press, Books and Reports Department, Subject Files
- <num>FA935</num></titleproper>
-      </titlestmt>
-      <publicationstmt>
-        <publisher>Rockefeller Archive Center</publisher>
-        <address>
-          <addressline>15 Dayton Avenue</addressline>
-          <addressline>Sleepy Hollow 10591</addressline>
-          <addressline>archive@rockarch.org</addressline>
-          <addressline>URL: <extptr xlink:href="http://www.rockarch.org" xlink:show="new" xlink:title="http://www.rockarch.org" xlink:type="simple"/></addressline>
-        </address>
-      </publicationstmt>
-    </filedesc>
-    <profiledesc>
-      <creation>This finding aid was produced using ArchivesSpace on <date>2018-09-22 00:02:01 -0400</date>.</creation>
-    </profiledesc>
-    <revisiondesc>
-      <date>2008 October 21</date>
-      <item>Paper finding aid converted to EAD/XML by AureXus in 2010. Imported into the Archvists’ Toolkit by Becky Robbins.</item>
-    </revisiondesc>
-  </eadheader>
-  <archdesc level="collection">
-    <did>
-      <langmaterial>
-        <language langcode="eng">English</language>
-      </langmaterial>
-      <repository>
-        <corpname>Rockefeller Archive Center</corpname>
-      </repository>
-      <unittitle>Rockefeller University Press, Books and Reports Department, Subject Files</unittitle>
-      <origination label="creator">
-        <corpname role="aut" rules="dacs">Rockefeller University Press</corpname>
-      </origination>
-      <unitid>FA935</unitid>
-      <physdesc altrender="whole">
-        <extent altrender="materialtype spaceoccupied">3.96 Cubic Feet</extent>
-        <extent altrender="carrier">6 boxes and 3 packages.</extent>
-      </physdesc>
-      <unitdate normal="1954/1976" type="inclusive">1954-1976</unitdate>
-      <physdesc id="aff2c51eaf655ae7b517aa17143c91f1">6 boxes and 3 packages.</physdesc>
-    </did>
-    <bioghist id="73d6e46189948d9dd7a5754bf6f144f5">
-      <head>Biographical/Historical note</head>
-      <p>In order to assist in the dissemination of scientific investigations conducted at the Institute and elsewhere, publication was an early and important activity of The Rockefeller Institute for Medical Research. A senior member of the scientific staff was usually the editor of a periodical. As early as 1910 the Institute had a Publication Service, which was supervised from 1910 by Editha C. Campbell until she retired in the fall of 1940. A Department of Illustration and Photography was under a part-time arrangement with De. Eduard Learning from 1906 until 1910 when Louis Schmidt undertook the direction of a full-time department. Louis Schmidt was at the head of the department until he reached the age of 70 in 1936. The work in the Department of Illustrations included hand-drawn illustrations for publications, photographs, moving pictures of experimental procedures made for the various investigators and used for a variety of purposes. Louis Schmidt served on a consultant basis until his death in 1939. Joseph Blauvelt Haulenbeek was acting in charge of Illustrations during that time and named officially in charge of illustrations in 1942, serving until he resigned September 1, 1946. Julian Alexander Carlile who was in charge of illustrations in the Department of Animal and Plant Pathology at Princeton took charge of the New York Department starting October 1, 1947 and divided his time between the two departments until they were consolidated during 1950. He directed the expanding department until his death in 1959 when he was succeeded by Richard F. Carter until 1964. In the academic year 1968/1969 Lewis William Koster became Manager of Graphic Services until 1973. March 1973 Bill Leyrer was appointed to that position.</p>
-      <p>Florence M. Stewart succeeded Editha Campbell in charge of the Publication Service in 1940 and served until she retired June 30, 1963, when she was succeeded by Margaret E. Broadbent.</p>
-      <p>Effective January 1, 1957 Charles Irvin Campbell was appointed Administrative Associate for Information Services. He had responsibility for a variety of information services among which were Secretary of the Library Committee, Librarian, ex officio, and supervision of the Publication Service and Illustration and Duplicating Services. Included were publication duties of such items as the Annual Report, Rockefeller Institute Quarterly, and the Calendar of Events. On October 20, 1958 the Board of Trustees approved a cooperative arrangement with the Oxford University Press to assist in producing, advertising and selling publications of the newly established Rockefeller Institute Press. The plan was for the Institute to continue publishing journals in accord with previously established policy and arrangements. Charles I. Campbell was appointed Director of The Rockefeller Institute Press. The Publications Service became the Journals Department without change of personnel or function. A new Books and Reports Department was created with responsibility for the production of books and the publication of bulletins and reports issued by the Institute.</p>
-      <p>January 1, 1960 Reynard F. Biemiller was appointed Assistant Director of The Rockefeller Institute Press. Effective December 5, 1960 Raymond B. Griffiths was appointed to the newly created position of Executive Editor of the Journal of Cell Biology.</p>
-      <p>Charles I. Campbell resigned May 15, 1962 and Joseph G. Sutton served as Acting Director of the Press from January 1963 until in 1964 William Arthur Bayless was named Director of the Press.</p>
-      <p>William Bayless retired as Director of The Rockefeller University Press on February 8, 1980. As of February 11, 1980, Mrs. Helene Jordan agreed to serve as acting director of the Press.</p>
-      <p>Effective July 1, 1980, Mrs. Helene Jordan was appointed Director of The Rockefeller University Press.</p>
-    </bioghist>
-    <prefercite id="e501271ce31d71f2edc00d991584fccb">
-      <head>Preferred Citation note</head>
-      <p>Information regarding the Rockefeller Archive Center's preferred elements and forms of citation can be found at <extref href="http://www.rockarch.org/research/citations.php">http://www.rockarch.org/research/citations.php</extref></p>
-    </prefercite>
-    <accessrestrict id="a83caba6d8aa47568b4e13a3b5a85af4">
-      <head>Conditions Governing Access</head>
-      <p>Collection is open for research. Brittle or damaged items are available at the discretion of the RAC.</p>
-    </accessrestrict>
-    <fileplan id="47c6c3bde4460c863c81c3df1d408b08">
-      <head>File Plan note</head>
-      <p>Former Classification: I 530-3</p>
-    </fileplan>
-    <scopecontent id="5c6dc0719fbbfe3966c079bf8624e203">
-      <head>Scope and Contents</head>
-      <p>Documents the history of RIMR/RU and select retrospective events.</p>
-    </scopecontent>
-    <controlaccess>
-      <subject source="lcsh">Medical research</subject>
-      <subject source="lcsh">Biology -- Research</subject>
-      <subject source="lcsh">Medical technology</subject>
-      <subject source="lcsh">Medical education</subject>
-      <subject source="lcsh">Science -- Study and teaching</subject>
-      <subject source="lcsh">Medical sciences</subject>
-      <subject source="lcsh">Life sciences</subject>
-      <subject source="lcsh">Medicine, Preventive</subject>
-      <subject source="lcsh">Cell and biomolecular sciences</subject>
-    </controlaccess>
-    <dsc>
-      <c id="8c6143b507f44348abf80ae526dca02d" level="file">
-        <did>
-          <unittitle>Convocation book</unittitle>
-          <unitdate normal="1959/1959" type="inclusive">1959 May 21-22</unitdate>
-        </did>
-        <scopecontent id="c8c4a05fa15b0a02d7115810aebd66c2">
-          <head>Scope and Contents note</head>
-          <p>Material collected for a book to be published which would be based on the proceedings of the first Academic Convocation, May 21-22, 1959 and the dedication ceremonies of the new buildings. The book was never published.</p>
-        </scopecontent>
-        <c id="e0d9f60e554040178b8b3e978e390776" level="file">
-          <did>
-            <unittitle>Master dummy</unittitle>
-            <container altrender="Half Ltr Document Storage Box" id="16b880b4c8caf1b73acd839f9f8afe0b" label="mixed materials [A0000000095575]" type="box">1</container>
-            <container id="c2ed3324fd4f3e96a6c382ea75b66149" parent="16b880b4c8caf1b73acd839f9f8afe0b" type="folder">1</container>
-          </did>
-        </c>
-        <c id="1703d4024c9a4eaf91628bccf265c95b" level="file">
-          <did>
-            <unittitle>Galley proofs and some photographs</unittitle>
-            <container altrender="Half Ltr Document Storage Box" id="9604a5f85dc26256c2876b3574fd8eef" label="mixed materials [A0000000095575]" type="box">1</container>
-            <container id="93b84b04018039d0bfeeb9831f1cd748" parent="9604a5f85dc26256c2876b3574fd8eef" type="folder">2</container>
-          </did>
-        </c>
-        <c id="3ff7d94486fc4df1ae8eb664013da3af" level="file">
-          <did>
-            <unittitle>Historical material on the various institutions represented. Biographical material and citations of the Honorary degree recipients</unittitle>
-            <container altrender="Half Ltr Document Storage Box" id="2b4340edfc13f9bb8147280795d4bacc" label="mixed materials [A0000000095575]" type="box">1</container>
-            <container id="3494ede1a668f995b5f3c572ce6f8985" parent="2b4340edfc13f9bb8147280795d4bacc" type="folder">3</container>
-          </did>
-          <scopecontent id="5e18bcefa87057f12919b6226db1a9c9">
-            <head>Scope and Contents note</head>
-            <p>Included are:</p>
-          </scopecontent>
-        </c>
-        <c id="9e0811a352714571847b80e402565d71" level="file">
-          <did>
-            <unittitle>Giuseppe Gherardo Forni. University of Bologna. Presented by René J. Dubos</unittitle>
-            <container altrender="Half Ltr Document Storage Box" id="d8b8f5d5ce96d7bc6f49ac4cebfe1cf5" label="mixed materials [A0000000095575]" type="box">1</container>
-            <container id="62436c8ad760e27c55f6945eb49fc269" parent="d8b8f5d5ce96d7bc6f49ac4cebfe1cf5" type="folder">3</container>
-          </did>
-        </c>
-        <c id="a7d83ad8b7d14050a2dd4e649a7898fa" level="file">
-          <did>
-            <unittitle>Thomas Sherer Ross Boase. Oxford University Presented by George W. Corner</unittitle>
-            <container altrender="Half Ltr Document Storage Box" id="046f26b7c64cb95694ff299d75895790" label="mixed materials [A0000000095575]" type="box">1</container>
-            <container id="90757ce9a4093c585081a4cc6a6f4b46" parent="046f26b7c64cb95694ff299d75895790" type="folder">3</container>
-          </did>
-        </c>
-        <c id="f46b1e711163472f8260d8950220d893" level="file">
-          <did>
-            <unittitle>Baron Adrian of Cambridge University. Presented by Peyton Rous</unittitle>
-            <container altrender="Half Ltr Document Storage Box" id="d3ec46946ffe690ffde3505701fd6f05" label="mixed materials [A0000000095575]" type="box">1</container>
-            <container id="9410f0aeca20958bb55595c6d0746f8a" parent="d3ec46946ffe690ffde3505701fd6f05" type="folder">3</container>
-          </did>
-        </c>
-        <c id="dc79501207cb4a08a5b44f5cf2b4074d" level="file">
-          <did>
-            <unittitle>Jose Leon Barandiaran. University San Marcos of Lima. Presented by Richard E. Shope</unittitle>
-            <container altrender="Half Ltr Document Storage Box" id="dc6c2730bdbbaf2ab2026a1102a77e79" label="mixed materials [A0000000095575]" type="box">1</container>
-            <container id="4aed7ea6d08619a545afd75169c629f0" parent="dc6c2730bdbbaf2ab2026a1102a77e79" type="folder">3</container>
-          </did>
-        </c>
-        <c id="bfe4056d43c44c5f9ad6d31e0543719f" level="file">
-          <did>
-            <unittitle>Nabor Carrillo. University of Mexico. Presented by Paul A. Weiss</unittitle>
-            <container altrender="Half Ltr Document Storage Box" id="a86b0392c412e30f7a9dd4c9749f7621" label="mixed materials [A0000000095575]" type="box">1</container>
-            <container id="a9a1e12a2c2dcaf7990a6f96dce5782e" parent="a86b0392c412e30f7a9dd4c9749f7621" type="folder">3</container>
-          </did>
-        </c>
-        <c id="2b640d276feb45b68c6d70542ce00ffe" level="file">
-          <did>
-            <unittitle>Nathan Marsh Pusey. Harvard University. Presented by Alfred E. Mirsky</unittitle>
-            <container altrender="Half Ltr Document Storage Box" id="79ba12a80bd2c0015c1b63790a08efbc" label="mixed materials [A0000000095575]" type="box">1</container>
-            <container id="5670a1ef6c313fb3571128ef37687b93" parent="79ba12a80bd2c0015c1b63790a08efbc" type="folder">3</container>
-          </did>
-        </c>
-        <c id="ffbc2a2ae58744ab917ace8716526c9f" level="file">
-          <did>
-            <unittitle>John D. Rockefeller, Jr. Presented by Detlev W. Bronk</unittitle>
-            <container altrender="Half Ltr Document Storage Box" id="c8b2a4278d592a19f0a7f94a0d0ca843" label="mixed materials [A0000000095575]" type="box">1</container>
-            <container id="fb9efea5ea267e787d0b85d3aebef32e" parent="c8b2a4278d592a19f0a7f94a0d0ca843" type="folder">3</container>
-          </did>
-        </c>
-        <c id="f9a2e068bffd4fc8b400b7f5d1a732b8" level="file">
-          <did>
-            <unittitle>Reprints of addresses given and later published in Nature</unittitle>
-            <container altrender="Half Ltr Document Storage Box" id="204427270ec582e25008e12950818d90" label="mixed materials [A0000000095575]" type="box">1</container>
-            <container id="1b82378a0598f5c8183e61d169134715" parent="204427270ec582e25008e12950818d90" type="folder">4</container>
-          </did>
-          <c id="e6be205f657c4ae390f0f65aa1fcddec" level="file">
-            <did>
-              <unittitle>Lord Adrian. The place of science in universities past and present. Nature 183</unittitle>
-              <unitdate normal="1959/1959" type="inclusive">1959</unitdate>
-            </did>
-          </c>
-          <c id="39efea4d78fd4829867b482d7974de9c" level="file">
-            <did>
-              <unittitle>Douglas M. Knight. The American college and the educated life. Nature 183</unittitle>
-              <unitdate normal="1959/1959" type="inclusive">1959</unitdate>
-            </did>
-          </c>
-          <c id="915e1e890d00413095f76955761791f0" level="file">
-            <did>
-              <unittitle>Henry Allen Moe. Role of the scholar in society. Nature l84 (also typescript)</unittitle>
-              <unitdate normal="1959/1959" type="inclusive">1959</unitdate>
-            </did>
-          </c>
-          <c id="ce5cc6d0ff4047da98935e1cdf7bb492" level="file">
-            <did>
-              <unittitle>Detlev W. Bronk. A university of graduate studies. Nature 184</unittitle>
-              <unitdate normal="1959/1959" type="inclusive">1959</unitdate>
-            </did>
-          </c>
-        </c>
-        <c id="021f1d5b916241f7bedb36e9cdb177ff" level="file">
-          <did>
-            <unittitle>Publication plans</unittitle>
-            <container altrender="Half Ltr Document Storage Box" id="9f382224687618088f1fb318aecadc6b" label="mixed materials [A0000000095575]" type="box">1</container>
-            <container id="11be6fa3c5e6ad51fe9f4a0d8b01d2bf" parent="9f382224687618088f1fb318aecadc6b" type="folder">4</container>
-          </did>
-          <scopecontent id="2cdc27fdcaa1e417ebdf610243b3e1ac">
-            <head>Scope and Contents note</head>
-            <p>News releases and various notes. Corrected typescript of addresses presented by Detlev Bronk, Wallace K. Harrison, architect and Barklie Henry, trustee at dedication of new buildings.</p>
-          </scopecontent>
-        </c>
-        <c id="bbe998e701234247882c3219a9f0af84" level="file">
-          <did>
-            <unittitle>Editor's typescript working copies of published books</unittitle>
-            <unitdate normal="1976/1976" type="inclusive">1976</unitdate>
-            <container altrender="Letter Document Storage Box" id="f81b0c83b8bb821d27f8dde8011c049a" label="mixed materials [A0000000095576]" type="box">2</container>
-          </did>
-          <scopecontent id="2f22c93695f7514d6588e97181f66b65">
-            <head>Scope and Contents note</head>
-            <p>Helene Jordan was the University's editor working with the authors for the publication of Donald Griffin's THE QUESTION OF ANIMAL AWARENESS; EVOLUTIONARY CONTINUITY AND MENTAL EXPERIENCE and René Dubos' THE PROFESSOR, THE INSTITUTE AND DNA.</p>
-            <p>Final typescript drafts were sent to the Archives Office by the editor.</p>
-          </scopecontent>
-          <arrangement id="c13213d9613a9e27f733f9fbfad1e8a1">
-            <head>Arrangement note</head>
-            <p>Arranged by author and page number.</p>
-          </arrangement>
-          <acqinfo id="35ec435e9e72f3017993566917c1a571">
-            <head>Immediate Source of Acquisition note</head>
-            <p>Date received or inventoried: 1978</p>
-          </acqinfo>
-        </c>
-      </c>
-      <c id="4bef802a112d4b698892fc36e25b51c6" level="file">
-        <did>
-          <unittitle>Proceedings of the 50th anniversary (never published)</unittitle>
-          <unitdate normal="1954/1954" type="inclusive">1954</unitdate>
-        </did>
-        <bioghist id="ad9318317edc37ddd7619abf14e6b425">
-          <head>Biographical/Historical note</head>
-          <p>The Occasion was held on 15 October 1954 and was marked by the naming of the existing buildings and breaking of the ground for new buildings. Invited speakers were Harry Emerson Fosdick who gave the Invocation; David Rockefeller who made some Introductory remarks; Detlev Wulf Bronk who introduced each of the speakers to follow. Eugene Lindsay Opie "The first laboratory of the Institute" Alan Mason Chesney "William Henry Welch" Peyton Rous "Simon Flexner" Richard Edwin Shope "Theobald Smith".</p>
-          <p>Addresses were corrected and set in type; design was chosen and line drawings made but publication was never carried out.</p>
-        </bioghist>
-        <scopecontent id="8aedd73094fc812dc459c153b012eb49">
-          <head>Scope and Contents note</head>
-          <p>Material collected for a book to be published of the Proceedings on the Occasion of the Fiftieth Anniversary of the First Laboratory.</p>
-        </scopecontent>
-        <acqinfo id="b5084245a2e870ca2b052c4db66759af">
-          <head>Immediate Source of Acquisition note</head>
-          <p>Date received or inventoried: November 1979</p>
-        </acqinfo>
-        <c id="ea9382863c5e44e091248992d2555def" level="file">
-          <did>
-            <unittitle>Corrected typescript of various addresses</unittitle>
-            <container id="4ceaf8891748a16382fd5129bb3feea6" label="mixed materials" type="box">3</container>
-            <container id="078a918a7248438b0ae41b5639b7f0fb" parent="4ceaf8891748a16382fd5129bb3feea6" type="folder">1</container>
-          </did>
-        </c>
-        <c id="b1e8329387b84f9f8c2b0b3cb63a23e9" level="file">
-          <did>
-            <unittitle>Design of booklet, paper</unittitle>
-            <container id="ede68f77076a4512c0f8a32e93a3e336" label="mixed materials" type="box">3</container>
-            <container id="70acfb00f3e1730a28ac14bfde7b6360" parent="ede68f77076a4512c0f8a32e93a3e336" type="folder">2</container>
-          </did>
-        </c>
-        <c id="c41e0de84544456c834f2c085d0ec4fa" level="file">
-          <did>
-            <unittitle>2 sets of page proofs</unittitle>
-            <container id="7ba4347003aafa0be9208f0f1ee79f03" label="mixed materials" type="box">3</container>
-            <container id="3af79c6333d20e1de0c1c89f82dea58a" parent="7ba4347003aafa0be9208f0f1ee79f03" type="folder">3</container>
-          </did>
-        </c>
-      </c>
-      <c id="3c40c9a4ec824e7886e84446d88318fb" level="file">
-        <did>
-          <unittitle>Corner, George W., 1889-. A history of The Rockefeller Institute, 1901-1953, origins and growth. New York, Rockefeller Institute Press, 1964. 635 p.</unittitle>
-          <unitdate normal="1961/1964" type="inclusive">1961-1964</unitdate>
-        </did>
-        <scopecontent id="e80d2b3ff8172077d4f030b050570606">
-          <head>Scope and Contents note</head>
-          <p>The materials sent to the archives from the University Press consist of the typescript Press copy and various sets of galley proofs.</p>
-        </scopecontent>
-        <fileplan id="3704cff9d0911ba901c51664cf317363">
-          <head>File Plan note</head>
-          <p>Old number: 530.3</p>
-        </fileplan>
-        <acqinfo id="1d85a1a9df29ebdaae9f58e15e67a03e">
-          <head>Immediate Source of Acquisition note</head>
-          <p>Date received or inventoried: November 1979</p>
-        </acqinfo>
-        <c id="6203f44e3a2c4423bde0a1a668738e7d" level="file">
-          <did>
-            <unittitle>Typescript press copy of manuscript</unittitle>
-          </did>
-          <c id="0eb6a6f9bfbd49baa94bbebe5796a018" level="file">
-            <did>
-              <unittitle>Chapters 1-2</unittitle>
-              <container altrender="Letter Document Storage Box" id="941f56e5effb256a0a5c77db03f989af" label="mixed materials [A0000000095578]" type="box">4</container>
-              <container id="836bced982a7d38726def5c8d58533f5" parent="941f56e5effb256a0a5c77db03f989af" type="folder">1</container>
-            </did>
-          </c>
-          <c id="80d56ae76e334f318bef681b92f1dc31" level="file">
-            <did>
-              <unittitle>Chapters 3, 4, 5</unittitle>
-              <container altrender="Letter Document Storage Box" id="07fa75d1cac96777cfd807104e9c79b3" label="mixed materials [A0000000095578]" type="box">4</container>
-              <container id="518f7b037e596e219b428d72e730df5b" parent="07fa75d1cac96777cfd807104e9c79b3" type="folder">2</container>
-            </did>
-          </c>
-          <c id="bc044cf350cf4376bb600c72d95dd4ab" level="file">
-            <did>
-              <unittitle>Chapters 6, 7, 8</unittitle>
-              <container altrender="Letter Document Storage Box" id="9fa6663bc41d1fd8717c1f74c8e0b44f" label="mixed materials [A0000000095578]" type="box">4</container>
-              <container id="e8ef5cd52f142cefd85cda0d6f8c86a4" parent="9fa6663bc41d1fd8717c1f74c8e0b44f" type="folder">3</container>
-            </did>
-          </c>
-          <c id="9c98191c311e46d98087d7b07b42a5da" level="file">
-            <did>
-              <unittitle>Chapters 9, 10, 11</unittitle>
-              <container altrender="Letter Document Storage Box" id="8b55fb82ec45d0e5a4eb3bdb3229561e" label="mixed materials [A0000000095578]" type="box">4</container>
-              <container id="aef31a065c339fabb279faffe95664cb" parent="8b55fb82ec45d0e5a4eb3bdb3229561e" type="folder">4</container>
-            </did>
-          </c>
-          <c id="765fce935e0140778b357cc8109d664e" level="file">
-            <did>
-              <unittitle>Chapters 12, 13, 14</unittitle>
-              <container altrender="Letter Document Storage Box" id="43af72dfd95af79258f871ec2cabc9d0" label="mixed materials [A0000000095578]" type="box">4</container>
-              <container id="e73cb0ae8b3d4a67e98b1188e2ed558c" parent="43af72dfd95af79258f871ec2cabc9d0" type="folder">5</container>
-            </did>
-          </c>
-          <c id="09177685ba3547f893f47afbff31cd82" level="file">
-            <did>
-              <unittitle>Chapter 15</unittitle>
-              <container altrender="Letter Document Storage Box" id="e4c375809bcb7bd633266bc085212d93" label="mixed materials [A0000000095578]" type="box">4</container>
-              <container id="8d6e9625fbe2b17570c7b8fc25eca040" parent="e4c375809bcb7bd633266bc085212d93" type="folder">6</container>
-            </did>
-          </c>
-        </c>
-        <c id="5717a444a94e4fe0a860e10ee886b1ff" level="file">
-          <did>
-            <unittitle>Typescript press copy of manuscript</unittitle>
-          </did>
-          <c id="f70e07bdb0934c3e9dc6dca727c93bdf" level="file">
-            <did>
-              <unittitle>Chapters 16, 17, 18</unittitle>
-              <container id="39bb6f82f56c2a0011577ff285edef50" label="mixed materials [564336.5.318]" type="box">5</container>
-              <container id="2ce797d3970a37c7063940aa6cd3f1bd" parent="39bb6f82f56c2a0011577ff285edef50" type="folder">1</container>
-            </did>
-          </c>
-          <c id="813984beadf54e769b03ea984e51ce86" level="file">
-            <did>
-              <unittitle>Chapters 19, 20</unittitle>
-              <container id="99133c0afde5d029943db172ea7dcd7b" label="mixed materials [564336.5.318]" type="box">5</container>
-              <container id="8008638d64abd488f7627cc099257c54" parent="99133c0afde5d029943db172ea7dcd7b" type="folder">2</container>
-            </did>
-          </c>
-        </c>
-        <c id="9f07bec73ed5457382fca08bd348d707" level="file">
-          <did>
-            <unittitle>Appendix 1, 2, 3 and Notes on Chapters</unittitle>
-            <container altrender="Letter Document Storage Box" id="ab5fe1065b94a9214e3150be04186a2e" label="mixed materials [A0000000095579]" type="box">5</container>
-            <container id="e64692c151f376122e554a3b6707c5a3" parent="ab5fe1065b94a9214e3150be04186a2e" type="folder">3</container>
-          </did>
-        </c>
-        <c id="99666558e87f4471aad563f828524325" level="file">
-          <did>
-            <unittitle>President's galley proof</unittitle>
-            <physdesc id="9d68ba03932102010452cf14d3ea354b">2 volumes in temporary binding</physdesc>
-          </did>
-          <c id="9cfa8d6bec2142d48949d79ca93dd1c5" level="file">
-            <did>
-              <unittitle>Text. President's galley copy in temporary binding with editor's corrections</unittitle>
-              <container altrender="Letter Document Storage Box" id="a7aaf28d4ffda2efffaf25390f0b558c" label="mixed materials [A0000000095580]" type="box">6</container>
-            </did>
-          </c>
-          <c id="5cea66bce48f4dd69ce0302dc1996b8f" level="file">
-            <did>
-              <unittitle>2 letters G. Corner to C.I. Campbell on proof corrections</unittitle>
-              <unitdate>1960 July</unitdate>
-              <container altrender="Letter Document Storage Box" id="8286aefceb59aebe9449fc1722feb4d7" label="mixed materials [A0000000095580]" type="box">6</container>
-            </did>
-          </c>
-        </c>
-        <c id="31eb6ce847e24bd491b009637bfa7293" level="file">
-          <did>
-            <unittitle>Master set of 1st galley proof</unittitle>
-            <container id="de0d62d61c54de233e612f57a501bc8d" label="mixed materials [A0000000095581]" type="box">7</container>
-          </did>
-        </c>
-        <c id="6db33039776a4e11831038c61c76667b" level="file">
-          <did>
-            <unittitle>2nd galley proofs. Joseph Sutton working set 1961 Lay out pages for chapter headings dated 1964</unittitle>
-            <unitdate normal="1964/1964" type="inclusive">1964</unitdate>
-            <container id="f52355f3da917909ce0291590668c9b7" label="mixed materials [A0000000095582]" type="box">8</container>
-          </did>
-        </c>
-        <c id="03f25202ed6c4f4aaf5ceeda261020f1" level="file">
-          <did>
-            <unittitle>3rd galley proofs Dr. Bronk's corrections</unittitle>
-            <container id="38be24f9b4045f309f0e9c7bfe417d12" label="mixed materials [A0000000095583]" type="box">9</container>
-          </did>
-        </c>
-      </c>
-    </dsc>
-  </archdesc>
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="under_revision" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid>FA935.xml</eadid><filedesc><titlestmt><titleproper type="filing">Rockefeller University Press, Books and Reports Department, Subject Files</titleproper><titleproper>A Guide to the Rockefeller University Press, Books and Reports Department, Subject Files
+ <num>FA935</num></titleproper></titlestmt><publicationstmt><publisher>Rockefeller Archive Center</publisher><address><addressline>15 Dayton Avenue</addressline><addressline>Sleepy Hollow 10591</addressline><addressline>archive@rockarch.org</addressline><addressline>URL: <extptr xlink:href="http://www.rockarch.org" xlink:show="new" xlink:title="http://www.rockarch.org" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2019-03-14 03:02:08 -0400</date>.</creation></profiledesc><revisiondesc><date>2008 October 21</date><item>Paper finding aid converted to EAD/XML by AureXus in 2010. Imported into the Archvists’ Toolkit by Becky Robbins.</item></revisiondesc></eadheader><archdesc level="collection">
+  <did>
+    <langmaterial>
+      <language langcode="eng">English</language>
+    </langmaterial>
+    <repository>
+      <corpname>Rockefeller Archive Center</corpname>
+    </repository>
+    <unittitle>Rockefeller University Press, Books and Reports Department, Subject Files</unittitle>
+    <origination label="creator">
+      <corpname role="aut" rules="dacs">Rockefeller University Press</corpname>
+    </origination>
+    <unitid>FA935</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">3.96 Cubic Feet</extent>
+      <extent altrender="carrier">6 boxes and 3 packages.</extent>
+    </physdesc>
+    <unitdate normal="1954/1976" type="inclusive">1954-1976</unitdate>
+    <physdesc id="aff2c51eaf655ae7b517aa17143c91f1">6 boxes and 3 packages.</physdesc>
+  </did>
+  <bioghist id="73d6e46189948d9dd7a5754bf6f144f5">
+    <head>Biographical/Historical note</head>
+<p>In order to assist in the dissemination of scientific investigations conducted at the Institute and elsewhere, publication was an early and important activity of The Rockefeller Institute for Medical Research. A senior member of the scientific staff was usually the editor of a periodical. As early as 1910 the Institute had a Publication Service, which was supervised from 1910 by Editha C. Campbell until she retired in the fall of 1940. A Department of Illustration and Photography was under a part-time arrangement with De. Eduard Learning from 1906 until 1910 when Louis Schmidt undertook the direction of a full-time department. Louis Schmidt was at the head of the department until he reached the age of 70 in 1936. The work in the Department of Illustrations included hand-drawn illustrations for publications, photographs, moving pictures of experimental procedures made for the various investigators and used for a variety of purposes. Louis Schmidt served on a consultant basis until his death in 1939. Joseph Blauvelt Haulenbeek was acting in charge of Illustrations during that time and named officially in charge of illustrations in 1942, serving until he resigned September 1, 1946. Julian Alexander Carlile who was in charge of illustrations in the Department of Animal and Plant Pathology at Princeton took charge of the New York Department starting October 1, 1947 and divided his time between the two departments until they were consolidated during 1950. He directed the expanding department until his death in 1959 when he was succeeded by Richard F. Carter until 1964. In the academic year 1968/1969 Lewis William Koster became Manager of Graphic Services until 1973. March 1973 Bill Leyrer was appointed to that position.</p><p>Florence M. Stewart succeeded Editha Campbell in charge of the Publication Service in 1940 and served until she retired June 30, 1963, when she was succeeded by Margaret E. Broadbent.</p><p>Effective January 1, 1957 Charles Irvin Campbell was appointed Administrative Associate for Information Services. He had responsibility for a variety of information services among which were Secretary of the Library Committee, Librarian, ex officio, and supervision of the Publication Service and Illustration and Duplicating Services. Included were publication duties of such items as the Annual Report, Rockefeller Institute Quarterly, and the Calendar of Events. On October 20, 1958 the Board of Trustees approved a cooperative arrangement with the Oxford University Press to assist in producing, advertising and selling publications of the newly established Rockefeller Institute Press. The plan was for the Institute to continue publishing journals in accord with previously established policy and arrangements. Charles I. Campbell was appointed Director of The Rockefeller Institute Press. The Publications Service became the Journals Department without change of personnel or function. A new Books and Reports Department was created with responsibility for the production of books and the publication of bulletins and reports issued by the Institute.</p><p>January 1, 1960 Reynard F. Biemiller was appointed Assistant Director of The Rockefeller Institute Press. Effective December 5, 1960 Raymond B. Griffiths was appointed to the newly created position of Executive Editor of the Journal of Cell Biology.</p><p>Charles I. Campbell resigned May 15, 1962 and Joseph G. Sutton served as Acting Director of the Press from January 1963 until in 1964 William Arthur Bayless was named Director of the Press.</p><p>William Bayless retired as Director of The Rockefeller University Press on February 8, 1980. As of February 11, 1980, Mrs. Helene Jordan agreed to serve as acting director of the Press.</p><p>Effective July 1, 1980, Mrs. Helene Jordan was appointed Director of The Rockefeller University Press.</p>  </bioghist>
+  <prefercite id="e501271ce31d71f2edc00d991584fccb">
+    <head>Preferred Citation note</head>
+<p>Information regarding the Rockefeller Archive Center's preferred elements and forms of citation can be found at <extref href="http://www.rockarch.org/research/citations.php">http://www.rockarch.org/research/citations.php</extref></p>  </prefercite>
+  <accessrestrict id="a83caba6d8aa47568b4e13a3b5a85af4">
+    <head>Conditions Governing Access</head>
+<p>Collection is open for research. Brittle or damaged items are available at the discretion of the RAC.</p>  </accessrestrict>
+  <fileplan id="47c6c3bde4460c863c81c3df1d408b08">
+    <head>File Plan note</head>
+<p>Former Classification: I 530-3</p>  </fileplan>
+  <scopecontent id="5c6dc0719fbbfe3966c079bf8624e203">
+    <head>Scope and Contents</head>
+<p>Documents the history of RIMR/RU and select retrospective events.</p>  </scopecontent>
+  <controlaccess>
+    <subject source="lcsh">Medical research</subject>
+    <subject source="lcsh">Biology -- Research</subject>
+    <subject source="lcsh">Medical technology</subject>
+    <subject source="lcsh">Medical education</subject>
+    <subject source="lcsh">Science -- Study and teaching</subject>
+    <subject source="lcsh">Medical sciences</subject>
+    <subject source="lcsh">Life sciences</subject>
+    <subject source="lcsh">Medicine, Preventive</subject>
+    <subject source="lcsh">Cell and biomolecular sciences</subject>
+  </controlaccess>
+  <dsc><c id="8c6143b507f44348abf80ae526dca02d" level="file"><did><unittitle>Convocation book</unittitle><unitdate normal="1959/1959" type="inclusive">1959 May 21-22</unitdate></did><scopecontent id="c8c4a05fa15b0a02d7115810aebd66c2"><head>Scope and Contents note</head><p>Material collected for a book to be published which would be based on the proceedings of the first Academic Convocation, May 21-22, 1959 and the dedication ceremonies of the new buildings. The book was never published.</p></scopecontent><c id="e0d9f60e554040178b8b3e978e390776" level="file"><did><unittitle>Master dummy</unittitle><container altrender="Half Ltr Document Storage Box" id="2ad212aa6b10a9d2c7fb8f6e1feb292e" label="mixed materials [A0000000095575]" type="box">1</container><container id="999bcfe23bd3b377487348124f573870" parent="2ad212aa6b10a9d2c7fb8f6e1feb292e" type="folder">1</container></did></c><c id="1703d4024c9a4eaf91628bccf265c95b" level="file"><did><unittitle>Galley proofs and some photographs</unittitle><container altrender="Half Ltr Document Storage Box" id="cf2e7e7d197868fee47f2eba357184ef" label="mixed materials [A0000000095575]" type="box">1</container><container id="e781af283dbe93a2cd195afa3dddac9c" parent="cf2e7e7d197868fee47f2eba357184ef" type="folder">2</container></did></c><c id="3ff7d94486fc4df1ae8eb664013da3af" level="file"><did><unittitle>Historical material on the various institutions represented. Biographical material and citations of the Honorary degree recipients</unittitle><container altrender="Half Ltr Document Storage Box" id="9199a01e09f4c551d7bb019a16710d41" label="mixed materials [A0000000095575]" type="box">1</container><container id="ba7967a1ee879404e7ffed63ba4dc1d4" parent="9199a01e09f4c551d7bb019a16710d41" type="folder">3</container></did><scopecontent id="5e18bcefa87057f12919b6226db1a9c9"><head>Scope and Contents note</head><p>Included are:</p></scopecontent></c><c id="9e0811a352714571847b80e402565d71" level="file"><did><unittitle>Giuseppe Gherardo Forni. University of Bologna. Presented by René J. Dubos</unittitle><container altrender="Half Ltr Document Storage Box" id="ccfd0c5be9655e99b9a592c1c374dd94" label="mixed materials [A0000000095575]" type="box">1</container><container id="80f892640d3942f6bb8a170d75255b3d" parent="ccfd0c5be9655e99b9a592c1c374dd94" type="folder">3</container></did></c><c id="a7d83ad8b7d14050a2dd4e649a7898fa" level="file"><did><unittitle>Thomas Sherer Ross Boase. Oxford University Presented by George W. Corner</unittitle><container altrender="Half Ltr Document Storage Box" id="d1a55e97300c64ffb3095c24393b242e" label="mixed materials [A0000000095575]" type="box">1</container><container id="c8cf9c18918a0869a923cc7f1a0251a2" parent="d1a55e97300c64ffb3095c24393b242e" type="folder">3</container></did></c><c id="f46b1e711163472f8260d8950220d893" level="file"><did><unittitle>Baron Adrian of Cambridge University. Presented by Peyton Rous</unittitle><container altrender="Half Ltr Document Storage Box" id="34f7e1c98a45c4120672144face29164" label="mixed materials [A0000000095575]" type="box">1</container><container id="e3876f5b331f9d1636c6f31379be7bf3" parent="34f7e1c98a45c4120672144face29164" type="folder">3</container></did></c><c id="dc79501207cb4a08a5b44f5cf2b4074d" level="file"><did><unittitle>Jose Leon Barandiaran. University San Marcos of Lima. Presented by Richard E. Shope</unittitle><container altrender="Half Ltr Document Storage Box" id="5e7e8782a5d1eaf0a44415a273f3c436" label="mixed materials [A0000000095575]" type="box">1</container><container id="855795437052f44f6e6df727c76b2198" parent="5e7e8782a5d1eaf0a44415a273f3c436" type="folder">3</container></did></c><c id="bfe4056d43c44c5f9ad6d31e0543719f" level="file"><did><unittitle>Nabor Carrillo. University of Mexico. Presented by Paul A. Weiss</unittitle><container altrender="Half Ltr Document Storage Box" id="60a568a034313b51b61da9499231afcb" label="mixed materials [A0000000095575]" type="box">1</container><container id="09d02d19fa6e799e8eb6ac657ec24545" parent="60a568a034313b51b61da9499231afcb" type="folder">3</container></did></c><c id="2b640d276feb45b68c6d70542ce00ffe" level="file"><did><unittitle>Nathan Marsh Pusey. Harvard University. Presented by Alfred E. Mirsky</unittitle><container altrender="Half Ltr Document Storage Box" id="5fcf98e841b8235366588255b820684a" label="mixed materials [A0000000095575]" type="box">1</container><container id="d4aaf2a3ccc60d72e5ef794ac5912b54" parent="5fcf98e841b8235366588255b820684a" type="folder">3</container></did></c><c id="ffbc2a2ae58744ab917ace8716526c9f" level="file"><did><unittitle>John D. Rockefeller, Jr. Presented by Detlev W. Bronk</unittitle><container altrender="Half Ltr Document Storage Box" id="2b57144b5613dfaf37cf8fffc8fd6c4c" label="mixed materials [A0000000095575]" type="box">1</container><container id="41638026a9b72b104ba4d906aeca8bec" parent="2b57144b5613dfaf37cf8fffc8fd6c4c" type="folder">3</container></did></c><c id="f9a2e068bffd4fc8b400b7f5d1a732b8" level="file"><did><unittitle>Reprints of addresses given and later published in Nature</unittitle><container altrender="Half Ltr Document Storage Box" id="7474e8284452035e8f06777307710203" label="mixed materials [A0000000095575]" type="box">1</container><container id="615e5e51d74bda117d376701d8494f72" parent="7474e8284452035e8f06777307710203" type="folder">4</container></did><c id="e6be205f657c4ae390f0f65aa1fcddec" level="file"><did><unittitle>Lord Adrian. The place of science in universities past and present. Nature 183</unittitle><unitdate normal="1959/1959" type="inclusive">1959</unitdate></did></c><c id="39efea4d78fd4829867b482d7974de9c" level="file"><did><unittitle>Douglas M. Knight. The American college and the educated life. Nature 183</unittitle><unitdate normal="1959/1959" type="inclusive">1959</unitdate></did></c><c id="915e1e890d00413095f76955761791f0" level="file"><did><unittitle>Henry Allen Moe. Role of the scholar in society. Nature l84 (also typescript)</unittitle><unitdate normal="1959/1959" type="inclusive">1959</unitdate></did></c><c id="ce5cc6d0ff4047da98935e1cdf7bb492" level="file"><did><unittitle>Detlev W. Bronk. A university of graduate studies. Nature 184</unittitle><unitdate normal="1959/1959" type="inclusive">1959</unitdate></did></c></c><c id="021f1d5b916241f7bedb36e9cdb177ff" level="file"><did><unittitle>Publication plans</unittitle><container altrender="Half Ltr Document Storage Box" id="77f80a4c92ca7ee97f674e603d29194c" label="mixed materials [A0000000095575]" type="box">1</container><container id="0d3de75cf3e0ff03cff5c8234f18fefa" parent="77f80a4c92ca7ee97f674e603d29194c" type="folder">4</container></did><scopecontent id="2cdc27fdcaa1e417ebdf610243b3e1ac"><head>Scope and Contents note</head><p>News releases and various notes. Corrected typescript of addresses presented by Detlev Bronk, Wallace K. Harrison, architect and Barklie Henry, trustee at dedication of new buildings.</p></scopecontent></c><c id="bbe998e701234247882c3219a9f0af84" level="file"><did><unittitle>Editor's typescript working copies of published books</unittitle><unitdate normal="1976/1976" type="inclusive">1976</unitdate><container altrender="Letter Document Storage Box" id="6379ec720e92808314308ea2cbe93058" label="mixed materials [A0000000095576]" type="box">2</container></did><scopecontent id="2f22c93695f7514d6588e97181f66b65"><head>Scope and Contents note</head><p>Helene Jordan was the University's editor working with the authors for the publication of Donald Griffin's THE QUESTION OF ANIMAL AWARENESS; EVOLUTIONARY CONTINUITY AND MENTAL EXPERIENCE and René Dubos' THE PROFESSOR, THE INSTITUTE AND DNA.</p><p>Final typescript drafts were sent to the Archives Office by the editor.</p></scopecontent><arrangement id="c13213d9613a9e27f733f9fbfad1e8a1"><head>Arrangement note</head><p>Arranged by author and page number.</p></arrangement><acqinfo id="35ec435e9e72f3017993566917c1a571"><head>Immediate Source of Acquisition note</head><p>Date received or inventoried: 1978</p></acqinfo></c></c><c id="4bef802a112d4b698892fc36e25b51c6" level="file"><did><unittitle>Proceedings of the 50th anniversary (never published)</unittitle><unitdate normal="1954/1954" type="inclusive">1954</unitdate></did><bioghist id="ad9318317edc37ddd7619abf14e6b425"><head>Biographical/Historical note</head><p>The Occasion was held on 15 October 1954 and was marked by the naming of the existing buildings and breaking of the ground for new buildings. Invited speakers were Harry Emerson Fosdick who gave the Invocation; David Rockefeller who made some Introductory remarks; Detlev Wulf Bronk who introduced each of the speakers to follow. Eugene Lindsay Opie "The first laboratory of the Institute" Alan Mason Chesney "William Henry Welch" Peyton Rous "Simon Flexner" Richard Edwin Shope "Theobald Smith".</p><p>Addresses were corrected and set in type; design was chosen and line drawings made but publication was never carried out.</p></bioghist><scopecontent id="8aedd73094fc812dc459c153b012eb49"><head>Scope and Contents note</head><p>Material collected for a book to be published of the Proceedings on the Occasion of the Fiftieth Anniversary of the First Laboratory.</p></scopecontent><acqinfo id="b5084245a2e870ca2b052c4db66759af"><head>Immediate Source of Acquisition note</head><p>Date received or inventoried: November 1979</p></acqinfo><c id="ea9382863c5e44e091248992d2555def" level="file"><did><unittitle>Corrected typescript of various addresses</unittitle><container id="6a5debfb8084f8d4cbb147653c0834f4" label="mixed materials" type="box">3</container><container id="40c8edc7ac01a58699fc75904398a032" parent="6a5debfb8084f8d4cbb147653c0834f4" type="folder">1</container></did></c><c id="b1e8329387b84f9f8c2b0b3cb63a23e9" level="file"><did><unittitle>Design of booklet, paper</unittitle><container id="722e6418a1d60cf9e06299c0fbecf893" label="mixed materials" type="box">3</container><container id="28f89e7126a1c0149ac0fd4d90a30884" parent="722e6418a1d60cf9e06299c0fbecf893" type="folder">2</container></did></c><c id="c41e0de84544456c834f2c085d0ec4fa" level="file"><did><unittitle>2 sets of page proofs</unittitle><container id="61d785221479dd17dd39c258383e3df6" label="mixed materials" type="box">3</container><container id="0b3b8118cc171034a4cd31978f615fc4" parent="61d785221479dd17dd39c258383e3df6" type="folder">3</container></did></c></c><c id="3c40c9a4ec824e7886e84446d88318fb" level="file"><did><unittitle>Corner, George W., 1889-. A history of The Rockefeller Institute, 1901-1953, origins and growth. New York, Rockefeller Institute Press, 1964. 635 p.</unittitle><unitdate normal="1961/1964" type="inclusive">1961-1964</unitdate></did><scopecontent id="e80d2b3ff8172077d4f030b050570606"><head>Scope and Contents note</head><p>The materials sent to the archives from the University Press consist of the typescript Press copy and various sets of galley proofs.</p></scopecontent><fileplan id="3704cff9d0911ba901c51664cf317363"><head>File Plan note</head><p>Old number: 530.3</p></fileplan><acqinfo id="1d85a1a9df29ebdaae9f58e15e67a03e"><head>Immediate Source of Acquisition note</head><p>Date received or inventoried: November 1979</p></acqinfo><c id="6203f44e3a2c4423bde0a1a668738e7d" level="file"><did><unittitle>Typescript press copy of manuscript</unittitle></did><c id="0eb6a6f9bfbd49baa94bbebe5796a018" level="file"><did><unittitle>Chapters 1-2</unittitle><container altrender="Letter Document Storage Box" id="ffbf4b2c0359b4f79cd2290a0487a244" label="mixed materials [A0000000095578]" type="box">4</container><container id="7466bba685050a38ac982f7e0997ceba" parent="ffbf4b2c0359b4f79cd2290a0487a244" type="folder">1</container></did></c><c id="80d56ae76e334f318bef681b92f1dc31" level="file"><did><unittitle>Chapters 3, 4, 5</unittitle><container altrender="Letter Document Storage Box" id="2612985f315e2f15b498664a9318ed98" label="mixed materials [A0000000095578]" type="box">4</container><container id="85009abfffe9142bf7b4d5c5382bc126" parent="2612985f315e2f15b498664a9318ed98" type="folder">2</container></did></c><c id="bc044cf350cf4376bb600c72d95dd4ab" level="file"><did><unittitle>Chapters 6, 7, 8</unittitle><container altrender="Letter Document Storage Box" id="964863278ffc221f2469bd7ac6cca01d" label="mixed materials [A0000000095578]" type="box">4</container><container id="05653a53559b7b4582e23b532f8e0fc9" parent="964863278ffc221f2469bd7ac6cca01d" type="folder">3</container></did></c><c id="9c98191c311e46d98087d7b07b42a5da" level="file"><did><unittitle>Chapters 9, 10, 11</unittitle><container altrender="Letter Document Storage Box" id="548d4b14eda80ae348232af56f3e90dc" label="mixed materials [A0000000095578]" type="box">4</container><container id="dd5b63143e791f7bd74ec919d7d2ed57" parent="548d4b14eda80ae348232af56f3e90dc" type="folder">4</container></did></c><c id="765fce935e0140778b357cc8109d664e" level="file"><did><unittitle>Chapters 12, 13, 14</unittitle><container altrender="Letter Document Storage Box" id="e8429f9dee1372cce6cdce57fc9db728" label="mixed materials [A0000000095578]" type="box">4</container><container id="a1fc4b23a0cc12cc259f345407a4b0b4" parent="e8429f9dee1372cce6cdce57fc9db728" type="folder">5</container></did></c><c id="09177685ba3547f893f47afbff31cd82" level="file"><did><unittitle>Chapter 15</unittitle><container altrender="Letter Document Storage Box" id="8b5b72b957e9dafbe370a3423fa20074" label="mixed materials [A0000000095578]" type="box">4</container><container id="9a9323dd3fb748e95a4a22ee7ede859d" parent="8b5b72b957e9dafbe370a3423fa20074" type="folder">6</container></did></c></c><c id="5717a444a94e4fe0a860e10ee886b1ff" level="file"><did><unittitle>Typescript press copy of manuscript</unittitle></did><c id="f70e07bdb0934c3e9dc6dca727c93bdf" level="file"><did><unittitle>Chapters 16, 17, 18</unittitle><container id="8c605825d8b9abbd5ce63c71e2a5703a" label="mixed materials [564336.5.318]" type="box">5</container><container id="05c7377db105aa7c9854b35aeb3e129c" parent="8c605825d8b9abbd5ce63c71e2a5703a" type="folder">1</container></did></c><c id="813984beadf54e769b03ea984e51ce86" level="file"><did><unittitle>Chapters 19, 20</unittitle><container id="d6882f5dade8ff5284c464d6e7bdd3d8" label="mixed materials [564336.5.318]" type="box">5</container><container id="88c79b4fe69457b467f1a067af331664" parent="d6882f5dade8ff5284c464d6e7bdd3d8" type="folder">2</container></did></c></c><c id="9f07bec73ed5457382fca08bd348d707" level="file"><did><unittitle>Appendix 1, 2, 3 and Notes on Chapters</unittitle><container altrender="Letter Document Storage Box" id="33917ad56a665c027d7107e50626871c" label="mixed materials [A0000000095579]" type="box">5</container><container id="bdd2f51280e5f8d31d531d85cfbe1e22" parent="33917ad56a665c027d7107e50626871c" type="folder">3</container></did></c><c id="99666558e87f4471aad563f828524325" level="file"><did><unittitle>President's galley proof</unittitle><physdesc id="9d68ba03932102010452cf14d3ea354b">2 volumes in temporary binding</physdesc></did><c id="9cfa8d6bec2142d48949d79ca93dd1c5" level="file"><did><unittitle>Text. President's galley copy in temporary binding with editor's corrections</unittitle><container altrender="Letter Document Storage Box" id="dafbd161349ddab5503df60122347bba" label="mixed materials [A0000000095580]" type="box">6</container></did></c><c id="5cea66bce48f4dd69ce0302dc1996b8f" level="file"><did><unittitle>2 letters G. Corner to C.I. Campbell on proof corrections</unittitle><unitdate>1960 July</unitdate><container altrender="Letter Document Storage Box" id="15343d69b7b949c252ff3e5ecf14474a" label="mixed materials [A0000000095580]" type="box">6</container></did></c></c><c id="31eb6ce847e24bd491b009637bfa7293" level="file"><did><unittitle>Master set of 1st galley proof</unittitle><container id="fd534a79190cb9635fc0feff989abb6a" label="mixed materials [A0000000095581]" type="box">7</container></did></c><c id="6db33039776a4e11831038c61c76667b" level="file"><did><unittitle>2nd galley proofs. Joseph Sutton working set 1961 Lay out pages for chapter headings dated 1964</unittitle><unitdate normal="1964/1964" type="inclusive">1964</unitdate><container id="0f4440dc5bedc12b0406444bd10a1f28" label="mixed materials [A0000000095582]" type="box">8</container></did></c><c id="03f25202ed6c4f4aaf5ceeda261020f1" level="file"><did><unittitle>3rd galley proofs Dr. Bronk's corrections</unittitle><container id="5538b8684df13496d66b70185408a64f" label="mixed materials [A0000000095583]" type="box">9</container></did></c></c></dsc>
+</archdesc>
 </ead>
