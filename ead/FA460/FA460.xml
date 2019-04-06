@@ -1,82 +1,42 @@
-<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
-  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="under_revision" langencoding="iso639-2b" repositoryencoding="iso15511">
-    <eadid>FA460.xml</eadid>
-    <filedesc>
-      <titlestmt>
-        <titleproper type="filing">Rockefeller (Nelson A.) photographs, Unprocessed photographs, Series 7</titleproper>
-        <titleproper>A Guide to the Nelson A. Rockefeller photographs, Unprocessed photographs, Series 7
- <num>FA460</num></titleproper>
-      </titlestmt>
-      <publicationstmt>
-        <publisher>Rockefeller Archive Center</publisher>
-        <p>
-          <date>2010</date>
-        </p>
-        <address>
-          <addressline>15 Dayton Avenue</addressline>
-          <addressline>Sleepy Hollow 10591</addressline>
-          <addressline>archive@rockarch.org</addressline>
-          <addressline>URL: <extptr xlink:href="http://www.rockarch.org" xlink:show="new" xlink:title="http://www.rockarch.org" xlink:type="simple"/></addressline>
-        </address>
-      </publicationstmt>
-    </filedesc>
-    <profiledesc>
-      <creation>This finding aid was produced using ArchivesSpace on <date>2017-03-02 09:03:37 -0500</date>.</creation>
-    </profiledesc>
-    <revisiondesc>
-      <date>4 August 2010</date>
-      <item>Imported into the Archivists’ Toolkit by Aurexus and Becky Robbins.</item>
-    </revisiondesc>
-  </eadheader>
-  <archdesc level="series">
-    <did>
-      <langmaterial>
-        <language langcode="eng">English</language>
-      </langmaterial>
-      <repository>
-        <corpname>Rockefeller Archive Center</corpname>
-      </repository>
-      <unittitle>Nelson A. Rockefeller photographs, Unprocessed photographs, Series 7</unittitle>
-      <origination label="creator">
-        <persname role="aut" source="lcnaf">Rockefeller, Nelson A. (Nelson Aldrich)</persname>
-      </origination>
-      <unitid>FA460</unitid>
-      <physdesc altrender="whole">
-        <extent altrender="materialtype spaceoccupied">3.6 Cubic Feet</extent>
-        <extent altrender="carrier">3 record storage cartons.</extent>
-      </physdesc>
-      <unitdate>undated</unitdate>
-    </did>
-    <prefercite id="5ae6fce1cdb0be27d616ac13f4fda36b">
-      <head>Preferred Citation note</head>
-      <p>Information regarding the Rockefeller Archive Center's preferred elements and forms of citation can be found at <extref href="http://www.rockarch.org/research/citations.php">http://www.rockarch.org/research/citations.php</extref></p>
-    </prefercite>
-    <userestrict id="581c1e7fb345f9baab1db0b9d393e215">
-      <head>Conditions Governing Use note</head>
-      <p>Permission is required in order to publish or otherwise use photographs and other visual materials of living members of the Rockefeller family. See RAC Head of Reference for details.</p>
-      <p>Images of Happy Rockefeller while she is officially serving as the Second Lady of the United States are open for scholarly use.</p>
-      <p>RAC users must abide by all applicable provisions of United States copyright law.</p>
-    </userestrict>
-    <relatedmaterial id="8127896c05ece48ec9ff6bed09175f5e">
-      <head>Related Archival Materials note</head>
-      <p>Additional images of Nelson A. Rockefeller and his interests will be found in the following:</p>
-      <p>Rockefeller Family Photographs. Most of the photos of Nelson A. Rockefeller in his childhood and many photos of Nelson A. Rockefeller as an adult with his parents can be found in 1005 John D. Rockefeller Jr. Family - Children's Albums or Group Portraits. See also John D. Rockefeller Jr. - Business - 17 West 54th Street.</p>
-      <p>International Basic Economy Corporation (IBEC) Archives.</p>
-      <p>Nelson A. Rockefeller papers, Art, Series C (FA340). This series documents the management of Nelson A. Rockefeller's art collection and includes photos of a portion of the works of art he owned.</p>
-    </relatedmaterial>
-    <arrangement id="be33d64e4aac0f8be6ea3ee7be983880">
-      <head>Arrangement note</head>
-      <p>The Nelson A. Rockefeller photographs are arranged in the following series:</p>
-      <p>Series 1008: Nelson A. Rockefeller family. Series 2: Room 5600, Rockefeller family office. Series 3: Gubernatorial Press Office. Series 4: Gubernatorial Press Office. Series 5: Gubernatorial, Robart A. (Bob) Wands. Series 6: Vice Presidential. Series 7: Unprocessed photographs.</p>
-    </arrangement>
-    <accessrestrict id="848f35e77541de8a6a1b252a88372b93">
-      <head>Conditions Governing Access note</head>
-      <p>Open for research with select materials restricted as noted. Brittle or damaged items are available at the discretion of RAC. Researchers interested in accessing digital media (floppy disks, CDs, DVDs, etc.) or audiovisual material (audio cassettes, VHS, etc.) in this collection must use an access surrogate. The original items may not be accessed because of preservation concerns. To request an access surrogate be made, or if you are unsure if there is an access surrogate, please contact an archivist.</p>
-    </accessrestrict>
-    <arrangement id="a866c87f135807eff6d17e46e677eb6c">
-      <head>Arrangement note</head>
-      <p>Rockefeller family photographic holdings are arranged into the following series: </p>
-      <p>Rockefeller family and Avery family photographs, Series 1001. 
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="under_revision" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid>FA460.xml</eadid><filedesc><titlestmt><titleproper type="filing">Rockefeller (Nelson A.) photographs, Unprocessed photographs, Series 7</titleproper><titleproper>A Guide to the Nelson A. Rockefeller photographs, Unprocessed photographs, Series 7
+ <num>FA460</num></titleproper></titlestmt><publicationstmt><publisher>Rockefeller Archive Center</publisher><p><date>2010</date></p><address><addressline>15 Dayton Avenue</addressline><addressline>Sleepy Hollow 10591</addressline><addressline>archive@rockarch.org</addressline><addressline>URL: <extptr xlink:href="http://www.rockarch.org" xlink:show="new" xlink:title="http://www.rockarch.org" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2019-04-06 01:31:05 -0400</date>.</creation></profiledesc><revisiondesc><date>4 August 2010</date><item>Imported into the Archivists’ Toolkit by Aurexus and Becky Robbins.</item></revisiondesc></eadheader><archdesc level="series">
+  <did>
+    <langmaterial>
+      <language langcode="eng">English</language>
+    </langmaterial>
+    <repository>
+      <corpname>Rockefeller Archive Center</corpname>
+    </repository>
+    <unittitle>Nelson A. Rockefeller photographs, Unprocessed photographs, Series 7</unittitle>
+    <origination label="creator">
+      <persname role="aut" source="naf">Rockefeller, Nelson A. (Nelson Aldrich)</persname>
+    </origination>
+    <unitid>FA460</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">3.6 Cubic Feet</extent>
+      <extent altrender="carrier">3 record storage cartons.</extent>
+    </physdesc>
+    <unitdate>undated</unitdate>
+  </did>
+  <prefercite id="5ae6fce1cdb0be27d616ac13f4fda36b">
+    <head>Preferred Citation note</head>
+<p>Information regarding the Rockefeller Archive Center's preferred elements and forms of citation can be found at <extref href="http://www.rockarch.org/research/citations.php">http://www.rockarch.org/research/citations.php</extref></p>  </prefercite>
+  <userestrict id="581c1e7fb345f9baab1db0b9d393e215">
+    <head>Conditions Governing Use note</head>
+<p>Permission is required in order to publish or otherwise use photographs and other visual materials of living members of the Rockefeller family. See RAC Head of Reference for details.</p><p>Images of Happy Rockefeller while she is officially serving as the Second Lady of the United States are open for scholarly use.</p><p>RAC users must abide by all applicable provisions of United States copyright law.</p>  </userestrict>
+  <relatedmaterial id="8127896c05ece48ec9ff6bed09175f5e">
+    <head>Related Archival Materials note</head>
+<p>Additional images of Nelson A. Rockefeller and his interests will be found in the following:</p><p>Rockefeller Family Photographs. Most of the photos of Nelson A. Rockefeller in his childhood and many photos of Nelson A. Rockefeller as an adult with his parents can be found in 1005 John D. Rockefeller Jr. Family - Children's Albums or Group Portraits. See also John D. Rockefeller Jr. - Business - 17 West 54th Street.</p><p>International Basic Economy Corporation (IBEC) Archives.</p><p>Nelson A. Rockefeller papers, Art, Series C (FA340). This series documents the management of Nelson A. Rockefeller's art collection and includes photos of a portion of the works of art he owned.</p>  </relatedmaterial>
+  <arrangement id="be33d64e4aac0f8be6ea3ee7be983880">
+    <head>Arrangement note</head>
+<p>The Nelson A. Rockefeller photographs are arranged in the following series:</p><p>Series 1008: Nelson A. Rockefeller family. Series 2: Room 5600, Rockefeller family office. Series 3: Gubernatorial Press Office. Series 4: Gubernatorial Press Office. Series 5: Gubernatorial, Robart A. (Bob) Wands. Series 6: Vice Presidential. Series 7: Unprocessed photographs.</p>  </arrangement>
+  <accessrestrict id="848f35e77541de8a6a1b252a88372b93">
+    <head>Conditions Governing Access note</head>
+<p>Open for research with select materials restricted as noted. Brittle or damaged items are available at the discretion of RAC. Researchers interested in accessing digital media (floppy disks, CDs, DVDs, etc.) or audiovisual material (audio cassettes, VHS, etc.) in this collection must use an access surrogate. The original items may not be accessed because of preservation concerns. To request an access surrogate be made, or if you are unsure if there is an access surrogate, please contact an archivist.</p>  </accessrestrict>
+  <arrangement id="a866c87f135807eff6d17e46e677eb6c">
+    <head>Arrangement note</head>
+<p>Rockefeller family photographic holdings are arranged into the following series: </p><p>Rockefeller family and Avery family photographs, Series 1001. 
 William Avery Rockefeller family photographs, Series 1002. 
 John D. Rockefeller family photographs, Series 1003. 
 William Rockefeller family photographs, Series 1004. 
@@ -85,354 +45,27 @@ Pocantico Hills photographs, Series 1006.
 John D. Rockefeller 3rd family photographs, Series 1007. 
 Nelson A. Rockefeller family photographs, Series 1008. 
 Laurance S. Rockefeller family photographs, Series 1009. 
-David Rockefeller family photographs, Series 1010.</p>
-    </arrangement>
-    <otherfindaid id="536f2a50d735bad740fc237c5a083110">
-      <head>Other Finding Aids note</head>
-      <p>For other Rockefeller family photographic holdings, please see the following finding aids:</p>
-      <p>
-        <extref href="../FA445/overview"> FA445 Rockefeller family and Avery family photographs, Series 1001</extref>
-      </p>
-      <p>
-        <extref href="../FA446/overview"> FA446 William Avery Rockefeller family photographs, Series 1002</extref>
-      </p>
-      <p>
-        <extref href="../FA447/overview"> FA447 John D. Rockefeller family photographs, Series 1003</extref>
-      </p>
-      <p>
-        <extref href="../FA448/overview"> FA448 William Rockefeller family photographs, Series 1004</extref>
-      </p>
-      <p>
-        <extref href="../FA449/overview"> FA449 John D. Rockefeller Jr. family photographs, Series 1005</extref>
-      </p>
-      <p>
-        <extref href="../FA450/overview"> FA450 Pocantico Hills photographs, Series 1006</extref>
-      </p>
-      <p>
-        <extref href="../FA451/overview"> FA451 John D. Rockefeller 3rd family photographs, Series 1007</extref>
-      </p>
-      <p>
-        <extref href="../FA452/overview"> FA452 Laurance S. Rockefeller family photographs, Series 1009</extref>
-      </p>
-      <p>
-        <extref href="../FA453/overview"> FA453 David Rockefeller family photographs, Series 1010</extref>
-      </p>
-      <p>For related materials, please see the following finding aids:</p>
-      <p>
-        <extref href="../FA340/overview">FA340 Nelson A. Rockefeller papers, Art, Series C</extref>
-      </p>
-      <p>
-        <extref href="../FA084/overview">FA084 International Basic Economy Corporation records</extref>
-      </p>
-    </otherfindaid>
-    <otherfindaid id="02da8cc9e8551d174f920cc26a11e50b">
-      <head>Other Finding Aids</head>
-      <p>For other Nelson A. Rockefeller photographic holdings, please see the following finding aids:</p>
-      <p>
-        <extref href="../FA454/overview">FA454 Nelson A. Rockefeller photographs, Nelson A. Rockefeller family, Series 1008</extref>
-      </p>
-      <p>
-        <extref href="../FA455/overview">FA455 Nelson A. Rockefeller photographs, Room 5600, Rockefeller family office, Series 2</extref>
-      </p>
-      <p>
-        <extref href="../FA456/overview">FA456 Nelson A. Rockefeller photographs, Gubernatorial Press Office, Series 3</extref>
-      </p>
-      <p>
-        <extref href="../FA457/overview">FA457 Nelson A. Rockefeller photographs, Gubernatorial Press Office, Series 4</extref>
-      </p>
-      <p>
-        <extref href="../FA458/overview">FA458 Nelson A. Rockefeller photographs, Gubernatorial, Robert A. (Bob) Wands, Series 5</extref>
-      </p>
-      <p>
-        <extref href="../FA459/overview">FA459 Nelson A. Rockefeller photographs, Vice Presidential, Series 6</extref>
-      </p>
-    </otherfindaid>
-    <scopecontent id="bae76413926957d355a633863e03984a">
-      <head>Scope and Contents</head>
-      <p>Types of records include: photographs.</p>
-    </scopecontent>
-    <controlaccess>
-      <subject source="lcsh">Governors -- Election -- New York (State) -- 1970</subject>
-      <geogname source="lcsh">New York (N.Y.)</geogname>
-      <subject source="lcsh">Arts</subject>
-      <subject source="lcsh">Governors -- Election -- New York (State) -- 1966</subject>
-      <subject source="lcsh">Art, Modern</subject>
-      <subject source="lcsh">Political campaigns -- United States</subject>
-      <geogname source="lcsh">New York (State)</geogname>
-      <subject source="lcsh">State governments -- United States</subject>
-      <subject source="lcsh">Rockefeller family -- Art collections</subject>
-    </controlaccess>
-    <dsc>
-      <c id="a686e08091274f36a566e22be54062aa" level="series">
-        <did>
-          <unittitle>Unprocessed material</unittitle>
-          <unitid>7</unitid>
-        </did>
-        <processinfo id="ed2c0d56b9485f5671be5fb65fcd2591">
-          <head>Processing Information note</head>
-          <p>Due to the unprocessed nature of the material, this represents a summaried partial listing of contents.</p>
-        </processinfo>
-        <c id="4851e09f90b54403a19b5a629526a59d" level="file">
-          <did>
-            <unittitle>Nelson A. Rockefeller - Political Albums I</unittitle>
-          </did>
-          <c id="fb43fc8631e64e06a9e57d5be48b4737" level="item">
-            <did>
-              <unittitle>Steuben County Visit</unittitle>
-              <unitdate normal="1965/1965" type="inclusive">1965 August</unitdate>
-              <container id="6cf0656a1432c2dba09c8ddbf9751368" label="Still Image (475784.1.318)" type="box">1</container>
-            </did>
-          </c>
-          <c id="99874bdd247a4349bb76a91b134f5121" level="item">
-            <did>
-              <unittitle>National Governors Conference</unittitle>
-              <unitdate normal="1967/1967" type="inclusive">1967</unitdate>
-              <container id="e8c56584048da83831be9de735158b88" label="Still Image (475784.1.318)" type="box">1</container>
-            </did>
-          </c>
-          <c id="9d72c2690cd44e338b259853449b8eeb" level="item">
-            <did>
-              <unittitle>National Governors Conference</unittitle>
-              <unitdate normal="1972/1972" type="inclusive">1972</unitdate>
-              <container id="a461188006373d280b551c5241be86e0" label="Still Image (475784.1.318)" type="box">1</container>
-            </did>
-          </c>
-          <c id="95a07b23b2c14ad1a61801677d3a605c" level="item">
-            <did>
-              <unittitle>Campaign</unittitle>
-              <unitdate normal="1958/1958" type="inclusive">1958</unitdate>
-              <container id="87006bd5185ac95ca5ae716000182f02" label="Still Image (475784.1.318)" type="box">1</container>
-            </did>
-          </c>
-          <c id="f136fd9825a5472f886baa8626130e1c" level="item">
-            <did>
-              <unittitle>Allied Chemical Tower Dedication</unittitle>
-              <unitdate normal="1965/1965" type="inclusive">1965 December 2</unitdate>
-              <container id="f5fad0338585c8e9b8a427fe405b6c8a" label="Still Image (475784.1.318)" type="box">1</container>
-            </did>
-          </c>
-          <c id="659ec9894b584c2d96a3397d688fe061" level="item">
-            <did>
-              <unittitle>Victory Dinner</unittitle>
-              <unitdate normal="1970/1970" type="inclusive">1970</unitdate>
-              <container id="78e3d5635bccecc66786e02161fa9354" label="Still Image (475784.1.318)" type="box">1</container>
-            </did>
-          </c>
-          <c id="885db585918249d6aad3b08b5bae6bd2" level="item">
-            <did>
-              <unittitle>Sterling Winthrop Research Institute</unittitle>
-              <unitdate normal="1961/1961" type="inclusive">1961 April 6</unitdate>
-              <container id="3a1ef22b7b75ac0c97cc5269a7184328" label="Still Image (475784.1.318)" type="box">1</container>
-            </did>
-          </c>
-          <c id="41bddabbd9a044b693a80420b737bb06" level="item">
-            <did>
-              <unittitle>NY State Building Ground Breaking</unittitle>
-              <unitdate normal="1967/1967" type="inclusive">1967 June 7</unitdate>
-              <container id="6fe128c71191909c8b2edfc5fecbe453" label="Still Image (475784.1.318)" type="box">1</container>
-            </did>
-          </c>
-          <c id="a5f52c12a2ca4e138444bbb534913765" level="item">
-            <did>
-              <unittitle>Westchester County Republican Committee Dinner</unittitle>
-              <unitdate normal="1954/1954" type="inclusive">1954 January 21</unitdate>
-              <container id="1cd4e78c760e4f4b4bde4dea8c327bd5" label="Still Image (475784.1.318)" type="box">1</container>
-            </did>
-          </c>
-        </c>
-        <c id="9fca74f797d542f2bf821688a5b1af68" level="file">
-          <did>
-            <unittitle>Nelson A. Rockefeller - Albums II</unittitle>
-          </did>
-          <c id="9a3599eee57844c1a02953454c21bd87" level="item">
-            <did>
-              <unittitle>Campaign</unittitle>
-              <unitdate normal="1964/1964" type="inclusive">1964</unitdate>
-              <container id="81a7d38fefda16dc304f987a38d60d2f" label="Still Image (475794.2.318)" type="box">2</container>
-            </did>
-          </c>
-          <c id="3819c2c732e8475f9ec385c826a5f7b0" level="item">
-            <did>
-              <unittitle>National Governors Conference</unittitle>
-              <unitdate normal="1963/1963" type="inclusive">1963 February 24</unitdate>
-              <container id="a6d5746289af937debfcbda430cf1bb4" label="Still Image (475794.2.318)" type="box">2</container>
-            </did>
-          </c>
-          <c id="0ac3c4d8ae0a4ee684e781d214024d64" level="item">
-            <did>
-              <unittitle>Trip to Iran</unittitle>
-              <container id="fd3b887e3d6aef79df3ada7bedff9753" label="Still Image (475794.2.318)" type="box">2</container>
-            </did>
-          </c>
-          <c id="ebf604f209b24d9282f7eb6182c68ccd" level="item">
-            <did>
-              <unittitle>Trip to South Africa</unittitle>
-              <unitdate normal="1956/1956" type="inclusive">1956</unitdate>
-              <container id="b71859db3e9abf5e1f1ef6a32496ff83" label="Still Image (475794.2.318)" type="box">2</container>
-            </did>
-          </c>
-          <c id="87d5ec0ffd5447b5be31d852dd7285aa" level="item">
-            <did>
-              <unittitle>Governors Conference</unittitle>
-              <unitdate normal="1965/1965" type="inclusive">1965 July 29</unitdate>
-              <container id="e3b77e33cca1451f8cd9348a083f3c88" label="Still Image (475794.2.318)" type="box">2</container>
-            </did>
-          </c>
-          <c id="b390b12a88d24b989247c25da2afbf91" level="item">
-            <did>
-              <unittitle>Whitney Stakes, Saratoga Springs</unittitle>
-              <unitdate normal="1962/1962" type="inclusive">1962 August 4</unitdate>
-              <container id="979bee1aac163dec0490e4948d7a4102" label="Still Image (475794.2.318)" type="box">2</container>
-            </did>
-          </c>
-          <c id="5ad48a269e284813a198394da84ae275" level="item">
-            <did>
-              <unittitle>Dedication Day M&amp;T Plaza</unittitle>
-              <container id="f30cace82a5a23aaedbf031806c9143f" label="Still Image (475794.2.318)" type="box">2</container>
-            </did>
-          </c>
-        </c>
-        <c id="4c1bf360d6ea49a88fe6a721f6a2f7bf" level="file">
-          <did>
-            <unittitle>Photographs Not in Albums</unittitle>
-          </did>
-          <appraisal id="1f4856d5da26ef82be9605be628bdc73">
-            <head>Appraisal</head>
-            <p>Folders from Kendall Lutkins, 1986 June 13.</p>
-          </appraisal>
-          <c id="9531b0256dc54065ac6c152becc3d0db" level="file">
-            <did>
-              <unittitle>Campaign</unittitle>
-              <unitdate normal="1958/1958" type="inclusive">1958</unitdate>
-              <container id="ae3de2a86025c26e693f98cd818f2d7c" label="Still Image (475802.3.318)" type="box">3</container>
-            </did>
-          </c>
-          <c id="a0fa79d9900f4392b13ef6b58ef21697" level="file">
-            <did>
-              <unittitle>Campaign</unittitle>
-              <unitdate normal="1960/1960" type="inclusive">1960</unitdate>
-              <container id="bd8e1a97eee87e0da6e7fa5f8bbfc236" label="Still Image (475802.3.318)" type="box">3</container>
-            </did>
-          </c>
-          <c id="443e81a543fb4b7fb03904c4e556b29f" level="file">
-            <did>
-              <unittitle>Campaign</unittitle>
-              <unitdate normal="1964/1964" type="inclusive">1964</unitdate>
-              <container id="c0432dca9ddc052a200502be628fb52a" label="Still Image (475802.3.318)" type="box">3</container>
-            </did>
-          </c>
-          <c id="390ca41ad00b4b30ae42fa42f7aff7c8" level="file">
-            <did>
-              <unittitle>Worlds Fair</unittitle>
-              <unitdate normal="1964/1964" type="inclusive">1964</unitdate>
-              <container id="3fdb81d5ba9550a8fea63d5c4c5375c7" label="Still Image (475802.3.318)" type="box">3</container>
-            </did>
-          </c>
-          <c id="71c4e963cfca4d6b98ac77a3b38f2112" level="file">
-            <did>
-              <unittitle>Campaign</unittitle>
-              <unitdate normal="1966/1966" type="inclusive">1966</unitdate>
-              <container id="3e528fefdc6b08bc70aee3efe91d56aa" label="Still Image (475802.3.318)" type="box">3</container>
-            </did>
-          </c>
-          <c id="ac49284faa014816906e4ff716d162c5" level="file">
-            <did>
-              <unittitle>Campaign</unittitle>
-              <unitdate normal="1968/1968" type="inclusive">1968</unitdate>
-              <container id="f89f89b8f9d1d9d1913d8aed27be8765" label="Still Image (475802.3.318)" type="box">3</container>
-            </did>
-          </c>
-          <c id="0ce710ef49394eb89df1e32cef23f800" level="file">
-            <did>
-              <unittitle>Campaign</unittitle>
-              <unitdate normal="1970/1970" type="inclusive">1970</unitdate>
-              <container id="9cbbf15667f08cfe0a7eb5e07a1b348c" label="Still Image (475802.3.318)" type="box">3</container>
-            </did>
-          </c>
-          <c id="dd07cef1bb08446ebff98805ce59949a" level="file">
-            <did>
-              <unittitle>Thomas Dewey</unittitle>
-              <container id="ef9b5efcb3fe6a5a6860f16b79e12790" label="Still Image (475802.3.318)" type="box">3</container>
-            </did>
-          </c>
-          <c id="9e9f4bbe41484b1caedac416dd5d16db" level="file">
-            <did>
-              <unittitle>Revenue Sharing</unittitle>
-              <unitdate>1970s</unitdate>
-              <container id="0486b1dc9e54a0e42f615abd4c45e2f7" label="Still Image (475802.3.318)" type="box">3</container>
-            </did>
-          </c>
-          <c id="5fd3b58e4962435cabe878879c787802" level="file">
-            <did>
-              <unittitle>Executive Mansion</unittitle>
-              <container id="c601c4b5df0626ffd212192f2964bc37" label="Still Image (475802.3.318)" type="box">3</container>
-            </did>
-          </c>
-          <c id="857331b4cf5a4615a2202bd571ad3a44" level="item">
-            <did>
-              <unittitle>Expositions</unittitle>
-              <container id="67d2230f9bc5d732c0cc64adb56ca0f7" label="Still Image (475802.3.318)" type="box">3</container>
-            </did>
-          </c>
-          <c id="a535d79ef2f74a07addc86b02aebbc80" level="file">
-            <did>
-              <unittitle>NY State Power Authority</unittitle>
-              <container id="47f2818565800a20afe4b16be2a568f0" label="Still Image (475802.3.318)" type="box">3</container>
-            </did>
-          </c>
-          <c id="8b601c8f688d46a9876b30978fc82a53" level="file">
-            <did>
-              <unittitle>Raising Israeli Flag at Rockefeller Center</unittitle>
-              <unitdate normal="1949/1949" type="inclusive">1949</unitdate>
-              <container id="7eb2b2483a9a63f61922ec7ed761d62d" label="Still Image (475802.3.318)" type="box">3</container>
-            </did>
-          </c>
-          <c id="e6dc52efcd5147a2a55bd57c7be54312" level="file">
-            <did>
-              <unittitle>Richard Nixon</unittitle>
-              <container id="0385e94d49f69bdedc86ed361530d4b5" label="Still Image (475802.3.318)" type="box">3</container>
-            </did>
-          </c>
-          <c id="c81530e66e584b41b16b9cbcf9d00fe0" level="file">
-            <did>
-              <unittitle>Astronauts</unittitle>
-              <container id="87dcd4320d64ffa80a0a38d55c4713e9" label="Still Image (475802.3.318)" type="box">3</container>
-            </did>
-          </c>
-          <c id="92fb0930f6824746ba82e6043ed8eea7" level="file">
-            <did>
-              <unittitle>Awards</unittitle>
-              <container id="177288813f8549bb13712794cbe004cd" label="Still Image (475802.3.318)" type="box">3</container>
-            </did>
-          </c>
-          <c id="d9bb2795a00347a3a88f0e06dbec091e" level="file">
-            <did>
-              <unittitle>Bob Hope</unittitle>
-              <container id="1273d9edc42d799fdeb0d86681d5c0d6" label="Still Image (475802.3.318)" type="box">3</container>
-            </did>
-          </c>
-          <c id="fbd5726868824e1fba49aefd19b35883" level="file">
-            <did>
-              <unittitle>United Nations, San Francisco</unittitle>
-              <unitdate normal="1945/1945" type="inclusive">1945</unitdate>
-              <container id="961f1b1b5ec81e09bd02790365b8cc3a" label="Still Image (475802.3.318)" type="box">3</container>
-            </did>
-          </c>
-          <c id="d60a03ec5bad4f76ad0f773ce345e773" level="file">
-            <did>
-              <unittitle>Lady Bird Johnson</unittitle>
-              <container id="7d6bfc6d43d712cc4e6cfae7d4020e10" label="Still Image (475802.3.318)" type="box">3</container>
-            </did>
-          </c>
-          <c id="5ebeaffe4dc54c0794202ac535dbe03e" level="file">
-            <did>
-              <unittitle>Kykuit Dedication</unittitle>
-              <unitdate normal="1976/1976" type="inclusive">1976</unitdate>
-              <container id="82bef35f554d1f1f787276076812df97" label="Still Image (475802.3.318)" type="box">3</container>
-            </did>
-          </c>
-        </c>
-      </c>
-    </dsc>
-  </archdesc>
+David Rockefeller family photographs, Series 1010.</p>  </arrangement>
+  <otherfindaid id="536f2a50d735bad740fc237c5a083110">
+    <head>Other Finding Aids note</head>
+<p>For other Rockefeller family photographic holdings, please see the following finding aids:</p><p><extref href="../FA445/overview"> FA445 Rockefeller family and Avery family photographs, Series 1001</extref></p><p><extref href="../FA446/overview"> FA446 William Avery Rockefeller family photographs, Series 1002</extref></p><p><extref href="../FA447/overview"> FA447 John D. Rockefeller family photographs, Series 1003</extref></p><p><extref href="../FA448/overview"> FA448 William Rockefeller family photographs, Series 1004</extref></p><p><extref href="../FA449/overview"> FA449 John D. Rockefeller Jr. family photographs, Series 1005</extref></p><p><extref href="../FA450/overview"> FA450 Pocantico Hills photographs, Series 1006</extref></p><p><extref href="../FA451/overview"> FA451 John D. Rockefeller 3rd family photographs, Series 1007</extref></p><p><extref href="../FA452/overview"> FA452 Laurance S. Rockefeller family photographs, Series 1009</extref></p><p><extref href="../FA453/overview"> FA453 David Rockefeller family photographs, Series 1010</extref></p><p>For related materials, please see the following finding aids:</p><p><extref href="../FA340/overview">FA340 Nelson A. Rockefeller papers, Art, Series C</extref></p><p><extref href="../FA084/overview">FA084 International Basic Economy Corporation records</extref></p>  </otherfindaid>
+  <otherfindaid id="02da8cc9e8551d174f920cc26a11e50b">
+    <head>Other Finding Aids</head>
+<p>For other Nelson A. Rockefeller photographic holdings, please see the following finding aids:</p><p><extref href="../FA454/overview">FA454 Nelson A. Rockefeller photographs, Nelson A. Rockefeller family, Series 1008</extref></p><p><extref href="../FA455/overview">FA455 Nelson A. Rockefeller photographs, Room 5600, Rockefeller family office, Series 2</extref></p><p><extref href="../FA456/overview">FA456 Nelson A. Rockefeller photographs, Gubernatorial Press Office, Series 3</extref></p><p><extref href="../FA457/overview">FA457 Nelson A. Rockefeller photographs, Gubernatorial Press Office, Series 4</extref></p><p><extref href="../FA458/overview">FA458 Nelson A. Rockefeller photographs, Gubernatorial, Robert A. (Bob) Wands, Series 5</extref></p><p><extref href="../FA459/overview">FA459 Nelson A. Rockefeller photographs, Vice Presidential, Series 6</extref></p>  </otherfindaid>
+  <scopecontent id="bae76413926957d355a633863e03984a">
+    <head>Scope and Contents</head>
+<p>Types of records include: photographs.</p>  </scopecontent>
+  <controlaccess>
+    <subject source="lcsh">Governors -- Election -- New York (State) -- 1970</subject>
+    <geogname source="lcsh">New York (N.Y.)</geogname>
+    <subject source="lcsh">Arts</subject>
+    <subject source="lcsh">Governors -- Election -- New York (State) -- 1966</subject>
+    <subject source="lcsh">Art, Modern</subject>
+    <subject source="lcsh">Political campaigns -- United States</subject>
+    <geogname source="lcsh">New York (State)</geogname>
+    <subject source="lcsh">State governments -- United States</subject>
+    <subject source="lcsh">Rockefeller family -- Art collections</subject>
+  </controlaccess>
+  <dsc><c id="a686e08091274f36a566e22be54062aa" level="series"><did><unittitle>Unprocessed material</unittitle><unitid>7</unitid></did><processinfo id="ed2c0d56b9485f5671be5fb65fcd2591"><head>Processing Information note</head><p>Due to the unprocessed nature of the material, this represents a summaried partial listing of contents.</p></processinfo><c id="4851e09f90b54403a19b5a629526a59d" level="file"><did><unittitle>Nelson A. Rockefeller - Political Albums I</unittitle></did><c id="fb43fc8631e64e06a9e57d5be48b4737" level="item"><did><unittitle>Steuben County Visit</unittitle><unitdate normal="1965/1965" type="inclusive">1965 August</unitdate><container id="c2d5dfe674a1d153dbb0fd8ab5eab6d3" label="Still Image [475784.1.318]" type="box">1</container></did></c><c id="99874bdd247a4349bb76a91b134f5121" level="item"><did><unittitle>National Governors Conference</unittitle><unitdate normal="1967/1967" type="inclusive">1967</unitdate><container id="03bd35f43359001c81a9bd1f7244c96c" label="Still Image [475784.1.318]" type="box">1</container></did></c><c id="9d72c2690cd44e338b259853449b8eeb" level="item"><did><unittitle>National Governors Conference</unittitle><unitdate normal="1972/1972" type="inclusive">1972</unitdate><container id="79ac9c0271c443818f515fcd1a52db85" label="Still Image [475784.1.318]" type="box">1</container></did></c><c id="95a07b23b2c14ad1a61801677d3a605c" level="item"><did><unittitle>Campaign</unittitle><unitdate normal="1958/1958" type="inclusive">1958</unitdate><container id="1bfa45e83dc666ea55b3ebd0170ccde0" label="Still Image [475784.1.318]" type="box">1</container></did></c><c id="f136fd9825a5472f886baa8626130e1c" level="item"><did><unittitle>Allied Chemical Tower Dedication</unittitle><unitdate normal="1965/1965" type="inclusive">1965 December 2</unitdate><container id="8d0961472895e5458d94d15380ab036d" label="Still Image [475784.1.318]" type="box">1</container></did></c><c id="659ec9894b584c2d96a3397d688fe061" level="item"><did><unittitle>Victory Dinner</unittitle><unitdate normal="1970/1970" type="inclusive">1970</unitdate><container id="af506d173f4a6388a867695836802a88" label="Still Image [475784.1.318]" type="box">1</container></did></c><c id="885db585918249d6aad3b08b5bae6bd2" level="item"><did><unittitle>Sterling Winthrop Research Institute</unittitle><unitdate normal="1961/1961" type="inclusive">1961 April 6</unitdate><container id="ec4e6d10a0b73eb7716cbb2c79f3825a" label="Still Image [475784.1.318]" type="box">1</container></did></c><c id="41bddabbd9a044b693a80420b737bb06" level="item"><did><unittitle>NY State Building Ground Breaking</unittitle><unitdate normal="1967/1967" type="inclusive">1967 June 7</unitdate><container id="a35b86f30542bf5ce5a983e53e4b5755" label="Still Image [475784.1.318]" type="box">1</container></did></c><c id="a5f52c12a2ca4e138444bbb534913765" level="item"><did><unittitle>Westchester County Republican Committee Dinner</unittitle><unitdate normal="1954/1954" type="inclusive">1954 January 21</unitdate><container id="fcb9d7d153969ddca250592940bda1ed" label="Still Image [475784.1.318]" type="box">1</container></did></c></c><c id="9fca74f797d542f2bf821688a5b1af68" level="file"><did><unittitle>Nelson A. Rockefeller - Albums II</unittitle></did><c id="9a3599eee57844c1a02953454c21bd87" level="item"><did><unittitle>Campaign</unittitle><unitdate normal="1964/1964" type="inclusive">1964</unitdate><container id="c5c56640ddd4042676c776d3fa5b3dbf" label="Still Image [475794.2.318]" type="box">2</container></did></c><c id="3819c2c732e8475f9ec385c826a5f7b0" level="item"><did><unittitle>National Governors Conference</unittitle><unitdate normal="1963/1963" type="inclusive">1963 February 24</unitdate><container id="94e447fcead3595c1064518cf5ea2359" label="Still Image [475794.2.318]" type="box">2</container></did></c><c id="0ac3c4d8ae0a4ee684e781d214024d64" level="item"><did><unittitle>Trip to Iran</unittitle><container id="e129b36ad6a0e50bb0605ab0d899807e" label="Still Image [475794.2.318]" type="box">2</container></did></c><c id="ebf604f209b24d9282f7eb6182c68ccd" level="item"><did><unittitle>Trip to South Africa</unittitle><unitdate normal="1956/1956" type="inclusive">1956</unitdate><container id="3d62b6bc04724f9561e89a8e8b294e27" label="Still Image [475794.2.318]" type="box">2</container></did></c><c id="87d5ec0ffd5447b5be31d852dd7285aa" level="item"><did><unittitle>Governors Conference</unittitle><unitdate normal="1965/1965" type="inclusive">1965 July 29</unitdate><container id="6abe00f7425e681abd9a98f473f7e679" label="Still Image [475794.2.318]" type="box">2</container></did></c><c id="b390b12a88d24b989247c25da2afbf91" level="item"><did><unittitle>Whitney Stakes, Saratoga Springs</unittitle><unitdate normal="1962/1962" type="inclusive">1962 August 4</unitdate><container id="75d7b645245e18f437e521fc1524f568" label="Still Image [475794.2.318]" type="box">2</container></did></c><c id="5ad48a269e284813a198394da84ae275" level="item"><did><unittitle>Dedication Day M&amp;T Plaza</unittitle><container id="de9338c5c6a0499d30349dcaaf3893dd" label="Still Image [475794.2.318]" type="box">2</container></did></c></c><c id="4c1bf360d6ea49a88fe6a721f6a2f7bf" level="file"><did><unittitle>Photographs Not in Albums</unittitle></did><appraisal id="1f4856d5da26ef82be9605be628bdc73"><head>Appraisal</head><p>Folders from Kendall Lutkins, 1986 June 13.</p></appraisal><c id="9531b0256dc54065ac6c152becc3d0db" level="file"><did><unittitle>Campaign</unittitle><unitdate normal="1958/1958" type="inclusive">1958</unitdate><container id="2ad9e6128a45b5f03d56cca344ce14d4" label="Still Image [475802.3.318]" type="box">3</container></did></c><c id="a0fa79d9900f4392b13ef6b58ef21697" level="file"><did><unittitle>Campaign</unittitle><unitdate normal="1960/1960" type="inclusive">1960</unitdate><container id="12349053e19e87365239752751e53b99" label="Still Image [475802.3.318]" type="box">3</container></did></c><c id="443e81a543fb4b7fb03904c4e556b29f" level="file"><did><unittitle>Campaign</unittitle><unitdate normal="1964/1964" type="inclusive">1964</unitdate><container id="3dd7caf6e6ceb2326bab0ffd0f488f37" label="Still Image [475802.3.318]" type="box">3</container></did></c><c id="390ca41ad00b4b30ae42fa42f7aff7c8" level="file"><did><unittitle>Worlds Fair</unittitle><unitdate normal="1964/1964" type="inclusive">1964</unitdate><container id="c027baa7b021689eb0551831fc0a9738" label="Still Image [475802.3.318]" type="box">3</container></did></c><c id="71c4e963cfca4d6b98ac77a3b38f2112" level="file"><did><unittitle>Campaign</unittitle><unitdate normal="1966/1966" type="inclusive">1966</unitdate><container id="33de2c7eee66f489f629db0bbaa89976" label="Still Image [475802.3.318]" type="box">3</container></did></c><c id="ac49284faa014816906e4ff716d162c5" level="file"><did><unittitle>Campaign</unittitle><unitdate normal="1968/1968" type="inclusive">1968</unitdate><container id="62ad2ed42ab4e0c5407c7e16275ea37d" label="Still Image [475802.3.318]" type="box">3</container></did></c><c id="0ce710ef49394eb89df1e32cef23f800" level="file"><did><unittitle>Campaign</unittitle><unitdate normal="1970/1970" type="inclusive">1970</unitdate><container id="f4dfdb05bae9ee36acde478d71df83fb" label="Still Image [475802.3.318]" type="box">3</container></did></c><c id="dd07cef1bb08446ebff98805ce59949a" level="file"><did><unittitle>Thomas Dewey</unittitle><container id="477527c4f9320f56e9a17ba39725319e" label="Still Image [475802.3.318]" type="box">3</container></did></c><c id="9e9f4bbe41484b1caedac416dd5d16db" level="file"><did><unittitle>Revenue Sharing</unittitle><unitdate>1970s</unitdate><container id="daa4fabc47593955edc7174d59bb969d" label="Still Image [475802.3.318]" type="box">3</container></did></c><c id="5fd3b58e4962435cabe878879c787802" level="file"><did><unittitle>Executive Mansion</unittitle><container id="bc1499f62ef0c80a66dc73615e6adf52" label="Still Image [475802.3.318]" type="box">3</container></did></c><c id="857331b4cf5a4615a2202bd571ad3a44" level="item"><did><unittitle>Expositions</unittitle><container id="552ba05e57f5c579ed1812c59e25ed96" label="Still Image [475802.3.318]" type="box">3</container></did></c><c id="a535d79ef2f74a07addc86b02aebbc80" level="file"><did><unittitle>NY State Power Authority</unittitle><container id="a9cde9001f22718f1b977ea14efbb8f2" label="Still Image [475802.3.318]" type="box">3</container></did></c><c id="8b601c8f688d46a9876b30978fc82a53" level="file"><did><unittitle>Raising Israeli Flag at Rockefeller Center</unittitle><unitdate normal="1949/1949" type="inclusive">1949</unitdate><container id="3b1ce45c4711a703a3bd061fcca1217b" label="Still Image [475802.3.318]" type="box">3</container></did></c><c id="e6dc52efcd5147a2a55bd57c7be54312" level="file"><did><unittitle>Richard Nixon</unittitle><container id="e0570e47dbf8aee977151ef1c8863479" label="Still Image [475802.3.318]" type="box">3</container></did></c><c id="c81530e66e584b41b16b9cbcf9d00fe0" level="file"><did><unittitle>Astronauts</unittitle><container id="1603a01f9b0b767b0754d52a38fdebb4" label="Still Image [475802.3.318]" type="box">3</container></did></c><c id="92fb0930f6824746ba82e6043ed8eea7" level="file"><did><unittitle>Awards</unittitle><container id="3fe493cc6207b18a118766f1faa78be4" label="Still Image [475802.3.318]" type="box">3</container></did></c><c id="d9bb2795a00347a3a88f0e06dbec091e" level="file"><did><unittitle>Bob Hope</unittitle><container id="7a5ded8ef9bcbd4aeed798fb03538c2d" label="Still Image [475802.3.318]" type="box">3</container></did></c><c id="fbd5726868824e1fba49aefd19b35883" level="file"><did><unittitle>United Nations, San Francisco</unittitle><unitdate normal="1945/1945" type="inclusive">1945</unitdate><container id="c3dca526af6ad114f43dc1e214de1780" label="Still Image [475802.3.318]" type="box">3</container></did></c><c id="d60a03ec5bad4f76ad0f773ce345e773" level="file"><did><unittitle>Lady Bird Johnson</unittitle><container id="e39e38f5708eb98cbe2b38456a2d4d90" label="Still Image [475802.3.318]" type="box">3</container></did></c><c id="5ebeaffe4dc54c0794202ac535dbe03e" level="file"><did><unittitle>Kykuit Dedication</unittitle><unitdate normal="1976/1976" type="inclusive">1976</unitdate><container id="15b4db32aea04e0ed98fe07099d73311" label="Still Image [475802.3.318]" type="box">3</container></did></c></c></c></dsc>
+</archdesc>
 </ead>

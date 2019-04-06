@@ -1,798 +1,178 @@
-<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
-  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="under_revision" langencoding="iso639-2b" repositoryencoding="iso15511">
-    <eadid>FA184.xml</eadid>
-    <filedesc>
-      <titlestmt>
-        <titleproper type="filing">Olitsky (Peter K.) papers</titleproper>
-        <titleproper>A Guide to the Peter K. Olitsky papers, Rockefeller University Faculty
- <num>FA184</num></titleproper>
-      </titlestmt>
-      <publicationstmt>
-        <publisher>Rockefeller Archive Center</publisher>
-        <address>
-          <addressline>15 Dayton Avenue</addressline>
-          <addressline>Sleepy Hollow 10591</addressline>
-          <addressline>archive@rockarch.org</addressline>
-          <addressline>URL: <extptr xlink:href="http://www.rockarch.org" xlink:show="new" xlink:title="http://www.rockarch.org" xlink:type="simple"/></addressline>
-        </address>
-      </publicationstmt>
-    </filedesc>
-    <profiledesc>
-      <creation>This finding aid was produced using ArchivesSpace on <date>2018-11-02 00:38:53 -0400</date>.</creation>
-    </profiledesc>
-    <revisiondesc>
-      <change>
-        <date>2010 September 23</date>
-        <item>Paper finding aid converted to EAD/XML by AureXus in 2010. Imported into the Archvists’ Toolkit by Becky Robbins.</item>
-      </change>
-    </revisiondesc>
-  </eadheader>
-  <archdesc level="collection">
-    <did>
-      <langmaterial>
-        <language langcode="eng">English</language>
-      </langmaterial>
-      <repository>
-        <corpname>Rockefeller Archive Center</corpname>
-      </repository>
-      <unittitle>Peter K. Olitsky papers, Rockefeller University Faculty</unittitle>
-      <origination label="creator">
-        <persname role="aut" source="naf">Olitsky, Peter K.</persname>
-      </origination>
-      <unitid>FA184</unitid>
-      <physdesc altrender="whole">
-        <extent altrender="materialtype spaceoccupied">3 Cubic Feet</extent>
-        <extent altrender="carrier">4 boxes, 7 volumes</extent>
-      </physdesc>
-      <unitdate normal="1925/1964" type="inclusive">1925-1964</unitdate>
-    </did>
-    <bioghist id="3a79b8675b65afd2b941b1cbc8dde0b8">
-      <head>Biographical/Historical note</head>
-      <p>Peter Kosciusko Olitsky, 1886-1964, pathologist and microbiologist at The Rockefeller Institute for Medical Research, 1917-1964. An outstanding virologist and investigator of epidemic diseases of bacterial, viral and rickettsial nature.</p>
-      <chronlist>
-        <head>Biographical note</head>
-        <chronitem>
-          <date>1886</date>
-          <eventgrp>
-            <event>Born August 20, New York, New York</event>
-          </eventgrp>
-        </chronitem>
-        <chronitem>
-          <date>1909</date>
-          <eventgrp>
-            <event>M.D. Cornell University, New York</event>
-          </eventgrp>
-        </chronitem>
-        <chronitem>
-          <date>1909-1911</date>
-          <eventgrp>
-            <event>Internship (Hospital later absorbed by St. Marks Hospital)</event>
-          </eventgrp>
-        </chronitem>
-        <chronitem>
-          <date>1911-1912</date>
-          <eventgrp>
-            <event>Private practice of medicine</event>
-          </eventgrp>
-        </chronitem>
-        <chronitem>
-          <date>1912-1913</date>
-          <eventgrp>
-            <event>New York City Health Department Research Laboratory</event>
-          </eventgrp>
-        </chronitem>
-        <chronitem>
-          <date>1913-1916</date>
-          <eventgrp>
-            <event>Eugene Meyer Fellowship in Pathology, Pathology Laboratory, Mt. Sinai Hospital, New York</event>
-          </eventgrp>
-        </chronitem>
-        <chronitem>
-          <date>1917</date>
-          <eventgrp>
-            <event>Assistant, Rockefeller Institute for Medical Research, New York, N.Y.</event>
-          </eventgrp>
-        </chronitem>
-        <chronitem>
-          <date>1918</date>
-          <eventgrp>
-            <event>Associate, RIMR</event>
-          </eventgrp>
-        </chronitem>
-        <chronitem>
-          <date>1923</date>
-          <eventgrp>
-            <event>Associate member, RIMR</event>
-          </eventgrp>
-        </chronitem>
-        <chronitem>
-          <date>1930</date>
-          <eventgrp>
-            <event>Member, RIMR</event>
-          </eventgrp>
-        </chronitem>
-        <chronitem>
-          <date>1952-</date>
-          <eventgrp>
-            <event>Emeritus Member, RIMR</event>
-          </eventgrp>
-        </chronitem>
-        <chronitem>
-          <date>1956</date>
-          <eventgrp>
-            <event>Closed laboratory Worked as consultant and advisor with Howard Schneider on experimental allergic encephalomyelitis (EAE)</event>
-          </eventgrp>
-        </chronitem>
-        <chronitem>
-          <date>1964</date>
-          <eventgrp>
-            <event>Died July 20, Greenwich Hospital, Greenwich, Conn.</event>
-          </eventgrp>
-        </chronitem>
-      </chronlist>
-      <chronlist>
-        <head>Served on:</head>
-        <chronitem>
-          <date>1918-1919</date>
-          <eventgrp>
-            <event>1st Lt. USA Medical Corps</event>
-          </eventgrp>
-        </chronitem>
-        <chronitem>
-          <date>1925-1927</date>
-          <eventgrp>
-            <event>U.S. Bureau of Animal Industry</event>
-          </eventgrp>
-        </chronitem>
-        <chronitem>
-          <date>1930-</date>
-          <eventgrp>
-            <event>Consultant in pathology, Greenwich Hospital</event>
-          </eventgrp>
-        </chronitem>
-        <chronitem>
-          <date>1941-1945</date>
-          <eventgrp>
-            <event>U.S. Army Commission on Neurotropic Virus Diseases</event>
-          </eventgrp>
-        </chronitem>
-        <chronitem>
-          <date>1952</date>
-          <eventgrp>
-            <event>WHO/FAO Panel on zoonoses, United Nations, Geneva Associate Editor, Journal of Immunology</event>
-          </eventgrp>
-        </chronitem>
-      </chronlist>
-      <p>Member of: New York Academy of Medicine (Fellow), American Association of Immunologists, Harvey society, Society for Exp. Biology and Medicine, Sigma Xi</p>
-    </bioghist>
-    <scopecontent id="434c486d16efa24c8a1c3c409380ea55">
-      <head>Scope and Contents note</head>
-      <p>Papers, correspondence, photographs, reprints, and employment record.</p>
-    </scopecontent>
-    <arrangement id="16d769d02fb98513bc1872b8154ad074">
-      <head>Arrangement note</head>
-      <p>Arranged by subject and chronological.</p>
-    </arrangement>
-    <prefercite id="174e313d0a76eb8b7dedf95a9b2de116">
-      <head>Preferred Citation</head>
-      <p>Information regarding the Rockefeller Archive Center's preferred elements and forms of citation can be found at <extref href="http://www.rockarch.org/research/citations.php">http://www.rockarch.org/research/citations.php</extref></p>
-    </prefercite>
-    <fileplan id="9ca8f27643fe1c39340fc035b9649a6c">
-      <head>File Plan note</head>
-      <p>Former Classification: I 450 OL4</p>
-    </fileplan>
-    <relatedmaterial id="5d7265bf01d1786996a8d884f4aaf088">
-      <head>Related Archival Materials note</head>
-      <p>A collection of Peter K. Olitsky Papers, consisting of 2500 pieces is to be found at The American Philosophical Society, Philadelphia.</p>
-    </relatedmaterial>
-    <accessrestrict id="c3c934fea59a8cb69428daa8d6b9cdea">
-      <head>Conditions Governing Access note</head>
-      <p>Access to this collection is restricted pending permission from Rockefeller University.</p>
-    </accessrestrict>
-    <controlaccess>
-      <subject source="lcsh">Rickettsia</subject>
-      <subject source="lcsh">Bacteria</subject>
-      <subject source="lcsh">Viruses -- Research</subject>
-      <subject source="lcsh">Diagnostic virology</subject>
-      <subject source="lcsh">Microbiology</subject>
-      <subject source="lcsh">Epidemics</subject>
-      <subject source="lcsh">Epidemiology</subject>
-      <subject source="lcsh">Medical research</subject>
-      <subject source="lcsh">Pathology</subject>
-      <subject source="lcsh">Life sciences</subject>
-      <subject source="lcsh">Medicine, Preventive</subject>
-      <subject source="lcsh">Cell and biomolecular sciences</subject>
-      <subject source="lcsh">Biochemistry</subject>
-      <subject source="lcsh">Diseases</subject>
-      <subject source="lcsh">Biology -- Research</subject>
-      <corpname role="ctb" source="naf">Rockefeller Institute for Medical Research</corpname>
-      <corpname role="ctb" source="naf">Rockefeller University</corpname>
-    </controlaccess>
-    <dsc>
-      <c id="cb5997ab467947bca787cb8585d38ad5" level="file">
-        <did>
-          <unittitle>Biographical material; bibliography</unittitle>
-          <unitdate normal="1948/1948" type="inclusive">1948</unitdate>
-          <container id="12a913eff420f7df9a6abda690b787f5" label="mixed materials" type="box">1</container>
-        </did>
-        <scopecontent id="aab11c84b6ab6d055dcdf8da0e2a931d">
-          <head>Scope and Contents note</head>
-          <p>Includes statement on his work written in 1948 at the request of H.S. Gasser.</p>
-        </scopecontent>
-      </c>
-      <c id="c24aa623da4246f5b5ba6fed16d1b209" level="file">
-        <did>
-          <unittitle>Correspondence regarding presentation to RIMR of portrait of PKO at his retirement from his associates</unittitle>
-          <unitdate normal="1953/1953" type="inclusive">1953</unitdate>
-          <container id="96ec3f28a89caf0e795323d366aef5cb" label="mixed materials" type="box">1</container>
-        </did>
-        <scopecontent id="7125d29f7c56f4df83bc577df13f79e4">
-          <head>Scope and Contents note</head>
-          <p>Includes holograph drafts of letters of thanks.</p>
-        </scopecontent>
-      </c>
-      <c id="2b58e6b397724d23b4ae4dc1f91bb94c" level="file">
-        <did>
-          <unittitle>Correspondence dealing with arrangements at closing of laboratory</unittitle>
-          <container id="0b6394579c09db040f757b13edb8b2c1" label="mixed materials" type="box">1</container>
-        </did>
-      </c>
-      <c id="22e9917937304335bbdbd3e3ba7c5172" level="file">
-        <did>
-          <unittitle>Reprint of S. Gard 1954 Nobel Prize presentation quoting Olitsky work on neurotropic virus</unittitle>
-          <unitdate normal="1954/1954" type="inclusive">1954</unitdate>
-          <container id="0f6660856d4bc5655ff7336fb20a9c9b" label="mixed materials" type="box">1</container>
-        </did>
-      </c>
-      <c id="55c774da80ce4835a1cd6ff26646f3ab" level="file">
-        <did>
-          <unittitle>Reprint of Report of the Foot-and-Mouth-Disease Commission of the U.S. Department of Agriculture</unittitle>
-          <container id="d71499e31b0ddec797899998c4085232" label="mixed materials" type="box">1</container>
-        </did>
-      </c>
-      <c id="d834d7cf56c941369668131635375899" level="file">
-        <did>
-          <unittitle>Photographs</unittitle>
-          <container id="57403ec567faffcb59c3a6510c3ca1a1" label="mixed materials" type="box">1</container>
-        </did>
-        <scopecontent id="beb93e149f745d0a46b063a647125cc3">
-          <head>Scope and Contents note</head>
-          <p>Primarily of co-workers. Some of PKO. Anslow, R.; Boes; Canti, R.G.; Casals, J.; Cox, H.R.; Forsbock, F.C.; Harford; Gates, F.L.; Kligler; Knutti; Larsen, S.; Lee J.M.; Muller, L.; Long; Morgan; Plotz, H.; Saenz; Straub, E.L.; Syverton, J.; Tal (Max child); Theiler, Max; Yager; Welch, W.H.</p>
-        </scopecontent>
-      </c>
-      <c id="8bb4077904a040d7a4dc0b5262ae13b2" level="file">
-        <did>
-          <unittitle>Fishing trip: Parker, Cox, Kaa, Humble, Olitsky</unittitle>
-          <unitdate normal="1936/1936" type="inclusive">1936</unitdate>
-          <container id="3901420ce9927c3c296b613f7b7dc175" label="mixed materials" type="box">1</container>
-        </did>
-      </c>
-      <c id="e7492c67601a45e88493c4b8894655c2" level="file">
-        <did>
-          <unittitle>Strasbourg: Traum, Schoening, Boez</unittitle>
-          <unitdate normal="1926/1926" type="inclusive">1926</unitdate>
-          <container id="60bd91a57fbeda5a3b1d08f0b28ea622" label="mixed materials" type="box">1</container>
-        </did>
-      </c>
-      <c id="0228c3f951544b6eb0208f092890b451" level="file">
-        <did>
-          <unittitle>Harold Olden (nephew)</unittitle>
-          <container id="9dcd4974518e61e1e4116b655e92aab5" label="mixed materials" type="box">1</container>
-        </did>
-      </c>
-      <c id="079fad85339c4853bb8c6a648120c5db" level="file">
-        <did>
-          <unittitle>Strasbourg; Hong Kong; RIMR; Hoof and Mouth Disease</unittitle>
-          <container id="ffbe520a98cd73d09f4074992e717ec0" label="mixed materials" type="box">1</container>
-        </did>
-      </c>
-      <c id="a6a87febc2264d1e93394fd1c72368c1" level="file">
-        <did>
-          <unittitle>Passports and visas</unittitle>
-          <container id="b669a7a37e23d9e0649371cdb5e63c5e" label="mixed materials" type="box">1</container>
-        </did>
-        <scopecontent id="1d180bfe3f1a7ed36db40d82467de083">
-          <head>Scope and Contents note</head>
-          <p>Includes delayed birth registration.</p>
-        </scopecontent>
-      </c>
-      <c id="7c9b4e0f2d41455a8aa7011de7213da0" level="file">
-        <did>
-          <unittitle>Framed pencil drawing made by stepdaughter, Louise Tubby Bracken about 1956. Given by W. Goebel</unittitle>
-          <container id="ccd2b3247a9669cee7cdc34c9cd63893" label="mixed materials" type="box">1</container>
-        </did>
-      </c>
-      <c id="6b0837bd6f674cf6bfeb3678a4d304c3" level="file">
-        <did>
-          <unittitle>Oral history (1917-1952) transcript. Interviews by Saul Benison, 1962-63. 91 pp. Indexed</unittitle>
-          <unitdate normal="1917/1963" type="inclusive">1917-1952, 1962-1963</unitdate>
-          <physdesc id="2edd2edd623a610a46b612f102f36c72">91 pp.</physdesc>
-          <container id="a6737c4bcae2f396fc6c5621831a7f8d" label="mixed materials" type="box">1</container>
-        </did>
-      </c>
-      <c id="0800d05b3bce4f58af8e015fe1b454eb" level="file">
-        <did>
-          <unittitle>Personal correspondence</unittitle>
-          <unitdate normal="1946/1963" type="inclusive">1946-1963</unitdate>
-          <container id="4fc44fd1b94c412db59eb34dbbc70a61" label="mixed materials" type="box">1</container>
-        </did>
-        <scopecontent id="a17d1d46d3b0aecaf4fc6880e1a429ba">
-          <head>Scope and Contents note</head>
-          <p>Includes birthday greetings from wife [n.d.]; August 1946 letters from associates on 60th birthday. Letters dealing with health of various family members including daughter, Ruth, and stepson Roger Tubby; a few family letters from nephew H. Sparrow, Louise Sparrow, B. Carpenter and granddaughter, Susue; letters regarding estate of Louis Olden. Thank you letter from daughter Louise Phillips and correspondence with stepson Roger Tubby. Copies of poems composed by PKO on various laboratory occasions.</p>
-        </scopecontent>
-      </c>
-      <c id="85986a44e7594b4e9e1b4249dc9f6cd5" level="file">
-        <did>
-          <unittitle>Obituary materials collected on various associates by PKO for use in his own writing</unittitle>
-          <unitdate normal="1888/1960" type="inclusive">1888-1930 1950 1952 1954-1960</unitdate>
-          <container id="ede0e1d72d516fd4ea77086236302138" label="mixed materials" type="box">1</container>
-        </did>
-        <scopecontent id="13603eb2ae38d78b1df01273673cc0cc">
-          <head>Scope and Contents note</head>
-          <p>Includes material on P. Boez, 1888-1930; on Simon Flexner including biographical article written for Collier's Encyclopedia with 1960 correspondence; biographical article on Frederick L. Gates and 1950, 1952, 1954 correspondence with Dorothy Elsmith, widow of F.L. Gates, and also with daughter.</p>
-        </scopecontent>
-      </c>
-      <c id="321149a5085a4a41ac02b5221f7319b8" level="file">
-        <did>
-          <unittitle>Administrative correspondence</unittitle>
-          <unitdate normal="1921/1963" type="inclusive">1921, 1942-1963</unitdate>
-          <physdesc id="ad4ef824a6a2427987c99f3401d20e9a">2 items dated 1921</physdesc>
-          <container id="f85841b94d1f28219253c344c89e8288" label="mixed materials" type="box">2</container>
-        </did>
-        <scopecontent id="110c011a600553a8ab236f2d5d2fd981">
-          <head>Scope and Contents note</head>
-          <p>Primarily official announcements though includes renewals of allowances for supplies and some specialized items.</p>
-        </scopecontent>
-      </c>
-      <c id="426ce7b00fbf42318e6132d7ad41a454" level="file">
-        <did>
-          <unittitle>Assorted correspondence</unittitle>
-          <unitdate normal="1944/1963" type="inclusive">1944-1963</unitdate>
-          <physdesc id="40bf64bfb2bb460c23e80a9498e95ff8">4 folders</physdesc>
-          <container id="5e0442ed82d73a6dfa4f724b12fffce7" label="mixed materials" type="box">2</container>
-        </did>
-        <scopecontent id="5a0b92c1d87534e83e17c32159c1a732">
-          <head>Scope and Contents note</head>
-          <p>Correspondents include: C.H. Andrewes ; C.H. Archetti ; Alberto Ascoli ; Gilbert Dalldorf ; Brig. Gen. G.M. Findlay ; Jordi Folch ; Jules Freund ; Chas. L. Goldman ; Joan Fitzgerald Golrick; A. Grumback ; Frank L. Horsfall ; Martin M. Kaplan; Hilary Koprowski; C.L. Le Bouvier; Henryk Makower ; A. Saenz; Kenneth C. Smithburn; Isabel Morgan Mountain; Maria Rudzinska; Madge Stein; Maurizio Terni; Rudolph Wittkower; Ralph W.G. Wyckoff.</p>
-        </scopecontent>
-        <arrangement id="335f23787aadeba956be452a2f47837d">
-          <head>Arrangement note</head>
-          <p>Arranged in chronological order.</p>
-        </arrangement>
-        <c id="dc3f0b33367b4838ad8fd8f8710c1dca" level="file">
-          <did>
-            <unitdate normal="1944/1951" type="inclusive">1944-1951</unitdate>
-          </did>
-          <scopecontent id="e897b3fa1d7bf1fe04c76e49072eaafc">
-            <head>Scope and Contents</head>
-            <p>Items of special interest are listed below this level.</p>
-          </scopecontent>
-          <c id="57aaf13d12274e329c520ed894c67fc1" level="file">
-            <did>
-              <unittitle>With John R. Paul and Brig. Gen. S. Bayne-Jones on publication of "Certain affections of the liver that arise spontaneously in so-called Normal stock albino mice." Under Commission on Neurotropic Virus Diseases</unittitle>
-              <unitdate>1945 July 11-November 1</unitdate>
-            </did>
-          </c>
-          <c id="669c01baa239487085aad0f872a7ba8b" level="file">
-            <did>
-              <unittitle>With John R. Paul on publication of "Enduring Immunity following vaccination of mice with Formalin-inactivated virus of Russian Spring-Summer (Far Eastern, Tick borne) encephalitis..." Under Commission on Neurotropic Virus Diseases</unittitle>
-              <unitdate>1945 September 12-1945 November 9</unitdate>
-            </did>
-          </c>
-          <c id="0d23a1ed83ff483f9ae3f8d22a04b09e" level="file">
-            <did>
-              <unitdate>1948 September 14</unitdate>
-            </did>
-          </c>
-          <c id="5554ca50fab54ed8a1e71fbedbc35c7e" level="file">
-            <did>
-              <unitdate>1949 January 25</unitdate>
-            </did>
-          </c>
-          <c id="8ebd94edef8b45e284d4b508cab6142e" level="file">
-            <did>
-              <unittitle>With David Bodian on "MV" strain of polio virus and monkey immune serum</unittitle>
-              <unitdate>1950 September-October</unitdate>
-            </did>
-          </c>
-          <c id="939f05b0ba9445efbeef501efba6b42d" level="file">
-            <did>
-              <unittitle>With Harold K. Faber and A. Sabin work on mechanism of infection in post tonsillectomy bulbar polio</unittitle>
-              <unitdate>1951 August 6-10</unitdate>
-            </did>
-          </c>
-        </c>
-        <c id="67da17a24a1a4b9da01ef9a6e85a4211" level="file">
-          <did>
-            <unitdate normal="1952/1954" type="inclusive">1952-1954</unitdate>
-          </did>
-          <scopecontent id="a61ea93e442dd4468719cef28e53fa42">
-            <head>Scope and Contents</head>
-            <p>Items of special interest are listed below this level.</p>
-          </scopecontent>
-          <c id="9437a350937f4210ac9627e0a0505a96" level="file">
-            <did>
-              <unittitle>On dinner in honor of J. Bronfenbrenner</unittitle>
-              <unitdate>1952 March 21</unitdate>
-            </did>
-          </c>
-          <c id="110a75222bf44f58a1bb59f2441c41cf" level="file">
-            <did>
-              <unittitle>With J. Folch-Pi on Waksman (et al) abstract in Fed. Proc. no. 1526</unittitle>
-              <unitdate>1953 March 17-24</unitdate>
-            </did>
-          </c>
-        </c>
-        <c id="0d06e88798b842789508f970418d983c" level="file">
-          <did>
-            <unitdate normal="1955/1959" type="inclusive">1955-1959</unitdate>
-          </did>
-          <scopecontent id="074036d001b7ec79ed83e9b19285c37b">
-            <head>Scope and Contents</head>
-            <p>Items of special interest are listed below this level.</p>
-          </scopecontent>
-          <c id="a10223c8b9f74252a08682a8347d5f5a" level="file">
-            <did>
-              <unittitle>Copy of letter from A.B. Sabin to Hilary Koprowski with holograph note to PKO</unittitle>
-              <unitdate>1955 March 31</unitdate>
-            </did>
-          </c>
-          <c id="f6d83e6362044f54b39c41d764e2beeb" level="file">
-            <did>
-              <unittitle>From M.S. Shahan on retirement of Jacob Traum</unittitle>
-              <unitdate>1956 March 30</unitdate>
-            </did>
-          </c>
-          <c id="2ca56ac675f04dacbbbd8f5b830701ab" level="file">
-            <did>
-              <unittitle>With Jules Freund (holographs) on diagnosis of multiple myeloma and his state of health</unittitle>
-              <unitdate>1957 November 18-21</unitdate>
-            </did>
-          </c>
-          <c id="b67f23ef285b4fc2b12f50f1cc91b09e" level="file">
-            <did>
-              <unittitle>With George W. Corner on history of RI</unittitle>
-              <unitdate>1958 January-December</unitdate>
-            </did>
-          </c>
-          <c id="a6f159927d52448887ce4eb20c52a453" level="file">
-            <did>
-              <unittitle>With John H. Dingle on statement regarding etiology of the common cold. Olitsky refers to work of A.B. Sabin</unittitle>
-              <unitdate>1958 October-November</unitdate>
-            </did>
-          </c>
-        </c>
-        <c id="5719e845573743ad9bec69a0f3ef11a3" level="file">
-          <did>
-            <unitdate normal="1960/1963" type="inclusive">1960-1963</unitdate>
-          </did>
-          <scopecontent id="ab5ec92184c5b3c2a34b9847cdc5e433">
-            <head>Scope and Contents</head>
-            <p>Items of special interest are listed below this level.</p>
-          </scopecontent>
-          <c id="e48c1240b78a4c7189e4e57c11dc586e" level="file">
-            <did>
-              <unittitle>With A.A. Hoehling requesting that PKO write an introduction to book for laymen on 1918 influenza epidemic</unittitle>
-              <unitdate>1959 November-1960 October</unitdate>
-            </did>
-            <scopecontent id="489fa1ece4cce540ffdbbbf6d1ff5cba">
-              <head>Scope and Contents note</head>
-              <p>Includes holograph note from James P. Leake, and history note from PKO to E. Kone.</p>
-            </scopecontent>
-          </c>
-          <c id="c816185c56a541519f79cb527cd1f77c" level="file">
-            <did>
-              <unittitle>From Philip Levine on difficulties in writing an address on Karl Landsteiner</unittitle>
-              <unitdate>1960 June 21</unitdate>
-            </did>
-          </c>
-          <c id="e23de251322d403896a4b1c5546399d7" level="file">
-            <did>
-              <unittitle>To George S. Mirick recommending Labe C. Scheinberg for Health Research Council Fellowship</unittitle>
-              <unitdate>1962 January 8</unitdate>
-            </did>
-          </c>
-        </c>
-      </c>
-      <c id="b0eb12bdedd247e0b23c71bec088a2b6" level="file">
-        <did>
-          <unittitle>Correspondence</unittitle>
-        </did>
-        <arrangement id="9c42e586c255d1b55c0aa10c2f9f5982">
-          <head>Arrangement note</head>
-          <p>Arranged in alphabetical order where there are more than 25 items for each correspondent. Chronological within folder.</p>
-        </arrangement>
-        <c id="712c7841834c48b9b44e44e1740e4ea2" level="file">
-          <did>
-            <unittitle>Anslow, Ralph</unittitle>
-            <unitdate normal="1950/1963" type="inclusive">1950-1963</unitdate>
-            <container id="b9afb1f644a987acf54024584dd49019" label="mixed materials [163050.2.318]" type="box">2</container>
-          </did>
-          <relatedmaterial id="fa28861b97978ca86d5a10f62ff1bae5">
-            <head>Related Materials</head>
-            <p>See also Joan Fitzgerald Golrick's letters from Washington, D.C. describing the work going on in the Army Medical Veterinary Division with Major Anslow.</p>
-          </relatedmaterial>
-        </c>
-        <c id="cc0e8436ea0b43a9b2ba1ae29c00f374" level="file">
-          <did>
-            <unittitle>Avery, Julian</unittitle>
-            <unitdate normal="1947/1958" type="inclusive">1947-1949 1958</unitdate>
-            <container id="1990e1344ff3256c71a908a20ed23588" label="mixed materials [163050.2.318]" type="box">2</container>
-          </did>
-          <scopecontent id="3953b726ccc4578343a00912cae15b2e">
-            <head>Scope and Contents note</head>
-            <p>An involved group of letters dealing with interest in a theory of fundamental particles proposed by Mr. Avery and attempts by PKO to aid in its publication.</p>
-            <p>Includes copies of letters from John A. Wheeler, Princeton University; A. Einstein; George A. Baitsell; Alexandre Rothen.</p>
-          </scopecontent>
-        </c>
-        <c id="5a88671cde844034865bec7eeb5773e6" level="file">
-          <did>
-            <unittitle>Bernkoff, Hans</unittitle>
-            <unitdate normal="1946/1950" type="inclusive">1946-1950</unitdate>
-            <container id="ac2c82911ec56cb8649c5c3fea4de6c7" label="mixed materials [163050.3.318]" type="box">3</container>
-          </did>
-        </c>
-        <c id="06d4058026d94eaf914a7552993b2ebc" level="file">
-          <did>
-            <unittitle>Brown, Lenora (Irwin/Simnad)</unittitle>
-            <unitdate normal="1951/1958" type="inclusive">1951-1958</unitdate>
-            <container id="b86838cb8ce6110499f0b4ecd241801b" label="mixed materials [163050.3.318]" type="box">3</container>
-          </did>
-          <scopecontent id="3445ed23f28cce57b549297068916d4c">
-            <head>Scope and Contents</head>
-            <p>Some holograph letters and reports from Dr. Brown and one signed typescript from Jonas Salk.</p>
-          </scopecontent>
-        </c>
-        <c id="3002495e0fef4c9da15e731ee38b5a5a" level="file">
-          <did>
-            <unittitle>Casals, Jordi</unittitle>
-            <unitdate normal="1944/1951" type="inclusive">1944-1951</unitdate>
-            <container id="f6b30ab6a7b85a2f5958aa9105924776" label="mixed materials [163050.3.318]" type="box">3</container>
-          </did>
-          <scopecontent id="e8b8f41f6b495a18764fe123aa08f93f">
-            <head>Scope and Contents note</head>
-            <p>Several holograph letters; 2 from Japan while at 406th Medical General Laboratory.</p>
-          </scopecontent>
-        </c>
-        <c id="de62a837bfe24441ac8dde20fb09f683" level="file">
-          <did>
-            <unittitle>Cox, Herald R.</unittitle>
-            <unitdate normal="1952/1960" type="inclusive">1952-1960</unitdate>
-            <physdesc id="efa8f3e764d6428e2f3e420d9c0fafbc">some holograph letters</physdesc>
-            <container id="b79f5eb0c2cc109e5f5194de3faced99" label="mixed materials [163050.3.318]" type="box">3</container>
-          </did>
-        </c>
-        <c id="890d243a500a439da9d638037305ae7c" level="file">
-          <did>
-            <unittitle>Dick, George W.A.</unittitle>
-            <unitdate normal="1948/1955" type="inclusive">1948-1955</unitdate>
-            <physdesc id="6524025f430cc3253c543ad89d6fa6de">some holographs</physdesc>
-            <container id="9e798b6089cb87ad82082de816fe1052" label="mixed materials [163050.3.318]" type="box">3</container>
-          </did>
-        </c>
-        <c id="b0c49137b1604ba7bed044c766decc28" level="file">
-          <did>
-            <unittitle>Flexner, Abraham</unittitle>
-            <unitdate normal="1920/1951" type="inclusive">1920 1937 1951</unitdate>
-            <container id="3c95b751ff345f0ffefb5ae13a3aa2f9" label="mixed materials [163050.3.318]" type="box">3</container>
-          </did>
-          <scopecontent id="95f12b51a921847f1d7a9a937b2f4474">
-            <head>Scope and Contents note</head>
-            <p>Includes two Simon Flexner reprints: 1920, 1937. On mementos and correspondence relating to S. Flexner.</p>
-          </scopecontent>
-        </c>
-        <c id="491576e952db4676aeef56b41c236967" level="file">
-          <did>
-            <unittitle>Flexner, Simon</unittitle>
-            <unitdate normal="1925/1926" type="inclusive">1925-1926</unitdate>
-            <container id="aa4b46da2d9b88d7d4103d820f00b74d" label="mixed materials [163050.3.318]" type="box">3</container>
-          </did>
-          <scopecontent id="b8d96c196dd3189b42cefec03c10b9bd">
-            <head>Scope and Contents note</head>
-            <p>Copies of letters written from Strasbourg on Hoof and Mouth Disease Project.</p>
-          </scopecontent>
-        </c>
-        <c id="e646bcb994974dbe811caa74204ede67" level="file">
-          <did>
-            <unittitle>Lee, Johanna M.</unittitle>
-            <unitdate normal="1952/1961" type="inclusive">1952-1961</unitdate>
-            <container id="3514cb817935e84c034041a3beda5d50" label="mixed materials [163050.3.318]" type="box">3</container>
-          </did>
-          <scopecontent id="244b40c58fb2fe39d85eabf5219d06c1">
-            <head>Scope and Contents note</head>
-            <p>Many holograph letters written during times of illness. Letters reporting experimental results while PKO away from laboratory.</p>
-          </scopecontent>
-        </c>
-        <c id="b15a5c69a6454ef3ad614c24a2df7bb1" level="file">
-          <did>
-            <unittitle>Schlesinger, R. Walter</unittitle>
-            <unitdate normal="1946/1963" type="inclusive">1946-1963</unitdate>
-            <container id="478b04f8dec510c8138e56425f13a4dd" label="mixed materials [163050.3.318]" type="box">3</container>
-          </did>
-          <scopecontent id="28955f529e42b4879af8791af77e76b9">
-            <head>Scope and Contents note</head>
-            <p>Includes letter to PKO (1963 Apr. 30) explaining background to T. River's remarks to Saul Benison about A. Sabin's attitude on Schlesinger's work on dengue and sandfly fevers.</p>
-          </scopecontent>
-        </c>
-        <c id="ca24d1390f57471dad0f64022d1e9480" level="file">
-          <did>
-            <unittitle>Selzer, Golda</unittitle>
-            <unitdate normal="1952/1959" type="inclusive">1952-1959</unitdate>
-            <container id="0974085ea25b8f83e400e66462be58d7" label="mixed materials [163050.3.318]" type="box">3</container>
-          </did>
-        </c>
-        <c id="58396b406e9945ac9ac5dce5485a5fb0" level="file">
-          <did>
-            <unittitle>Smadel, Joseph E.</unittitle>
-            <unitdate normal="1946/1950" type="inclusive">1946-1950</unitdate>
-            <container id="d71fd8a124ee5ddb398c9a7ea606ca7c" label="mixed materials [163050.3.318]" type="box">3</container>
-          </did>
-          <scopecontent id="8fbb31a5f29a11bab3e066ca561829a4">
-            <head>Scope and Contents note</head>
-            <p>Contains references to H. Bernkoff, Col. Yager.</p>
-          </scopecontent>
-        </c>
-        <c id="44762c85be4d40ad8cb2f898347610e3" level="file">
-          <did>
-            <unittitle>Syverton, Jerome T.</unittitle>
-            <unitdate normal="1955/1961" type="inclusive">1955-1961</unitdate>
-            <container id="079d412781697ed23d4e3d8ce06b5739" label="mixed materials [163050.3.318]" type="box">3</container>
-          </did>
-        </c>
-        <c id="350b5e2fa65b45599e30ec894414b50a" level="file">
-          <did>
-            <unittitle>Tal, Chloe</unittitle>
-            <unitdate normal="1954/1961" type="inclusive">1954-1961</unitdate>
-            <container id="a7fcfc5dc11acba8f4780ee5067ddee9" label="mixed materials [163050.3.318]" type="box">3</container>
-          </did>
-          <scopecontent id="7c8190857fc6bc25c5f6537fcb0caa9f">
-            <head>Scope and Contents note</head>
-            <p>Includes reprint from British Journal of Experimental Pathology, 2 April. 1958.</p>
-          </scopecontent>
-        </c>
-      </c>
-      <c id="3d271c0e241249a880cc268a7b459f1f" level="file">
-        <did>
-          <unittitle>Subject folders</unittitle>
-          <container id="7ec6a0ee1b1d316593c1082933ac019b" label="mixed materials [163050.3.318]" type="box">3</container>
-        </did>
-        <c id="6b06aa511cf1410c8bf982dd67abb0cb" level="file">
-          <did>
-            <unittitle>W.E.E. vaccine</unittitle>
-            <unitdate normal="1942/1943" type="inclusive">1942-1943</unitdate>
-          </did>
-          <scopecontent id="cc9505b803f74cb6c09aae4eb8df9f1e">
-            <head>Scope and Contents note</head>
-            <p>Includes 1942 July 15 signed letter from Albert Sabin and copy of 1942 Nov. 24 letter from A. Sabin on efficacy of allantoic fluid vaccine and potency when stored.</p>
-          </scopecontent>
-        </c>
-        <c id="04ba8101137a4e94a6568f51006527fc" level="file">
-          <did>
-            <unittitle>Diseases of Poultry (Iowa State Press)</unittitle>
-            <unitdate normal="1947/1957" type="inclusive">1947-1957</unitdate>
-          </did>
-          <scopecontent id="bf4a42eb3b1fb983a9ba945d5255e035">
-            <head>Scope and Contents note</head>
-            <p>Chap. 23: Avian encephalomyelitis by Henry van Roekel and Chap. 27: Foot and Mouth Disease by Harry Schoening including holograph letter 7 Jan. 1957 on his retirement and request to pass on to Dr. Shahan the authorship of the chapter.</p>
-          </scopecontent>
-        </c>
-        <c id="91fea09551b1428389ee52b2c62a47d3" level="file">
-          <did>
-            <unittitle>Brennemann's Practice of Pediatrics</unittitle>
-            <unitdate normal="1942/1962" type="inclusive">1942-1962</unitdate>
-          </did>
-          <scopecontent id="8b8d13c198f64b7dc4c5d44bfe5e5afb">
-            <head>Scope and Contents note</head>
-            <p>1942 and later revisions of Section II: "Infections of man with the virus of equine encephalomyelitis".</p>
-          </scopecontent>
-        </c>
-        <c id="a13ee495b87b42d6b47d6b5dd45b61a6" level="file">
-          <did>
-            <unittitle>Viral and Rickettsial Infection in Man</unittitle>
-            <unitdate normal="1951/1959" type="inclusive">1951-1959</unitdate>
-          </did>
-          <scopecontent id="1267bcb5024ac8f3c97b6537e7466398">
-            <head>Scope and Contents note</head>
-            <p>Copies of Chap. 13 and 14, 3rd ed. mss. 1951-1959.</p>
-            <p>Includes correspondence with Frank Horsfall and others.</p>
-            <p>Includes some correspondence on 2nd. ed. under editorship of T. Rivers 1951-1952 including letters from A. Sabin, 22 May 1951; K. Smithburn 19 Mar. 1951; J. Melnick 22 Mar. 1951; Joe Smadel, holograph 12 April 1951.</p>
-          </scopecontent>
-        </c>
-      </c>
-      <c id="1508f9cd71b84e7f84f06afc87bfadfb" level="file">
-        <did>
-          <unittitle>Correspondence and employment record</unittitle>
-          <unitdate normal="1925/1964" type="inclusive">1925-1964</unitdate>
-          <physdesc id="2f155db83334b3be4742fe424615a1e8">1 box (2½ inches)</physdesc>
-        </did>
-        <scopecontent id="5a5d3fb3815d847f2074af3b9ac31f54">
-          <head>Scope and Contents note</head>
-          <p>Consists primarily of the correspondence with directors and business managers during the period of Dr. Olitsky's association with The Rockefeller Institute for Medical Research.</p>
-          <p>Included is the original application for employment and many handwritten letters from Dr. Olitsky in response to increased salary letters.</p>
-        </scopecontent>
-        <acqinfo id="97d48a11f108c7134d012b35c259955a">
-          <head>Immediate Source of Acquisition</head>
-          <p>Received or inventoried June, 1980. This box (5 folders) of papers was deposited by the Office of Faculty and Student Records.</p>
-        </acqinfo>
-        <arrangement id="a287fb9378009253c71539cf34afdd2b">
-          <head>Arrangement note</head>
-          <p>Arranged by subject and in chronological order.</p>
-        </arrangement>
-        <c id="482d46cbd8374a47964ccf9b9a93f879" level="file">
-          <did>
-            <unittitle>Correspondence</unittitle>
-            <unitdate normal="1912/1934" type="inclusive">1912-1934</unitdate>
-            <container id="c2779e753ab20f9d1bad5a2f201c936a" label="mixed materials [163071.4.318]" type="box">4</container>
-            <container id="7e209c7a6ae81998ed5dfaac9fbcda1f" parent="c2779e753ab20f9d1bad5a2f201c936a" type="folder">1</container>
-          </did>
-        </c>
-        <c id="0db4482c009344a1858380f548519d5a" level="file">
-          <did>
-            <unittitle>Correspondence</unittitle>
-            <unitdate normal="1935/1964" type="inclusive">1935-1964</unitdate>
-            <container id="60114ad866f1431dfaf8a85a21acdf8d" label="mixed materials [163071.4.318]" type="box">4</container>
-            <container id="96b46c71cad644fc6a731c1aec33daa2" parent="60114ad866f1431dfaf8a85a21acdf8d" type="folder">2</container>
-          </did>
-        </c>
-        <c id="d1f16c8bec564732ab906d967b7742f9" level="file">
-          <did>
-            <unittitle>Correspondence and blueprints for remodeling and air duct arrangement in Olitsky laboratory</unittitle>
-            <unitdate normal="1931/1933" type="inclusive">1931-1933</unitdate>
-            <container id="cca93394cbf7264b0aca22fc504f4e62" label="mixed materials [163071.4.318]" type="box">4</container>
-            <container id="ba18cc34013f2c164197471dfb86fa2e" parent="cca93394cbf7264b0aca22fc504f4e62" type="folder">3</container>
-          </did>
-        </c>
-        <c id="dc946f25d275455394874d510973633a" level="file">
-          <did>
-            <unittitle>Correspondence from the lay public with various ideas about polio which Peter Olitsky answered</unittitle>
-            <unitdate normal="1940/1941" type="inclusive">1940-1941</unitdate>
-            <container id="c84d9f5d20b2f36a9a32f34ddda4813c" label="mixed materials [163071.4.318]" type="box">4</container>
-            <container id="83e7353f669d92da3af05018d5cf1941" parent="c84d9f5d20b2f36a9a32f34ddda4813c" type="folder">4</container>
-          </did>
-        </c>
-        <c id="8e6bf32299be4d3397624bceea348c9b" level="file">
-          <did>
-            <unittitle>Signed releases for those vaccinated and working in the Olitsky laboratory with equine encephalitis virus</unittitle>
-            <unitdate normal="1941/1947" type="inclusive">1941-1947</unitdate>
-            <container id="d89931dec7a86948a8e70125214bd3f3" label="mixed materials [163071.4.318]" type="box">4</container>
-            <container id="e8485ea6e1dadb91ea226810cf3e347b" parent="d89931dec7a86948a8e70125214bd3f3" type="folder">5</container>
-          </did>
-        </c>
-      </c>
-      <c id="ea475d89523d45a9a2514f2fa9ab6b23" level="file">
-        <did>
-          <unittitle>Influenza Reprints</unittitle>
-          <unitdate normal="1920/1924" type="inclusive">1920-1924</unitdate>
-          <physdesc id="dcde86c8c63f6831d0358afcf0481cd9">1 volume</physdesc>
-        </did>
-        <processinfo id="e5fca92c2251e360237df514c8ee867b">
-          <head>Processing Information note</head>
-          <p>[removed to RAC library 8/9/88].</p>
-        </processinfo>
-      </c>
-      <c id="2018acdae2dc4c3f871a1da034d72d9a" level="file">
-        <did>
-          <unittitle>Collected Reprints</unittitle>
-          <unitdate normal="1915/1945" type="inclusive">1915-1945</unitdate>
-          <physdesc id="a92b9e0de30a62dc9212f9e0cc77b68e">6 volumes</physdesc>
-        </did>
-        <processinfo id="610cdd4471bb4d849ed451ecfdb0eda4">
-          <head>Processing Information note</head>
-          <p>[removed to RAC library 8/9/88].</p>
-        </processinfo>
-      </c>
-      <c id="0c8b2f4c030043468ee237ae0b1a20bc" level="file">
-        <did>
-          <unittitle>Lantern slides</unittitle>
-          <unitdate>1982 September 15</unitdate>
-          <physdesc id="12905974bbc5f9ce56af9d477db52f8e">oversize package #1</physdesc>
-          <container id="11aa8d7de1e897f24c71bd4b794ba2ac" label="mixed materials" type="package">1</container>
-        </did>
-        <scopecontent id="007c7e2a68a9ec252a3f1efebdb0f333">
-          <head>Scope and Contents note</head>
-          <p>Wm Trager to RUA (9/15/82) [in black case].</p>
-        </scopecontent>
-      </c>
-    </dsc>
-  </archdesc>
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="under_revision" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid>FA184.xml</eadid><filedesc><titlestmt><titleproper type="filing">Olitsky (Peter K.) papers</titleproper><titleproper>A Guide to the Peter K. Olitsky papers, Rockefeller University Faculty
+ <num>FA184</num></titleproper></titlestmt><publicationstmt><publisher>Rockefeller Archive Center</publisher><address><addressline>15 Dayton Avenue</addressline><addressline>Sleepy Hollow 10591</addressline><addressline>archive@rockarch.org</addressline><addressline>URL: <extptr xlink:href="http://www.rockarch.org" xlink:show="new" xlink:title="http://www.rockarch.org" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2019-04-06 02:03:04 -0400</date>.</creation></profiledesc><revisiondesc><change><date>2010 September 23</date><item>Paper finding aid converted to EAD/XML by AureXus in 2010. Imported into the Archvists’ Toolkit by Becky Robbins.</item></change></revisiondesc></eadheader><archdesc level="collection">
+  <did>
+    <langmaterial>
+      <language langcode="eng">English</language>
+    </langmaterial>
+    <repository>
+      <corpname>Rockefeller Archive Center</corpname>
+    </repository>
+    <unittitle>Peter K. Olitsky papers, Rockefeller University Faculty</unittitle>
+    <origination label="creator">
+      <persname role="aut" source="naf">Olitsky, Peter K.</persname>
+    </origination>
+    <unitid>FA184</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">3 Cubic Feet</extent>
+      <extent altrender="carrier">4 boxes, 7 volumes</extent>
+    </physdesc>
+    <unitdate normal="1925/1964" type="inclusive">1925-1964</unitdate>
+  </did>
+  <bioghist id="3a79b8675b65afd2b941b1cbc8dde0b8">
+    <head>Biographical/Historical note</head>
+<p>Peter Kosciusko Olitsky, 1886-1964, pathologist and microbiologist at The Rockefeller Institute for Medical Research, 1917-1964. An outstanding virologist and investigator of epidemic diseases of bacterial, viral and rickettsial nature.</p>    <chronlist>
+      <head>Biographical note</head>
+      <chronitem>
+        <date>1886</date>
+        <eventgrp>
+          <event>Born August 20, New York, New York</event>
+        </eventgrp>
+      </chronitem>
+      <chronitem>
+        <date>1909</date>
+        <eventgrp>
+          <event>M.D. Cornell University, New York</event>
+        </eventgrp>
+      </chronitem>
+      <chronitem>
+        <date>1909-1911</date>
+        <eventgrp>
+          <event>Internship (Hospital later absorbed by St. Marks Hospital)</event>
+        </eventgrp>
+      </chronitem>
+      <chronitem>
+        <date>1911-1912</date>
+        <eventgrp>
+          <event>Private practice of medicine</event>
+        </eventgrp>
+      </chronitem>
+      <chronitem>
+        <date>1912-1913</date>
+        <eventgrp>
+          <event>New York City Health Department Research Laboratory</event>
+        </eventgrp>
+      </chronitem>
+      <chronitem>
+        <date>1913-1916</date>
+        <eventgrp>
+          <event>Eugene Meyer Fellowship in Pathology, Pathology Laboratory, Mt. Sinai Hospital, New York</event>
+        </eventgrp>
+      </chronitem>
+      <chronitem>
+        <date>1917</date>
+        <eventgrp>
+          <event>Assistant, Rockefeller Institute for Medical Research, New York, N.Y.</event>
+        </eventgrp>
+      </chronitem>
+      <chronitem>
+        <date>1918</date>
+        <eventgrp>
+          <event>Associate, RIMR</event>
+        </eventgrp>
+      </chronitem>
+      <chronitem>
+        <date>1923</date>
+        <eventgrp>
+          <event>Associate member, RIMR</event>
+        </eventgrp>
+      </chronitem>
+      <chronitem>
+        <date>1930</date>
+        <eventgrp>
+          <event>Member, RIMR</event>
+        </eventgrp>
+      </chronitem>
+      <chronitem>
+        <date>1952-</date>
+        <eventgrp>
+          <event>Emeritus Member, RIMR</event>
+        </eventgrp>
+      </chronitem>
+      <chronitem>
+        <date>1956</date>
+        <eventgrp>
+          <event>Closed laboratory Worked as consultant and advisor with Howard Schneider on experimental allergic encephalomyelitis (EAE)</event>
+        </eventgrp>
+      </chronitem>
+      <chronitem>
+        <date>1964</date>
+        <eventgrp>
+          <event>Died July 20, Greenwich Hospital, Greenwich, Conn.</event>
+        </eventgrp>
+      </chronitem>
+    </chronlist>
+    <chronlist>
+      <head>Served on:</head>
+      <chronitem>
+        <date>1918-1919</date>
+        <eventgrp>
+          <event>1st Lt. USA Medical Corps</event>
+        </eventgrp>
+      </chronitem>
+      <chronitem>
+        <date>1925-1927</date>
+        <eventgrp>
+          <event>U.S. Bureau of Animal Industry</event>
+        </eventgrp>
+      </chronitem>
+      <chronitem>
+        <date>1930-</date>
+        <eventgrp>
+          <event>Consultant in pathology, Greenwich Hospital</event>
+        </eventgrp>
+      </chronitem>
+      <chronitem>
+        <date>1941-1945</date>
+        <eventgrp>
+          <event>U.S. Army Commission on Neurotropic Virus Diseases</event>
+        </eventgrp>
+      </chronitem>
+      <chronitem>
+        <date>1952</date>
+        <eventgrp>
+          <event>WHO/FAO Panel on zoonoses, United Nations, Geneva Associate Editor, Journal of Immunology</event>
+        </eventgrp>
+      </chronitem>
+    </chronlist>
+<p>Member of: New York Academy of Medicine (Fellow), American Association of Immunologists, Harvey society, Society for Exp. Biology and Medicine, Sigma Xi</p>  </bioghist>
+  <scopecontent id="434c486d16efa24c8a1c3c409380ea55">
+    <head>Scope and Contents note</head>
+<p>Papers, correspondence, photographs, reprints, and employment record.</p>  </scopecontent>
+  <arrangement id="16d769d02fb98513bc1872b8154ad074">
+    <head>Arrangement note</head>
+<p>Arranged by subject and chronological.</p>  </arrangement>
+  <prefercite id="174e313d0a76eb8b7dedf95a9b2de116">
+    <head>Preferred Citation</head>
+<p>Information regarding the Rockefeller Archive Center's preferred elements and forms of citation can be found at <extref href="http://www.rockarch.org/research/citations.php">http://www.rockarch.org/research/citations.php</extref></p>  </prefercite>
+  <fileplan id="9ca8f27643fe1c39340fc035b9649a6c">
+    <head>File Plan note</head>
+<p>Former Classification: I 450 OL4</p>  </fileplan>
+  <relatedmaterial id="5d7265bf01d1786996a8d884f4aaf088">
+    <head>Related Archival Materials note</head>
+<p>A collection of Peter K. Olitsky Papers, consisting of 2500 pieces is to be found at The American Philosophical Society, Philadelphia.</p>  </relatedmaterial>
+  <accessrestrict id="c3c934fea59a8cb69428daa8d6b9cdea">
+    <head>Conditions Governing Access note</head>
+<p>Access to this collection is restricted pending permission from Rockefeller University.</p>  </accessrestrict>
+  <controlaccess>
+    <subject source="lcsh">Rickettsia</subject>
+    <subject source="lcsh">Bacteria</subject>
+    <subject source="lcsh">Viruses -- Research</subject>
+    <subject source="lcsh">Diagnostic virology</subject>
+    <subject source="lcsh">Microbiology</subject>
+    <subject source="lcsh">Epidemics</subject>
+    <subject source="lcsh">Epidemiology</subject>
+    <subject source="lcsh">Medical research</subject>
+    <subject source="lcsh">Pathology</subject>
+    <subject source="lcsh">Life sciences</subject>
+    <subject source="lcsh">Medicine, Preventive</subject>
+    <subject source="lcsh">Cell and biomolecular sciences</subject>
+    <subject source="lcsh">Biochemistry</subject>
+    <subject source="lcsh">Diseases</subject>
+    <subject source="lcsh">Biology -- Research</subject>
+    <corpname role="ctb" source="naf">Rockefeller Institute for Medical Research</corpname>
+    <corpname role="ctb" source="naf">Rockefeller University</corpname>
+  </controlaccess>
+  <dsc><c id="cb5997ab467947bca787cb8585d38ad5" level="file"><did><unittitle>Biographical material; bibliography</unittitle><unitdate normal="1948/1948" type="inclusive">1948</unitdate><container altrender="Letter Document Storage Box" id="cfbde2a4aa90a0926f7d25637a7e9eca" label="mixed materials [A0000000054370]" type="box">1</container></did><scopecontent id="aab11c84b6ab6d055dcdf8da0e2a931d"><head>Scope and Contents note</head><p>Includes statement on his work written in 1948 at the request of H.S. Gasser.</p></scopecontent></c><c id="c24aa623da4246f5b5ba6fed16d1b209" level="file"><did><unittitle>Correspondence regarding presentation to RIMR of portrait of PKO at his retirement from his associates</unittitle><unitdate normal="1953/1953" type="inclusive">1953</unitdate><container altrender="Letter Document Storage Box" id="b4068442e9f173bc266561b978c280f1" label="mixed materials [A0000000054370]" type="box">1</container></did><scopecontent id="7125d29f7c56f4df83bc577df13f79e4"><head>Scope and Contents note</head><p>Includes holograph drafts of letters of thanks.</p></scopecontent></c><c id="2b58e6b397724d23b4ae4dc1f91bb94c" level="file"><did><unittitle>Correspondence dealing with arrangements at closing of laboratory</unittitle><container altrender="Letter Document Storage Box" id="883efded7bfe807a2e8062b3596258da" label="mixed materials [A0000000054370]" type="box">1</container></did></c><c id="22e9917937304335bbdbd3e3ba7c5172" level="file"><did><unittitle>Reprint of S. Gard 1954 Nobel Prize presentation quoting Olitsky work on neurotropic virus</unittitle><unitdate normal="1954/1954" type="inclusive">1954</unitdate><container altrender="Letter Document Storage Box" id="a58aab19af55733a20704c3fd5684369" label="mixed materials [A0000000054370]" type="box">1</container></did></c><c id="55c774da80ce4835a1cd6ff26646f3ab" level="file"><did><unittitle>Reprint of Report of the Foot-and-Mouth-Disease Commission of the U.S. Department of Agriculture</unittitle><container altrender="Letter Document Storage Box" id="100380575d8eb35afe450d6473b728ef" label="mixed materials [A0000000054370]" type="box">1</container></did></c><c id="d834d7cf56c941369668131635375899" level="file"><did><unittitle>Photographs</unittitle><container altrender="Letter Document Storage Box" id="8c67f9895db1fefac4b793bb4c961822" label="mixed materials [A0000000054370]" type="box">1</container></did><scopecontent id="beb93e149f745d0a46b063a647125cc3"><head>Scope and Contents note</head><p>Primarily of co-workers. Some of PKO. Anslow, R.; Boes; Canti, R.G.; Casals, J.; Cox, H.R.; Forsbock, F.C.; Harford; Gates, F.L.; Kligler; Knutti; Larsen, S.; Lee J.M.; Muller, L.; Long; Morgan; Plotz, H.; Saenz; Straub, E.L.; Syverton, J.; Tal (Max child); Theiler, Max; Yager; Welch, W.H.</p></scopecontent></c><c id="8bb4077904a040d7a4dc0b5262ae13b2" level="file"><did><unittitle>Fishing trip: Parker, Cox, Kaa, Humble, Olitsky</unittitle><unitdate normal="1936/1936" type="inclusive">1936</unitdate><container altrender="Letter Document Storage Box" id="6d5e75a22bbe117f70d21017b938e120" label="mixed materials [A0000000054370]" type="box">1</container></did></c><c id="e7492c67601a45e88493c4b8894655c2" level="file"><did><unittitle>Strasbourg: Traum, Schoening, Boez</unittitle><unitdate normal="1926/1926" type="inclusive">1926</unitdate><container altrender="Letter Document Storage Box" id="d7d718761d1c2b3407830697ea7d14c1" label="mixed materials [A0000000054370]" type="box">1</container></did></c><c id="0228c3f951544b6eb0208f092890b451" level="file"><did><unittitle>Harold Olden (nephew)</unittitle><container altrender="Letter Document Storage Box" id="c6bfd70b4a981af032a5d38a4042d3c9" label="mixed materials [A0000000054370]" type="box">1</container></did></c><c id="079fad85339c4853bb8c6a648120c5db" level="file"><did><unittitle>Strasbourg; Hong Kong; RIMR; Hoof and Mouth Disease</unittitle><container altrender="Letter Document Storage Box" id="a8cfb9fe30938d9f5dea5e53e284da57" label="mixed materials [A0000000054370]" type="box">1</container></did></c><c id="a6a87febc2264d1e93394fd1c72368c1" level="file"><did><unittitle>Passports and visas</unittitle><container altrender="Letter Document Storage Box" id="c2fd7f6c7eafeca9b63b9ef3715a0412" label="mixed materials [A0000000054370]" type="box">1</container></did><scopecontent id="1d180bfe3f1a7ed36db40d82467de083"><head>Scope and Contents note</head><p>Includes delayed birth registration.</p></scopecontent></c><c id="7c9b4e0f2d41455a8aa7011de7213da0" level="file"><did><unittitle>Framed pencil drawing made by stepdaughter, Louise Tubby Bracken about 1956. Given by W. Goebel</unittitle><container altrender="Letter Document Storage Box" id="073756cb35f98cc3e17543b2f3abeef1" label="mixed materials [A0000000054370]" type="box">1</container></did></c><c id="6b0837bd6f674cf6bfeb3678a4d304c3" level="file"><did><unittitle>Oral history (1917-1952) transcript. Interviews by Saul Benison, 1962-63. 91 pp. Indexed</unittitle><unitdate normal="1917/1963" type="inclusive">1917-1952, 1962-1963</unitdate><physdesc id="2edd2edd623a610a46b612f102f36c72">91 pp.</physdesc><container altrender="Letter Document Storage Box" id="1d2f6d52808f41b842b12e9566fe870e" label="mixed materials [A0000000054370]" type="box">1</container></did></c><c id="0800d05b3bce4f58af8e015fe1b454eb" level="file"><did><unittitle>Personal correspondence</unittitle><unitdate normal="1946/1963" type="inclusive">1946-1963</unitdate><container altrender="Letter Document Storage Box" id="8e3b8b8df270f1fbe4dbba4205d5a25a" label="mixed materials [A0000000054370]" type="box">1</container></did><scopecontent id="a17d1d46d3b0aecaf4fc6880e1a429ba"><head>Scope and Contents note</head><p>Includes birthday greetings from wife [n.d.]; August 1946 letters from associates on 60th birthday. Letters dealing with health of various family members including daughter, Ruth, and stepson Roger Tubby; a few family letters from nephew H. Sparrow, Louise Sparrow, B. Carpenter and granddaughter, Susue; letters regarding estate of Louis Olden. Thank you letter from daughter Louise Phillips and correspondence with stepson Roger Tubby. Copies of poems composed by PKO on various laboratory occasions.</p></scopecontent></c><c id="85986a44e7594b4e9e1b4249dc9f6cd5" level="file"><did><unittitle>Obituary materials collected on various associates by PKO for use in his own writing</unittitle><unitdate normal="1888/1960" type="inclusive">1888-1930 1950 1952 1954-1960</unitdate><container altrender="Letter Document Storage Box" id="bd920f0b850e34bbb0ce834c8758b52d" label="mixed materials [A0000000054370]" type="box">1</container></did><scopecontent id="13603eb2ae38d78b1df01273673cc0cc"><head>Scope and Contents note</head><p>Includes material on P. Boez, 1888-1930; on Simon Flexner including biographical article written for Collier's Encyclopedia with 1960 correspondence; biographical article on Frederick L. Gates and 1950, 1952, 1954 correspondence with Dorothy Elsmith, widow of F.L. Gates, and also with daughter.</p></scopecontent></c><c id="321149a5085a4a41ac02b5221f7319b8" level="file"><did><unittitle>Administrative correspondence</unittitle><unitdate normal="1921/1963" type="inclusive">1921, 1942-1963</unitdate><physdesc id="ad4ef824a6a2427987c99f3401d20e9a">2 items dated 1921</physdesc><container altrender="Letter Document Storage Box" id="438aa72d1cc7c23d0b73d40ffc6113ea" label="mixed materials [A0000000054371]" type="box">2</container></did><scopecontent id="110c011a600553a8ab236f2d5d2fd981"><head>Scope and Contents note</head><p>Primarily official announcements though includes renewals of allowances for supplies and some specialized items.</p></scopecontent></c><c id="426ce7b00fbf42318e6132d7ad41a454" level="file"><did><unittitle>Assorted correspondence</unittitle><unitdate normal="1944/1963" type="inclusive">1944-1963</unitdate><physdesc id="40bf64bfb2bb460c23e80a9498e95ff8">4 folders</physdesc><container altrender="Letter Document Storage Box" id="ef75fc3e5e049cef58067c926f48e99b" label="mixed materials [A0000000054371]" type="box">2</container></did><scopecontent id="5a0b92c1d87534e83e17c32159c1a732"><head>Scope and Contents note</head><p>Correspondents include: C.H. Andrewes ; C.H. Archetti ; Alberto Ascoli ; Gilbert Dalldorf ; Brig. Gen. G.M. Findlay ; Jordi Folch ; Jules Freund ; Chas. L. Goldman ; Joan Fitzgerald Golrick; A. Grumback ; Frank L. Horsfall ; Martin M. Kaplan; Hilary Koprowski; C.L. Le Bouvier; Henryk Makower ; A. Saenz; Kenneth C. Smithburn; Isabel Morgan Mountain; Maria Rudzinska; Madge Stein; Maurizio Terni; Rudolph Wittkower; Ralph W.G. Wyckoff.</p></scopecontent><arrangement id="335f23787aadeba956be452a2f47837d"><head>Arrangement note</head><p>Arranged in chronological order.</p></arrangement><c id="dc3f0b33367b4838ad8fd8f8710c1dca" level="file"><did><unitdate normal="1944/1951" type="inclusive">1944-1951</unitdate></did><scopecontent id="e897b3fa1d7bf1fe04c76e49072eaafc"><head>Scope and Contents</head><p>Items of special interest are listed below this level.</p></scopecontent><c id="57aaf13d12274e329c520ed894c67fc1" level="file"><did><unittitle>With John R. Paul and Brig. Gen. S. Bayne-Jones on publication of "Certain affections of the liver that arise spontaneously in so-called Normal stock albino mice." Under Commission on Neurotropic Virus Diseases</unittitle><unitdate>1945 July 11-November 1</unitdate></did></c><c id="669c01baa239487085aad0f872a7ba8b" level="file"><did><unittitle>With John R. Paul on publication of "Enduring Immunity following vaccination of mice with Formalin-inactivated virus of Russian Spring-Summer (Far Eastern, Tick borne) encephalitis..." Under Commission on Neurotropic Virus Diseases</unittitle><unitdate>1945 September 12-1945 November 9</unitdate></did></c><c id="0d23a1ed83ff483f9ae3f8d22a04b09e" level="file"><did><unitdate>1948 September 14</unitdate></did></c><c id="5554ca50fab54ed8a1e71fbedbc35c7e" level="file"><did><unitdate>1949 January 25</unitdate></did></c><c id="8ebd94edef8b45e284d4b508cab6142e" level="file"><did><unittitle>With David Bodian on "MV" strain of polio virus and monkey immune serum</unittitle><unitdate>1950 September-October</unitdate></did></c><c id="939f05b0ba9445efbeef501efba6b42d" level="file"><did><unittitle>With Harold K. Faber and A. Sabin work on mechanism of infection in post tonsillectomy bulbar polio</unittitle><unitdate>1951 August 6-10</unitdate></did></c></c><c id="67da17a24a1a4b9da01ef9a6e85a4211" level="file"><did><unitdate normal="1952/1954" type="inclusive">1952-1954</unitdate></did><scopecontent id="a61ea93e442dd4468719cef28e53fa42"><head>Scope and Contents</head><p>Items of special interest are listed below this level.</p></scopecontent><c id="9437a350937f4210ac9627e0a0505a96" level="file"><did><unittitle>On dinner in honor of J. Bronfenbrenner</unittitle><unitdate>1952 March 21</unitdate></did></c><c id="110a75222bf44f58a1bb59f2441c41cf" level="file"><did><unittitle>With J. Folch-Pi on Waksman (et al) abstract in Fed. Proc. no. 1526</unittitle><unitdate>1953 March 17-24</unitdate></did></c></c><c id="0d06e88798b842789508f970418d983c" level="file"><did><unitdate normal="1955/1959" type="inclusive">1955-1959</unitdate></did><scopecontent id="074036d001b7ec79ed83e9b19285c37b"><head>Scope and Contents</head><p>Items of special interest are listed below this level.</p></scopecontent><c id="a10223c8b9f74252a08682a8347d5f5a" level="file"><did><unittitle>Copy of letter from A.B. Sabin to Hilary Koprowski with holograph note to PKO</unittitle><unitdate>1955 March 31</unitdate></did></c><c id="f6d83e6362044f54b39c41d764e2beeb" level="file"><did><unittitle>From M.S. Shahan on retirement of Jacob Traum</unittitle><unitdate>1956 March 30</unitdate></did></c><c id="2ca56ac675f04dacbbbd8f5b830701ab" level="file"><did><unittitle>With Jules Freund (holographs) on diagnosis of multiple myeloma and his state of health</unittitle><unitdate>1957 November 18-21</unitdate></did></c><c id="b67f23ef285b4fc2b12f50f1cc91b09e" level="file"><did><unittitle>With George W. Corner on history of RI</unittitle><unitdate>1958 January-December</unitdate></did></c><c id="a6f159927d52448887ce4eb20c52a453" level="file"><did><unittitle>With John H. Dingle on statement regarding etiology of the common cold. Olitsky refers to work of A.B. Sabin</unittitle><unitdate>1958 October-November</unitdate></did></c></c><c id="5719e845573743ad9bec69a0f3ef11a3" level="file"><did><unitdate normal="1960/1963" type="inclusive">1960-1963</unitdate></did><scopecontent id="ab5ec92184c5b3c2a34b9847cdc5e433"><head>Scope and Contents</head><p>Items of special interest are listed below this level.</p></scopecontent><c id="e48c1240b78a4c7189e4e57c11dc586e" level="file"><did><unittitle>With A.A. Hoehling requesting that PKO write an introduction to book for laymen on 1918 influenza epidemic</unittitle><unitdate>1959 November-1960 October</unitdate></did><scopecontent id="489fa1ece4cce540ffdbbbf6d1ff5cba"><head>Scope and Contents note</head><p>Includes holograph note from James P. Leake, and history note from PKO to E. Kone.</p></scopecontent></c><c id="c816185c56a541519f79cb527cd1f77c" level="file"><did><unittitle>From Philip Levine on difficulties in writing an address on Karl Landsteiner</unittitle><unitdate>1960 June 21</unitdate></did></c><c id="e23de251322d403896a4b1c5546399d7" level="file"><did><unittitle>To George S. Mirick recommending Labe C. Scheinberg for Health Research Council Fellowship</unittitle><unitdate>1962 January 8</unitdate></did></c></c></c><c id="b0eb12bdedd247e0b23c71bec088a2b6" level="file"><did><unittitle>Correspondence</unittitle></did><arrangement id="9c42e586c255d1b55c0aa10c2f9f5982"><head>Arrangement note</head><p>Arranged in alphabetical order where there are more than 25 items for each correspondent. Chronological within folder.</p></arrangement><c id="712c7841834c48b9b44e44e1740e4ea2" level="file"><did><unittitle>Anslow, Ralph</unittitle><unitdate normal="1950/1963" type="inclusive">1950-1963</unitdate><container id="161fc88127b8513d2e4189c669a339e3" label="mixed materials [163050.2.318]" type="box">2</container></did><relatedmaterial id="fa28861b97978ca86d5a10f62ff1bae5"><head>Related Materials</head><p>See also Joan Fitzgerald Golrick's letters from Washington, D.C. describing the work going on in the Army Medical Veterinary Division with Major Anslow.</p></relatedmaterial></c><c id="cc0e8436ea0b43a9b2ba1ae29c00f374" level="file"><did><unittitle>Avery, Julian</unittitle><unitdate normal="1947/1958" type="inclusive">1947-1949 1958</unitdate><container id="d9133ba56e3eb5c3171b1e54b0ddb886" label="mixed materials [163050.2.318]" type="box">2</container></did><scopecontent id="3953b726ccc4578343a00912cae15b2e"><head>Scope and Contents note</head><p>An involved group of letters dealing with interest in a theory of fundamental particles proposed by Mr. Avery and attempts by PKO to aid in its publication.</p><p>Includes copies of letters from John A. Wheeler, Princeton University; A. Einstein; George A. Baitsell; Alexandre Rothen.</p></scopecontent></c><c id="5a88671cde844034865bec7eeb5773e6" level="file"><did><unittitle>Bernkoff, Hans</unittitle><unitdate normal="1946/1950" type="inclusive">1946-1950</unitdate><container altrender="Letter Document Storage Box" id="c4e735c63b030bba0692975be439afa6" label="mixed materials [A0000000054372]" type="box">3</container></did></c><c id="06d4058026d94eaf914a7552993b2ebc" level="file"><did><unittitle>Brown, Lenora (Irwin/Simnad)</unittitle><unitdate normal="1951/1958" type="inclusive">1951-1958</unitdate><container altrender="Letter Document Storage Box" id="fa464d488244f6d38c54766ca4af2406" label="mixed materials [A0000000054372]" type="box">3</container></did><scopecontent id="3445ed23f28cce57b549297068916d4c"><head>Scope and Contents</head><p>Some holograph letters and reports from Dr. Brown and one signed typescript from Jonas Salk.</p></scopecontent></c><c id="3002495e0fef4c9da15e731ee38b5a5a" level="file"><did><unittitle>Casals, Jordi</unittitle><unitdate normal="1944/1951" type="inclusive">1944-1951</unitdate><container altrender="Letter Document Storage Box" id="5b98a8ef60587ce8e841d36e86680d9f" label="mixed materials [A0000000054372]" type="box">3</container></did><scopecontent id="e8b8f41f6b495a18764fe123aa08f93f"><head>Scope and Contents note</head><p>Several holograph letters; 2 from Japan while at 406th Medical General Laboratory.</p></scopecontent></c><c id="de62a837bfe24441ac8dde20fb09f683" level="file"><did><unittitle>Cox, Herald R.</unittitle><unitdate normal="1952/1960" type="inclusive">1952-1960</unitdate><physdesc id="efa8f3e764d6428e2f3e420d9c0fafbc">some holograph letters</physdesc><container altrender="Letter Document Storage Box" id="8ac4e3f868147bb487af6e47f0381827" label="mixed materials [A0000000054372]" type="box">3</container></did></c><c id="890d243a500a439da9d638037305ae7c" level="file"><did><unittitle>Dick, George W.A.</unittitle><unitdate normal="1948/1955" type="inclusive">1948-1955</unitdate><physdesc id="6524025f430cc3253c543ad89d6fa6de">some holographs</physdesc><container altrender="Letter Document Storage Box" id="30026b7c4a6237ff6ec8ec4bb076658d" label="mixed materials [A0000000054372]" type="box">3</container></did></c><c id="b0c49137b1604ba7bed044c766decc28" level="file"><did><unittitle>Flexner, Abraham</unittitle><unitdate normal="1920/1951" type="inclusive">1920 1937 1951</unitdate><container altrender="Letter Document Storage Box" id="fff4d8fb1edd5bed9e1f81d2c4e1407e" label="mixed materials [A0000000054372]" type="box">3</container></did><scopecontent id="95f12b51a921847f1d7a9a937b2f4474"><head>Scope and Contents note</head><p>Includes two Simon Flexner reprints: 1920, 1937. On mementos and correspondence relating to S. Flexner.</p></scopecontent></c><c id="491576e952db4676aeef56b41c236967" level="file"><did><unittitle>Flexner, Simon</unittitle><unitdate normal="1925/1926" type="inclusive">1925-1926</unitdate><container altrender="Letter Document Storage Box" id="3bd451ccac36902a8defe196561c886e" label="mixed materials [A0000000054372]" type="box">3</container></did><scopecontent id="b8d96c196dd3189b42cefec03c10b9bd"><head>Scope and Contents note</head><p>Copies of letters written from Strasbourg on Hoof and Mouth Disease Project.</p></scopecontent></c><c id="e646bcb994974dbe811caa74204ede67" level="file"><did><unittitle>Lee, Johanna M.</unittitle><unitdate normal="1952/1961" type="inclusive">1952-1961</unitdate><container altrender="Letter Document Storage Box" id="e729c71c9724ff14ecbf5aa4a391ebc6" label="mixed materials [A0000000054372]" type="box">3</container></did><scopecontent id="244b40c58fb2fe39d85eabf5219d06c1"><head>Scope and Contents note</head><p>Many holograph letters written during times of illness. Letters reporting experimental results while PKO away from laboratory.</p></scopecontent></c><c id="b15a5c69a6454ef3ad614c24a2df7bb1" level="file"><did><unittitle>Schlesinger, R. Walter</unittitle><unitdate normal="1946/1963" type="inclusive">1946-1963</unitdate><container altrender="Letter Document Storage Box" id="8a42f757bb0f2ddb2bb6a0e2ad684a87" label="mixed materials [A0000000054372]" type="box">3</container></did><scopecontent id="28955f529e42b4879af8791af77e76b9"><head>Scope and Contents note</head><p>Includes letter to PKO (1963 Apr. 30) explaining background to T. River's remarks to Saul Benison about A. Sabin's attitude on Schlesinger's work on dengue and sandfly fevers.</p></scopecontent></c><c id="ca24d1390f57471dad0f64022d1e9480" level="file"><did><unittitle>Selzer, Golda</unittitle><unitdate normal="1952/1959" type="inclusive">1952-1959</unitdate><container altrender="Letter Document Storage Box" id="08f3b9b6f5b38ee3ad9997739f516cb4" label="mixed materials [A0000000054372]" type="box">3</container></did></c><c id="58396b406e9945ac9ac5dce5485a5fb0" level="file"><did><unittitle>Smadel, Joseph E.</unittitle><unitdate normal="1946/1950" type="inclusive">1946-1950</unitdate><container altrender="Letter Document Storage Box" id="8d98b7fac25faa0f90f76a5d89e67ac9" label="mixed materials [A0000000054372]" type="box">3</container></did><scopecontent id="8fbb31a5f29a11bab3e066ca561829a4"><head>Scope and Contents note</head><p>Contains references to H. Bernkoff, Col. Yager.</p></scopecontent></c><c id="44762c85be4d40ad8cb2f898347610e3" level="file"><did><unittitle>Syverton, Jerome T.</unittitle><unitdate normal="1955/1961" type="inclusive">1955-1961</unitdate><container altrender="Letter Document Storage Box" id="6aa627b04e6c2391ea6a9938e97ea06a" label="mixed materials [A0000000054372]" type="box">3</container></did></c><c id="350b5e2fa65b45599e30ec894414b50a" level="file"><did><unittitle>Tal, Chloe</unittitle><unitdate normal="1954/1961" type="inclusive">1954-1961</unitdate><container altrender="Letter Document Storage Box" id="65497cbfc305251b720f7a0752da6518" label="mixed materials [A0000000054372]" type="box">3</container></did><scopecontent id="7c8190857fc6bc25c5f6537fcb0caa9f"><head>Scope and Contents note</head><p>Includes reprint from British Journal of Experimental Pathology, 2 April. 1958.</p></scopecontent></c></c><c id="3d271c0e241249a880cc268a7b459f1f" level="file"><did><unittitle>Subject folders</unittitle><container altrender="Letter Document Storage Box" id="dfe5343fce941ed9a4e92adc2dea7b9d" label="mixed materials [A0000000054372]" type="box">3</container></did><c id="6b06aa511cf1410c8bf982dd67abb0cb" level="file"><did><unittitle>W.E.E. vaccine</unittitle><unitdate normal="1942/1943" type="inclusive">1942-1943</unitdate></did><scopecontent id="cc9505b803f74cb6c09aae4eb8df9f1e"><head>Scope and Contents note</head><p>Includes 1942 July 15 signed letter from Albert Sabin and copy of 1942 Nov. 24 letter from A. Sabin on efficacy of allantoic fluid vaccine and potency when stored.</p></scopecontent></c><c id="04ba8101137a4e94a6568f51006527fc" level="file"><did><unittitle>Diseases of Poultry (Iowa State Press)</unittitle><unitdate normal="1947/1957" type="inclusive">1947-1957</unitdate></did><scopecontent id="bf4a42eb3b1fb983a9ba945d5255e035"><head>Scope and Contents note</head><p>Chap. 23: Avian encephalomyelitis by Henry van Roekel and Chap. 27: Foot and Mouth Disease by Harry Schoening including holograph letter 7 Jan. 1957 on his retirement and request to pass on to Dr. Shahan the authorship of the chapter.</p></scopecontent></c><c id="91fea09551b1428389ee52b2c62a47d3" level="file"><did><unittitle>Brennemann's Practice of Pediatrics</unittitle><unitdate normal="1942/1962" type="inclusive">1942-1962</unitdate></did><scopecontent id="8b8d13c198f64b7dc4c5d44bfe5e5afb"><head>Scope and Contents note</head><p>1942 and later revisions of Section II: "Infections of man with the virus of equine encephalomyelitis".</p></scopecontent></c><c id="a13ee495b87b42d6b47d6b5dd45b61a6" level="file"><did><unittitle>Viral and Rickettsial Infection in Man</unittitle><unitdate normal="1951/1959" type="inclusive">1951-1959</unitdate></did><scopecontent id="1267bcb5024ac8f3c97b6537e7466398"><head>Scope and Contents note</head><p>Copies of Chap. 13 and 14, 3rd ed. mss. 1951-1959.</p><p>Includes correspondence with Frank Horsfall and others.</p><p>Includes some correspondence on 2nd. ed. under editorship of T. Rivers 1951-1952 including letters from A. Sabin, 22 May 1951; K. Smithburn 19 Mar. 1951; J. Melnick 22 Mar. 1951; Joe Smadel, holograph 12 April 1951.</p></scopecontent></c></c><c id="1508f9cd71b84e7f84f06afc87bfadfb" level="file"><did><unittitle>Correspondence and employment record</unittitle><unitdate normal="1925/1964" type="inclusive">1925-1964</unitdate><physdesc id="2f155db83334b3be4742fe424615a1e8">1 box (2½ inches)</physdesc></did><scopecontent id="5a5d3fb3815d847f2074af3b9ac31f54"><head>Scope and Contents note</head><p>Consists primarily of the correspondence with directors and business managers during the period of Dr. Olitsky's association with The Rockefeller Institute for Medical Research.</p><p>Included is the original application for employment and many handwritten letters from Dr. Olitsky in response to increased salary letters.</p></scopecontent><acqinfo id="97d48a11f108c7134d012b35c259955a"><head>Immediate Source of Acquisition</head><p>Received or inventoried June, 1980. This box (5 folders) of papers was deposited by the Office of Faculty and Student Records.</p></acqinfo><arrangement id="a287fb9378009253c71539cf34afdd2b"><head>Arrangement note</head><p>Arranged by subject and in chronological order.</p></arrangement><c id="482d46cbd8374a47964ccf9b9a93f879" level="file"><did><unittitle>Correspondence</unittitle><unitdate normal="1912/1934" type="inclusive">1912-1934</unitdate><container altrender="Half Ltr Document Storage Box" id="503ae484c656284d00cd04e1a6bc9df1" label="mixed materials [A0000000054373]" type="box">4</container><container id="e55a62754adecf9af54c7036a6661ad2" parent="503ae484c656284d00cd04e1a6bc9df1" type="folder">1</container></did></c><c id="0db4482c009344a1858380f548519d5a" level="file"><did><unittitle>Correspondence</unittitle><unitdate normal="1935/1964" type="inclusive">1935-1964</unitdate><container altrender="Half Ltr Document Storage Box" id="6cdead6f05c7eaebb1f45ab516b0d099" label="mixed materials [A0000000054373]" type="box">4</container><container id="b42ebfddada5df30cf408891bc5753cb" parent="6cdead6f05c7eaebb1f45ab516b0d099" type="folder">2</container></did></c><c id="d1f16c8bec564732ab906d967b7742f9" level="file"><did><unittitle>Correspondence and blueprints for remodeling and air duct arrangement in Olitsky laboratory</unittitle><unitdate normal="1931/1933" type="inclusive">1931-1933</unitdate><container altrender="Half Ltr Document Storage Box" id="b709725ca6c8cc74b18fbe9574f6519f" label="mixed materials [A0000000054373]" type="box">4</container><container id="87c6d6c36e4d6f9f64fe463f273799f4" parent="b709725ca6c8cc74b18fbe9574f6519f" type="folder">3</container></did></c><c id="dc946f25d275455394874d510973633a" level="file"><did><unittitle>Correspondence from the lay public with various ideas about polio which Peter Olitsky answered</unittitle><unitdate normal="1940/1941" type="inclusive">1940-1941</unitdate><container altrender="Half Ltr Document Storage Box" id="22955f6b09dca367d331d9246e3c07e4" label="mixed materials [A0000000054373]" type="box">4</container><container id="b0209ca609ee3152a652c7bb25d51ab3" parent="22955f6b09dca367d331d9246e3c07e4" type="folder">4</container></did></c><c id="8e6bf32299be4d3397624bceea348c9b" level="file"><did><unittitle>Signed releases for those vaccinated and working in the Olitsky laboratory with equine encephalitis virus</unittitle><unitdate normal="1941/1947" type="inclusive">1941-1947</unitdate><container altrender="Half Ltr Document Storage Box" id="e255c56aeb27b2c34334e2500bc4956f" label="mixed materials [A0000000054373]" type="box">4</container><container id="e9cc2a18b7f8cf3650e204e52eb6e00e" parent="e255c56aeb27b2c34334e2500bc4956f" type="folder">5</container></did></c></c><c id="ea475d89523d45a9a2514f2fa9ab6b23" level="file"><did><unittitle>Influenza Reprints</unittitle><unitdate normal="1920/1924" type="inclusive">1920-1924</unitdate><physdesc id="dcde86c8c63f6831d0358afcf0481cd9">1 volume</physdesc></did><processinfo id="e5fca92c2251e360237df514c8ee867b"><head>Processing Information note</head><p>[removed to RAC library 8/9/88].</p></processinfo></c><c id="2018acdae2dc4c3f871a1da034d72d9a" level="file"><did><unittitle>Collected Reprints</unittitle><unitdate normal="1915/1945" type="inclusive">1915-1945</unitdate><physdesc id="a92b9e0de30a62dc9212f9e0cc77b68e">6 volumes</physdesc></did><processinfo id="610cdd4471bb4d849ed451ecfdb0eda4"><head>Processing Information note</head><p>[removed to RAC library 8/9/88].</p></processinfo></c><c id="0c8b2f4c030043468ee237ae0b1a20bc" level="file"><did><unittitle>Lantern slides</unittitle><unitdate>1982 September 15</unitdate><physdesc id="12905974bbc5f9ce56af9d477db52f8e">oversize package #1</physdesc><container id="d23223c540a0ccb0549cd63f352792c1" label="mixed materials [A0000000054374]" type="package">1</container></did><scopecontent id="007c7e2a68a9ec252a3f1efebdb0f333"><head>Scope and Contents note</head><p>Wm Trager to RUA (9/15/82) [in black case].</p></scopecontent></c></dsc>
+</archdesc>
 </ead>

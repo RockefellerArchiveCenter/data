@@ -1,742 +1,89 @@
-<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
-  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="under_revision" langencoding="iso639-2b" repositoryencoding="iso15511">
-    <eadid>FA355.xml</eadid>
-    <filedesc>
-      <titlestmt>
-        <titleproper type="filing">Rockefeller (Nelson A.) Gubernatorial records, Joseph H. Boyd, Series 4</titleproper>
-        <titleproper>A Guide to the Nelson A. Rockefeller Gubernatorial records, Joseph H. Boyd, Series 4
- <num>FA355</num></titleproper>
-      </titlestmt>
-      <publicationstmt>
-        <publisher>Rockefeller Archive Center</publisher>
-        <p>
-          <date>2001</date>
-        </p>
-        <address>
-          <addressline>15 Dayton Avenue</addressline>
-          <addressline>Sleepy Hollow 10591</addressline>
-          <addressline>archive@rockarch.org</addressline>
-          <addressline>URL: <extptr xlink:href="http://www.rockarch.org" xlink:show="new" xlink:title="http://www.rockarch.org" xlink:type="simple"/></addressline>
-        </address>
-      </publicationstmt>
-    </filedesc>
-    <profiledesc>
-      <creation>This finding aid was produced using ArchivesSpace on <date>2017-03-02 05:45:51 -0500</date>.</creation>
-    </profiledesc>
-    <revisiondesc>
-      <date>30 June 2010</date>
-      <item>Migrated from Re:discovery to the Archivists' Toolkit by Becky Robbins.</item>
-    </revisiondesc>
-  </eadheader>
-  <archdesc level="series">
-    <did>
-      <langmaterial>
-        <language langcode="eng">English</language>
-      </langmaterial>
-      <repository>
-        <corpname>Rockefeller Archive Center</corpname>
-      </repository>
-      <unittitle>Nelson A. Rockefeller gubernatorial records, Joseph H. Boyd, Series 4</unittitle>
-      <origination label="creator">
-        <persname role="ctb" source="lcnaf">Rockefeller, Nelson A. (Nelson Aldrich)</persname>
-      </origination>
-      <origination label="creator">
-        <corpname role="aut" source="lcnaf">New York (State). Governor (1959-1973 : Rockefeller)</corpname>
-      </origination>
-      <origination label="creator">
-        <persname role="aut" source="lcnaf">Boyd, Joseph H.</persname>
-      </origination>
-      <unitid>FA355</unitid>
-      <physdesc altrender="whole">
-        <extent altrender="materialtype spaceoccupied">1 record cartons</extent>
-      </physdesc>
-      <unitdate normal="1963/1967" type="inclusive">1963-1967</unitdate>
-    </did>
-    <bioghist id="5288beb63bb983d04d9f8883e3fbc07b">
-      <head>Biographical/Historical note</head>
-      <p>Nelson A. Rockefeller served as governor of New York from January 1, 1959, to December 18, 1973. He was the first person elected to four consecutive four-year terms as a state governor.</p>
-    </bioghist>
-    <prefercite id="b392165fb437c711a874055025cfb4c3">
-      <head>Preferred Citation note</head>
-      <p>Information regarding the Rockefeller Archive Center's preferred elements and forms of citation can be found at <extref href="http://www.rockarch.org/research/citations.php">http://www.rockarch.org/research/citations.php</extref></p>
-    </prefercite>
-    <fileplan id="6d99f027d2635c244fed7a8212e040a6">
-      <head>File Plan note</head>
-      <p>Former Classification: III 15 4</p>
-    </fileplan>
-    <userestrict id="88fd12e6cce52a4f67c82a78037c9141">
-      <head>Conditions Governing Use note</head>
-      <p>RAC users must abide by all applicable provisions of U.S. copyright law. Reproduction/duplication of archival items is routinely provided in accordance with "fair use." If the RAC does not hold copyright for an archival collection or items within a collection, it is the user's responsibility to contact the copyright holder, or make a fair effort to do so, prior to publication.</p>
-    </userestrict>
-    <accessrestrict id="f510c74787f62eabc3579e5af07cc661">
-      <head>Conditions Governing Access note</head>
-      <p>Open for research with select materials restricted as noted. Brittle or damaged items are available at the discretion of RAC. Researchers interested in accessing digital media (floppy disks, CDs, DVDs, etc.) or audiovisual material (audio cassettes, VHS, etc.) in this collection must use an access surrogate. The original items may not be accessed because of preservation concerns. To request an access surrogate be made, or if you are unsure if there is an access surrogate, please contact an archivist.</p>
-    </accessrestrict>
-    <processinfo id="a97df90ba13dd3702356e8abc6842e98">
-      <head>Processing Information note</head>
-      <p>Processing Level 3: Standard Processing.</p>
-    </processinfo>
-    <otherfindaid id="a0df06a3df75002a1605ee6af8aaf4b9">
-      <head>Other Finding Aids note</head>
-      <p>Detailed finding aids for each series of this collection are available:</p>
-      <p>
-        <extref href="../FA353/overview">Nelson A. Rockefeller Gubernatorial Records, Appointments Office (FA353)</extref>
-      </p>
-      <p>
-        <extref href="../FA354/overview">Nelson A. Rockefeller Gubernatorial Records, Assembly and Senate Memos (FA354)</extref>
-      </p>
-      <p>
-        <extref href="../FA356/overview">Nelson A. Rockefeller Gubernatorial Records, James Cannon (FA356)</extref>
-      </p>
-      <p>
-        <extref href="../FA357/overview">Nelson A. Rockefeller Gubernatorial Records, Affirmative Action (N. Lee Cook) (FA357)</extref>
-      </p>
-      <p>
-        <extref href="../FA358/overview">Nelson A. Rockefeller Gubernatorial Records, Counsel's Office (FA358)</extref>
-      </p>
-      <p>
-        <extref href="../FA359/overview">Nelson A. Rockefeller Gubernatorial Records, New York State Committee to Reelect the President (FA359)</extref>
-      </p>
-      <p>
-        <extref href="../FA360/overview">Nelson A. Rockefeller Gubernatorial Records, Jerry A. Danzig (FA360)</extref>
-      </p>
-      <p>
-        <extref href="../FA361/overview">Nelson A. Rockefeller Gubernatorial Records, Executive Chamber (FA361)</extref>
-      </p>
-      <p>
-        <extref href="../FA362/overview">Nelson A. Rockefeller Gubernatorial Records, 55th Street (FA362)</extref>
-      </p>
-      <p>
-        <extref href="../FA363/overview">Nelson A. Rockefeller Gubernatorial Records, Issue Books (FA363)</extref>
-      </p>
-      <p>
-        <extref href="../FA364/overview">Nelson A. Rockefeller Gubernatorial Records, Arthur Massolo (FA364)</extref>
-      </p>
-      <p>
-        <extref href="../FA242/overview">Nelson A. Rockefeller Gubernatorial Records, Hugh Morrow (FA242)</extref>
-      </p>
-      <p>
-        <extref href="../FA365/overview">Nelson A. Rockefeller Gubernatorial Records, New York Office (FA365)</extref>
-      </p>
-      <p>
-        <extref href="../FA366/overview">Nelson A. Rockefeller Gubernatorial Records, Civil Service Resolutions (Charles H. Palmer) (FA366)</extref>
-      </p>
-      <p>
-        <extref href="../FA367/overview">Nelson A. Rockefeller Gubernatorial Records, Political Files (FA367)</extref>
-      </p>
-      <p>
-        <extref href="../FA368/overview">Nelson A. Rockefeller Gubernatorial Records, Press Office (FA368)</extref>
-      </p>
-      <p>
-        <extref href="../FA369/overview">Nelson A. Rockefeller Gubernatorial Records, Public Relations (FA369)</extref>
-      </p>
-      <p>
-        <extref href="../FA370/overview">Nelson A. Rockefeller Gubernatorial Records, Departmental Reports (FA370)</extref>
-      </p>
-      <p>
-        <extref href="../FA371/overview">Nelson A. Rockefeller Gubernatorial Records, William J. Ronan (FA371)</extref>
-      </p>
-      <p>
-        <extref href="../FA372/overview">Nelson A. Rockefeller Gubernatorial Records, Speeches (FA372)</extref>
-      </p>
-      <p>
-        <extref href="../FA373/overview">Nelson A. Rockefeller Gubernatorial Records, Diane Van Wie (FA373)</extref>
-      </p>
-      <p>
-        <extref href="../FA374/overview">Nelson A. Rockefeller Gubernatorial Records, Ann C. Whitman, Gubernatorial (FA374)</extref>
-      </p>
-      <p>
-        <extref href="../FA375/overview">Nelson A. Rockefeller Gubernatorial Records, Gene Wyckoff (FA375)</extref>
-      </p>
-      <p>
-        <extref href="../FA376/overview">Nelson A. Rockefeller Gubernatorial Records, New York Republican State Fund Raising Reports (FA376)</extref>
-      </p>
-    </otherfindaid>
-    <scopecontent id="cd367ad7b00044f289b9670daa2fec97">
-      <head>Scope and Contents note</head>
-      <p>NOTE TO RESEARCHERS</p>
-      <p>This series contains the office files of Joseph H. Boyd. They document official activities in the execution of his duties as a member of Nelson A. Rockefeller's staff. The actions, decisions, and exchanges of information or points of view documented here occurred in the course of proposing and implementing policies for the Rockefeller administration, political campaigns, and/or Rockefeller's personal activities. However, unless a document is specifically addressed to or from Rockefeller, or is referred to in a document addressed to him, it should not be assumed he saw the document or was aware of its existence or substance. Furthermore, researchers should bear in mind that staff files may contain documents or drafts addressed to Rockefeller that were never shown to him.</p>
-      <p>SCOPE AND CONTENT</p>
-      <p>This series contains a portion of the files of Joseph H. Boyd. These files primarily document Boyd's tenure as Congressional liaison officer for Governor Rockefeller. During 1967, Boyd maintained an office in Washington, DC, and held regular meetings with members of the New York State Congressional delegation. Almost all of the files pertain to that year, when he routinely spoke with members by telephone and represented the Governor in Washington. Boyd also served as Rockefeller's liaison to the New York State Legislature during this time. Boyd was a member of Governor Rockefeller's staff before as well as after serving in this role. The other files in this series cover his prior service as a Special Assistant to the Governor. Of note are memoranda and correspondence from Henry Kissinger and Edward Teller on such topics as foreign policy, defense spending, and the nuclear test ban treaty before the U.S. Senate Foreign Relations Committee in 1963 (Folders 42 and 43).</p>
-    </scopecontent>
-    <processinfo id="93e5e6b53bb64b5513251216f236c127">
-      <head>Processing Information note</head>
-      <p>John LeGloahec October 2001</p>
-    </processinfo>
-    <controlaccess>
-      <subject source="lcsh">International economic relations</subject>
-      <subject source="lcsh">International relations</subject>
-      <subject source="lcsh">Governors -- Election -- New York (State) -- 1970</subject>
-      <subject source="lcsh">Human rights</subject>
-      <subject source="lcsh">Arms control</subject>
-      <subject source="lcsh">Affirmative action programs -- New York (State)</subject>
-      <subject source="lcsh">Civil defense</subject>
-      <subject source="lcsh">Arms control -- United States</subject>
-      <subject source="lcsh">Political science</subject>
-      <subject source="lcsh">Presidential campaigns -- United States</subject>
-      <geogname source="lcsh">New York (State)</geogname>
-      <subject source="lcsh">Political campaigns -- United States</subject>
-      <subject source="lcsh">Legislation -- New York (State)</subject>
-      <geogname source="lcsh">New York (N.Y.)</geogname>
-      <subject source="lcsh">International relations -- United States</subject>
-      <geogname source="lcsh">Latin America</geogname>
-      <subject source="lcsh">Governors -- Election -- New York (State) -- 1966</subject>
-      <subject source="lcsh">Presidential candidates -- United States -- History -- 20th century</subject>
-      <subject source="lcsh">Public policy</subject>
-      <subject source="lcsh">Public relations</subject>
-      <subject source="lcsh">State governments -- United States</subject>
-      <geogname source="lcsh">United States</geogname>
-      <subject source="lcsh">Vice-Presidents -- United States</subject>
-      <subject source="lcsh">Civil defense -- United States</subject>
-      <subject source="lcsh">Civil service</subject>
-      <subject source="lcsh">Civil service -- New York (State)</subject>
-      <subject source="lcsh">Economics</subject>
-      <subject source="lcsh">Federal government -- United States</subject>
-      <subject source="lcsh">Government policy</subject>
-      <subject source="lcsh">Governors -- Election -- New York (State) -- 1958</subject>
-      <subject source="lcsh">Governors -- Election -- New York (State) -- 1962</subject>
-    </controlaccess>
-    <dsc>
-      <c id="9a00b3d91ab54087b5dfb45713667b37" level="file">
-        <did>
-          <unittitle>Air Pollution</unittitle>
-          <unitdate normal="1967/1967" type="inclusive">1967</unitdate>
-          <container id="c42b0a4e11dd2eff1f25314042357b88" label="mixed materials (A0000000067939)" type="box">1</container>
-          <container id="5ad0cd29f7201702fdd62fcccca16c78" parent="c42b0a4e11dd2eff1f25314042357b88" type="folder">1</container>
-        </did>
-        <scopecontent id="ba9a93d37d4c74525b845d655adb3558">
-          <head>Scope and Contents note</head>
-          <p>Press release announcing legislation to combat air pollution in the metropolitan New York State region.</p>
-        </scopecontent>
-      </c>
-      <c id="41fe9c08206245b49e46ad7d4369d289" level="file">
-        <did>
-          <unittitle>Appalachian Program</unittitle>
-          <unitdate normal="1967/1967" type="inclusive">1967</unitdate>
-          <container id="0ea23f389983c47fe5d3105037c70c8a" label="mixed materials (A0000000067939)" type="box">1</container>
-          <container id="1dbcef777ac88513eadbe0b3a308df6b" parent="0ea23f389983c47fe5d3105037c70c8a" type="folder">2</container>
-        </did>
-        <scopecontent id="0671254a8dfcd0e72dfbfc41f2d47d6a">
-          <head>Scope and Contents note</head>
-          <p>Press release on implementation of Appalachian Program benefiting New York State counties; maps and charts of region.</p>
-        </scopecontent>
-      </c>
-      <c id="94c3cb73b60e47e1b30f0b6e7dc10258" level="file">
-        <did>
-          <unittitle>Bingham, Jonathan</unittitle>
-          <unitdate normal="1967/1967" type="inclusive">1967</unitdate>
-          <container id="9c75a9aace739f8b6fda7f806035572e" label="mixed materials (A0000000067939)" type="box">1</container>
-          <container id="07c49bf258ff8aa38a7756c0e361d974" parent="9c75a9aace739f8b6fda7f806035572e" type="folder">3</container>
-        </did>
-        <scopecontent id="959bf2179751f8effd7e18abe64dcd2a">
-          <head>Scope and Contents note</head>
-          <p>Correspondence with the New York Congressman regarding a meeting of New York State Congressional delegation.</p>
-        </scopecontent>
-      </c>
-      <c id="4cc9971ef42341d2b0a280d5e646282e" level="file">
-        <did>
-          <unittitle>Bohemian Grove</unittitle>
-          <unitdate normal="1963/1963" type="inclusive">1963</unitdate>
-          <container id="cd308fe2d9cc6a58a5ba3c9671d5a220" label="mixed materials (A0000000067939)" type="box">1</container>
-          <container id="1bd5e5d0be4fe11c3613ecd07e5550a6" parent="cd308fe2d9cc6a58a5ba3c9671d5a220" type="folder">4</container>
-        </did>
-        <scopecontent id="665ed3cf44ce605ee96cee27684e05ae">
-          <head>Scope and Contents note</head>
-          <p>NAR notes (typed) of remarks made by Rockefeller in San Francisco, California.</p>
-        </scopecontent>
-      </c>
-      <c id="8a655643b6bf433484695b8cbf0e56f5" level="file">
-        <did>
-          <unittitle>Button, Daniel</unittitle>
-          <unitdate normal="1967/1967" type="inclusive">1967</unitdate>
-          <container id="747c6adbb3db1b9845f67e8d14f1bd6d" label="mixed materials (A0000000067939)" type="box">1</container>
-          <container id="e74565647424d90088c8f6b7cafd5f62" parent="747c6adbb3db1b9845f67e8d14f1bd6d" type="folder">5</container>
-        </did>
-        <scopecontent id="9a59ee1144f87b66e902741d9e15d88b">
-          <head>Scope and Contents note</head>
-          <p>Correspondence with the New York Congressman.</p>
-        </scopecontent>
-      </c>
-      <c id="594fc7df31d8468a9d3d506623fb1931" level="file">
-        <did>
-          <unittitle>Celler, Emanuel</unittitle>
-          <unitdate normal="1967/1967" type="inclusive">1967</unitdate>
-          <container id="1d423ba074cb9289bdcf957f403ca57b" label="mixed materials (A0000000067939)" type="box">1</container>
-          <container id="9da3c730500395d793c7c211d37f1ea9" parent="1d423ba074cb9289bdcf957f403ca57b" type="folder">6</container>
-        </did>
-        <scopecontent id="8ec55b75d86d6ead536fd122f6c1cab9">
-          <head>Scope and Contents note</head>
-          <p>Correspondence with the New York Congressman regarding Health, Education and Welfare (HEW) funding.</p>
-        </scopecontent>
-      </c>
-      <c id="ae09d2ae1622429cb3d0f245742bb02c" level="file">
-        <did>
-          <unittitle>Conable, B.</unittitle>
-          <unitdate normal="1967/1967" type="inclusive">1967</unitdate>
-          <container id="70d21e49660a3ade850549ba5ea79b67" label="mixed materials (A0000000067939)" type="box">1</container>
-          <container id="5fd84fd8b5d24eded775035c1af449b5" parent="70d21e49660a3ade850549ba5ea79b67" type="folder">7</container>
-        </did>
-        <scopecontent id="81645a732fc26e9ef9a2334ecb43c9ba">
-          <head>Scope and Contents note</head>
-          <p>Correspondence with the New York Congressman on uban issues.</p>
-        </scopecontent>
-      </c>
-      <c id="517490dc0a914ab0ba2b064039884083" level="file">
-        <did>
-          <unittitle>Congress</unittitle>
-          <unitdate normal="1967/1967" type="inclusive">1967</unitdate>
-          <container id="815299e74fb72e00e73cb29b0dea2c5c" label="mixed materials (A0000000067939)" type="box">1</container>
-          <container id="8f44b9ebfebadea12e36375a28d80760" parent="815299e74fb72e00e73cb29b0dea2c5c" type="folder">8</container>
-        </did>
-        <scopecontent id="8521fd5ef5c439ccc3814feb214814e3">
-          <head>Scope and Contents note</head>
-          <p>Press releases, correspondence and memoranda on various issues before Congress.</p>
-        </scopecontent>
-      </c>
-      <c id="a0ba908c954747598ff79be3b9f6413d" level="file">
-        <did>
-          <unittitle>Congressional Liaison Office</unittitle>
-          <unitdate normal="1967/1967" type="inclusive">1967</unitdate>
-          <container id="74c8564444188713e1c0a27b6f816f94" label="mixed materials (A0000000067939)" type="box">1</container>
-          <container id="ad65a8400c9e3a55bac8f296fbefbebc" parent="74c8564444188713e1c0a27b6f816f94" type="folder">9</container>
-        </did>
-        <scopecontent id="59cbdbee61a272c2e5738a7d4ac9ee3c">
-          <head>Scope and Contents note</head>
-          <p>Memoranda detailing new role and responsibilities for Boyd; correspondence with New York State Congressional delegation on new office and introducing Boyd in his new role.</p>
-        </scopecontent>
-      </c>
-      <c id="92d92d6d7e86489fb608719f40b5f5f9" level="file">
-        <did>
-          <unittitle>Constitutional Convention</unittitle>
-          <unitdate normal="1965/1965" type="inclusive">1965</unitdate>
-          <container id="133eee22fb5ee14ca09744fddc849411" label="mixed materials (A0000000067939)" type="box">1</container>
-          <container id="5f0b08b74c8d9b4dd3ce65ff19da00e1" parent="133eee22fb5ee14ca09744fddc849411" type="folder">10</container>
-        </did>
-        <scopecontent id="63396af17008cda7a9f4f6bfc622fde7">
-          <head>Scope and Contents note</head>
-          <p>Memoranda on creation of the "Constitutional Convention Preparation Commission"; suggestions for nominees to commission.</p>
-        </scopecontent>
-      </c>
-      <c id="320d24bc144c472687578d3d2d3642b2" level="file">
-        <did>
-          <unittitle>Daily Sheets</unittitle>
-          <unitdate normal="1967/1967" type="inclusive">1967</unitdate>
-          <container id="8088507982988a8536f97ccda1fc56f0" label="mixed materials (A0000000067939)" type="box">1</container>
-          <container id="7416db75976d66fad059f51d4f53e3a8" parent="8088507982988a8536f97ccda1fc56f0" type="folder">11</container>
-        </did>
-        <scopecontent id="aab699e5127b7916fcde27e95f415756">
-          <head>Scope and Contents note</head>
-          <p>To do lists for office staff and daily job responsibilities; notes on telephone conversations.</p>
-        </scopecontent>
-      </c>
-      <c id="a5093f1b8a8e4c768157bfd82eae6252" level="file">
-        <did>
-          <unittitle>Education</unittitle>
-          <unitdate normal="1967/1967" type="inclusive">1967</unitdate>
-          <container id="0c1282891a4aa63fe4bde3da42244389" label="mixed materials (A0000000067939)" type="box">1</container>
-          <container id="25657bebad4450d8f65f2438ff9fcb03" parent="0c1282891a4aa63fe4bde3da42244389" type="folder">12</container>
-        </did>
-        <scopecontent id="f9a7139d49f3f2aa5c880b0a57607c6b">
-          <head>Scope and Contents note</head>
-          <p>Press release on creation of "Select Committee on the Future of Private and Independent Higher Education in New York State."</p>
-        </scopecontent>
-      </c>
-      <c id="15b1dff2f6544ac1be58c3867ca710f9" level="file">
-        <did>
-          <unittitle>Elementary and Secondary Education Act</unittitle>
-          <unitdate normal="1967/1967" type="inclusive">1967</unitdate>
-          <container id="79d5ec4cd425d20bd916cc38d59bee69" label="mixed materials (A0000000067939)" type="box">1</container>
-          <container id="8a9960a45f4d31fc2c2d57a4f4f19f69" parent="79d5ec4cd425d20bd916cc38d59bee69" type="folder">13</container>
-        </did>
-        <scopecontent id="8112ab93a668be011c9d36d27caeab48">
-          <head>Scope and Contents note</head>
-          <p>Correspondence and memoranda on debate and issues advanced by federal legislation; "Congressional Record" wherein Act was reported to Congress.</p>
-        </scopecontent>
-      </c>
-      <c id="d7f4f927459145f08d49ca86efc5f560" level="file">
-        <did>
-          <unittitle>Elementary and Secondary Education Act</unittitle>
-          <unitdate normal="1967/1967" type="inclusive">1967</unitdate>
-          <container id="507c602f84d32677aef7fc3a1c35494e" label="mixed materials (A0000000067939)" type="box">1</container>
-          <container id="8ceaf5135dc261e4c71f0f3f4cd3e13e" parent="507c602f84d32677aef7fc3a1c35494e" type="folder">14</container>
-        </did>
-        <scopecontent id="dba188cfffa734c8b193904242e253a2">
-          <head>Scope and Contents note</head>
-          <p>Correspondence and memoranda on debate and issues advanced by federal legislation; "Congressional Record" wherein Act was reported to Congress.</p>
-        </scopecontent>
-      </c>
-      <c id="85001c9fde694227b15682a1b8e86a3d" level="file">
-        <did>
-          <unittitle>Federal-State Relations</unittitle>
-          <unitdate normal="1967/1967" type="inclusive">1967</unitdate>
-          <container id="2d1fb2235cd7d8f813c7832b9f31d1e3" label="mixed materials (A0000000067939)" type="box">1</container>
-          <container id="ec1635f97675a466672736a838919081" parent="2d1fb2235cd7d8f813c7832b9f31d1e3" type="folder">15</container>
-        </did>
-        <scopecontent id="7dc448e85c70ddeb0e48ac4ea357089e">
-          <head>Scope and Contents note</head>
-          <p>Press release, NAR statements on issue.</p>
-        </scopecontent>
-      </c>
-      <c id="bb841a9b929a447193188f3aaf7f73ad" level="file">
-        <did>
-          <unittitle>Finance Committee, Daily Legislative Committee Reports</unittitle>
-          <unitdate normal="1967/1967" type="inclusive">1967</unitdate>
-          <container id="c6f7e6b85bfd398ee42173a39162264b" label="mixed materials (A0000000067939)" type="box">1</container>
-          <container id="748cf38d1d4253e813cc37ef5d060cf4" parent="c6f7e6b85bfd398ee42173a39162264b" type="folder">16</container>
-        </did>
-        <scopecontent id="da45818874a8d61d3a0d33d06c13fbe4">
-          <head>Scope and Contents note</head>
-          <p>Action memos from the New York State Finance Committee on pending legislation.</p>
-        </scopecontent>
-      </c>
-      <c id="55ec29edd73c41e991bc17e5e10f0858" level="file">
-        <did>
-          <unittitle>Goodell, Charles</unittitle>
-          <unitdate normal="1967/1967" type="inclusive">1967</unitdate>
-          <container id="3c771a16cb9467eedecfdebbd0131e6a" label="mixed materials (A0000000067939)" type="box">1</container>
-          <container id="8e089030ca038f2578482bee78c1186e" parent="3c771a16cb9467eedecfdebbd0131e6a" type="folder">17</container>
-        </did>
-        <scopecontent id="7bbaa63ab011fd3151c367b9be0d8658">
-          <head>Scope and Contents note</head>
-          <p>Correspondence with the New York Congressman.</p>
-        </scopecontent>
-      </c>
-      <c id="7418b92eb4634d7193bb6a65eb23d886" level="file">
-        <did>
-          <unittitle>Hanley, James</unittitle>
-          <unitdate normal="1967/1967" type="inclusive">1967</unitdate>
-          <container id="5dda335e5c543538d340b38408b86381" label="mixed materials (A0000000067939)" type="box">1</container>
-          <container id="645e096e9302023b4631f168855f9369" parent="5dda335e5c543538d340b38408b86381" type="folder">18</container>
-        </did>
-        <scopecontent id="5390db28663079ee6d00698ef72ccaa3">
-          <head>Scope and Contents note</head>
-          <p>Press release on awarding of Federal grant for park in Onondaga County.</p>
-        </scopecontent>
-      </c>
-      <c id="642d68b369a24cc08075fe837cbdd851" level="file">
-        <did>
-          <unittitle>Healthcare</unittitle>
-          <unitdate normal="1967/1967" type="inclusive">1967</unitdate>
-          <container id="2afe8d2ac1b2ee02643a7e768077fa2b" label="mixed materials (A0000000067939)" type="box">1</container>
-          <container id="d72e53307994bf85db83882d7d8edde0" parent="2afe8d2ac1b2ee02643a7e768077fa2b" type="folder">19</container>
-        </did>
-        <scopecontent id="2d7253c30ca3de80a2c943e441c3fa35">
-          <head>Scope and Contents note</head>
-          <p>Press releases, messages to the Legislature on healthcare issues in New York State.</p>
-        </scopecontent>
-      </c>
-      <c id="e26c62a0a4524b4c80482060905945da" level="file">
-        <did>
-          <unittitle>Housing Finance Law</unittitle>
-          <unitdate normal="1967/1967" type="inclusive">1967</unitdate>
-          <container id="e3cae4da39d2e07772d057f6e1d73be2" label="mixed materials (A0000000067939)" type="box">1</container>
-          <container id="d7bbeb5227bc724ff82a19bc07b7289a" parent="e3cae4da39d2e07772d057f6e1d73be2" type="folder">20</container>
-        </did>
-        <scopecontent id="4fa58bb5ca6429e133e64073c8590372">
-          <head>Scope and Contents note</head>
-          <p>Vote counts, final roll call vote for housing legislation.</p>
-        </scopecontent>
-      </c>
-      <c id="6d94bed8c7f845adac9716f53f33fc77" level="file">
-        <did>
-          <unittitle>Javits, Jacob</unittitle>
-          <unitdate normal="1967/1967" type="inclusive">1967</unitdate>
-          <container id="04c2aed3213ef6bde73f33b9319c26cb" label="mixed materials (A0000000067939)" type="box">1</container>
-          <container id="b1eda73102dd89b40e1a21530d105f85" parent="04c2aed3213ef6bde73f33b9319c26cb" type="folder">21</container>
-        </did>
-        <scopecontent id="6c636ce9501dcf4060677f12abf9b199">
-          <head>Scope and Contents note</head>
-          <p>Correspondence with the New York Senator.</p>
-        </scopecontent>
-      </c>
-      <c id="640a6f6717144a35be19fbc5ea4ed96b" level="file">
-        <did>
-          <unittitle>Kennedy, Robert</unittitle>
-          <unitdate normal="1967/1967" type="inclusive">1967</unitdate>
-          <container id="600eb6762556beead2918b732f6b2678" label="mixed materials (A0000000067939)" type="box">1</container>
-          <container id="f4cd07c8537cd2f0c51b132adb9c3b12" parent="600eb6762556beead2918b732f6b2678" type="folder">22</container>
-        </did>
-        <scopecontent id="bb5e61675ff46dfb389fdd7f21b5afc4">
-          <head>Scope and Contents note</head>
-          <p>"Washington Post" article on Senator Kennedy's staff.</p>
-        </scopecontent>
-      </c>
-      <c id="6444ff0889a849dc83da3f1a1841f0ba" level="file">
-        <did>
-          <unittitle>Kupferman, Theodore</unittitle>
-          <unitdate normal="1967/1967" type="inclusive">1967</unitdate>
-          <container id="a4eeb741edc2fea4d9acf3eb12e7b0ca" label="mixed materials (A0000000067939)" type="box">1</container>
-          <container id="8f54e9be47c5d8d3d58b4734c4954bae" parent="a4eeb741edc2fea4d9acf3eb12e7b0ca" type="folder">23</container>
-        </did>
-        <scopecontent id="31633849f3fe1abb7445504531282a84">
-          <head>Scope and Contents note</head>
-          <p>Correspondence with the New York Congressman.</p>
-        </scopecontent>
-      </c>
-      <c id="bb1a67afe38e47288abbf725fd6d274e" level="file">
-        <did>
-          <unittitle>Legislative Bills</unittitle>
-          <unitdate normal="1967/1967" type="inclusive">1967</unitdate>
-          <container id="58bdfd355133e204c021d8a339e210c2" label="mixed materials (A0000000067939)" type="box">1</container>
-          <container id="7951ed9c590c702ca3879f53a63af7bb" parent="58bdfd355133e204c021d8a339e210c2" type="folder">24</container>
-        </did>
-        <scopecontent id="97a67bbccb10e1247dca8a0f686f37e1">
-          <head>Scope and Contents note</head>
-          <p>Memoranda, correspondence, bills from New York State Legislature.</p>
-        </scopecontent>
-      </c>
-      <c id="b5a12be6c471408c8c5794dacf2edaa8" level="file">
-        <did>
-          <unittitle>Memos, General</unittitle>
-          <unitdate normal="1967/1967" type="inclusive">1967</unitdate>
-          <container id="26016e22f16b33ca98febe7b8b9fe87c" label="mixed materials (A0000000067939)" type="box">1</container>
-          <container id="62ca060fb6ee804de390b77b5cef4623" parent="26016e22f16b33ca98febe7b8b9fe87c" type="folder">25</container>
-        </did>
-        <scopecontent id="743cd66eca9c2746dec70391e4b24c82">
-          <head>Scope and Contents note</head>
-          <p>Memos on congressional delegation and federal issues.</p>
-        </scopecontent>
-      </c>
-      <c id="0e0968dae665475dbeccd09c5180c4b4" level="file">
-        <did>
-          <unittitle>Mitchell, Donna</unittitle>
-          <unitdate normal="1967/1967" type="inclusive">1967</unitdate>
-          <container id="434809319924c9951806e76ba0892b4c" label="mixed materials (A0000000067939)" type="box">1</container>
-          <container id="465f4c7bf65a881fc9360b5bb59caae3" parent="434809319924c9951806e76ba0892b4c" type="folder">26</container>
-        </did>
-        <scopecontent id="92853aee6848a39e51b748d00d5bbf7f">
-          <head>Scope and Contents note</head>
-          <p>Reports from Washington, D.C. office of the New York State government, located in the Department of Commerce, summarizing federal programs, and legislative issues.</p>
-        </scopecontent>
-      </c>
-      <c id="c71da7601957486baa81b7ab16733e2c" level="file">
-        <did>
-          <unittitle>Mitchell, Donna</unittitle>
-          <unitdate normal="1967/1967" type="inclusive">1967</unitdate>
-          <container id="a1ed714eab112110a7fa137a2b55a968" label="mixed materials (A0000000067939)" type="box">1</container>
-          <container id="6f9c7b264a524ff135723c63024378d5" parent="a1ed714eab112110a7fa137a2b55a968" type="folder">27</container>
-        </did>
-        <scopecontent id="defc9bbb62a6a5eab2583d9fdad1790b">
-          <head>Scope and Contents note</head>
-          <p>Reports from Washington, D.C. office of the New York State government, located in the Department of Commerce, summarizing federal programs, and legislative issues.</p>
-        </scopecontent>
-      </c>
-      <c id="549170681e56423ca4e305ace381358e" level="file">
-        <did>
-          <unittitle>Multer, Abraham</unittitle>
-          <unitdate normal="1967/1967" type="inclusive">1967</unitdate>
-          <container id="e6e853efef4977f3d83041468de89175" label="mixed materials (A0000000067939)" type="box">1</container>
-          <container id="c428b923f670a21fc319a8ab1f196e1f" parent="e6e853efef4977f3d83041468de89175" type="folder">28</container>
-        </did>
-        <scopecontent id="4c5e61327d54337b8b9b5ca98efb0fc2">
-          <head>Scope and Contents note</head>
-          <p>Correspondence with the New York Congressman on New York State Lottery, federal legislation.</p>
-        </scopecontent>
-      </c>
-      <c id="869faae9cd9346ec910eb61d4722ac3f" level="file">
-        <did>
-          <unittitle>Narcotics Program</unittitle>
-          <unitdate normal="1967/1967" type="inclusive">1967</unitdate>
-          <container id="1f084cbec96f49e3447f9e461eea7bb0" label="mixed materials (A0000000067939)" type="box">1</container>
-          <container id="7982a34c51f1bf79d3691e2c0d90c0b4" parent="1f084cbec96f49e3447f9e461eea7bb0" type="folder">29</container>
-        </did>
-        <scopecontent id="ee9228ec8339e8118c1534335980cf00">
-          <head>Scope and Contents note</head>
-          <p>Press releases, clippings on narcotics issues in New York State, use of Fort Totten (Brooklyn) as a narcotics treatment center.</p>
-        </scopecontent>
-      </c>
-      <c id="ba38d8c490594251be6d409e6b97631c" level="file">
-        <did>
-          <unittitle>NAR Letter to Congress</unittitle>
-          <unitdate normal="1967/1967" type="inclusive">1967</unitdate>
-          <container id="4c7b5c48f3faa507774ef042a8061ff2" label="mixed materials (A0000000067939)" type="box">1</container>
-          <container id="32c50c56c02e7f4879e5c725841f8cc0" parent="4c7b5c48f3faa507774ef042a8061ff2" type="folder">30</container>
-        </did>
-        <scopecontent id="7b1df8f42a4cea05589bc687fc0e7946">
-          <head>Scope and Contents note</head>
-          <p>Copies of letters to congressional delegation announcing Boyd's appointment.</p>
-        </scopecontent>
-      </c>
-      <c id="3dd521430ca64213a0f56b5374f90308" level="file">
-        <did>
-          <unittitle>New York State Congressional Visits</unittitle>
-          <unitdate normal="1967/1967" type="inclusive">1967</unitdate>
-          <container id="07177c9ed6b9188c2270e9a296fab7cc" label="mixed materials (A0000000067939)" type="box">1</container>
-          <container id="9e2860e6f68200adbff8ecce0110fced" parent="07177c9ed6b9188c2270e9a296fab7cc" type="folder">31</container>
-        </did>
-        <scopecontent id="af78944c7e787682b96c621001a12cd8">
-          <head>Scope and Contents note</head>
-          <p>Notes on meetings with delegation.</p>
-        </scopecontent>
-      </c>
-      <c id="45b89f28f7b343e99ce4d78f5063d3d3" level="file">
-        <did>
-          <unittitle>New York State Programs</unittitle>
-          <unitdate normal="1967/1967" type="inclusive">1967</unitdate>
-          <container id="8f8a2e865a968fecc610acf6e983c9e0" label="mixed materials (A0000000067939)" type="box">1</container>
-          <container id="0b4367420609ac4acb1f66fc6e82d10c" parent="8f8a2e865a968fecc610acf6e983c9e0" type="folder">32</container>
-        </did>
-        <scopecontent id="7da43486a1286342a0df93a956ff31d7">
-          <head>Scope and Contents note</head>
-          <p>Press releases on various New York State issues.</p>
-        </scopecontent>
-      </c>
-      <c id="b43970eee8a3459a9517ac3622490c83" level="file">
-        <did>
-          <unittitle>Office of Regional Development</unittitle>
-          <unitdate normal="1963/1965" type="inclusive">1963-1965</unitdate>
-          <container id="eaa2f2d5cf4e6ed26d5c157cefeae30d" label="mixed materials (A0000000067939)" type="box">1</container>
-          <container id="d58a706c26689ce70530e18212cb5721" parent="eaa2f2d5cf4e6ed26d5c157cefeae30d" type="folder">33</container>
-        </did>
-        <scopecontent id="e35fcd84a3334e93bb748c175dd03c4f">
-          <head>Scope and Contents note</head>
-          <p>Memoranda and correspondence with Harold Jerry, Director of the Office of Regional Development (ORD) on organization function; press releases, reports on ORD projects.</p>
-        </scopecontent>
-      </c>
-      <c id="b866e94f5066405c883b6c917e4dadd7" level="file">
-        <did>
-          <unittitle>Phone Calls</unittitle>
-          <unitdate normal="1967/1967" type="inclusive">1967</unitdate>
-          <container id="3c4cfb94358bd3422e85c9e66a927904" label="mixed materials (A0000000067939)" type="box">1</container>
-          <container id="71b6330051efb8b3f503c0e0753a6b0e" parent="3c4cfb94358bd3422e85c9e66a927904" type="folder">34</container>
-        </did>
-        <scopecontent id="b37dd8010e01e9355aa51456aa4b585c">
-          <head>Scope and Contents note</head>
-          <p>Record of calls made to members of the New York State Legislature.</p>
-        </scopecontent>
-      </c>
-      <c id="c60c83268ee947748e082f149d2195b7" level="file">
-        <did>
-          <unittitle>Policy Council (NAR)</unittitle>
-          <unitdate normal="1963/1963" type="inclusive">1963</unitdate>
-          <container id="629669b0a1b95c37c433519691c78a3b" label="mixed materials (A0000000067939)" type="box">1</container>
-          <container id="3fceae80f47d3071a36554b403d2da3b" parent="629669b0a1b95c37c433519691c78a3b" type="folder">35</container>
-        </did>
-        <scopecontent id="7b0100bfb4536c367b15c0220aca7945">
-          <head>Scope and Contents note</head>
-          <p>Agendas, follow-up items for meetings.</p>
-        </scopecontent>
-      </c>
-      <c id="54cfdabc3e4849bb9f0cb67aad9d3bfc" level="file">
-        <did>
-          <unittitle>Reid, Ogden</unittitle>
-          <unitdate normal="1967/1967" type="inclusive">1967</unitdate>
-          <container id="761ad25b1b337962b7fbff053d57e59f" label="mixed materials (A0000000067939)" type="box">1</container>
-          <container id="fbc389a9413d4a42fb8e76a5daccc9a4" parent="761ad25b1b337962b7fbff053d57e59f" type="folder">36</container>
-        </did>
-        <scopecontent id="cc6c699b50c49fe9e5759195db265c34">
-          <head>Scope and Contents note</head>
-          <p>Correspondence with the New York Congressman.</p>
-        </scopecontent>
-      </c>
-      <c id="eada560d3d3f47dd813adbbba6019151" level="file">
-        <did>
-          <unittitle>Rosenthan, Benjamin</unittitle>
-          <unitdate normal="1967/1967" type="inclusive">1967</unitdate>
-          <container id="37932f863e04e293d9495c2aadc626cf" label="mixed materials (A0000000067939)" type="box">1</container>
-          <container id="a1069c1a07b5932c50e7cf7912de8c70" parent="37932f863e04e293d9495c2aadc626cf" type="folder">37</container>
-        </did>
-        <scopecontent id="f71f1af480089b11a9fe3276a26f92a9">
-          <head>Scope and Contents note</head>
-          <p>Phone message from New York Congressman, seeks appointment with NAR to discuss Fort Totten issue.</p>
-        </scopecontent>
-      </c>
-      <c id="db7662f220b6473a8505dcf9debfb1b9" level="file">
-        <did>
-          <unittitle>Ruge, Daniel</unittitle>
-          <unitdate normal="1967/1967" type="inclusive">1967</unitdate>
-          <container id="54b8dad4fcaff3836a1c38701b0ebdf9" label="mixed materials (A0000000067939)" type="box">1</container>
-          <container id="321c98a74d33fd0fa0bd1712ad8bd4fa" parent="54b8dad4fcaff3836a1c38701b0ebdf9" type="folder">38</container>
-        </did>
-        <scopecontent id="c0bec76333fccf96802190da9abea57a">
-          <head>Scope and Contents note</head>
-          <p>Correspondence with Ruge, Director of the Washington, D.C., Office of New York State government.</p>
-        </scopecontent>
-      </c>
-      <c id="dd1c758a0e89441cb3bf6e9e9e78dbc2" level="file">
-        <did>
-          <unittitle>Smith, Henry</unittitle>
-          <unitdate normal="1967/1967" type="inclusive">1967</unitdate>
-          <container id="a3a32f80c8e2b3fd01fb153d0ff48d06" label="mixed materials (A0000000067939)" type="box">1</container>
-          <container id="65f805235406ae68aa6a75bf4f8004fc" parent="a3a32f80c8e2b3fd01fb153d0ff48d06" type="folder">39</container>
-        </did>
-        <scopecontent id="b54061b9809cd04400c80e0312ba6db2">
-          <head>Scope and Contents note</head>
-          <p>Correspondence with the New York Congressman on crime control legislation.</p>
-        </scopecontent>
-      </c>
-      <c id="3a87aec815cc4f8280bcc09bc10ddec6" level="file">
-        <did>
-          <unittitle>Staff Meetings</unittitle>
-          <unitdate normal="1964/1966" type="inclusive">1964-1966</unitdate>
-          <container id="a8c0488c2c8d3d029e12032039f6687f" label="mixed materials (A0000000067939)" type="box">1</container>
-          <container id="52b8f451f724f912ed67715342b9a45b" parent="a8c0488c2c8d3d029e12032039f6687f" type="folder">40</container>
-        </did>
-        <scopecontent id="f23b72c90222a19aae8e6b258d1595dc">
-          <head>Scope and Contents note</head>
-          <p>Agendas, summaries of follow-up items, and meeting minutes for NAR staff meetings.</p>
-        </scopecontent>
-      </c>
-      <c id="db41f6a3e6ce4e1a9e209c6624699b22" level="file">
-        <did>
-          <unittitle>Staff Meetings</unittitle>
-          <unitdate normal="1965/1965" type="inclusive">1965</unitdate>
-          <container id="d64220bf449a4d2b06fce59a69e5a88c" label="mixed materials (A0000000067939)" type="box">1</container>
-          <container id="1bed87a544d0d19cc25c45c96cee455d" parent="d64220bf449a4d2b06fce59a69e5a88c" type="folder">41</container>
-        </did>
-        <scopecontent id="491eeaeab187a58e3e5c336c17e428ff">
-          <head>Scope and Contents note</head>
-          <p>Agendas, summaries, and meeting minutes for NAR staff meetings.</p>
-        </scopecontent>
-      </c>
-      <c id="5d624ca67bae46f791fd155edc8b4c71" level="file">
-        <did>
-          <unittitle>Teller, Edward</unittitle>
-          <unitdate normal="1963/1963" type="inclusive">1963</unitdate>
-          <container id="9e2bf5f410ce0486f7e6072082d0f652" label="mixed materials (A0000000067939)" type="box">1</container>
-          <container id="ca2462e16c18f654629714887e36a0ae" parent="9e2bf5f410ce0486f7e6072082d0f652" type="folder">42</container>
-        </did>
-        <scopecontent id="51761e7279373fc870acb816139ff1d4">
-          <head>Scope and Contents note</head>
-          <p>Memos to NAR from Teller on defense, foreign policy, nuclear issues.</p>
-        </scopecontent>
-      </c>
-      <c id="aaf575b9bf1543e899c7a62867ac6f22" level="file">
-        <did>
-          <unittitle>Test Ban Treaty</unittitle>
-          <unitdate normal="1963/1963" type="inclusive">1963</unitdate>
-          <container id="921d94ffcebf405c97aeaf04ab191ed3" label="mixed materials (A0000000067939)" type="box">1</container>
-          <container id="b4b4bf5db08f74d33f232925b65fb0d1" parent="921d94ffcebf405c97aeaf04ab191ed3" type="folder">43</container>
-        </did>
-        <scopecontent id="bcee4989f4e5d2bea27f5de23f383236">
-          <head>Scope and Contents note</head>
-          <p>Correspondence from Henry Kissinger, encloses letter from Edward Teller; status of Treaty in United States Senate, report of committee; Teller correspondence; report on history of treaty; NAR statement, notes, cards for speech on treaty.</p>
-        </scopecontent>
-      </c>
-      <c id="3e8cb711d4274f3c8020606670c784ed" level="file">
-        <did>
-          <unittitle>Vacancies</unittitle>
-          <unitdate normal="1966/1967" type="inclusive">1966-1967</unitdate>
-          <container id="5789397f05e739382037e80a75b0ec4a" label="mixed materials (A0000000067939)" type="box">1</container>
-          <container id="48e1b46d86b7ba521241b17de23524eb" parent="5789397f05e739382037e80a75b0ec4a" type="folder">44</container>
-        </did>
-        <scopecontent id="3257e1499266a20ed5fa88fa73988aa4">
-          <head>Scope and Contents note</head>
-          <p>Memoranda and correspondence on openings in New York State government and recommendations on nominees.</p>
-        </scopecontent>
-      </c>
-      <c id="a236e6d674b7417589ce937d03a52744" level="file">
-        <did>
-          <unittitle>Wydler, John W.</unittitle>
-          <unitdate normal="1967/1967" type="inclusive">1967</unitdate>
-          <container id="49f903b34658b637abb23fecc784bbb0" label="mixed materials (A0000000067939)" type="box">1</container>
-          <container id="d408de2d0a29a7afbb191a273e714a8e" parent="49f903b34658b637abb23fecc784bbb0" type="folder">45</container>
-        </did>
-        <scopecontent id="e6b20664962717bbf019a9ef335bde66">
-          <head>Scope and Contents note</head>
-          <p>Correspondence with New York Congressman, meeting with NAR.</p>
-        </scopecontent>
-      </c>
-    </dsc>
-  </archdesc>
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="under_revision" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid>FA355.xml</eadid><filedesc><titlestmt><titleproper type="filing">Rockefeller (Nelson A.) Gubernatorial records, Joseph H. Boyd, Series 4</titleproper><titleproper>A Guide to the Nelson A. Rockefeller Gubernatorial records, Joseph H. Boyd, Series 4
+ <num>FA355</num></titleproper></titlestmt><publicationstmt><publisher>Rockefeller Archive Center</publisher><p><date>2001</date></p><address><addressline>15 Dayton Avenue</addressline><addressline>Sleepy Hollow 10591</addressline><addressline>archive@rockarch.org</addressline><addressline>URL: <extptr xlink:href="http://www.rockarch.org" xlink:show="new" xlink:title="http://www.rockarch.org" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2019-04-06 00:52:02 -0400</date>.</creation></profiledesc><revisiondesc><date>30 June 2010</date><item>Migrated from Re:discovery to the Archivists' Toolkit by Becky Robbins.</item></revisiondesc></eadheader><archdesc level="series">
+  <did>
+    <langmaterial>
+      <language langcode="eng">English</language>
+    </langmaterial>
+    <repository>
+      <corpname>Rockefeller Archive Center</corpname>
+    </repository>
+    <unittitle>Nelson A. Rockefeller gubernatorial records, Joseph H. Boyd, Series 4</unittitle>
+    <origination label="creator">
+      <persname role="ctb" source="naf">Rockefeller, Nelson A. (Nelson Aldrich)</persname>
+    </origination>
+    <origination label="creator">
+      <corpname role="aut" source="naf">New York (State). Governor (1959-1973 : Rockefeller)</corpname>
+    </origination>
+    <origination label="creator">
+      <persname role="aut" source="naf">Boyd, Joseph H.</persname>
+    </origination>
+    <unitid>FA355</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">1 record cartons</extent>
+    </physdesc>
+    <unitdate normal="1963/1967" type="inclusive">1963-1967</unitdate>
+  </did>
+  <bioghist id="5288beb63bb983d04d9f8883e3fbc07b">
+    <head>Biographical/Historical note</head>
+<p>Nelson A. Rockefeller served as governor of New York from January 1, 1959, to December 18, 1973. He was the first person elected to four consecutive four-year terms as a state governor.</p>  </bioghist>
+  <prefercite id="b392165fb437c711a874055025cfb4c3">
+    <head>Preferred Citation note</head>
+<p>Information regarding the Rockefeller Archive Center's preferred elements and forms of citation can be found at <extref href="http://www.rockarch.org/research/citations.php">http://www.rockarch.org/research/citations.php</extref></p>  </prefercite>
+  <fileplan id="6d99f027d2635c244fed7a8212e040a6">
+    <head>File Plan note</head>
+<p>Former Classification: III 15 4</p>  </fileplan>
+  <userestrict id="88fd12e6cce52a4f67c82a78037c9141">
+    <head>Conditions Governing Use note</head>
+<p>RAC users must abide by all applicable provisions of U.S. copyright law. Reproduction/duplication of archival items is routinely provided in accordance with "fair use." If the RAC does not hold copyright for an archival collection or items within a collection, it is the user's responsibility to contact the copyright holder, or make a fair effort to do so, prior to publication.</p>  </userestrict>
+  <accessrestrict id="f510c74787f62eabc3579e5af07cc661">
+    <head>Conditions Governing Access note</head>
+<p>Open for research with select materials restricted as noted. Brittle or damaged items are available at the discretion of RAC. Researchers interested in accessing digital media (floppy disks, CDs, DVDs, etc.) or audiovisual material (audio cassettes, VHS, etc.) in this collection must use an access surrogate. The original items may not be accessed because of preservation concerns. To request an access surrogate be made, or if you are unsure if there is an access surrogate, please contact an archivist.</p>  </accessrestrict>
+  <processinfo id="a97df90ba13dd3702356e8abc6842e98">
+    <head>Processing Information note</head>
+<p>Processing Level 3: Standard Processing.</p>  </processinfo>
+  <otherfindaid id="a0df06a3df75002a1605ee6af8aaf4b9">
+    <head>Other Finding Aids note</head>
+<p>Detailed finding aids for each series of this collection are available:</p><p><extref href="../FA353/overview">Nelson A. Rockefeller Gubernatorial Records, Appointments Office (FA353)</extref></p><p><extref href="../FA354/overview">Nelson A. Rockefeller Gubernatorial Records, Assembly and Senate Memos (FA354)</extref></p><p><extref href="../FA356/overview">Nelson A. Rockefeller Gubernatorial Records, James Cannon (FA356)</extref></p><p><extref href="../FA357/overview">Nelson A. Rockefeller Gubernatorial Records, Affirmative Action (N. Lee Cook) (FA357)</extref></p><p><extref href="../FA358/overview">Nelson A. Rockefeller Gubernatorial Records, Counsel's Office (FA358)</extref></p><p><extref href="../FA359/overview">Nelson A. Rockefeller Gubernatorial Records, New York State Committee to Reelect the President (FA359)</extref></p><p><extref href="../FA360/overview">Nelson A. Rockefeller Gubernatorial Records, Jerry A. Danzig (FA360)</extref></p><p><extref href="../FA361/overview">Nelson A. Rockefeller Gubernatorial Records, Executive Chamber (FA361)</extref></p><p><extref href="../FA362/overview">Nelson A. Rockefeller Gubernatorial Records, 55th Street (FA362)</extref></p><p><extref href="../FA363/overview">Nelson A. Rockefeller Gubernatorial Records, Issue Books (FA363)</extref></p><p><extref href="../FA364/overview">Nelson A. Rockefeller Gubernatorial Records, Arthur Massolo (FA364)</extref></p><p><extref href="../FA242/overview">Nelson A. Rockefeller Gubernatorial Records, Hugh Morrow (FA242)</extref></p><p><extref href="../FA365/overview">Nelson A. Rockefeller Gubernatorial Records, New York Office (FA365)</extref></p><p><extref href="../FA366/overview">Nelson A. Rockefeller Gubernatorial Records, Civil Service Resolutions (Charles H. Palmer) (FA366)</extref></p><p><extref href="../FA367/overview">Nelson A. Rockefeller Gubernatorial Records, Political Files (FA367)</extref></p><p><extref href="../FA368/overview">Nelson A. Rockefeller Gubernatorial Records, Press Office (FA368)</extref></p><p><extref href="../FA369/overview">Nelson A. Rockefeller Gubernatorial Records, Public Relations (FA369)</extref></p><p><extref href="../FA370/overview">Nelson A. Rockefeller Gubernatorial Records, Departmental Reports (FA370)</extref></p><p><extref href="../FA371/overview">Nelson A. Rockefeller Gubernatorial Records, William J. Ronan (FA371)</extref></p><p><extref href="../FA372/overview">Nelson A. Rockefeller Gubernatorial Records, Speeches (FA372)</extref></p><p><extref href="../FA373/overview">Nelson A. Rockefeller Gubernatorial Records, Diane Van Wie (FA373)</extref></p><p><extref href="../FA374/overview">Nelson A. Rockefeller Gubernatorial Records, Ann C. Whitman, Gubernatorial (FA374)</extref></p><p><extref href="../FA375/overview">Nelson A. Rockefeller Gubernatorial Records, Gene Wyckoff (FA375)</extref></p><p><extref href="../FA376/overview">Nelson A. Rockefeller Gubernatorial Records, New York Republican State Fund Raising Reports (FA376)</extref></p>  </otherfindaid>
+  <scopecontent id="cd367ad7b00044f289b9670daa2fec97">
+    <head>Scope and Contents note</head>
+<p>NOTE TO RESEARCHERS</p><p>This series contains the office files of Joseph H. Boyd. They document official activities in the execution of his duties as a member of Nelson A. Rockefeller's staff. The actions, decisions, and exchanges of information or points of view documented here occurred in the course of proposing and implementing policies for the Rockefeller administration, political campaigns, and/or Rockefeller's personal activities. However, unless a document is specifically addressed to or from Rockefeller, or is referred to in a document addressed to him, it should not be assumed he saw the document or was aware of its existence or substance. Furthermore, researchers should bear in mind that staff files may contain documents or drafts addressed to Rockefeller that were never shown to him.</p><p>SCOPE AND CONTENT</p><p>This series contains a portion of the files of Joseph H. Boyd. These files primarily document Boyd's tenure as Congressional liaison officer for Governor Rockefeller. During 1967, Boyd maintained an office in Washington, DC, and held regular meetings with members of the New York State Congressional delegation. Almost all of the files pertain to that year, when he routinely spoke with members by telephone and represented the Governor in Washington. Boyd also served as Rockefeller's liaison to the New York State Legislature during this time. Boyd was a member of Governor Rockefeller's staff before as well as after serving in this role. The other files in this series cover his prior service as a Special Assistant to the Governor. Of note are memoranda and correspondence from Henry Kissinger and Edward Teller on such topics as foreign policy, defense spending, and the nuclear test ban treaty before the U.S. Senate Foreign Relations Committee in 1963 (Folders 42 and 43).</p>  </scopecontent>
+  <processinfo id="93e5e6b53bb64b5513251216f236c127">
+    <head>Processing Information note</head>
+<p>John LeGloahec October 2001</p>  </processinfo>
+  <controlaccess>
+    <subject source="lcsh">International economic relations</subject>
+    <subject source="lcsh">International relations</subject>
+    <subject source="lcsh">Governors -- Election -- New York (State) -- 1970</subject>
+    <subject source="lcsh">Human rights</subject>
+    <subject source="lcsh">Arms control</subject>
+    <subject source="lcsh">Affirmative action programs -- New York (State)</subject>
+    <subject source="lcsh">Civil defense</subject>
+    <subject source="lcsh">Arms control -- United States</subject>
+    <subject source="lcsh">Political science</subject>
+    <subject source="lcsh">Presidential campaigns -- United States</subject>
+    <geogname source="lcsh">New York (State)</geogname>
+    <subject source="lcsh">Political campaigns -- United States</subject>
+    <subject source="lcsh">Legislation -- New York (State)</subject>
+    <geogname source="lcsh">New York (N.Y.)</geogname>
+    <subject source="lcsh">International relations -- United States</subject>
+    <geogname source="lcsh">Latin America</geogname>
+    <subject source="lcsh">Governors -- Election -- New York (State) -- 1966</subject>
+    <subject source="lcsh">Presidential candidates -- United States -- History -- 20th century</subject>
+    <subject source="lcsh">Public policy</subject>
+    <subject source="lcsh">Public relations</subject>
+    <subject source="lcsh">State governments -- United States</subject>
+    <geogname source="lcsh">United States</geogname>
+    <subject source="lcsh">Vice-Presidents -- United States</subject>
+    <subject source="lcsh">Civil defense -- United States</subject>
+    <subject source="lcsh">Civil service</subject>
+    <subject source="lcsh">Civil service -- New York (State)</subject>
+    <subject source="lcsh">Economics</subject>
+    <subject source="lcsh">Federal government -- United States</subject>
+    <subject source="lcsh">Government policy</subject>
+    <subject source="lcsh">Governors -- Election -- New York (State) -- 1958</subject>
+    <subject source="lcsh">Governors -- Election -- New York (State) -- 1962</subject>
+  </controlaccess>
+  <dsc><c id="9a00b3d91ab54087b5dfb45713667b37" level="file"><did><unittitle>Air Pollution</unittitle><unitdate normal="1967/1967" type="inclusive">1967</unitdate><container altrender="Record Storage Box (Paige)" id="7929185b52096eaf2a30e67eba2307a6" label="mixed materials [A0000000067939]" type="box">1</container><container id="efad6d168de5f4da01e4db0bf5c94bf2" parent="7929185b52096eaf2a30e67eba2307a6" type="folder">1</container></did><scopecontent id="ba9a93d37d4c74525b845d655adb3558"><head>Scope and Contents note</head><p>Press release announcing legislation to combat air pollution in the metropolitan New York State region.</p></scopecontent></c><c id="41fe9c08206245b49e46ad7d4369d289" level="file"><did><unittitle>Appalachian Program</unittitle><unitdate normal="1967/1967" type="inclusive">1967</unitdate><container altrender="Record Storage Box (Paige)" id="b8654b3090b7f9552e002159d9d22a45" label="mixed materials [A0000000067939]" type="box">1</container><container id="826edd33da541f4ad33818967329700a" parent="b8654b3090b7f9552e002159d9d22a45" type="folder">2</container></did><scopecontent id="0671254a8dfcd0e72dfbfc41f2d47d6a"><head>Scope and Contents note</head><p>Press release on implementation of Appalachian Program benefiting New York State counties; maps and charts of region.</p></scopecontent></c><c id="94c3cb73b60e47e1b30f0b6e7dc10258" level="file"><did><unittitle>Bingham, Jonathan</unittitle><unitdate normal="1967/1967" type="inclusive">1967</unitdate><container altrender="Record Storage Box (Paige)" id="1225faf097e710d902973592fc89ed70" label="mixed materials [A0000000067939]" type="box">1</container><container id="66873427fd0e4b16c5c795fd06e37ad7" parent="1225faf097e710d902973592fc89ed70" type="folder">3</container></did><scopecontent id="959bf2179751f8effd7e18abe64dcd2a"><head>Scope and Contents note</head><p>Correspondence with the New York Congressman regarding a meeting of New York State Congressional delegation.</p></scopecontent></c><c id="4cc9971ef42341d2b0a280d5e646282e" level="file"><did><unittitle>Bohemian Grove</unittitle><unitdate normal="1963/1963" type="inclusive">1963</unitdate><container altrender="Record Storage Box (Paige)" id="7b463a302f23ea32b33e2d795dc6572e" label="mixed materials [A0000000067939]" type="box">1</container><container id="ddca53272a0279b9f52ed4f239d12bb0" parent="7b463a302f23ea32b33e2d795dc6572e" type="folder">4</container></did><scopecontent id="665ed3cf44ce605ee96cee27684e05ae"><head>Scope and Contents note</head><p>NAR notes (typed) of remarks made by Rockefeller in San Francisco, California.</p></scopecontent></c><c id="8a655643b6bf433484695b8cbf0e56f5" level="file"><did><unittitle>Button, Daniel</unittitle><unitdate normal="1967/1967" type="inclusive">1967</unitdate><container altrender="Record Storage Box (Paige)" id="45babc99dc7208304e51b81b20346497" label="mixed materials [A0000000067939]" type="box">1</container><container id="1b5e4a51e7fa2c0d5bf4025ca4afd913" parent="45babc99dc7208304e51b81b20346497" type="folder">5</container></did><scopecontent id="9a59ee1144f87b66e902741d9e15d88b"><head>Scope and Contents note</head><p>Correspondence with the New York Congressman.</p></scopecontent></c><c id="594fc7df31d8468a9d3d506623fb1931" level="file"><did><unittitle>Celler, Emanuel</unittitle><unitdate normal="1967/1967" type="inclusive">1967</unitdate><container altrender="Record Storage Box (Paige)" id="b6a064e5243b2bd6184f8d2b0ff79366" label="mixed materials [A0000000067939]" type="box">1</container><container id="fc5b40f079ba6f5fca2dac4038c9ab45" parent="b6a064e5243b2bd6184f8d2b0ff79366" type="folder">6</container></did><scopecontent id="8ec55b75d86d6ead536fd122f6c1cab9"><head>Scope and Contents note</head><p>Correspondence with the New York Congressman regarding Health, Education and Welfare (HEW) funding.</p></scopecontent></c><c id="ae09d2ae1622429cb3d0f245742bb02c" level="file"><did><unittitle>Conable, B.</unittitle><unitdate normal="1967/1967" type="inclusive">1967</unitdate><container altrender="Record Storage Box (Paige)" id="192f508ca2f70833ded9eab5b6d1b84b" label="mixed materials [A0000000067939]" type="box">1</container><container id="66f87110df1d9fe1d9bfe54f2f0ffb58" parent="192f508ca2f70833ded9eab5b6d1b84b" type="folder">7</container></did><scopecontent id="81645a732fc26e9ef9a2334ecb43c9ba"><head>Scope and Contents note</head><p>Correspondence with the New York Congressman on uban issues.</p></scopecontent></c><c id="517490dc0a914ab0ba2b064039884083" level="file"><did><unittitle>Congress</unittitle><unitdate normal="1967/1967" type="inclusive">1967</unitdate><container altrender="Record Storage Box (Paige)" id="51d8cd4c8ee23c83b480d89b083d8f0a" label="mixed materials [A0000000067939]" type="box">1</container><container id="5f233ac55ab33b386a60e25ddfd107d1" parent="51d8cd4c8ee23c83b480d89b083d8f0a" type="folder">8</container></did><scopecontent id="8521fd5ef5c439ccc3814feb214814e3"><head>Scope and Contents note</head><p>Press releases, correspondence and memoranda on various issues before Congress.</p></scopecontent></c><c id="a0ba908c954747598ff79be3b9f6413d" level="file"><did><unittitle>Congressional Liaison Office</unittitle><unitdate normal="1967/1967" type="inclusive">1967</unitdate><container altrender="Record Storage Box (Paige)" id="c639f1772040e5f5a56a4f275f73acdc" label="mixed materials [A0000000067939]" type="box">1</container><container id="32c35bf795edb7a5359f2f173bcedab9" parent="c639f1772040e5f5a56a4f275f73acdc" type="folder">9</container></did><scopecontent id="59cbdbee61a272c2e5738a7d4ac9ee3c"><head>Scope and Contents note</head><p>Memoranda detailing new role and responsibilities for Boyd; correspondence with New York State Congressional delegation on new office and introducing Boyd in his new role.</p></scopecontent></c><c id="92d92d6d7e86489fb608719f40b5f5f9" level="file"><did><unittitle>Constitutional Convention</unittitle><unitdate normal="1965/1965" type="inclusive">1965</unitdate><container altrender="Record Storage Box (Paige)" id="0baf8ffb2bce5cae3489c4430bc365a8" label="mixed materials [A0000000067939]" type="box">1</container><container id="64c130e22ed2371c02b373a8c9279933" parent="0baf8ffb2bce5cae3489c4430bc365a8" type="folder">10</container></did><scopecontent id="63396af17008cda7a9f4f6bfc622fde7"><head>Scope and Contents note</head><p>Memoranda on creation of the "Constitutional Convention Preparation Commission"; suggestions for nominees to commission.</p></scopecontent></c><c id="320d24bc144c472687578d3d2d3642b2" level="file"><did><unittitle>Daily Sheets</unittitle><unitdate normal="1967/1967" type="inclusive">1967</unitdate><container altrender="Record Storage Box (Paige)" id="c1b5d22f981f6c3bba72243296c404fa" label="mixed materials [A0000000067939]" type="box">1</container><container id="71483af2b300c17abd4aa4a0b7c4c2b2" parent="c1b5d22f981f6c3bba72243296c404fa" type="folder">11</container></did><scopecontent id="aab699e5127b7916fcde27e95f415756"><head>Scope and Contents note</head><p>To do lists for office staff and daily job responsibilities; notes on telephone conversations.</p></scopecontent></c><c id="a5093f1b8a8e4c768157bfd82eae6252" level="file"><did><unittitle>Education</unittitle><unitdate normal="1967/1967" type="inclusive">1967</unitdate><container altrender="Record Storage Box (Paige)" id="1ea8ed19bf2dcd51dc6a43cbfee925b3" label="mixed materials [A0000000067939]" type="box">1</container><container id="e3f4f0dad8af249c795e2af3ced334af" parent="1ea8ed19bf2dcd51dc6a43cbfee925b3" type="folder">12</container></did><scopecontent id="f9a7139d49f3f2aa5c880b0a57607c6b"><head>Scope and Contents note</head><p>Press release on creation of "Select Committee on the Future of Private and Independent Higher Education in New York State."</p></scopecontent></c><c id="15b1dff2f6544ac1be58c3867ca710f9" level="file"><did><unittitle>Elementary and Secondary Education Act</unittitle><unitdate normal="1967/1967" type="inclusive">1967</unitdate><container altrender="Record Storage Box (Paige)" id="67328c4718b03d652a911949e551bd86" label="mixed materials [A0000000067939]" type="box">1</container><container id="cdfafcdcb814f462c94027199c73c8b2" parent="67328c4718b03d652a911949e551bd86" type="folder">13</container></did><scopecontent id="8112ab93a668be011c9d36d27caeab48"><head>Scope and Contents note</head><p>Correspondence and memoranda on debate and issues advanced by federal legislation; "Congressional Record" wherein Act was reported to Congress.</p></scopecontent></c><c id="d7f4f927459145f08d49ca86efc5f560" level="file"><did><unittitle>Elementary and Secondary Education Act</unittitle><unitdate normal="1967/1967" type="inclusive">1967</unitdate><container altrender="Record Storage Box (Paige)" id="0cd85dc4ffa3b60a788b8cbd8262d40d" label="mixed materials [A0000000067939]" type="box">1</container><container id="8cb3de0c9b432a3ed3bb54eac906524a" parent="0cd85dc4ffa3b60a788b8cbd8262d40d" type="folder">14</container></did><scopecontent id="dba188cfffa734c8b193904242e253a2"><head>Scope and Contents note</head><p>Correspondence and memoranda on debate and issues advanced by federal legislation; "Congressional Record" wherein Act was reported to Congress.</p></scopecontent></c><c id="85001c9fde694227b15682a1b8e86a3d" level="file"><did><unittitle>Federal-State Relations</unittitle><unitdate normal="1967/1967" type="inclusive">1967</unitdate><container altrender="Record Storage Box (Paige)" id="7e8b34245ad049cbc9830cd60d100502" label="mixed materials [A0000000067939]" type="box">1</container><container id="cbe6c96fbfa82c8007c41d3e549f6b57" parent="7e8b34245ad049cbc9830cd60d100502" type="folder">15</container></did><scopecontent id="7dc448e85c70ddeb0e48ac4ea357089e"><head>Scope and Contents note</head><p>Press release, NAR statements on issue.</p></scopecontent></c><c id="bb841a9b929a447193188f3aaf7f73ad" level="file"><did><unittitle>Finance Committee, Daily Legislative Committee Reports</unittitle><unitdate normal="1967/1967" type="inclusive">1967</unitdate><container altrender="Record Storage Box (Paige)" id="02bba7f51b8e1624fd1e32300979936e" label="mixed materials [A0000000067939]" type="box">1</container><container id="2ce8e9801bef406f8482d44086a21bf4" parent="02bba7f51b8e1624fd1e32300979936e" type="folder">16</container></did><scopecontent id="da45818874a8d61d3a0d33d06c13fbe4"><head>Scope and Contents note</head><p>Action memos from the New York State Finance Committee on pending legislation.</p></scopecontent></c><c id="55ec29edd73c41e991bc17e5e10f0858" level="file"><did><unittitle>Goodell, Charles</unittitle><unitdate normal="1967/1967" type="inclusive">1967</unitdate><container altrender="Record Storage Box (Paige)" id="c6d23a2cd645ffc847b1afc31b8909aa" label="mixed materials [A0000000067939]" type="box">1</container><container id="562b1fa21ac2ef9d0b59b4a339261c5b" parent="c6d23a2cd645ffc847b1afc31b8909aa" type="folder">17</container></did><scopecontent id="7bbaa63ab011fd3151c367b9be0d8658"><head>Scope and Contents note</head><p>Correspondence with the New York Congressman.</p></scopecontent></c><c id="7418b92eb4634d7193bb6a65eb23d886" level="file"><did><unittitle>Hanley, James</unittitle><unitdate normal="1967/1967" type="inclusive">1967</unitdate><container altrender="Record Storage Box (Paige)" id="5c9f7ce0fb70977415d4b0880f149041" label="mixed materials [A0000000067939]" type="box">1</container><container id="6c4dc53755d8b4f10ed187bb6e5d9c20" parent="5c9f7ce0fb70977415d4b0880f149041" type="folder">18</container></did><scopecontent id="5390db28663079ee6d00698ef72ccaa3"><head>Scope and Contents note</head><p>Press release on awarding of Federal grant for park in Onondaga County.</p></scopecontent></c><c id="642d68b369a24cc08075fe837cbdd851" level="file"><did><unittitle>Healthcare</unittitle><unitdate normal="1967/1967" type="inclusive">1967</unitdate><container altrender="Record Storage Box (Paige)" id="484ef9c98d38dec6ca8825af742c6be4" label="mixed materials [A0000000067939]" type="box">1</container><container id="c88e1833a59d80b75cb4f3679e23f1fe" parent="484ef9c98d38dec6ca8825af742c6be4" type="folder">19</container></did><scopecontent id="2d7253c30ca3de80a2c943e441c3fa35"><head>Scope and Contents note</head><p>Press releases, messages to the Legislature on healthcare issues in New York State.</p></scopecontent></c><c id="e26c62a0a4524b4c80482060905945da" level="file"><did><unittitle>Housing Finance Law</unittitle><unitdate normal="1967/1967" type="inclusive">1967</unitdate><container altrender="Record Storage Box (Paige)" id="ee7ba3e7c93015aecc1ae3bea78162e0" label="mixed materials [A0000000067939]" type="box">1</container><container id="81e744e32b6d37870c6bc2f308abcc48" parent="ee7ba3e7c93015aecc1ae3bea78162e0" type="folder">20</container></did><scopecontent id="4fa58bb5ca6429e133e64073c8590372"><head>Scope and Contents note</head><p>Vote counts, final roll call vote for housing legislation.</p></scopecontent></c><c id="6d94bed8c7f845adac9716f53f33fc77" level="file"><did><unittitle>Javits, Jacob</unittitle><unitdate normal="1967/1967" type="inclusive">1967</unitdate><container altrender="Record Storage Box (Paige)" id="e9ebcee7be49a3c6d25827c7181a675c" label="mixed materials [A0000000067939]" type="box">1</container><container id="a7a929d6bd16814dc95a4fca903be539" parent="e9ebcee7be49a3c6d25827c7181a675c" type="folder">21</container></did><scopecontent id="6c636ce9501dcf4060677f12abf9b199"><head>Scope and Contents note</head><p>Correspondence with the New York Senator.</p></scopecontent></c><c id="640a6f6717144a35be19fbc5ea4ed96b" level="file"><did><unittitle>Kennedy, Robert</unittitle><unitdate normal="1967/1967" type="inclusive">1967</unitdate><container altrender="Record Storage Box (Paige)" id="c32cac1a4755e00f56ff1f3e90c9860a" label="mixed materials [A0000000067939]" type="box">1</container><container id="552e65172ee60bb5cf57ade076be7a7c" parent="c32cac1a4755e00f56ff1f3e90c9860a" type="folder">22</container></did><scopecontent id="bb5e61675ff46dfb389fdd7f21b5afc4"><head>Scope and Contents note</head><p>"Washington Post" article on Senator Kennedy's staff.</p></scopecontent></c><c id="6444ff0889a849dc83da3f1a1841f0ba" level="file"><did><unittitle>Kupferman, Theodore</unittitle><unitdate normal="1967/1967" type="inclusive">1967</unitdate><container altrender="Record Storage Box (Paige)" id="4c0b579c75d50d248bb39a01f027c108" label="mixed materials [A0000000067939]" type="box">1</container><container id="e35889a012666521b9d8344cb5ef3291" parent="4c0b579c75d50d248bb39a01f027c108" type="folder">23</container></did><scopecontent id="31633849f3fe1abb7445504531282a84"><head>Scope and Contents note</head><p>Correspondence with the New York Congressman.</p></scopecontent></c><c id="bb1a67afe38e47288abbf725fd6d274e" level="file"><did><unittitle>Legislative Bills</unittitle><unitdate normal="1967/1967" type="inclusive">1967</unitdate><container altrender="Record Storage Box (Paige)" id="03a6e9da60513e2814a0afe4a9904d92" label="mixed materials [A0000000067939]" type="box">1</container><container id="4a82a50fea7d87c1beca4e2aca948087" parent="03a6e9da60513e2814a0afe4a9904d92" type="folder">24</container></did><scopecontent id="97a67bbccb10e1247dca8a0f686f37e1"><head>Scope and Contents note</head><p>Memoranda, correspondence, bills from New York State Legislature.</p></scopecontent></c><c id="b5a12be6c471408c8c5794dacf2edaa8" level="file"><did><unittitle>Memos, General</unittitle><unitdate normal="1967/1967" type="inclusive">1967</unitdate><container altrender="Record Storage Box (Paige)" id="6155c4b1d1b10d02047dab37696ea7c7" label="mixed materials [A0000000067939]" type="box">1</container><container id="e56c36ebfc1e00876f5724424e4522c5" parent="6155c4b1d1b10d02047dab37696ea7c7" type="folder">25</container></did><scopecontent id="743cd66eca9c2746dec70391e4b24c82"><head>Scope and Contents note</head><p>Memos on congressional delegation and federal issues.</p></scopecontent></c><c id="0e0968dae665475dbeccd09c5180c4b4" level="file"><did><unittitle>Mitchell, Donna</unittitle><unitdate normal="1967/1967" type="inclusive">1967</unitdate><container altrender="Record Storage Box (Paige)" id="23efe22ad5c3dab9e0f17683fbbfa41c" label="mixed materials [A0000000067939]" type="box">1</container><container id="00f089df2f93ac1b59f001a9bb4e09bf" parent="23efe22ad5c3dab9e0f17683fbbfa41c" type="folder">26</container></did><scopecontent id="92853aee6848a39e51b748d00d5bbf7f"><head>Scope and Contents note</head><p>Reports from Washington, D.C. office of the New York State government, located in the Department of Commerce, summarizing federal programs, and legislative issues.</p></scopecontent></c><c id="c71da7601957486baa81b7ab16733e2c" level="file"><did><unittitle>Mitchell, Donna</unittitle><unitdate normal="1967/1967" type="inclusive">1967</unitdate><container altrender="Record Storage Box (Paige)" id="78ea91bfe87445ac04f9bca56d0f1fe1" label="mixed materials [A0000000067939]" type="box">1</container><container id="6f8b4fb0c832950e81ae414f106e7771" parent="78ea91bfe87445ac04f9bca56d0f1fe1" type="folder">27</container></did><scopecontent id="defc9bbb62a6a5eab2583d9fdad1790b"><head>Scope and Contents note</head><p>Reports from Washington, D.C. office of the New York State government, located in the Department of Commerce, summarizing federal programs, and legislative issues.</p></scopecontent></c><c id="549170681e56423ca4e305ace381358e" level="file"><did><unittitle>Multer, Abraham</unittitle><unitdate normal="1967/1967" type="inclusive">1967</unitdate><container altrender="Record Storage Box (Paige)" id="e42545d6f5ef6a0d68834ec5b71c7458" label="mixed materials [A0000000067939]" type="box">1</container><container id="cf569ab212a41c8fcfd4116d996dabf0" parent="e42545d6f5ef6a0d68834ec5b71c7458" type="folder">28</container></did><scopecontent id="4c5e61327d54337b8b9b5ca98efb0fc2"><head>Scope and Contents note</head><p>Correspondence with the New York Congressman on New York State Lottery, federal legislation.</p></scopecontent></c><c id="869faae9cd9346ec910eb61d4722ac3f" level="file"><did><unittitle>Narcotics Program</unittitle><unitdate normal="1967/1967" type="inclusive">1967</unitdate><container altrender="Record Storage Box (Paige)" id="f6a80fc8d33c27f83796a8ed5474184c" label="mixed materials [A0000000067939]" type="box">1</container><container id="afad22f61310a4ce10d3989542073a5f" parent="f6a80fc8d33c27f83796a8ed5474184c" type="folder">29</container></did><scopecontent id="ee9228ec8339e8118c1534335980cf00"><head>Scope and Contents note</head><p>Press releases, clippings on narcotics issues in New York State, use of Fort Totten (Brooklyn) as a narcotics treatment center.</p></scopecontent></c><c id="ba38d8c490594251be6d409e6b97631c" level="file"><did><unittitle>NAR Letter to Congress</unittitle><unitdate normal="1967/1967" type="inclusive">1967</unitdate><container altrender="Record Storage Box (Paige)" id="9e17b37fb25937e555bbba6554671ed5" label="mixed materials [A0000000067939]" type="box">1</container><container id="3a5cbc4c968b259c89c137f9612e9ae7" parent="9e17b37fb25937e555bbba6554671ed5" type="folder">30</container></did><scopecontent id="7b1df8f42a4cea05589bc687fc0e7946"><head>Scope and Contents note</head><p>Copies of letters to congressional delegation announcing Boyd's appointment.</p></scopecontent></c><c id="3dd521430ca64213a0f56b5374f90308" level="file"><did><unittitle>New York State Congressional Visits</unittitle><unitdate normal="1967/1967" type="inclusive">1967</unitdate><container altrender="Record Storage Box (Paige)" id="25027e05444b9a17fde04ae12be056bd" label="mixed materials [A0000000067939]" type="box">1</container><container id="0ba575bd784d25744115e2a5b89e1303" parent="25027e05444b9a17fde04ae12be056bd" type="folder">31</container></did><scopecontent id="af78944c7e787682b96c621001a12cd8"><head>Scope and Contents note</head><p>Notes on meetings with delegation.</p></scopecontent></c><c id="45b89f28f7b343e99ce4d78f5063d3d3" level="file"><did><unittitle>New York State Programs</unittitle><unitdate normal="1967/1967" type="inclusive">1967</unitdate><container altrender="Record Storage Box (Paige)" id="dcb12a0829d579a5ac4500801386d4dd" label="mixed materials [A0000000067939]" type="box">1</container><container id="4f823acda1d4f8a73039489f811a52ae" parent="dcb12a0829d579a5ac4500801386d4dd" type="folder">32</container></did><scopecontent id="7da43486a1286342a0df93a956ff31d7"><head>Scope and Contents note</head><p>Press releases on various New York State issues.</p></scopecontent></c><c id="b43970eee8a3459a9517ac3622490c83" level="file"><did><unittitle>Office of Regional Development</unittitle><unitdate normal="1963/1965" type="inclusive">1963-1965</unitdate><container altrender="Record Storage Box (Paige)" id="06a622fba6c82591e1062008c2a29ddd" label="mixed materials [A0000000067939]" type="box">1</container><container id="1fcfe7082f7f7e4d03ed3a3cca4ebe69" parent="06a622fba6c82591e1062008c2a29ddd" type="folder">33</container></did><scopecontent id="e35fcd84a3334e93bb748c175dd03c4f"><head>Scope and Contents note</head><p>Memoranda and correspondence with Harold Jerry, Director of the Office of Regional Development (ORD) on organization function; press releases, reports on ORD projects.</p></scopecontent></c><c id="b866e94f5066405c883b6c917e4dadd7" level="file"><did><unittitle>Phone Calls</unittitle><unitdate normal="1967/1967" type="inclusive">1967</unitdate><container altrender="Record Storage Box (Paige)" id="d9bdce4992532cea5b88337ff7874c92" label="mixed materials [A0000000067939]" type="box">1</container><container id="4b944d15a69ebf76bb1796628278c645" parent="d9bdce4992532cea5b88337ff7874c92" type="folder">34</container></did><scopecontent id="b37dd8010e01e9355aa51456aa4b585c"><head>Scope and Contents note</head><p>Record of calls made to members of the New York State Legislature.</p></scopecontent></c><c id="c60c83268ee947748e082f149d2195b7" level="file"><did><unittitle>Policy Council (NAR)</unittitle><unitdate normal="1963/1963" type="inclusive">1963</unitdate><container altrender="Record Storage Box (Paige)" id="398129bf621f60ce06a161c909892417" label="mixed materials [A0000000067939]" type="box">1</container><container id="62ed81798ea0a278025e8a85060cfb9e" parent="398129bf621f60ce06a161c909892417" type="folder">35</container></did><scopecontent id="7b0100bfb4536c367b15c0220aca7945"><head>Scope and Contents note</head><p>Agendas, follow-up items for meetings.</p></scopecontent></c><c id="54cfdabc3e4849bb9f0cb67aad9d3bfc" level="file"><did><unittitle>Reid, Ogden</unittitle><unitdate normal="1967/1967" type="inclusive">1967</unitdate><container altrender="Record Storage Box (Paige)" id="bb78095c01ff73fd65a4d383a1d69995" label="mixed materials [A0000000067939]" type="box">1</container><container id="499692e874519343b27c5e9e720582ed" parent="bb78095c01ff73fd65a4d383a1d69995" type="folder">36</container></did><scopecontent id="cc6c699b50c49fe9e5759195db265c34"><head>Scope and Contents note</head><p>Correspondence with the New York Congressman.</p></scopecontent></c><c id="eada560d3d3f47dd813adbbba6019151" level="file"><did><unittitle>Rosenthan, Benjamin</unittitle><unitdate normal="1967/1967" type="inclusive">1967</unitdate><container altrender="Record Storage Box (Paige)" id="d41b712748974228ad3074a3479be5bc" label="mixed materials [A0000000067939]" type="box">1</container><container id="ae3663b3782f7a127c87da4da70bc9af" parent="d41b712748974228ad3074a3479be5bc" type="folder">37</container></did><scopecontent id="f71f1af480089b11a9fe3276a26f92a9"><head>Scope and Contents note</head><p>Phone message from New York Congressman, seeks appointment with NAR to discuss Fort Totten issue.</p></scopecontent></c><c id="db7662f220b6473a8505dcf9debfb1b9" level="file"><did><unittitle>Ruge, Daniel</unittitle><unitdate normal="1967/1967" type="inclusive">1967</unitdate><container altrender="Record Storage Box (Paige)" id="a053b5c2947eb222e3d20255c23264f2" label="mixed materials [A0000000067939]" type="box">1</container><container id="e0c1653680b13e3847610df25eb05d51" parent="a053b5c2947eb222e3d20255c23264f2" type="folder">38</container></did><scopecontent id="c0bec76333fccf96802190da9abea57a"><head>Scope and Contents note</head><p>Correspondence with Ruge, Director of the Washington, D.C., Office of New York State government.</p></scopecontent></c><c id="dd1c758a0e89441cb3bf6e9e9e78dbc2" level="file"><did><unittitle>Smith, Henry</unittitle><unitdate normal="1967/1967" type="inclusive">1967</unitdate><container altrender="Record Storage Box (Paige)" id="ef6b96cbce797ab4f476779314af200d" label="mixed materials [A0000000067939]" type="box">1</container><container id="a159ca93e44c95e6815370200306fb99" parent="ef6b96cbce797ab4f476779314af200d" type="folder">39</container></did><scopecontent id="b54061b9809cd04400c80e0312ba6db2"><head>Scope and Contents note</head><p>Correspondence with the New York Congressman on crime control legislation.</p></scopecontent></c><c id="3a87aec815cc4f8280bcc09bc10ddec6" level="file"><did><unittitle>Staff Meetings</unittitle><unitdate normal="1964/1966" type="inclusive">1964-1966</unitdate><container altrender="Record Storage Box (Paige)" id="378373a293cda88a30c08284b0f90a69" label="mixed materials [A0000000067939]" type="box">1</container><container id="283f27cd4e9fff0f74f88d6300dc46d1" parent="378373a293cda88a30c08284b0f90a69" type="folder">40</container></did><scopecontent id="f23b72c90222a19aae8e6b258d1595dc"><head>Scope and Contents note</head><p>Agendas, summaries of follow-up items, and meeting minutes for NAR staff meetings.</p></scopecontent></c><c id="db41f6a3e6ce4e1a9e209c6624699b22" level="file"><did><unittitle>Staff Meetings</unittitle><unitdate normal="1965/1965" type="inclusive">1965</unitdate><container altrender="Record Storage Box (Paige)" id="059b0278fb88395dc54198a9b7778658" label="mixed materials [A0000000067939]" type="box">1</container><container id="73ac498a37bb192bc7399f4c90493dbd" parent="059b0278fb88395dc54198a9b7778658" type="folder">41</container></did><scopecontent id="491eeaeab187a58e3e5c336c17e428ff"><head>Scope and Contents note</head><p>Agendas, summaries, and meeting minutes for NAR staff meetings.</p></scopecontent></c><c id="5d624ca67bae46f791fd155edc8b4c71" level="file"><did><unittitle>Teller, Edward</unittitle><unitdate normal="1963/1963" type="inclusive">1963</unitdate><container altrender="Record Storage Box (Paige)" id="94bb781706fcb3995f9f19475e9798bc" label="mixed materials [A0000000067939]" type="box">1</container><container id="4ceaa1420d56aab52d9844bda98e5fe3" parent="94bb781706fcb3995f9f19475e9798bc" type="folder">42</container></did><scopecontent id="51761e7279373fc870acb816139ff1d4"><head>Scope and Contents note</head><p>Memos to NAR from Teller on defense, foreign policy, nuclear issues.</p></scopecontent></c><c id="aaf575b9bf1543e899c7a62867ac6f22" level="file"><did><unittitle>Test Ban Treaty</unittitle><unitdate normal="1963/1963" type="inclusive">1963</unitdate><container altrender="Record Storage Box (Paige)" id="a10754575c2bec8f64c22d1289e1f12f" label="mixed materials [A0000000067939]" type="box">1</container><container id="2933c9cf7339a0ddb6c527b8aee81a70" parent="a10754575c2bec8f64c22d1289e1f12f" type="folder">43</container></did><scopecontent id="bcee4989f4e5d2bea27f5de23f383236"><head>Scope and Contents note</head><p>Correspondence from Henry Kissinger, encloses letter from Edward Teller; status of Treaty in United States Senate, report of committee; Teller correspondence; report on history of treaty; NAR statement, notes, cards for speech on treaty.</p></scopecontent></c><c id="3e8cb711d4274f3c8020606670c784ed" level="file"><did><unittitle>Vacancies</unittitle><unitdate normal="1966/1967" type="inclusive">1966-1967</unitdate><container altrender="Record Storage Box (Paige)" id="0ef6168a54eeb1918084e3b0d05bc206" label="mixed materials [A0000000067939]" type="box">1</container><container id="fc6e5d2943363da2aff59435841ab610" parent="0ef6168a54eeb1918084e3b0d05bc206" type="folder">44</container></did><scopecontent id="3257e1499266a20ed5fa88fa73988aa4"><head>Scope and Contents note</head><p>Memoranda and correspondence on openings in New York State government and recommendations on nominees.</p></scopecontent></c><c id="a236e6d674b7417589ce937d03a52744" level="file"><did><unittitle>Wydler, John W.</unittitle><unitdate normal="1967/1967" type="inclusive">1967</unitdate><container altrender="Record Storage Box (Paige)" id="71a93f3472ddc8a94bd68ebfcea1e653" label="mixed materials [A0000000067939]" type="box">1</container><container id="c1cca8b179b73381258bde629e2c2b3d" parent="71a93f3472ddc8a94bd68ebfcea1e653" type="folder">45</container></did><scopecontent id="e6b20664962717bbf019a9ef335bde66"><head>Scope and Contents note</head><p>Correspondence with New York Congressman, meeting with NAR.</p></scopecontent></c></dsc>
+</archdesc>
 </ead>

@@ -1,55 +1,26 @@
-<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
-  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="under_revision" langencoding="iso639-2b" repositoryencoding="iso15511">
-    <eadid>FA353.xml</eadid>
-    <filedesc>
-      <titlestmt>
-        <titleproper type="filing">Rockefeller (Nelson A.) Gubernatorial records, Appointments Office, Series 2</titleproper>
-        <titleproper>A Guide to the Nelson A. Rockefeller Gubernatorial records, Appointments Office, Series 2
- <num>FA353</num></titleproper>
-      </titlestmt>
-      <publicationstmt>
-        <publisher>Rockefeller Archive Center</publisher>
-        <p>
-          <date>2001</date>
-        </p>
-        <address>
-          <addressline>15 Dayton Avenue</addressline>
-          <addressline>Sleepy Hollow 10591</addressline>
-          <addressline>archive@rockarch.org</addressline>
-          <addressline>URL: <extptr xlink:href="http://www.rockarch.org" xlink:show="new" xlink:title="http://www.rockarch.org" xlink:type="simple"/></addressline>
-        </address>
-      </publicationstmt>
-    </filedesc>
-    <profiledesc>
-      <creation>This finding aid was produced using ArchivesSpace on <date>2017-08-08 00:02:06 -0400</date>.</creation>
-    </profiledesc>
-    <revisiondesc>
-      <date>30 June 2010</date>
-      <item>Migrated from Re:discovery to the Archivists' Toolkit by Becky Robbins.</item>
-    </revisiondesc>
-  </eadheader>
-  <archdesc level="series">
-    <did>
-      <langmaterial>
-        <language langcode="eng">English</language>
-      </langmaterial>
-      <repository>
-        <corpname>Rockefeller Archive Center</corpname>
-      </repository>
-      <unittitle>Nelson A. Rockefeller gubernatorial records, Appointments Office, Series 2</unittitle>
-      <origination label="creator">
-        <persname role="aut" source="lcnaf">Rockefeller, Nelson A. (Nelson Aldrich)</persname>
-      </origination>
-      <unitid>FA353</unitid>
-      <physdesc altrender="whole">
-        <extent altrender="materialtype spaceoccupied">4 box(es)</extent>
-      </physdesc>
-      <unitdate normal="1958/1970" type="inclusive">1958-1970</unitdate>
-    </did>
-    <arrangement id="29284d64bc6bb8194a6646370584f7ce">
-      <head>Arrangement note</head>
-      <p>The following 24 series are available for research. Missing numbers denote closed series.</p>
-      <p>Series 2 - Appointments Office
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="under_revision" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid>FA353.xml</eadid><filedesc><titlestmt><titleproper type="filing">Rockefeller (Nelson A.) Gubernatorial records, Appointments Office, Series 2</titleproper><titleproper>A Guide to the Nelson A. Rockefeller Gubernatorial records, Appointments Office, Series 2
+ <num>FA353</num></titleproper></titlestmt><publicationstmt><publisher>Rockefeller Archive Center</publisher><p><date>2001</date></p><address><addressline>15 Dayton Avenue</addressline><addressline>Sleepy Hollow 10591</addressline><addressline>archive@rockarch.org</addressline><addressline>URL: <extptr xlink:href="http://www.rockarch.org" xlink:show="new" xlink:title="http://www.rockarch.org" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2019-04-06 00:51:03 -0400</date>.</creation></profiledesc><revisiondesc><date>30 June 2010</date><item>Migrated from Re:discovery to the Archivists' Toolkit by Becky Robbins.</item></revisiondesc></eadheader><archdesc level="series">
+  <did>
+    <langmaterial>
+      <language langcode="eng">English</language>
+    </langmaterial>
+    <repository>
+      <corpname>Rockefeller Archive Center</corpname>
+    </repository>
+    <unittitle>Nelson A. Rockefeller gubernatorial records, Appointments Office, Series 2</unittitle>
+    <origination label="creator">
+      <persname role="aut" source="naf">Rockefeller, Nelson A. (Nelson Aldrich)</persname>
+    </origination>
+    <unitid>FA353</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">4 box(es)</extent>
+    </physdesc>
+    <unitdate normal="1958/1970" type="inclusive">1958-1970</unitdate>
+  </did>
+  <arrangement id="29284d64bc6bb8194a6646370584f7ce">
+    <head>Arrangement note</head>
+<p>The following 24 series are available for research. Missing numbers denote closed series.</p><p>Series 2 - Appointments Office
 Series 3 - Assembly and Senate Memos
 Series 4 - Joseph H. Boyd Files
 Series 7 - James Cannon Files
@@ -72,807 +43,69 @@ Series 33 - Speeches
 Series 34 - Diane Van Wie Files
 Series 35 - Ann C. Whitman, Gubernatorial Files
 Series 36 - Gene Wyckoff Files
-Series 38 - New York Republican State Fund Raising Reports</p>
-    </arrangement>
-    <bioghist id="f111c4888d04c83f73f1624b132b9967">
-      <head>Biographical/Historical note</head>
-      <p>Nelson A. Rockefeller served as governor of New York from January 1, 1959, to December 18, 1973. He was the first person elected to four consecutive four-year terms as a state governor.</p>
-    </bioghist>
-    <prefercite id="3fb7fdfe9a62d0af1be37f058462079e">
-      <head>Preferred Citation note</head>
-      <p>Information regarding the Rockefeller Archive Center's preferred elements and forms of citation can be found at <extref href="http://www.rockarch.org/research/citations.php">http://www.rockarch.org/research/citations.php</extref></p>
-    </prefercite>
-    <fileplan id="7b5765ba70f39c421bdea4235f781472">
-      <head>File Plan note</head>
-      <p>Former Classification: III 15 2</p>
-    </fileplan>
-    <userestrict id="e6a2e8268cad91e0c23dab8429b14587">
-      <head>Conditions Governing Use note</head>
-      <p>RAC users must abide by all applicable provisions of U.S. copyright law. Reproduction/duplication of archival items is routinely provided in accordance with "fair use." If the RAC does not hold copyright for an archival collection or items within a collection, it is the user's responsibility to contact the copyright holder, or make a fair effort to do so, prior to publication.</p>
-    </userestrict>
-    <accessrestrict id="96abb5c9e43c4bf7fc51f1c17f6a54a2">
-      <head>Conditions Governing Access note</head>
-      <p>Open for research with select materials restricted as noted. Brittle or damaged items are available at the discretion of RAC. Researchers interested in accessing digital media (floppy disks, CDs, DVDs, etc.) or audiovisual material (audio cassettes, VHS, etc.) in this collection must use an access surrogate. The original items may not be accessed because of preservation concerns. To request an access surrogate be made, or if you are unsure if there is an access surrogate, please contact an archivist.</p>
-    </accessrestrict>
-    <processinfo id="f36eee9aa010ff12b8af6091c7995fbf">
-      <head>Processing Information note</head>
-      <p>Processing Level 3: Standard Processing.</p>
-    </processinfo>
-    <scopecontent id="cf3b37657d3a97cae301923dd6cdb813">
-      <head>Scope and Contents note</head>
-      <p>NOTE TO RESEARCHERS</p>
-      <p>This subseries contains a portion of the office files of several members of Nelson A. Rockefeller's staff, primarily the Appointments Office. They document official activities in the execution of their duties as members of Rockefeller's staff. The actions, decisions, and exchanges of information or points of view documented here occurred in the course of proposing and implementing policies for the Rockefeller administrations, political campaigns, and/or Rockefeller's personal activities. However, unless a document is specifically addressed to or from Nelson A. Rockefeller, or is referred to in a document addressed to him, it should not be assumed he saw the document or was aware of its existence or substance. Furthermore, researchers should bear in mind that staff files may contain documents or drafts addressed to Rockefeller that were never shown to him.</p>
-      <p>SCOPE AND CONTENT</p>
-      <p>This is an incomplete portion of Governor Rockefeller's Appointments Office correspondence, dating from 1958 to 1970. Only three boxes of alphabetical correspondence are represented, from C through L. There is no record or indication of what happened to the rest of the alphabetical run. The final box of the series is a box of miscellaneous subject files, dating from 1967 to 1970. Alphabetically arranged by topic, this portion of the series is also incomplete. The material contained withing these files may be duplicated within the official gubernatorial record, maintained on microfilm at both the New York State Archives and the Rockefeller Archive Center.</p>
-      <p>A function of the Appointments Office was to sift through the letters of application received for positions in the gubernatorial administrations. The series consists of correspondence to and from the individuals making application, as well as internal memoranda to and from other staff of the Appointments Office or to staff of the various state-level departments to which an applicant was referred.</p>
-    </scopecontent>
-    <otherfindaid id="653d1c79d1e8141a8e7af09b01e35702">
-      <head>Other Finding Aids note</head>
-      <p>Detailed finding aids for each series of this collection are available:</p>
-      <p>
-        <extref href="../FA354/overview">Nelson A. Rockefeller Gubernatorial Records, Assembly and Senate Memos (FA354)</extref>
-      </p>
-      <p>
-        <extref href="../FA355/overview">Nelson A. Rockefeller Gubernatorial Records, Joseph H. Boyd (FA355)</extref>
-      </p>
-      <p>
-        <extref href="../FA356/overview">Nelson A. Rockefeller Gubernatorial Records, James Cannon (FA356)</extref>
-      </p>
-      <p>
-        <extref href="../FA357/overview">Nelson A. Rockefeller Gubernatorial Records, Affirmative Action (N. Lee Cook) (FA357)</extref>
-      </p>
-      <p>
-        <extref href="../FA358/overview">Nelson A. Rockefeller Gubernatorial Records, Counsel's Office (FA358)</extref>
-      </p>
-      <p>
-        <extref href="../FA359/overview">Nelson A. Rockefeller Gubernatorial Records, New York State Committee to Reelect the President (FA359)</extref>
-      </p>
-      <p>
-        <extref href="../FA360/overview">Nelson A. Rockefeller Gubernatorial Records, Jerry A. Danzig (FA360)</extref>
-      </p>
-      <p>
-        <extref href="../FA361/overview">Nelson A. Rockefeller Gubernatorial Records, Executive Chamber (FA361)</extref>
-      </p>
-      <p>
-        <extref href="../FA362/overview">Nelson A. Rockefeller Gubernatorial Records, 55th Street (FA362)</extref>
-      </p>
-      <p>
-        <extref href="../FA363/overview">Nelson A. Rockefeller Gubernatorial Records, Issue Books (FA363)</extref>
-      </p>
-      <p>
-        <extref href="../FA364/overview">Nelson A. Rockefeller Gubernatorial Records, Arthur Massolo (FA364)</extref>
-      </p>
-      <p>
-        <extref href="../FA242/overview">Nelson A. Rockefeller Gubernatorial Records, Hugh Morrow (FA242)</extref>
-      </p>
-      <p>
-        <extref href="../FA365/overview">Nelson A. Rockefeller Gubernatorial Records, New York Office (FA365)</extref>
-      </p>
-      <p>
-        <extref href="../FA366/overview">Nelson A. Rockefeller Gubernatorial Records, Civil Service Resolutions (Charles H. Palmer) (FA366)</extref>
-      </p>
-      <p>
-        <extref href="../FA367/overview">Nelson A. Rockefeller Gubernatorial Records, Political Files (FA367)</extref>
-      </p>
-      <p>
-        <extref href="../FA368/overview">Nelson A. Rockefeller Gubernatorial Records, Press Office (FA368)</extref>
-      </p>
-      <p>
-        <extref href="../FA369/overview">Nelson A. Rockefeller Gubernatorial Records, Public Relations (FA369)</extref>
-      </p>
-      <p>
-        <extref href="../FA370/overview">Nelson A. Rockefeller Gubernatorial Records, Departmental Reports (FA370)</extref>
-      </p>
-      <p>
-        <extref href="../FA371/overview">Nelson A. Rockefeller Gubernatorial Records, William J. Ronan (FA371)</extref>
-      </p>
-      <p>
-        <extref href="../FA372/overview">Nelson A. Rockefeller Gubernatorial Records, Speeches (FA372)</extref>
-      </p>
-      <p>
-        <extref href="../FA373/overview">Nelson A. Rockefeller Gubernatorial Records, Diane Van Wie (FA373)</extref>
-      </p>
-      <p>
-        <extref href="../FA374/overview">Nelson A. Rockefeller Gubernatorial Records, Ann C. Whitman, Gubernatorial (FA374)</extref>
-      </p>
-      <p>
-        <extref href="../FA375/overview">Nelson A. Rockefeller Gubernatorial Records, Gene Wyckoff (FA375)</extref>
-      </p>
-      <p>
-        <extref href="../FA376/overview">Nelson A. Rockefeller Gubernatorial Records, New York Republican State Fund Raising Reports (FA376)</extref>
-      </p>
-    </otherfindaid>
-    <processinfo id="8642cb4a04964007e2adec58abfa5769">
-      <head>Processing Information note</head>
-      <p>John LeGloahec July 2001</p>
-    </processinfo>
-    <controlaccess>
-      <subject source="lcsh">Presidential campaigns -- United States</subject>
-      <subject source="lcsh">Political science</subject>
-      <geogname source="lcsh">Latin America</geogname>
-      <subject source="lcsh">International relations -- United States</subject>
-      <subject source="lcsh">International relations</subject>
-      <subject source="lcsh">International economic relations</subject>
-      <subject source="lcsh">Political campaigns -- United States</subject>
-      <geogname source="lcsh">New York (State)</geogname>
-      <geogname source="lcsh">New York (N.Y.)</geogname>
-      <subject source="lcsh">Legislation -- New York (State)</subject>
-      <subject source="lcsh">Arms control -- United States</subject>
-      <subject source="lcsh">Civil defense</subject>
-      <subject source="lcsh">Civil defense -- United States</subject>
-      <subject source="lcsh">Civil service</subject>
-      <subject source="lcsh">Human rights</subject>
-      <subject source="lcsh">Governors -- Election -- New York (State) -- 1970</subject>
-      <subject source="lcsh">Affirmative action programs -- New York (State)</subject>
-      <subject source="lcsh">Arms control</subject>
-      <subject source="lcsh">Governors -- Election -- New York (State) -- 1962</subject>
-      <subject source="lcsh">Governors -- Election -- New York (State) -- 1958</subject>
-      <subject source="lcsh">Presidential candidates -- United States -- History -- 20th century</subject>
-      <subject source="lcsh">Governors -- Election -- New York (State) -- 1966</subject>
-      <subject source="lcsh">Economics</subject>
-      <subject source="lcsh">Civil service -- New York (State)</subject>
-      <subject source="lcsh">Government policy</subject>
-      <subject source="lcsh">Federal government -- United States</subject>
-      <subject source="lcsh">Vice-Presidents -- United States</subject>
-      <subject source="lcsh">Public relations</subject>
-      <subject source="lcsh">Public policy</subject>
-      <geogname source="lcsh">United States</geogname>
-      <subject source="lcsh">State governments -- United States</subject>
-      <corpname source="lcnaf">Republican Party (U.S. : 1854- )</corpname>
-      <corpname role="aut" source="lcnaf">New York (State). Governor (1959-1973 : Rockefeller)</corpname>
-    </controlaccess>
-    <dsc>
-      <c id="52ff0375623c4870bc4572688b627688" level="file">
-        <did>
-          <unittitle>Correspondence Files (Car-Caz)</unittitle>
-          <unitdate normal="1959/1970" type="inclusive">1959-1970</unitdate>
-          <container id="c9adc3b49349bb23424fd3f64a6036a0" label="mixed materials (A0000000043764)" type="box">1</container>
-          <container id="34136a6cd9a8ae363f9f2a94eb530472" parent="c9adc3b49349bb23424fd3f64a6036a0" type="folder">1</container>
-        </did>
-      </c>
-      <c id="0617b50b45814167851eff07401b6a45" level="file">
-        <did>
-          <unittitle>Correspondence Files (Car-Caz)</unittitle>
-          <unitdate normal="1959/1970" type="inclusive">1959-1970</unitdate>
-          <container id="cf1176b7f4bb60c0ec9063f09b11ae85" label="mixed materials (A0000000043764)" type="box">1</container>
-          <container id="b07bdfbd0725ce475fdf95405f70706e" parent="cf1176b7f4bb60c0ec9063f09b11ae85" type="folder">2</container>
-        </did>
-      </c>
-      <c id="a6a59477f82d4c9783b18364b15c4dea" level="file">
-        <did>
-          <unittitle>Correspondence Files (Ce-Ch)</unittitle>
-          <unitdate normal="1959/1970" type="inclusive">1959-1970</unitdate>
-          <container id="e17df1a0278c2fe73a2ad6fe1225e956" label="mixed materials (A0000000043764)" type="box">1</container>
-          <container id="cb2d277ff400f78abaa27051274267f6" parent="e17df1a0278c2fe73a2ad6fe1225e956" type="folder">3</container>
-        </did>
-      </c>
-      <c id="df1a7f5cc5b34a3fa4cb1db13ee665da" level="file">
-        <did>
-          <unittitle>Correspondence Files (Ce-Ch)</unittitle>
-          <unitdate normal="1959/1970" type="inclusive">1959-1970</unitdate>
-          <container id="7c2ca22574ae19e99f92d677876d4f3e" label="mixed materials (A0000000043764)" type="box">1</container>
-          <container id="43993edd9b3034c2bcbadb9e3b2f3182" parent="7c2ca22574ae19e99f92d677876d4f3e" type="folder">4</container>
-        </did>
-      </c>
-      <c id="74a26ff7f3c34c95b2342272a14adaf1" level="file">
-        <did>
-          <unittitle>Correspondence Files (Cl)</unittitle>
-          <unitdate normal="1959/1970" type="inclusive">1959-1970</unitdate>
-          <container id="4c3ff19587d46663c3e6167614f20296" label="mixed materials (A0000000043764)" type="box">1</container>
-          <container id="1b471a89d275dce8e4df3446e611b40f" parent="4c3ff19587d46663c3e6167614f20296" type="folder">5</container>
-        </did>
-      </c>
-      <c id="3669d4b16ead479c98d289c057a8cb27" level="file">
-        <did>
-          <unittitle>Correspondence Files (Coa-Con)</unittitle>
-          <unitdate normal="1959/1970" type="inclusive">1959-1970</unitdate>
-          <container id="d6a1e56979843328d3be5ef19b1ccf17" label="mixed materials (A0000000043764)" type="box">1</container>
-          <container id="872a98cc5aa9e506573e4ae7702b4ab3" parent="d6a1e56979843328d3be5ef19b1ccf17" type="folder">6</container>
-        </did>
-      </c>
-      <c id="faf61f57bbaf4d999289a170831b8510" level="file">
-        <did>
-          <unittitle>Correspondence Files (Coa-Con)</unittitle>
-          <unitdate normal="1959/1970" type="inclusive">1959-1970</unitdate>
-          <container id="3032087ada1ac2706dba24e13791c705" label="mixed materials (A0000000043764)" type="box">1</container>
-          <container id="589f6d89a4c3f006b42038ab108f05b0" parent="3032087ada1ac2706dba24e13791c705" type="folder">7</container>
-        </did>
-      </c>
-      <c id="6a0cfc1134c74254a341062bcde59a20" level="file">
-        <did>
-          <unittitle>Correspondence Files (Coo-Coz)</unittitle>
-          <unitdate normal="1959/1970" type="inclusive">1959-1970</unitdate>
-          <container id="aad9c512b2fc4d04612eb3de615418dc" label="mixed materials (A0000000043764)" type="box">1</container>
-          <container id="6f6fecb7d4a4c2aa77335127996934bb" parent="aad9c512b2fc4d04612eb3de615418dc" type="folder">8</container>
-        </did>
-      </c>
-      <c id="4657b14c8ad94686818cf82710f67937" level="file">
-        <did>
-          <unittitle>Correspondence Files (Cr-Cz)</unittitle>
-          <unitdate normal="1959/1970" type="inclusive">1959-1970</unitdate>
-          <container id="a4a3aec8265aa67fc296cff50c29dd70" label="mixed materials (A0000000043764)" type="box">1</container>
-          <container id="1101ad9c70b455e259ebb36b41215465" parent="a4a3aec8265aa67fc296cff50c29dd70" type="folder">9</container>
-        </did>
-      </c>
-      <c id="61f86d62af2d40f1830a930e45400aca" level="file">
-        <did>
-          <unittitle>Correspondence Files (Cr-Cz)</unittitle>
-          <unitdate normal="1959/1970" type="inclusive">1959-1970</unitdate>
-          <container id="258d4848c474ecfee458d7e8ad70c219" label="mixed materials (A0000000043764)" type="box">1</container>
-          <container id="78d2e348e580649261ecc61d50407685" parent="258d4848c474ecfee458d7e8ad70c219" type="folder">10</container>
-        </did>
-      </c>
-      <c id="764c49ea28574f5d8a1f88b2ebf3a712" level="file">
-        <did>
-          <unittitle>Correspondence Files - Crouch, Paul A.</unittitle>
-          <container id="76f7a2e32855833718f9b6d8a4c7ee15" label="mixed materials (A0000000043764)" type="box">1</container>
-          <container id="cdb718ad41ad8d3038b3935866e708c7" parent="76f7a2e32855833718f9b6d8a4c7ee15" type="folder">11</container>
-        </did>
-        <scopecontent id="b2c319627a610aea373bb3e2c4eee4a4">
-          <head>Scope and Contents note</head>
-          <p>Letters of endorsement for Crouch to serve as Commissioner of Commerce.</p>
-        </scopecontent>
-      </c>
-      <c id="7addb9d0aec44b798e67cc42287d0d4c" level="file">
-        <did>
-          <unittitle>Correspondence Files - Crouch, Paul A.</unittitle>
-          <container id="ebd8faa2cea2e697825f09f8d8de40e2" label="mixed materials (A0000000043764)" type="box">1</container>
-          <container id="bd1cb7c038550546279596a676e66bf6" parent="ebd8faa2cea2e697825f09f8d8de40e2" type="folder">12</container>
-        </did>
-        <scopecontent id="4592e9b5d8f7ed5d9813545ccf0ab6ad">
-          <head>Scope and Contents note</head>
-          <p>Letters of endorsement for Crouch to serve as Commissioner of Commerce.</p>
-        </scopecontent>
-      </c>
-      <c id="dd0abee5354b46329ff9824e33eb751a" level="file">
-        <did>
-          <unittitle>Correspondence Files (Da)</unittitle>
-          <container id="f5c3784a3778d65ef7969fefda07bf59" label="mixed materials (A0000000043764)" type="box">1</container>
-          <container id="4f82c0870e75283ae93c4e3e442534e0" parent="f5c3784a3778d65ef7969fefda07bf59" type="folder">13</container>
-        </did>
-      </c>
-      <c id="9b9e1f5fb97c44c5abed47b94d081a02" level="file">
-        <did>
-          <unittitle>Correspondence Files (Dea-Del)</unittitle>
-          <container id="e2a8ab055754e9679cb5a40b8b864278" label="mixed materials (A0000000043764)" type="box">1</container>
-          <container id="0332913a77133fbb651ff5817ebf00bc" parent="e2a8ab055754e9679cb5a40b8b864278" type="folder">14</container>
-        </did>
-      </c>
-      <c id="b1894fa00d8f48d78d20919d754a9943" level="file">
-        <did>
-          <unittitle>Correspondence Files (Dem-Dez)</unittitle>
-          <container id="5dc0eb8e7279860ab7400143916e4bc0" label="mixed materials (A0000000043764)" type="box">1</container>
-          <container id="bcd033d00cf0d686ad96d04b4ca6723e" parent="5dc0eb8e7279860ab7400143916e4bc0" type="folder">15</container>
-        </did>
-      </c>
-      <c id="bec91e890a264e7aad88654fc665d006" level="file">
-        <did>
-          <unittitle>Correspondence Files (Di)</unittitle>
-          <container id="ee4477108f630379123b1d71500d4413" label="mixed materials (A0000000043764)" type="box">1</container>
-          <container id="64a3a9dcc3f10b6d20925e4cf3b01777" parent="ee4477108f630379123b1d71500d4413" type="folder">16</container>
-        </did>
-      </c>
-      <c id="be563b457dbc475e94a4187200bbe207" level="file">
-        <did>
-          <unittitle>Correspondence Files (Dm-Do)</unittitle>
-          <container id="fc5a5a8aab60f6c5d112a0dc18892081" label="mixed materials (A0000000043764)" type="box">1</container>
-          <container id="5fa8e6dd2e106c430eebd76c01aa9ec0" parent="fc5a5a8aab60f6c5d112a0dc18892081" type="folder">17</container>
-        </did>
-      </c>
-      <c id="a81c5f2938e94817a555d1a4678a1070" level="file">
-        <did>
-          <unittitle>Correspondence Files (Dp-Dz)</unittitle>
-          <container id="aad42989e68bee2c2c2751ce4dee738b" label="mixed materials (A0000000043764)" type="box">1</container>
-          <container id="9a61e82de7abca137a399fc48a1ae693" parent="aad42989e68bee2c2c2751ce4dee738b" type="folder">18</container>
-        </did>
-      </c>
-      <c id="5baf78a414554eefafc74e0d4a422fb2" level="file">
-        <did>
-          <unittitle>Correspondence Files (Dp-Dz)</unittitle>
-          <container id="42be9f7be91a7070dd22a2ef46d795d2" label="mixed materials (A0000000043764)" type="box">1</container>
-          <container id="34b98fe2c66430c0a67c25b0d5f169a2" parent="42be9f7be91a7070dd22a2ef46d795d2" type="folder">19</container>
-        </did>
-      </c>
-      <c id="04a38b98fd1d47a8a33ae7a96c3ed9ba" level="file">
-        <did>
-          <unittitle>Correspondence Files (E)</unittitle>
-          <container id="5f90ad3ed5235c293dbe5556c648f845" label="mixed materials (A0000000043765)" type="box">2</container>
-          <container id="26e12c383c242365698726f7db37de5e" parent="5f90ad3ed5235c293dbe5556c648f845" type="folder">20</container>
-        </did>
-      </c>
-      <c id="8d160ebb49db47c6b5495da2c62ccc09" level="file">
-        <did>
-          <unittitle>Correspondence Files (E)</unittitle>
-          <container id="a0063b71769f01efe3fbba3cab5a61e5" label="mixed materials (A0000000043765)" type="box">2</container>
-          <container id="671e055baa2ac9706013843951418276" parent="a0063b71769f01efe3fbba3cab5a61e5" type="folder">21</container>
-        </did>
-      </c>
-      <c id="e7caa780b7974660af0908598f986004" level="file">
-        <did>
-          <unittitle>Correspondence Files (Fa-Fe)</unittitle>
-          <container id="86bb8c1868ad5a2e59951cedb055f168" label="mixed materials (A0000000043765)" type="box">2</container>
-          <container id="9e78d207f0efac6d4461ce5019b5da64" parent="86bb8c1868ad5a2e59951cedb055f168" type="folder">22</container>
-        </did>
-      </c>
-      <c id="92afd6ff781242dd92a04077485b9302" level="file">
-        <did>
-          <unittitle>Correspondence Files (Fia-Fin)</unittitle>
-          <container id="211828d92a1b43f3518a6dd75a437388" label="mixed materials (A0000000043765)" type="box">2</container>
-          <container id="6aac44a8fd3490ca6ec8a8b670ed8307" parent="211828d92a1b43f3518a6dd75a437388" type="folder">23</container>
-        </did>
-      </c>
-      <c id="313730fee1174314873330d32fed694d" level="file">
-        <did>
-          <unittitle>Correspondence Files (Fia-Fin)</unittitle>
-          <container id="ce27ba6b157e95f7b7c91ea8220d197e" label="mixed materials (A0000000043765)" type="box">2</container>
-          <container id="39a31da335bc3fda22d759c6e0af7bd0" parent="ce27ba6b157e95f7b7c91ea8220d197e" type="folder">24</container>
-        </did>
-      </c>
-      <c id="f86ab8ef0fcb4085b68fe35af8e04677" level="file">
-        <did>
-          <unittitle>Correspondence Files (Fio-Fiz)</unittitle>
-          <container id="f50dc1172c5d88adfd81fff75d2c9d5c" label="mixed materials (A0000000043765)" type="box">2</container>
-          <container id="55abdaf377ae6331efbd1c73497b99d2" parent="f50dc1172c5d88adfd81fff75d2c9d5c" type="folder">25</container>
-        </did>
-      </c>
-      <c id="aaf883404b984aa19211604bbc92d4cc" level="file">
-        <did>
-          <unittitle>Correspondence Files (Fl-Fo)</unittitle>
-          <container id="6c1e66d2d02452ffe0c9b8923ef5c1d7" label="mixed materials (A0000000043765)" type="box">2</container>
-          <container id="11c27d7b46bcaa6a4b660d7e8c34550b" parent="6c1e66d2d02452ffe0c9b8923ef5c1d7" type="folder">26</container>
-        </did>
-      </c>
-      <c id="30777f5eed5340fd8b202aab9c671863" level="file">
-        <did>
-          <unittitle>Correspondence Files (Fra-Fre)</unittitle>
-          <container id="ce4d76863e895f8c964ba28ac0708d3e" label="mixed materials (A0000000043765)" type="box">2</container>
-          <container id="169e26e99bbc37eb28eeacf266ca123c" parent="ce4d76863e895f8c964ba28ac0708d3e" type="folder">27</container>
-        </did>
-      </c>
-      <c id="b74f1788f2f942769f0268391423bd72" level="file">
-        <did>
-          <unittitle>Correspondence Files (Fri-Fuz)</unittitle>
-          <container id="9701db7bf8b42a0e0268c1d906a4cf35" label="mixed materials (A0000000043765)" type="box">2</container>
-          <container id="3c8a27b6dfc383f76cbe83d2d84b167a" parent="9701db7bf8b42a0e0268c1d906a4cf35" type="folder">28</container>
-        </did>
-      </c>
-      <c id="963d5a1fcc3e4bb89b50247bd972433b" level="file">
-        <did>
-          <unittitle>Correspondence Files (Ga)</unittitle>
-          <container id="83e22b83e71d156e49f41d107aa78135" label="mixed materials (A0000000043765)" type="box">2</container>
-          <container id="63981fefeb0a6884c2c2163818c90086" parent="83e22b83e71d156e49f41d107aa78135" type="folder">29</container>
-        </did>
-      </c>
-      <c id="e6c50b3f4a794ed5adc78d6d4a9b088a" level="file">
-        <did>
-          <unittitle>Correspondence Files (Ga)</unittitle>
-          <container id="b0fca3ddb754de05cf0d02f84ecf357f" label="mixed materials (A0000000043765)" type="box">2</container>
-          <container id="ea83ff7e668abbbd48e4149e94f668f5" parent="b0fca3ddb754de05cf0d02f84ecf357f" type="folder">30</container>
-        </did>
-      </c>
-      <c id="97e74b7dba414f75bdb2db767c16f938" level="file">
-        <did>
-          <unittitle>Correspondence Files (Ge-Gh)</unittitle>
-          <container id="74ec0c79f16f2e21e8e8eb9018d40da4" label="mixed materials (A0000000043765)" type="box">2</container>
-          <container id="b04bb58b396ffc20760cd26578d7434f" parent="74ec0c79f16f2e21e8e8eb9018d40da4" type="folder">31</container>
-        </did>
-      </c>
-      <c id="a9afc5d79a624bfba24112c2e50867f3" level="file">
-        <did>
-          <unittitle>Correspondence Files (Gi)</unittitle>
-          <container id="0cfdd574b98cb29e23d6b93cb2c1ba98" label="mixed materials (A0000000043765)" type="box">2</container>
-          <container id="05768fadc9db28336757f7b01e1f3922" parent="0cfdd574b98cb29e23d6b93cb2c1ba98" type="folder">32</container>
-        </did>
-      </c>
-      <c id="8b17d1a65cab49e480bdaf88f67d5aac" level="file">
-        <did>
-          <unittitle>Correspondence Files (Gl)</unittitle>
-          <container id="4582ae2f8955b91c532425dcb9056118" label="mixed materials (A0000000043765)" type="box">2</container>
-          <container id="f3b28bbb316b024b5f15ad5c0355e40f" parent="4582ae2f8955b91c532425dcb9056118" type="folder">33</container>
-        </did>
-      </c>
-      <c id="e5c628cb6ead4320aa0a3b0a5c8f6a59" level="file">
-        <did>
-          <unittitle>Correspondence Files (Go)</unittitle>
-          <container id="f11f97abb51abddd34c0648c9c710b10" label="mixed materials (A0000000043765)" type="box">2</container>
-          <container id="6c05ec44724267f7840ca8480c2336c1" parent="f11f97abb51abddd34c0648c9c710b10" type="folder">34</container>
-        </did>
-      </c>
-      <c id="991076038418403888971376194f941b" level="file">
-        <did>
-          <unittitle>Correspondence Files (Go)</unittitle>
-          <container id="a4658d13a1d5cd6ed2a97ad083504f29" label="mixed materials (A0000000043765)" type="box">2</container>
-          <container id="8d33de1acc349f361b0cd0ecbc7084b3" parent="a4658d13a1d5cd6ed2a97ad083504f29" type="folder">35</container>
-        </did>
-      </c>
-      <c id="cf2ec23c1c4b4565a3dcd10d165d1f02" level="file">
-        <did>
-          <unittitle>Correspondence Files (Gra-Gre)</unittitle>
-          <container id="8b3ea0be1e16bda6832ecfdfb707db36" label="mixed materials (A0000000043765)" type="box">2</container>
-          <container id="9e67aae2e89a2d8d7d0f0a7632b43ded" parent="8b3ea0be1e16bda6832ecfdfb707db36" type="folder">36</container>
-        </did>
-      </c>
-      <c id="ba9180bdd425427ebf5197f8c0012c38" level="file">
-        <did>
-          <unittitle>Correspondence Files (Gri)</unittitle>
-          <container id="563d3e6101b0abf87d83aa2831a59b3c" label="mixed materials (A0000000043765)" type="box">2</container>
-          <container id="e4880883f24eb7ef70aba6f9648e441b" parent="563d3e6101b0abf87d83aa2831a59b3c" type="folder">37</container>
-        </did>
-      </c>
-      <c id="f94855cc80604dafbfc63b7366479f94" level="file">
-        <did>
-          <unittitle>Correspondence Files (Gu)</unittitle>
-          <container id="c127d3a9a9d575b54bbba3a0002636c7" label="mixed materials (A0000000043765)" type="box">2</container>
-          <container id="b266b9705548518c32ccdfa314c41dd7" parent="c127d3a9a9d575b54bbba3a0002636c7" type="folder">38</container>
-        </did>
-      </c>
-      <c id="c5fb0b891d4b4ad9986303b73cf21aa4" level="file">
-        <did>
-          <unittitle>Correspondence Files (Hab-Hal)</unittitle>
-          <container id="4ed96a7ec5ba9fc7e3161518fb52f726" label="mixed materials (A0000000043765)" type="box">2</container>
-          <container id="d419cdc01ca0d55ae3db10f8079b45af" parent="4ed96a7ec5ba9fc7e3161518fb52f726" type="folder">39</container>
-        </did>
-      </c>
-      <c id="176266151da442289d2c3f6c36f13f2f" level="file">
-        <did>
-          <unittitle>Correspondence Files (Ham-Hat)</unittitle>
-          <container id="3512199dae588abd7924b06e41f0caf4" label="mixed materials (A0000000043766)" type="box">3</container>
-          <container id="3f2c76b291d97e10c824489b2b11e872" parent="3512199dae588abd7924b06e41f0caf4" type="folder">40</container>
-        </did>
-      </c>
-      <c id="e6c86acd196b47f58ab942c2411e63da" level="file">
-        <did>
-          <unittitle>Correspondence Files (Hau-Haz)</unittitle>
-          <container id="b9f6c9d036281ca99cb327ac3b6c9a6c" label="mixed materials (A0000000043766)" type="box">3</container>
-          <container id="0a80ec8b69020dc7860a20ef97491849" parent="b9f6c9d036281ca99cb327ac3b6c9a6c" type="folder">41</container>
-        </did>
-      </c>
-      <c id="419ced97bdb342428d504f41546a79ee" level="file">
-        <did>
-          <unittitle>Correspondence Files (He)</unittitle>
-          <container id="60d87a93679b87489a61fb56bdeed7b5" label="mixed materials (A0000000043766)" type="box">3</container>
-          <container id="56891305476aeced43f4b67ab0264b93" parent="60d87a93679b87489a61fb56bdeed7b5" type="folder">42</container>
-        </did>
-      </c>
-      <c id="31f106c79c8043e19646607d044948ce" level="file">
-        <did>
-          <unittitle>Correspondence Files (Hi)</unittitle>
-          <container id="97b0ebc5a086efdef7f011fe0d9502d5" label="mixed materials (A0000000043766)" type="box">3</container>
-          <container id="3b2f68341efd740430caae461efe691f" parent="97b0ebc5a086efdef7f011fe0d9502d5" type="folder">43</container>
-        </did>
-      </c>
-      <c id="df5e08ce375c478ea7b9289ef8834ca4" level="file">
-        <did>
-          <unittitle>Correspondence Files (Ho)</unittitle>
-          <container id="6ddcd814714e68d7892292887ec5c6a5" label="mixed materials (A0000000043766)" type="box">3</container>
-          <container id="ebd24b0d83df30ba57633d35b67bf9c0" parent="6ddcd814714e68d7892292887ec5c6a5" type="folder">44</container>
-        </did>
-      </c>
-      <c id="f42fbbd767ed4ceea37a4cba6ff5c3ea" level="file">
-        <did>
-          <unittitle>Correspondence Files (Hu-Hy)</unittitle>
-          <container id="2dd3c728381a8b38a940859a0771ef1e" label="mixed materials (A0000000043766)" type="box">3</container>
-          <container id="982d77a94c5642e0bc37d852c7fedc3b" parent="2dd3c728381a8b38a940859a0771ef1e" type="folder">45</container>
-        </did>
-      </c>
-      <c id="52a7318a9a2a4b78b459c29afa7cbb8c" level="file">
-        <did>
-          <unittitle>Correspondence Files (I)</unittitle>
-          <container id="a443c35509955a8d69dbc409872f0d0f" label="mixed materials (A0000000043766)" type="box">3</container>
-          <container id="e1bda8ea03903b7bfe6b995a5b7e6cab" parent="a443c35509955a8d69dbc409872f0d0f" type="folder">46</container>
-        </did>
-      </c>
-      <c id="df9e2024f17e47cd9e3e40ba6380be60" level="file">
-        <did>
-          <unittitle>Correspondence Files - Inauguration, 1969</unittitle>
-          <container id="d916b20ef328123e4411ae7f81f78171" label="mixed materials (A0000000043766)" type="box">3</container>
-          <container id="ca7fe00fc6e4de868500faa83d127663" parent="d916b20ef328123e4411ae7f81f78171" type="folder">47</container>
-        </did>
-        <scopecontent id="222d61f8f3ff85d3e3a169abba093cb1">
-          <head>Scope and Contents note</head>
-          <p>Requests to Governor Rockefeller for tickets to President Lyndon Johnson's inaugural ball.</p>
-        </scopecontent>
-      </c>
-      <c id="fe2b17af5b324877ad57f8dae638a751" level="file">
-        <did>
-          <unittitle>Correspondence Files - "Italian-American Herald"</unittitle>
-          <container id="6f41c20f854db5ff87ba6f4695f4d1fe" label="mixed materials (A0000000043766)" type="box">3</container>
-          <container id="7c9d283853b8db4dec2dbfcf6e14c93c" parent="6f41c20f854db5ff87ba6f4695f4d1fe" type="folder">48</container>
-        </did>
-      </c>
-      <c id="d3163a8201614ea7bd1fd8e3451177bd" level="file">
-        <did>
-          <unittitle>Correspondence Files (J)</unittitle>
-          <container id="5d77ca1dbcf3a73d5e800aea675635e9" label="mixed materials (A0000000043766)" type="box">3</container>
-          <container id="305f6e36f4388afee031b85b8c611234" parent="5d77ca1dbcf3a73d5e800aea675635e9" type="folder">49</container>
-        </did>
-      </c>
-      <c id="1fea6b8614bc4d4298e2ab7b7383ae57" level="file">
-        <did>
-          <unittitle>Correspondence Files (J)</unittitle>
-          <container id="657220036696dab45833a7fa2727be5a" label="mixed materials (A0000000043766)" type="box">3</container>
-          <container id="0396d640c761ed4d1251dea8696f7274" parent="657220036696dab45833a7fa2727be5a" type="folder">50</container>
-        </did>
-      </c>
-      <c id="aafff2609fb74f90afa29a8327aa5280" level="file">
-        <did>
-          <unittitle>Correspondence Files (Ka)</unittitle>
-          <container id="c1c15661211d21576a9b5b10139febe0" label="mixed materials (A0000000043766)" type="box">3</container>
-          <container id="4633a51fdc419c5653c4236c5bf05806" parent="c1c15661211d21576a9b5b10139febe0" type="folder">51</container>
-        </did>
-      </c>
-      <c id="45b29d08ae694a0fb5044efdbb0467a4" level="file">
-        <did>
-          <unittitle>Correspondence Files (Ke)</unittitle>
-          <container id="b421d2bf184452ca0912594f9faf9048" label="mixed materials (A0000000043766)" type="box">3</container>
-          <container id="48780d4714bf9e64bacab86e63de990c" parent="b421d2bf184452ca0912594f9faf9048" type="folder">52</container>
-        </did>
-      </c>
-      <c id="803fe88765b4432c9d1de01225cd5f6a" level="file">
-        <did>
-          <unittitle>Correspondence Files (Kh-Ki)</unittitle>
-          <container id="8379b4ecb6e882c1e954fe4ffc6a406d" label="mixed materials (A0000000043766)" type="box">3</container>
-          <container id="9a8c7901d6f339a1d2bf9d57dcdbb951" parent="8379b4ecb6e882c1e954fe4ffc6a406d" type="folder">53</container>
-        </did>
-      </c>
-      <c id="4e625184bb884664b6a35ae14f9501cc" level="file">
-        <did>
-          <unittitle>Correspondence Files (Kl-Kn)</unittitle>
-          <container id="050f9dde18e0ea946de44d6c0b5ecd4f" label="mixed materials (A0000000043766)" type="box">3</container>
-          <container id="3e63e0d4020bd23e45e7049b4bf19871" parent="050f9dde18e0ea946de44d6c0b5ecd4f" type="folder">54</container>
-        </did>
-      </c>
-      <c id="f8436e4f6c3641a79166989adace4426" level="file">
-        <did>
-          <unittitle>Correspondence Files (Ko)</unittitle>
-          <container id="da60cd026f768841e65d0bfdfc974843" label="mixed materials (A0000000043766)" type="box">3</container>
-          <container id="f183a639747081564caf1936a05cbaa4" parent="da60cd026f768841e65d0bfdfc974843" type="folder">55</container>
-        </did>
-      </c>
-      <c id="781f5bf9fba94399a8212c866e97c458" level="file">
-        <did>
-          <unittitle>Correspondence Files (Kr-Ky)</unittitle>
-          <container id="4a17f28be738a92818af645dbd5c333a" label="mixed materials (A0000000043766)" type="box">3</container>
-          <container id="3985e236ae2b8bd80c7fc72a3fbb3c53" parent="4a17f28be738a92818af645dbd5c333a" type="folder">56</container>
-        </did>
-      </c>
-      <c id="28c0ca16baf94ba8868283c892ddb28f" level="file">
-        <did>
-          <unittitle>Correspondence Files (La)</unittitle>
-          <container id="3ec32a922eac65c541551a25354c71ed" label="mixed materials (A0000000043766)" type="box">3</container>
-          <container id="85c2e84712bd3fd1f1d7be6995411f34" parent="3ec32a922eac65c541551a25354c71ed" type="folder">57</container>
-        </did>
-      </c>
-      <c id="db21b283f198460bb4bf894023df329b" level="file">
-        <did>
-          <unittitle>Correspondence Files (La)</unittitle>
-          <container id="f55bbe0d99f4f3f000294c08e4112253" label="mixed materials (A0000000043766)" type="box">3</container>
-          <container id="26686fe7dce86245c9abf32a2f42b2ee" parent="f55bbe0d99f4f3f000294c08e4112253" type="folder">58</container>
-        </did>
-      </c>
-      <c id="160878c3c3fc4685a7ef3e1b66ab4cc4" level="file">
-        <did>
-          <unittitle>Miscellaneous Files - Abortion</unittitle>
-          <unitdate normal="1968/1968" type="inclusive">1968</unitdate>
-          <container id="5ee742a5df52c81080775eb72bcbaa11" label="mixed materials (A0000000043767)" type="box">4</container>
-          <container id="8ae1a10a3f8e5e054fa4f3e0343f81f4" parent="5ee742a5df52c81080775eb72bcbaa11" type="folder">59</container>
-        </did>
-        <scopecontent id="ae37112f40d5c32da21d7581a50ab38a">
-          <head>Scope and Contents note</head>
-          <p>Correspondence, memoranda on abortion in New York State, including statistical information and material on the Committee to Study Abortion Laws in New York State, reports, polling data on abortion, medical reports, statistical information, legal precedents.</p>
-        </scopecontent>
-      </c>
-      <c id="a9644dc67a4f454d8b5b41adc266e1c0" level="file">
-        <did>
-          <unittitle>Miscellaneous Files - Abortion</unittitle>
-          <unitdate normal="1968/1968" type="inclusive">1968</unitdate>
-          <container id="2859f3d59c9787f1fded7584f4f6cd5c" label="mixed materials (A0000000043767)" type="box">4</container>
-          <container id="16e110ca2c4cec061767dfb419e99066" parent="2859f3d59c9787f1fded7584f4f6cd5c" type="folder">60</container>
-        </did>
-        <scopecontent id="7ec12b16e788e4880fba6cc8ff0f32dc">
-          <head>Scope and Contents note</head>
-          <p>Correspondence, memoranda on abortion in New York State, including statistical information and material on the Committee to Study Abortion Laws in New York State, reports, polling data on abortion, medical reports, statistical information, legal precedents.</p>
-        </scopecontent>
-      </c>
-      <c id="9e80bd8029c14e65b76eebd8e7935c63" level="file">
-        <did>
-          <unittitle>Miscellaneous Files - Abortion</unittitle>
-          <unitdate normal="1968/1968" type="inclusive">1968</unitdate>
-          <container id="7f04a05c008ccd56542156318b4c6a62" label="mixed materials (A0000000043767)" type="box">4</container>
-          <container id="2ba297e8415f17496348caee35702b47" parent="7f04a05c008ccd56542156318b4c6a62" type="folder">61</container>
-        </did>
-        <scopecontent id="cd14ec82e92615c62b826d4fd088526a">
-          <head>Scope and Contents note</head>
-          <p>Correspondence, memoranda on abortion in New York State, including statistical information and material on the Committee to Study Abortion Laws in New York State, reports, polling data on abortion, medical reports, statistical information, legal precedents.</p>
-        </scopecontent>
-      </c>
-      <c id="228d3a74ba55485695666c834aca3c12" level="file">
-        <did>
-          <unittitle>Miscellaneous Files - Abortion</unittitle>
-          <unitdate normal="1968/1968" type="inclusive">1968</unitdate>
-          <container id="2862c91610c0487c8acb9dd7782a7813" label="mixed materials (A0000000043767)" type="box">4</container>
-          <container id="13b2bdd7fd3c0bd88ed4b082a3974471" parent="2862c91610c0487c8acb9dd7782a7813" type="folder">62</container>
-        </did>
-        <scopecontent id="cd74fbd99b27651b44f5183b4c908dd0">
-          <head>Scope and Contents note</head>
-          <p>Correspondence, memoranda on abortion in New York State, including statistical information and material on the Committee to Study Abortion Laws in New York State, reports, polling data on abortion, medical reports, statistical information, legal precedents.</p>
-        </scopecontent>
-      </c>
-      <c id="071298de40534769abefd45a6336a9de" level="file">
-        <did>
-          <unittitle>Miscellaneous Files - Abortion</unittitle>
-          <unitdate normal="1968/1968" type="inclusive">1968</unitdate>
-          <container id="4fc31f7c152efc99aa895ca5a4264d28" label="mixed materials (A0000000043767)" type="box">4</container>
-          <container id="2277f39a7ee6745016bbddac55545ef6" parent="4fc31f7c152efc99aa895ca5a4264d28" type="folder">63</container>
-        </did>
-        <scopecontent id="510daa014fbe52a0214df6ff3fe6b46c">
-          <head>Scope and Contents note</head>
-          <p>Correspondence, memoranda on abortion in New York State, including statistical information and material on the Committee to Study Abortion Laws in New York State, reports, polling data on abortion, medical reports, statistical information, legal precedents.</p>
-        </scopecontent>
-      </c>
-      <c id="3a4694cbf2d74aefbeac2df0a88b2811" level="file">
-        <did>
-          <unittitle>Miscellaneous Files - Abortion</unittitle>
-          <unitdate normal="1968/1968" type="inclusive">1968</unitdate>
-          <container id="0dd1990c2c9fd04c3be497f68e2f4681" label="mixed materials (A0000000043767)" type="box">4</container>
-          <container id="bddecc05b39003bea86a9788c9c8553e" parent="0dd1990c2c9fd04c3be497f68e2f4681" type="folder">64</container>
-        </did>
-        <scopecontent id="8da4837d9edcbb4634c7c3180698ef39">
-          <head>Scope and Contents note</head>
-          <p>Correspondence, memoranda on abortion in New York State, including statistical information and material on the Committee to Study Abortion Laws in New York State, reports, polling data on abortion, medical reports, statistical information, legal precedents.</p>
-        </scopecontent>
-      </c>
-      <c id="5c0f39706b3f46d5bcc8df791ac0cdee" level="file">
-        <did>
-          <unittitle>Miscellaneous Files - Abortion</unittitle>
-          <unitdate normal="1968/1968" type="inclusive">1968</unitdate>
-          <container id="cf5fd26b526eb6e61a74df3e855032f5" label="mixed materials (A0000000043767)" type="box">4</container>
-          <container id="20f4adc5f1a0a17907dbe6ff99039c9e" parent="cf5fd26b526eb6e61a74df3e855032f5" type="folder">65</container>
-        </did>
-        <scopecontent id="cce17b25016364da1409c17431514c29">
-          <head>Scope and Contents note</head>
-          <p>Correspondence, memoranda on abortion in New York State, including statistical information and material on the Committee to Study Abortion Laws in New York State, reports, polling data on abortion, medical reports, statistical information, legal precedents.</p>
-        </scopecontent>
-      </c>
-      <c id="7bc04e89a39342f0b43ca54b6b9bb975" level="file">
-        <did>
-          <unittitle>Miscellaneous Files - Abortion</unittitle>
-          <unitdate normal="1968/1968" type="inclusive">1968</unitdate>
-          <container id="8f0cd135fa11304c2ae0bf68a5e83ed5" label="mixed materials (A0000000043767)" type="box">4</container>
-          <container id="9e8183c4a2b3057f073c47ecbfc78021" parent="8f0cd135fa11304c2ae0bf68a5e83ed5" type="folder">66</container>
-        </did>
-        <scopecontent id="7e6b1ae93885e9e08bced138eaba5d0d">
-          <head>Scope and Contents note</head>
-          <p>Correspondence, memoranda on abortion in New York State, including statistical information and material on the Committee to Study Abortion Laws in New York State, reports, polling data on abortion, medical reports, statistical information, legal precedents.</p>
-        </scopecontent>
-      </c>
-      <c id="b7b1b38d4fd34ea0b94dbc0c924f28bf" level="file">
-        <did>
-          <unittitle>Miscellaneous Files - Abortion</unittitle>
-          <unitdate normal="1968/1968" type="inclusive">1968</unitdate>
-          <container id="b868cfc5909f3a45f9fcf3a52b30e0ca" label="mixed materials (A0000000043767)" type="box">4</container>
-          <container id="23602fcb4204e91f08b56862df436b6b" parent="b868cfc5909f3a45f9fcf3a52b30e0ca" type="folder">67</container>
-        </did>
-        <scopecontent id="7856165f7e3295b14ad0be0361703432">
-          <head>Scope and Contents note</head>
-          <p>Correspondence, memoranda on abortion in New York State, including statistical information and material on the Committee to Study Abortion Laws in New York State, reports, polling data on abortion, medical reports, statistical information, legal precedents.</p>
-        </scopecontent>
-      </c>
-      <c id="52a7feb91ef341e9b3beccc5bdef31d7" level="file">
-        <did>
-          <unittitle>Miscellaneous Files - Oaths of Office</unittitle>
-          <unitdate normal="1968/1969" type="inclusive">1968-1969</unitdate>
-          <container id="d6a3193530e3cd0ddaf8a308f1613604" label="mixed materials (A0000000043767)" type="box">4</container>
-          <container id="07859d581e35fb597ea50eeea0770ef1" parent="d6a3193530e3cd0ddaf8a308f1613604" type="folder">68</container>
-        </did>
-        <scopecontent id="097e3d223f6662d6bcbae296a6fffeae">
-          <head>Scope and Contents note</head>
-          <p>Listings of individuals with addresses, title and salary grade, and department affiliation. Lists note oaths of office received between July 1968 and October 1969.</p>
-        </scopecontent>
-      </c>
-      <c id="c51c2aa603d54cc485a6c67c01ad646e" level="file">
-        <did>
-          <unittitle>Miscellaneous Files - Oaths of Office</unittitle>
-          <unitdate normal="1968/1969" type="inclusive">1968-1969</unitdate>
-          <container id="4e8d18452d0959119e01f8fd8fc6f791" label="mixed materials (A0000000043767)" type="box">4</container>
-          <container id="872184906e05dc8757a9f65d0b65c327" parent="4e8d18452d0959119e01f8fd8fc6f791" type="folder">69</container>
-        </did>
-        <scopecontent id="57387c249b61de47238d1b1b02e23bef">
-          <head>Scope and Contents note</head>
-          <p>Listings of individuals with addresses, title and salary grade, and department affiliation. Lists note oaths of office received between July 1968 and October 1969.</p>
-        </scopecontent>
-      </c>
-      <c id="28c2cb3881d3450693a27a0ef7a6a293" level="file">
-        <did>
-          <unittitle>Miscellaneous Files - Oaths of Office</unittitle>
-          <unitdate normal="1968/1969" type="inclusive">1968-1969</unitdate>
-          <container id="51f4b58ff2a38ca83a806351d316d14f" label="mixed materials (A0000000043767)" type="box">4</container>
-          <container id="309281620fb16154f6900dcfeda215cf" parent="51f4b58ff2a38ca83a806351d316d14f" type="folder">70</container>
-        </did>
-        <scopecontent id="bd6b6f2c8b2b36141361c31aba3c7033">
-          <head>Scope and Contents note</head>
-          <p>Listings of individuals with addresses, title and salary grade, and department affiliation. Lists note oaths of office received between July 1968 and October 1969.</p>
-        </scopecontent>
-      </c>
-      <c id="99bb06967414444a8fdcbe29212090dd" level="file">
-        <did>
-          <unittitle>Miscellaneous Files - Oaths of Office</unittitle>
-          <unitdate normal="1968/1969" type="inclusive">1968-1969</unitdate>
-          <container id="7c06fc42d5b9251f7d56ce3fbd9fcdc7" label="mixed materials (A0000000043767)" type="box">4</container>
-          <container id="5ac90e73c184cc3ad4b456e16ce042e3" parent="7c06fc42d5b9251f7d56ce3fbd9fcdc7" type="folder">71</container>
-        </did>
-        <scopecontent id="e0f9868528a70fa9a91e2851ddf574cb">
-          <head>Scope and Contents note</head>
-          <p>Listings of individuals with addresses, title and salary grade, and department affiliation. Lists note oaths of office received between July 1968 and October 1969.</p>
-        </scopecontent>
-      </c>
-      <c id="a180dacd766543dc9b954550a083f47e" level="file">
-        <did>
-          <unittitle>Miscellaneous Files - Press Releases</unittitle>
-          <unitdate normal="1967/1968" type="inclusive">1967-1968</unitdate>
-          <container id="da913b39702bb8e28150e71d56a6ecd5" label="mixed materials (A0000000043767)" type="box">4</container>
-          <container id="704d9fa69206ebe4362d3454d7cf4950" parent="da913b39702bb8e28150e71d56a6ecd5" type="folder">72</container>
-        </did>
-        <scopecontent id="c3b8784dec7e0e8605be83797b208fe5">
-          <head>Scope and Contents note</head>
-          <p>Selection of press releases, primarily concerned with positions in the state government.</p>
-        </scopecontent>
-      </c>
-      <c id="49299dc1fea94ce098fd2c951ff21c14" level="file">
-        <did>
-          <unittitle>Miscellaneous Files - 1969 Summer Employment</unittitle>
-          <container id="8fa832014df72b94d84ecf25c2b7103d" label="mixed materials (A0000000043767)" type="box">4</container>
-          <container id="94cfdc18ca801e9c0c3215e5b629397b" parent="8fa832014df72b94d84ecf25c2b7103d" type="folder">73</container>
-        </did>
-        <scopecontent id="e93934ea207d792c22f0286360f1e971">
-          <head>Scope and Contents note</head>
-          <p>Memoranda, correspondence, and records regarding youth employment in New York State.</p>
-        </scopecontent>
-      </c>
-      <c id="3ce265f0ae23410e9efa66ce79d681e8" level="file">
-        <did>
-          <unittitle>Miscellaneous Files - 1969 Summer Employment</unittitle>
-          <container id="868f110a9eb8a18de58c63bd559c55dd" label="mixed materials (A0000000043767)" type="box">4</container>
-          <container id="6ab8c3e302c063d8e1fad06b38707438" parent="868f110a9eb8a18de58c63bd559c55dd" type="folder">74</container>
-        </did>
-        <scopecontent id="2b2118a18d74d879aaacdb53df743295">
-          <head>Scope and Contents note</head>
-          <p>Memoranda, correspondence, and records regarding youth employment in New York State.</p>
-        </scopecontent>
-      </c>
-      <c id="6c5fee8cf4f24e488229de077d0bd95c" level="file">
-        <did>
-          <unittitle>Miscellaneous Files - 1970 Summer Employment, Division of Parks</unittitle>
-          <container id="8b351c7227f5fdb6b4385098a5dbcf89" label="mixed materials (A0000000043767)" type="box">4</container>
-          <container id="83d6ca744c5c97490e140011b5f28a08" parent="8b351c7227f5fdb6b4385098a5dbcf89" type="folder">75</container>
-        </did>
-        <scopecontent id="c43d45285fdaccc8c1774a390d86e664">
-          <head>Scope and Contents note</head>
-          <p>Memoranda, correspondence, and records regarding youth employment in the New York State Department of Parks.</p>
-        </scopecontent>
-      </c>
-      <c id="7b123f4b85b24d2baf4ede36ab45baef" level="file">
-        <did>
-          <unittitle>Miscellaneous Files - 1970 Summer Employment, Social Services and Conservation</unittitle>
-          <container id="4828d4fd40dc0fb3e6bae901ef26d0b0" label="mixed materials (A0000000043767)" type="box">4</container>
-          <container id="ca9d928d4999a27761f9cc2404abec8d" parent="4828d4fd40dc0fb3e6bae901ef26d0b0" type="folder">76</container>
-        </did>
-        <scopecontent id="7b1e758d44c7235f5b20b35a52369eba">
-          <head>Scope and Contents note</head>
-          <p>Memoranda, correspondence, and records regarding employment in New York State summer schools and in the Department of Conservation.</p>
-        </scopecontent>
-      </c>
-      <c id="e6e2b9458abe4cfdac555c02d7449bd7" level="file">
-        <did>
-          <unittitle>Miscellaneous Files - 1970 Summer Employment, Social Services and Conservation</unittitle>
-          <container id="9559ec956dbebdff24a6b16133db68be" label="mixed materials (A0000000043767)" type="box">4</container>
-          <container id="041eaadc28b57c3356950fff28aeafeb" parent="9559ec956dbebdff24a6b16133db68be" type="folder">77</container>
-        </did>
-        <scopecontent id="4e11d756bf5fec5cf00144d60d4834d3">
-          <head>Scope and Contents note</head>
-          <p>Memoranda, correspondence, and records regarding employment in New York State summer schools and in the Department of Conservation.</p>
-        </scopecontent>
-      </c>
-    </dsc>
-  </archdesc>
+Series 38 - New York Republican State Fund Raising Reports</p>  </arrangement>
+  <bioghist id="f111c4888d04c83f73f1624b132b9967">
+    <head>Biographical/Historical note</head>
+<p>Nelson A. Rockefeller served as governor of New York from January 1, 1959, to December 18, 1973. He was the first person elected to four consecutive four-year terms as a state governor.</p>  </bioghist>
+  <prefercite id="3fb7fdfe9a62d0af1be37f058462079e">
+    <head>Preferred Citation note</head>
+<p>Information regarding the Rockefeller Archive Center's preferred elements and forms of citation can be found at <extref href="http://www.rockarch.org/research/citations.php">http://www.rockarch.org/research/citations.php</extref></p>  </prefercite>
+  <fileplan id="7b5765ba70f39c421bdea4235f781472">
+    <head>File Plan note</head>
+<p>Former Classification: III 15 2</p>  </fileplan>
+  <userestrict id="e6a2e8268cad91e0c23dab8429b14587">
+    <head>Conditions Governing Use note</head>
+<p>RAC users must abide by all applicable provisions of U.S. copyright law. Reproduction/duplication of archival items is routinely provided in accordance with "fair use." If the RAC does not hold copyright for an archival collection or items within a collection, it is the user's responsibility to contact the copyright holder, or make a fair effort to do so, prior to publication.</p>  </userestrict>
+  <accessrestrict id="96abb5c9e43c4bf7fc51f1c17f6a54a2">
+    <head>Conditions Governing Access note</head>
+<p>Open for research with select materials restricted as noted. Brittle or damaged items are available at the discretion of RAC. Researchers interested in accessing digital media (floppy disks, CDs, DVDs, etc.) or audiovisual material (audio cassettes, VHS, etc.) in this collection must use an access surrogate. The original items may not be accessed because of preservation concerns. To request an access surrogate be made, or if you are unsure if there is an access surrogate, please contact an archivist.</p>  </accessrestrict>
+  <processinfo id="f36eee9aa010ff12b8af6091c7995fbf">
+    <head>Processing Information note</head>
+<p>Processing Level 3: Standard Processing.</p>  </processinfo>
+  <scopecontent id="cf3b37657d3a97cae301923dd6cdb813">
+    <head>Scope and Contents note</head>
+<p>NOTE TO RESEARCHERS</p><p>This subseries contains a portion of the office files of several members of Nelson A. Rockefeller's staff, primarily the Appointments Office. They document official activities in the execution of their duties as members of Rockefeller's staff. The actions, decisions, and exchanges of information or points of view documented here occurred in the course of proposing and implementing policies for the Rockefeller administrations, political campaigns, and/or Rockefeller's personal activities. However, unless a document is specifically addressed to or from Nelson A. Rockefeller, or is referred to in a document addressed to him, it should not be assumed he saw the document or was aware of its existence or substance. Furthermore, researchers should bear in mind that staff files may contain documents or drafts addressed to Rockefeller that were never shown to him.</p><p>SCOPE AND CONTENT</p><p>This is an incomplete portion of Governor Rockefeller's Appointments Office correspondence, dating from 1958 to 1970. Only three boxes of alphabetical correspondence are represented, from C through L. There is no record or indication of what happened to the rest of the alphabetical run. The final box of the series is a box of miscellaneous subject files, dating from 1967 to 1970. Alphabetically arranged by topic, this portion of the series is also incomplete. The material contained withing these files may be duplicated within the official gubernatorial record, maintained on microfilm at both the New York State Archives and the Rockefeller Archive Center.</p><p>A function of the Appointments Office was to sift through the letters of application received for positions in the gubernatorial administrations. The series consists of correspondence to and from the individuals making application, as well as internal memoranda to and from other staff of the Appointments Office or to staff of the various state-level departments to which an applicant was referred.</p>  </scopecontent>
+  <otherfindaid id="653d1c79d1e8141a8e7af09b01e35702">
+    <head>Other Finding Aids note</head>
+<p>Detailed finding aids for each series of this collection are available:</p><p><extref href="../FA354/overview">Nelson A. Rockefeller Gubernatorial Records, Assembly and Senate Memos (FA354)</extref></p><p><extref href="../FA355/overview">Nelson A. Rockefeller Gubernatorial Records, Joseph H. Boyd (FA355)</extref></p><p><extref href="../FA356/overview">Nelson A. Rockefeller Gubernatorial Records, James Cannon (FA356)</extref></p><p><extref href="../FA357/overview">Nelson A. Rockefeller Gubernatorial Records, Affirmative Action (N. Lee Cook) (FA357)</extref></p><p><extref href="../FA358/overview">Nelson A. Rockefeller Gubernatorial Records, Counsel's Office (FA358)</extref></p><p><extref href="../FA359/overview">Nelson A. Rockefeller Gubernatorial Records, New York State Committee to Reelect the President (FA359)</extref></p><p><extref href="../FA360/overview">Nelson A. Rockefeller Gubernatorial Records, Jerry A. Danzig (FA360)</extref></p><p><extref href="../FA361/overview">Nelson A. Rockefeller Gubernatorial Records, Executive Chamber (FA361)</extref></p><p><extref href="../FA362/overview">Nelson A. Rockefeller Gubernatorial Records, 55th Street (FA362)</extref></p><p><extref href="../FA363/overview">Nelson A. Rockefeller Gubernatorial Records, Issue Books (FA363)</extref></p><p><extref href="../FA364/overview">Nelson A. Rockefeller Gubernatorial Records, Arthur Massolo (FA364)</extref></p><p><extref href="../FA242/overview">Nelson A. Rockefeller Gubernatorial Records, Hugh Morrow (FA242)</extref></p><p><extref href="../FA365/overview">Nelson A. Rockefeller Gubernatorial Records, New York Office (FA365)</extref></p><p><extref href="../FA366/overview">Nelson A. Rockefeller Gubernatorial Records, Civil Service Resolutions (Charles H. Palmer) (FA366)</extref></p><p><extref href="../FA367/overview">Nelson A. Rockefeller Gubernatorial Records, Political Files (FA367)</extref></p><p><extref href="../FA368/overview">Nelson A. Rockefeller Gubernatorial Records, Press Office (FA368)</extref></p><p><extref href="../FA369/overview">Nelson A. Rockefeller Gubernatorial Records, Public Relations (FA369)</extref></p><p><extref href="../FA370/overview">Nelson A. Rockefeller Gubernatorial Records, Departmental Reports (FA370)</extref></p><p><extref href="../FA371/overview">Nelson A. Rockefeller Gubernatorial Records, William J. Ronan (FA371)</extref></p><p><extref href="../FA372/overview">Nelson A. Rockefeller Gubernatorial Records, Speeches (FA372)</extref></p><p><extref href="../FA373/overview">Nelson A. Rockefeller Gubernatorial Records, Diane Van Wie (FA373)</extref></p><p><extref href="../FA374/overview">Nelson A. Rockefeller Gubernatorial Records, Ann C. Whitman, Gubernatorial (FA374)</extref></p><p><extref href="../FA375/overview">Nelson A. Rockefeller Gubernatorial Records, Gene Wyckoff (FA375)</extref></p><p><extref href="../FA376/overview">Nelson A. Rockefeller Gubernatorial Records, New York Republican State Fund Raising Reports (FA376)</extref></p>  </otherfindaid>
+  <processinfo id="8642cb4a04964007e2adec58abfa5769">
+    <head>Processing Information note</head>
+<p>John LeGloahec July 2001</p>  </processinfo>
+  <controlaccess>
+    <subject source="lcsh">Presidential campaigns -- United States</subject>
+    <subject source="lcsh">Political science</subject>
+    <geogname source="lcsh">Latin America</geogname>
+    <subject source="lcsh">International relations -- United States</subject>
+    <subject source="lcsh">International relations</subject>
+    <subject source="lcsh">International economic relations</subject>
+    <subject source="lcsh">Political campaigns -- United States</subject>
+    <geogname source="lcsh">New York (State)</geogname>
+    <geogname source="lcsh">New York (N.Y.)</geogname>
+    <subject source="lcsh">Legislation -- New York (State)</subject>
+    <subject source="lcsh">Arms control -- United States</subject>
+    <subject source="lcsh">Civil defense</subject>
+    <subject source="lcsh">Civil defense -- United States</subject>
+    <subject source="lcsh">Civil service</subject>
+    <subject source="lcsh">Human rights</subject>
+    <subject source="lcsh">Governors -- Election -- New York (State) -- 1970</subject>
+    <subject source="lcsh">Affirmative action programs -- New York (State)</subject>
+    <subject source="lcsh">Arms control</subject>
+    <subject source="lcsh">Governors -- Election -- New York (State) -- 1962</subject>
+    <subject source="lcsh">Governors -- Election -- New York (State) -- 1958</subject>
+    <subject source="lcsh">Presidential candidates -- United States -- History -- 20th century</subject>
+    <subject source="lcsh">Governors -- Election -- New York (State) -- 1966</subject>
+    <subject source="lcsh">Economics</subject>
+    <subject source="lcsh">Civil service -- New York (State)</subject>
+    <subject source="lcsh">Government policy</subject>
+    <subject source="lcsh">Federal government -- United States</subject>
+    <subject source="lcsh">Vice-Presidents -- United States</subject>
+    <subject source="lcsh">Public relations</subject>
+    <subject source="lcsh">Public policy</subject>
+    <geogname source="lcsh">United States</geogname>
+    <subject source="lcsh">State governments -- United States</subject>
+    <corpname source="naf">Republican Party (U.S. : 1854- )</corpname>
+    <corpname role="aut" source="naf">New York (State). Governor (1959-1973 : Rockefeller)</corpname>
+  </controlaccess>
+  <dsc><c id="52ff0375623c4870bc4572688b627688" level="file"><did><unittitle>Correspondence Files (Car-Caz)</unittitle><unitdate normal="1959/1970" type="inclusive">1959-1970</unitdate><container altrender="Record Storage Box (Paige)" id="67530436e3ecf0f1db178a45f0cfb63a" label="mixed materials [A0000000043764]" type="box">1</container><container id="4130c95fac16aa2079ccd14b04cacfc0" parent="67530436e3ecf0f1db178a45f0cfb63a" type="folder">1</container></did></c><c id="0617b50b45814167851eff07401b6a45" level="file"><did><unittitle>Correspondence Files (Car-Caz)</unittitle><unitdate normal="1959/1970" type="inclusive">1959-1970</unitdate><container altrender="Record Storage Box (Paige)" id="b2e1f798bbd43a809ec95273fe70a55b" label="mixed materials [A0000000043764]" type="box">1</container><container id="cc63114822ccb3410db93f8ee02946a0" parent="b2e1f798bbd43a809ec95273fe70a55b" type="folder">2</container></did></c><c id="a6a59477f82d4c9783b18364b15c4dea" level="file"><did><unittitle>Correspondence Files (Ce-Ch)</unittitle><unitdate normal="1959/1970" type="inclusive">1959-1970</unitdate><container altrender="Record Storage Box (Paige)" id="bffab14025560d5e75a8019800ab9132" label="mixed materials [A0000000043764]" type="box">1</container><container id="6d269f09fb8b9db55360a988b878ff29" parent="bffab14025560d5e75a8019800ab9132" type="folder">3</container></did></c><c id="df1a7f5cc5b34a3fa4cb1db13ee665da" level="file"><did><unittitle>Correspondence Files (Ce-Ch)</unittitle><unitdate normal="1959/1970" type="inclusive">1959-1970</unitdate><container altrender="Record Storage Box (Paige)" id="55e0738f173993593176ee5f40872d86" label="mixed materials [A0000000043764]" type="box">1</container><container id="4a22bea107ff716184bd23cccce1b256" parent="55e0738f173993593176ee5f40872d86" type="folder">4</container></did></c><c id="74a26ff7f3c34c95b2342272a14adaf1" level="file"><did><unittitle>Correspondence Files (Cl)</unittitle><unitdate normal="1959/1970" type="inclusive">1959-1970</unitdate><container altrender="Record Storage Box (Paige)" id="838e3af7434e273309f3f1f21fbdc755" label="mixed materials [A0000000043764]" type="box">1</container><container id="b757a5f8974bdfb985ce9c1af0d0ec95" parent="838e3af7434e273309f3f1f21fbdc755" type="folder">5</container></did></c><c id="3669d4b16ead479c98d289c057a8cb27" level="file"><did><unittitle>Correspondence Files (Coa-Con)</unittitle><unitdate normal="1959/1970" type="inclusive">1959-1970</unitdate><container altrender="Record Storage Box (Paige)" id="9e897f0d1a83c6c0cc81995338a03117" label="mixed materials [A0000000043764]" type="box">1</container><container id="3a9161e848331df327c4beea3fc275c4" parent="9e897f0d1a83c6c0cc81995338a03117" type="folder">6</container></did></c><c id="faf61f57bbaf4d999289a170831b8510" level="file"><did><unittitle>Correspondence Files (Coa-Con)</unittitle><unitdate normal="1959/1970" type="inclusive">1959-1970</unitdate><container altrender="Record Storage Box (Paige)" id="afa212eda93b5cf359ce4883af20ea4c" label="mixed materials [A0000000043764]" type="box">1</container><container id="e85120986b4f7a3425a1e4c0b3527027" parent="afa212eda93b5cf359ce4883af20ea4c" type="folder">7</container></did></c><c id="6a0cfc1134c74254a341062bcde59a20" level="file"><did><unittitle>Correspondence Files (Coo-Coz)</unittitle><unitdate normal="1959/1970" type="inclusive">1959-1970</unitdate><container altrender="Record Storage Box (Paige)" id="dd47290bac0f452f81e9dc19e148f281" label="mixed materials [A0000000043764]" type="box">1</container><container id="c75679887130bb4018bc2767ddbc7c8d" parent="dd47290bac0f452f81e9dc19e148f281" type="folder">8</container></did></c><c id="4657b14c8ad94686818cf82710f67937" level="file"><did><unittitle>Correspondence Files (Cr-Cz)</unittitle><unitdate normal="1959/1970" type="inclusive">1959-1970</unitdate><container altrender="Record Storage Box (Paige)" id="74b6a7b762c1f1bf00627d4ae9f61f0e" label="mixed materials [A0000000043764]" type="box">1</container><container id="b65ec880c54d76420582fcf3c7e231a9" parent="74b6a7b762c1f1bf00627d4ae9f61f0e" type="folder">9</container></did></c><c id="61f86d62af2d40f1830a930e45400aca" level="file"><did><unittitle>Correspondence Files (Cr-Cz)</unittitle><unitdate normal="1959/1970" type="inclusive">1959-1970</unitdate><container altrender="Record Storage Box (Paige)" id="6c3ef4ad51ac0761aea4dce070937d37" label="mixed materials [A0000000043764]" type="box">1</container><container id="9041576176e77a829a64fabeab5b632c" parent="6c3ef4ad51ac0761aea4dce070937d37" type="folder">10</container></did></c><c id="764c49ea28574f5d8a1f88b2ebf3a712" level="file"><did><unittitle>Correspondence Files - Crouch, Paul A.</unittitle><container altrender="Record Storage Box (Paige)" id="941e3917fad92e1778e75c105e09d20a" label="mixed materials [A0000000043764]" type="box">1</container><container id="ae96a86b419de03464ffffa9a97a74e6" parent="941e3917fad92e1778e75c105e09d20a" type="folder">11</container></did><scopecontent id="b2c319627a610aea373bb3e2c4eee4a4"><head>Scope and Contents note</head><p>Letters of endorsement for Crouch to serve as Commissioner of Commerce.</p></scopecontent></c><c id="7addb9d0aec44b798e67cc42287d0d4c" level="file"><did><unittitle>Correspondence Files - Crouch, Paul A.</unittitle><container altrender="Record Storage Box (Paige)" id="8afb6cf0a22f0cee5a73008f02559334" label="mixed materials [A0000000043764]" type="box">1</container><container id="6b1a7ac4a49205190b60c8306a372192" parent="8afb6cf0a22f0cee5a73008f02559334" type="folder">12</container></did><scopecontent id="4592e9b5d8f7ed5d9813545ccf0ab6ad"><head>Scope and Contents note</head><p>Letters of endorsement for Crouch to serve as Commissioner of Commerce.</p></scopecontent></c><c id="dd0abee5354b46329ff9824e33eb751a" level="file"><did><unittitle>Correspondence Files (Da)</unittitle><container altrender="Record Storage Box (Paige)" id="ebd97e709e2cf0db31fe463abda26538" label="mixed materials [A0000000043764]" type="box">1</container><container id="d8ae6b2a8e656e2f106dcf1d90418ff6" parent="ebd97e709e2cf0db31fe463abda26538" type="folder">13</container></did></c><c id="9b9e1f5fb97c44c5abed47b94d081a02" level="file"><did><unittitle>Correspondence Files (Dea-Del)</unittitle><container altrender="Record Storage Box (Paige)" id="590e7e6261d75f3cd73bce8adb24c672" label="mixed materials [A0000000043764]" type="box">1</container><container id="af6b3d8cbbb53999e536be5ce87e679d" parent="590e7e6261d75f3cd73bce8adb24c672" type="folder">14</container></did></c><c id="b1894fa00d8f48d78d20919d754a9943" level="file"><did><unittitle>Correspondence Files (Dem-Dez)</unittitle><container altrender="Record Storage Box (Paige)" id="021ca65e353864567901b496fa711524" label="mixed materials [A0000000043764]" type="box">1</container><container id="7eb36c8ca6a1db9f89a14b3768ede239" parent="021ca65e353864567901b496fa711524" type="folder">15</container></did></c><c id="bec91e890a264e7aad88654fc665d006" level="file"><did><unittitle>Correspondence Files (Di)</unittitle><container altrender="Record Storage Box (Paige)" id="24060f729b66510ff449a6e83d2d9abb" label="mixed materials [A0000000043764]" type="box">1</container><container id="353ac40238d6871b8b3668fbda10e3ae" parent="24060f729b66510ff449a6e83d2d9abb" type="folder">16</container></did></c><c id="be563b457dbc475e94a4187200bbe207" level="file"><did><unittitle>Correspondence Files (Dm-Do)</unittitle><container altrender="Record Storage Box (Paige)" id="6737a6a98076102fc6b6cd221995aae0" label="mixed materials [A0000000043764]" type="box">1</container><container id="e59e508caae408e409d7fd6d03cc0bc8" parent="6737a6a98076102fc6b6cd221995aae0" type="folder">17</container></did></c><c id="a81c5f2938e94817a555d1a4678a1070" level="file"><did><unittitle>Correspondence Files (Dp-Dz)</unittitle><container altrender="Record Storage Box (Paige)" id="b9f173b9ef40f24e8954a62e5090fead" label="mixed materials [A0000000043764]" type="box">1</container><container id="a86ef18958c75c824c52a6412a5d1f4d" parent="b9f173b9ef40f24e8954a62e5090fead" type="folder">18</container></did></c><c id="5baf78a414554eefafc74e0d4a422fb2" level="file"><did><unittitle>Correspondence Files (Dp-Dz)</unittitle><container altrender="Record Storage Box (Paige)" id="28e6d530784f5f5cf169db8bd34f041c" label="mixed materials [A0000000043764]" type="box">1</container><container id="403b6dc5d8b36a11cd9cf0cd696d3d0a" parent="28e6d530784f5f5cf169db8bd34f041c" type="folder">19</container></did></c><c id="04a38b98fd1d47a8a33ae7a96c3ed9ba" level="file"><did><unittitle>Correspondence Files (E)</unittitle><container altrender="Record Storage Box (Paige)" id="4566b97ce813f65e1273304cadda56f6" label="mixed materials [A0000000043765]" type="box">2</container><container id="f165deb0728f9ae0e95176358f9baf41" parent="4566b97ce813f65e1273304cadda56f6" type="folder">20</container></did></c><c id="8d160ebb49db47c6b5495da2c62ccc09" level="file"><did><unittitle>Correspondence Files (E)</unittitle><container altrender="Record Storage Box (Paige)" id="0dc126ee9625b524c2e6e03d4545286f" label="mixed materials [A0000000043765]" type="box">2</container><container id="3eda9447d725e479e5cf200e3863afc1" parent="0dc126ee9625b524c2e6e03d4545286f" type="folder">21</container></did></c><c id="e7caa780b7974660af0908598f986004" level="file"><did><unittitle>Correspondence Files (Fa-Fe)</unittitle><container altrender="Record Storage Box (Paige)" id="d14e1d0cdcf8575e9222c81e70183d39" label="mixed materials [A0000000043765]" type="box">2</container><container id="9cff59ce8381544cdaad58ee0718cacc" parent="d14e1d0cdcf8575e9222c81e70183d39" type="folder">22</container></did></c><c id="92afd6ff781242dd92a04077485b9302" level="file"><did><unittitle>Correspondence Files (Fia-Fin)</unittitle><container altrender="Record Storage Box (Paige)" id="7ccc53a0ce00a16a5e06f7952267eb41" label="mixed materials [A0000000043765]" type="box">2</container><container id="8398899758d67afeccabdc2bb2e49d16" parent="7ccc53a0ce00a16a5e06f7952267eb41" type="folder">23</container></did></c><c id="313730fee1174314873330d32fed694d" level="file"><did><unittitle>Correspondence Files (Fia-Fin)</unittitle><container altrender="Record Storage Box (Paige)" id="14474534514dc9bfdd6592d5e06c678b" label="mixed materials [A0000000043765]" type="box">2</container><container id="832938edd6fddf475cf527bac037f8dc" parent="14474534514dc9bfdd6592d5e06c678b" type="folder">24</container></did></c><c id="f86ab8ef0fcb4085b68fe35af8e04677" level="file"><did><unittitle>Correspondence Files (Fio-Fiz)</unittitle><container altrender="Record Storage Box (Paige)" id="e5154dc7b7551b349d84aba2206357f1" label="mixed materials [A0000000043765]" type="box">2</container><container id="0711fd1b41b2887257fe31a2bdd92cec" parent="e5154dc7b7551b349d84aba2206357f1" type="folder">25</container></did></c><c id="aaf883404b984aa19211604bbc92d4cc" level="file"><did><unittitle>Correspondence Files (Fl-Fo)</unittitle><container altrender="Record Storage Box (Paige)" id="15c4e10dcd431da42a16e8747088f140" label="mixed materials [A0000000043765]" type="box">2</container><container id="53e7e90a00c30ec92c01e6f554cdaf06" parent="15c4e10dcd431da42a16e8747088f140" type="folder">26</container></did></c><c id="30777f5eed5340fd8b202aab9c671863" level="file"><did><unittitle>Correspondence Files (Fra-Fre)</unittitle><container altrender="Record Storage Box (Paige)" id="4dbe62404c0c773bb7e3bd30451436bb" label="mixed materials [A0000000043765]" type="box">2</container><container id="6c06a0b109fd88e08dc4fd3a39a165f3" parent="4dbe62404c0c773bb7e3bd30451436bb" type="folder">27</container></did></c><c id="b74f1788f2f942769f0268391423bd72" level="file"><did><unittitle>Correspondence Files (Fri-Fuz)</unittitle><container altrender="Record Storage Box (Paige)" id="9aee127f0c5f9992e4c88aa79dbc814b" label="mixed materials [A0000000043765]" type="box">2</container><container id="e03a77ebed39916df3bb843d1ee34fc0" parent="9aee127f0c5f9992e4c88aa79dbc814b" type="folder">28</container></did></c><c id="963d5a1fcc3e4bb89b50247bd972433b" level="file"><did><unittitle>Correspondence Files (Ga)</unittitle><container altrender="Record Storage Box (Paige)" id="7fca99ce53fdfa03b71e3fda31c02a29" label="mixed materials [A0000000043765]" type="box">2</container><container id="1408e87e548f9133cc53dbd0aeee0c19" parent="7fca99ce53fdfa03b71e3fda31c02a29" type="folder">29</container></did></c><c id="e6c50b3f4a794ed5adc78d6d4a9b088a" level="file"><did><unittitle>Correspondence Files (Ga)</unittitle><container altrender="Record Storage Box (Paige)" id="16c769a18cc36048afabd600ac38a64f" label="mixed materials [A0000000043765]" type="box">2</container><container id="b218b0e8beeab7321d8a44acb7d3cbf5" parent="16c769a18cc36048afabd600ac38a64f" type="folder">30</container></did></c><c id="97e74b7dba414f75bdb2db767c16f938" level="file"><did><unittitle>Correspondence Files (Ge-Gh)</unittitle><container altrender="Record Storage Box (Paige)" id="4ecb92b55de1ca06c05892ce699e1041" label="mixed materials [A0000000043765]" type="box">2</container><container id="f0e99837d9a932948d4f7263b5e461c8" parent="4ecb92b55de1ca06c05892ce699e1041" type="folder">31</container></did></c><c id="a9afc5d79a624bfba24112c2e50867f3" level="file"><did><unittitle>Correspondence Files (Gi)</unittitle><container altrender="Record Storage Box (Paige)" id="b23ca7e12fd609f508f2510f3939685c" label="mixed materials [A0000000043765]" type="box">2</container><container id="a90a5bd121fb3e742fe87dcd62667f72" parent="b23ca7e12fd609f508f2510f3939685c" type="folder">32</container></did></c><c id="8b17d1a65cab49e480bdaf88f67d5aac" level="file"><did><unittitle>Correspondence Files (Gl)</unittitle><container altrender="Record Storage Box (Paige)" id="633dbc7d84fa67faca993ea3489cb56a" label="mixed materials [A0000000043765]" type="box">2</container><container id="110d916aa9bbae598fe98a4fe760074a" parent="633dbc7d84fa67faca993ea3489cb56a" type="folder">33</container></did></c><c id="e5c628cb6ead4320aa0a3b0a5c8f6a59" level="file"><did><unittitle>Correspondence Files (Go)</unittitle><container altrender="Record Storage Box (Paige)" id="330c0717d1616d55de633b5b83f18ba6" label="mixed materials [A0000000043765]" type="box">2</container><container id="ae5bc5d053a8549c4a7515c1d179b8e7" parent="330c0717d1616d55de633b5b83f18ba6" type="folder">34</container></did></c><c id="991076038418403888971376194f941b" level="file"><did><unittitle>Correspondence Files (Go)</unittitle><container altrender="Record Storage Box (Paige)" id="09a3adfbdc05465d981d32f359115684" label="mixed materials [A0000000043765]" type="box">2</container><container id="2a94b0220b41f000a7a56276e5a1c59c" parent="09a3adfbdc05465d981d32f359115684" type="folder">35</container></did></c><c id="cf2ec23c1c4b4565a3dcd10d165d1f02" level="file"><did><unittitle>Correspondence Files (Gra-Gre)</unittitle><container altrender="Record Storage Box (Paige)" id="760e11735ce1644afcc771d1f8a61d26" label="mixed materials [A0000000043765]" type="box">2</container><container id="09890a30775ce66c3b31c36fe479d3af" parent="760e11735ce1644afcc771d1f8a61d26" type="folder">36</container></did></c><c id="ba9180bdd425427ebf5197f8c0012c38" level="file"><did><unittitle>Correspondence Files (Gri)</unittitle><container altrender="Record Storage Box (Paige)" id="3ba040050bf947798ab52f74f2365e56" label="mixed materials [A0000000043765]" type="box">2</container><container id="7a753e60473595c37ed0a548fbb6e9df" parent="3ba040050bf947798ab52f74f2365e56" type="folder">37</container></did></c><c id="f94855cc80604dafbfc63b7366479f94" level="file"><did><unittitle>Correspondence Files (Gu)</unittitle><container altrender="Record Storage Box (Paige)" id="a415ba582fb548a94067093d062144c2" label="mixed materials [A0000000043765]" type="box">2</container><container id="2f76f38b1865c8966f4f788415de9be8" parent="a415ba582fb548a94067093d062144c2" type="folder">38</container></did></c><c id="c5fb0b891d4b4ad9986303b73cf21aa4" level="file"><did><unittitle>Correspondence Files (Hab-Hal)</unittitle><container altrender="Record Storage Box (Paige)" id="00c717ecabff8516b8b066b5d13b91a5" label="mixed materials [A0000000043765]" type="box">2</container><container id="8123c13aea4633fc3318137187653dae" parent="00c717ecabff8516b8b066b5d13b91a5" type="folder">39</container></did></c><c id="176266151da442289d2c3f6c36f13f2f" level="file"><did><unittitle>Correspondence Files (Ham-Hat)</unittitle><container altrender="Record Storage Box (Paige)" id="aa635da44e324e679a412a0a68be6162" label="mixed materials [A0000000043766]" type="box">3</container><container id="f25a5bd191309918e3f6206a232cab3e" parent="aa635da44e324e679a412a0a68be6162" type="folder">40</container></did></c><c id="e6c86acd196b47f58ab942c2411e63da" level="file"><did><unittitle>Correspondence Files (Hau-Haz)</unittitle><container altrender="Record Storage Box (Paige)" id="0a57c6bf5ffcdacb55d0affc77295b07" label="mixed materials [A0000000043766]" type="box">3</container><container id="eefeab35a2a0bdce5e849497fa9d78ff" parent="0a57c6bf5ffcdacb55d0affc77295b07" type="folder">41</container></did></c><c id="419ced97bdb342428d504f41546a79ee" level="file"><did><unittitle>Correspondence Files (He)</unittitle><container altrender="Record Storage Box (Paige)" id="f6e54c756084cc74810ef323ff4e852d" label="mixed materials [A0000000043766]" type="box">3</container><container id="c287695e9e828f788d7b61b1f1aa27a5" parent="f6e54c756084cc74810ef323ff4e852d" type="folder">42</container></did></c><c id="31f106c79c8043e19646607d044948ce" level="file"><did><unittitle>Correspondence Files (Hi)</unittitle><container altrender="Record Storage Box (Paige)" id="066953bc749f7eb39a2eab94393f9446" label="mixed materials [A0000000043766]" type="box">3</container><container id="9821c986cb53497f844d08278ddd383a" parent="066953bc749f7eb39a2eab94393f9446" type="folder">43</container></did></c><c id="df5e08ce375c478ea7b9289ef8834ca4" level="file"><did><unittitle>Correspondence Files (Ho)</unittitle><container altrender="Record Storage Box (Paige)" id="b202aa066d5269dd9d562f42b93d0b50" label="mixed materials [A0000000043766]" type="box">3</container><container id="3cbc7d77d22ecc6a6a03d8c9f4c4067f" parent="b202aa066d5269dd9d562f42b93d0b50" type="folder">44</container></did></c><c id="f42fbbd767ed4ceea37a4cba6ff5c3ea" level="file"><did><unittitle>Correspondence Files (Hu-Hy)</unittitle><container altrender="Record Storage Box (Paige)" id="3a6cbdc38883fad9b1613b12004a345e" label="mixed materials [A0000000043766]" type="box">3</container><container id="0a1af50f40cb3ee6c7a53841ea40cf6b" parent="3a6cbdc38883fad9b1613b12004a345e" type="folder">45</container></did></c><c id="52a7318a9a2a4b78b459c29afa7cbb8c" level="file"><did><unittitle>Correspondence Files (I)</unittitle><container altrender="Record Storage Box (Paige)" id="7721b5e1f43b09cc5a1f51967b82d6b4" label="mixed materials [A0000000043766]" type="box">3</container><container id="25195b7971bc2d8eecaa4d1665136a9b" parent="7721b5e1f43b09cc5a1f51967b82d6b4" type="folder">46</container></did></c><c id="df9e2024f17e47cd9e3e40ba6380be60" level="file"><did><unittitle>Correspondence Files - Inauguration, 1969</unittitle><container altrender="Record Storage Box (Paige)" id="398477ce76dc9105ef2c5aa8331b7d59" label="mixed materials [A0000000043766]" type="box">3</container><container id="ae8e746120ce6e719229ed38deb82dc3" parent="398477ce76dc9105ef2c5aa8331b7d59" type="folder">47</container></did><scopecontent id="222d61f8f3ff85d3e3a169abba093cb1"><head>Scope and Contents note</head><p>Requests to Governor Rockefeller for tickets to President Lyndon Johnson's inaugural ball.</p></scopecontent></c><c id="fe2b17af5b324877ad57f8dae638a751" level="file"><did><unittitle>Correspondence Files - "Italian-American Herald"</unittitle><container altrender="Record Storage Box (Paige)" id="66c4f604bfd462ead6e7cae097264ad2" label="mixed materials [A0000000043766]" type="box">3</container><container id="3f540711da6604a669611ac42b352501" parent="66c4f604bfd462ead6e7cae097264ad2" type="folder">48</container></did></c><c id="d3163a8201614ea7bd1fd8e3451177bd" level="file"><did><unittitle>Correspondence Files (J)</unittitle><container altrender="Record Storage Box (Paige)" id="d0e0c17f160df9c97aa27ad49aec5fa8" label="mixed materials [A0000000043766]" type="box">3</container><container id="efba8c4194bfa80a7c436408118fab44" parent="d0e0c17f160df9c97aa27ad49aec5fa8" type="folder">49</container></did></c><c id="1fea6b8614bc4d4298e2ab7b7383ae57" level="file"><did><unittitle>Correspondence Files (J)</unittitle><container altrender="Record Storage Box (Paige)" id="f3fbf0d4a7aa9006c6828606e0d7e2f6" label="mixed materials [A0000000043766]" type="box">3</container><container id="62d5632db98781f7d65ccdad0603b44c" parent="f3fbf0d4a7aa9006c6828606e0d7e2f6" type="folder">50</container></did></c><c id="aafff2609fb74f90afa29a8327aa5280" level="file"><did><unittitle>Correspondence Files (Ka)</unittitle><container altrender="Record Storage Box (Paige)" id="f1d8bbf368db0751d419257315ee5852" label="mixed materials [A0000000043766]" type="box">3</container><container id="e74d665de5713355107ddc9c614ce71d" parent="f1d8bbf368db0751d419257315ee5852" type="folder">51</container></did></c><c id="45b29d08ae694a0fb5044efdbb0467a4" level="file"><did><unittitle>Correspondence Files (Ke)</unittitle><container altrender="Record Storage Box (Paige)" id="65955ee2f4ad44e1cb90323f052cca57" label="mixed materials [A0000000043766]" type="box">3</container><container id="9754d748c67e4094839ea93d074482f4" parent="65955ee2f4ad44e1cb90323f052cca57" type="folder">52</container></did></c><c id="803fe88765b4432c9d1de01225cd5f6a" level="file"><did><unittitle>Correspondence Files (Kh-Ki)</unittitle><container altrender="Record Storage Box (Paige)" id="6d918221035a444c2830f0259e91178a" label="mixed materials [A0000000043766]" type="box">3</container><container id="815be86d3456bdc3c27fcc5e5c7b8775" parent="6d918221035a444c2830f0259e91178a" type="folder">53</container></did></c><c id="4e625184bb884664b6a35ae14f9501cc" level="file"><did><unittitle>Correspondence Files (Kl-Kn)</unittitle><container altrender="Record Storage Box (Paige)" id="3eedfd5e7fd03d8e06bc6ab2ad37d882" label="mixed materials [A0000000043766]" type="box">3</container><container id="2dc00bc9996233acdb05c5613353006e" parent="3eedfd5e7fd03d8e06bc6ab2ad37d882" type="folder">54</container></did></c><c id="f8436e4f6c3641a79166989adace4426" level="file"><did><unittitle>Correspondence Files (Ko)</unittitle><container altrender="Record Storage Box (Paige)" id="556fbab10477cad87edc06143ed54e46" label="mixed materials [A0000000043766]" type="box">3</container><container id="9b0ab39f18cebfa911ae7221863b51bb" parent="556fbab10477cad87edc06143ed54e46" type="folder">55</container></did></c><c id="781f5bf9fba94399a8212c866e97c458" level="file"><did><unittitle>Correspondence Files (Kr-Ky)</unittitle><container altrender="Record Storage Box (Paige)" id="47dac7c5fb10c8bdd683552a64b2782d" label="mixed materials [A0000000043766]" type="box">3</container><container id="eec58f6ddfe4b2c81da8723776f1ca96" parent="47dac7c5fb10c8bdd683552a64b2782d" type="folder">56</container></did></c><c id="28c0ca16baf94ba8868283c892ddb28f" level="file"><did><unittitle>Correspondence Files (La)</unittitle><container altrender="Record Storage Box (Paige)" id="0acd6be596aa1f0f29589448321eefb0" label="mixed materials [A0000000043766]" type="box">3</container><container id="a36e123e36a0d8d6d5dc77cd14bc3076" parent="0acd6be596aa1f0f29589448321eefb0" type="folder">57</container></did></c><c id="db21b283f198460bb4bf894023df329b" level="file"><did><unittitle>Correspondence Files (La)</unittitle><container altrender="Record Storage Box (Paige)" id="67ca14f2f7c91e16276c833750d69d4c" label="mixed materials [A0000000043766]" type="box">3</container><container id="340722b07ed41ff44adb61a7447cdb7c" parent="67ca14f2f7c91e16276c833750d69d4c" type="folder">58</container></did></c><c id="160878c3c3fc4685a7ef3e1b66ab4cc4" level="file"><did><unittitle>Miscellaneous Files - Abortion</unittitle><unitdate normal="1968/1968" type="inclusive">1968</unitdate><container altrender="Record Storage Box (Paige)" id="6e87a17ff6cd03546f66a1aadff0b542" label="mixed materials [A0000000043767]" type="box">4</container><container id="06ac53b6e12f9482a1ad5edfcdb09e5b" parent="6e87a17ff6cd03546f66a1aadff0b542" type="folder">59</container></did><scopecontent id="ae37112f40d5c32da21d7581a50ab38a"><head>Scope and Contents note</head><p>Correspondence, memoranda on abortion in New York State, including statistical information and material on the Committee to Study Abortion Laws in New York State, reports, polling data on abortion, medical reports, statistical information, legal precedents.</p></scopecontent></c><c id="a9644dc67a4f454d8b5b41adc266e1c0" level="file"><did><unittitle>Miscellaneous Files - Abortion</unittitle><unitdate normal="1968/1968" type="inclusive">1968</unitdate><container altrender="Record Storage Box (Paige)" id="69bd05eee01487329c0ec88ced793fa9" label="mixed materials [A0000000043767]" type="box">4</container><container id="50d0064d0fbb072735880fb567f38cf1" parent="69bd05eee01487329c0ec88ced793fa9" type="folder">60</container></did><scopecontent id="7ec12b16e788e4880fba6cc8ff0f32dc"><head>Scope and Contents note</head><p>Correspondence, memoranda on abortion in New York State, including statistical information and material on the Committee to Study Abortion Laws in New York State, reports, polling data on abortion, medical reports, statistical information, legal precedents.</p></scopecontent></c><c id="9e80bd8029c14e65b76eebd8e7935c63" level="file"><did><unittitle>Miscellaneous Files - Abortion</unittitle><unitdate normal="1968/1968" type="inclusive">1968</unitdate><container altrender="Record Storage Box (Paige)" id="c0eee68b51cb0351e57dc315cef68d5a" label="mixed materials [A0000000043767]" type="box">4</container><container id="e494c7c134f214ab10c1acff940ce2d3" parent="c0eee68b51cb0351e57dc315cef68d5a" type="folder">61</container></did><scopecontent id="cd14ec82e92615c62b826d4fd088526a"><head>Scope and Contents note</head><p>Correspondence, memoranda on abortion in New York State, including statistical information and material on the Committee to Study Abortion Laws in New York State, reports, polling data on abortion, medical reports, statistical information, legal precedents.</p></scopecontent></c><c id="228d3a74ba55485695666c834aca3c12" level="file"><did><unittitle>Miscellaneous Files - Abortion</unittitle><unitdate normal="1968/1968" type="inclusive">1968</unitdate><container altrender="Record Storage Box (Paige)" id="fe3299cd51e8da6c44a4c3fcb08ab53e" label="mixed materials [A0000000043767]" type="box">4</container><container id="8049f84a8065c0ff1605a7f3c01221a2" parent="fe3299cd51e8da6c44a4c3fcb08ab53e" type="folder">62</container></did><scopecontent id="cd74fbd99b27651b44f5183b4c908dd0"><head>Scope and Contents note</head><p>Correspondence, memoranda on abortion in New York State, including statistical information and material on the Committee to Study Abortion Laws in New York State, reports, polling data on abortion, medical reports, statistical information, legal precedents.</p></scopecontent></c><c id="071298de40534769abefd45a6336a9de" level="file"><did><unittitle>Miscellaneous Files - Abortion</unittitle><unitdate normal="1968/1968" type="inclusive">1968</unitdate><container altrender="Record Storage Box (Paige)" id="a711e58db82e7ad3a6e9eba8ec1df1ba" label="mixed materials [A0000000043767]" type="box">4</container><container id="d430b3323d7f72d2b04a37878e4f5505" parent="a711e58db82e7ad3a6e9eba8ec1df1ba" type="folder">63</container></did><scopecontent id="510daa014fbe52a0214df6ff3fe6b46c"><head>Scope and Contents note</head><p>Correspondence, memoranda on abortion in New York State, including statistical information and material on the Committee to Study Abortion Laws in New York State, reports, polling data on abortion, medical reports, statistical information, legal precedents.</p></scopecontent></c><c id="3a4694cbf2d74aefbeac2df0a88b2811" level="file"><did><unittitle>Miscellaneous Files - Abortion</unittitle><unitdate normal="1968/1968" type="inclusive">1968</unitdate><container altrender="Record Storage Box (Paige)" id="3619296e51f88a5dd0ae7ab6a6740d06" label="mixed materials [A0000000043767]" type="box">4</container><container id="3accb9df500e4c1d66815223a7ff99bd" parent="3619296e51f88a5dd0ae7ab6a6740d06" type="folder">64</container></did><scopecontent id="8da4837d9edcbb4634c7c3180698ef39"><head>Scope and Contents note</head><p>Correspondence, memoranda on abortion in New York State, including statistical information and material on the Committee to Study Abortion Laws in New York State, reports, polling data on abortion, medical reports, statistical information, legal precedents.</p></scopecontent></c><c id="5c0f39706b3f46d5bcc8df791ac0cdee" level="file"><did><unittitle>Miscellaneous Files - Abortion</unittitle><unitdate normal="1968/1968" type="inclusive">1968</unitdate><container altrender="Record Storage Box (Paige)" id="c8b214ba576cbd22396fdaf3db80f52a" label="mixed materials [A0000000043767]" type="box">4</container><container id="4301d6999b3b67899ee90d8e8492716a" parent="c8b214ba576cbd22396fdaf3db80f52a" type="folder">65</container></did><scopecontent id="cce17b25016364da1409c17431514c29"><head>Scope and Contents note</head><p>Correspondence, memoranda on abortion in New York State, including statistical information and material on the Committee to Study Abortion Laws in New York State, reports, polling data on abortion, medical reports, statistical information, legal precedents.</p></scopecontent></c><c id="7bc04e89a39342f0b43ca54b6b9bb975" level="file"><did><unittitle>Miscellaneous Files - Abortion</unittitle><unitdate normal="1968/1968" type="inclusive">1968</unitdate><container altrender="Record Storage Box (Paige)" id="8b97d08c4cefee58c5c10671fda48f95" label="mixed materials [A0000000043767]" type="box">4</container><container id="2fde1e73bdaaa041f46f540bfc45111e" parent="8b97d08c4cefee58c5c10671fda48f95" type="folder">66</container></did><scopecontent id="7e6b1ae93885e9e08bced138eaba5d0d"><head>Scope and Contents note</head><p>Correspondence, memoranda on abortion in New York State, including statistical information and material on the Committee to Study Abortion Laws in New York State, reports, polling data on abortion, medical reports, statistical information, legal precedents.</p></scopecontent></c><c id="b7b1b38d4fd34ea0b94dbc0c924f28bf" level="file"><did><unittitle>Miscellaneous Files - Abortion</unittitle><unitdate normal="1968/1968" type="inclusive">1968</unitdate><container altrender="Record Storage Box (Paige)" id="2ccc0e9ee80b970a3f2a07c2f1421e79" label="mixed materials [A0000000043767]" type="box">4</container><container id="fd6dd953c00d663e7aea7e6849b6c616" parent="2ccc0e9ee80b970a3f2a07c2f1421e79" type="folder">67</container></did><scopecontent id="7856165f7e3295b14ad0be0361703432"><head>Scope and Contents note</head><p>Correspondence, memoranda on abortion in New York State, including statistical information and material on the Committee to Study Abortion Laws in New York State, reports, polling data on abortion, medical reports, statistical information, legal precedents.</p></scopecontent></c><c id="52a7feb91ef341e9b3beccc5bdef31d7" level="file"><did><unittitle>Miscellaneous Files - Oaths of Office</unittitle><unitdate normal="1968/1969" type="inclusive">1968-1969</unitdate><container altrender="Record Storage Box (Paige)" id="cd57d7fb22095cb9cb79d5ed2d6e44e6" label="mixed materials [A0000000043767]" type="box">4</container><container id="6722ccfce1608cda0a3065c08fea9b8e" parent="cd57d7fb22095cb9cb79d5ed2d6e44e6" type="folder">68</container></did><scopecontent id="097e3d223f6662d6bcbae296a6fffeae"><head>Scope and Contents note</head><p>Listings of individuals with addresses, title and salary grade, and department affiliation. Lists note oaths of office received between July 1968 and October 1969.</p></scopecontent></c><c id="c51c2aa603d54cc485a6c67c01ad646e" level="file"><did><unittitle>Miscellaneous Files - Oaths of Office</unittitle><unitdate normal="1968/1969" type="inclusive">1968-1969</unitdate><container altrender="Record Storage Box (Paige)" id="a9ec58e7daa0f526857309001e86d57d" label="mixed materials [A0000000043767]" type="box">4</container><container id="efa6183662c34ba10fa0d3503e55e4e6" parent="a9ec58e7daa0f526857309001e86d57d" type="folder">69</container></did><scopecontent id="57387c249b61de47238d1b1b02e23bef"><head>Scope and Contents note</head><p>Listings of individuals with addresses, title and salary grade, and department affiliation. Lists note oaths of office received between July 1968 and October 1969.</p></scopecontent></c><c id="28c2cb3881d3450693a27a0ef7a6a293" level="file"><did><unittitle>Miscellaneous Files - Oaths of Office</unittitle><unitdate normal="1968/1969" type="inclusive">1968-1969</unitdate><container altrender="Record Storage Box (Paige)" id="420482a748a8ad5e36d131aa5ad5f4bd" label="mixed materials [A0000000043767]" type="box">4</container><container id="2580dd881ab67f7205f8322df5474414" parent="420482a748a8ad5e36d131aa5ad5f4bd" type="folder">70</container></did><scopecontent id="bd6b6f2c8b2b36141361c31aba3c7033"><head>Scope and Contents note</head><p>Listings of individuals with addresses, title and salary grade, and department affiliation. Lists note oaths of office received between July 1968 and October 1969.</p></scopecontent></c><c id="99bb06967414444a8fdcbe29212090dd" level="file"><did><unittitle>Miscellaneous Files - Oaths of Office</unittitle><unitdate normal="1968/1969" type="inclusive">1968-1969</unitdate><container altrender="Record Storage Box (Paige)" id="60d0df35f14282e7f4abf71479528eba" label="mixed materials [A0000000043767]" type="box">4</container><container id="38f84dd2a2dca071ab742b06c55aceec" parent="60d0df35f14282e7f4abf71479528eba" type="folder">71</container></did><scopecontent id="e0f9868528a70fa9a91e2851ddf574cb"><head>Scope and Contents note</head><p>Listings of individuals with addresses, title and salary grade, and department affiliation. Lists note oaths of office received between July 1968 and October 1969.</p></scopecontent></c><c id="a180dacd766543dc9b954550a083f47e" level="file"><did><unittitle>Miscellaneous Files - Press Releases</unittitle><unitdate normal="1967/1968" type="inclusive">1967-1968</unitdate><container altrender="Record Storage Box (Paige)" id="5ee8bca6bf7e20e5fd4f07b2b1fe016d" label="mixed materials [A0000000043767]" type="box">4</container><container id="0d5adb284d6196cf199b07b021a3a023" parent="5ee8bca6bf7e20e5fd4f07b2b1fe016d" type="folder">72</container></did><scopecontent id="c3b8784dec7e0e8605be83797b208fe5"><head>Scope and Contents note</head><p>Selection of press releases, primarily concerned with positions in the state government.</p></scopecontent></c><c id="49299dc1fea94ce098fd2c951ff21c14" level="file"><did><unittitle>Miscellaneous Files - 1969 Summer Employment</unittitle><container altrender="Record Storage Box (Paige)" id="64ed036b9f2d195abc0ccd1f41b1636b" label="mixed materials [A0000000043767]" type="box">4</container><container id="c3a505aff5805e448cb2a33d109c472c" parent="64ed036b9f2d195abc0ccd1f41b1636b" type="folder">73</container></did><scopecontent id="e93934ea207d792c22f0286360f1e971"><head>Scope and Contents note</head><p>Memoranda, correspondence, and records regarding youth employment in New York State.</p></scopecontent></c><c id="3ce265f0ae23410e9efa66ce79d681e8" level="file"><did><unittitle>Miscellaneous Files - 1969 Summer Employment</unittitle><container altrender="Record Storage Box (Paige)" id="9dc9c7a7cd0252e5309d18919d47fce6" label="mixed materials [A0000000043767]" type="box">4</container><container id="9d420df60177cbcfd6b1996cdb754142" parent="9dc9c7a7cd0252e5309d18919d47fce6" type="folder">74</container></did><scopecontent id="2b2118a18d74d879aaacdb53df743295"><head>Scope and Contents note</head><p>Memoranda, correspondence, and records regarding youth employment in New York State.</p></scopecontent></c><c id="6c5fee8cf4f24e488229de077d0bd95c" level="file"><did><unittitle>Miscellaneous Files - 1970 Summer Employment, Division of Parks</unittitle><container altrender="Record Storage Box (Paige)" id="d36f94a43616e30d4449874cddfe6eba" label="mixed materials [A0000000043767]" type="box">4</container><container id="dae218fafaef182f5f2121aad546b172" parent="d36f94a43616e30d4449874cddfe6eba" type="folder">75</container></did><scopecontent id="c43d45285fdaccc8c1774a390d86e664"><head>Scope and Contents note</head><p>Memoranda, correspondence, and records regarding youth employment in the New York State Department of Parks.</p></scopecontent></c><c id="7b123f4b85b24d2baf4ede36ab45baef" level="file"><did><unittitle>Miscellaneous Files - 1970 Summer Employment, Social Services and Conservation</unittitle><container altrender="Record Storage Box (Paige)" id="372dcfc99b86f8ad241b1bf64114472e" label="mixed materials [A0000000043767]" type="box">4</container><container id="00552645f1f2f36ed9c1f4e8fd54f5c7" parent="372dcfc99b86f8ad241b1bf64114472e" type="folder">76</container></did><scopecontent id="7b1e758d44c7235f5b20b35a52369eba"><head>Scope and Contents note</head><p>Memoranda, correspondence, and records regarding employment in New York State summer schools and in the Department of Conservation.</p></scopecontent></c><c id="e6e2b9458abe4cfdac555c02d7449bd7" level="file"><did><unittitle>Miscellaneous Files - 1970 Summer Employment, Social Services and Conservation</unittitle><container altrender="Record Storage Box (Paige)" id="5879b18cfbe496035e92663502ee79d9" label="mixed materials [A0000000043767]" type="box">4</container><container id="475e7fd9c7e2e6da3f5522fba6c53bb7" parent="5879b18cfbe496035e92663502ee79d9" type="folder">77</container></did><scopecontent id="4e11d756bf5fec5cf00144d60d4834d3"><head>Scope and Contents note</head><p>Memoranda, correspondence, and records regarding employment in New York State summer schools and in the Department of Conservation.</p></scopecontent></c></dsc>
+</archdesc>
 </ead>
