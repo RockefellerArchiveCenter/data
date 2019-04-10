@@ -1,118 +1,41 @@
-<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
-  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" repositoryencoding="iso15511">
-    <eadid>FA790.xml</eadid>
-    <filedesc>
-      <titlestmt>
-        <titleproper type="filing">Rockefeller (David) papers, Clipping Books</titleproper>
-        <titleproper>A Guide to the David Rockefeller papers, Clipping Books <num>FA790</num></titleproper>
-      </titlestmt>
-      <publicationstmt>
-        <publisher>Rockefeller Archive Center</publisher>
-        <address>
-          <addressline>15 Dayton Avenue</addressline>
-          <addressline>Sleepy Hollow 10591</addressline>
-          <addressline>archive@rockarch.org</addressline>
-          <addressline>URL: <extptr xlink:href="http://www.rockarch.org" xlink:show="new" xlink:title="http://www.rockarch.org" xlink:type="simple"/></addressline>
-        </address>
-      </publicationstmt>
-    </filedesc>
-    <profiledesc>
-      <creation>This finding aid was produced using ArchivesSpace on <date>2017-03-02 14:07:49 -0500</date>.</creation>
-      <descrules>Describing Archives: A Content Standard</descrules>
-    </profiledesc>
-  </eadheader>
-  <archdesc level="collection">
-    <did>
-      <langmaterial>
-        <language langcode="eng">English</language>
-      </langmaterial>
-      <repository>
-        <corpname>Rockefeller Archive Center</corpname>
-      </repository>
-      <unittitle>David Rockefeller papers, Clipping Books</unittitle>
-      <origination label="creator">
-        <famname role="aut" rules="dacs">Rockefeller family</famname>
-      </origination>
-      <origination label="creator">
-        <persname role="aut" source="lcnaf">Rockefeller, David</persname>
-      </origination>
-      <unitid>FA790</unitid>
-      <physdesc altrender="whole">
-        <extent altrender="materialtype spaceoccupied">7 Reels</extent>
-        <extent altrender="carrier">7 microfilm reels</extent>
-      </physdesc>
-      <unitdate normal="1937/1981" type="inclusive">1937-1942, 1959-1981</unitdate>
-    </did>
-    <prefercite id="61b76dffb6a4b4cc13eed7cb20462226">
-      <head>Preferred Citation</head>
-      <p>Information regarding the Rockefeller Archive Center's preferred elements and forms of citation can be found at <extref href="http://www.rockarch.org/research/citations.php">http://www.rockarch.org/research/citations.php</extref></p>
-    </prefercite>
-    <acqinfo id="cbb81a98470475240dfd85983717197a">
-      <head>Immediate Source of Acquisition</head>
-      <p>The microfilm was created by the staff of Room 5600, the Rockefeller family office at Rockefeller Center, and transferred to the Rockefeller Archive Center in the early 1980s.</p>
-    </acqinfo>
-    <accessrestrict id="c47afc9b6a7016cab4bf1a27c6498412">
-      <head>Conditions Governing Access</head>
-      <p>Open for research. Brittle or damaged items are available at the discretion of RAC.</p>
-    </accessrestrict>
-    <scopecontent id="38d493ffd8de981d464fb0f7ff8d5f3f">
-      <head>Scope and Contents</head>
-      <p>Contains clippings from newspapers and periodicals which document the interests and activities of David Rockefeller.</p>
-    </scopecontent>
-    <arrangement id="1b7ecd5f7acba19574e9013b4b843128">
-      <head>Arrangement</head>
-      <p>As received.</p>
-    </arrangement>
-    <dsc>
-      <c id="63d2d88e45e432445ec717b91ca26148" level="file">
-        <did>
-          <unittitle>Clipping Books</unittitle>
-          <unitdate normal="1937/1959" type="inclusive">1937-1942, 1959</unitdate>
-          <container id="11d90e94f5952a36ef9fd727347e51fd" label="Microform" type="reel">1</container>
-        </did>
-      </c>
-      <c id="771357269394be2bb34cbc67db93cd1d" level="file">
-        <did>
-          <unittitle>Clipping Books</unittitle>
-          <unitdate normal="1960/1966" type="inclusive">1960-1966</unitdate>
-          <container id="783819942b383a4603aea4aa7668d0ff" label="Microform" type="reel">2</container>
-        </did>
-      </c>
-      <c id="7312402cb5c953afb64827685458c6df" level="file">
-        <did>
-          <unittitle>Clipping Books</unittitle>
-          <unitdate normal="1967/1971" type="inclusive">1967-1971 June</unitdate>
-          <container id="60c89215ab5c42b9283cc587c644e530" label="Microform" type="reel">3</container>
-        </did>
-      </c>
-      <c id="9dba8193f4c991a7fc9109b4c0089027" level="file">
-        <did>
-          <unittitle>Clipping Books</unittitle>
-          <unitdate normal="1971/1974" type="inclusive">1971 July-1974 December</unitdate>
-          <container id="7ac64d97a76b5b0365b4a2b73cd1007e" label="Microform" type="reel">4</container>
-        </did>
-      </c>
-      <c id="ac6ddd81bc33c626368dca057493a79f" level="file">
-        <did>
-          <unittitle>Clipping Books</unittitle>
-          <unitdate normal="1975/1978" type="inclusive">1975-1978 September</unitdate>
-          <container id="53ddde7caa4a339ccef19fed1a360291" label="Microform" type="reel">5</container>
-        </did>
-      </c>
-      <c id="35e7b13e88b73a69e39823305553940a" level="file">
-        <did>
-          <unittitle>Clipping Books</unittitle>
-          <unitdate normal="1978/1980" type="inclusive">1978 October-1980 October</unitdate>
-          <container id="55c8578ba881eb2582b679634379abea" label="Microform" type="reel">6</container>
-        </did>
-      </c>
-      <c id="892af716bcccc1c2cb930271c902cda2" level="file">
-        <did>
-          <unittitle>Clipping Books</unittitle>
-          <unitdate normal="1980/1981" type="inclusive">1980 November-1981 April</unitdate>
-          <container id="7c501536b456c46a908b08b66f5b2b85" label="Microform" type="reel">7</container>
-        </did>
-      </c>
-    </dsc>
-  </archdesc>
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid>FA790.xml</eadid><filedesc><titlestmt><titleproper type="filing">Rockefeller (David) papers, Clipping Books</titleproper><titleproper>A Guide to the David Rockefeller papers, Clipping Books <num>FA790</num></titleproper></titlestmt><publicationstmt><publisher>Rockefeller Archive Center</publisher><address><addressline>15 Dayton Avenue</addressline><addressline>Sleepy Hollow 10591</addressline><addressline>archive@rockarch.org</addressline><addressline>URL: <extptr xlink:href="http://www.rockarch.org" xlink:show="new" xlink:title="http://www.rockarch.org" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2019-04-10 00:21:22 -0400</date>.</creation><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
+  <did>
+    <langmaterial>
+      <language langcode="eng">English</language>
+    </langmaterial>
+    <repository>
+      <corpname>Rockefeller Archive Center</corpname>
+    </repository>
+    <unittitle>David Rockefeller papers, Clipping Books</unittitle>
+    <origination label="creator">
+      <famname role="aut" rules="dacs" source="local">Rockefeller family</famname>
+    </origination>
+    <origination label="creator">
+      <persname role="aut" source="naf">Rockefeller, David</persname>
+    </origination>
+    <unitid>FA790</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">7 Reels</extent>
+      <extent altrender="carrier">7 microfilm reels</extent>
+    </physdesc>
+    <unitdate normal="1937/1981" type="inclusive">1937-1942, 1959-1981</unitdate>
+  </did>
+  <prefercite id="61b76dffb6a4b4cc13eed7cb20462226">
+    <head>Preferred Citation</head>
+<p>Information regarding the Rockefeller Archive Center's preferred elements and forms of citation can be found at <extref href="http://www.rockarch.org/research/citations.php">http://www.rockarch.org/research/citations.php</extref></p>  </prefercite>
+  <acqinfo id="cbb81a98470475240dfd85983717197a">
+    <head>Immediate Source of Acquisition</head>
+<p>The microfilm was created by the staff of Room 5600, the Rockefeller family office at Rockefeller Center, and transferred to the Rockefeller Archive Center in the early 1980s.</p>  </acqinfo>
+  <accessrestrict id="c47afc9b6a7016cab4bf1a27c6498412">
+    <head>Conditions Governing Access</head>
+<p>Open for research. Brittle or damaged items are available at the discretion of RAC.</p>  </accessrestrict>
+  <scopecontent id="38d493ffd8de981d464fb0f7ff8d5f3f">
+    <head>Scope and Contents</head>
+<p>Contains clippings from newspapers and periodicals which document the interests and activities of David Rockefeller.</p>  </scopecontent>
+  <arrangement id="1b7ecd5f7acba19574e9013b4b843128">
+    <head>Arrangement</head>
+<p>As received.</p>  </arrangement>
+  <dsc><c id="63d2d88e45e432445ec717b91ca26148" level="file"><did><unittitle>Clipping Books</unittitle><unitdate normal="1937/1959" type="inclusive">1937-1942, 1959</unitdate><container id="7adaacb22f056154572187f96dfa014e" label="Microform" type="reel">1</container></did></c><c id="771357269394be2bb34cbc67db93cd1d" level="file"><did><unittitle>Clipping Books</unittitle><unitdate normal="1960/1966" type="inclusive">1960-1966</unitdate><container id="084f251ec837cbbfa62332add40e9860" label="Microform" type="reel">2</container></did></c><c id="7312402cb5c953afb64827685458c6df" level="file"><did><unittitle>Clipping Books</unittitle><unitdate normal="1967/1971" type="inclusive">1967-1971 June</unitdate><container id="87f424188bda481545013be541201d8f" label="Microform" type="reel">3</container></did></c><c id="9dba8193f4c991a7fc9109b4c0089027" level="file"><did><unittitle>Clipping Books</unittitle><unitdate normal="1971/1974" type="inclusive">1971 July-1974 December</unitdate><container id="99957c46bc6a7b76d6164a00730aa42f" label="Microform" type="reel">4</container></did></c><c id="ac6ddd81bc33c626368dca057493a79f" level="file"><did><unittitle>Clipping Books</unittitle><unitdate normal="1975/1978" type="inclusive">1975-1978 September</unitdate><container id="ccb87432ed921d9ed5e4a3b07c6d8f68" label="Microform" type="reel">5</container></did></c><c id="35e7b13e88b73a69e39823305553940a" level="file"><did><unittitle>Clipping Books</unittitle><unitdate normal="1978/1980" type="inclusive">1978 October-1980 October</unitdate><container id="6608cbf4f0030e814b4cd08159c10405" label="Microform" type="reel">6</container></did></c><c id="892af716bcccc1c2cb930271c902cda2" level="file"><did><unittitle>Clipping Books</unittitle><unitdate normal="1980/1981" type="inclusive">1980 November-1981 April</unitdate><container id="4e1aac4b1a3e98ebe5a8a1d477ce33b2" label="Microform" type="reel">7</container></did></c></dsc>
+</archdesc>
 </ead>

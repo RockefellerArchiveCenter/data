@@ -1,79 +1,32 @@
-<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
-  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" repositoryencoding="iso15511">
-    <eadid>FA438.xml</eadid>
-    <filedesc>
-      <titlestmt>
-        <titleproper type="filing">Rockefeller Family and Associates, Archives, Tioga Series photographs, Series 1037</titleproper>
-        <titleproper>A Guide to the Rockefeller Family and Associates, Archives, Tioga Series photographs, Series 1037 <num>FA438</num></titleproper>
-      </titlestmt>
-      <publicationstmt>
-        <publisher>Rockefeller Archive Center</publisher>
-        <address>
-          <addressline>15 Dayton Avenue</addressline>
-          <addressline>Sleepy Hollow 10591</addressline>
-          <addressline>archive@rockarch.org</addressline>
-          <addressline>URL: <extptr xlink:href="http://www.rockarch.org" xlink:show="new" xlink:title="http://www.rockarch.org" xlink:type="simple"/></addressline>
-        </address>
-      </publicationstmt>
-    </filedesc>
-    <profiledesc>
-      <creation>This finding aid was produced using ArchivesSpace on <date>2017-03-02 08:29:33 -0500</date>.</creation>
-      <langusage>English</langusage>
-      <descrules>Describing Archives: A Content Standard</descrules>
-    </profiledesc>
-  </eadheader>
-  <archdesc level="series">
-    <did>
-      <langmaterial>
-        <language langcode="eng">English</language>
-      </langmaterial>
-      <repository>
-        <corpname>Rockefeller Archive Center</corpname>
-      </repository>
-      <unittitle>Rockefeller Family and Associates, Archives, Tioga Series photographs, Series 1037</unittitle>
-      <origination label="creator">
-        <famname role="aut" rules="dacs">Rockefeller family</famname>
-      </origination>
-      <unitid>FA438</unitid>
-      <physdesc altrender="whole">
-        <extent altrender="materialtype spaceoccupied">0.1 Cubic Feet</extent>
-        <extent altrender="carrier">2 folders.</extent>
-      </physdesc>
-      <unitdate>undated</unitdate>
-    </did>
-    <accessrestrict id="5e2eac61408f934f94f48c4fd98dc93a">
-      <head>Conditions Governing Access</head>
-      <p>Open for research. Brittle or damaged items are available at the discretion of RAC. Researchers interested in accessing digital media (floppy disks, CDs, DVDs, etc.) or audiovisual material (audio cassettes, VHS, etc.) in this collection must use an access surrogate. The original items may not be accessed because of preservation concerns. To request an access surrogate be made, or if you are unsure if there is an access surrogate, please contact an archivist.</p>
-    </accessrestrict>
-    <arrangement id="ac52a75c2a6c4148bbd67630340f13ab">
-      <head>Arrangement</head>
-      <p>As received.</p>
-    </arrangement>
-    <scopecontent id="e9cac1f166119ba5ee39288f86b7a39a">
-      <head>Scope and Contents</head>
-      <p>Types of records include: photographs.</p>
-    </scopecontent>
-    <dsc>
-      <c id="2b678b963d1e41fca5efbbd4f1423245" level="series">
-        <did>
-          <unittitle>Rockefeller Family  Associates: Archives, Tioga Series photographs</unittitle>
-          <unitid>1037</unitid>
-        </did>
-        <c id="fcd7f6cf418f4bdeb33f575e7df3ff01" level="file">
-          <did>
-            <unittitle>Richford: JDR Birthplace</unittitle>
-            <container id="2eef3e08e7439378a72bbc017b817680" label="Still Image (A0000000055102)" type="box">14</container>
-            <container id="10103b53c2fb61628438f76058dce1c0" parent="2eef3e08e7439378a72bbc017b817680" type="folder">180</container>
-          </did>
-        </c>
-        <c id="5d81d832315b460bac6d8dbeb10e9869" level="file">
-          <did>
-            <unittitle>William Avery Rockefeller: William Levingston report Joseph W. Ernst</unittitle>
-            <container id="1e5aaf079a7895fc0cec1cc9ca74f88f" label="Still Image (A0000000055102)" type="box">14</container>
-            <container id="1a2bdcc492e1a1884ec402b9e1369a25" parent="1e5aaf079a7895fc0cec1cc9ca74f88f" type="folder">181</container>
-          </did>
-        </c>
-      </c>
-    </dsc>
-  </archdesc>
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid>FA438.xml</eadid><filedesc><titlestmt><titleproper type="filing">Rockefeller Family and Associates, Archives, Tioga Series photographs, Series 1037</titleproper><titleproper>A Guide to the Rockefeller Family and Associates, Archives, Tioga Series photographs, Series 1037 <num>FA438</num></titleproper></titlestmt><publicationstmt><publisher>Rockefeller Archive Center</publisher><address><addressline>15 Dayton Avenue</addressline><addressline>Sleepy Hollow 10591</addressline><addressline>archive@rockarch.org</addressline><addressline>URL: <extptr xlink:href="http://www.rockarch.org" xlink:show="new" xlink:title="http://www.rockarch.org" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2019-04-10 00:11:27 -0400</date>.</creation><langusage>English</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="series">
+  <did>
+    <langmaterial>
+      <language langcode="eng">English</language>
+    </langmaterial>
+    <repository>
+      <corpname>Rockefeller Archive Center</corpname>
+    </repository>
+    <unittitle>Rockefeller Family and Associates, Archives, Tioga Series photographs, Series 1037</unittitle>
+    <origination label="creator">
+      <famname role="aut" rules="dacs" source="local">Rockefeller family</famname>
+    </origination>
+    <unitid>FA438</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">0.1 Cubic Feet</extent>
+      <extent altrender="carrier">2 folders.</extent>
+    </physdesc>
+    <unitdate>undated</unitdate>
+  </did>
+  <accessrestrict id="5e2eac61408f934f94f48c4fd98dc93a">
+    <head>Conditions Governing Access</head>
+<p>Open for research. Brittle or damaged items are available at the discretion of RAC. Researchers interested in accessing digital media (floppy disks, CDs, DVDs, etc.) or audiovisual material (audio cassettes, VHS, etc.) in this collection must use an access surrogate. The original items may not be accessed because of preservation concerns. To request an access surrogate be made, or if you are unsure if there is an access surrogate, please contact an archivist.</p>  </accessrestrict>
+  <arrangement id="ac52a75c2a6c4148bbd67630340f13ab">
+    <head>Arrangement</head>
+<p>As received.</p>  </arrangement>
+  <scopecontent id="e9cac1f166119ba5ee39288f86b7a39a">
+    <head>Scope and Contents</head>
+<p>Types of records include: photographs.</p>  </scopecontent>
+  <dsc><c id="2b678b963d1e41fca5efbbd4f1423245" level="series"><did><unittitle>Rockefeller Family  Associates: Archives, Tioga Series photographs</unittitle><unitid>1037</unitid></did><c id="fcd7f6cf418f4bdeb33f575e7df3ff01" level="file"><did><unittitle>Richford: JDR Birthplace</unittitle><container altrender="Letter Document Storage Box" id="1502225d617ab6c62bbbe3144e038498" label="Still Image [A0000000055102]" type="box">14</container><container id="914a562255cfda1d19731ce9da970794" parent="1502225d617ab6c62bbbe3144e038498" type="folder">180</container></did></c><c id="5d81d832315b460bac6d8dbeb10e9869" level="file"><did><unittitle>William Avery Rockefeller: William Levingston report Joseph W. Ernst</unittitle><container altrender="Letter Document Storage Box" id="05d51d261c6c75327a26533ad9ef2ec6" label="Still Image [A0000000055102]" type="box">14</container><container id="8f7caa9ec2fe67e1824fc092fecc029a" parent="05d51d261c6c75327a26533ad9ef2ec6" type="folder">181</container></did></c></c></dsc>
+</archdesc>
 </ead>
