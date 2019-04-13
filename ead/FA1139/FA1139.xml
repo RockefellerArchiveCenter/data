@@ -1,80 +1,38 @@
-<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
-  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" repositoryencoding="iso15511">
-    <eadid>FA1139.xml</eadid>
-    <filedesc>
-      <titlestmt>
-        <titleproper type="filing">Ford Foundation records, Grants, Accession 2016:067</titleproper>
-        <titleproper>A Guide to the Ford Foundation records, Grants, Accession 2016:067 <num>FA1139</num></titleproper>
-      </titlestmt>
-      <publicationstmt>
-        <publisher>Rockefeller Archive Center</publisher>
-        <address>
-          <addressline>15 Dayton Avenue</addressline>
-          <addressline>Sleepy Hollow 10591</addressline>
-          <addressline>archive@rockarch.org</addressline>
-          <addressline>URL: <extptr xlink:href="http://www.rockarch.org" xlink:show="new" xlink:title="http://www.rockarch.org" xlink:type="simple"/></addressline>
-        </address>
-      </publicationstmt>
-    </filedesc>
-    <profiledesc>
-      <creation>This finding aid was produced using ArchivesSpace on <date>2017-10-25 04:50:12 -0400</date>.</creation>
-      <descrules>Describing Archives: A Content Standard</descrules>
-    </profiledesc>
-  </eadheader>
-  <archdesc level="recordgrp">
-    <did>
-      <langmaterial>
-        <language langcode="eng">English</language>
-      </langmaterial>
-      <repository>
-        <corpname>Rockefeller Archive Center</corpname>
-      </repository>
-      <unittitle>Ford Foundation records, Grants, Accession 2016:067</unittitle>
-      <origination label="creator">
-        <corpname role="aut" rules="dacs" source="nad">Ford Foundation</corpname>
-      </origination>
-      <unitid>FA1139</unitid>
-      <physdesc altrender="whole">
-        <extent altrender="materialtype spaceoccupied">.19 Cubic Feet</extent>
-        <extent altrender="carrier">1 half letter document storage box</extent>
-      </physdesc>
-      <unitdate normal="2000/2000">2000</unitdate>
-    </did>
-    <arrangement id="08bba5f1c76f40488c620bd052d33861">
-      <head>Arrangement</head>
-      <p>As received.</p>
-    </arrangement>
-    <scopecontent id="51a22a62889539f720e2aa799bfdce6d">
-      <head>Scope and Contents</head>
-      <p>Grant Administration files</p>
-    </scopecontent>
-    <accessrestrict id="c30e044e3739a5ac8c9eaeecee875349">
-      <head>Conditions Governing Access</head>
-      <p>Grants inactive for more than 10 years are open for research. Brittle or damaged items are available at the discretion of RAC.</p>
-    </accessrestrict>
-    <prefercite id="02f41bf8b29ced904750b48c170983f1">
-      <head>Preferred Citation</head>
-      <p>Information regarding the Rockefeller Archive Center's preferred elements and forms of citation can be found at <extref href="http://www.rockarch.org/research/citations.php">http://www.rockarch.org/research/citations.php</extref></p>
-    </prefercite>
-    <acqinfo id="bfbc04ad2a603ae7daa727cafc96b14e">
-      <head>Immediate Source of Acquisition</head>
-      <p>Ford Foundation records were deposited at Rockefeller Archive Center in 2011. This set of records was transferred to RAC in 2016 as Accession 2016:067.</p>
-    </acqinfo>
-    <dsc>
-      <c id="be824b9d1d950bb1db4f60ec9e0d7bcf" level="file">
-        <did>
-          <unittitle>Letter re alleged commercial activities of Sustainable Advancement of Zanzibar</unittitle>
-          <unitdate normal="2000-05-31/2000-05-31">2000 May 31</unitdate>
-          <container id="248198539cc59fa4b03224804cd7bf44" label="mixed materials (A0000000008714)" type="box">52144</container>
-        </did>
-      </c>
-      <c id="0fa2153656112be1e8e8acf2e6dce965" level="file">
-        <did>
-          <unittitle>Correspondence enclosing investment policies</unittitle>
-          <unitdate normal="2000-06-25/2000-06-25">2000 June 25</unitdate>
-          <container id="cf0180d4e885c2a005782b622f911fd0" label="mixed materials (A0000000008714)" type="box">52144</container>
-        </did>
-      </c>
-    </dsc>
-  </archdesc>
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid>FA1139.xml</eadid><filedesc><titlestmt><titleproper type="filing">Ford Foundation records, Grants, Accession 2016:067</titleproper><titleproper>A Guide to the Ford Foundation records, Grants, Accession 2016:067 <num>FA1139</num></titleproper></titlestmt><publicationstmt><publisher>Rockefeller Archive Center</publisher><address><addressline>15 Dayton Avenue</addressline><addressline>Sleepy Hollow 10591</addressline><addressline>archive@rockarch.org</addressline><addressline>URL: <extptr xlink:href="http://www.rockarch.org" xlink:show="new" xlink:title="http://www.rockarch.org" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2019-04-13 00:03:13 -0400</date>.</creation><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="recordgrp">
+  <did>
+    <langmaterial>
+      <language langcode="eng">English</language>
+    </langmaterial>
+    <repository>
+      <corpname>Rockefeller Archive Center</corpname>
+    </repository>
+    <unittitle>Ford Foundation records, Grants, Accession 2016:067</unittitle>
+    <origination label="creator">
+      <corpname role="aut" rules="dacs" source="nad">Ford Foundation</corpname>
+    </origination>
+    <unitid>FA1139</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">.19 Cubic Feet</extent>
+      <extent altrender="carrier">1 half letter document storage box</extent>
+    </physdesc>
+    <unitdate normal="2000/2000">2000</unitdate>
+  </did>
+  <arrangement id="08bba5f1c76f40488c620bd052d33861">
+    <head>Arrangement</head>
+<p>As received.</p>  </arrangement>
+  <scopecontent id="51a22a62889539f720e2aa799bfdce6d">
+    <head>Scope and Contents</head>
+<p>Grant Administration files</p>  </scopecontent>
+  <accessrestrict id="c30e044e3739a5ac8c9eaeecee875349">
+    <head>Conditions Governing Access</head>
+<p>Grants inactive for more than 10 years are open for research. Brittle or damaged items are available at the discretion of RAC.</p>  </accessrestrict>
+  <prefercite id="02f41bf8b29ced904750b48c170983f1">
+    <head>Preferred Citation</head>
+<p>Information regarding the Rockefeller Archive Center's preferred elements and forms of citation can be found at <extref href="http://www.rockarch.org/research/citations.php">http://www.rockarch.org/research/citations.php</extref></p>  </prefercite>
+  <acqinfo id="bfbc04ad2a603ae7daa727cafc96b14e">
+    <head>Immediate Source of Acquisition</head>
+<p>Ford Foundation records were deposited at Rockefeller Archive Center in 2011. This set of records was transferred to RAC in 2016 as Accession 2016:067.</p>  </acqinfo>
+  <dsc><c id="be824b9d1d950bb1db4f60ec9e0d7bcf" level="file"><did><unittitle>Letter re alleged commercial activities of Sustainable Advancement of Zanzibar</unittitle><unitdate normal="2000-05-31/2000-05-31">2000 May 31</unitdate><container altrender="Half Ltr Document Storage Box" id="361da0908b0d038351c8d523bce7f944" label="mixed materials [A0000000008714]" type="box">52144</container></did></c><c id="0fa2153656112be1e8e8acf2e6dce965" level="file"><did><unittitle>Correspondence enclosing investment policies</unittitle><unitdate normal="2000-06-25/2000-06-25">2000 June 25</unitdate><container altrender="Half Ltr Document Storage Box" id="55002056938bb5bfa3a76b8aea5da9f2" label="mixed materials [A0000000008714]" type="box">52144</container></did></c></dsc>
+</archdesc>
 </ead>
