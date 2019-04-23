@@ -1,5 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<mets xmlns="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/mets/mets.xsd">
+<mets xmlns="http://www.loc.gov/METS/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/mets/mets.xsd">
+  <metsHdr CREATEDATE="2019-04-23 00:33:38 -0400">
+    <agent ROLE="CREATOR" TYPE="ORGANIZATION">
+      <name>Rockefeller Archive Center</name>
+      <note>http://www.rockarch.org</note>
+      <note>Produced by ArchivesSpace</note>
+    </agent>
+  </metsHdr>
   <dmdSec ID="2508">
     <mdWrap MDTYPE="MODS">
       <xmlData>
@@ -7,16 +14,14 @@
           <mods:titleInfo>
             <mods:title>Heiser_1916_Vol.I.pdf</mods:title>
           </mods:titleInfo>
+          <mods:identifier type="local">1c923188-57ba-4cdd-8d87-ba256ad0b8a2</mods:identifier>
           <mods:typeOfResource/>
           <mods:originInfo/>
-          <mods:language>
-            <mods:languageTerm type="code"></mods:languageTerm>
-          </mods:language>
           <mods:physicalDescription/>
           <mods:note type="originalsloc">6b2c43ae-778e-4555-ade5-e26d0a441b72</mods:note>
           <mods:note type="note">Includes: Honolulu, Fiji Islands, Samoa, Tonga, New Zealand, Australia, Papua, Celebes, Java, Straits Settlements, Federated Malay States, Siam.</mods:note>
           <mods:note type="note">This item was originally in Rockefeller Foundation records, International Health Board/Division records, RG 5, Series 2 Special Reports.</mods:note>
-          <mods:identifier type="local">1c923188-57ba-4cdd-8d87-ba256ad0b8a2</mods:identifier>
+          <mods:note displayLabel="Digital object made available by">Rockefeller Archive Center, 15 Dayton Avenue, Sleepy Hollow, 10591, U.S.A. (http://www.rockarch.org)</mods:note>
           <mods:relatedItem displayLabel="resource" type="host">
             <mods:name>Rockefeller Foundation records, officers' diaries, RG 12, F-L</mods:name>
             <mods:identifier>FA392.xml</mods:identifier>
@@ -30,13 +35,13 @@
     </mdWrap>
   </dmdSec>
   <amdSec>
-    <techMD ID="2896">
+    <techMD ID="5526">
       <mdWrap MDTYPE="PREMIS:OBJECT">
         <xmlData>
           <object version="2.2" xmlns="info:lc/xmlns/premis-v2" xsi:schemaLocation="info:lc/xmlns/premis-v2 http://www.loc.gov/standards/premis/v2/premis-v2-2.xsd" xsi:type="file">
             <objectIdentifier>
               <objectIdentifierType>ArchivesSpace identifier</objectIdentifierType>
-              <objectIdentifierValue>2896</objectIdentifierValue>
+              <objectIdentifierValue>5526</objectIdentifierValue>
             </objectIdentifier>
             <objectCharacteristics>
               <fixity>
@@ -58,19 +63,19 @@
   </amdSec>
   <fileSec>
     <fileGrp USE="">
-      <file AMDID="2896" GROUPID="2508" ID="2896">
-        <FLocat xlink:href="http://storage.rockarch.org/1c923188-57ba-4cdd-8d87-ba256ad0b8a2-Heiser_1916_Vol.I.pdf"/>
+      <file AMDID="5526" GROUPID="2508" ID="5526">
+        <FLocat xlink:href="https://storage.rockarch.org/1c923188-57ba-4cdd-8d87-ba256ad0b8a2-Heiser_1916_Vol.I.pdf"/>
       </file>
     </fileGrp>
   </fileSec>
   <structMap TYPE="logical">
     <div DMDID="2508" LABEL="Heiser_1916_Vol.I.pdf" ORDER="1" TYPE="item">
-      <fptr FILEID="2896"/>
+      <fptr FILEID="5526"/>
     </div>
   </structMap>
   <structMap TYPE="physical">
     <div DMDID="2508" LABEL="Heiser_1916_Vol.I.pdf" ORDER="1" TYPE="item">
-      <fptr FILEID="2896"/>
+      <fptr FILEID="5526"/>
     </div>
   </structMap>
 </mets>

@@ -1,5 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<mets xmlns="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/mets/mets.xsd">
+<mets xmlns="http://www.loc.gov/METS/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/mets/mets.xsd">
+  <metsHdr CREATEDATE="2019-04-23 00:53:27 -0400">
+    <agent ROLE="CREATOR" TYPE="ORGANIZATION">
+      <name>Rockefeller Archive Center</name>
+      <note>http://www.rockarch.org</note>
+      <note>Produced by ArchivesSpace</note>
+    </agent>
+  </metsHdr>
   <dmdSec ID="2581">
     <mdWrap MDTYPE="MODS">
       <xmlData>
@@ -7,14 +14,12 @@
           <mods:titleInfo>
             <mods:title>Gilpatric_1960(1).pdf</mods:title>
           </mods:titleInfo>
+          <mods:identifier type="local">f45bc418-42aa-4cd2-903c-75b8372bce14</mods:identifier>
           <mods:typeOfResource/>
           <mods:originInfo/>
-          <mods:language>
-            <mods:languageTerm type="code"></mods:languageTerm>
-          </mods:language>
           <mods:physicalDescription/>
           <mods:note type="originalsloc">7700912d-9c8d-49eb-8b87-cffa42033ac1</mods:note>
-          <mods:identifier type="local">f45bc418-42aa-4cd2-903c-75b8372bce14</mods:identifier>
+          <mods:note displayLabel="Digital object made available by">Rockefeller Archive Center, 15 Dayton Avenue, Sleepy Hollow, 10591, U.S.A. (http://www.rockarch.org)</mods:note>
           <mods:relatedItem displayLabel="resource" type="host">
             <mods:name>Rockefeller Foundation records, officers' diaries, RG 12, F-L</mods:name>
             <mods:identifier>FA392.xml</mods:identifier>
@@ -28,13 +33,13 @@
     </mdWrap>
   </dmdSec>
   <amdSec>
-    <techMD ID="5131">
+    <techMD ID="7650">
       <mdWrap MDTYPE="PREMIS:OBJECT">
         <xmlData>
           <object version="2.2" xmlns="info:lc/xmlns/premis-v2" xsi:schemaLocation="info:lc/xmlns/premis-v2 http://www.loc.gov/standards/premis/v2/premis-v2-2.xsd" xsi:type="file">
             <objectIdentifier>
               <objectIdentifierType>ArchivesSpace identifier</objectIdentifierType>
-              <objectIdentifierValue>5131</objectIdentifierValue>
+              <objectIdentifierValue>7650</objectIdentifierValue>
             </objectIdentifier>
             <objectCharacteristics>
               <fixity>
@@ -56,19 +61,19 @@
   </amdSec>
   <fileSec>
     <fileGrp USE="">
-      <file AMDID="5131" GROUPID="2581" ID="5131">
-        <FLocat xlink:href="http://storage.rockarch.org/f45bc418-42aa-4cd2-903c-75b8372bce14-Gilpatric_1960(1).pdf"/>
+      <file AMDID="7650" GROUPID="2581" ID="7650">
+        <FLocat xlink:href="https://storage.rockarch.org/f45bc418-42aa-4cd2-903c-75b8372bce14-Gilpatric_1960(1).pdf"/>
       </file>
     </fileGrp>
   </fileSec>
   <structMap TYPE="logical">
     <div DMDID="2581" LABEL="Gilpatric_1960(1).pdf" ORDER="1" TYPE="item">
-      <fptr FILEID="5131"/>
+      <fptr FILEID="7650"/>
     </div>
   </structMap>
   <structMap TYPE="physical">
     <div DMDID="2581" LABEL="Gilpatric_1960(1).pdf" ORDER="1" TYPE="item">
-      <fptr FILEID="5131"/>
+      <fptr FILEID="7650"/>
     </div>
   </structMap>
 </mets>

@@ -1,5 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<mets xmlns="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/mets/mets.xsd">
+<mets xmlns="http://www.loc.gov/METS/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/mets/mets.xsd">
+  <metsHdr CREATEDATE="2019-04-23 00:49:22 -0400">
+    <agent ROLE="CREATOR" TYPE="ORGANIZATION">
+      <name>Rockefeller Archive Center</name>
+      <note>http://www.rockarch.org</note>
+      <note>Produced by ArchivesSpace</note>
+    </agent>
+  </metsHdr>
   <dmdSec ID="998">
     <mdWrap MDTYPE="MODS">
       <xmlData>
@@ -7,38 +14,40 @@
           <mods:titleInfo>
             <mods:title>University of Massachusetts Medical School</mods:title>
           </mods:titleInfo>
-          <mods:typeOfResource>text</mods:typeOfResource>
+          <mods:identifier type="local">c918f5b7-50c1-41e3-a73e-29587c0d5e79</mods:identifier>
+          <mods:typeOfResource>Text</mods:typeOfResource>
           <mods:originInfo>
             <mods:dateCreated>1989-1992</mods:dateCreated>
           </mods:originInfo>
           <mods:language>
-            <mods:languageTerm type="code">eng</mods:languageTerm>
+            <mods:languageTerm authority="iso639-2b" type="text">English</mods:languageTerm>
+            <mods:languageTerm authority="iso639-2b" type="code">eng</mods:languageTerm>
           </mods:language>
           <mods:physicalDescription/>
           <mods:note type="originalsloc">84a6dd40-f05a-4218-9de2-12bbd022ead4</mods:note>
           <mods:accessCondition type="restrictionOnAccess">No restrictions on access.</mods:accessCondition>
           <mods:accessCondition type="useAndReproduction">To the extent that the donor owns copyright in these materials, he/she has given the Rockefeller Archive Center the authority to grant permission to cite and publish material from the collection for scholarly purposes; however, copyright in some items may be held by their respective creators.  Please consult an archivist for further details.</mods:accessCondition>
-          <mods:identifier type="local">c918f5b7-50c1-41e3-a73e-29587c0d5e79</mods:identifier>
+          <mods:note displayLabel="Digital object made available by">Rockefeller Archive Center, 15 Dayton Avenue, Sleepy Hollow, 10591, U.S.A. (http://www.rockarch.org)</mods:note>
           <mods:relatedItem displayLabel="resource" type="host">
             <mods:name>Foundation for Child Development records</mods:name>
             <mods:identifier>FA019.xml</mods:identifier>
           </mods:relatedItem>
           <mods:relatedItem displayLabel="component" type="host">
             <mods:name>University of Massachusetts Medical School, 1989-1992</mods:name>
-            <mods:identifier>ref1506_k1a</mods:identifier>
+            <mods:identifier>54db6e5e09834cba89bbd60def5c9983</mods:identifier>
           </mods:relatedItem>
         </mods>
       </xmlData>
     </mdWrap>
   </dmdSec>
   <amdSec>
-    <techMD ID="998">
+    <techMD ID="7211">
       <mdWrap MDTYPE="PREMIS:OBJECT">
         <xmlData>
           <object version="2.2" xmlns="info:lc/xmlns/premis-v2" xsi:schemaLocation="info:lc/xmlns/premis-v2 http://www.loc.gov/standards/premis/v2/premis-v2-2.xsd" xsi:type="file">
             <objectIdentifier>
               <objectIdentifierType>ArchivesSpace identifier</objectIdentifierType>
-              <objectIdentifierValue>998</objectIdentifierValue>
+              <objectIdentifierValue>7211</objectIdentifierValue>
             </objectIdentifier>
             <objectCharacteristics>
               <fixity>
@@ -60,19 +69,19 @@
   </amdSec>
   <fileSec>
     <fileGrp USE="Image-Service">
-      <file AMDID="998" GROUPID="998" ID="998">
-        <FLocat xlink:href="http://storage.rockarch.org/c918f5b7-50c1-41e3-a73e-29587c0d5e79-FCD001_093_00599.pdf"/>
+      <file AMDID="7211" GROUPID="998" ID="7211">
+        <FLocat xlink:href="https://storage.rockarch.org/c918f5b7-50c1-41e3-a73e-29587c0d5e79-FCD001_093_00599.pdf"/>
       </file>
     </fileGrp>
   </fileSec>
   <structMap TYPE="logical">
     <div DMDID="998" LABEL="University of Massachusetts Medical School" ORDER="1" TYPE="item">
-      <fptr FILEID="998"/>
+      <fptr FILEID="7211"/>
     </div>
   </structMap>
   <structMap TYPE="physical">
     <div DMDID="998" LABEL="University of Massachusetts Medical School" ORDER="1" TYPE="item">
-      <fptr FILEID="998"/>
+      <fptr FILEID="7211"/>
     </div>
   </structMap>
 </mets>

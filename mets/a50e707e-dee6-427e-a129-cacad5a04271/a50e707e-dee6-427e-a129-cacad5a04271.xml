@@ -1,5 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<mets xmlns="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/mets/mets.xsd">
+<mets xmlns="http://www.loc.gov/METS/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/mets/mets.xsd">
+  <metsHdr CREATEDATE="2019-04-23 00:45:55 -0400">
+    <agent ROLE="CREATOR" TYPE="ORGANIZATION">
+      <name>Rockefeller Archive Center</name>
+      <note>http://www.rockarch.org</note>
+      <note>Produced by ArchivesSpace</note>
+    </agent>
+  </metsHdr>
   <dmdSec ID="2672">
     <mdWrap MDTYPE="MODS">
       <xmlData>
@@ -7,14 +14,12 @@
           <mods:titleInfo>
             <mods:title>OBrien_1930.pdf</mods:title>
           </mods:titleInfo>
+          <mods:identifier type="local">a50e707e-dee6-427e-a129-cacad5a04271</mods:identifier>
           <mods:typeOfResource/>
           <mods:originInfo/>
-          <mods:language>
-            <mods:languageTerm type="code"></mods:languageTerm>
-          </mods:language>
           <mods:physicalDescription/>
           <mods:note type="originalsloc">5d41ee71-e774-44bf-9e8b-189e18beddf7</mods:note>
-          <mods:identifier type="local">a50e707e-dee6-427e-a129-cacad5a04271</mods:identifier>
+          <mods:note displayLabel="Digital object made available by">Rockefeller Archive Center, 15 Dayton Avenue, Sleepy Hollow, 10591, U.S.A. (http://www.rockarch.org)</mods:note>
           <mods:relatedItem displayLabel="resource" type="host">
             <mods:name>Rockefeller Foundation records, officers' diaries, RG 12, M-R</mods:name>
             <mods:identifier>FA393.xml</mods:identifier>
@@ -28,13 +33,13 @@
     </mdWrap>
   </dmdSec>
   <amdSec>
-    <techMD ID="5222">
+    <techMD ID="6846">
       <mdWrap MDTYPE="PREMIS:OBJECT">
         <xmlData>
           <object version="2.2" xmlns="info:lc/xmlns/premis-v2" xsi:schemaLocation="info:lc/xmlns/premis-v2 http://www.loc.gov/standards/premis/v2/premis-v2-2.xsd" xsi:type="file">
             <objectIdentifier>
               <objectIdentifierType>ArchivesSpace identifier</objectIdentifierType>
-              <objectIdentifierValue>5222</objectIdentifierValue>
+              <objectIdentifierValue>6846</objectIdentifierValue>
             </objectIdentifier>
             <objectCharacteristics>
               <fixity>
@@ -56,19 +61,19 @@
   </amdSec>
   <fileSec>
     <fileGrp USE="">
-      <file AMDID="5222" GROUPID="2672" ID="5222">
-        <FLocat xlink:href="http://storage.rockarch.org/a50e707e-dee6-427e-a129-cacad5a04271-OBrien_1930.pdf"/>
+      <file AMDID="6846" GROUPID="2672" ID="6846">
+        <FLocat xlink:href="https://storage.rockarch.org/a50e707e-dee6-427e-a129-cacad5a04271-OBrien_1930.pdf"/>
       </file>
     </fileGrp>
   </fileSec>
   <structMap TYPE="logical">
     <div DMDID="2672" LABEL="OBrien_1930.pdf" ORDER="1" TYPE="item">
-      <fptr FILEID="5222"/>
+      <fptr FILEID="6846"/>
     </div>
   </structMap>
   <structMap TYPE="physical">
     <div DMDID="2672" LABEL="OBrien_1930.pdf" ORDER="1" TYPE="item">
-      <fptr FILEID="5222"/>
+      <fptr FILEID="6846"/>
     </div>
   </structMap>
 </mets>

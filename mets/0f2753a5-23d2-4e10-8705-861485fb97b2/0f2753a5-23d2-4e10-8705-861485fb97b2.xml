@@ -1,5 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<mets xmlns="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/mets/mets.xsd">
+<mets xmlns="http://www.loc.gov/METS/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/mets/mets.xsd">
+  <metsHdr CREATEDATE="2019-04-23 00:32:31 -0400">
+    <agent ROLE="CREATOR" TYPE="ORGANIZATION">
+      <name>Rockefeller Archive Center</name>
+      <note>http://www.rockarch.org</note>
+      <note>Produced by ArchivesSpace</note>
+    </agent>
+  </metsHdr>
   <dmdSec ID="234">
     <mdWrap MDTYPE="MODS">
       <xmlData>
@@ -7,18 +14,20 @@
           <mods:titleInfo>
             <mods:title>Executive Committee</mods:title>
           </mods:titleInfo>
+          <mods:identifier type="local">0f2753a5-23d2-4e10-8705-861485fb97b2</mods:identifier>
           <mods:typeOfResource>Text</mods:typeOfResource>
           <mods:originInfo>
             <mods:dateCreated>November 16, 1964</mods:dateCreated>
           </mods:originInfo>
           <mods:language>
-            <mods:languageTerm type="code">eng</mods:languageTerm>
+            <mods:languageTerm authority="iso639-2b" type="text">English</mods:languageTerm>
+            <mods:languageTerm authority="iso639-2b" type="code">eng</mods:languageTerm>
           </mods:language>
           <mods:physicalDescription/>
           <mods:note type="originalsloc">077457d6-61c5-431e-9a33-955213c42b7b</mods:note>
           <mods:accessCondition type="restrictionOnAccess">No restrictions on access.</mods:accessCondition>
           <mods:accessCondition type="useAndReproduction">To the extent that the donor owns copyright in these materials, he/she has given the Rockefeller Archive Center the authority to grant permission to cite and publish material from the collection for scholarly purposes; however, copyright in some items may be held by their respective creators.  Please consult an archivist for further details.</mods:accessCondition>
-          <mods:identifier type="local">0f2753a5-23d2-4e10-8705-861485fb97b2</mods:identifier>
+          <mods:note displayLabel="Digital object made available by">Rockefeller Archive Center, 15 Dayton Avenue, Sleepy Hollow, 10591, U.S.A. (http://www.rockarch.org)</mods:note>
           <mods:relatedItem displayLabel="resource" type="host">
             <mods:name>Foundation for Child Development records</mods:name>
             <mods:identifier>FA019.xml</mods:identifier>
@@ -32,13 +41,13 @@
     </mdWrap>
   </dmdSec>
   <amdSec>
-    <techMD ID="3148">
+    <techMD ID="5396">
       <mdWrap MDTYPE="PREMIS:OBJECT">
         <xmlData>
           <object version="2.2" xmlns="info:lc/xmlns/premis-v2" xsi:schemaLocation="info:lc/xmlns/premis-v2 http://www.loc.gov/standards/premis/v2/premis-v2-2.xsd" xsi:type="file">
             <objectIdentifier>
               <objectIdentifierType>ArchivesSpace identifier</objectIdentifierType>
-              <objectIdentifierValue>3148</objectIdentifierValue>
+              <objectIdentifierValue>5396</objectIdentifierValue>
             </objectIdentifier>
             <objectCharacteristics>
               <fixity>
@@ -60,19 +69,19 @@
   </amdSec>
   <fileSec>
     <fileGrp USE="Image-Service">
-      <file AMDID="3148" GROUPID="234" ID="3148">
-        <FLocat xlink:href="http://storage.rockarch.org/0f2753a5-23d2-4e10-8705-861485fb97b2-FCD001_020_00230.pdf"/>
+      <file AMDID="5396" GROUPID="234" ID="5396">
+        <FLocat xlink:href="https://storage.rockarch.org/0f2753a5-23d2-4e10-8705-861485fb97b2-FCD001_020_00230.pdf"/>
       </file>
     </fileGrp>
   </fileSec>
   <structMap TYPE="logical">
     <div DMDID="234" LABEL="Executive Committee" ORDER="1" TYPE="item">
-      <fptr FILEID="3148"/>
+      <fptr FILEID="5396"/>
     </div>
   </structMap>
   <structMap TYPE="physical">
     <div DMDID="234" LABEL="Executive Committee" ORDER="1" TYPE="item">
-      <fptr FILEID="3148"/>
+      <fptr FILEID="5396"/>
     </div>
   </structMap>
 </mets>

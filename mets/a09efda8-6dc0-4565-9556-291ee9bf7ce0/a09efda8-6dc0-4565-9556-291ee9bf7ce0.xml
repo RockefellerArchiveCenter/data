@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <mets xmlns="http://www.loc.gov/METS/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/mets/mets.xsd">
-  <metsHdr CREATEDATE="2019-03-18 12:05:55 -0400">
+  <metsHdr CREATEDATE="2019-04-23 00:45:25 -0400">
     <agent ROLE="CREATOR" TYPE="ORGANIZATION">
       <name>Rockefeller Archive Center</name>
       <note>http://www.rockarch.org</note>
@@ -33,13 +33,13 @@
     </mdWrap>
   </dmdSec>
   <amdSec>
-    <techMD ID="5225">
+    <techMD ID="6794">
       <mdWrap MDTYPE="PREMIS:OBJECT">
         <xmlData>
           <object version="2.2" xmlns="info:lc/xmlns/premis-v2" xsi:schemaLocation="info:lc/xmlns/premis-v2 http://www.loc.gov/standards/premis/v2/premis-v2-2.xsd" xsi:type="file">
             <objectIdentifier>
               <objectIdentifierType>ArchivesSpace identifier</objectIdentifierType>
-              <objectIdentifierValue>5225</objectIdentifierValue>
+              <objectIdentifierValue>6794</objectIdentifierValue>
             </objectIdentifier>
             <objectCharacteristics>
               <fixity>
@@ -61,19 +61,19 @@
   </amdSec>
   <fileSec>
     <fileGrp USE="">
-      <file AMDID="5225" GROUPID="2675" ID="5225">
-        <FLocat xlink:href="http://storage.rockarch.org/a09efda8-6dc0-4565-9556-291ee9bf7ce0-DArms_1948(1).pdf"/>
+      <file AMDID="6794" GROUPID="2675" ID="6794">
+        <FLocat xlink:href="https://storage.rockarch.org/a09efda8-6dc0-4565-9556-291ee9bf7ce0-DArms_1948(1).pdf"/>
       </file>
     </fileGrp>
   </fileSec>
   <structMap TYPE="logical">
     <div DMDID="2675" LABEL="DArms_1948(1).pdf" ORDER="1" TYPE="item">
-      <fptr FILEID="5225"/>
+      <fptr FILEID="6794"/>
     </div>
   </structMap>
   <structMap TYPE="physical">
     <div DMDID="2675" LABEL="DArms_1948(1).pdf" ORDER="1" TYPE="item">
-      <fptr FILEID="5225"/>
+      <fptr FILEID="6794"/>
     </div>
   </structMap>
 </mets>

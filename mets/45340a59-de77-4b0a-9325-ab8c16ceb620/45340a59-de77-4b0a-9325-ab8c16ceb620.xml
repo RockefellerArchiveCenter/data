@@ -1,5 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<mets xmlns="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/mets/mets.xsd">
+<mets xmlns="http://www.loc.gov/METS/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/mets/mets.xsd">
+  <metsHdr CREATEDATE="2019-04-23 00:37:08 -0400">
+    <agent ROLE="CREATOR" TYPE="ORGANIZATION">
+      <name>Rockefeller Archive Center</name>
+      <note>http://www.rockarch.org</note>
+      <note>Produced by ArchivesSpace</note>
+    </agent>
+  </metsHdr>
   <dmdSec ID="2404">
     <mdWrap MDTYPE="MODS">
       <xmlData>
@@ -7,37 +14,39 @@
           <mods:titleInfo>
             <mods:title>Rockefeller Center, Inc. - Rainbow Room - Scrapbook</mods:title>
           </mods:titleInfo>
-          <mods:typeOfResource>text</mods:typeOfResource>
+          <mods:identifier type="local">45340a59-de77-4b0a-9325-ab8c16ceb620</mods:identifier>
+          <mods:typeOfResource>Text</mods:typeOfResource>
           <mods:originInfo>
             <mods:dateCreated>1935-1939</mods:dateCreated>
           </mods:originInfo>
           <mods:language>
-            <mods:languageTerm type="code">eng</mods:languageTerm>
+            <mods:languageTerm authority="iso639-2b" type="text">English</mods:languageTerm>
+            <mods:languageTerm authority="iso639-2b" type="code">eng</mods:languageTerm>
           </mods:language>
           <mods:physicalDescription/>
           <mods:note type="originalsloc">6ed71ed2-856d-427b-8a97-351c3ff09a50</mods:note>
           <mods:accessCondition type="useAndReproduction">John Roy, Managing Director of the Center Restaurants at Rockefeller Center in the 1930s, assembled this scrapbook. The published contents of the scrapbook are magazine and newspaper advertisements and articles on entertainment at the Rainbow Room from 1935 to 1939. We judge that the reproduction of these items falls under fair use.</mods:accessCondition>
-          <mods:identifier type="local">45340a59-de77-4b0a-9325-ab8c16ceb620</mods:identifier>
+          <mods:note displayLabel="Digital object made available by">Rockefeller Archive Center, 15 Dayton Avenue, Sleepy Hollow, 10591, U.S.A. (http://www.rockarch.org)</mods:note>
           <mods:relatedItem displayLabel="resource" type="host">
             <mods:name>Nelson A. Rockefeller personal papers, Projects, Series L</mods:name>
             <mods:identifier>FA348.xml</mods:identifier>
           </mods:relatedItem>
           <mods:relatedItem displayLabel="component" type="host">
             <mods:name>Rockefeller Center, Inc. - Rainbow Room - Scrapbook, 1935-1939</mods:name>
-            <mods:identifier>ref11353_0z8</mods:identifier>
+            <mods:identifier>baf5fa4787334a819625909f8a089465</mods:identifier>
           </mods:relatedItem>
         </mods>
       </xmlData>
     </mdWrap>
   </dmdSec>
   <amdSec>
-    <techMD ID="2404">
+    <techMD ID="5905">
       <mdWrap MDTYPE="PREMIS:OBJECT">
         <xmlData>
           <object version="2.2" xmlns="info:lc/xmlns/premis-v2" xsi:schemaLocation="info:lc/xmlns/premis-v2 http://www.loc.gov/standards/premis/v2/premis-v2-2.xsd" xsi:type="file">
             <objectIdentifier>
               <objectIdentifierType>ArchivesSpace identifier</objectIdentifierType>
-              <objectIdentifierValue>2404</objectIdentifierValue>
+              <objectIdentifierValue>5905</objectIdentifierValue>
             </objectIdentifier>
             <objectCharacteristics>
               <fixity>
@@ -58,20 +67,20 @@
     </techMD>
   </amdSec>
   <fileSec>
-    <fileGrp USE="Service-Edited">
-      <file AMDID="2404" GROUPID="2404" ID="2404">
-        <FLocat xlink:href="http://storage.rockarch.org/45340a59-de77-4b0a-9325-ab8c16ceb620-RAC_SP006_800000_se.pdf"/>
+    <fileGrp USE="service-edited">
+      <file AMDID="5905" GROUPID="2404" ID="5905">
+        <FLocat xlink:href="https://storage.rockarch.org/45340a59-de77-4b0a-9325-ab8c16ceb620-RAC_SP006_800000_se.pdf"/>
       </file>
     </fileGrp>
   </fileSec>
   <structMap TYPE="logical">
     <div DMDID="2404" LABEL="Rockefeller Center, Inc. - Rainbow Room - Scrapbook" ORDER="1" TYPE="item">
-      <fptr FILEID="2404"/>
+      <fptr FILEID="5905"/>
     </div>
   </structMap>
   <structMap TYPE="physical">
     <div DMDID="2404" LABEL="Rockefeller Center, Inc. - Rainbow Room - Scrapbook" ORDER="1" TYPE="item">
-      <fptr FILEID="2404"/>
+      <fptr FILEID="5905"/>
     </div>
   </structMap>
 </mets>

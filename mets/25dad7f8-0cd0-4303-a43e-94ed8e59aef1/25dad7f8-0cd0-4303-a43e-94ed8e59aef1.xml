@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <mets xmlns="http://www.loc.gov/METS/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/mets/mets.xsd">
-  <metsHdr CREATEDATE="2019-03-18 12:06:32 -0400">
+  <metsHdr CREATEDATE="2019-04-23 00:34:28 -0400">
     <agent ROLE="CREATOR" TYPE="ORGANIZATION">
       <name>Rockefeller Archive Center</name>
       <note>http://www.rockarch.org</note>
@@ -41,13 +41,13 @@
     </mdWrap>
   </dmdSec>
   <amdSec>
-    <techMD ID="4474">
+    <techMD ID="5614">
       <mdWrap MDTYPE="PREMIS:OBJECT">
         <xmlData>
           <object version="2.2" xmlns="info:lc/xmlns/premis-v2" xsi:schemaLocation="info:lc/xmlns/premis-v2 http://www.loc.gov/standards/premis/v2/premis-v2-2.xsd" xsi:type="file">
             <objectIdentifier>
               <objectIdentifierType>ArchivesSpace identifier</objectIdentifierType>
-              <objectIdentifierValue>4474</objectIdentifierValue>
+              <objectIdentifierValue>5614</objectIdentifierValue>
             </objectIdentifier>
             <objectCharacteristics>
               <fixity>
@@ -69,19 +69,19 @@
   </amdSec>
   <fileSec>
     <fileGrp USE="service-edited">
-      <file AMDID="4474" GROUPID="1962" ID="4474">
-        <FLocat xlink:href="http://storage.rockarch.org/25dad7f8-0cd0-4303-a43e-94ed8e59aef1-rac_rfdiaries_12-2_devinney_1951-1971_123.pdf"/>
+      <file AMDID="5614" GROUPID="1962" ID="5614">
+        <FLocat xlink:href="https://storage.rockarch.org/25dad7f8-0cd0-4303-a43e-94ed8e59aef1-rac_rfdiaries_12-2_devinney_1951-1971_123.pdf"/>
       </file>
     </fileGrp>
   </fileSec>
   <structMap TYPE="logical">
     <div DMDID="1962" LABEL="Trip to U.S. South" ORDER="1" TYPE="item">
-      <fptr FILEID="4474"/>
+      <fptr FILEID="5614"/>
     </div>
   </structMap>
   <structMap TYPE="physical">
     <div DMDID="1962" LABEL="Trip to U.S. South" ORDER="1" TYPE="item">
-      <fptr FILEID="4474"/>
+      <fptr FILEID="5614"/>
     </div>
   </structMap>
 </mets>

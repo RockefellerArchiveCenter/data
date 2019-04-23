@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <mets xmlns="http://www.loc.gov/METS/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/mets/mets.xsd">
-  <metsHdr CREATEDATE="2019-03-18 12:07:39 -0400">
+  <metsHdr CREATEDATE="2019-04-23 00:49:46 -0400">
     <agent ROLE="CREATOR" TYPE="ORGANIZATION">
       <name>Rockefeller Archive Center</name>
       <note>http://www.rockarch.org</note>
@@ -72,13 +72,13 @@
     </mdWrap>
   </dmdSec>
   <amdSec>
-    <techMD ID="5073">
+    <techMD ID="7255">
       <mdWrap MDTYPE="PREMIS:OBJECT">
         <xmlData>
           <object version="2.2" xmlns="info:lc/xmlns/premis-v2" xsi:schemaLocation="info:lc/xmlns/premis-v2 http://www.loc.gov/standards/premis/v2/premis-v2-2.xsd" xsi:type="file">
             <objectIdentifier>
               <objectIdentifierType>ArchivesSpace identifier</objectIdentifierType>
-              <objectIdentifierValue>5073</objectIdentifierValue>
+              <objectIdentifierValue>7255</objectIdentifierValue>
             </objectIdentifier>
             <objectCharacteristics>
               <fixity>
@@ -100,19 +100,19 @@
   </amdSec>
   <fileSec>
     <fileGrp USE="service-edited">
-      <file AMDID="5073" GROUPID="1457" ID="5073">
-        <FLocat xlink:href="http://storage.rockarch.org/cc48b364-8bbc-49a7-9849-7ceb797e1d5d-rac_rfdiaries_12-2_downs_1941-1971_015.pdf"/>
+      <file AMDID="7255" GROUPID="1457" ID="7255">
+        <FLocat xlink:href="https://storage.rockarch.org/cc48b364-8bbc-49a7-9849-7ceb797e1d5d-rac_rfdiaries_12-2_downs_1941-1971_015.pdf"/>
       </file>
     </fileGrp>
   </fileSec>
   <structMap TYPE="logical">
     <div DMDID="1457" LABEL="1960 February 12-May 16" ORDER="1" TYPE="item">
-      <fptr FILEID="5073"/>
+      <fptr FILEID="7255"/>
     </div>
   </structMap>
   <structMap TYPE="physical">
     <div DMDID="1457" LABEL="1960 February 12-May 16" ORDER="1" TYPE="item">
-      <fptr FILEID="5073"/>
+      <fptr FILEID="7255"/>
     </div>
   </structMap>
 </mets>

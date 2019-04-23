@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <mets xmlns="http://www.loc.gov/METS/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/mets/mets.xsd">
-  <metsHdr CREATEDATE="2019-03-18 12:08:25 -0400">
+  <metsHdr CREATEDATE="2019-04-23 00:47:36 -0400">
     <agent ROLE="CREATOR" TYPE="ORGANIZATION">
       <name>Rockefeller Archive Center</name>
       <note>http://www.rockarch.org</note>
@@ -41,13 +41,13 @@
     </mdWrap>
   </dmdSec>
   <amdSec>
-    <techMD ID="4508">
+    <techMD ID="7017">
       <mdWrap MDTYPE="PREMIS:OBJECT">
         <xmlData>
           <object version="2.2" xmlns="info:lc/xmlns/premis-v2" xsi:schemaLocation="info:lc/xmlns/premis-v2 http://www.loc.gov/standards/premis/v2/premis-v2-2.xsd" xsi:type="file">
             <objectIdentifier>
               <objectIdentifierType>ArchivesSpace identifier</objectIdentifierType>
-              <objectIdentifierValue>4508</objectIdentifierValue>
+              <objectIdentifierValue>7017</objectIdentifierValue>
             </objectIdentifier>
             <objectCharacteristics>
               <fixity>
@@ -69,19 +69,19 @@
   </amdSec>
   <fileSec>
     <fileGrp USE="service-edited">
-      <file AMDID="4508" GROUPID="1996" ID="4508">
-        <FLocat xlink:href="http://storage.rockarch.org/b5fed74f-262d-4ee9-a0c9-e40f745038b4-rac_rfdiaries_12-2_Embree_Edwin_1917-1922_014.pdf"/>
+      <file AMDID="7017" GROUPID="1996" ID="7017">
+        <FLocat xlink:href="https://storage.rockarch.org/b5fed74f-262d-4ee9-a0c9-e40f745038b4-rac_rfdiaries_12-2_Embree_Edwin_1917-1922_014.pdf"/>
       </file>
     </fileGrp>
   </fileSec>
   <structMap TYPE="logical">
     <div DMDID="1996" LABEL="1921" ORDER="1" TYPE="item">
-      <fptr FILEID="4508"/>
+      <fptr FILEID="7017"/>
     </div>
   </structMap>
   <structMap TYPE="physical">
     <div DMDID="1996" LABEL="1921" ORDER="1" TYPE="item">
-      <fptr FILEID="4508"/>
+      <fptr FILEID="7017"/>
     </div>
   </structMap>
 </mets>

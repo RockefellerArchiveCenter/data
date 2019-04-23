@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <mets xmlns="http://www.loc.gov/METS/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/mets/mets.xsd">
-  <metsHdr CREATEDATE="2019-03-18 12:08:24 -0400">
+  <metsHdr CREATEDATE="2019-04-23 00:33:49 -0400">
     <agent ROLE="CREATOR" TYPE="ORGANIZATION">
       <name>Rockefeller Archive Center</name>
       <note>http://www.rockarch.org</note>
@@ -41,13 +41,13 @@
     </mdWrap>
   </dmdSec>
   <amdSec>
-    <techMD ID="4520">
+    <techMD ID="5544">
       <mdWrap MDTYPE="PREMIS:OBJECT">
         <xmlData>
           <object version="2.2" xmlns="info:lc/xmlns/premis-v2" xsi:schemaLocation="info:lc/xmlns/premis-v2 http://www.loc.gov/standards/premis/v2/premis-v2-2.xsd" xsi:type="file">
             <objectIdentifier>
               <objectIdentifierType>ArchivesSpace identifier</objectIdentifierType>
-              <objectIdentifierValue>4520</objectIdentifierValue>
+              <objectIdentifierValue>5544</objectIdentifierValue>
             </objectIdentifier>
             <objectCharacteristics>
               <fixity>
@@ -69,19 +69,19 @@
   </amdSec>
   <fileSec>
     <fileGrp USE="service-edited">
-      <file AMDID="4520" GROUPID="2008" ID="4520">
-        <FLocat xlink:href="http://storage.rockarch.org/1f273457-2b8f-4da7-9f49-41b63d944a8a-rac_rfdiaries_12-2_Embree_Edwin_1917-1922_019.pdf"/>
+      <file AMDID="5544" GROUPID="2008" ID="5544">
+        <FLocat xlink:href="https://storage.rockarch.org/1f273457-2b8f-4da7-9f49-41b63d944a8a-rac_rfdiaries_12-2_Embree_Edwin_1917-1922_019.pdf"/>
       </file>
     </fileGrp>
   </fileSec>
   <structMap TYPE="logical">
     <div DMDID="2008" LABEL="Exhibits" ORDER="1" TYPE="item">
-      <fptr FILEID="4520"/>
+      <fptr FILEID="5544"/>
     </div>
   </structMap>
   <structMap TYPE="physical">
     <div DMDID="2008" LABEL="Exhibits" ORDER="1" TYPE="item">
-      <fptr FILEID="4520"/>
+      <fptr FILEID="5544"/>
     </div>
   </structMap>
 </mets>

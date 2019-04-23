@@ -1,5 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<mets xmlns="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/mets/mets.xsd">
+<mets xmlns="http://www.loc.gov/METS/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/mets/mets.xsd">
+  <metsHdr CREATEDATE="2019-04-23 00:32:18 -0400">
+    <agent ROLE="CREATOR" TYPE="ORGANIZATION">
+      <name>Rockefeller Archive Center</name>
+      <note>http://www.rockarch.org</note>
+      <note>Produced by ArchivesSpace</note>
+    </agent>
+  </metsHdr>
   <dmdSec ID="2518">
     <mdWrap MDTYPE="MODS">
       <xmlData>
@@ -7,14 +14,12 @@
           <mods:titleInfo>
             <mods:title>Parker_1962.pdf</mods:title>
           </mods:titleInfo>
+          <mods:identifier type="local">0d97e859-c7a2-4f67-8fb8-ebc3158ac147</mods:identifier>
           <mods:typeOfResource/>
           <mods:originInfo/>
-          <mods:language>
-            <mods:languageTerm type="code"></mods:languageTerm>
-          </mods:language>
           <mods:physicalDescription/>
           <mods:note type="originalsloc">f039d021-0ab9-4de6-8121-c9f1a332fa3d</mods:note>
-          <mods:identifier type="local">0d97e859-c7a2-4f67-8fb8-ebc3158ac147</mods:identifier>
+          <mods:note displayLabel="Digital object made available by">Rockefeller Archive Center, 15 Dayton Avenue, Sleepy Hollow, 10591, U.S.A. (http://www.rockarch.org)</mods:note>
           <mods:relatedItem displayLabel="resource" type="host">
             <mods:name>Rockefeller Foundation records, officers' diaries, RG 12, M-R</mods:name>
             <mods:identifier>FA393.xml</mods:identifier>
@@ -28,13 +33,13 @@
     </mdWrap>
   </dmdSec>
   <amdSec>
-    <techMD ID="2913">
+    <techMD ID="5375">
       <mdWrap MDTYPE="PREMIS:OBJECT">
         <xmlData>
           <object version="2.2" xmlns="info:lc/xmlns/premis-v2" xsi:schemaLocation="info:lc/xmlns/premis-v2 http://www.loc.gov/standards/premis/v2/premis-v2-2.xsd" xsi:type="file">
             <objectIdentifier>
               <objectIdentifierType>ArchivesSpace identifier</objectIdentifierType>
-              <objectIdentifierValue>2913</objectIdentifierValue>
+              <objectIdentifierValue>5375</objectIdentifierValue>
             </objectIdentifier>
             <objectCharacteristics>
               <fixity>
@@ -56,19 +61,19 @@
   </amdSec>
   <fileSec>
     <fileGrp USE="">
-      <file AMDID="2913" GROUPID="2518" ID="2913">
-        <FLocat xlink:href="http://storage.rockarch.org/0d97e859-c7a2-4f67-8fb8-ebc3158ac147-Parker_1962.pdf"/>
+      <file AMDID="5375" GROUPID="2518" ID="5375">
+        <FLocat xlink:href="https://storage.rockarch.org/0d97e859-c7a2-4f67-8fb8-ebc3158ac147-Parker_1962.pdf"/>
       </file>
     </fileGrp>
   </fileSec>
   <structMap TYPE="logical">
     <div DMDID="2518" LABEL="Parker_1962.pdf" ORDER="1" TYPE="item">
-      <fptr FILEID="2913"/>
+      <fptr FILEID="5375"/>
     </div>
   </structMap>
   <structMap TYPE="physical">
     <div DMDID="2518" LABEL="Parker_1962.pdf" ORDER="1" TYPE="item">
-      <fptr FILEID="2913"/>
+      <fptr FILEID="5375"/>
     </div>
   </structMap>
 </mets>

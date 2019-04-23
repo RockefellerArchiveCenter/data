@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <mets xmlns="http://www.loc.gov/METS/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/mets/mets.xsd">
-  <metsHdr CREATEDATE="2019-03-18 12:07:31 -0400">
+  <metsHdr CREATEDATE="2019-04-23 00:38:58 -0400">
     <agent ROLE="CREATOR" TYPE="ORGANIZATION">
       <name>Rockefeller Archive Center</name>
       <note>http://www.rockarch.org</note>
@@ -90,13 +90,13 @@
     </mdWrap>
   </dmdSec>
   <amdSec>
-    <techMD ID="5069">
+    <techMD ID="6104">
       <mdWrap MDTYPE="PREMIS:OBJECT">
         <xmlData>
           <object version="2.2" xmlns="info:lc/xmlns/premis-v2" xsi:schemaLocation="info:lc/xmlns/premis-v2 http://www.loc.gov/standards/premis/v2/premis-v2-2.xsd" xsi:type="file">
             <objectIdentifier>
               <objectIdentifierType>ArchivesSpace identifier</objectIdentifierType>
-              <objectIdentifierValue>5069</objectIdentifierValue>
+              <objectIdentifierValue>6104</objectIdentifierValue>
             </objectIdentifier>
             <objectCharacteristics>
               <fixity>
@@ -118,19 +118,19 @@
   </amdSec>
   <fileSec>
     <fileGrp USE="service-edited">
-      <file AMDID="5069" GROUPID="1453" ID="5069">
-        <FLocat xlink:href="http://storage.rockarch.org/5a56362e-88b5-4947-acb3-e45f97fdff6a-rac_rfdiaries_12-2_downs_1941-1971_012.pdf"/>
+      <file AMDID="6104" GROUPID="1453" ID="6104">
+        <FLocat xlink:href="https://storage.rockarch.org/5a56362e-88b5-4947-acb3-e45f97fdff6a-rac_rfdiaries_12-2_downs_1941-1971_012.pdf"/>
       </file>
     </fileGrp>
   </fileSec>
   <structMap TYPE="logical">
     <div DMDID="1453" LABEL="1953 December 14-1954 December" ORDER="1" TYPE="item">
-      <fptr FILEID="5069"/>
+      <fptr FILEID="6104"/>
     </div>
   </structMap>
   <structMap TYPE="physical">
     <div DMDID="1453" LABEL="1953 December 14-1954 December" ORDER="1" TYPE="item">
-      <fptr FILEID="5069"/>
+      <fptr FILEID="6104"/>
     </div>
   </structMap>
 </mets>

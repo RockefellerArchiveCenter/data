@@ -1,5 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<mets xmlns="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/mets/mets.xsd">
+<mets xmlns="http://www.loc.gov/METS/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/mets/mets.xsd">
+  <metsHdr CREATEDATE="2019-04-23 00:33:06 -0400">
+    <agent ROLE="CREATOR" TYPE="ORGANIZATION">
+      <name>Rockefeller Archive Center</name>
+      <note>http://www.rockarch.org</note>
+      <note>Produced by ArchivesSpace</note>
+    </agent>
+  </metsHdr>
   <dmdSec ID="2108">
     <mdWrap MDTYPE="MODS">
       <xmlData>
@@ -7,18 +14,20 @@
           <mods:titleInfo>
             <mods:title>Index</mods:title>
           </mods:titleInfo>
+          <mods:identifier type="local">15804961-7fd3-415e-bc08-33802bf1161e</mods:identifier>
           <mods:typeOfResource>Text</mods:typeOfResource>
           <mods:originInfo>
             <mods:dateCreated>1951</mods:dateCreated>
           </mods:originInfo>
           <mods:language>
-            <mods:languageTerm type="code">eng</mods:languageTerm>
+            <mods:languageTerm authority="iso639-2b" type="text">English</mods:languageTerm>
+            <mods:languageTerm authority="iso639-2b" type="code">eng</mods:languageTerm>
           </mods:language>
           <mods:physicalDescription/>
           <mods:note type="originalsloc">d4b27d5f-0941-4092-94f1-a150689f4ce1</mods:note>
           <mods:accessCondition type="restrictionOnAccess">As the author is deceased, the Rockefeller Foundation restriction on the diaries of living officers no longer applies. The Rockefeller Foundation twenty-year embargo has also expired for these materials.</mods:accessCondition>
           <mods:accessCondition type="useAndReproduction">To the extent that the Rockefeller Foundation owns copyright in these materials, it has given the Rockefeller Archive Center the authority to grant permission to cite and publish material from the collection for scholarly purposes.</mods:accessCondition>
-          <mods:identifier type="local">15804961-7fd3-415e-bc08-33802bf1161e</mods:identifier>
+          <mods:note displayLabel="Digital object made available by">Rockefeller Archive Center, 15 Dayton Avenue, Sleepy Hollow, 10591, U.S.A. (http://www.rockarch.org)</mods:note>
           <mods:relatedItem displayLabel="resource" type="host">
             <mods:name>Rockefeller Foundation records, officers' diaries, RG 12, F-L</mods:name>
             <mods:identifier>FA392.xml</mods:identifier>
@@ -32,13 +41,13 @@
     </mdWrap>
   </dmdSec>
   <amdSec>
-    <techMD ID="4620">
+    <techMD ID="5464">
       <mdWrap MDTYPE="PREMIS:OBJECT">
         <xmlData>
           <object version="2.2" xmlns="info:lc/xmlns/premis-v2" xsi:schemaLocation="info:lc/xmlns/premis-v2 http://www.loc.gov/standards/premis/v2/premis-v2-2.xsd" xsi:type="file">
             <objectIdentifier>
               <objectIdentifierType>ArchivesSpace identifier</objectIdentifierType>
-              <objectIdentifierValue>4620</objectIdentifierValue>
+              <objectIdentifierValue>5464</objectIdentifierValue>
             </objectIdentifier>
             <objectCharacteristics>
               <fixity>
@@ -59,20 +68,20 @@
     </techMD>
   </amdSec>
   <fileSec>
-    <fileGrp USE="translation missing: en.enumerations.file_version_use_statement.service-edited">
-      <file AMDID="4620" GROUPID="2108" ID="4620">
-        <FLocat xlink:href="http://storage.rockarch.org/15804961-7fd3-415e-bc08-33802bf1161e-rac_rfdiaries_12-2_gregg_1922-1953_060.pdf"/>
+    <fileGrp USE="service-edited">
+      <file AMDID="5464" GROUPID="2108" ID="5464">
+        <FLocat xlink:href="https://storage.rockarch.org/15804961-7fd3-415e-bc08-33802bf1161e-rac_rfdiaries_12-2_gregg_1922-1953_060.pdf"/>
       </file>
     </fileGrp>
   </fileSec>
   <structMap TYPE="logical">
     <div DMDID="2108" LABEL="Index" ORDER="1" TYPE="item">
-      <fptr FILEID="4620"/>
+      <fptr FILEID="5464"/>
     </div>
   </structMap>
   <structMap TYPE="physical">
     <div DMDID="2108" LABEL="Index" ORDER="1" TYPE="item">
-      <fptr FILEID="4620"/>
+      <fptr FILEID="5464"/>
     </div>
   </structMap>
 </mets>

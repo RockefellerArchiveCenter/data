@@ -1,5 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<mets xmlns="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/mets/mets.xsd">
+<mets xmlns="http://www.loc.gov/METS/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/mets/mets.xsd">
+  <metsHdr CREATEDATE="2019-04-23 00:40:23 -0400">
+    <agent ROLE="CREATOR" TYPE="ORGANIZATION">
+      <name>Rockefeller Archive Center</name>
+      <note>http://www.rockarch.org</note>
+      <note>Produced by ArchivesSpace</note>
+    </agent>
+  </metsHdr>
   <dmdSec ID="2656">
     <mdWrap MDTYPE="MODS">
       <xmlData>
@@ -7,14 +14,12 @@
           <mods:titleInfo>
             <mods:title>Thompson_1966(2).pdf</mods:title>
           </mods:titleInfo>
+          <mods:identifier type="local">69f4648f-9a08-473e-9752-e48e1adcc5ac</mods:identifier>
           <mods:typeOfResource/>
           <mods:originInfo/>
-          <mods:language>
-            <mods:languageTerm type="code"></mods:languageTerm>
-          </mods:language>
           <mods:physicalDescription/>
           <mods:note type="originalsloc">263c1852-9a8f-4d48-92db-cd79bd7395f1</mods:note>
-          <mods:identifier type="local">69f4648f-9a08-473e-9752-e48e1adcc5ac</mods:identifier>
+          <mods:note displayLabel="Digital object made available by">Rockefeller Archive Center, 15 Dayton Avenue, Sleepy Hollow, 10591, U.S.A. (http://www.rockarch.org)</mods:note>
           <mods:relatedItem displayLabel="resource" type="host">
             <mods:name>Rockefeller Foundation records, officers' diaries, RG 12, S-Z</mods:name>
             <mods:identifier>FA394.xml</mods:identifier>
@@ -28,13 +33,13 @@
     </mdWrap>
   </dmdSec>
   <amdSec>
-    <techMD ID="5206">
+    <techMD ID="6258">
       <mdWrap MDTYPE="PREMIS:OBJECT">
         <xmlData>
           <object version="2.2" xmlns="info:lc/xmlns/premis-v2" xsi:schemaLocation="info:lc/xmlns/premis-v2 http://www.loc.gov/standards/premis/v2/premis-v2-2.xsd" xsi:type="file">
             <objectIdentifier>
               <objectIdentifierType>ArchivesSpace identifier</objectIdentifierType>
-              <objectIdentifierValue>5206</objectIdentifierValue>
+              <objectIdentifierValue>6258</objectIdentifierValue>
             </objectIdentifier>
             <objectCharacteristics>
               <fixity>
@@ -56,19 +61,19 @@
   </amdSec>
   <fileSec>
     <fileGrp USE="">
-      <file AMDID="5206" GROUPID="2656" ID="5206">
-        <FLocat xlink:href="http://storage.rockarch.org/69f4648f-9a08-473e-9752-e48e1adcc5ac-Thompson_1966(2).pdf"/>
+      <file AMDID="6258" GROUPID="2656" ID="6258">
+        <FLocat xlink:href="https://storage.rockarch.org/69f4648f-9a08-473e-9752-e48e1adcc5ac-Thompson_1966(2).pdf"/>
       </file>
     </fileGrp>
   </fileSec>
   <structMap TYPE="logical">
     <div DMDID="2656" LABEL="Thompson_1966(2).pdf" ORDER="1" TYPE="item">
-      <fptr FILEID="5206"/>
+      <fptr FILEID="6258"/>
     </div>
   </structMap>
   <structMap TYPE="physical">
     <div DMDID="2656" LABEL="Thompson_1966(2).pdf" ORDER="1" TYPE="item">
-      <fptr FILEID="5206"/>
+      <fptr FILEID="6258"/>
     </div>
   </structMap>
 </mets>

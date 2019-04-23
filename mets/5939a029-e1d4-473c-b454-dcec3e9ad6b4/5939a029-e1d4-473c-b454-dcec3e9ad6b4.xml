@@ -1,5 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<mets xmlns="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/mets/mets.xsd">
+<mets xmlns="http://www.loc.gov/METS/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/mets/mets.xsd">
+  <metsHdr CREATEDATE="2019-04-23 00:38:52 -0400">
+    <agent ROLE="CREATOR" TYPE="ORGANIZATION">
+      <name>Rockefeller Archive Center</name>
+      <note>http://www.rockarch.org</note>
+      <note>Produced by ArchivesSpace</note>
+    </agent>
+  </metsHdr>
   <dmdSec ID="539">
     <mdWrap MDTYPE="MODS">
       <xmlData>
@@ -7,18 +14,20 @@
           <mods:titleInfo>
             <mods:title>November 3, 1980</mods:title>
           </mods:titleInfo>
+          <mods:identifier type="local">5939a029-e1d4-473c-b454-dcec3e9ad6b4</mods:identifier>
           <mods:typeOfResource>Text</mods:typeOfResource>
           <mods:originInfo>
             <mods:dateCreated>November 3, 1980</mods:dateCreated>
           </mods:originInfo>
           <mods:language>
-            <mods:languageTerm type="code">eng</mods:languageTerm>
+            <mods:languageTerm authority="iso639-2b" type="text">English</mods:languageTerm>
+            <mods:languageTerm authority="iso639-2b" type="code">eng</mods:languageTerm>
           </mods:language>
           <mods:physicalDescription/>
           <mods:note type="originalsloc">2545ed17-d944-4df8-a045-e5feccd0a62f</mods:note>
           <mods:accessCondition type="restrictionOnAccess">No restrictions on access.</mods:accessCondition>
           <mods:accessCondition type="useAndReproduction">To the extent that the donor owns copyright in these materials, he/she has given the Rockefeller Archive Center the authority to grant permission to cite and publish material from the collection for scholarly purposes; however, copyright in some items may be held by their respective creators.  Please consult an archivist for further details.</mods:accessCondition>
-          <mods:identifier type="local">5939a029-e1d4-473c-b454-dcec3e9ad6b4</mods:identifier>
+          <mods:note displayLabel="Digital object made available by">Rockefeller Archive Center, 15 Dayton Avenue, Sleepy Hollow, 10591, U.S.A. (http://www.rockarch.org)</mods:note>
           <mods:relatedItem displayLabel="resource" type="host">
             <mods:name>Foundation for Child Development records</mods:name>
             <mods:identifier>FA019.xml</mods:identifier>
@@ -32,13 +41,13 @@
     </mdWrap>
   </dmdSec>
   <amdSec>
-    <techMD ID="3385">
+    <techMD ID="6094">
       <mdWrap MDTYPE="PREMIS:OBJECT">
         <xmlData>
           <object version="2.2" xmlns="info:lc/xmlns/premis-v2" xsi:schemaLocation="info:lc/xmlns/premis-v2 http://www.loc.gov/standards/premis/v2/premis-v2-2.xsd" xsi:type="file">
             <objectIdentifier>
               <objectIdentifierType>ArchivesSpace identifier</objectIdentifierType>
-              <objectIdentifierValue>3385</objectIdentifierValue>
+              <objectIdentifierValue>6094</objectIdentifierValue>
             </objectIdentifier>
             <objectCharacteristics>
               <fixity>
@@ -60,19 +69,19 @@
   </amdSec>
   <fileSec>
     <fileGrp USE="Image-Service">
-      <file AMDID="3385" GROUPID="539" ID="3385">
-        <FLocat xlink:href="http://storage.rockarch.org/5939a029-e1d4-473c-b454-dcec3e9ad6b4-FCD001_038_00435.pdf"/>
+      <file AMDID="6094" GROUPID="539" ID="6094">
+        <FLocat xlink:href="https://storage.rockarch.org/5939a029-e1d4-473c-b454-dcec3e9ad6b4-FCD001_038_00435.pdf"/>
       </file>
     </fileGrp>
   </fileSec>
   <structMap TYPE="logical">
     <div DMDID="539" LABEL="November 3, 1980" ORDER="1" TYPE="item">
-      <fptr FILEID="3385"/>
+      <fptr FILEID="6094"/>
     </div>
   </structMap>
   <structMap TYPE="physical">
     <div DMDID="539" LABEL="November 3, 1980" ORDER="1" TYPE="item">
-      <fptr FILEID="3385"/>
+      <fptr FILEID="6094"/>
     </div>
   </structMap>
 </mets>
