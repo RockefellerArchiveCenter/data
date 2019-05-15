@@ -7,46 +7,46 @@
       <note>Produced by ArchivesSpace</note>
     </agent>
   </metsHdr>
-  <dmdSec ID="2692">
+  <dmdSec ID="2693">
     <mdWrap MDTYPE="MODS">
       <xmlData>
         <mods version="3.4" xmlns="http://www.loc.gov/mods/v3">
           <mods:titleInfo>
-            <mods:title>RF_Pomerat_1946-06_1946-08.pdf</mods:title>
+            <mods:title>RF_Pomerat_1946-09_1946-12.pdf</mods:title>
           </mods:titleInfo>
-          <mods:identifier type="local">404a52b4-5409-481f-96df-15c24efba652</mods:identifier>
+          <mods:identifier type="local">37a79268-d585-4180-932b-6b70e8fa2533</mods:identifier>
           <mods:typeOfResource/>
           <mods:originInfo/>
           <mods:physicalDescription/>
-          <mods:note type="originalsloc">4b5bf9b5-9c5f-448f-865c-c673f4ebafa0</mods:note>
+          <mods:note type="originalsloc">67bb5377-d1e2-406f-ac29-39f7805d1a74</mods:note>
           <mods:note displayLabel="Digital object made available by">Rockefeller Archive Center, 15 Dayton Avenue, Sleepy Hollow, 10591, U.S.A. (http://www.rockarch.org)</mods:note>
           <mods:relatedItem displayLabel="resource" type="host">
             <mods:name>Rockefeller Foundation records, officers' diaries, RG 12, M-R</mods:name>
             <mods:identifier>FA393.xml</mods:identifier>
           </mods:relatedItem>
           <mods:relatedItem displayLabel="component" type="host">
-            <mods:name>1946 June-August</mods:name>
-            <mods:identifier>fd0bed7b8a2d491cb58e8fa453e59084</mods:identifier>
+            <mods:name>1946 September-December</mods:name>
+            <mods:identifier>2d5c26b06f5846f79037cbdae4421a18</mods:identifier>
           </mods:relatedItem>
         </mods>
       </xmlData>
     </mdWrap>
   </dmdSec>
   <amdSec>
-    <techMD ID="7777">
+    <techMD ID="7778">
       <mdWrap MDTYPE="PREMIS:OBJECT">
         <xmlData>
           <object version="2.2" xmlns="info:lc/xmlns/premis-v2" xsi:schemaLocation="info:lc/xmlns/premis-v2 http://www.loc.gov/standards/premis/v2/premis-v2-2.xsd" xsi:type="file">
             <objectIdentifier>
               <objectIdentifierType>ArchivesSpace identifier</objectIdentifierType>
-              <objectIdentifierValue>7777</objectIdentifierValue>
+              <objectIdentifierValue>7778</objectIdentifierValue>
             </objectIdentifier>
             <objectCharacteristics>
               <fixity>
                 <messageDigestAlgorithm/>
                 <messageDigest/>
               </fixity>
-              <size>103097294</size>
+              <size>102686134</size>
               <format>
                 <formatDesignation>
                   <formatName>pdf</formatName>
@@ -61,19 +61,19 @@
   </amdSec>
   <fileSec>
     <fileGrp USE="">
-      <file AMDID="7777" GROUPID="2692" ID="7777">
-        <FLocat xlink:href="https://storage.rockarch.org/404a52b4-5409-481f-96df-15c24efba652-RF_Pomerat_1946-06_1946-08.pdf"/>
+      <file AMDID="7778" GROUPID="2693" ID="7778">
+        <FLocat xlink:href="https://storage.rockarch.org/37a79268-d585-4180-932b-6b70e8fa2533-RF_Pomerat_1946-09_1946-12.pdf"/>
       </file>
     </fileGrp>
   </fileSec>
   <structMap TYPE="logical">
-    <div DMDID="2692" LABEL="RF_Pomerat_1946-06_1946-08.pdf" ORDER="1" TYPE="item">
-      <fptr FILEID="7777"/>
+    <div DMDID="2693" LABEL="RF_Pomerat_1946-09_1946-12.pdf" ORDER="1" TYPE="item">
+      <fptr FILEID="7778"/>
     </div>
   </structMap>
   <structMap TYPE="physical">
-    <div DMDID="2692" LABEL="RF_Pomerat_1946-06_1946-08.pdf" ORDER="1" TYPE="item">
-      <fptr FILEID="7777"/>
+    <div DMDID="2693" LABEL="RF_Pomerat_1946-09_1946-12.pdf" ORDER="1" TYPE="item">
+      <fptr FILEID="7778"/>
     </div>
   </structMap>
 </mets>
