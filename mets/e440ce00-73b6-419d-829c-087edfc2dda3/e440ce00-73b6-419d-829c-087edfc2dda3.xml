@@ -1,52 +1,52 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <mets xmlns="http://www.loc.gov/METS/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/mets/mets.xsd">
-  <metsHdr CREATEDATE="2019-05-18 00:22:25 -0400">
+  <metsHdr CREATEDATE="2019-05-18 00:22:31 -0400">
     <agent ROLE="CREATOR" TYPE="ORGANIZATION">
       <name>Rockefeller Archive Center</name>
       <note>http://www.rockarch.org</note>
       <note>Produced by ArchivesSpace</note>
     </agent>
   </metsHdr>
-  <dmdSec ID="2725">
+  <dmdSec ID="2734">
     <mdWrap MDTYPE="MODS">
       <xmlData>
         <mods version="3.4" xmlns="http://www.loc.gov/mods/v3">
           <mods:titleInfo>
-            <mods:title>RF_Pomerat_1957-01_1957-05-16.pdf</mods:title>
+            <mods:title>RF_Pomerat_1959-05.pdf</mods:title>
           </mods:titleInfo>
-          <mods:identifier type="local">87b20f77-a3f0-4a7f-b854-540e43bacbb8</mods:identifier>
+          <mods:identifier type="local">e440ce00-73b6-419d-829c-087edfc2dda3</mods:identifier>
           <mods:typeOfResource/>
           <mods:originInfo/>
           <mods:physicalDescription/>
-          <mods:note type="originalsloc">3756f44a-88a9-4bdb-9542-ba3cb522461b</mods:note>
+          <mods:note type="originalsloc">350ba803-dc3b-4b94-8154-117b9b67f05b</mods:note>
           <mods:note displayLabel="Digital object made available by">Rockefeller Archive Center, 15 Dayton Avenue, Sleepy Hollow, 10591, U.S.A. (http://www.rockarch.org)</mods:note>
           <mods:relatedItem displayLabel="resource" type="host">
             <mods:name>Rockefeller Foundation records, officers' diaries, RG 12, M-R</mods:name>
             <mods:identifier>FA393.xml</mods:identifier>
           </mods:relatedItem>
           <mods:relatedItem displayLabel="component" type="host">
-            <mods:name>1957 January-May 16</mods:name>
-            <mods:identifier>a9b4ba517a1f4d5b8ba002cad10229f0</mods:identifier>
+            <mods:name>1959 May</mods:name>
+            <mods:identifier>119e0e086a43425b9d1c5f0e41df30c6</mods:identifier>
           </mods:relatedItem>
         </mods>
       </xmlData>
     </mdWrap>
   </dmdSec>
   <amdSec>
-    <techMD ID="7810">
+    <techMD ID="7819">
       <mdWrap MDTYPE="PREMIS:OBJECT">
         <xmlData>
           <object version="2.2" xmlns="info:lc/xmlns/premis-v2" xsi:schemaLocation="info:lc/xmlns/premis-v2 http://www.loc.gov/standards/premis/v2/premis-v2-2.xsd" xsi:type="file">
             <objectIdentifier>
               <objectIdentifierType>ArchivesSpace identifier</objectIdentifierType>
-              <objectIdentifierValue>7810</objectIdentifierValue>
+              <objectIdentifierValue>7819</objectIdentifierValue>
             </objectIdentifier>
             <objectCharacteristics>
               <fixity>
                 <messageDigestAlgorithm/>
                 <messageDigest/>
               </fixity>
-              <size>114481302</size>
+              <size>77202902</size>
               <format>
                 <formatDesignation>
                   <formatName>pdf</formatName>
@@ -61,19 +61,19 @@
   </amdSec>
   <fileSec>
     <fileGrp USE="">
-      <file AMDID="7810" GROUPID="2725" ID="7810">
-        <FLocat xlink:href="https://storage.rockarch.org/87b20f77-a3f0-4a7f-b854-540e43bacbb8-RF_Pomerat_1957-01_1957-05-16.pdf"/>
+      <file AMDID="7819" GROUPID="2734" ID="7819">
+        <FLocat xlink:href="https://storage.rockarch.org/e440ce00-73b6-419d-829c-087edfc2dda3-RF_Pomerat_1959-05.pdf"/>
       </file>
     </fileGrp>
   </fileSec>
   <structMap TYPE="logical">
-    <div DMDID="2725" LABEL="RF_Pomerat_1957-01_1957-05-16.pdf" ORDER="1" TYPE="item">
-      <fptr FILEID="7810"/>
+    <div DMDID="2734" LABEL="RF_Pomerat_1959-05.pdf" ORDER="1" TYPE="item">
+      <fptr FILEID="7819"/>
     </div>
   </structMap>
   <structMap TYPE="physical">
-    <div DMDID="2725" LABEL="RF_Pomerat_1957-01_1957-05-16.pdf" ORDER="1" TYPE="item">
-      <fptr FILEID="7810"/>
+    <div DMDID="2734" LABEL="RF_Pomerat_1959-05.pdf" ORDER="1" TYPE="item">
+      <fptr FILEID="7819"/>
     </div>
   </structMap>
 </mets>
