@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mets xmlns="http://www.loc.gov/METS/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/mets/mets.xsd">
+  <metsHdr CREATEDATE="2019-05-21 00:06:37 -0400">
+    <agent ROLE="CREATOR" TYPE="ORGANIZATION">
+      <name>Rockefeller Archive Center</name>
+      <note>http://www.rockarch.org</note>
+      <note>Produced by ArchivesSpace</note>
+    </agent>
+  </metsHdr>
+  <dmdSec ID="2748">
+    <mdWrap MDTYPE="MODS">
+      <xmlData>
+        <mods version="3.4" xmlns="http://www.loc.gov/mods/v3">
+          <mods:titleInfo>
+            <mods:title>RF_Pomerat_1964-01_1964-04.pdf</mods:title>
+          </mods:titleInfo>
+          <mods:identifier type="local">fdf07102-aff1-4a94-8351-5540a4241b3b</mods:identifier>
+          <mods:typeOfResource/>
+          <mods:originInfo/>
+          <mods:physicalDescription/>
+          <mods:note type="originalsloc">9ac0847f-67e5-4414-b3c5-8c183bed2a77</mods:note>
+          <mods:note displayLabel="Digital object made available by">Rockefeller Archive Center, 15 Dayton Avenue, Sleepy Hollow, 10591, U.S.A. (http://www.rockarch.org)</mods:note>
+          <mods:relatedItem displayLabel="resource" type="host">
+            <mods:name>Rockefeller Foundation records, officers' diaries, RG 12, M-R</mods:name>
+            <mods:identifier>FA393.xml</mods:identifier>
+          </mods:relatedItem>
+          <mods:relatedItem displayLabel="component" type="host">
+            <mods:name>1964 January-April</mods:name>
+            <mods:identifier>fff5251e78ac49bb96a1a7d02a2fe1fb</mods:identifier>
+          </mods:relatedItem>
+        </mods>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec>
+    <techMD ID="7833">
+      <mdWrap MDTYPE="PREMIS:OBJECT">
+        <xmlData>
+          <object version="2.2" xmlns="info:lc/xmlns/premis-v2" xsi:schemaLocation="info:lc/xmlns/premis-v2 http://www.loc.gov/standards/premis/v2/premis-v2-2.xsd" xsi:type="file">
+            <objectIdentifier>
+              <objectIdentifierType>ArchivesSpace identifier</objectIdentifierType>
+              <objectIdentifierValue>7833</objectIdentifierValue>
+            </objectIdentifier>
+            <objectCharacteristics>
+              <fixity>
+                <messageDigestAlgorithm/>
+                <messageDigest/>
+              </fixity>
+              <size>73046277</size>
+              <format>
+                <formatDesignation>
+                  <formatName>pdf</formatName>
+                  <formatVersion>Generic PDF</formatVersion>
+                </formatDesignation>
+              </format>
+            </objectCharacteristics>
+          </object>
+        </xmlData>
+      </mdWrap>
+    </techMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="">
+      <file AMDID="7833" GROUPID="2748" ID="7833">
+        <FLocat xlink:href="https://storage.rockarch.org/fdf07102-aff1-4a94-8351-5540a4241b3b-RF_Pomerat_1964-01_1964-04.pdf"/>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="logical">
+    <div DMDID="2748" LABEL="RF_Pomerat_1964-01_1964-04.pdf" ORDER="1" TYPE="item">
+      <fptr FILEID="7833"/>
+    </div>
+  </structMap>
+  <structMap TYPE="physical">
+    <div DMDID="2748" LABEL="RF_Pomerat_1964-01_1964-04.pdf" ORDER="1" TYPE="item">
+      <fptr FILEID="7833"/>
+    </div>
+  </structMap>
+</mets>
+
