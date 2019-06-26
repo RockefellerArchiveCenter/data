@@ -1,519 +1,73 @@
-<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
-  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="under_revision" langencoding="iso639-2b" repositoryencoding="iso15511">
-    <eadid>FA050.xml</eadid>
-    <filedesc>
-      <titlestmt>
-        <titleproper type="filing">Loucks (Harold H.) papers</titleproper>
-        <titleproper>A Guide to the Harold H. Loucks Papers
- <num>FA050</num></titleproper>
-      </titlestmt>
-      <publicationstmt>
-        <publisher>Rockefeller Archive Center</publisher>
-        <address>
-          <addressline>15 Dayton Avenue</addressline>
-          <addressline>Sleepy Hollow 10591</addressline>
-          <addressline>archive@rockarch.org</addressline>
-          <addressline>URL: <extptr xlink:href="http://www.rockarch.org" xlink:show="new" xlink:title="http://www.rockarch.org" xlink:type="simple"/></addressline>
-        </address>
-      </publicationstmt>
-    </filedesc>
-    <profiledesc>
-      <creation>This finding aid was produced using ArchivesSpace on <date>2018-03-01 00:03:50 -0500</date>.</creation>
-      <langusage>English</langusage>
-      <descrules>Describing Archives: A Content Standard</descrules>
-    </profiledesc>
-    <revisiondesc>
-      <change>
-        <date>14 October 2009</date>
-        <item>Migrated from Re:discovery to the Archivists' Toolkit by Becky Robbins</item>
-      </change>
-    </revisiondesc>
-  </eadheader>
-  <archdesc level="collection">
-    <did>
-      <langmaterial>
-        <language langcode="eng">English</language>
-      </langmaterial>
-      <repository>
-        <corpname>Rockefeller Archive Center</corpname>
-      </repository>
-      <unittitle>Harold H. Loucks papers</unittitle>
-      <origination label="creator">
-        <persname role="aut" rules="dacs">Loucks, Harold H.</persname>
-      </origination>
-      <unitid>FA050</unitid>
-      <physdesc altrender="whole">
-        <extent altrender="materialtype spaceoccupied">1 Cubic Feet</extent>
-        <extent altrender="carrier">3 document cases</extent>
-      </physdesc>
-      <unitdate normal="1920/1976" type="inclusive">1920-1976, bulk 1951-1965</unitdate>
-      <unitdate normal="1951/1965" type="bulk">1951-1965</unitdate>
-    </did>
-    <userestrict id="eeeaa466ccf8dd50f4bcdd0c063bc1bd">
-      <head>Conditions Governing Use</head>
-      <p>RAC users must abide by all applicable provisions of United States copyright law.  Reproduction/duplication of archival items is routinely provided in accordance with "fair use."  If the RAC does not hold copyright for an archival collection, or items within a collection, it is the user's responsibility to contact the copyright holder, or make a fair effort to do so, prior to publication.</p>
-    </userestrict>
-    <accessrestrict id="abe4a0f39f37c0736870b8e4f54eac1c">
-      <head>Conditions Governing Access</head>
-      <p>Open for research. Brittle or damaged items are available at the discretion of RAC. Researchers interested in accessing digital media (floppy disks, CDs, DVDs, etc.) or audiovisual material (audio cassettes, VHS, etc.) in this collection must use an access surrogate. The original items may not be accessed because of preservation concerns. To request an access surrogate be made, or if you are unsure if there is an access surrogate, please contact an archivist.</p>
-    </accessrestrict>
-    <bioghist id="1ea046d4787ec6639e310baae2f817f1">
-      <head>Biographical / Historical</head>
-      <p>Harold Loucks was born in 1894, and graduated with an M.D. from Western Reserve University.  In 1922 he became an assistant resident in Surgery at the Peking Union Medical College, and in 1930 he became the head of the Surgery department there.  While at the PUMC he married Mary Swisher, the nurse-anesthetist for the college. Mr. Loucks was an employee of the China Medical Board from 1948 through 1955, and the China Medical Board of New York 1955-1963, 1965.</p>
-    </bioghist>
-    <scopecontent id="2cb161a7aafa280ea89e612c086b1490">
-      <head>Scope and Contents</head>
-      <p>The papers focus on the years after World War II and the reconstruction of the Peking Union Medical College, and include reports and correspondence by Loucks from China Medical Board, Inc. sponsored trips to the Far East, 1951-1964.  The countries surveyed include:  Japan, Hong Kong, Philippines, Indonesia, Malaysia, Siam (Thailand), Burma, Ceylon, India, Pakistan, Lebanon, Korea, Vietnam, and the Trust Territory.  The reports include information not only about the status of medical education, but also about the social and political climate of each country.</p>
-    </scopecontent>
-    <arrangement id="69494b3d54492404e27069fb7d6b29bb">
-      <head>Arrangement</head>
-      <p>The Harold H. Loucks collection is divided into three series:</p>
-      <p>Series 1  -  Correspondence
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="under_revision" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid>FA050.xml</eadid><filedesc><titlestmt><titleproper type="filing">Loucks (Harold H.) papers</titleproper><titleproper>A Guide to the Harold H. Loucks Papers
+ <num>FA050</num></titleproper></titlestmt><publicationstmt><publisher>Rockefeller Archive Center</publisher><address><addressline>15 Dayton Avenue</addressline><addressline>Sleepy Hollow 10591</addressline><addressline>archive@rockarch.org</addressline><addressline>URL: <extptr xlink:href="http://www.rockarch.org" xlink:show="new" xlink:title="http://www.rockarch.org" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2019-06-26 00:16:42 -0400</date>.</creation><langusage>English</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc><revisiondesc><change><date>14 October 2009</date><item>Migrated from Re:discovery to the Archivists' Toolkit by Becky Robbins</item></change></revisiondesc></eadheader><archdesc level="collection">
+  <did>
+    <langmaterial>
+      <language langcode="eng">English</language>
+    </langmaterial>
+    <repository>
+      <corpname>Rockefeller Archive Center</corpname>
+    </repository>
+    <unittitle>Harold H. Loucks papers</unittitle>
+    <origination label="creator">
+      <persname role="aut" rules="dacs">Loucks, Harold H.</persname>
+    </origination>
+    <unitid>FA050</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">1 Cubic Feet</extent>
+      <extent altrender="carrier">3 document cases</extent>
+    </physdesc>
+    <unitdate normal="1920/1976" type="inclusive">1920-1976, bulk 1951-1965</unitdate>
+    <unitdate normal="1951/1965" type="bulk">1951-1965</unitdate>
+  </did>
+  <userestrict id="eeeaa466ccf8dd50f4bcdd0c063bc1bd">
+    <head>Conditions Governing Use</head>
+<p>RAC users must abide by all applicable provisions of United States copyright law.  Reproduction/duplication of archival items is routinely provided in accordance with "fair use."  If the RAC does not hold copyright for an archival collection, or items within a collection, it is the user's responsibility to contact the copyright holder, or make a fair effort to do so, prior to publication.</p>  </userestrict>
+  <accessrestrict id="abe4a0f39f37c0736870b8e4f54eac1c">
+    <head>Conditions Governing Access</head>
+<p>Open for research. Brittle or damaged items are available at the discretion of RAC. Researchers interested in accessing digital media (floppy disks, CDs, DVDs, etc.) or audiovisual material (audio cassettes, VHS, etc.) in this collection must use an access surrogate. The original items may not be accessed because of preservation concerns. To request an access surrogate be made, or if you are unsure if there is an access surrogate, please contact an archivist.</p>  </accessrestrict>
+  <bioghist id="1ea046d4787ec6639e310baae2f817f1">
+    <head>Biographical / Historical</head>
+<p>Harold Loucks was born in 1894, and graduated with an M.D. from Western Reserve University.  In 1922 he became an assistant resident in Surgery at the Peking Union Medical College, and in 1930 he became the head of the Surgery department there.  While at the PUMC he married Mary Swisher, the nurse-anesthetist for the college. Mr. Loucks was an employee of the China Medical Board from 1948 through 1955, and the China Medical Board of New York 1955-1963, 1965.</p>  </bioghist>
+  <scopecontent id="2cb161a7aafa280ea89e612c086b1490">
+    <head>Scope and Contents</head>
+<p>The papers focus on the years after World War II and the reconstruction of the Peking Union Medical College, and include reports and correspondence by Loucks from China Medical Board, Inc. sponsored trips to the Far East, 1951-1964.  The countries surveyed include:  Japan, Hong Kong, Philippines, Indonesia, Malaysia, Siam (Thailand), Burma, Ceylon, India, Pakistan, Lebanon, Korea, Vietnam, and the Trust Territory.  The reports include information not only about the status of medical education, but also about the social and political climate of each country.</p>  </scopecontent>
+  <arrangement id="69494b3d54492404e27069fb7d6b29bb">
+    <head>Arrangement</head>
+<p>The Harold H. Loucks collection is divided into three series:</p><p>Series 1  -  Correspondence
 Series 2  -  China Medical Board, Inc.
-Series 3  -  China Medical Board - Peking Union Medical College</p>
-    </arrangement>
-    <prefercite id="3f19b98c30d58f4c9c2011d4210d98ba">
-      <head>Preferred Citation</head>
-      <p>Information regarding the Rockefeller Archive Center's preferred elements and forms of citation can be found at <extref href="http://www.rockarch.org/research/citations.php">http://www.rockarch.org/research/citations.php</extref></p>
-    </prefercite>
-    <fileplan id="2078c2e8f619debd4ce278e27617a63a">
-      <head>File Plan</head>
-      <p>Former Classification: IV 2A 32</p>
-    </fileplan>
-    <acqinfo id="a42d7991802b8d6be5e6cba4617f71ea">
-      <head>Immediate Source of Acquisition</head>
-      <p>Harold H. Loucks gave his papers to the Rockefeller Archive Center in 1979.</p>
-    </acqinfo>
-    <controlaccess>
-      <subject source="lcsh">Indonesia</subject>
-      <subject source="lcsh">Political science</subject>
-      <geogname source="lcsh">Philippines</geogname>
-      <geogname source="lcsh">Hong Kong</geogname>
-      <geogname source="lcsh">Japan</geogname>
-      <subject source="lcsh">Ceylon</subject>
-      <geogname source="lcsh">Burma</geogname>
-      <geogname source="lcsh">Thailand</geogname>
-      <subject source="lcsh">Malaysia</subject>
-      <geogname source="lcsh">Pakistan</geogname>
-      <geogname source="lcsh">Lebanon</geogname>
-      <geogname source="lcsh">Korea</geogname>
-      <geogname source="lcsh">China</geogname>
-      <subject source="lcsh">Social history</subject>
-      <subject source="lcsh">Medical education</subject>
-      <geogname source="lcsh">East Asia</geogname>
-      <geogname source="lcsh">Vietnam</geogname>
-      <geogname source="lcsh">India</geogname>
-      <corpname source="naf">Peking. Union Medical College</corpname>
-      <corpname role="ctb" source="naf">China Medical Board (U.S)</corpname>
-    </controlaccess>
-    <dsc>
-      <c id="102d9da23c2f47d1932c8af4d5311bf7" level="series">
-        <did>
-          <unittitle>Correspondence</unittitle>
-          <unitid>1</unitid>
-          <physdesc altrender="whole">
-            <extent altrender="materialtype spaceoccupied">0.4 Cubic Feet</extent>
-            <extent altrender="carrier">1 document case</extent>
-          </physdesc>
-          <unitdate normal="1920/1976" type="inclusive">1920-1976, bulk 1950-1976</unitdate>
-          <unitdate normal="1950/1976" type="bulk">1950-1976</unitdate>
-        </did>
-        <scopecontent id="06e0fbbc437152007758c2a046f25a00">
-          <head>Scope and Contents</head>
-          <p>This series contains personal correspondence between Loucks and people associated with the China Medical Board. It includes some administrative correspondence regarding the Peking Union Medical College.</p>
-          <p>Of special interest in the Correspondence series is the Reinhard Hoeppli file of letters, which describe in some detail the "PUMC" and China after 1951.</p>
-        </scopecontent>
-        <c id="7a1d5dd002d14669aa210b1a7e6c1b52" level="file">
-          <did>
-            <unittitle>Bowers, John Z.</unittitle>
-            <unitdate normal="1969/1972" type="inclusive">1969-1972</unitdate>
-            <container altrender="Letter Document Storage Box" id="8338248be59b68160e8a606e3677fd61" label="mixed materials [A0000000055170]" type="box">1</container>
-            <container id="423b768ba77204fad6a59988495a6c34" parent="8338248be59b68160e8a606e3677fd61" type="folder">1</container>
-          </did>
-        </c>
-        <c id="48d0157624fd4c068a6b63b36110b794" level="file">
-          <did>
-            <unittitle>Cort, Nellie G. and William W.</unittitle>
-            <unitdate normal="1967/1967" type="inclusive">1967</unitdate>
-            <container altrender="Letter Document Storage Box" id="af68fd61a3e2de8310eda2c8cb4b266d" label="mixed materials [A0000000055170]" type="box">1</container>
-            <container id="13f8b20b8fde1f12f403111e682834c9" parent="af68fd61a3e2de8310eda2c8cb4b266d" type="folder">2</container>
-          </did>
-        </c>
-        <c id="ce25e4ca22c344ee93d4e0637b659ca1" level="file">
-          <did>
-            <unittitle>Curran, Jean Alonzo</unittitle>
-            <unitdate normal="1969/1975" type="inclusive">1969-1975</unitdate>
-            <container altrender="Letter Document Storage Box" id="994de2c99de2c0e4baabecac8b1a1da4" label="mixed materials [A0000000055170]" type="box">1</container>
-            <container id="dae7e88b3e16c8343247eaca9306271b" parent="994de2c99de2c0e4baabecac8b1a1da4" type="folder">3</container>
-          </did>
-        </c>
-        <c id="18123c2879754481aefc8868231c6868" level="file">
-          <did>
-            <unittitle>Danaraj, T. J.</unittitle>
-            <unitdate normal="1965/1969" type="inclusive">1965-1969</unitdate>
-            <container altrender="Letter Document Storage Box" id="78356023175b27397d1a9907031c6d04" label="mixed materials [A0000000055170]" type="box">1</container>
-            <container id="19158550fe2b0eda3b22854334806e6d" parent="78356023175b27397d1a9907031c6d04" type="folder">4</container>
-          </did>
-        </c>
-        <c id="e2269aa183324348b53a8744fd63f1b9" level="file">
-          <did>
-            <unittitle>Dieuaide, Francis R.</unittitle>
-            <unitdate normal="1952/1975" type="inclusive">1952, 1968-1975</unitdate>
-            <container altrender="Letter Document Storage Box" id="cc5c206bcd61aff076eebb90e6f5828b" label="mixed materials [A0000000055170]" type="box">1</container>
-            <container id="e65fd9d77045f62fa3eec2939c1bd30f" parent="cc5c206bcd61aff076eebb90e6f5828b" type="folder">5</container>
-          </did>
-        </c>
-        <c id="5b4392256d5a4e0e8f431f20c7ac4bf5" level="file">
-          <did>
-            <unittitle>Dock, William</unittitle>
-            <unitdate normal="1952/1952" type="inclusive">1952</unitdate>
-            <container altrender="Letter Document Storage Box" id="945684ea9f6a97c05cc5b85537b3087a" label="mixed materials [A0000000055170]" type="box">1</container>
-            <container id="c1e9255b188fe6327473c9990849c615" parent="945684ea9f6a97c05cc5b85537b3087a" type="folder">6</container>
-          </did>
-        </c>
-        <c id="2c14afed49e64819bbae82530d397ee4" level="file">
-          <did>
-            <unittitle>Ferguson, Mary E.</unittitle>
-            <unitdate normal="1966/1975" type="inclusive">1966-1975</unitdate>
-            <container altrender="Letter Document Storage Box" id="71b64a5d9a32b93607d4bf394a2a8747" label="mixed materials [A0000000055170]" type="box">1</container>
-            <container id="722212de4dbf65d69b2135a88caf1cf6" parent="71b64a5d9a32b93607d4bf394a2a8747" type="folder">7</container>
-          </did>
-        </c>
-        <c id="624f0c956bd24733a6697ac06ab73b9e" level="file">
-          <did>
-            <unittitle>Gregg, Alan</unittitle>
-            <unitdate normal="1952/1954" type="inclusive">1952-1954</unitdate>
-            <container altrender="Letter Document Storage Box" id="a5d66ecf1313bd508836a3d21cf0dddb" label="mixed materials [A0000000055170]" type="box">1</container>
-            <container id="3095acd474ea2c36187d422ce1600df3" parent="a5d66ecf1313bd508836a3d21cf0dddb" type="folder">8</container>
-          </did>
-        </c>
-        <c id="844ef3fa29d34de9892bbeca8aa714af" level="file">
-          <did>
-            <unittitle>Hastings, A. Baird</unittitle>
-            <unitdate normal="1947/1947" type="inclusive">1947</unitdate>
-            <container altrender="Letter Document Storage Box" id="a4f6d523c9e48f03e533e1baf4231716" label="mixed materials [A0000000055170]" type="box">1</container>
-            <container id="9d8affe2454f21dc4df51372a5f60748" parent="a4f6d523c9e48f03e533e1baf4231716" type="folder">9</container>
-          </did>
-        </c>
-        <c id="f84f3c521a004c40b09ec785b232284a" level="file">
-          <did>
-            <unittitle>Hoeppli, Reinhard</unittitle>
-            <unitdate normal="1952/1971" type="inclusive">1952-1954, 1966-1971</unitdate>
-            <container altrender="Letter Document Storage Box" id="4324c2a563cc3049cfe62feb2993ac22" label="mixed materials [A0000000055170]" type="box">1</container>
-            <container id="2b5bad817d024be9973707c8385b7575" parent="4324c2a563cc3049cfe62feb2993ac22" type="folder">10</container>
-          </did>
-        </c>
-        <c id="12ab39fc5ea74602aaaef82281213675" level="file">
-          <did>
-            <unittitle>Houghton, Henry S.</unittitle>
-            <unitdate normal="1952/1972" type="inclusive">1952-1954, 1960-1972</unitdate>
-            <container altrender="Letter Document Storage Box" id="402372d64acd39991b62fb197f96fbee" label="mixed materials [A0000000055170]" type="box">1</container>
-            <container id="089585199f016e90a664dddf1c40bc93" parent="402372d64acd39991b62fb197f96fbee" type="folder">11</container>
-          </did>
-        </c>
-        <c id="72b930ec7de74bd7bbd72c6dca8e3e3a" level="file">
-          <did>
-            <unittitle>Ingram, Ruth</unittitle>
-            <unitdate normal="1949/1972" type="inclusive">1949-1960, 1965-1972</unitdate>
-            <container altrender="Letter Document Storage Box" id="ea9a5ca7ae1bd6cee4b41f3b3cd2fcd2" label="mixed materials [A0000000055170]" type="box">1</container>
-            <container id="7c53c6a44d236651e096d9959ad7cdf6" parent="ea9a5ca7ae1bd6cee4b41f3b3cd2fcd2" type="folder">11</container>
-          </did>
-        </c>
-        <c id="27375c1f051b4dda81f4bcf761baa6f2" level="file">
-          <did>
-            <unittitle>Kilborn, Leslie G.</unittitle>
-            <unitdate normal="1965/1965" type="inclusive">1965</unitdate>
-            <container altrender="Letter Document Storage Box" id="7b9947cd35f03dd6ebdde14bb3d19764" label="mixed materials [A0000000055170]" type="box">1</container>
-            <container id="f5ff00f91523498dd78a793f41197f0d" parent="7b9947cd35f03dd6ebdde14bb3d19764" type="folder">13</container>
-          </did>
-        </c>
-        <c id="b7b10adb37304a2d8e47337602315ae0" level="file">
-          <did>
-            <unittitle>Lim, C. E.</unittitle>
-            <unitdate normal="1958/1975" type="inclusive">1958-1959, 1962, 1972-1975</unitdate>
-            <container altrender="Letter Document Storage Box" id="b0fec9dee25cf72952f0c8f8a0911801" label="mixed materials [A0000000055170]" type="box">1</container>
-            <container id="7a2d243c1fcd152241ded6771042823b" parent="b0fec9dee25cf72952f0c8f8a0911801" type="folder">14</container>
-          </did>
-        </c>
-        <c id="f995c3dfc91f49169733ec6b0298ca1b" level="file">
-          <did>
-            <unittitle>McClure, Robert B.</unittitle>
-            <unitdate normal="1971/1974" type="inclusive">1971-1974</unitdate>
-            <container altrender="Letter Document Storage Box" id="b5a1635f8ed8a021eae495b1351d7c8e" label="mixed materials [A0000000055170]" type="box">1</container>
-            <container id="40a33ba54976f3f87a2229eb321c7b19" parent="b5a1635f8ed8a021eae495b1351d7c8e" type="folder">15</container>
-          </did>
-        </c>
-        <c id="e88f0e2dca5f4ad1b98ce6a2034e792d" level="file">
-          <did>
-            <unittitle>McFadzean, Alec J. S. and Florence</unittitle>
-            <unitdate normal="1952/1976" type="inclusive">1952-1954, 1964-1976</unitdate>
-            <container altrender="Letter Document Storage Box" id="b9f2994569180127227f3be0cfd56c51" label="mixed materials [A0000000055170]" type="box">1</container>
-            <container id="950b20640a16835787676afa7de68c30" parent="b9f2994569180127227f3be0cfd56c51" type="folder">16</container>
-          </did>
-        </c>
-        <c id="3cba98e112774003b8802864edaf6986" level="file">
-          <did>
-            <unittitle>Opie, Eugene L.</unittitle>
-            <unitdate normal="1968/1968" type="inclusive">1968</unitdate>
-            <container altrender="Letter Document Storage Box" id="d1653457896e2b0119e78df30cd59292" label="mixed materials [A0000000055170]" type="box">1</container>
-            <container id="4c8b9b62d86000a10f16402f615792b1" parent="d1653457896e2b0119e78df30cd59292" type="folder">17</container>
-          </did>
-        </c>
-        <c id="ccf82a30510644d99d1b1328c36d659c" level="file">
-          <did>
-            <unittitle>Parker, Philo W.</unittitle>
-            <unitdate normal="1947/1971" type="inclusive">1947-1956, 1960, 1971</unitdate>
-            <container altrender="Letter Document Storage Box" id="7493815afd7ed4b7eecdeb094cc159f7" label="mixed materials [A0000000055170]" type="box">1</container>
-            <container id="98d0ce4fcdfe20af4be19d112cf8378a" parent="7493815afd7ed4b7eecdeb094cc159f7" type="folder">18</container>
-          </did>
-        </c>
-        <c id="480c63ba6c54467a9256dd868dcc488f" level="file">
-          <did>
-            <unittitle>Schultz, Edwin W.</unittitle>
-            <unitdate normal="1959/1959" type="inclusive">1959</unitdate>
-            <container altrender="Letter Document Storage Box" id="6ac0def017094ebb42524eb1600dc0c1" label="mixed materials [A0000000055170]" type="box">1</container>
-            <container id="01220ba17e6fcbbd8faf887a04f4960f" parent="6ac0def017094ebb42524eb1600dc0c1" type="folder">19</container>
-          </did>
-        </c>
-        <c id="0f677b6b099d461898f5555a83639750" level="file">
-          <did>
-            <unittitle>Scouel, Frederick G.</unittitle>
-            <unitdate normal="1953/1967" type="inclusive">1953-1957, 1967</unitdate>
-            <container altrender="Letter Document Storage Box" id="5b7b8e08b7a1fec64a18e29feeb25fb7" label="mixed materials [A0000000055170]" type="box">1</container>
-            <container id="3f81dad14984c1666156ccb1685f4fad" parent="5b7b8e08b7a1fec64a18e29feeb25fb7" type="folder">20</container>
-          </did>
-        </c>
-        <c id="d98d38c9395047458cc2780a2af9a0df" level="file">
-          <did>
-            <unittitle>Taylor, Adrian S. and Annie May</unittitle>
-            <unitdate normal="1920/1961" type="inclusive">1920-1922, 1952-1954, 1961</unitdate>
-            <container altrender="Letter Document Storage Box" id="09768d2e57cc4581f729526e3f881e2c" label="mixed materials [A0000000055170]" type="box">1</container>
-            <container id="24dd9e5bd4eef8387bb1ec995da8b986" parent="09768d2e57cc4581f729526e3f881e2c" type="folder">21</container>
-          </did>
-        </c>
-      </c>
-      <c id="43a5b9f9294949b1ae280c5891f83fc1" level="series">
-        <did>
-          <unittitle>China Medical Board, Inc.</unittitle>
-          <unitid>2</unitid>
-          <physdesc altrender="whole">
-            <extent altrender="materialtype spaceoccupied">4 Cubic Feet</extent>
-            <extent altrender="carrier">1 document case</extent>
-          </physdesc>
-          <unitdate normal="1946/1964" type="inclusive">1946-1964, bulk 1951-1964</unitdate>
-          <unitdate normal="1951/1964" type="bulk">1951-1964</unitdate>
-        </did>
-        <scopecontent id="4f9f1416a5b3facfbec2a11ff19a4cd4">
-          <head>Scope and Contents</head>
-          <p>This series includes a report from a Rockefeller Foundation sponsored commission in regard to medical education in China in 1946 and reports from the Future Program Committee of the China Medical Board, Inc. (1951-1955).  Most of the box covers trips Loucks made to the Far East (1951-1964) to investigate medical education there.</p>
-        </scopecontent>
-        <c id="45385be90c9f42c387fa02444fa0a06b" level="file">
-          <did>
-            <unittitle>Rockefeller Foundation - China Commission</unittitle>
-            <unitdate normal="1946/1946" type="inclusive">1946</unitdate>
-            <container altrender="Letter Document Storage Box" id="d7a0ad64311ee00c509e010d4f6dc87f" label="mixed materials [A0000000055171]" type="box">2</container>
-            <container id="f04aa19d40668f6bf723012d0de62c91" parent="d7a0ad64311ee00c509e010d4f6dc87f" type="folder">22</container>
-          </did>
-        </c>
-        <c id="1b9246ae67ef421da440997c33990c7c" level="file">
-          <did>
-            <unittitle>Planning Committee</unittitle>
-            <unitdate normal="1951/1955" type="inclusive">1951-1955</unitdate>
-            <container altrender="Letter Document Storage Box" id="e06269b6b9224d00022039b400eb71da" label="mixed materials [A0000000055171]" type="box">2</container>
-            <container id="705d5b16109a893172702e0a43548b42" parent="e06269b6b9224d00022039b400eb71da" type="folder">23</container>
-          </did>
-        </c>
-        <c id="18bda0f5a1eb43c8834939e984aca8a3" level="file">
-          <did>
-            <unittitle>War Claims Act</unittitle>
-            <unitdate normal="1962/1962" type="inclusive">circa 1962</unitdate>
-            <container altrender="Letter Document Storage Box" id="7f0352e079382fac9920478638e8edcf" label="mixed materials [A0000000055171]" type="box">2</container>
-            <container id="f61bfed6950aa9a22104000c9f4df250" parent="7f0352e079382fac9920478638e8edcf" type="folder">24</container>
-          </did>
-        </c>
-        <c id="69981c9482a848a58923ffaf205f0470" level="file">
-          <did>
-            <unittitle>Trip</unittitle>
-            <unitdate normal="1951/1951" type="inclusive">1951</unitdate>
-            <container altrender="Letter Document Storage Box" id="5470f52fcd1490a8acee8518661ac3e2" label="mixed materials [A0000000055171]" type="box">2</container>
-            <container id="b7d186f6fbf1d37860a41b86d7db62b3" parent="5470f52fcd1490a8acee8518661ac3e2" type="folder">25</container>
-          </did>
-        </c>
-        <c id="e709f76c706e4f3a820666d6a77b23e6" level="file">
-          <did>
-            <unittitle>Trip</unittitle>
-            <unitdate normal="1953/1953" type="inclusive">1953</unitdate>
-            <container altrender="Letter Document Storage Box" id="1f64afe65949f1cc4bcac1a5b626cd30" label="mixed materials [A0000000055171]" type="box">2</container>
-            <container id="819072661cc9cebfa0e0540f9244da8e" parent="1f64afe65949f1cc4bcac1a5b626cd30" type="folder">26</container>
-          </did>
-        </c>
-        <c id="086ff3723c86407d90ace0b736f1c76e" level="file">
-          <did>
-            <unittitle>Trip</unittitle>
-            <unitdate normal="1955/1955" type="inclusive">1955</unitdate>
-            <container altrender="Letter Document Storage Box" id="6261efdf93317308faa438323da49def" label="mixed materials [A0000000055171]" type="box">2</container>
-            <container id="1f178a961f17954a00197c27413f4b19" parent="6261efdf93317308faa438323da49def" type="folder">27</container>
-          </did>
-        </c>
-        <c id="b7d18379626f49f2a37604838f315ae3" level="file">
-          <did>
-            <unittitle>Trip</unittitle>
-            <unitdate normal="1958/1958" type="inclusive">1958</unitdate>
-            <container altrender="Letter Document Storage Box" id="685aa9e8af5a8c0e2d75c64274fe0f73" label="mixed materials [A0000000055171]" type="box">2</container>
-            <container id="2aa95288cfbdde4908e3083cc744f597" parent="685aa9e8af5a8c0e2d75c64274fe0f73" type="folder">28</container>
-          </did>
-        </c>
-        <c id="c72a9e82545746f68f0c63c1a4d4f75b" level="file">
-          <did>
-            <unittitle>Trip</unittitle>
-            <unitdate normal="1959/1959" type="inclusive">1959</unitdate>
-            <container altrender="Letter Document Storage Box" id="b97b5bac19f7088d12793441f0b846d7" label="mixed materials [A0000000055171]" type="box">2</container>
-            <container id="4a62e49a9dbf9ef624172efc41898a34" parent="b97b5bac19f7088d12793441f0b846d7" type="folder">29</container>
-          </did>
-        </c>
-        <c id="760750fd97d049e5a603ac65fc0902f3" level="file">
-          <did>
-            <unittitle>Trip</unittitle>
-            <unitdate normal="1960/1961" type="inclusive">1960-1961</unitdate>
-            <container altrender="Letter Document Storage Box" id="fcc99d4ee82603f4ee192fb01b20b146" label="mixed materials [A0000000055171]" type="box">2</container>
-            <container id="54f4939123b3826b10ce32941fb17a68" parent="fcc99d4ee82603f4ee192fb01b20b146" type="folder">30</container>
-          </did>
-        </c>
-        <c id="66742ae82a224b8e8f236a3be2675665" level="file">
-          <did>
-            <unittitle>Trip</unittitle>
-            <unitdate normal="1964/1965" type="inclusive">1964-1965</unitdate>
-            <container altrender="Letter Document Storage Box" id="fe3916b64af2472a007f94db41f95a2d" label="mixed materials [A0000000055171]" type="box">2</container>
-            <container id="7b6882598ed3a8cad2d1d8fa1fe0d378" parent="fe3916b64af2472a007f94db41f95a2d" type="folder">32</container>
-          </did>
-        </c>
-      </c>
-      <c id="1e83b1da62774f13b104d1d09b1116c9" level="series">
-        <did>
-          <unittitle>China Medical Board - Peking Union Medical College</unittitle>
-          <unitid>3</unitid>
-          <physdesc altrender="whole">
-            <extent altrender="materialtype spaceoccupied">4 Cubic Feet</extent>
-            <extent altrender="carrier">1 document case</extent>
-          </physdesc>
-        </did>
-        <scopecontent id="c199f5cefc6092d0a442abae11498ada">
-          <head>Scope and Contents</head>
-          <p>This series consists of the manuscript for the book "China Medical Board - Peking Union Medical College," (New York, 1970) which Loucks collaborated on with the author, Mary E. Ferguson.  Included are a condensation and the original length manuscript, as well as reviews of the book.  Also in this box are reprints of articles by Paul C. Hodges.</p>
-        </scopecontent>
-        <c id="2224591ce2b740faab49dd998070e879" level="file">
-          <did>
-            <unittitle>Introduction, Chapters 1-4</unittitle>
-            <container altrender="Letter Document Storage Box" id="f61e08a2ac2a3a9c4f053be95ed535fd" label="mixed materials [A0000000055172]" type="box">3</container>
-            <container id="b5704c30e5d4344ce8dccf168059c043" parent="f61e08a2ac2a3a9c4f053be95ed535fd" type="folder">33</container>
-          </did>
-        </c>
-        <c id="fbc799b8819541d1b7549b5645d322ab" level="file">
-          <did>
-            <unittitle>Chapters 5-8</unittitle>
-            <container altrender="Letter Document Storage Box" id="57ad455f3765dabea7517885b579bf86" label="mixed materials [A0000000055172]" type="box">3</container>
-            <container id="7d2ddc4601d93f81f306a8e1e45a3507" parent="57ad455f3765dabea7517885b579bf86" type="folder">34</container>
-          </did>
-        </c>
-        <c id="98830950bad14a4fada3a4a7e20ec497" level="file">
-          <did>
-            <unittitle>Chapters 9-11</unittitle>
-            <container altrender="Letter Document Storage Box" id="039d11e3f9087e4ae1bfb388c4427dbf" label="mixed materials [A0000000055172]" type="box">3</container>
-            <container id="4a8c2c82b1fcdafe3e45b06ef73dcbae" parent="039d11e3f9087e4ae1bfb388c4427dbf" type="folder">35</container>
-          </did>
-        </c>
-        <c id="e44691cb71aa47118246e6449274b11f" level="file">
-          <did>
-            <unittitle>Chapters 12-14</unittitle>
-            <container altrender="Letter Document Storage Box" id="6c0042e498e0c77b1e41eb260b9c9eca" label="mixed materials [A0000000055172]" type="box">3</container>
-            <container id="34789bfa14c62187400ee22b85404cd4" parent="6c0042e498e0c77b1e41eb260b9c9eca" type="folder">36</container>
-          </did>
-        </c>
-        <c id="2163e44132014f428301e6d9d424d0cf" level="file">
-          <did>
-            <unittitle>Chapters 15-16</unittitle>
-            <container altrender="Letter Document Storage Box" id="0e87fa99fcadcfe08d92a09d30e7bd98" label="mixed materials [A0000000055172]" type="box">3</container>
-            <container id="969c6253e37f84331a6a5981cfb5b93d" parent="0e87fa99fcadcfe08d92a09d30e7bd98" type="folder">37</container>
-          </did>
-        </c>
-        <c id="8bf2ba5a482f47e9ac9d9dbb71199292" level="file">
-          <did>
-            <unittitle>Chapters 17-18</unittitle>
-            <container altrender="Letter Document Storage Box" id="f8638282c4e5618b91ee7452f0b4ed8d" label="mixed materials [A0000000055172]" type="box">3</container>
-            <container id="badc661f2d195ad844112cb3fd795568" parent="f8638282c4e5618b91ee7452f0b4ed8d" type="folder">38</container>
-          </did>
-        </c>
-        <c id="aaeaf8053f0146ce81e6d44c6487b8e2" level="file">
-          <did>
-            <unittitle>Chapters 19-20</unittitle>
-            <container altrender="Letter Document Storage Box" id="6ada3804bbbfe49d4bc4479e4053bef7" label="mixed materials [A0000000055172]" type="box">3</container>
-            <container id="b427dee02bf03bee99c2b8bdf8b115bd" parent="6ada3804bbbfe49d4bc4479e4053bef7" type="folder">39</container>
-          </did>
-        </c>
-        <c id="4049e11114324cb28dbd84388703e1a6" level="file">
-          <did>
-            <unittitle>Chapters 21-23</unittitle>
-            <container altrender="Letter Document Storage Box" id="d14068d99bba7470e53040f787933645" label="mixed materials [A0000000055172]" type="box">3</container>
-            <container id="bfc8cf67b79f93a04938bcc31a937181" parent="d14068d99bba7470e53040f787933645" type="folder">40</container>
-          </did>
-        </c>
-        <c id="a1eafd040f434a26a69785254cbbd6d9" level="file">
-          <did>
-            <unittitle>Chapters 24-26</unittitle>
-            <container altrender="Letter Document Storage Box" id="91955f5426e088d4b8ee2b84e02438a9" label="mixed materials [A0000000055172]" type="box">3</container>
-            <container id="4efa296447d94cbbddcaeda8ff091afe" parent="91955f5426e088d4b8ee2b84e02438a9" type="folder">41</container>
-          </did>
-        </c>
-        <c id="949e421944424dc1927dab6f8b215a2c" level="file">
-          <did>
-            <unittitle>Chapter 27</unittitle>
-            <container altrender="Letter Document Storage Box" id="e2ad5855e366f2bc6da2c4c0c3e59b0b" label="mixed materials [A0000000055172]" type="box">3</container>
-            <container id="e6d518713255c1845ca4a45d025d3ebc" parent="e2ad5855e366f2bc6da2c4c0c3e59b0b" type="folder">42</container>
-          </did>
-        </c>
-        <c id="6e115676490747a3a8a54b5e94d7c875" level="file">
-          <did>
-            <unittitle>Condensed p. 1-57</unittitle>
-            <container altrender="Letter Document Storage Box" id="951904d55e0e9b97f76385b552d773d1" label="mixed materials [A0000000055172]" type="box">3</container>
-            <container id="c521f345518071de8f00018d9f202295" parent="951904d55e0e9b97f76385b552d773d1" type="folder">43</container>
-          </did>
-        </c>
-        <c id="2e3d38327b9040dc847a81a2df5da745" level="file">
-          <did>
-            <unittitle>Condensed p. 58-144</unittitle>
-            <container altrender="Letter Document Storage Box" id="5b16a966a3344105448ac61ac76efc86" label="mixed materials [A0000000055172]" type="box">3</container>
-            <container id="f4250da8f752a71c8229c10d5eac9862" parent="5b16a966a3344105448ac61ac76efc86" type="folder">44</container>
-          </did>
-        </c>
-        <c id="11e81b93311845e4b6a11d25e43cd722" level="file">
-          <did>
-            <unittitle>Condensed p. 145-207</unittitle>
-            <container altrender="Letter Document Storage Box" id="9f697b0ee125cae9a50431c5d8cc902f" label="mixed materials [A0000000055172]" type="box">3</container>
-            <container id="8f8dd7446891de303c0350fea2cf799c" parent="9f697b0ee125cae9a50431c5d8cc902f" type="folder">45</container>
-          </did>
-        </c>
-        <c id="030c43db6c8b4ac5b02a210b9e4abb9a" level="file">
-          <did>
-            <unittitle>Condensed p. 208-272</unittitle>
-            <container altrender="Letter Document Storage Box" id="fbb9695d24ddb44bcf33d37f1165d7c5" label="mixed materials [A0000000055172]" type="box">3</container>
-            <container id="af3eb1edbc97f730a65ec509508062fb" parent="fbb9695d24ddb44bcf33d37f1165d7c5" type="folder">46</container>
-          </did>
-        </c>
-        <c id="48d487a9bd774b46801d8e3e7767d192" level="file">
-          <did>
-            <unittitle>Correspondence/Reviews</unittitle>
-            <container altrender="Letter Document Storage Box" id="d590f45ced252aab5488b9eba9135b37" label="mixed materials [A0000000055172]" type="box">3</container>
-            <container id="d410737c877178db9705876d5d22e868" parent="d590f45ced252aab5488b9eba9135b37" type="folder">47</container>
-          </did>
-        </c>
-        <c id="1c1ddf1688094ed4994cb41568485f87" level="file">
-          <did>
-            <unittitle>Articles - Hodges, Paul C.</unittitle>
-            <container altrender="Letter Document Storage Box" id="33a37c25e0c782b744dc95430511b66c" label="mixed materials [A0000000055172]" type="box">3</container>
-            <container id="7331ea9ed8a59634c05fe629b8175ae3" parent="33a37c25e0c782b744dc95430511b66c" type="folder">48</container>
-          </did>
-        </c>
-      </c>
-    </dsc>
-  </archdesc>
+Series 3  -  China Medical Board - Peking Union Medical College</p>  </arrangement>
+  <prefercite id="3f19b98c30d58f4c9c2011d4210d98ba">
+    <head>Preferred Citation</head>
+<p>Information regarding the Rockefeller Archive Center's preferred elements and forms of citation can be found at <extref href="http://www.rockarch.org/research/citations.php">http://www.rockarch.org/research/citations.php</extref></p>  </prefercite>
+  <fileplan id="2078c2e8f619debd4ce278e27617a63a">
+    <head>File Plan</head>
+<p>Former Classification: IV 2A 32</p>  </fileplan>
+  <acqinfo id="a42d7991802b8d6be5e6cba4617f71ea">
+    <head>Immediate Source of Acquisition</head>
+<p>Harold H. Loucks gave his papers to the Rockefeller Archive Center in 1979.</p>  </acqinfo>
+  <controlaccess>
+    <subject source="lcsh">Indonesia</subject>
+    <subject source="lcsh">Political science</subject>
+    <geogname source="lcsh">Philippines</geogname>
+    <geogname source="lcsh">Hong Kong</geogname>
+    <geogname source="lcsh">Japan</geogname>
+    <subject source="lcsh">Ceylon</subject>
+    <geogname source="lcsh">Burma</geogname>
+    <geogname source="lcsh">Thailand</geogname>
+    <subject source="lcsh">Malaysia</subject>
+    <geogname source="lcsh">Pakistan</geogname>
+    <geogname source="lcsh">Lebanon</geogname>
+    <geogname source="lcsh">Korea</geogname>
+    <geogname source="lcsh">China</geogname>
+    <subject source="lcsh">Social history</subject>
+    <subject source="lcsh">Medical education</subject>
+    <geogname source="lcsh">East Asia</geogname>
+    <geogname source="lcsh">Vietnam</geogname>
+    <geogname source="lcsh">India</geogname>
+    <corpname source="naf">Peking. Union Medical College</corpname>
+    <corpname role="ctb" source="naf">China Medical Board (U.S)</corpname>
+  </controlaccess>
+  <dsc><c id="102d9da23c2f47d1932c8af4d5311bf7" level="series"><did><unittitle>Correspondence</unittitle><unitid>1</unitid><physdesc altrender="whole"><extent altrender="materialtype spaceoccupied">0.4 Cubic Feet</extent><extent altrender="carrier">1 document case</extent></physdesc><unitdate normal="1920/1976" type="inclusive">1920-1976, bulk 1950-1976</unitdate><unitdate normal="1950/1976" type="bulk">1950-1976</unitdate></did><scopecontent id="06e0fbbc437152007758c2a046f25a00"><head>Scope and Contents</head><p>This series contains personal correspondence between Loucks and people associated with the China Medical Board. It includes some administrative correspondence regarding the Peking Union Medical College.</p><p>Of special interest in the Correspondence series is the Reinhard Hoeppli file of letters, which describe in some detail the "PUMC" and China after 1951.</p></scopecontent><c id="7a1d5dd002d14669aa210b1a7e6c1b52" level="file"><did><unittitle>Bowers, John Z.</unittitle><unitdate normal="1969/1972" type="inclusive">1969-1972</unitdate><container altrender="Letter Document Storage Box" id="c92d8d39b89a624f3418eeded70295ab" label="mixed materials [A0000000055170]" type="box">1</container><container id="34e8b4aa5fdba16baad964e8f5a1bb55" parent="c92d8d39b89a624f3418eeded70295ab" type="folder">1</container></did></c><c id="48d0157624fd4c068a6b63b36110b794" level="file"><did><unittitle>Cort, Nellie G. and William W.</unittitle><unitdate normal="1967/1967" type="inclusive">1967</unitdate><container altrender="Letter Document Storage Box" id="79de9b6b0d75ec761555785ebc41ae32" label="mixed materials [A0000000055170]" type="box">1</container><container id="c00754a0b84eb0e52685748415286f35" parent="79de9b6b0d75ec761555785ebc41ae32" type="folder">2</container></did></c><c id="ce25e4ca22c344ee93d4e0637b659ca1" level="file"><did><unittitle>Curran, Jean Alonzo</unittitle><unitdate normal="1969/1975" type="inclusive">1969-1975</unitdate><container altrender="Letter Document Storage Box" id="0a43a5bb90c39dfa807e395c8c4c0fef" label="mixed materials [A0000000055170]" type="box">1</container><container id="0f48bd1800524aeb895d74ea87bb976f" parent="0a43a5bb90c39dfa807e395c8c4c0fef" type="folder">3</container></did></c><c id="18123c2879754481aefc8868231c6868" level="file"><did><unittitle>Danaraj, T. J.</unittitle><unitdate normal="1965/1969" type="inclusive">1965-1969</unitdate><container altrender="Letter Document Storage Box" id="f23d853866b8371fbdba4cdd064772bd" label="mixed materials [A0000000055170]" type="box">1</container><container id="253b69806c3fdf8db26dd08dfa0caf20" parent="f23d853866b8371fbdba4cdd064772bd" type="folder">4</container></did></c><c id="e2269aa183324348b53a8744fd63f1b9" level="file"><did><unittitle>Dieuaide, Francis R.</unittitle><unitdate normal="1952/1975" type="inclusive">1952, 1968-1975</unitdate><container altrender="Letter Document Storage Box" id="f529cf67c5d27c2ff7c429e4e91edcf2" label="mixed materials [A0000000055170]" type="box">1</container><container id="364cf0dd4d76921413703d85072b8359" parent="f529cf67c5d27c2ff7c429e4e91edcf2" type="folder">5</container></did></c><c id="5b4392256d5a4e0e8f431f20c7ac4bf5" level="file"><did><unittitle>Dock, William</unittitle><unitdate normal="1952/1952" type="inclusive">1952</unitdate><container altrender="Letter Document Storage Box" id="fd29f533f8d8f120c7bca45d44b3e01e" label="mixed materials [A0000000055170]" type="box">1</container><container id="8156fdb09d818b3c9dc0d7ed5d5e44bc" parent="fd29f533f8d8f120c7bca45d44b3e01e" type="folder">6</container></did></c><c id="2c14afed49e64819bbae82530d397ee4" level="file"><did><unittitle>Ferguson, Mary E.</unittitle><unitdate normal="1966/1975" type="inclusive">1966-1975</unitdate><container altrender="Letter Document Storage Box" id="079ac12f7009ed7e0f2186ea814aea67" label="mixed materials [A0000000055170]" type="box">1</container><container id="78b86497e605d7d2a28cc1962852a1dc" parent="079ac12f7009ed7e0f2186ea814aea67" type="folder">7</container></did></c><c id="624f0c956bd24733a6697ac06ab73b9e" level="file"><did><unittitle>Gregg, Alan</unittitle><unitdate normal="1952/1954" type="inclusive">1952-1954</unitdate><container altrender="Letter Document Storage Box" id="337aa2b47a650d1b1ac8d03b5cf131e0" label="mixed materials [A0000000055170]" type="box">1</container><container id="a4e4adf960419032fe018ef7239fef3d" parent="337aa2b47a650d1b1ac8d03b5cf131e0" type="folder">8</container></did></c><c id="844ef3fa29d34de9892bbeca8aa714af" level="file"><did><unittitle>Hastings, A. Baird</unittitle><unitdate normal="1947/1947" type="inclusive">1947</unitdate><container altrender="Letter Document Storage Box" id="f2430b87b2237f3198b1a6f5b8710bc8" label="mixed materials [A0000000055170]" type="box">1</container><container id="a324e14244504d59541868a83d093cf0" parent="f2430b87b2237f3198b1a6f5b8710bc8" type="folder">9</container></did></c><c id="f84f3c521a004c40b09ec785b232284a" level="file"><did><unittitle>Hoeppli, Reinhard</unittitle><unitdate normal="1952/1971" type="inclusive">1952-1954, 1966-1971</unitdate><container altrender="Letter Document Storage Box" id="cbaa6bbdf7669f6eda8aae2fbaa5ece3" label="mixed materials [A0000000055170]" type="box">1</container><container id="5d4d293eaec50f79d33453c1d7a8a1dd" parent="cbaa6bbdf7669f6eda8aae2fbaa5ece3" type="folder">10</container></did></c><c id="12ab39fc5ea74602aaaef82281213675" level="file"><did><unittitle>Houghton, Henry S.</unittitle><unitdate normal="1952/1972" type="inclusive">1952-1954, 1960-1972</unitdate><container altrender="Letter Document Storage Box" id="21ec50f00d36a2ba15fb9cf74b20806e" label="mixed materials [A0000000055170]" type="box">1</container><container id="680cb032f3e4fbfccd40574bfa98c0d2" parent="21ec50f00d36a2ba15fb9cf74b20806e" type="folder">11</container></did></c><c id="72b930ec7de74bd7bbd72c6dca8e3e3a" level="file"><did><unittitle>Ingram, Ruth</unittitle><unitdate normal="1949/1972" type="inclusive">1949-1960, 1965-1972</unitdate><container altrender="Letter Document Storage Box" id="5a854362e1b52322a3b729924bf6d13b" label="mixed materials [A0000000055170]" type="box">1</container><container id="d7205c67b136c784300b1991671fc823" parent="5a854362e1b52322a3b729924bf6d13b" type="folder">11</container></did></c><c id="27375c1f051b4dda81f4bcf761baa6f2" level="file"><did><unittitle>Kilborn, Leslie G.</unittitle><unitdate normal="1965/1965" type="inclusive">1965</unitdate><container altrender="Letter Document Storage Box" id="5cb4c0961ec9625b67318cf1150297b4" label="mixed materials [A0000000055170]" type="box">1</container><container id="3c23dffa8c4aa3760412a18eab880576" parent="5cb4c0961ec9625b67318cf1150297b4" type="folder">13</container></did></c><c id="b7b10adb37304a2d8e47337602315ae0" level="file"><did><unittitle>Lim, C. E.</unittitle><unitdate normal="1958/1975" type="inclusive">1958-1959, 1962, 1972-1975</unitdate><container altrender="Letter Document Storage Box" id="f1cb314f94da73d0e740e491e25b0446" label="mixed materials [A0000000055170]" type="box">1</container><container id="f43ad101872d4f401ce7aeae2eed1f1f" parent="f1cb314f94da73d0e740e491e25b0446" type="folder">14</container></did></c><c id="f995c3dfc91f49169733ec6b0298ca1b" level="file"><did><unittitle>McClure, Robert B.</unittitle><unitdate normal="1971/1974" type="inclusive">1971-1974</unitdate><container altrender="Letter Document Storage Box" id="3b831e8fe128bbcf7b21cf9f07299684" label="mixed materials [A0000000055170]" type="box">1</container><container id="1b3bbcdc46dedb35a469fc2a95e06dd9" parent="3b831e8fe128bbcf7b21cf9f07299684" type="folder">15</container></did></c><c id="e88f0e2dca5f4ad1b98ce6a2034e792d" level="file"><did><unittitle>McFadzean, Alec J. S. and Florence</unittitle><unitdate normal="1952/1976" type="inclusive">1952-1954, 1964-1976</unitdate><container altrender="Letter Document Storage Box" id="3399ff8c996ee7f35bb0f8f6aca1f2c9" label="mixed materials [A0000000055170]" type="box">1</container><container id="be530f8af17936ad191a07bd012a81dc" parent="3399ff8c996ee7f35bb0f8f6aca1f2c9" type="folder">16</container></did></c><c id="3cba98e112774003b8802864edaf6986" level="file"><did><unittitle>Opie, Eugene L.</unittitle><unitdate normal="1968/1968" type="inclusive">1968</unitdate><container altrender="Letter Document Storage Box" id="a138349548cd453e2efbf7fdfd234596" label="mixed materials [A0000000055170]" type="box">1</container><container id="1b7155ca3d6d7d98a3dcf087a1a71382" parent="a138349548cd453e2efbf7fdfd234596" type="folder">17</container></did></c><c id="ccf82a30510644d99d1b1328c36d659c" level="file"><did><unittitle>Parker, Philo W.</unittitle><unitdate normal="1947/1971" type="inclusive">1947-1956, 1960, 1971</unitdate><container altrender="Letter Document Storage Box" id="526ebe4871993ea3df49c1907080ae1c" label="mixed materials [A0000000055170]" type="box">1</container><container id="a4f2ff175dc178ad648533cc4f321409" parent="526ebe4871993ea3df49c1907080ae1c" type="folder">18</container></did></c><c id="480c63ba6c54467a9256dd868dcc488f" level="file"><did><unittitle>Schultz, Edwin W.</unittitle><unitdate normal="1959/1959" type="inclusive">1959</unitdate><container altrender="Letter Document Storage Box" id="f279070b47dda513a3e3065dcea293ca" label="mixed materials [A0000000055170]" type="box">1</container><container id="d3740950b8ddaf5fefbbc0722a8d84f5" parent="f279070b47dda513a3e3065dcea293ca" type="folder">19</container></did></c><c id="0f677b6b099d461898f5555a83639750" level="file"><did><unittitle>Scouel, Frederick G.</unittitle><unitdate normal="1953/1967" type="inclusive">1953-1957, 1967</unitdate><container altrender="Letter Document Storage Box" id="16d39888ee83d1b528e35559ee89a631" label="mixed materials [A0000000055170]" type="box">1</container><container id="3b883f6f00ed8f8cf37644e0848c8085" parent="16d39888ee83d1b528e35559ee89a631" type="folder">20</container></did></c><c id="d98d38c9395047458cc2780a2af9a0df" level="file"><did><unittitle>Taylor, Adrian S. and Annie May</unittitle><unitdate normal="1920/1961" type="inclusive">1920-1922, 1952-1954, 1961</unitdate><container altrender="Letter Document Storage Box" id="6a87a9772f4f5c6b2937a92e621cf8c1" label="mixed materials [A0000000055170]" type="box">1</container><container id="30eb38d884353f957684d2dfc5f4247b" parent="6a87a9772f4f5c6b2937a92e621cf8c1" type="folder">21</container></did></c></c><c id="43a5b9f9294949b1ae280c5891f83fc1" level="series"><did><unittitle>China Medical Board, Inc.</unittitle><unitid>2</unitid><physdesc altrender="whole"><extent altrender="materialtype spaceoccupied">4 Cubic Feet</extent><extent altrender="carrier">1 document case</extent></physdesc><unitdate normal="1946/1964" type="inclusive">1946-1964, bulk 1951-1964</unitdate><unitdate normal="1951/1964" type="bulk">1951-1964</unitdate></did><scopecontent id="4f9f1416a5b3facfbec2a11ff19a4cd4"><head>Scope and Contents</head><p>This series includes a report from a Rockefeller Foundation sponsored commission in regard to medical education in China in 1946 and reports from the Future Program Committee of the China Medical Board, Inc. (1951-1955).  Most of the box covers trips Loucks made to the Far East (1951-1964) to investigate medical education there.</p></scopecontent><c id="45385be90c9f42c387fa02444fa0a06b" level="file"><did><unittitle>Rockefeller Foundation - China Commission</unittitle><unitdate normal="1946/1946" type="inclusive">1946</unitdate><container altrender="Letter Document Storage Box" id="fa51642bb76567453805dc87376d4b5f" label="mixed materials [A0000000055171]" type="box">2</container><container id="fe7a0196ced09f8fcd59c5b9ad5d9765" parent="fa51642bb76567453805dc87376d4b5f" type="folder">22</container></did></c><c id="1b9246ae67ef421da440997c33990c7c" level="file"><did><unittitle>Planning Committee</unittitle><unitdate normal="1951/1955" type="inclusive">1951-1955</unitdate><container altrender="Letter Document Storage Box" id="4cf71544816470d2bc2eabd38c2fde89" label="mixed materials [A0000000055171]" type="box">2</container><container id="a75db52fd11e9476d6ec19e3f7085cfb" parent="4cf71544816470d2bc2eabd38c2fde89" type="folder">23</container></did></c><c id="18bda0f5a1eb43c8834939e984aca8a3" level="file"><did><unittitle>War Claims Act</unittitle><unitdate normal="1962/1962" type="inclusive">circa 1962</unitdate><container altrender="Letter Document Storage Box" id="a5a94a9d3d57472be8356d9d0e4c9094" label="mixed materials [A0000000055171]" type="box">2</container><container id="a285c77e8c7ad794cfafd2d6fa6b0cf3" parent="a5a94a9d3d57472be8356d9d0e4c9094" type="folder">24</container></did></c><c id="69981c9482a848a58923ffaf205f0470" level="file"><did><unittitle>Trip</unittitle><unitdate normal="1951/1951" type="inclusive">1951</unitdate><container altrender="Letter Document Storage Box" id="c4bc35d26e04ba1fa7bb0137e380744f" label="mixed materials [A0000000055171]" type="box">2</container><container id="bfdc11993b39121b2eb3d3a2ee22ff91" parent="c4bc35d26e04ba1fa7bb0137e380744f" type="folder">25</container></did></c><c id="e709f76c706e4f3a820666d6a77b23e6" level="file"><did><unittitle>Trip</unittitle><unitdate normal="1953/1953" type="inclusive">1953</unitdate><container altrender="Letter Document Storage Box" id="92a357119fa91d2cd0956603e3c9cfc5" label="mixed materials [A0000000055171]" type="box">2</container><container id="c85fe9395cb5a2f4f5975a05c683b400" parent="92a357119fa91d2cd0956603e3c9cfc5" type="folder">26</container></did></c><c id="086ff3723c86407d90ace0b736f1c76e" level="file"><did><unittitle>Trip</unittitle><unitdate normal="1955/1955" type="inclusive">1955</unitdate><container altrender="Letter Document Storage Box" id="8972e4ede231114163964971ab103be9" label="mixed materials [A0000000055171]" type="box">2</container><container id="39c4a342c12e5d2e4700dd427c84193a" parent="8972e4ede231114163964971ab103be9" type="folder">27</container></did></c><c id="b7d18379626f49f2a37604838f315ae3" level="file"><did><unittitle>Trip</unittitle><unitdate normal="1958/1958" type="inclusive">1958</unitdate><container altrender="Letter Document Storage Box" id="81b8312e5a28226de8767883f7934f36" label="mixed materials [A0000000055171]" type="box">2</container><container id="7ef5a9b1141b6b782920bcd3077d60f1" parent="81b8312e5a28226de8767883f7934f36" type="folder">28</container></did></c><c id="c72a9e82545746f68f0c63c1a4d4f75b" level="file"><did><unittitle>Trip</unittitle><unitdate normal="1959/1959" type="inclusive">1959</unitdate><container altrender="Letter Document Storage Box" id="c809988c5f7934977216b28dc368d158" label="mixed materials [A0000000055171]" type="box">2</container><container id="e4dc95037df0da3c2be3908925c88115" parent="c809988c5f7934977216b28dc368d158" type="folder">29</container></did></c><c id="760750fd97d049e5a603ac65fc0902f3" level="file"><did><unittitle>Trip</unittitle><unitdate normal="1960/1961" type="inclusive">1960-1961</unitdate><container altrender="Letter Document Storage Box" id="61954c5de7af6779d7420d2ab428428a" label="mixed materials [A0000000055171]" type="box">2</container><container id="fe2a7b5f60ff8b4e57645e898f018e30" parent="61954c5de7af6779d7420d2ab428428a" type="folder">30</container></did></c><c id="66742ae82a224b8e8f236a3be2675665" level="file"><did><unittitle>Trip</unittitle><unitdate normal="1964/1965" type="inclusive">1964-1965</unitdate><container altrender="Letter Document Storage Box" id="552ee8b929067dfd4ded850a3f0f8a8a" label="mixed materials [A0000000055171]" type="box">2</container><container id="86c693de9d09d8cce5f1ff2be90d60f3" parent="552ee8b929067dfd4ded850a3f0f8a8a" type="folder">32</container></did></c></c><c id="1e83b1da62774f13b104d1d09b1116c9" level="series"><did><unittitle>China Medical Board - Peking Union Medical College</unittitle><unitid>3</unitid><physdesc altrender="whole"><extent altrender="materialtype spaceoccupied">4 Cubic Feet</extent><extent altrender="carrier">1 document case</extent></physdesc></did><scopecontent id="c199f5cefc6092d0a442abae11498ada"><head>Scope and Contents</head><p>This series consists of the manuscript for the book "China Medical Board - Peking Union Medical College," (New York, 1970) which Loucks collaborated on with the author, Mary E. Ferguson.  Included are a condensation and the original length manuscript, as well as reviews of the book.  Also in this box are reprints of articles by Paul C. Hodges.</p></scopecontent><c id="2224591ce2b740faab49dd998070e879" level="file"><did><unittitle>Introduction, Chapters 1-4</unittitle><container altrender="Letter Document Storage Box" id="6c478ebef9c21faed52a3866c1679f2f" label="mixed materials [A0000000055172]" type="box">3</container><container id="8960d47236cee6f244d50cc81f4d38e6" parent="6c478ebef9c21faed52a3866c1679f2f" type="folder">33</container></did></c><c id="fbc799b8819541d1b7549b5645d322ab" level="file"><did><unittitle>Chapters 5-8</unittitle><container altrender="Letter Document Storage Box" id="b7a57e2df4b4c3bae1cf9c2d6297a279" label="mixed materials [A0000000055172]" type="box">3</container><container id="ff9f5834ecb35090e387d13d9c21d6ac" parent="b7a57e2df4b4c3bae1cf9c2d6297a279" type="folder">34</container></did></c><c id="98830950bad14a4fada3a4a7e20ec497" level="file"><did><unittitle>Chapters 9-11</unittitle><container altrender="Letter Document Storage Box" id="43a42a2d73a9096dacb6d0b146a9a981" label="mixed materials [A0000000055172]" type="box">3</container><container id="f5f1ec9fde149dd20c3de89597f922ae" parent="43a42a2d73a9096dacb6d0b146a9a981" type="folder">35</container></did></c><c id="e44691cb71aa47118246e6449274b11f" level="file"><did><unittitle>Chapters 12-14</unittitle><container altrender="Letter Document Storage Box" id="e97e31979b4b8c14c42c3901ac6e8831" label="mixed materials [A0000000055172]" type="box">3</container><container id="9aa46c01df3b7de952749c3b63d5da42" parent="e97e31979b4b8c14c42c3901ac6e8831" type="folder">36</container></did></c><c id="2163e44132014f428301e6d9d424d0cf" level="file"><did><unittitle>Chapters 15-16</unittitle><container altrender="Letter Document Storage Box" id="8f5d0f820b027bcbdec920bce70107c0" label="mixed materials [A0000000055172]" type="box">3</container><container id="2b4a8094c38b656c44a9a5a9613a62ee" parent="8f5d0f820b027bcbdec920bce70107c0" type="folder">37</container></did></c><c id="8bf2ba5a482f47e9ac9d9dbb71199292" level="file"><did><unittitle>Chapters 17-18</unittitle><container altrender="Letter Document Storage Box" id="ad80c9f5d9334a4250f9139d202cab87" label="mixed materials [A0000000055172]" type="box">3</container><container id="e50c84ed99bbad925703d5dc9413ee86" parent="ad80c9f5d9334a4250f9139d202cab87" type="folder">38</container></did></c><c id="aaeaf8053f0146ce81e6d44c6487b8e2" level="file"><did><unittitle>Chapters 19-20</unittitle><container altrender="Letter Document Storage Box" id="b0bac4502d8eea1517be4d375bd306af" label="mixed materials [A0000000055172]" type="box">3</container><container id="b65b18fbd3521507ff998932b9140e7a" parent="b0bac4502d8eea1517be4d375bd306af" type="folder">39</container></did></c><c id="4049e11114324cb28dbd84388703e1a6" level="file"><did><unittitle>Chapters 21-23</unittitle><container altrender="Letter Document Storage Box" id="4b0e9d6c296ffa370adb4499a7ce99b6" label="mixed materials [A0000000055172]" type="box">3</container><container id="3747caa0f1e587b5f496ae8935848287" parent="4b0e9d6c296ffa370adb4499a7ce99b6" type="folder">40</container></did></c><c id="a1eafd040f434a26a69785254cbbd6d9" level="file"><did><unittitle>Chapters 24-26</unittitle><container altrender="Letter Document Storage Box" id="5341f5644d83f0e13739b118cd847634" label="mixed materials [A0000000055172]" type="box">3</container><container id="5197bfb4202f89c47d2603223a7e3c84" parent="5341f5644d83f0e13739b118cd847634" type="folder">41</container></did></c><c id="949e421944424dc1927dab6f8b215a2c" level="file"><did><unittitle>Chapter 27</unittitle><container altrender="Letter Document Storage Box" id="42786d8a028c9d1f384a919fa06ac762" label="mixed materials [A0000000055172]" type="box">3</container><container id="006b582359f2d866c4af155a55049a50" parent="42786d8a028c9d1f384a919fa06ac762" type="folder">42</container></did></c><c id="6e115676490747a3a8a54b5e94d7c875" level="file"><did><unittitle>Condensed p. 1-57</unittitle><container altrender="Letter Document Storage Box" id="5001ca7c21fc5458fcd0326f1ec20312" label="mixed materials [A0000000055172]" type="box">3</container><container id="845006d95da59c89b1347b4dde4d2fc3" parent="5001ca7c21fc5458fcd0326f1ec20312" type="folder">43</container></did></c><c id="2e3d38327b9040dc847a81a2df5da745" level="file"><did><unittitle>Condensed p. 58-144</unittitle><container altrender="Letter Document Storage Box" id="d2bf625666373933d4ef843ff348e46f" label="mixed materials [A0000000055172]" type="box">3</container><container id="17038bf3e7ea307b6368d70b40921e53" parent="d2bf625666373933d4ef843ff348e46f" type="folder">44</container></did></c><c id="11e81b93311845e4b6a11d25e43cd722" level="file"><did><unittitle>Condensed p. 145-207</unittitle><container altrender="Letter Document Storage Box" id="b70308b2bde238261a6bcd8377420339" label="mixed materials [A0000000055172]" type="box">3</container><container id="c55afda89e3e4c20bfdf5946484ec57d" parent="b70308b2bde238261a6bcd8377420339" type="folder">45</container></did></c><c id="030c43db6c8b4ac5b02a210b9e4abb9a" level="file"><did><unittitle>Condensed p. 208-272</unittitle><container altrender="Letter Document Storage Box" id="62c21504e850c54bbf3fce4bf3bb61b3" label="mixed materials [A0000000055172]" type="box">3</container><container id="4bc24a8cab915c5c34b0f5f54fbee175" parent="62c21504e850c54bbf3fce4bf3bb61b3" type="folder">46</container></did></c><c id="48d487a9bd774b46801d8e3e7767d192" level="file"><did><unittitle>Correspondence/Reviews</unittitle><container altrender="Letter Document Storage Box" id="9bc6a0391e586b2f27303baed1822191" label="mixed materials [A0000000055172]" type="box">3</container><container id="fb68f494988902de88910da9010c2288" parent="9bc6a0391e586b2f27303baed1822191" type="folder">47</container></did></c><c id="1c1ddf1688094ed4994cb41568485f87" level="file"><did><unittitle>Articles - Hodges, Paul C.</unittitle><container altrender="Letter Document Storage Box" id="812df744a9fbe3982b229b78278cb1c0" label="mixed materials [A0000000055172]" type="box">3</container><container id="45b7824b47677ba8c5959a6919f9d78d" parent="812df744a9fbe3982b229b78278cb1c0" type="folder">48</container></did></c></c></dsc>
+</archdesc>
 </ead>
