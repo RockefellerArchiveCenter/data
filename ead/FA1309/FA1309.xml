@@ -1,160 +1,38 @@
-<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
-  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" repositoryencoding="iso15511">
-    <eadid>FA1309.xml</eadid>
-    <filedesc>
-      <titlestmt>
-        <titleproper type="filing">Near East Foundation records, Fred and Carrie Midgley papers, Accession 2012:071, RG 6</titleproper>
-        <titleproper>A Guide to the Near East Foundation records, Fred and Carrie Midgley papers, Accession 2012:071, RG 6 <num>FA1309</num></titleproper>
-      </titlestmt>
-      <publicationstmt>
-        <publisher>Rockefeller Archive Center</publisher>
-        <address>
-          <addressline>15 Dayton Avenue</addressline>
-          <addressline>Sleepy Hollow 10591</addressline>
-          <addressline>archive@rockarch.org</addressline>
-          <addressline>URL: <extptr xlink:href="http://www.rockarch.org" xlink:show="new" xlink:title="http://www.rockarch.org" xlink:type="simple"/></addressline>
-        </address>
-      </publicationstmt>
-    </filedesc>
-    <profiledesc>
-      <creation>This finding aid was produced using ArchivesSpace on <date>2017-08-16 00:00:41 -0400</date>.</creation>
-      <descrules>Describing Archives: A Content Standard</descrules>
-    </profiledesc>
-  </eadheader>
-  <archdesc level="recordgrp">
-    <did>
-      <langmaterial>
-        <language langcode="eng">English</language>
-      </langmaterial>
-      <repository>
-        <corpname>Rockefeller Archive Center</corpname>
-      </repository>
-      <unittitle>Near East Foundation records, Fred and Carrie Midgley papers, Accession 2012:071, RG 6</unittitle>
-      <origination label="creator">
-        <corpname role="aut" source="lcnaf">Near East Foundation</corpname>
-      </origination>
-      <origination label="creator">
-        <corpname role="ctb" source="lcnaf">Near East Relief (Organization)</corpname>
-      </origination>
-      <unitid>FA1309</unitid>
-      <physdesc altrender="whole">
-        <extent altrender="materialtype spaceoccupied">2.4 Cubic Feet</extent>
-        <extent altrender="carrier">2 standard record storage boxes</extent>
-      </physdesc>
-      <unitdate normal="1926/1928" type="inclusive">1926-1928</unitdate>
-    </did>
-    <accessrestrict id="aspace_0f84d419ac9e1d281bfcfbca85f8676e">
-      <head>Conditions Governing Access</head>
-      <p>Collection is open for research with select materials restricted as noted. Brittle or damaged item may be restricted at the discretion of RAC.</p>
-    </accessrestrict>
-    <separatedmaterial id="aspace_cf6d01f84e3e41a621e05e0b2280ca8e">
-      <head>Separated Materials</head>
-      <p>Special format items (audio, film, video, digital media, library materials, memorabilia, oversize, and photographic material) have been separated from the body of the collection and assigned a unique separation number, as noted. Requests to access open special formats should reference the unique separation number.</p>
-    </separatedmaterial>
-    <prefercite id="aspace_06dc12e83bd4df44ce0053edb1f8fde5">
-      <head>Preferred Citation</head>
-      <p>Information regarding the Rockefeller Archive Center's preferred elements and forms of citation can be found at <extref href="http://www.rockarch.org/research/citations.php">http://www.rockarch.org/research/citations.php</extref></p>
-    </prefercite>
-    <processinfo id="aspace_6ce7a5f73e96a8588d9ad08ac28fbea0">
-      <head>Processing Information</head>
-      <p>Level 2 Minimal Processing has been conducted to establish basic intellectual and physical control of the material and assess immediate preservation and conservation needs. Material remains as received, in original folders and storage boxes.</p>
-    </processinfo>
-    <dsc>
-      <c id="a5b48def2fb2f46bbd9efffc22e9267f" level="recordgrp">
-        <did>
-          <unittitle>Near East Foundation records, Fred and Carrie Midgley papers, Accession 2012:071</unittitle>
-          <unitid>6</unitid>
-          <unitdate type="inclusive">1926-1928</unitdate>
-        </did>
-        <c id="7359d88911b3b9ddf827dc67166a1457" level="file">
-          <did>
-            <unittitle>Volume I Midgley Near East Relief Syra, Greece</unittitle>
-            <unitdate type="inclusive">1926-1928</unitdate>
-            <container id="3b714fb73279de90878bfe4b62c2c66c" label="mixed materials (901498.1.318)" type="box">1</container>
-            <container id="2791799070e506f7185472bf6c1fbf3f" parent="3b714fb73279de90878bfe4b62c2c66c" type="folder">1</container>
-          </did>
-        </c>
-        <c id="a1a4beddcb9cd2eb60dd34ead3401272" level="file">
-          <did>
-            <unittitle>Volume I Midgley Near East Relief Syra, Greece</unittitle>
-            <unitdate type="inclusive">1926-1928</unitdate>
-            <container id="a084b4cb7953d842b948bfe2ec9f364e" label="mixed materials (901498.1.318)" type="box">1</container>
-            <container id="900f2e545f7f59d0fdfd67553ef8e153" parent="a084b4cb7953d842b948bfe2ec9f364e" type="folder">2</container>
-          </did>
-        </c>
-        <c id="98b00974ad5c6d886a735262f23b13bf" level="file">
-          <did>
-            <unittitle>Volume I Midgley Near East Relief Syra, Greece</unittitle>
-            <unitdate type="inclusive">1926-1928</unitdate>
-            <container id="e8a60fe776854a25d0b938f410c9301a" label="mixed materials (901498.1.318)" type="box">1</container>
-            <container id="dfb87c43cedfe0269f0036158d3e243f" parent="e8a60fe776854a25d0b938f410c9301a" type="folder">3</container>
-          </did>
-        </c>
-        <c id="504c19d9d5f4321fd600d400d9ff4d78" level="file">
-          <did>
-            <unittitle>Volume I Midgley Near East Relief Syra, Greece</unittitle>
-            <unitdate type="inclusive">1926-1928</unitdate>
-            <container id="cc3c25b3b0d2f553f05ddef47c8de8ef" label="mixed materials (901498.1.318)" type="box">1</container>
-            <container id="4bf8104a8954ad52da1bb00012002ba0" parent="cc3c25b3b0d2f553f05ddef47c8de8ef" type="folder">4</container>
-          </did>
-        </c>
-        <c id="4d370f819d4a4c2296e53697f3dc562c" level="file">
-          <did>
-            <unittitle>Volume I Midgley Near East Relief Syra, Greece</unittitle>
-            <unitdate type="inclusive">1926-1928</unitdate>
-            <container id="2b638b213033acaedeab95d4a342acee" label="mixed materials (901498.1.318)" type="box">1</container>
-            <container id="9eb97343c031359e62e015a7e659599d" parent="2b638b213033acaedeab95d4a342acee" type="folder">5</container>
-          </did>
-        </c>
-        <c id="9769a00a2aadf82bf6e2111ac2c9fca4" level="file">
-          <did>
-            <unittitle>Volume I Midgley Near East Relief Syra, Greece</unittitle>
-            <unitdate type="inclusive">1926-1928</unitdate>
-            <container id="e1ce4d7999631f83c79d6acd19d4c17b" label="mixed materials (901498.1.318)" type="box">1</container>
-            <container id="f26bba2df7adc9bb2a8b31f309c06a3e" parent="e1ce4d7999631f83c79d6acd19d4c17b" type="folder">6</container>
-          </did>
-        </c>
-        <c id="f7785dba098a48c84b008757132a895a" level="file">
-          <did>
-            <unittitle>Volume II Midgley Near East Relief Syra, Greece</unittitle>
-            <unitdate type="inclusive">1926-1928</unitdate>
-            <container id="e9edb2aef9423277f1b69befd4a63740" label="mixed materials (901498.2.318)" type="box">2</container>
-            <container id="d97ea0329e8dcfd86e899cce62c6496d" parent="e9edb2aef9423277f1b69befd4a63740" type="folder">1</container>
-          </did>
-        </c>
-        <c id="8a2198b222fbab21a10e28ab410e7946" level="file">
-          <did>
-            <unittitle>Volume II Midgley Near East Relief Syra, Greece</unittitle>
-            <unitdate type="inclusive">1926-1928</unitdate>
-            <container id="28a381edb02ec49e4a13223ffb4a8d2d" label="mixed materials (901498.2.318)" type="box">2</container>
-            <container id="84bf7d7bd479fa7677f4f16732c12d27" parent="28a381edb02ec49e4a13223ffb4a8d2d" type="folder">2</container>
-          </did>
-        </c>
-        <c id="bb7529c9a3cb7823b3f01545e3a95520" level="file">
-          <did>
-            <unittitle>Volume II Midgley Near East Relief Syra, Greece</unittitle>
-            <unitdate type="inclusive">1926-1928</unitdate>
-            <container id="892c5db92fa32db5cf3737dc784aec6a" label="mixed materials (901498.2.318)" type="box">2</container>
-            <container id="7f890b4839397f74ffa7b2276b45fe37" parent="892c5db92fa32db5cf3737dc784aec6a" type="folder">3</container>
-          </did>
-        </c>
-        <c id="291df5e40173ea67320f9fe587a48440" level="file">
-          <did>
-            <unittitle>Volume II Midgley Near East Relief Syra, Greece</unittitle>
-            <unitdate type="inclusive">1926-1928</unitdate>
-            <container id="9e2a306ff0438bd294c6cc89db3899db" label="mixed materials (901498.2.318)" type="box">2</container>
-            <container id="ea2ad5cb0a698c552990861b807e4315" parent="9e2a306ff0438bd294c6cc89db3899db" type="folder">4</container>
-          </did>
-        </c>
-        <c id="67c3736924c1141e10b380a584431790" level="file">
-          <did>
-            <unittitle>Volume II Midgley Near East Relief Syra, Greece</unittitle>
-            <unitdate type="inclusive">1926-1928</unitdate>
-            <container id="8b32c0b3560acad98f02dc46fa9d3692" label="mixed materials (901498.2.318)" type="box">2</container>
-            <container id="88f5a8291062e433d363f0c657557040" parent="8b32c0b3560acad98f02dc46fa9d3692" type="folder">5</container>
-          </did>
-        </c>
-      </c>
-    </dsc>
-  </archdesc>
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid>FA1309.xml</eadid><filedesc><titlestmt><titleproper type="filing">Near East Foundation records, Fred and Carrie Midgley papers, Accession 2012:071, RG 6</titleproper><titleproper>A Guide to the Near East Foundation records, Fred and Carrie Midgley papers, Accession 2012:071, RG 6 <num>FA1309</num></titleproper></titlestmt><publicationstmt><publisher>Rockefeller Archive Center</publisher><address><addressline>15 Dayton Avenue</addressline><addressline>Sleepy Hollow 10591</addressline><addressline>archive@rockarch.org</addressline><addressline>URL: <extptr xlink:href="http://www.rockarch.org" xlink:show="new" xlink:title="http://www.rockarch.org" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2019-06-28 00:04:42 -0400</date>.</creation><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="recordgrp">
+  <did>
+    <langmaterial>
+      <language langcode="eng">English</language>
+    </langmaterial>
+    <repository>
+      <corpname>Rockefeller Archive Center</corpname>
+    </repository>
+    <unittitle>Near East Foundation records, Fred and Carrie Midgley papers, Accession 2012:071, RG 6</unittitle>
+    <origination label="creator">
+      <corpname role="aut" source="naf">Near East Foundation</corpname>
+    </origination>
+    <origination label="creator">
+      <corpname role="ctb" source="naf">Near East Relief (Organization)</corpname>
+    </origination>
+    <unitid>FA1309</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">2.4 Cubic Feet</extent>
+      <extent altrender="carrier">2 standard record storage boxes</extent>
+    </physdesc>
+    <unitdate normal="1926/1928" type="inclusive">1926-1928</unitdate>
+  </did>
+  <accessrestrict id="aspace_0f84d419ac9e1d281bfcfbca85f8676e">
+    <head>Conditions Governing Access</head>
+<p>Collection is open for research with select materials restricted as noted. Brittle or damaged item may be restricted at the discretion of RAC.</p>  </accessrestrict>
+  <separatedmaterial id="aspace_cf6d01f84e3e41a621e05e0b2280ca8e">
+    <head>Separated Materials</head>
+<p>Special format items (audio, film, video, digital media, library materials, memorabilia, oversize, and photographic material) have been separated from the body of the collection and assigned a unique separation number, as noted. Requests to access open special formats should reference the unique separation number.</p>  </separatedmaterial>
+  <prefercite id="aspace_06dc12e83bd4df44ce0053edb1f8fde5">
+    <head>Preferred Citation</head>
+<p>Information regarding the Rockefeller Archive Center's preferred elements and forms of citation can be found at <extref href="http://www.rockarch.org/research/citations.php">http://www.rockarch.org/research/citations.php</extref></p>  </prefercite>
+  <processinfo id="aspace_6ce7a5f73e96a8588d9ad08ac28fbea0">
+    <head>Processing Information</head>
+<p>Level 2 Minimal Processing has been conducted to establish basic intellectual and physical control of the material and assess immediate preservation and conservation needs. Material remains as received, in original folders and storage boxes.</p>  </processinfo>
+  <dsc><c id="a5b48def2fb2f46bbd9efffc22e9267f" level="recordgrp"><did><unittitle>Near East Foundation records, Fred and Carrie Midgley papers, Accession 2012:071</unittitle><unitid>6</unitid><unitdate type="inclusive">1926-1928</unitdate></did><c id="7359d88911b3b9ddf827dc67166a1457" level="file"><did><unittitle>Volume I Midgley Near East Relief Syra, Greece</unittitle><unitdate type="inclusive">1926-1928</unitdate><container altrender="Letter Document Storage Box" id="694211a0fd9cdbc7243dd95eda300609" label="mixed materials [901498.1.318]" type="box">1</container><container id="05b53e4c665f415ba56495e9910990b5" parent="694211a0fd9cdbc7243dd95eda300609" type="folder">1</container></did></c><c id="a1a4beddcb9cd2eb60dd34ead3401272" level="file"><did><unittitle>Volume I Midgley Near East Relief Syra, Greece</unittitle><unitdate type="inclusive">1926-1928</unitdate><container altrender="Letter Document Storage Box" id="0062fe4b87c015f677797a118e97449d" label="mixed materials [901498.1.318]" type="box">1</container><container id="79f752959a37ea21b27b0915868d8638" parent="0062fe4b87c015f677797a118e97449d" type="folder">2</container></did></c><c id="98b00974ad5c6d886a735262f23b13bf" level="file"><did><unittitle>Volume I Midgley Near East Relief Syra, Greece</unittitle><unitdate type="inclusive">1926-1928</unitdate><container altrender="Letter Document Storage Box" id="deba6b6b359202869a4f51af35fbee19" label="mixed materials [901498.1.318]" type="box">1</container><container id="27e3007fe2ec96218943fc0e298e6927" parent="deba6b6b359202869a4f51af35fbee19" type="folder">3</container></did></c><c id="504c19d9d5f4321fd600d400d9ff4d78" level="file"><did><unittitle>Volume I Midgley Near East Relief Syra, Greece</unittitle><unitdate type="inclusive">1926-1928</unitdate><container altrender="Letter Document Storage Box" id="ee37bc9b9deb14ff8a359129c100c585" label="mixed materials [901498.1.318]" type="box">1</container><container id="9978509813bdde89ee652d5276236773" parent="ee37bc9b9deb14ff8a359129c100c585" type="folder">4</container></did></c><c id="4d370f819d4a4c2296e53697f3dc562c" level="file"><did><unittitle>Volume I Midgley Near East Relief Syra, Greece</unittitle><unitdate type="inclusive">1926-1928</unitdate><container altrender="Letter Document Storage Box" id="3a0ddf3beb4a81cb0c43692a45599784" label="mixed materials [901498.1.318]" type="box">1</container><container id="311a2b1ca581f22393b8bc97a5286b3c" parent="3a0ddf3beb4a81cb0c43692a45599784" type="folder">5</container></did></c><c id="9769a00a2aadf82bf6e2111ac2c9fca4" level="file"><did><unittitle>Volume I Midgley Near East Relief Syra, Greece</unittitle><unitdate type="inclusive">1926-1928</unitdate><container altrender="Letter Document Storage Box" id="254383a74b687a30a508cb4615e4548d" label="mixed materials [901498.1.318]" type="box">1</container><container id="2d806d74ecdc95277f978dcde436e5cc" parent="254383a74b687a30a508cb4615e4548d" type="folder">6</container></did></c><c id="f7785dba098a48c84b008757132a895a" level="file"><did><unittitle>Volume II Midgley Near East Relief Syra, Greece</unittitle><unitdate type="inclusive">1926-1928</unitdate><container altrender="Letter Document Storage Box" id="ef80fa0b9c0e0f198bb1408fc3fceb4b" label="mixed materials [901498.2.318]" type="box">2</container><container id="3a7e0b9bee28893df305e87bad825176" parent="ef80fa0b9c0e0f198bb1408fc3fceb4b" type="folder">1</container></did></c><c id="8a2198b222fbab21a10e28ab410e7946" level="file"><did><unittitle>Volume II Midgley Near East Relief Syra, Greece</unittitle><unitdate type="inclusive">1926-1928</unitdate><container altrender="Letter Document Storage Box" id="49d7674c335bf35c2fbc2726fbc6533c" label="mixed materials [901498.2.318]" type="box">2</container><container id="aa5693562d8a1c65f1f85433ca0cc8fe" parent="49d7674c335bf35c2fbc2726fbc6533c" type="folder">2</container></did></c><c id="bb7529c9a3cb7823b3f01545e3a95520" level="file"><did><unittitle>Volume II Midgley Near East Relief Syra, Greece</unittitle><unitdate type="inclusive">1926-1928</unitdate><container altrender="Letter Document Storage Box" id="dfcde56da3ad4d1df7248c8678156819" label="mixed materials [901498.2.318]" type="box">2</container><container id="ae615356f3d72897dc102ecd70dc8429" parent="dfcde56da3ad4d1df7248c8678156819" type="folder">3</container></did></c><c id="291df5e40173ea67320f9fe587a48440" level="file"><did><unittitle>Volume II Midgley Near East Relief Syra, Greece</unittitle><unitdate type="inclusive">1926-1928</unitdate><container altrender="Letter Document Storage Box" id="5a1c5c46741d233574f2b2945f16e931" label="mixed materials [901498.2.318]" type="box">2</container><container id="6cf6154a8656ac23d4fe0b94bd564b37" parent="5a1c5c46741d233574f2b2945f16e931" type="folder">4</container></did></c><c id="67c3736924c1141e10b380a584431790" level="file"><did><unittitle>Volume II Midgley Near East Relief Syra, Greece</unittitle><unitdate type="inclusive">1926-1928</unitdate><container altrender="Letter Document Storage Box" id="92887b4ec8c4ee1b1d7a567f6d6cfabf" label="mixed materials [901498.2.318]" type="box">2</container><container id="cff8afaab8948c1e8592e6cd4d1c8aff" parent="92887b4ec8c4ee1b1d7a567f6d6cfabf" type="folder">5</container></did></c></c></dsc>
+</archdesc>
 </ead>
