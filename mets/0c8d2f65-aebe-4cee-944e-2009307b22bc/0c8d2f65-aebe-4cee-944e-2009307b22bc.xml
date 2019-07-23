@@ -1,52 +1,52 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <mets xmlns="http://www.loc.gov/METS/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/mets/mets.xsd">
-  <metsHdr CREATEDATE="2019-07-23 00:30:11 -0400">
+  <metsHdr CREATEDATE="2019-07-23 00:30:08 -0400">
     <agent ROLE="CREATOR" TYPE="ORGANIZATION">
       <name>Rockefeller Archive Center</name>
       <note>http://www.rockarch.org</note>
       <note>Produced by ArchivesSpace</note>
     </agent>
   </metsHdr>
-  <dmdSec ID="2813">
+  <dmdSec ID="2823">
     <mdWrap MDTYPE="MODS">
       <xmlData>
         <mods version="3.4" xmlns="http://www.loc.gov/mods/v3">
           <mods:titleInfo>
-            <mods:title>46832061549846fd908df734636660c4.pdf</mods:title>
+            <mods:title>65c09bccb7024e95976ce142526e9e42.pdf</mods:title>
           </mods:titleInfo>
-          <mods:identifier type="local">06744136-ae66-412c-b7f7-e68c48dd3c52</mods:identifier>
+          <mods:identifier type="local">0c8d2f65-aebe-4cee-944e-2009307b22bc</mods:identifier>
           <mods:typeOfResource/>
           <mods:originInfo/>
           <mods:physicalDescription/>
-          <mods:note type="originalsloc">ca8064f4-894a-4960-a734-fc4082f66ccb</mods:note>
+          <mods:note type="originalsloc">0118191c-28d3-492f-8afa-7eccbde14a6e</mods:note>
           <mods:note displayLabel="Digital object made available by">Rockefeller Archive Center, 15 Dayton Avenue, Sleepy Hollow, 10591, U.S.A. (http://www.rockarch.org)</mods:note>
           <mods:relatedItem displayLabel="resource" type="host">
             <mods:name>General Education Board records</mods:name>
             <mods:identifier>FA058.xml</mods:identifier>
           </mods:relatedItem>
           <mods:relatedItem displayLabel="component" type="host">
-            <mods:name>University of Chicago Medical School - Provident Hospital, 1929-1938</mods:name>
-            <mods:identifier>46832061549846fd908df734636660c4</mods:identifier>
+            <mods:name>American Council on Education - American Youth Commission - Studies of Negro Youth - Reports and Pamphlets, 1937-1941</mods:name>
+            <mods:identifier>65c09bccb7024e95976ce142526e9e42</mods:identifier>
           </mods:relatedItem>
         </mods>
       </xmlData>
     </mdWrap>
   </dmdSec>
   <amdSec>
-    <techMD ID="7915">
+    <techMD ID="7925">
       <mdWrap MDTYPE="PREMIS:OBJECT">
         <xmlData>
           <object version="2.2" xmlns="info:lc/xmlns/premis-v2" xsi:schemaLocation="info:lc/xmlns/premis-v2 http://www.loc.gov/standards/premis/v2/premis-v2-2.xsd" xsi:type="file">
             <objectIdentifier>
               <objectIdentifierType>ArchivesSpace identifier</objectIdentifierType>
-              <objectIdentifierValue>7915</objectIdentifierValue>
+              <objectIdentifierValue>7925</objectIdentifierValue>
             </objectIdentifier>
             <objectCharacteristics>
               <fixity>
                 <messageDigestAlgorithm/>
                 <messageDigest/>
               </fixity>
-              <size>39314884</size>
+              <size>45135693</size>
               <format>
                 <formatDesignation>
                   <formatName/>
@@ -61,19 +61,19 @@
   </amdSec>
   <fileSec>
     <fileGrp USE="">
-      <file AMDID="7915" GROUPID="2813" ID="7915">
-        <FLocat xlink:href="https://storage.rockarch.org/06744136-ae66-412c-b7f7-e68c48dd3c52-46832061549846fd908df734636660c4.pdf"/>
+      <file AMDID="7925" GROUPID="2823" ID="7925">
+        <FLocat xlink:href="https://storage.rockarch.org/0c8d2f65-aebe-4cee-944e-2009307b22bc-65c09bccb7024e95976ce142526e9e42.pdf"/>
       </file>
     </fileGrp>
   </fileSec>
   <structMap TYPE="logical">
-    <div DMDID="2813" LABEL="46832061549846fd908df734636660c4.pdf" ORDER="1" TYPE="item">
-      <fptr FILEID="7915"/>
+    <div DMDID="2823" LABEL="65c09bccb7024e95976ce142526e9e42.pdf" ORDER="1" TYPE="item">
+      <fptr FILEID="7925"/>
     </div>
   </structMap>
   <structMap TYPE="physical">
-    <div DMDID="2813" LABEL="46832061549846fd908df734636660c4.pdf" ORDER="1" TYPE="item">
-      <fptr FILEID="7915"/>
+    <div DMDID="2823" LABEL="65c09bccb7024e95976ce142526e9e42.pdf" ORDER="1" TYPE="item">
+      <fptr FILEID="7925"/>
     </div>
   </structMap>
 </mets>

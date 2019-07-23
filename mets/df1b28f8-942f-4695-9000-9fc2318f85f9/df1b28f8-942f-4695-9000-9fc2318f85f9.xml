@@ -1,56 +1,56 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <mets xmlns="http://www.loc.gov/METS/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/mets/mets.xsd">
-  <metsHdr CREATEDATE="2019-07-23 00:30:11 -0400">
+  <metsHdr CREATEDATE="2019-07-23 00:31:07 -0400">
     <agent ROLE="CREATOR" TYPE="ORGANIZATION">
       <name>Rockefeller Archive Center</name>
       <note>http://www.rockarch.org</note>
       <note>Produced by ArchivesSpace</note>
     </agent>
   </metsHdr>
-  <dmdSec ID="2813">
+  <dmdSec ID="2857">
     <mdWrap MDTYPE="MODS">
       <xmlData>
         <mods version="3.4" xmlns="http://www.loc.gov/mods/v3">
           <mods:titleInfo>
-            <mods:title>46832061549846fd908df734636660c4.pdf</mods:title>
+            <mods:title>5a123fc1c3f3456989e60ce009baeda4_024.tif</mods:title>
           </mods:titleInfo>
-          <mods:identifier type="local">06744136-ae66-412c-b7f7-e68c48dd3c52</mods:identifier>
+          <mods:identifier type="local">df1b28f8-942f-4695-9000-9fc2318f85f9</mods:identifier>
           <mods:typeOfResource/>
           <mods:originInfo/>
           <mods:physicalDescription/>
-          <mods:note type="originalsloc">ca8064f4-894a-4960-a734-fc4082f66ccb</mods:note>
+          <mods:note type="originalsloc">e738f225-ffa2-4e4b-961c-26a667ce9609</mods:note>
           <mods:note displayLabel="Digital object made available by">Rockefeller Archive Center, 15 Dayton Avenue, Sleepy Hollow, 10591, U.S.A. (http://www.rockarch.org)</mods:note>
           <mods:relatedItem displayLabel="resource" type="host">
             <mods:name>General Education Board records</mods:name>
             <mods:identifier>FA058.xml</mods:identifier>
           </mods:relatedItem>
           <mods:relatedItem displayLabel="component" type="host">
-            <mods:name>University of Chicago Medical School - Provident Hospital, 1929-1938</mods:name>
-            <mods:identifier>46832061549846fd908df734636660c4</mods:identifier>
+            <mods:name>ALA 160 - Supervisor of Rural Schools - Negro, 1914-1916</mods:name>
+            <mods:identifier>5a123fc1c3f3456989e60ce009baeda4</mods:identifier>
           </mods:relatedItem>
         </mods>
       </xmlData>
     </mdWrap>
   </dmdSec>
   <amdSec>
-    <techMD ID="7915">
+    <techMD ID="7959">
       <mdWrap MDTYPE="PREMIS:OBJECT">
         <xmlData>
           <object version="2.2" xmlns="info:lc/xmlns/premis-v2" xsi:schemaLocation="info:lc/xmlns/premis-v2 http://www.loc.gov/standards/premis/v2/premis-v2-2.xsd" xsi:type="file">
             <objectIdentifier>
               <objectIdentifierType>ArchivesSpace identifier</objectIdentifierType>
-              <objectIdentifierValue>7915</objectIdentifierValue>
+              <objectIdentifierValue>7959</objectIdentifierValue>
             </objectIdentifier>
             <objectCharacteristics>
               <fixity>
                 <messageDigestAlgorithm/>
                 <messageDigest/>
               </fixity>
-              <size>39314884</size>
+              <size>1610137</size>
               <format>
                 <formatDesignation>
-                  <formatName/>
-                  <formatVersion>Acrobat PDF </formatVersion>
+                  <formatName>tiff</formatName>
+                  <formatVersion>TIFF</formatVersion>
                 </formatDesignation>
               </format>
             </objectCharacteristics>
@@ -61,19 +61,19 @@
   </amdSec>
   <fileSec>
     <fileGrp USE="">
-      <file AMDID="7915" GROUPID="2813" ID="7915">
-        <FLocat xlink:href="https://storage.rockarch.org/06744136-ae66-412c-b7f7-e68c48dd3c52-46832061549846fd908df734636660c4.pdf"/>
+      <file AMDID="7959" GROUPID="2857" ID="7959">
+        <FLocat xlink:href="https://storage.rockarch.org/df1b28f8-942f-4695-9000-9fc2318f85f9-5a123fc1c3f3456989e60ce009baeda4_024.jpg"/>
       </file>
     </fileGrp>
   </fileSec>
   <structMap TYPE="logical">
-    <div DMDID="2813" LABEL="46832061549846fd908df734636660c4.pdf" ORDER="1" TYPE="item">
-      <fptr FILEID="7915"/>
+    <div DMDID="2857" LABEL="5a123fc1c3f3456989e60ce009baeda4_024.tif" ORDER="1" TYPE="item">
+      <fptr FILEID="7959"/>
     </div>
   </structMap>
   <structMap TYPE="physical">
-    <div DMDID="2813" LABEL="46832061549846fd908df734636660c4.pdf" ORDER="1" TYPE="item">
-      <fptr FILEID="7915"/>
+    <div DMDID="2857" LABEL="5a123fc1c3f3456989e60ce009baeda4_024.tif" ORDER="1" TYPE="item">
+      <fptr FILEID="7959"/>
     </div>
   </structMap>
 </mets>
