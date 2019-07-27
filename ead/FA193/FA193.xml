@@ -1,248 +1,127 @@
-<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
-  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="under_revision" langencoding="iso639-2b" repositoryencoding="iso15511">
-    <eadid>FA193.xml</eadid>
-    <filedesc>
-      <titlestmt>
-        <titleproper type="filing">Rothen (Alexandre) papers</titleproper>
-        <titleproper>A Guide to the Alexandre Rothen papers, Rockefeller University Faculty
- <num>FA193</num></titleproper>
-      </titlestmt>
-      <publicationstmt>
-        <publisher>Rockefeller Archive Center</publisher>
-        <p>
-          <date>after 1974</date>
-        </p>
-        <address>
-          <addressline>15 Dayton Avenue</addressline>
-          <addressline>Sleepy Hollow 10591</addressline>
-          <addressline>archive@rockarch.org</addressline>
-          <addressline>URL: <extptr xlink:href="http://www.rockarch.org" xlink:show="new" xlink:title="http://www.rockarch.org" xlink:type="simple"/></addressline>
-        </address>
-      </publicationstmt>
-    </filedesc>
-    <profiledesc>
-      <creation>This finding aid was produced using ArchivesSpace on <date>2018-11-02 00:41:38 -0400</date>.</creation>
-    </profiledesc>
-    <revisiondesc>
-      <change>
-        <date>completed</date>
-        <item>Paper finding aid converted to EAD/XML by AureXus in 2010. Imported into the Archvists’ Toolkit by Becky Robbins.</item>
-      </change>
-    </revisiondesc>
-  </eadheader>
-  <archdesc level="collection">
-    <did>
-      <langmaterial>
-        <language langcode="eng">English</language>
-      </langmaterial>
-      <repository>
-        <corpname>Rockefeller Archive Center</corpname>
-      </repository>
-      <unittitle>Alexandre Rothen papers, Rockefeller University Faculty</unittitle>
-      <origination label="creator">
-        <persname role="aut" source="naf">Rothen, Alexandre</persname>
-      </origination>
-      <unitid>FA193</unitid>
-      <physdesc altrender="whole">
-        <extent altrender="materialtype spaceoccupied">1 Cubic Feet</extent>
-        <extent altrender="carrier">2 boxes and 2 volumes</extent>
-      </physdesc>
-      <unitdate normal="1928/1987" type="inclusive">1928-1987, undated</unitdate>
-      <physdesc id="5a48cc9e67c3311b6e26d442825a2054">2 boxes and 2 volumes</physdesc>
-    </did>
-    <userestrict id="1cc472e1c305e97f437a30f21dd3fa3d">
-      <head>Conditions Governing Use</head>
-      <p>Collection is open for scholarly research.</p>
-    </userestrict>
-    <bioghist id="65da1be3592ec273060890c586814f15">
-      <head>Biographical/Historical note</head>
-      <p>Alexandre Rothen, physical chemist at The Rockefeller University (formerly The Rockefeller Institute for Medical Research) from 1927-1970. He built one of the first Polariscopes for the study of rotatory dispersion in the ultraviolet range and developed the air-driven centrifuge (originally designed by Pickels of the Rockefeller Foundation). From 1942 he was interested in monomolecular layers and published many papers on chemical interactions at a liquid-solid interface. He built the first ellipsometer with a half shadow device.</p>
-      <chronlist>
-        <head>Biographical note</head>
-        <chronitem>
-          <date>1900</date>
-          <eventgrp>
-            <event>Born January 25 Geneva, Switzerland</event>
-          </eventgrp>
-        </chronitem>
-        <chronitem>
-          <date>1924</date>
-          <eventgrp>
-            <event>D. Sc. Chemical Engineering, University of Geneva</event>
-          </eventgrp>
-        </chronitem>
-        <chronitem>
-          <date>1926</date>
-          <eventgrp>
-            <event>Ph. D. Physical Chemistry University of Geneva</event>
-          </eventgrp>
-        </chronitem>
-        <chronitem>
-          <date>1926-1927</date>
-          <eventgrp>
-            <event>Volunteer in P.A.T. Levene laboratory, Rockefeller Institute for Medical Research, New York City.</event>
-          </eventgrp>
-        </chronitem>
-        <chronitem>
-          <date>1928-1936</date>
-          <eventgrp>
-            <event>Assistant RIMR. Physical chemist in Levene lab.</event>
-          </eventgrp>
-        </chronitem>
-        <chronitem>
-          <date>1936-1947</date>
-          <eventgrp>
-            <event>Associate in Physical Chemistry RIMR</event>
-          </eventgrp>
-        </chronitem>
-        <chronitem>
-          <date>1947-1966</date>
-          <eventgrp>
-            <event>Associate member and Associate Professor, Rockefeller University</event>
-          </eventgrp>
-        </chronitem>
-        <chronitem>
-          <date>1966</date>
-          <eventgrp>
-            <event>Prof</event>
-          </eventgrp>
-        </chronitem>
-        <chronitem>
-          <date>1970-</date>
-          <eventgrp>
-            <event>Professor Emeritus (Home: 1801 Mont-Pélerin) Vaud Switzerland</event>
-          </eventgrp>
-        </chronitem>
-        <chronitem>
-          <date>1987</date>
-          <eventgrp>
-            <event>Died December 12</event>
-          </eventgrp>
-        </chronitem>
-      </chronlist>
-    </bioghist>
-    <scopecontent id="d5e3174d14ff157c5315f66020b088a8">
-      <head>Scope and Contents note</head>
-      <p>Biography, Photographs, Bibliography, Collected Reprints.</p>
-      <p>The papers consist primarily of materials prepared by Alexandre Rothen for press information and include photocopy of news stories 1960-1970. The copies of correspondence and the summaries of experimental work deal mainly with Dr. Rothen's assumption in 1948 (later shown experimentally) that a "specific long-range interaction took place across the membrane between the condensed film of protein immobilized on the slide and antibodies or trypsin molecules", and the violent criticism of this work and the fact that later, the priority of his work did not receive recognition.</p>
-      <p>Also includes a short biography written by Dr. Rothen.</p>
-    </scopecontent>
-    <acqinfo id="5b1176ff839855f39fbe6f2719a13778">
-      <head>Immediate Source of Acquisition</head>
-      <p>Date received or inventoried: June 1975; except for: Faculty and Personal Files (Box 2) which was received from Faculty Administration office on March 25, 1988; and folder of figures, graphs, and tables which was received December 1983 from T.P. King.</p>
-    </acqinfo>
-    <fileplan id="55cce2afa8779db569fa6480c4a70942">
-      <head>File Plan note</head>
-      <p>Former Classification: I 450 R743</p>
-    </fileplan>
-    <accessrestrict id="d7376234b87758e0bc25dd2b177bb993">
-      <head>Conditions Governing Access note</head>
-      <p>Access to this collection is restricted pending permission from Rockefeller University.</p>
-    </accessrestrict>
-    <prefercite id="98cd462a3c2585677f802a829296e966">
-      <head>Preferred Citation</head>
-      <p>Information regarding the Rockefeller Archive Center's preferred elements and forms of citation can be found at <extref href="http://www.rockarch.org/research/citations.php">http://www.rockarch.org/research/citations.php</extref></p>
-    </prefercite>
-    <arrangement id="fb543163ac4d56c9f43e47d4dda595af">
-      <head>Arrangement</head>
-      <p>As received.</p>
-    </arrangement>
-    <controlaccess>
-      <subject source="lcsh">Enzymes</subject>
-      <subject source="lcsh">Immunoglobulins</subject>
-      <subject source="lcsh">Biochemistry</subject>
-      <subject source="lcsh">Trypsin</subject>
-      <subject source="lcsh">Chemistry</subject>
-      <subject source="lcsh">Life sciences</subject>
-      <subject source="lcsh">Cell and biomolecular sciences</subject>
-      <subject source="lcsh">Medical education</subject>
-      <subject source="lcsh">Medical research</subject>
-      <subject source="lcsh">Proteins</subject>
-      <subject source="lcsh">Biology -- Research</subject>
-      <corpname role="ctb" source="naf">Rockefeller Institute for Medical Research</corpname>
-      <corpname role="ctb" source="naf">Rockefeller University</corpname>
-    </controlaccess>
-    <dsc>
-      <c id="61d62a6e6b6341b2927a5d044a172ae2" level="file">
-        <did>
-          <unittitle>Reprints - Tryptic action across a membrane. Physiological chemistry and physics 11 (1979) 481-489</unittitle>
-          <unitdate normal="1979/1979" type="inclusive">1979</unitdate>
-          <container id="f5c05c8f9227b12a01d5f33e95f8d9d2" label="mixed materials [164738.1.318]" type="box">1</container>
-          <container id="8e2afbcc3ad4ce3518037fabdd47f53c" parent="f5c05c8f9227b12a01d5f33e95f8d9d2" type="folder">1</container>
-        </did>
-      </c>
-      <c id="deb4433e50484b04a634e39d5a9968a5" level="file">
-        <did>
-          <unittitle>Reprints - Influence of metallic shields on presumably cosmic radiation affecting surfaces of nickel-plated slides used in immunological studies. Physiological chemistry and physics 11 (1979) 193-204</unittitle>
-          <unitdate normal="1979/1979" type="inclusive">1979</unitdate>
-          <container id="b967e52c4932f66f8edc55dba3947b92" label="mixed materials [164738.1.318]" type="box">1</container>
-          <container id="4256f1a366c611543b2ad6b081bd0d63" parent="b967e52c4932f66f8edc55dba3947b92" type="folder">2</container>
-        </did>
-      </c>
-      <c id="354a867ed7d04cafa905c7705aba14ca" level="item">
-        <did>
-          <unittitle>MS: Alexandre Rothen, "An Exact Twenty-Four Hour Periodicity in the Superficial Topography of Nickel Plated Glass Slides Presumably Caused by a Solar Radiation of Great Penetration"</unittitle>
-          <unitdate normal="1973/1993" type="inclusive">circa 1983</unitdate>
-          <container id="8662794a85819b9727e5b4a884b55d6f" label="mixed materials" type="box">1</container>
-          <container id="815c1e7c41f91510394ae50a0a586263" parent="8662794a85819b9727e5b4a884b55d6f" type="folder">3</container>
-        </did>
-        <scopecontent id="8477a558bc36647656304bf61fdfaef8">
-          <head>Scope and Contents note</head>
-          <p>With handwritten letter to Mrs. [Sonya W.] Mirsky, 15 July 1983.</p>
-        </scopecontent>
-      </c>
-      <c id="2d9265182a4e480f8d8f36426942abc5" level="file">
-        <did>
-          <unittitle>Faculty and Personal Files</unittitle>
-          <unitdate normal="1928/1987" type="inclusive">1928-1987</unitdate>
-          <container id="02ea9009bf8a534b2544bf83fca34834" label="mixed materials [164742.2.318]" type="box">2</container>
-          <container id="5fedf6bb9772d453491fa701ee10622c" parent="02ea9009bf8a534b2544bf83fca34834" type="folder">1</container>
-        </did>
-      </c>
-      <c id="c28305d21cca44928c90b2dfe396028f" level="file">
-        <did>
-          <unittitle>Faculty and Personal Files</unittitle>
-          <unitdate normal="1928/1987" type="inclusive">1928-1987</unitdate>
-          <container id="aa47cd26a91b0aab75c5f280e7d8aa2f" label="mixed materials [164742.2.318]" type="box">2</container>
-          <container id="cd726df554d0a61f2a6786a962d4d641" parent="aa47cd26a91b0aab75c5f280e7d8aa2f" type="folder">2</container>
-        </did>
-      </c>
-      <c id="40e3847ad216412bb3306133291953d0" level="file">
-        <did>
-          <unittitle>Photographs</unittitle>
-          <unitdate normal="1929/1970" type="inclusive">1929, 1958, 1966, 1949, 1970</unitdate>
-          <physdesc id="143307054c042c22061c937f8ccd47cc">5 items</physdesc>
-          <container id="803692052ee31429bd6f6bb60d05aaf3" label="mixed materials [164742.2.318]" type="box">2</container>
-        </did>
-        <scopecontent id="be03223005f14d0a12666e7162407e15">
-          <head>Scope and Contents</head>
-          <p>Emeritus (1970?)</p>
-        </scopecontent>
-      </c>
-      <c id="6c38f0f32e8a453c88f99eb12684f036" level="file">
-        <did>
-          <unittitle>Figures, graphs, and tables</unittitle>
-          <physdesc id="2ff813cc84ff64092de166087b277098">Oversize</physdesc>
-        </did>
-        <separatedmaterial id="eabcd0b2592b1e5ec8954bfd7e95efc4">
-          <head>Separated Materials</head>
-          <p>Relocated to map case</p>
-        </separatedmaterial>
-        <accessrestrict id="b651c416fee6dd4f18b40e3928afe8c4">
-          <head>Conditions Governing Access</head>
-          <p>Due to the oversize nature and potentially brittle condition of the contents of this collection, special arrangements may be required in order to view materials. Individual items may be restricted due to preservation concerns.</p>
-        </accessrestrict>
-      </c>
-      <c id="0d08f0490db743859fff13aeacb305cf" level="file">
-        <did>
-          <unittitle>Collected Reprints</unittitle>
-          <physdesc id="dd7ff34442aa1ac6f29272394692e587">2 volumes</physdesc>
-        </did>
-        <separatedmaterial id="dfb25df4b2a48625bac08155d3ebb377">
-          <head>Separated Materials</head>
-          <p>Relocated to RAC library 8/9/88</p>
-        </separatedmaterial>
-      </c>
-    </dsc>
-  </archdesc>
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="under_revision" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid>FA193.xml</eadid><filedesc><titlestmt><titleproper type="filing">Rothen (Alexandre) papers</titleproper><titleproper>A Guide to the Alexandre Rothen papers, Rockefeller University Faculty
+ <num>FA193</num></titleproper></titlestmt><publicationstmt><publisher>Rockefeller Archive Center</publisher><p><date>after 1974</date></p><address><addressline>15 Dayton Avenue</addressline><addressline>Sleepy Hollow 10591</addressline><addressline>archive@rockarch.org</addressline><addressline>URL: <extptr xlink:href="http://www.rockarch.org" xlink:show="new" xlink:title="http://www.rockarch.org" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2019-07-27 00:22:19 -0400</date>.</creation></profiledesc><revisiondesc><change><date>completed</date><item>Paper finding aid converted to EAD/XML by AureXus in 2010. Imported into the Archvists’ Toolkit by Becky Robbins.</item></change></revisiondesc></eadheader><archdesc level="collection">
+  <did>
+    <langmaterial>
+      <language langcode="eng">English</language>
+    </langmaterial>
+    <repository>
+      <corpname>Rockefeller Archive Center</corpname>
+    </repository>
+    <unittitle>Alexandre Rothen papers, Rockefeller University Faculty</unittitle>
+    <origination label="creator">
+      <persname role="aut" source="naf">Rothen, Alexandre</persname>
+    </origination>
+    <unitid>FA193</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">1 Cubic Feet</extent>
+      <extent altrender="carrier">2 boxes and 2 volumes</extent>
+    </physdesc>
+    <unitdate normal="1928/1987" type="inclusive">1928-1987, undated</unitdate>
+    <physdesc id="5a48cc9e67c3311b6e26d442825a2054">2 boxes and 2 volumes</physdesc>
+  </did>
+  <userestrict id="1cc472e1c305e97f437a30f21dd3fa3d">
+    <head>Conditions Governing Use</head>
+<p>Collection is open for scholarly research.</p>  </userestrict>
+  <bioghist id="65da1be3592ec273060890c586814f15">
+    <head>Biographical/Historical note</head>
+<p>Alexandre Rothen, physical chemist at The Rockefeller University (formerly The Rockefeller Institute for Medical Research) from 1927-1970. He built one of the first Polariscopes for the study of rotatory dispersion in the ultraviolet range and developed the air-driven centrifuge (originally designed by Pickels of the Rockefeller Foundation). From 1942 he was interested in monomolecular layers and published many papers on chemical interactions at a liquid-solid interface. He built the first ellipsometer with a half shadow device.</p>    <chronlist>
+      <head>Biographical note</head>
+      <chronitem>
+        <date>1900</date>
+        <eventgrp>
+          <event>Born January 25 Geneva, Switzerland</event>
+        </eventgrp>
+      </chronitem>
+      <chronitem>
+        <date>1924</date>
+        <eventgrp>
+          <event>D. Sc. Chemical Engineering, University of Geneva</event>
+        </eventgrp>
+      </chronitem>
+      <chronitem>
+        <date>1926</date>
+        <eventgrp>
+          <event>Ph. D. Physical Chemistry University of Geneva</event>
+        </eventgrp>
+      </chronitem>
+      <chronitem>
+        <date>1926-1927</date>
+        <eventgrp>
+          <event>Volunteer in P.A.T. Levene laboratory, Rockefeller Institute for Medical Research, New York City.</event>
+        </eventgrp>
+      </chronitem>
+      <chronitem>
+        <date>1928-1936</date>
+        <eventgrp>
+          <event>Assistant RIMR. Physical chemist in Levene lab.</event>
+        </eventgrp>
+      </chronitem>
+      <chronitem>
+        <date>1936-1947</date>
+        <eventgrp>
+          <event>Associate in Physical Chemistry RIMR</event>
+        </eventgrp>
+      </chronitem>
+      <chronitem>
+        <date>1947-1966</date>
+        <eventgrp>
+          <event>Associate member and Associate Professor, Rockefeller University</event>
+        </eventgrp>
+      </chronitem>
+      <chronitem>
+        <date>1966</date>
+        <eventgrp>
+          <event>Prof</event>
+        </eventgrp>
+      </chronitem>
+      <chronitem>
+        <date>1970-</date>
+        <eventgrp>
+          <event>Professor Emeritus (Home: 1801 Mont-Pélerin) Vaud Switzerland</event>
+        </eventgrp>
+      </chronitem>
+      <chronitem>
+        <date>1987</date>
+        <eventgrp>
+          <event>Died December 12</event>
+        </eventgrp>
+      </chronitem>
+    </chronlist>
+  </bioghist>
+  <scopecontent id="d5e3174d14ff157c5315f66020b088a8">
+    <head>Scope and Contents note</head>
+<p>Biography, Photographs, Bibliography, Collected Reprints.</p><p>The papers consist primarily of materials prepared by Alexandre Rothen for press information and include photocopy of news stories 1960-1970. The copies of correspondence and the summaries of experimental work deal mainly with Dr. Rothen's assumption in 1948 (later shown experimentally) that a "specific long-range interaction took place across the membrane between the condensed film of protein immobilized on the slide and antibodies or trypsin molecules", and the violent criticism of this work and the fact that later, the priority of his work did not receive recognition.</p><p>Also includes a short biography written by Dr. Rothen.</p>  </scopecontent>
+  <acqinfo id="5b1176ff839855f39fbe6f2719a13778">
+    <head>Immediate Source of Acquisition</head>
+<p>Date received or inventoried: June 1975; except for: Faculty and Personal Files (Box 2) which was received from Faculty Administration office on March 25, 1988; and folder of figures, graphs, and tables which was received December 1983 from T.P. King.</p>  </acqinfo>
+  <fileplan id="55cce2afa8779db569fa6480c4a70942">
+    <head>File Plan note</head>
+<p>Former Classification: I 450 R743</p>  </fileplan>
+  <accessrestrict id="d7376234b87758e0bc25dd2b177bb993">
+    <head>Conditions Governing Access note</head>
+<p>Access to this collection is restricted pending permission from Rockefeller University.</p>  </accessrestrict>
+  <prefercite id="98cd462a3c2585677f802a829296e966">
+    <head>Preferred Citation</head>
+<p>Information regarding the Rockefeller Archive Center's preferred elements and forms of citation can be found at <extref href="http://www.rockarch.org/research/citations.php">http://www.rockarch.org/research/citations.php</extref></p>  </prefercite>
+  <arrangement id="fb543163ac4d56c9f43e47d4dda595af">
+    <head>Arrangement</head>
+<p>As received.</p>  </arrangement>
+  <controlaccess>
+    <subject source="lcsh">Enzymes</subject>
+    <subject source="lcsh">Immunoglobulins</subject>
+    <subject source="lcsh">Biochemistry</subject>
+    <subject source="lcsh">Trypsin</subject>
+    <subject source="lcsh">Chemistry</subject>
+    <subject source="lcsh">Life sciences</subject>
+    <subject source="lcsh">Cell and biomolecular sciences</subject>
+    <subject source="lcsh">Medical education</subject>
+    <subject source="lcsh">Medical research</subject>
+    <subject source="lcsh">Proteins</subject>
+    <subject source="lcsh">Biology -- Research</subject>
+    <corpname role="ctb" source="naf">Rockefeller Institute for Medical Research</corpname>
+    <corpname role="ctb" source="naf">Rockefeller University</corpname>
+  </controlaccess>
+  <dsc><c id="61d62a6e6b6341b2927a5d044a172ae2" level="file"><did><unittitle>Reprints - Tryptic action across a membrane. Physiological chemistry and physics 11 (1979) 481-489</unittitle><unitdate normal="1979/1979" type="inclusive">1979</unitdate><container altrender="Half Ltr Document Storage Box" id="1759cac8cc5d885dda52ec81d44f77f9" label="mixed materials [A0000000055840]" type="box">1</container><container id="150a714643562b32701f70c647920e7c" parent="1759cac8cc5d885dda52ec81d44f77f9" type="folder">1</container></did></c><c id="deb4433e50484b04a634e39d5a9968a5" level="file"><did><unittitle>Reprints - Influence of metallic shields on presumably cosmic radiation affecting surfaces of nickel-plated slides used in immunological studies. Physiological chemistry and physics 11 (1979) 193-204</unittitle><unitdate normal="1979/1979" type="inclusive">1979</unitdate><container altrender="Half Ltr Document Storage Box" id="fce0f1766a943415e65419bf0bd19172" label="mixed materials [A0000000055840]" type="box">1</container><container id="9aeb3a4d120a1a1350ebb5e0e28d19c5" parent="fce0f1766a943415e65419bf0bd19172" type="folder">2</container></did></c><c id="354a867ed7d04cafa905c7705aba14ca" level="item"><did><unittitle>MS: Alexandre Rothen, "An Exact Twenty-Four Hour Periodicity in the Superficial Topography of Nickel Plated Glass Slides Presumably Caused by a Solar Radiation of Great Penetration"</unittitle><unitdate normal="1973/1993" type="inclusive">circa 1983</unitdate><container id="e2e110b9779f157711bee047834797be" label="mixed materials" type="box">1</container><container id="0add66b8e2ae0273987182aceafacb6b" parent="e2e110b9779f157711bee047834797be" type="folder">3</container></did><scopecontent id="8477a558bc36647656304bf61fdfaef8"><head>Scope and Contents note</head><p>With handwritten letter to Mrs. [Sonya W.] Mirsky, 15 July 1983.</p></scopecontent></c><c id="2d9265182a4e480f8d8f36426942abc5" level="file"><did><unittitle>Faculty and Personal Files</unittitle><unitdate normal="1928/1987" type="inclusive">1928-1987</unitdate><container altrender="Half Ltr Document Storage Box" id="dbe5e3cfa19d2f9934bf903cc47440d7" label="mixed materials [A0000000055841]" type="box">2</container><container id="59e07ced09c6e988cf7655fcc6644ee6" parent="dbe5e3cfa19d2f9934bf903cc47440d7" type="folder">1</container></did></c><c id="c28305d21cca44928c90b2dfe396028f" level="file"><did><unittitle>Faculty and Personal Files</unittitle><unitdate normal="1928/1987" type="inclusive">1928-1987</unitdate><container altrender="Half Ltr Document Storage Box" id="ffdaa3a778b9273fb7d33923b4c2a113" label="mixed materials [A0000000055841]" type="box">2</container><container id="553ae43581a6cead53e22fe870a76b31" parent="ffdaa3a778b9273fb7d33923b4c2a113" type="folder">2</container></did></c><c id="40e3847ad216412bb3306133291953d0" level="file"><did><unittitle>Photographs</unittitle><unitdate normal="1929/1970" type="inclusive">1929, 1958, 1966, 1949, 1970</unitdate><physdesc id="143307054c042c22061c937f8ccd47cc">5 items</physdesc><container altrender="Half Ltr Document Storage Box" id="b132ff1a9554f23f0691d3bb42eebbdd" label="mixed materials [A0000000055841]" type="box">2</container></did><scopecontent id="be03223005f14d0a12666e7162407e15"><head>Scope and Contents</head><p>Emeritus (1970?)</p></scopecontent></c><c id="6c38f0f32e8a453c88f99eb12684f036" level="file"><did><unittitle>Figures, graphs, and tables</unittitle><physdesc id="2ff813cc84ff64092de166087b277098">Oversize</physdesc></did><separatedmaterial id="eabcd0b2592b1e5ec8954bfd7e95efc4"><head>Separated Materials</head><p>Relocated to map case</p></separatedmaterial><accessrestrict id="b651c416fee6dd4f18b40e3928afe8c4"><head>Conditions Governing Access</head><p>Due to the oversize nature and potentially brittle condition of the contents of this collection, special arrangements may be required in order to view materials. Individual items may be restricted due to preservation concerns.</p></accessrestrict></c><c id="0d08f0490db743859fff13aeacb305cf" level="file"><did><unittitle>Collected Reprints</unittitle><physdesc id="dd7ff34442aa1ac6f29272394692e587">2 volumes</physdesc></did><separatedmaterial id="dfb25df4b2a48625bac08155d3ebb377"><head>Separated Materials</head><p>Relocated to RAC library 8/9/88</p></separatedmaterial></c></dsc>
+</archdesc>
 </ead>
