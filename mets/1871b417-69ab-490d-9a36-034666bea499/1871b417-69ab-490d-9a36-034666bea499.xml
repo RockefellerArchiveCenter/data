@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <mets xmlns="http://www.loc.gov/METS/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/mets/mets.xsd">
-  <metsHdr CREATEDATE="2019-07-30 00:56:06 -0400">
+  <metsHdr CREATEDATE="2019-07-31 00:32:08 -0400">
     <agent ROLE="CREATOR" TYPE="ORGANIZATION">
       <name>Rockefeller Archive Center</name>
       <note>http://www.rockarch.org</note>
@@ -33,13 +33,13 @@
     </mdWrap>
   </dmdSec>
   <amdSec>
-    <techMD ID="7965">
+    <techMD ID="7979">
       <mdWrap MDTYPE="PREMIS:OBJECT">
         <xmlData>
           <object version="2.2" xmlns="info:lc/xmlns/premis-v2" xsi:schemaLocation="info:lc/xmlns/premis-v2 http://www.loc.gov/standards/premis/v2/premis-v2-2.xsd" xsi:type="file">
             <objectIdentifier>
               <objectIdentifierType>ArchivesSpace identifier</objectIdentifierType>
-              <objectIdentifierValue>7965</objectIdentifierValue>
+              <objectIdentifierValue>7979</objectIdentifierValue>
             </objectIdentifier>
             <objectCharacteristics>
               <fixity>
@@ -49,7 +49,7 @@
               <size>21712787</size>
               <format>
                 <formatDesignation>
-                  <formatName/>
+                  <formatName>pdf</formatName>
                   <formatVersion>Acrobat PDF </formatVersion>
                 </formatDesignation>
               </format>
@@ -61,19 +61,19 @@
   </amdSec>
   <fileSec>
     <fileGrp USE="">
-      <file AMDID="7965" GROUPID="2863" ID="7965">
+      <file AMDID="7979" GROUPID="2863" ID="7979">
         <FLocat xlink:href="https://storage.rockarch.org/1871b417-69ab-490d-9a36-034666bea499-3b100faad7be4e4fab8589be36d24fd4.pdf"/>
       </file>
     </fileGrp>
   </fileSec>
   <structMap TYPE="logical">
     <div DMDID="2863" LABEL="3b100faad7be4e4fab8589be36d24fd4.pdf" ORDER="1" TYPE="item">
-      <fptr FILEID="7965"/>
+      <fptr FILEID="7979"/>
     </div>
   </structMap>
   <structMap TYPE="physical">
     <div DMDID="2863" LABEL="3b100faad7be4e4fab8589be36d24fd4.pdf" ORDER="1" TYPE="item">
-      <fptr FILEID="7965"/>
+      <fptr FILEID="7979"/>
     </div>
   </structMap>
 </mets>
