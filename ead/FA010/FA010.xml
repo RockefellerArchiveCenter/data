@@ -1,69 +1,33 @@
-<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
-  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="under_revision" langencoding="iso639-2b" repositoryencoding="iso15511">
-    <eadid>FA010.xml</eadid>
-    <filedesc>
-      <titlestmt>
-        <titleproper type="filing">Brown (Wade H.) papers</titleproper>
-        <titleproper>A Guide to the Wade H. Brown papers, Rockefeller Institute for Medical Research Scientific Staff
- <num>FA010</num></titleproper>
-        <author>Carolyn Kopp</author>
-      </titlestmt>
-      <publicationstmt>
-        <publisher>Rockefeller Archive Center</publisher>
-        <p>
-          <date>11/07/1985</date>
-        </p>
-        <address>
-          <addressline>15 Dayton Avenue</addressline>
-          <addressline>Sleepy Hollow 10591</addressline>
-          <addressline>archive@rockarch.org</addressline>
-          <addressline>URL: <extptr xlink:href="http://www.rockarch.org" xlink:show="new" xlink:title="http://www.rockarch.org" xlink:type="simple"/></addressline>
-        </address>
-      </publicationstmt>
-    </filedesc>
-    <profiledesc>
-      <creation>This finding aid was produced using ArchivesSpace on <date>2018-11-02 00:02:33 -0400</date>.</creation>
-      <langusage>English</langusage>
-    </profiledesc>
-    <revisiondesc>
-      <change>
-        <date>4/8/2009</date>
-        <item>Migrated from Re:discovery to AT by Marisa Hudspeth</item>
-      </change>
-    </revisiondesc>
-  </eadheader>
-  <archdesc level="collection">
-    <did>
-      <langmaterial>
-        <language langcode="eng">English</language>
-      </langmaterial>
-      <repository>
-        <corpname>Rockefeller Archive Center</corpname>
-      </repository>
-      <unittitle>Wade H. Brown papers, Rockefeller Institute for Medical Research Scientific Staff</unittitle>
-      <origination label="creator">
-        <persname role="aut" source="naf">Brown, Wade H.</persname>
-      </origination>
-      <unitid>FA010</unitid>
-      <physdesc altrender="whole">
-        <extent altrender="materialtype spaceoccupied">0.88 Cubic Feet</extent>
-        <extent altrender="carrier">2 document cases</extent>
-      </physdesc>
-      <unitdate normal="1911/1942" type="inclusive">1911-1942</unitdate>
-    </did>
-    <fileplan id="10edae5b05fa763c533e35c5f4920cb4">
-      <head>File Plan</head>
-      <p>Former Classification: I 450 B815</p>
-    </fileplan>
-    <scopecontent id="9e775777e391a24be6ade25034309999">
-      <head>Scope and Contents</head>
-      <p>Bibliography, biographical material, correspondence, manuscripts, photographs, reprints.  Includes material about the development of the drug Tryparsamide for chemotherapy of African sleeping sickness and syphilis.  Correspondents include John Auer (1926) and Arthur S. Loevenhart (1914-1926).</p>
-    </scopecontent>
-    <bioghist id="81165718a44c6ed6f5f1d815eb0e9356">
-      <head>Biographical / Historical</head>
-      <p>Wade Hampton Brown (1878-1942) was a research physician in pathology at The Rockefeller Institute for Medical Research, 1913-1942.  He specialized in the study of the biology of syphilitic infections.  His work in experimental chemotherapy of various trypanosomal and spirochetal infections affecting man and certain domestic animals resulted in the arsenical compound tryparsamide for the treatment of African sleeping sickness and in the therapy of general paresis.  This was followed by a long series of studies on constitutional factors and physical environment in relation to disease, the inheritance of disease types and various genetic concepts.</p>
-      <p>Many of his publications were co-authored with Louise Pearce.</p>
-      <p>Member of:
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="under_revision" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid>FA010.xml</eadid><filedesc><titlestmt><titleproper type="filing">Brown (Wade H.) papers</titleproper><titleproper>A Guide to the Wade H. Brown papers, Rockefeller Institute for Medical Research Scientific Staff
+ <num>FA010</num></titleproper><author>Carolyn Kopp</author></titlestmt><publicationstmt><publisher>Rockefeller Archive Center</publisher><p><date>11/07/1985</date></p><address><addressline>15 Dayton Avenue</addressline><addressline>Sleepy Hollow 10591</addressline><addressline>archive@rockarch.org</addressline><addressline>URL: <extptr xlink:href="http://www.rockarch.org" xlink:show="new" xlink:title="http://www.rockarch.org" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2019-08-02 00:16:22 -0400</date>.</creation><langusage>English</langusage></profiledesc><revisiondesc><change><date>4/8/2009</date><item>Migrated from Re:discovery to AT by Marisa Hudspeth</item></change></revisiondesc></eadheader><archdesc level="collection">
+  <did>
+    <langmaterial>
+      <language langcode="eng">English</language>
+    </langmaterial>
+    <repository>
+      <corpname>Rockefeller Archive Center</corpname>
+    </repository>
+    <unittitle>Wade H. Brown papers, Rockefeller Institute for Medical Research Scientific Staff</unittitle>
+    <origination label="creator">
+      <persname role="aut" source="naf">Brown, Wade H.</persname>
+    </origination>
+    <unitid>FA010</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">0.57 Cubic Feet</extent>
+      <extent altrender="carrier">2 document cases</extent>
+    </physdesc>
+    <unitdate normal="1911/1942" type="inclusive">1911-1942</unitdate>
+  </did>
+  <fileplan id="10edae5b05fa763c533e35c5f4920cb4">
+    <head>File Plan</head>
+<p>Former Classification: I 450 B815</p>  </fileplan>
+  <scopecontent id="9e775777e391a24be6ade25034309999">
+    <head>Scope and Contents</head>
+<p>Bibliography, biographical material, correspondence, manuscripts, photographs, reprints.  Includes material about the development of the drug Tryparsamide for chemotherapy of African sleeping sickness and syphilis.  Correspondents include John Auer (1926) and Arthur S. Loevenhart (1914-1926).</p>  </scopecontent>
+  <bioghist id="81165718a44c6ed6f5f1d815eb0e9356">
+    <head>Biographical / Historical</head>
+<p>Wade Hampton Brown (1878-1942) was a research physician in pathology at The Rockefeller Institute for Medical Research, 1913-1942.  He specialized in the study of the biology of syphilitic infections.  His work in experimental chemotherapy of various trypanosomal and spirochetal infections affecting man and certain domestic animals resulted in the arsenical compound tryparsamide for the treatment of African sleeping sickness and in the therapy of general paresis.  This was followed by a long series of studies on constitutional factors and physical environment in relation to disease, the inheritance of disease types and various genetic concepts.</p><p>Many of his publications were co-authored with Louise Pearce.</p><p>Member of:
 Association of American Physicians
 American Society of Pathologists and Bacteriologists
 American Society for Experimental Pathology
@@ -71,335 +35,106 @@ American Society for Pharm. and Experimental Therapeutics
 Society for Experimental Biology and Medicine
 A.A.A.S.
 Sigma Xi
-Nu Sigma Nu</p>
-      <chronlist>
-        <head>Chronology</head>
-        <chronitem>
-          <date>1878</date>
-          <eventgrp>
-            <event>Born October 18, Sparta, Georgia</event>
-          </eventgrp>
-        </chronitem>
-        <chronitem>
-          <date>1899</date>
-          <eventgrp>
-            <event>B.S., University of Nashville</event>
-          </eventgrp>
-        </chronitem>
-        <chronitem>
-          <date>1902-1903</date>
-          <eventgrp>
-            <event>Graduate student at the University of Chicago</event>
-          </eventgrp>
-        </chronitem>
-        <chronitem>
-          <date>1907</date>
-          <eventgrp>
-            <event>M.D., Johns Hopkins University</event>
-          </eventgrp>
-        </chronitem>
-        <chronitem>
-          <date>1907-1908</date>
-          <eventgrp>
-            <event>Instructor in pathology, University of Virginia</event>
-          </eventgrp>
-        </chronitem>
-        <chronitem>
-          <date>1908-1910</date>
-          <eventgrp>
-            <event>Instructor in pathology, University of Wisconsin</event>
-          </eventgrp>
-        </chronitem>
-        <chronitem>
-          <date>1910-1911</date>
-          <eventgrp>
-            <event>Assistant professor in pathology, University of Wisconsin</event>
-          </eventgrp>
-        </chronitem>
-        <chronitem>
-          <date>1911-1913</date>
-          <eventgrp>
-            <event>Professor in pathology, University of North Carolina</event>
-          </eventgrp>
-        </chronitem>
-        <chronitem>
-          <date>1913-1914</date>
-          <eventgrp>
-            <event>Associate in Pathology and Bacteriology, Rockefeller Institute for Medical Research(RIMR), New York, NY</event>
-          </eventgrp>
-        </chronitem>
-        <chronitem>
-          <date>1914-1922</date>
-          <eventgrp>
-            <event>Associate Member, RIMR</event>
-          </eventgrp>
-        </chronitem>
-        <chronitem>
-          <date>1922-1942</date>
-          <eventgrp>
-            <event>Member, RIMR (1935 transferred to Princeton Laboratories)</event>
-          </eventgrp>
-        </chronitem>
-        <chronitem>
-          <date>1942</date>
-          <eventgrp>
-            <event>Died August 4, Rice Lake, Wisconsin</event>
-          </eventgrp>
-        </chronitem>
-      </chronlist>
-    </bioghist>
-    <acqinfo id="8edc2f16b4e2c55b755e2e21095c16f3">
-      <head>Immediate Source of Acquisition</head>
-      <p>Gift of The Rockefeller University administration.  Received September 1974.</p>
-    </acqinfo>
-    <custodhist id="a1dd6a0325eab0d5e9d128513dcbbc44">
-      <head>Custodial History</head>
-      <p>The papers in Box 2 were found with various patent related documents that had been stored in the Welch Hall-Rockefeller University archives vault. Dr. Brown is the principal correspondent, and the papers have been arranged as part of his Institute file.</p>
-    </custodhist>
-    <processinfo id="83a9a6a9b0df7b34aefebdcaaf78a802">
-      <head>Processing Information</head>
-      <p>Processed by Carolyn Kopp, November 7, 1985.</p>
-    </processinfo>
-    <accessrestrict id="c28ec4b9f4d6cee92bed79bb51510162">
-      <head>Conditions Governing Access</head>
-      <p>Access to this collection is restricted pending permission from Rockefeller University.</p>
-    </accessrestrict>
-    <userestrict id="e0f4b7543c0dd60aa77c9dff04a71b2d">
-      <head>Conditions Governing Use</head>
-      <p>RAC users must abide by all applicable provisions of United States copyright law. Reproduction/duplication of archival items is routinely provided in accordance with "fair use". If the RAC does not hold copyright for an archival collection, or items within a collection, it is the users' responsibility to contact the copyright holder, or make a fair effort to do so, prior to publication.</p>
-    </userestrict>
-    <prefercite id="2129c2b907c2361bb8eb6185e3b47717">
-      <head>Preferred Citation</head>
-      <p>Information regarding the Rockefeller Archive Center's preferred elements and forms of citation can be found at <extref href="http://www.rockarch.org/research/citations.php">http://www.rockarch.org/research/citations.php</extref></p>
-    </prefercite>
-    <relatedmaterial id="1b9137793ffd217df6871e4d1dee2d5a">
-      <head>Related Materials</head>
-      <p>Official patent correspondence has been arranged with FA137 Rockefeller University records, Business Manager, Subject Files (Series 7)</p>
-    </relatedmaterial>
-    <arrangement id="be4463f3e4d10b3c16fb3f80e588e024">
-      <head>Arrangement</head>
-      <p>As received.</p>
-    </arrangement>
-    <dsc>
-      <c id="d11da5777ab44971b2a863b831c532d4" level="file">
-        <did>
-          <unittitle>Biographical material, photographs, memorial minute, bibliography, reports on development of scientific work</unittitle>
-          <container altrender="Half Ltr Document Storage Box" id="00edbc3bc45b8b8781d40557d99435d6" label="mixed materials [A0000000035750]" type="box">1</container>
-          <container id="f01232d190f4a59ed1639d63f16adabd" parent="00edbc3bc45b8b8781d40557d99435d6" type="folder">1</container>
-        </did>
-      </c>
-      <c id="a0c054ca2d4e42239d5cae13886c965e" level="file">
-        <did>
-          <unittitle>Report of death, telegrams, posthumous letters, committee for completing work on constitution</unittitle>
-          <container altrender="Half Ltr Document Storage Box" id="2028a8ac64e4e5d7ddd1a17ea10443cb" label="mixed materials [A0000000035750]" type="box">1</container>
-          <container id="04e904e56f8048b4dcb490435d0ba405" parent="2028a8ac64e4e5d7ddd1a17ea10443cb" type="folder">2</container>
-        </did>
-      </c>
-      <c id="e9868172aa254e94ada0a4e646521e24" level="file">
-        <did>
-          <unittitle>Administrative correspondence</unittitle>
-          <unitdate normal="1911/1929" type="inclusive">1911-1929</unitdate>
-          <container altrender="Half Ltr Document Storage Box" id="abe96e57a7138c26ffa559336e7c9a05" label="mixed materials [A0000000035750]" type="box">1</container>
-          <container id="248092d48bd8119fe643c0476238281f" parent="abe96e57a7138c26ffa559336e7c9a05" type="folder">3</container>
-        </did>
-        <scopecontent id="b1926f2599b696a3f722f3a8a523b2c0">
-          <head>Scope and Contents</head>
-          <p>Includes letters on early grants and on joining Institute staff. 1924 correspondence deals with patents and release of tryparsamide.</p>
-        </scopecontent>
-      </c>
-      <c id="d6508633f4094599934e0a6faa76251a" level="file">
-        <did>
-          <unittitle>Administrative correspondence</unittitle>
-          <unitdate normal="1930/1942" type="inclusive">1930-1942</unitdate>
-          <container altrender="Half Ltr Document Storage Box" id="f99c30c0354880b8b4df24583ea4ccfd" label="mixed materials [A0000000035750]" type="box">1</container>
-          <container id="2c3531b758e4b05c924f4f3d311a085e" parent="f99c30c0354880b8b4df24583ea4ccfd" type="folder">4</container>
-        </did>
-        <scopecontent id="8c80bcb6cc85cb86bae8981eee3721fd">
-          <head>Scope and Contents</head>
-          <p>Correspondence with Simon Flexner and Waldo Flinn dealing largely with breeding problems and costs of rabbit colonies for constitution studies. Includes study of epidemic in rabbit colony and includes details of arrangements made to move Dr. Brown's laboratory to the Department of Animal Pathology at Princeton.</p>
-        </scopecontent>
-      </c>
-      <c id="ab2579c06dc2453aa30be31632662b4f" level="file">
-        <did>
-          <unittitle>Collected Reprints</unittitle>
-          <physdesc id="fa9453cdf2b73f7d52be61e324a4e1df">4 volumes</physdesc>
-          <physdesc id="38e77d4ffaa2b49f97ab2cd0e2dea831">4 volumes</physdesc>
-        </did>
-        <processinfo id="5032b1b3cad63778eb5286614205982d">
-          <head>Processing Information</head>
-          <p>Removed to RAC Library, August 9, 1988.</p>
-        </processinfo>
-      </c>
-      <c id="e987a33583a84271ba852648f8608c5d" level="file">
-        <did>
-          <unittitle>re: Tryparsamide work - Loevenhart, Arthur S. Correspondence</unittitle>
-          <unitdate normal="1914/1914" type="inclusive">1914</unitdate>
-          <container altrender="Letter Document Storage Box" id="9fef3ebb93b8a521331591b18d12f011" label="mixed materials [A0000000035751]" type="box">2</container>
-          <container id="2a0fb7238b3c5957a0965ae1e0857a57" parent="9fef3ebb93b8a521331591b18d12f011" type="folder">1</container>
-        </did>
-      </c>
-      <c id="54fca39de555429782ea5e2206efe6f4" level="file">
-        <did>
-          <unittitle>re: Tryparsamide work - Loevenhart, Arthur S. Correspondence</unittitle>
-          <unitdate normal="1919/1919" type="inclusive">1919</unitdate>
-          <container altrender="Letter Document Storage Box" id="086925f9bee4d48e0f4ea378b7fd8f5e" label="mixed materials [A0000000035751]" type="box">2</container>
-          <container id="107878d605d1818700564f0f9e8cbe76" parent="086925f9bee4d48e0f4ea378b7fd8f5e" type="folder">2</container>
-        </did>
-      </c>
-      <c id="20d956074a87474db63944688959fe47" level="file">
-        <did>
-          <unittitle>re: Tryparsamide work - Loevenhart, Arthur S. Correspondence</unittitle>
-          <unitdate normal="1920/1920" type="inclusive">1920</unitdate>
-          <container altrender="Letter Document Storage Box" id="9376f3521d499dbe8e7c48f61f181c07" label="mixed materials [A0000000035751]" type="box">2</container>
-          <container id="9ee9f76bf2527a7605d56a20df3d109a" parent="9376f3521d499dbe8e7c48f61f181c07" type="folder">3</container>
-        </did>
-      </c>
-      <c id="efd25b32fc2142a087ce4cd5ee795c58" level="file">
-        <did>
-          <unittitle>re: Tryparsamide work - Loevenhart, Arthur S. Correspondence</unittitle>
-          <unitdate normal="1921/1921" type="inclusive">1921</unitdate>
-          <container altrender="Letter Document Storage Box" id="5eb960560fe21d4524b45517aadb927c" label="mixed materials [A0000000035751]" type="box">2</container>
-          <container id="0a388feb4b215c6dd3e40153c1128942" parent="5eb960560fe21d4524b45517aadb927c" type="folder">4</container>
-        </did>
-      </c>
-      <c id="635604f4efc948568862f5f58a4c9f0b" level="file">
-        <did>
-          <unittitle>re: Tryparsamide work - Loevenhart, Arthur S. Correspondence</unittitle>
-          <unitdate normal="1922/1922" type="inclusive">1922</unitdate>
-          <container altrender="Letter Document Storage Box" id="f659adb740e4492606047103a753c0ff" label="mixed materials [A0000000035751]" type="box">2</container>
-          <container id="bbf83611f05a03ee0a11a7abfd6bfd6e" parent="f659adb740e4492606047103a753c0ff" type="folder">5</container>
-        </did>
-      </c>
-      <c id="cd74dee88c974768b67c5eb6855601c0" level="file">
-        <did>
-          <unittitle>re: Tryparsamide work - Loevenhart, Arthur S. Correspondence</unittitle>
-          <unitdate normal="1923/1923" type="inclusive">1923 January-June</unitdate>
-          <container altrender="Letter Document Storage Box" id="a67bad8599d5762617aa4530d09607d8" label="mixed materials [A0000000035751]" type="box">2</container>
-          <container id="49b1526ef6f01e027ad37784f7a32d1e" parent="a67bad8599d5762617aa4530d09607d8" type="folder">6</container>
-        </did>
-      </c>
-      <c id="17dfbb660cac48378bc51d6c89ba6520" level="file">
-        <did>
-          <unittitle>re: Tryparsamide work - Loevenhart, Arthur S. Correspondence</unittitle>
-          <unitdate normal="1923/1923" type="inclusive">1923 September-December</unitdate>
-          <container altrender="Letter Document Storage Box" id="3fe5989032120424d500a1ab0bcdf4f0" label="mixed materials [A0000000035751]" type="box">2</container>
-          <container id="2b689c27215d3e0eca59941adb1338bb" parent="3fe5989032120424d500a1ab0bcdf4f0" type="folder">7</container>
-        </did>
-      </c>
-      <c id="b45340706ade4d118a3920c11475eb49" level="file">
-        <did>
-          <unittitle>re: Tryparsamide work - Loevenhart, Arthur S. Correspondence</unittitle>
-          <unitdate normal="1924/1924" type="inclusive">1924 January-February</unitdate>
-          <container altrender="Letter Document Storage Box" id="cbb31d71e060f30b76a976e24aa399f4" label="mixed materials [A0000000035751]" type="box">2</container>
-          <container id="b6dfe9fb7ac8a20b1356818e86a5be91" parent="cbb31d71e060f30b76a976e24aa399f4" type="folder">8</container>
-        </did>
-      </c>
-      <c id="7895b66da8114b1a9b1c99dda41d0806" level="file">
-        <did>
-          <unittitle>re: Tryparsamide work - Loevenhart, Arthur S. Correspondence</unittitle>
-          <unitdate normal="1924/1924" type="inclusive">1924 March</unitdate>
-          <container altrender="Letter Document Storage Box" id="e5f540daebb9cacec54658fa2b3e17c1" label="mixed materials [A0000000035751]" type="box">2</container>
-          <container id="2de0cd1e4b943dd5d6eec6244e7ba178" parent="e5f540daebb9cacec54658fa2b3e17c1" type="folder">9</container>
-        </did>
-      </c>
-      <c id="abbb297776a04a119278a231255974b1" level="file">
-        <did>
-          <unittitle>re: Tryparsamide work - Loevenhart, Arthur S. Correspondence</unittitle>
-          <unitdate normal="1924/1924" type="inclusive">1924 April-December</unitdate>
-          <container altrender="Letter Document Storage Box" id="1e23948707dbb36f2b7326c60fa054bf" label="mixed materials [A0000000035751]" type="box">2</container>
-          <container id="e9accd5b53ff60ffb875bf0f7ebc451c" parent="1e23948707dbb36f2b7326c60fa054bf" type="folder">10</container>
-        </did>
-      </c>
-      <c id="69160fe5e5064b98bc4a2815d5183745" level="file">
-        <did>
-          <unittitle>re: Tryparsamide work - Loevenhart, Arthur S. Correspondence</unittitle>
-          <unitdate normal="1925/1925" type="inclusive">1925</unitdate>
-          <container altrender="Letter Document Storage Box" id="4dc057b29948c0c371b4c34d7e491d76" label="mixed materials [A0000000035751]" type="box">2</container>
-          <container id="b5e7e6a0cee6c23a0cec2b3a8bc57852" parent="4dc057b29948c0c371b4c34d7e491d76" type="folder">11</container>
-        </did>
-      </c>
-      <c id="8ee7c87b7b8a4f83ac33e4bdb11c27dd" level="file">
-        <did>
-          <unittitle>re: Tryparsamide work - Loevenhart, Arthur S. Correspondence</unittitle>
-          <unitdate normal="1926/1926" type="inclusive">1926</unitdate>
-          <container altrender="Letter Document Storage Box" id="6b112585c5e8f25ab1a570eb8a5ca84a" label="mixed materials [A0000000035751]" type="box">2</container>
-          <container id="bf4c009b87f35f2fe90d82a62d0cc1ff" parent="6b112585c5e8f25ab1a570eb8a5ca84a" type="folder">12</container>
-        </did>
-      </c>
-      <c id="5e2674f0a6e04534a167057e902b1f66" level="file">
-        <did>
-          <unittitle>re: Tryparsamide work - A.S. Loevenhart Mss. 16 pp.</unittitle>
-          <container altrender="Letter Document Storage Box" id="ec1c02cf5b69c42b04e2c34c6cb3f5f8" label="mixed materials [A0000000035751]" type="box">2</container>
-          <container id="0a163025420eb61b87913454a3a5aeea" parent="ec1c02cf5b69c42b04e2c34c6cb3f5f8" type="folder">13</container>
-        </did>
-        <scopecontent id="21ce2f957217e8bb39914d10f9cafdb4">
-          <head>Scope and Contents</head>
-          <p>Popular account of work at the University of Wisconsin (by Ruby Black?)</p>
-        </scopecontent>
-      </c>
-      <c id="1f43906a48c541e8a9b1cc979953d3fa" level="file">
-        <did>
-          <unittitle>re: Tryparsamide work - "Statement as to the agreement entered into with Dr. Loevenhart for the Study of Tryparsamide"</unittitle>
-          <unitdate normal="1924/1924" type="inclusive">ca. 1924 January</unitdate>
-          <container altrender="Letter Document Storage Box" id="5cea17ca5f9c61761443eda85f22337e" label="mixed materials [A0000000035751]" type="box">2</container>
-          <container id="94a1096ee68be7b30fd5088c8efb1a78" parent="5cea17ca5f9c61761443eda85f22337e" type="folder">14</container>
-        </did>
-      </c>
-      <c id="b8417cb4191248c387622b0368169a12" level="file">
-        <did>
-          <unittitle>re: Tryparsamide work - re: C. Leake's paper in "Science".</unittitle>
-          <unitdate normal="1925/1925" type="inclusive">1925 Seotember 18</unitdate>
-          <container altrender="Letter Document Storage Box" id="88cca2c6ba0dfa314bf7233dd26c8c3f" label="mixed materials [A0000000035751]" type="box">2</container>
-          <container id="26c6eff97eb1ef60e0855aba003b9516" parent="88cca2c6ba0dfa314bf7233dd26c8c3f" type="folder">15</container>
-        </did>
-      </c>
-      <c id="0fb50a312ae54579a18e40bab5df2352" level="file">
-        <did>
-          <unittitle>re: Tryparsamide work - Copies of unused Mss re: Loevenhart statement in "Science".</unittitle>
-          <container altrender="Letter Document Storage Box" id="a6f8a0d06decf8298e3a98028562c19a" label="mixed materials [A0000000035751]" type="box">2</container>
-          <container id="4a15bc71c1e9b0f41d5f36f53414b490" parent="a6f8a0d06decf8298e3a98028562c19a" type="folder">16</container>
-        </did>
-      </c>
-      <c id="be69607516e24e07bf9c34c7a03e2ce6" level="file">
-        <did>
-          <unittitle>re: Tryparsamide work - "Science" issues 1925 18 September and 25 December</unittitle>
-          <unitdate normal="1925/1925" type="inclusive">1925</unitdate>
-          <container altrender="Letter Document Storage Box" id="23c9a8ce711c34b9db83b9e7c3b6bc12" label="mixed materials [A0000000035751]" type="box">2</container>
-          <container id="f23ab8f656b40beca53ba92a17808363" parent="23c9a8ce711c34b9db83b9e7c3b6bc12" type="folder">17</container>
-        </did>
-        <scopecontent id="f8cc84d0432c58fbe3d7cff44947e4df">
-          <head>Scope and Contents</head>
-          <p>Reprint of W.H. Brown article, 1925 October 16.</p>
-        </scopecontent>
-      </c>
-      <c id="cb4be751785146f3aeda9008524a03f7" level="file">
-        <did>
-          <unittitle>re: Tryparsamide work - Auer, John</unittitle>
-          <unitdate normal="1926/1926" type="inclusive">1926</unitdate>
-          <container altrender="Letter Document Storage Box" id="a6403e78c10746ed7f1ebfa02f6745f3" label="mixed materials [A0000000035751]" type="box">2</container>
-          <container id="a3642e512655b0a8913ebfdeac492050" parent="a6403e78c10746ed7f1ebfa02f6745f3" type="folder">18</container>
-        </did>
-      </c>
-      <c id="8e4e87f234df4a80b8b9b6792ae8f807" level="file">
-        <did>
-          <unittitle>re: Tryparsamide work - Chicago Medical Society Bulletin 8</unittitle>
-          <unitdate normal="1923/1923" type="inclusive">1923 December 15</unitdate>
-          <container altrender="Letter Document Storage Box" id="be86705143e129e90edf783e18930d51" label="mixed materials [A0000000035751]" type="box">2</container>
-          <container id="6320c6fd9137dd068c972c5a41e8f4f7" parent="be86705143e129e90edf783e18930d51" type="folder">19</container>
-        </did>
-      </c>
-      <c id="973414cea0be4bab8778d1ed20fc6a5d" level="file">
-        <did>
-          <unittitle>re: Tryparsamide work - Clipping, The Capitol Times (?), Madison, WI</unittitle>
-          <unitdate normal="1926/1926" type="inclusive">1926 January 5</unitdate>
-          <container altrender="Letter Document Storage Box" id="21139c55edd294c0502053d38557626c" label="mixed materials [A0000000035751]" type="box">2</container>
-          <container id="ac6d025ab44817103ebaef1e4116be4e" parent="21139c55edd294c0502053d38557626c" type="folder">20</container>
-        </did>
-        <scopecontent id="c6142d43d94750ecfd47c5aa9fb400eb">
-          <head>Scope and Contents</head>
-          <p>See radio program schedule on verso.</p>
-        </scopecontent>
-      </c>
-    </dsc>
-  </archdesc>
+Nu Sigma Nu</p>    <chronlist>
+      <head>Chronology</head>
+      <chronitem>
+        <date>1878</date>
+        <eventgrp>
+          <event>Born October 18, Sparta, Georgia</event>
+        </eventgrp>
+      </chronitem>
+      <chronitem>
+        <date>1899</date>
+        <eventgrp>
+          <event>B.S., University of Nashville</event>
+        </eventgrp>
+      </chronitem>
+      <chronitem>
+        <date>1902-1903</date>
+        <eventgrp>
+          <event>Graduate student at the University of Chicago</event>
+        </eventgrp>
+      </chronitem>
+      <chronitem>
+        <date>1907</date>
+        <eventgrp>
+          <event>M.D., Johns Hopkins University</event>
+        </eventgrp>
+      </chronitem>
+      <chronitem>
+        <date>1907-1908</date>
+        <eventgrp>
+          <event>Instructor in pathology, University of Virginia</event>
+        </eventgrp>
+      </chronitem>
+      <chronitem>
+        <date>1908-1910</date>
+        <eventgrp>
+          <event>Instructor in pathology, University of Wisconsin</event>
+        </eventgrp>
+      </chronitem>
+      <chronitem>
+        <date>1910-1911</date>
+        <eventgrp>
+          <event>Assistant professor in pathology, University of Wisconsin</event>
+        </eventgrp>
+      </chronitem>
+      <chronitem>
+        <date>1911-1913</date>
+        <eventgrp>
+          <event>Professor in pathology, University of North Carolina</event>
+        </eventgrp>
+      </chronitem>
+      <chronitem>
+        <date>1913-1914</date>
+        <eventgrp>
+          <event>Associate in Pathology and Bacteriology, Rockefeller Institute for Medical Research(RIMR), New York, NY</event>
+        </eventgrp>
+      </chronitem>
+      <chronitem>
+        <date>1914-1922</date>
+        <eventgrp>
+          <event>Associate Member, RIMR</event>
+        </eventgrp>
+      </chronitem>
+      <chronitem>
+        <date>1922-1942</date>
+        <eventgrp>
+          <event>Member, RIMR (1935 transferred to Princeton Laboratories)</event>
+        </eventgrp>
+      </chronitem>
+      <chronitem>
+        <date>1942</date>
+        <eventgrp>
+          <event>Died August 4, Rice Lake, Wisconsin</event>
+        </eventgrp>
+      </chronitem>
+    </chronlist>
+  </bioghist>
+  <acqinfo id="8edc2f16b4e2c55b755e2e21095c16f3">
+    <head>Immediate Source of Acquisition</head>
+<p>Gift of The Rockefeller University administration.  Received September 1974.</p>  </acqinfo>
+  <custodhist id="a1dd6a0325eab0d5e9d128513dcbbc44">
+    <head>Custodial History</head>
+<p>The papers in Box 2 were found with various patent related documents that had been stored in the Welch Hall-Rockefeller University archives vault. Dr. Brown is the principal correspondent, and the papers have been arranged as part of his Institute file.</p>  </custodhist>
+  <processinfo id="83a9a6a9b0df7b34aefebdcaaf78a802">
+    <head>Processing Information</head>
+<p>Processed by Carolyn Kopp, November 7, 1985.</p>  </processinfo>
+  <accessrestrict id="c28ec4b9f4d6cee92bed79bb51510162">
+    <head>Conditions Governing Access</head>
+<p>Access to this collection is restricted pending permission from Rockefeller University.</p>  </accessrestrict>
+  <userestrict id="e0f4b7543c0dd60aa77c9dff04a71b2d">
+    <head>Conditions Governing Use</head>
+<p>RAC users must abide by all applicable provisions of United States copyright law. Reproduction/duplication of archival items is routinely provided in accordance with "fair use". If the RAC does not hold copyright for an archival collection, or items within a collection, it is the users' responsibility to contact the copyright holder, or make a fair effort to do so, prior to publication.</p>  </userestrict>
+  <prefercite id="2129c2b907c2361bb8eb6185e3b47717">
+    <head>Preferred Citation</head>
+<p>Information regarding the Rockefeller Archive Center's preferred elements and forms of citation can be found at <extref href="http://www.rockarch.org/research/citations.php">http://www.rockarch.org/research/citations.php</extref></p>  </prefercite>
+  <relatedmaterial id="1b9137793ffd217df6871e4d1dee2d5a">
+    <head>Related Materials</head>
+<p>Official patent correspondence has been arranged with FA137 Rockefeller University records, Business Manager, Subject Files (Series 7)</p>  </relatedmaterial>
+  <arrangement id="be4463f3e4d10b3c16fb3f80e588e024">
+    <head>Arrangement</head>
+<p>As received.</p>  </arrangement>
+  <dsc><c id="d11da5777ab44971b2a863b831c532d4" level="file"><did><unittitle>Biographical material, photographs, memorial minute, bibliography, reports on development of scientific work</unittitle><container altrender="Half Ltr Document Storage Box" id="e9afa98b07cc02e86da5690deabd7053" label="mixed materials [A0000000035750]" type="box">1</container><container id="14ce56ea6d92641a363f6a147cdd33e8" parent="e9afa98b07cc02e86da5690deabd7053" type="folder">1</container></did></c><c id="a0c054ca2d4e42239d5cae13886c965e" level="file"><did><unittitle>Report of death, telegrams, posthumous letters, committee for completing work on constitution</unittitle><container altrender="Half Ltr Document Storage Box" id="e9c76e4083ee6265c6f7c4faa3c1d3d6" label="mixed materials [A0000000035750]" type="box">1</container><container id="0d1a5eeaaaf479f72e68fe70b23625ed" parent="e9c76e4083ee6265c6f7c4faa3c1d3d6" type="folder">2</container></did></c><c id="e9868172aa254e94ada0a4e646521e24" level="file"><did><unittitle>Administrative correspondence</unittitle><unitdate normal="1911/1929" type="inclusive">1911-1929</unitdate><container altrender="Half Ltr Document Storage Box" id="f6e43de35ae6693ceb4bab8270734932" label="mixed materials [A0000000035750]" type="box">1</container><container id="940757d9d7f7034c38e67f99338e143f" parent="f6e43de35ae6693ceb4bab8270734932" type="folder">3</container></did><scopecontent id="b1926f2599b696a3f722f3a8a523b2c0"><head>Scope and Contents</head><p>Includes letters on early grants and on joining Institute staff. 1924 correspondence deals with patents and release of tryparsamide.</p></scopecontent></c><c id="d6508633f4094599934e0a6faa76251a" level="file"><did><unittitle>Administrative correspondence</unittitle><unitdate normal="1930/1942" type="inclusive">1930-1942</unitdate><container altrender="Half Ltr Document Storage Box" id="21c7da3a5d16c0547c2bb695a96e3c1c" label="mixed materials [A0000000035750]" type="box">1</container><container id="9e5bbf2586893b6451116ee74db8863b" parent="21c7da3a5d16c0547c2bb695a96e3c1c" type="folder">4</container></did><scopecontent id="8c80bcb6cc85cb86bae8981eee3721fd"><head>Scope and Contents</head><p>Correspondence with Simon Flexner and Waldo Flinn dealing largely with breeding problems and costs of rabbit colonies for constitution studies. Includes study of epidemic in rabbit colony and includes details of arrangements made to move Dr. Brown's laboratory to the Department of Animal Pathology at Princeton.</p></scopecontent></c><c id="ab2579c06dc2453aa30be31632662b4f" level="file"><did><unittitle>Collected Reprints</unittitle><physdesc id="fa9453cdf2b73f7d52be61e324a4e1df">4 volumes</physdesc><physdesc id="38e77d4ffaa2b49f97ab2cd0e2dea831">4 volumes</physdesc></did><processinfo id="5032b1b3cad63778eb5286614205982d"><head>Processing Information</head><p>Removed to RAC Library, August 9, 1988.</p></processinfo></c><c id="e987a33583a84271ba852648f8608c5d" level="file"><did><unittitle>re: Tryparsamide work - Loevenhart, Arthur S. Correspondence</unittitle><unitdate normal="1914/1914" type="inclusive">1914</unitdate><container altrender="Letter Document Storage Box" id="0e084cde17eee8e322c784c4515ff36a" label="mixed materials [A0000000035751]" type="box">2</container><container id="98f7c6ba46b3365689a33b37b25fba32" parent="0e084cde17eee8e322c784c4515ff36a" type="folder">1</container></did></c><c id="54fca39de555429782ea5e2206efe6f4" level="file"><did><unittitle>re: Tryparsamide work - Loevenhart, Arthur S. Correspondence</unittitle><unitdate normal="1919/1919" type="inclusive">1919</unitdate><container altrender="Letter Document Storage Box" id="7675eacb3feaf19c1151f730e996c77f" label="mixed materials [A0000000035751]" type="box">2</container><container id="59644a418904da84db564da66bba0bdc" parent="7675eacb3feaf19c1151f730e996c77f" type="folder">2</container></did></c><c id="20d956074a87474db63944688959fe47" level="file"><did><unittitle>re: Tryparsamide work - Loevenhart, Arthur S. Correspondence</unittitle><unitdate normal="1920/1920" type="inclusive">1920</unitdate><container altrender="Letter Document Storage Box" id="fb9a704b816cbd307061a85847a91770" label="mixed materials [A0000000035751]" type="box">2</container><container id="05deba04041c78afde9f219d70bbc2c8" parent="fb9a704b816cbd307061a85847a91770" type="folder">3</container></did></c><c id="efd25b32fc2142a087ce4cd5ee795c58" level="file"><did><unittitle>re: Tryparsamide work - Loevenhart, Arthur S. Correspondence</unittitle><unitdate normal="1921/1921" type="inclusive">1921</unitdate><container altrender="Letter Document Storage Box" id="20d54ce4adba7b9ec930485b65b3807f" label="mixed materials [A0000000035751]" type="box">2</container><container id="c96fdbdc913ea4c663831ce510c33ba4" parent="20d54ce4adba7b9ec930485b65b3807f" type="folder">4</container></did></c><c id="635604f4efc948568862f5f58a4c9f0b" level="file"><did><unittitle>re: Tryparsamide work - Loevenhart, Arthur S. Correspondence</unittitle><unitdate normal="1922/1922" type="inclusive">1922</unitdate><container altrender="Letter Document Storage Box" id="e2437c72cbda505c211708b9585d8d31" label="mixed materials [A0000000035751]" type="box">2</container><container id="5801a95b9583ed8d3fb1b85b1e9d53dc" parent="e2437c72cbda505c211708b9585d8d31" type="folder">5</container></did></c><c id="cd74dee88c974768b67c5eb6855601c0" level="file"><did><unittitle>re: Tryparsamide work - Loevenhart, Arthur S. Correspondence</unittitle><unitdate normal="1923/1923" type="inclusive">1923 January-June</unitdate><container altrender="Letter Document Storage Box" id="7edd4d27ebd48fb4b4e67e213fbe7a71" label="mixed materials [A0000000035751]" type="box">2</container><container id="693e8ef0d1fa46cabd003266a4b78f9b" parent="7edd4d27ebd48fb4b4e67e213fbe7a71" type="folder">6</container></did></c><c id="17dfbb660cac48378bc51d6c89ba6520" level="file"><did><unittitle>re: Tryparsamide work - Loevenhart, Arthur S. Correspondence</unittitle><unitdate normal="1923/1923" type="inclusive">1923 September-December</unitdate><container altrender="Letter Document Storage Box" id="9884341e81c469cb3356fab61be6de86" label="mixed materials [A0000000035751]" type="box">2</container><container id="63328833268320286018f7f22ec4d532" parent="9884341e81c469cb3356fab61be6de86" type="folder">7</container></did></c><c id="b45340706ade4d118a3920c11475eb49" level="file"><did><unittitle>re: Tryparsamide work - Loevenhart, Arthur S. Correspondence</unittitle><unitdate normal="1924/1924" type="inclusive">1924 January-February</unitdate><container altrender="Letter Document Storage Box" id="4062d115bf606246948fc094298972fb" label="mixed materials [A0000000035751]" type="box">2</container><container id="ab2ece7828046cbe2e8a70bc760a223d" parent="4062d115bf606246948fc094298972fb" type="folder">8</container></did></c><c id="7895b66da8114b1a9b1c99dda41d0806" level="file"><did><unittitle>re: Tryparsamide work - Loevenhart, Arthur S. Correspondence</unittitle><unitdate normal="1924/1924" type="inclusive">1924 March</unitdate><container altrender="Letter Document Storage Box" id="746cf7f5a2b581edc650c497db5cfab9" label="mixed materials [A0000000035751]" type="box">2</container><container id="63b7ae6d65e92d419e62518144ef3beb" parent="746cf7f5a2b581edc650c497db5cfab9" type="folder">9</container></did></c><c id="abbb297776a04a119278a231255974b1" level="file"><did><unittitle>re: Tryparsamide work - Loevenhart, Arthur S. Correspondence</unittitle><unitdate normal="1924/1924" type="inclusive">1924 April-December</unitdate><container altrender="Letter Document Storage Box" id="288516e3a66e79b904f2e4c70acc1291" label="mixed materials [A0000000035751]" type="box">2</container><container id="16cc4b8581c02f45f40bad576edf502e" parent="288516e3a66e79b904f2e4c70acc1291" type="folder">10</container></did></c><c id="69160fe5e5064b98bc4a2815d5183745" level="file"><did><unittitle>re: Tryparsamide work - Loevenhart, Arthur S. Correspondence</unittitle><unitdate normal="1925/1925" type="inclusive">1925</unitdate><container altrender="Letter Document Storage Box" id="fbb0fd88d11afc7d71d235325224a32f" label="mixed materials [A0000000035751]" type="box">2</container><container id="46f38ea0e97dc5476805f1575e320330" parent="fbb0fd88d11afc7d71d235325224a32f" type="folder">11</container></did></c><c id="8ee7c87b7b8a4f83ac33e4bdb11c27dd" level="file"><did><unittitle>re: Tryparsamide work - Loevenhart, Arthur S. Correspondence</unittitle><unitdate normal="1926/1926" type="inclusive">1926</unitdate><container altrender="Letter Document Storage Box" id="2fab4ca0f8c6fe29ce6ac4605abf0b68" label="mixed materials [A0000000035751]" type="box">2</container><container id="20fe97aecf9c29f4927270f67ec92149" parent="2fab4ca0f8c6fe29ce6ac4605abf0b68" type="folder">12</container></did></c><c id="5e2674f0a6e04534a167057e902b1f66" level="file"><did><unittitle>re: Tryparsamide work - A.S. Loevenhart Mss. 16 pp.</unittitle><container altrender="Letter Document Storage Box" id="cf71f2d3c85178dfa26388d1382e711f" label="mixed materials [A0000000035751]" type="box">2</container><container id="dccb644b3e044cc5316f6f793e0e1832" parent="cf71f2d3c85178dfa26388d1382e711f" type="folder">13</container></did><scopecontent id="21ce2f957217e8bb39914d10f9cafdb4"><head>Scope and Contents</head><p>Popular account of work at the University of Wisconsin (by Ruby Black?)</p></scopecontent></c><c id="1f43906a48c541e8a9b1cc979953d3fa" level="file"><did><unittitle>re: Tryparsamide work - "Statement as to the agreement entered into with Dr. Loevenhart for the Study of Tryparsamide"</unittitle><unitdate normal="1924/1924" type="inclusive">ca. 1924 January</unitdate><container altrender="Letter Document Storage Box" id="d339834c38ce5bb7875a3ce55b55c2c8" label="mixed materials [A0000000035751]" type="box">2</container><container id="08dc60eb29ba72d1643592e4e16f324d" parent="d339834c38ce5bb7875a3ce55b55c2c8" type="folder">14</container></did></c><c id="b8417cb4191248c387622b0368169a12" level="file"><did><unittitle>re: Tryparsamide work - re: C. Leake's paper in "Science".</unittitle><unitdate normal="1925/1925" type="inclusive">1925 Seotember 18</unitdate><container altrender="Letter Document Storage Box" id="9fba4a7ed5600deb4bcf7c50ada0f90a" label="mixed materials [A0000000035751]" type="box">2</container><container id="e64a372163afc833b2a473a7dbfc6b60" parent="9fba4a7ed5600deb4bcf7c50ada0f90a" type="folder">15</container></did></c><c id="0fb50a312ae54579a18e40bab5df2352" level="file"><did><unittitle>re: Tryparsamide work - Copies of unused Mss re: Loevenhart statement in "Science".</unittitle><container altrender="Letter Document Storage Box" id="4c89e1517110a767603c61a88c5ba157" label="mixed materials [A0000000035751]" type="box">2</container><container id="0adacac5fe2720c5b7cd2d8657f53dbb" parent="4c89e1517110a767603c61a88c5ba157" type="folder">16</container></did></c><c id="be69607516e24e07bf9c34c7a03e2ce6" level="file"><did><unittitle>re: Tryparsamide work - "Science" issues 1925 18 September and 25 December</unittitle><unitdate normal="1925/1925" type="inclusive">1925</unitdate><container altrender="Letter Document Storage Box" id="dea6a6d06f444d56f0c99527beb66091" label="mixed materials [A0000000035751]" type="box">2</container><container id="6b9827312bfd986090a4a7c2ec97feb0" parent="dea6a6d06f444d56f0c99527beb66091" type="folder">17</container></did><scopecontent id="f8cc84d0432c58fbe3d7cff44947e4df"><head>Scope and Contents</head><p>Reprint of W.H. Brown article, 1925 October 16.</p></scopecontent></c><c id="cb4be751785146f3aeda9008524a03f7" level="file"><did><unittitle>re: Tryparsamide work - Auer, John</unittitle><unitdate normal="1926/1926" type="inclusive">1926</unitdate><container altrender="Letter Document Storage Box" id="76f60afbe9617e4fa23da5da1cb3804e" label="mixed materials [A0000000035751]" type="box">2</container><container id="7f2402cb2955f19a8ada6be155af85b4" parent="76f60afbe9617e4fa23da5da1cb3804e" type="folder">18</container></did></c><c id="8e4e87f234df4a80b8b9b6792ae8f807" level="file"><did><unittitle>re: Tryparsamide work - Chicago Medical Society Bulletin 8</unittitle><unitdate normal="1923/1923" type="inclusive">1923 December 15</unitdate><container altrender="Letter Document Storage Box" id="e924df8a217f17045de1613e613d5014" label="mixed materials [A0000000035751]" type="box">2</container><container id="56ef65a73566d8289888923cfc7688f4" parent="e924df8a217f17045de1613e613d5014" type="folder">19</container></did></c><c id="973414cea0be4bab8778d1ed20fc6a5d" level="file"><did><unittitle>re: Tryparsamide work - Clipping, The Capitol Times (?), Madison, WI</unittitle><unitdate normal="1926/1926" type="inclusive">1926 January 5</unitdate><container altrender="Letter Document Storage Box" id="f60c9b56a421a899386f0d9f70e1c335" label="mixed materials [A0000000035751]" type="box">2</container><container id="3960e169ecca502dd299f4f8de9c3584" parent="f60c9b56a421a899386f0d9f70e1c335" type="folder">20</container></did><scopecontent id="c6142d43d94750ecfd47c5aa9fb400eb"><head>Scope and Contents</head><p>See radio program schedule on verso.</p></scopecontent></c></dsc>
+</archdesc>
 </ead>
