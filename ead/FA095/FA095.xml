@@ -1,221 +1,39 @@
-<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
-  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="in_progress" langencoding="iso639-2b" repositoryencoding="iso15511">
-    <eadid>FA095.xml</eadid>
-    <filedesc>
-      <titlestmt>
-        <titleproper type="filing">Rockefeller Archive Center photographs</titleproper>
-        <titleproper>A Guide to the Rockefeller Archive Center photographs
- <num>FA095</num></titleproper>
-      </titlestmt>
-      <publicationstmt>
-        <publisher>Rockefeller Archive Center</publisher>
-        <p>
-          <date>2009</date>
-        </p>
-        <address>
-          <addressline>15 Dayton Avenue</addressline>
-          <addressline>Sleepy Hollow 10591</addressline>
-          <addressline>archive@rockarch.org</addressline>
-          <addressline>URL: <extptr xlink:href="http://www.rockarch.org" xlink:show="new" xlink:title="http://www.rockarch.org" xlink:type="simple"/></addressline>
-        </address>
-      </publicationstmt>
-    </filedesc>
-    <profiledesc>
-      <creation>This finding aid was produced using ArchivesSpace on <date>2017-03-02 01:53:45 -0500</date>.</creation>
-    </profiledesc>
-  </eadheader>
-  <archdesc level="collection">
-    <did>
-      <langmaterial>
-        <language langcode="eng">English</language>
-      </langmaterial>
-      <repository>
-        <corpname>Rockefeller Archive Center</corpname>
-      </repository>
-      <unittitle>Rockefeller Archive Center photographs</unittitle>
-      <origination label="creator">
-        <corpname role="aut" source="lcnaf">Rockefeller Archive Center</corpname>
-      </origination>
-      <unitid>FA095</unitid>
-      <physdesc altrender="whole">
-        <extent altrender="materialtype spaceoccupied">0.4 Cubic Feet</extent>
-      </physdesc>
-      <unitdate>undated</unitdate>
-    </did>
-    <prefercite id="b584f98e139a8a6e3b84ddc2327bc745">
-      <head>Preferred Citation</head>
-      <p>Information regarding the Rockefeller Archive Center's preferred elements and forms of citation can be found at <extref href="http://www.rockarch.org/research/citations.php">http://www.rockarch.org/research/citations.php</extref></p>
-    </prefercite>
-    <accessrestrict id="6d96191fa588a24471bcdc4a95ad1959">
-      <head>Conditions Governing Access</head>
-      <p>Open for research. Brittle or damaged items are available at the discretion of RAC. Researchers interested in accessing digital media (floppy disks, CDs, DVDs, etc.) or audiovisual material (audio cassettes, VHS, etc.) in this collection must use an access surrogate. The original items may not be accessed because of preservation concerns. To request an access surrogate be made, or if you are unsure if there is an access surrogate, please contact an archivist.</p>
-    </accessrestrict>
-    <appraisal id="c4b7972a25624f67c4d2af21f530c157">
-      <head>Appraisal</head>
-      <p>As received.</p>
-    </appraisal>
-    <scopecontent id="018a0ffdaebbb98b0398a19749cee26f">
-      <head>Scope and Contents</head>
-      <p>This collection is comprised entirely of photographs which document the history of the Rockefeller Archive Center.</p>
-    </scopecontent>
-    <controlaccess>
-      <genreform source="lcsh">Photographs</genreform>
-      <subject source="lcsh">Archives</subject>
-    </controlaccess>
-    <dsc>
-      <c id="61d921f05fba4701a5f83f2fe7c094b1" level="series">
-        <did>
-          <unittitle>Rockefeller Archive Center</unittitle>
-          <unitid>1038</unitid>
-        </did>
-        <c id="070bf12300da4627a42a042889f465da" level="file">
-          <did>
-            <unittitle>Rockefeller Archive Center</unittitle>
-            <container id="91cb7e791bbecda89973ab8d7de72ba4" label="Still Image (A0000000055102)" type="box">14</container>
-            <container id="5660b49ab6a2f2131caa518257df15db" parent="91cb7e791bbecda89973ab8d7de72ba4" type="folder">182</container>
-          </did>
-          <scopecontent id="b77c77c3724937671c325c2e27b9b85f">
-            <head>Scope and Contents note</head>
-            <p>Archives, exteriors, Libraries, Collections, RAC, Staff,</p>
-          </scopecontent>
-        </c>
-        <c id="90707b8a19f841b685ca81077d41be2d" level="file">
-          <did>
-            <unittitle>Archival Projects</unittitle>
-            <container id="de40ab05d3884d4e29b859255ec123e3" label="Still Image (A0000000055102)" type="box">14</container>
-            <container id="2e0a5391e6ac874b633e4911ce9aec3a" parent="de40ab05d3884d4e29b859255ec123e3" type="folder">183</container>
-          </did>
-          <scopecontent id="e78052783b67cc884342552767a4f0d2">
-            <head>Scope and Contents note</head>
-            <p>Documents, conservation, archives</p>
-          </scopecontent>
-        </c>
-        <c id="ca8317beea9a4f939acc86e5df8617f3" level="file">
-          <did>
-            <unittitle>Construction - Negatives by Roll (1-14)</unittitle>
-            <container id="853a2b12789084fdff8cdf19b4f88418" label="Still Image (A0000000055102)" type="box">14</container>
-            <container id="0552b36e79be1a2b1fb01d321d9cd0ab" parent="853a2b12789084fdff8cdf19b4f88418" type="folder">184</container>
-          </did>
-        </c>
-        <c id="620214893eb649fb8e2516a31cd3bd01" level="file">
-          <did>
-            <unittitle>Construction - Architectual Plans</unittitle>
-            <container id="e32e46c929be5ad0ce3ae5ead76588a6" label="Still Image (A0000000055102)" type="box">14</container>
-            <container id="6b5fa0defa66093d5c7cb802e48251e6" parent="e32e46c929be5ad0ce3ae5ead76588a6" type="folder">185</container>
-          </did>
-          <scopecontent id="aaee3675bab10d11b7b286973b939ff8">
-            <head>Scope and Contents note</head>
-            <p>Archives</p>
-          </scopecontent>
-        </c>
-        <c id="4c218086b5844d108e0a06c74d26a973" level="file">
-          <did>
-            <unittitle>Archive Center Construction - July-November 1974</unittitle>
-            <unitdate>1974</unitdate>
-            <container id="78372e45a693d39985040ec3a46e2f7c" label="Still Image (A0000000055102)" type="box">14</container>
-            <container id="a788611b6bf6e342403679de85671746" parent="78372e45a693d39985040ec3a46e2f7c" type="folder">186</container>
-          </did>
-          <scopecontent id="bb6317be24b27efd0dedb00603db068c">
-            <head>Scope and Contents note</head>
-            <p>Archives, Construction, Hillcrest</p>
-          </scopecontent>
-        </c>
-        <c id="bc42029bd5e9463f93b39158037e9ab2" level="file">
-          <did>
-            <unittitle>Archive Center Construction - November 1974-June 1975</unittitle>
-            <container id="0d532f4832e76c08911e979edf978258" label="Still Image (A0000000055102)" type="box">14</container>
-            <container id="925c945fb07cf772cbf13071ff7b22df" parent="0d532f4832e76c08911e979edf978258" type="folder">187</container>
-          </did>
-          <scopecontent id="6c03d53b57a63387e4233ac77592c661">
-            <head>Scope and Contents note</head>
-            <p>Archives, Construction, Hillcrest</p>
-          </scopecontent>
-        </c>
-        <c id="9f2dda0b85fe41d8b0be12145890c4ac" level="file">
-          <did>
-            <unittitle>Archive Center Construction</unittitle>
-            <container id="959486c7c4406552f21d1535fdf6c0b6" label="Still Image (A0000000055102)" type="box">14</container>
-            <container id="b296a22b4da8866508a6a715ce5ffd06" parent="959486c7c4406552f21d1535fdf6c0b6" type="folder">188</container>
-          </did>
-        </c>
-        <c id="0a5306e0b120475cb1c83f34ca6f806f" level="file">
-          <did>
-            <unittitle>Costume Collection</unittitle>
-            <container id="c3792e42a2bba2506df92b9b7bd2a2ba" label="Still Image (A0000000055102)" type="box">14</container>
-            <container id="2f68eca8e62f9aabd3ef729d3d0e9c6e" parent="c3792e42a2bba2506df92b9b7bd2a2ba" type="folder">189</container>
-          </did>
-          <scopecontent id="4858a868ccd0a3a9139a10a2f736fc5d">
-            <head>Scope and Contents note</head>
-            <p>Costumes, Clothing, RAC Collections</p>
-          </scopecontent>
-        </c>
-        <c id="cae2fe5b59a34a1bb638ca3601aab5f5" level="file">
-          <did>
-            <unittitle>Furnishings</unittitle>
-            <container id="ea99ca921a6a834a799ac20708d77f58" label="Still Image (A0000000055102)" type="box">14</container>
-            <container id="7fb9b2ed9d5e4b1056d57d259486d276" parent="ea99ca921a6a834a799ac20708d77f58" type="folder">190</container>
-          </did>
-          <scopecontent id="1820b95f4bfa143f268b0bbbfc7792b6">
-            <head>Scope and Contents note</head>
-            <p>Textiles, furnishings, RAC Collections, Interiors, Decorations, Art, Accessories</p>
-          </scopecontent>
-        </c>
-        <c id="4a0a244ab9f247089d405135b6b32bb4" level="file">
-          <did>
-            <unittitle>Furnishings - Office - JDR Jr</unittitle>
-            <container id="c60f06546a26660534380d22ea2ac6b5" label="Still Image (A0000000055102)" type="box">14</container>
-            <container id="82949afe06309440cc243b6ca0da3726" parent="c60f06546a26660534380d22ea2ac6b5" type="folder">191</container>
-          </did>
-          <scopecontent id="7f361f57ecc19f66a440b930387e8d9f">
-            <head>Scope and Contents note</head>
-            <p>Furniture, Decoration, accessories, Offices</p>
-          </scopecontent>
-        </c>
-        <c id="413a1e03e2354808b3f20213041fd800" level="file">
-          <did>
-            <unittitle>Computers in Small and Medium Archives - Conference</unittitle>
-            <unitdate normal="1987/1987" type="inclusive">1987 December 9</unitdate>
-            <container id="6275a14a23f229abcbe90707f73d8d12" label="Still Image (A0000000055103)" type="box">15</container>
-            <container id="f67129ad955adcfd41a491f23639c2e3" parent="6275a14a23f229abcbe90707f73d8d12" type="folder">192</container>
-          </did>
-          <scopecontent id="6fdff6fa1c5ceb6b8fbdc9bcfb090ca4">
-            <head>Scope and Contents note</head>
-            <p>Conferences, Archives, Meetings, Hillcrest</p>
-          </scopecontent>
-        </c>
-        <c id="6a4b4bda6db94e5fba923d9e8608aa02" level="file">
-          <did>
-            <unittitle>Computers in Small and Medium Archives - Conference</unittitle>
-            <unitdate normal="1987/1987" type="inclusive">1987 December 9</unitdate>
-            <container id="e719ac4a74781e4e489edafd6cc0ff95" label="Still Image (A0000000055103)" type="box">15</container>
-            <container id="8d15f06356fa4c11d7390fd5bd828046" parent="e719ac4a74781e4e489edafd6cc0ff95" type="folder">193</container>
-          </did>
-          <scopecontent id="dfba103df4f65be11081e8e0fdb3ed07">
-            <head>Scope and Contents note</head>
-            <p>Archives, Hillcrest, meetings, conferences,</p>
-          </scopecontent>
-        </c>
-        <c id="3c74716571d140eca5698b9e2afa8b58" level="file">
-          <did>
-            <unittitle>Computers in Small and Medium Archives - Conference - Exhibit - December 9, 1987</unittitle>
-            <unitdate normal="1987/1987" type="inclusive">1987 December 9</unitdate>
-            <container id="fa274571b7cf7e1c6102dc5b23c3d6e9" label="Still Image (A0000000055103)" type="box">15</container>
-            <container id="5fcff24b27dd51ac1d594015dc03af1a" parent="fa274571b7cf7e1c6102dc5b23c3d6e9" type="folder">194</container>
-          </did>
-          <scopecontent id="2e402f1cca3bbeac85939ddac58d6d1c">
-            <head>Scope and Contents note</head>
-            <p>Exhibitions, Archives, Conferences, Meetings</p>
-          </scopecontent>
-        </c>
-        <c id="ea3f9492567046c9963e62916e30b23a" level="file">
-          <did>
-            <unittitle>Staff and Rooms</unittitle>
-            <unitdate normal="1987/1987" type="inclusive">1987 December 10</unitdate>
-            <container id="688aae73765ff25bc8ed7f0f734f64af" label="Still Image (A0000000055103)" type="box">15</container>
-            <container id="cfda7257c159f82f30921ba61db1ba19" parent="688aae73765ff25bc8ed7f0f734f64af" type="folder">195</container>
-          </did>
-        </c>
-      </c>
-    </dsc>
-  </archdesc>
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="in_progress" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid>FA095.xml</eadid><filedesc><titlestmt><titleproper type="filing">Rockefeller Archive Center photographs</titleproper><titleproper>A Guide to the Rockefeller Archive Center photographs
+ <num>FA095</num></titleproper></titlestmt><publicationstmt><publisher>Rockefeller Archive Center</publisher><p><date>2009</date></p><address><addressline>15 Dayton Avenue</addressline><addressline>Sleepy Hollow 10591</addressline><addressline>archive@rockarch.org</addressline><addressline>URL: <extptr xlink:href="http://www.rockarch.org" xlink:show="new" xlink:title="http://www.rockarch.org" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2019-08-04 00:05:04 -0400</date>.</creation></profiledesc></eadheader><archdesc level="collection">
+  <did>
+    <langmaterial>
+      <language langcode="eng">English</language>
+    </langmaterial>
+    <repository>
+      <corpname>Rockefeller Archive Center</corpname>
+    </repository>
+    <unittitle>Rockefeller Archive Center photographs</unittitle>
+    <origination label="creator">
+      <corpname role="aut" source="naf">Rockefeller Archive Center</corpname>
+    </origination>
+    <unitid>FA095</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">0.38 Cubic Feet</extent>
+    </physdesc>
+    <unitdate>undated</unitdate>
+  </did>
+  <prefercite id="b584f98e139a8a6e3b84ddc2327bc745">
+    <head>Preferred Citation</head>
+<p>Information regarding the Rockefeller Archive Center's preferred elements and forms of citation can be found at <extref href="http://www.rockarch.org/research/citations.php">http://www.rockarch.org/research/citations.php</extref></p>  </prefercite>
+  <accessrestrict id="6d96191fa588a24471bcdc4a95ad1959">
+    <head>Conditions Governing Access</head>
+<p>Open for research. Brittle or damaged items are available at the discretion of RAC. Researchers interested in accessing digital media (floppy disks, CDs, DVDs, etc.) or audiovisual material (audio cassettes, VHS, etc.) in this collection must use an access surrogate. The original items may not be accessed because of preservation concerns. To request an access surrogate be made, or if you are unsure if there is an access surrogate, please contact an archivist.</p>  </accessrestrict>
+  <appraisal id="c4b7972a25624f67c4d2af21f530c157">
+    <head>Appraisal</head>
+<p>As received.</p>  </appraisal>
+  <scopecontent id="018a0ffdaebbb98b0398a19749cee26f">
+    <head>Scope and Contents</head>
+<p>This collection is comprised entirely of photographs which document the history of the Rockefeller Archive Center.</p>  </scopecontent>
+  <controlaccess>
+    <genreform source="lcsh">Photographs</genreform>
+    <subject source="lcsh">Archives</subject>
+  </controlaccess>
+  <dsc><c id="61d921f05fba4701a5f83f2fe7c094b1" level="series"><did><unittitle>Rockefeller Archive Center</unittitle><unitid>1038</unitid></did><c id="070bf12300da4627a42a042889f465da" level="file"><did><unittitle>Rockefeller Archive Center</unittitle><container altrender="Letter Document Storage Box" id="16af7c09e5adfe8536ee0f5e66ee6364" label="Still Image [A0000000055102]" type="box">14</container><container id="babe6e30fc8611d16590ada620661464" parent="16af7c09e5adfe8536ee0f5e66ee6364" type="folder">182</container></did><scopecontent id="b77c77c3724937671c325c2e27b9b85f"><head>Scope and Contents note</head><p>Archives, exteriors, Libraries, Collections, RAC, Staff,</p></scopecontent></c><c id="90707b8a19f841b685ca81077d41be2d" level="file"><did><unittitle>Archival Projects</unittitle><container altrender="Letter Document Storage Box" id="425d546d16d927d875222100ed0a205a" label="Still Image [A0000000055102]" type="box">14</container><container id="2f47f5cfa70ba1dcac3e0b9d472688bc" parent="425d546d16d927d875222100ed0a205a" type="folder">183</container></did><scopecontent id="e78052783b67cc884342552767a4f0d2"><head>Scope and Contents note</head><p>Documents, conservation, archives</p></scopecontent></c><c id="ca8317beea9a4f939acc86e5df8617f3" level="file"><did><unittitle>Construction - Negatives by Roll (1-14)</unittitle><container altrender="Letter Document Storage Box" id="b1713bd6a9537c28669b538efb574963" label="Still Image [A0000000055102]" type="box">14</container><container id="6501fe4a3de2a3668f5a59ccf6a056e0" parent="b1713bd6a9537c28669b538efb574963" type="folder">184</container></did></c><c id="620214893eb649fb8e2516a31cd3bd01" level="file"><did><unittitle>Construction - Architectual Plans</unittitle><container altrender="Letter Document Storage Box" id="edcad3d48923adf3efa7b093bdc75040" label="Still Image [A0000000055102]" type="box">14</container><container id="bee3b4e819706f3c2e7e4f711c936736" parent="edcad3d48923adf3efa7b093bdc75040" type="folder">185</container></did><scopecontent id="aaee3675bab10d11b7b286973b939ff8"><head>Scope and Contents note</head><p>Archives</p></scopecontent></c><c id="4c218086b5844d108e0a06c74d26a973" level="file"><did><unittitle>Archive Center Construction - July-November 1974</unittitle><unitdate>1974</unitdate><container altrender="Letter Document Storage Box" id="9991c827bdb534f3c73ec4fdf610b6d7" label="Still Image [A0000000055102]" type="box">14</container><container id="54cdbb40d28acec0e7a7a9807f1ac9f9" parent="9991c827bdb534f3c73ec4fdf610b6d7" type="folder">186</container></did><scopecontent id="bb6317be24b27efd0dedb00603db068c"><head>Scope and Contents note</head><p>Archives, Construction, Hillcrest</p></scopecontent></c><c id="bc42029bd5e9463f93b39158037e9ab2" level="file"><did><unittitle>Archive Center Construction - November 1974-June 1975</unittitle><container altrender="Letter Document Storage Box" id="72e70356f724a82944cf4d11327f75b7" label="Still Image [A0000000055102]" type="box">14</container><container id="90cda87ad7dfb4a549b1b84e93d796b9" parent="72e70356f724a82944cf4d11327f75b7" type="folder">187</container></did><scopecontent id="6c03d53b57a63387e4233ac77592c661"><head>Scope and Contents note</head><p>Archives, Construction, Hillcrest</p></scopecontent></c><c id="9f2dda0b85fe41d8b0be12145890c4ac" level="file"><did><unittitle>Archive Center Construction</unittitle><container altrender="Letter Document Storage Box" id="68f380f8e1759579f624bb2b24c6fe44" label="Still Image [A0000000055102]" type="box">14</container><container id="b715818e709e42c5ba1386cd9380b2ee" parent="68f380f8e1759579f624bb2b24c6fe44" type="folder">188</container></did></c><c id="0a5306e0b120475cb1c83f34ca6f806f" level="file"><did><unittitle>Costume Collection</unittitle><container altrender="Letter Document Storage Box" id="044b902081873db917d6fcf6e38f5f5b" label="Still Image [A0000000055102]" type="box">14</container><container id="b1710b090ab86839a30171b03862aa41" parent="044b902081873db917d6fcf6e38f5f5b" type="folder">189</container></did><scopecontent id="4858a868ccd0a3a9139a10a2f736fc5d"><head>Scope and Contents note</head><p>Costumes, Clothing, RAC Collections</p></scopecontent></c><c id="cae2fe5b59a34a1bb638ca3601aab5f5" level="file"><did><unittitle>Furnishings</unittitle><container altrender="Letter Document Storage Box" id="92391fc04aa53d72982631c7e0f897f3" label="Still Image [A0000000055102]" type="box">14</container><container id="2960c42cd0f99d8698e0353864867d3a" parent="92391fc04aa53d72982631c7e0f897f3" type="folder">190</container></did><scopecontent id="1820b95f4bfa143f268b0bbbfc7792b6"><head>Scope and Contents note</head><p>Textiles, furnishings, RAC Collections, Interiors, Decorations, Art, Accessories</p></scopecontent></c><c id="4a0a244ab9f247089d405135b6b32bb4" level="file"><did><unittitle>Furnishings - Office - JDR Jr</unittitle><container altrender="Letter Document Storage Box" id="d7ee24f5b223947ef5abf443d55912fc" label="Still Image [A0000000055102]" type="box">14</container><container id="d8b23dc0f7ddd930a32235e2318e3e6a" parent="d7ee24f5b223947ef5abf443d55912fc" type="folder">191</container></did><scopecontent id="7f361f57ecc19f66a440b930387e8d9f"><head>Scope and Contents note</head><p>Furniture, Decoration, accessories, Offices</p></scopecontent></c><c id="413a1e03e2354808b3f20213041fd800" level="file"><did><unittitle>Computers in Small and Medium Archives - Conference</unittitle><unitdate normal="1987/1987" type="inclusive">1987 December 9</unitdate><container altrender="Letter Document Storage Box" id="83da0360b45c62b2acf1da8f3ee6353b" label="Still Image [A0000000055103]" type="box">15</container><container id="48fddf8cbe59ebac812afe6a04985dd1" parent="83da0360b45c62b2acf1da8f3ee6353b" type="folder">192</container></did><scopecontent id="6fdff6fa1c5ceb6b8fbdc9bcfb090ca4"><head>Scope and Contents note</head><p>Conferences, Archives, Meetings, Hillcrest</p></scopecontent></c><c id="6a4b4bda6db94e5fba923d9e8608aa02" level="file"><did><unittitle>Computers in Small and Medium Archives - Conference</unittitle><unitdate normal="1987/1987" type="inclusive">1987 December 9</unitdate><container altrender="Letter Document Storage Box" id="69c88b6b072f3ab84e393b658c6b0ae6" label="Still Image [A0000000055103]" type="box">15</container><container id="de392f771eb555fc9ef720b08964048e" parent="69c88b6b072f3ab84e393b658c6b0ae6" type="folder">193</container></did><scopecontent id="dfba103df4f65be11081e8e0fdb3ed07"><head>Scope and Contents note</head><p>Archives, Hillcrest, meetings, conferences,</p></scopecontent></c><c id="3c74716571d140eca5698b9e2afa8b58" level="file"><did><unittitle>Computers in Small and Medium Archives - Conference - Exhibit - December 9, 1987</unittitle><unitdate normal="1987/1987" type="inclusive">1987 December 9</unitdate><container altrender="Letter Document Storage Box" id="4e6747cb9fc46fd8831dc9c04a0a4de2" label="Still Image [A0000000055103]" type="box">15</container><container id="a4c8e862abcdb7bdaf35db0b4ad489af" parent="4e6747cb9fc46fd8831dc9c04a0a4de2" type="folder">194</container></did><scopecontent id="2e402f1cca3bbeac85939ddac58d6d1c"><head>Scope and Contents note</head><p>Exhibitions, Archives, Conferences, Meetings</p></scopecontent></c><c id="ea3f9492567046c9963e62916e30b23a" level="file"><did><unittitle>Staff and Rooms</unittitle><unitdate normal="1987/1987" type="inclusive">1987 December 10</unitdate><container altrender="Letter Document Storage Box" id="7baa5d9273408ed8592edafac7f0b7b7" label="Still Image [A0000000055103]" type="box">15</container><container id="b66dfab5ad88f54d352be9e59b3fb563" parent="7baa5d9273408ed8592edafac7f0b7b7" type="folder">195</container></did></c></c></dsc>
+</archdesc>
 </ead>
