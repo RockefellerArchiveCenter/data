@@ -1,390 +1,180 @@
-<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
-  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="under_revision" langencoding="iso639-2b" repositoryencoding="iso15511">
-    <eadid>FA186.xml</eadid>
-    <filedesc>
-      <titlestmt>
-        <titleproper type="filing">Osterhout (Winthrop J.V.) papers</titleproper>
-        <titleproper>A Guide to the Winthrop J.V. Osterhout papers, Rockefeller University Faculty
- <num>FA186</num></titleproper>
-      </titlestmt>
-      <publicationstmt>
-        <publisher>Rockefeller Archive Center</publisher>
-        <address>
-          <addressline>15 Dayton Avenue</addressline>
-          <addressline>Sleepy Hollow 10591</addressline>
-          <addressline>archive@rockarch.org</addressline>
-          <addressline>URL: <extptr xlink:href="http://www.rockarch.org" xlink:show="new" xlink:title="http://www.rockarch.org" xlink:type="simple"/></addressline>
-        </address>
-      </publicationstmt>
-    </filedesc>
-    <profiledesc>
-      <creation>This finding aid was produced using ArchivesSpace on <date>2019-02-20 00:20:49 -0500</date>.</creation>
-    </profiledesc>
-    <revisiondesc>
-      <change>
-        <date>2010 September 23</date>
-        <item>Paper finding aid converted to EAD/XML by AureXus in 2010. Imported into the Archvists’ Toolkit by Becky Robbins.</item>
-      </change>
-    </revisiondesc>
-  </eadheader>
-  <archdesc level="collection">
-    <did>
-      <langmaterial>
-        <language langcode="eng">English</language>
-      </langmaterial>
-      <repository>
-        <corpname>Rockefeller Archive Center</corpname>
-      </repository>
-      <unittitle>Winthrop J. V. Osterhout papers, Rockefeller University Faculty</unittitle>
-      <origination label="creator">
-        <persname role="aut" source="naf">Osterhout, W. J. V. (Winthrop John Van Leuven)</persname>
-      </origination>
-      <unitid>FA186</unitid>
-      <physdesc altrender="whole">
-        <extent altrender="materialtype spaceoccupied">1.32 Cubic Feet</extent>
-        <extent altrender="carrier">3 boxes and 5 volumes.</extent>
-      </physdesc>
-      <unitdate>undated</unitdate>
-    </did>
-    <bioghist id="084299f96f867665bb7e6d58862d1405">
-      <head>Biographical/Historical note</head>
-      <p>Winthrop John Vanleuven Osterhout, physiologist, succeeded Jacques Loeb as head of the Division of General Physiology at The Rockefeller Institute for Medical Research in 1925. His influence upon students, colleagues, and the biological audience in general was exerted toward quantitative data and mathematical analysis of biological processes. He was an editor of The Journal of General Physiology for 45 years, beginning with its founding in 1919.</p>
-      <chronlist>
-        <head>Biographical note</head>
-        <chronitem>
-          <date>1871 </date>
-          <eventgrp>
-            <event>Born August 2, Brooklyn, New York</event>
-          </eventgrp>
-        </chronitem>
-        <chronitem>
-          <date>1893 </date>
-          <eventgrp>
-            <event>A.B. Brown University</event>
-          </eventgrp>
-        </chronitem>
-        <chronitem>
-          <date>1894 </date>
-          <eventgrp>
-            <event>A.M. Brown University</event>
-          </eventgrp>
-        </chronitem>
-        <chronitem>
-          <date>1893-1895 </date>
-          <eventgrp>
-            <event>Instructor in Botany; Brown University</event>
-          </eventgrp>
-        </chronitem>
-        <chronitem>
-          <date>1894-1895 </date>
-          <eventgrp>
-            <event>Wood's Hole, Massachusetts</event>
-          </eventgrp>
-        </chronitem>
-        <chronitem>
-          <date>1895-1896 </date>
-          <eventgrp>
-            <event>University of Bonn (student with Eduard Strasburger)</event>
-          </eventgrp>
-        </chronitem>
-        <chronitem>
-          <date>1896-1901 </date>
-          <eventgrp>
-            <event>Instructor in Botany; University of California</event>
-          </eventgrp>
-        </chronitem>
-        <chronitem>
-          <date>1899 </date>
-          <eventgrp>
-            <event>Ph. D. University of California</event>
-          </eventgrp>
-        </chronitem>
-        <chronitem>
-          <date>1901-1908 </date>
-          <eventgrp>
-            <event>Assistant Professor University of California</event>
-          </eventgrp>
-        </chronitem>
-        <chronitem>
-          <date>1908-1909 </date>
-          <eventgrp>
-            <event>Associate Professor University of California</event>
-          </eventgrp>
-        </chronitem>
-        <chronitem>
-          <date>1909-1913 </date>
-          <eventgrp>
-            <event>Assistant Professor Harvard University</event>
-          </eventgrp>
-        </chronitem>
-        <chronitem>
-          <date>1913-1925 </date>
-          <eventgrp>
-            <event>Professor Harvard University</event>
-          </eventgrp>
-        </chronitem>
-        <chronitem>
-          <date>1920-1926 </date>
-          <eventgrp>
-            <event>Member Board of Scientific Directors Rockefeller Institute</event>
-          </eventgrp>
-        </chronitem>
-        <chronitem>
-          <date>1925 </date>
-          <eventgrp>
-            <event>Sc. D. (honorary) Harvard</event>
-          </eventgrp>
-        </chronitem>
-        <chronitem>
-          <date>1926 </date>
-          <eventgrp>
-            <event>Ph. D. Brown University</event>
-          </eventgrp>
-        </chronitem>
-        <chronitem>
-          <date>1925-1939</date>
-          <eventgrp>
-            <event>Member, Rockefeller Institute for Medical Research</event>
-          </eventgrp>
-        </chronitem>
-        <chronitem>
-          <date>1939- </date>
-          <eventgrp>
-            <event>Member Emeritus RIMR</event>
-          </eventgrp>
-        </chronitem>
-        <chronitem>
-          <date>1964 </date>
-          <eventgrp>
-            <event>Died April 9 in New York, NY. Ashes buried in cemetery of St. James the Less, Philadelphia, Pa.</event>
-          </eventgrp>
-        </chronitem>
-        <chronitem>
-          <date>1910- </date>
-          <eventgrp>
-            <event>Trustee Marine Biological Lab., Wood's Hole, Mass.</event>
-          </eventgrp>
-        </chronitem>
-        <chronitem>
-          <date>1919-1964 </date>
-          <eventgrp>
-            <event>Co-Editor The Journal of General Physiology</event>
-          </eventgrp>
-        </chronitem>
-      </chronlist>
-      <p>Member of: A.A.A.S. Fellow, National Academy of Sciences of America, American Philosophical Society, Botanical Society of America, American Society of Naturalists, Academy of Arts and Sciences, NY Academy of Sciences, Botanical Society, Edinburgh, American Physiological Society, Society of Experimental Biology &amp; Medicine, American Chemical Society, Century Club, Kungliga Fysiog. Sallskapet, Lund, Leopold-Carolin Deutsche Akademie der Naturforscher (Halle).</p>
-    </bioghist>
-    <scopecontent id="9005dc4ed7ce7b53875f0aab2e3f0983">
-      <head>Scope and Contents note</head>
-      <p>Bibliography, photographs, illustrations, Collected reprints.</p>
-    </scopecontent>
-    <arrangement id="11dc8197388cdf827de8face4f0a9aa9">
-      <head>Arrangement note</head>
-      <p>Arranged by subject.</p>
-    </arrangement>
-    <prefercite id="93e906099b90c8d38af9d0ef966de468">
-      <head>Preferred Citation</head>
-      <p>Information regarding the Rockefeller Archive Center's preferred elements and forms of citation can be found at <extref href="http://www.rockarch.org/research/citations.php">http://www.rockarch.org/research/citations.php</extref></p>
-    </prefercite>
-    <fileplan id="8c164cb19c365f3d5364fa988adc8a7f">
-      <head>File Plan note</head>
-      <p>Former Classification: I 450 OS7</p>
-    </fileplan>
-    <accessrestrict id="03a6dc0dadfd0e6fed30d5e453ca21d3">
-      <head>Conditions Governing Access note</head>
-      <p>Access to this collection is restricted pending permission from Rockefeller University.</p>
-    </accessrestrict>
-    <relatedmaterial id="e83ee3db6af693526d5abc66269fa7ec">
-      <head>Related Materials</head>
-      <p>The Osterhout papers which consist of about 750 items are at the American Philosophical Society. An inventory of these papers are in box 1.</p>
-    </relatedmaterial>
-    <acqinfo id="10efb78d3f12f099d7006de5a45bc11f">
-      <head>Immediate Source of Acquisition</head>
-      <p>Box 1 received or inventoried: September, 1974.  Box 2 and Box 3 added to collection May 1980 form the Office of Faculty Records.</p>
-    </acqinfo>
-    <controlaccess>
-      <subject source="lcsh">Mathematics</subject>
-      <subject source="lcsh">Physiology</subject>
-      <subject source="lcsh">Biology -- Research</subject>
-      <subject source="lcsh">Medical research</subject>
-      <subject source="lcsh">Life sciences</subject>
-      <corpname role="ctb" source="naf">Rockefeller University</corpname>
-      <corpname role="ctb" source="naf">Rockefeller Institute for Medical Research</corpname>
-    </controlaccess>
-    <dsc>
-      <c id="6b53c0c14f064f17865215b082a20ff7" level="file">
-        <did>
-          <unittitle>Biographical material, photographs and bibliography</unittitle>
-          <container altrender="Letter Document Storage Box" id="3484b04832ad76ff06a99bbf030f991b" label="mixed materials [A0000000085789]" type="box">1</container>
-        </did>
-        <scopecontent id="7576f198511334370cc911449b0500a9">
-          <head>Scope and Contents note</head>
-          <p>Includes correspondence 1933-1940 with copies of correspondence 1924 on his appointment as Member of RIMR. Correspondence deals with retirement provisions and allowance for widow.</p>
-          <p>Includes reprint from "The Development of Harvard University" 1869-1929, Chapter xxii: Botany; Biographical memoir. National Academy of Sciences, v. (1947)</p>
-        </scopecontent>
-      </c>
-      <c id="4079bb8bd35648d7921091ee83a1691c" level="file">
-        <did>
-          <unittitle>Film strips with explanatory notes</unittitle>
-          <container altrender="Letter Document Storage Box" id="ab77d33eba1641111228fd81853a673a" label="mixed materials [A0000000085789]" type="box">1</container>
-        </did>
-      </c>
-      <c id="f09252b0a3214eb6be52418a44fdd90f" level="file">
-        <did>
-          <unittitle>Illustrations used in publications</unittitle>
-          <container altrender="Letter Document Storage Box" id="e69e8bfd4dff1bf8dc1def9683d5b121" label="mixed materials [A0000000085789]" type="box">1</container>
-        </did>
-      </c>
-      <c id="ccad491b9851437c8cd82b7069e6db9a" level="file">
-        <did>
-          <unittitle>Notes</unittitle>
-          <container altrender="Letter Document Storage Box" id="092f292e6ca301524251e74ca89a6548" label="mixed materials [A0000000085789]" type="box">1</container>
-        </did>
-        <scopecontent id="ee4d194d6f787c00d4d892a3761af24b">
-          <head>Scope and Contents</head>
-          <p>Probably made by Marian Irwin Osterhout. Dealing with published works and first mentions of important developments contributed by W.J.V. Osterhout.</p>
-        </scopecontent>
-      </c>
-      <c id="124d9c86f8a742ceaa4c366a65887440" level="file">
-        <did>
-          <unittitle>Marian Irwin Osterhout</unittitle>
-          <container altrender="Letter Document Storage Box" id="1324ab452fd4bcbf8c278f5645fffac2" label="mixed materials [A0000000085789]" type="box">1</container>
-        </did>
-        <bioghist id="2f2f1222854897c8a312a41e023e8dac">
-          <head>Biographical / Historical</head>
-          <p>(1888-1973)</p>
-        </bioghist>
-        <scopecontent id="d8b5f8b2a7015cfd9388e849513b7b9b">
-          <head>Scope and Contents note</head>
-          <p>Bibliography, photograph; Half a Hundred Radcliffe Women.</p>
-          <p>Several manuscripts which may not have been published.</p>
-        </scopecontent>
-      </c>
-      <c id="f5fbc196bc954c3983f8e9d94279de93" level="file">
-        <did>
-          <unittitle>Correspondence</unittitle>
-          <unitdate normal="1925/1935" type="inclusive">1925-1935</unitdate>
-          <container altrender="Letter Document Storage Box" id="788178a526cadd911b82cffff4863f3b" label="mixed materials [A0000000085789]" type="box">1</container>
-        </did>
-        <scopecontent id="ef49cc8c2e58768d5748b627dc218b9d">
-          <head>Scope and Contents</head>
-          <p>28 letters between Marian Irwin (later Marian Irwin Osterhout) Simon Flexner and Edric Smith. The letters consist, primarily of administrative matters but includes letter of resignation 27 March 1933. The letters of Marian Osterhout are all handwritten.</p>
-        </scopecontent>
-      </c>
-      <c id="b3496e7f57ee4c39a3c4ca2591243794" level="file">
-        <did>
-          <unittitle>Collected Reprints</unittitle>
-          <physdesc id="01bf50e88a5f7ce4e8c4651c3d56c877">5 volumes</physdesc>
-        </did>
-        <processinfo id="6841e567124940c9ef4d67b6a5d176a4">
-          <head>Processing Information note</head>
-          <p>removed to RAC library.</p>
-        </processinfo>
-      </c>
-      <c id="11da8cd17bec4edc83062418f3233703" level="file">
-        <did>
-          <unittitle>Collected Reprints</unittitle>
-          <physdesc id="01b25cd351b807cf7564ee022c1b7f90">1 volume</physdesc>
-        </did>
-        <processinfo id="1ff1a85edd1b53615801ded221c06391">
-          <head>Processing Information</head>
-          <p>Relocated to RAC library 8/9/1988.</p>
-        </processinfo>
-      </c>
-      <c id="e9004ad57468430ca8d36cc252ae1fe6" level="file">
-        <did>
-          <unittitle>Correspondence</unittitle>
-          <container altrender="Letter Document Storage Box" id="eb5bd376e8786431e2c9e1256333029f" label="mixed materials [A0000000085790]" type="box">2</container>
-          <container altrender="Half Ltr Document Storage Box" id="55f9590be82f23874098b49b84e18860" label="mixed materials [A0000000085791]" type="box">3</container>
-        </did>
-        <scopecontent id="12bab32dbc922020f10704d897dc2c02">
-          <head>Scope and Contents note</head>
-          <p>Consists primarily of administrative correspondence between Dr. Osterhout, Simon Flexner, and Business Manager. When Dr. Osterhout lost his sight the correspondence was carried on for him by his wife, Marian Irwin Osterhout.</p>
-          <p>1 folder in Box 2 contains one photograph, reprint of "Physiological studies of single plant cells" from BIOLOGICAL REVIEWS 4 (1931) ; an outline of the history of The JOURNAL OF GENERAL PHYSIOLOGY; duplicate copies of WHO'S WHO information; 3 1939-1939 news clippings; copy of minute adopted by Board of Scientific Directors in 1939; bibliography 1925-1956; obituary from BROWN ALUMNI MONTHLY.</p>
-        </scopecontent>
-        <relatedmaterial id="7b254d9e7bfe8746ebe6e63f0693f94b">
-          <head>Separated Materials note</head>
-          <p>The Osterhout papers which consist of about 750 items are at the American Philosophical Society. An inventory of these papers is in Box 1.</p>
-        </relatedmaterial>
-        <acqinfo id="79504f3964afb18e98a3aafe4711d688">
-          <head>Immediate Source of Acquisition</head>
-          <p>Added to the collection May 1980, from the Office of Faculty records.</p>
-        </acqinfo>
-        <c id="9be14302df7d4a7a9ded1b0091637b18" level="file">
-          <did>
-            <unittitle>Letter concerning the naming of Tryparsamide</unittitle>
-            <unitdate>1920 November</unitdate>
-            <container altrender="Letter Document Storage Box" id="0dad3d514d0d9e4eb0c45996685472b8" label="mixed materials [A0000000085790]" type="box">2</container>
-          </did>
-          <scopecontent id="35db25ea73a43b4d077f233658e44117">
-            <head>Scope and Contents note</head>
-            <p>(while a Member of the Board of Scientific Directors, December, 1919-1923)</p>
-          </scopecontent>
-        </c>
-        <c id="3933dac87697402a8d4d790ec402f4dd" level="file">
-          <did>
-            <unittitle>Correspondence at the time of Jacques Loeb's death</unittitle>
-            <unitdate normal="1924/1924" type="inclusive">1924</unitdate>
-            <container altrender="Letter Document Storage Box" id="9029d08b912ea67f0e8d4f6d34ce9fcf" label="mixed materials [A0000000085790]" type="box">2</container>
-          </did>
-          <scopecontent id="31896c03241ea133a710df74b73c7ab8">
-            <head>Scope and Contents note</head>
-            <p>February 11: arrangements regarding the editorship of JGP and later an invitation to become member of RIMR scientific staff.</p>
-          </scopecontent>
-        </c>
-        <c id="41ab58c313de476c8aa9d26e971f715f" level="file">
-          <did>
-            <unittitle>Appointed to RIMR scientific staff</unittitle>
-            <unitdate normal="1925/1925" type="inclusive">1925</unitdate>
-            <container altrender="Letter Document Storage Box" id="7d97629b836c261e5d28ad60fb17c556" label="mixed materials [A0000000085790]" type="box">2</container>
-          </did>
-        </c>
-        <c id="10b2dacdeb6a41c5926c2430856e970b" level="file">
-          <did>
-            <unittitle>January 1, 1926 resignation from Board of Scientific Directors</unittitle>
-            <unitdate normal="1926/1927" type="inclusive">1926-1927</unitdate>
-            <container altrender="Letter Document Storage Box" id="b5e6328d1b6a95359f84b266de10332a" label="mixed materials [A0000000085790]" type="box">2</container>
-          </did>
-        </c>
-        <c id="f063eecb1dea440eb5062df27405e7c9" level="file">
-          <did>
-            <unitdate normal="1928/1929" type="inclusive">1928-1929</unitdate>
-            <container altrender="Letter Document Storage Box" id="7cdd4545d178662b2f3a511ad5b50f5c" label="mixed materials [A0000000085790]" type="box">2</container>
-          </did>
-        </c>
-        <c id="0760eca34f0a4135be4c3599273f5f3c" level="file">
-          <did>
-            <unitdate normal="1930/1933" type="inclusive">1930-1933</unitdate>
-            <container altrender="Letter Document Storage Box" id="a157bc21cdc315f1d04cfad7a346af7a" label="mixed materials [A0000000085790]" type="box">2</container>
-          </did>
-          <scopecontent id="b2a0f49094eec390928c93d93f3b67f8">
-            <head>Scope and Contents</head>
-            <p>Includes closing of Bermuda Station and February 28 marriage to Marian Irwin.</p>
-          </scopecontent>
-        </c>
-        <c id="e90b656e12ef427ab6842d01158f08c9" level="file">
-          <did>
-            <unitdate normal="1933/1940" type="inclusive">1933-1940</unitdate>
-            <container altrender="Half Ltr Document Storage Box" id="50c8256a17dd4210c5d50368de4e3c14" label="mixed materials [A0000000085791]" type="box">3</container>
-          </did>
-        </c>
-        <c id="7c1dd3b5d16941969be90149c2b755a0" level="file">
-          <did>
-            <unitdate normal="1941/1950" type="inclusive">1941-1950</unitdate>
-            <container altrender="Half Ltr Document Storage Box" id="fa9f287c044fffe407284bcfd85d2a76" label="mixed materials [A0000000085791]" type="box">3</container>
-          </did>
-        </c>
-        <c id="ece40ee5f928470395747e969a271e12" level="file">
-          <did>
-            <unitdate normal="1951/1973" type="inclusive">1951-1973</unitdate>
-            <container altrender="Half Ltr Document Storage Box" id="a91be191de9690992e21e0ef43c5db06" label="mixed materials [A0000000085791]" type="box">3</container>
-          </did>
-          <scopecontent id="1a34ec555ad5778483c6460ce97a34f0">
-            <head>Scope and Contents note</head>
-            <p>Includes 1961 reconsideration of pension provisions and additional annuity for Mrs. O at Dr. O's death</p>
-          </scopecontent>
-        </c>
-      </c>
-    </dsc>
-  </archdesc>
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="under_revision" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid>FA186.xml</eadid><filedesc><titlestmt><titleproper type="filing">Osterhout (Winthrop J.V.) papers</titleproper><titleproper>A Guide to the Winthrop J.V. Osterhout papers, Rockefeller University Faculty
+ <num>FA186</num></titleproper></titlestmt><publicationstmt><publisher>Rockefeller Archive Center</publisher><address><addressline>15 Dayton Avenue</addressline><addressline>Sleepy Hollow 10591</addressline><addressline>archive@rockarch.org</addressline><addressline>URL: <extptr xlink:href="http://www.rockarch.org" xlink:show="new" xlink:title="http://www.rockarch.org" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2019-08-05 00:32:23 -0400</date>.</creation></profiledesc><revisiondesc><change><date>2010 September 23</date><item>Paper finding aid converted to EAD/XML by AureXus in 2010. Imported into the Archvists’ Toolkit by Becky Robbins.</item></change></revisiondesc></eadheader><archdesc level="collection">
+  <did>
+    <langmaterial>
+      <language langcode="eng">English</language>
+    </langmaterial>
+    <repository>
+      <corpname>Rockefeller Archive Center</corpname>
+    </repository>
+    <unittitle>Winthrop J. V. Osterhout papers, Rockefeller University Faculty</unittitle>
+    <origination label="creator">
+      <persname role="aut" source="naf">Osterhout, W. J. V. (Winthrop John Van Leuven)</persname>
+    </origination>
+    <unitid>FA186</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">0.95 Cubic Feet</extent>
+      <extent altrender="carrier">3 boxes and 5 volumes.</extent>
+    </physdesc>
+    <unitdate>undated</unitdate>
+  </did>
+  <bioghist id="084299f96f867665bb7e6d58862d1405">
+    <head>Biographical/Historical note</head>
+<p>Winthrop John Vanleuven Osterhout, physiologist, succeeded Jacques Loeb as head of the Division of General Physiology at The Rockefeller Institute for Medical Research in 1925. His influence upon students, colleagues, and the biological audience in general was exerted toward quantitative data and mathematical analysis of biological processes. He was an editor of The Journal of General Physiology for 45 years, beginning with its founding in 1919.</p>    <chronlist>
+      <head>Biographical note</head>
+      <chronitem>
+        <date>1871 </date>
+        <eventgrp>
+          <event>Born August 2, Brooklyn, New York</event>
+        </eventgrp>
+      </chronitem>
+      <chronitem>
+        <date>1893 </date>
+        <eventgrp>
+          <event>A.B. Brown University</event>
+        </eventgrp>
+      </chronitem>
+      <chronitem>
+        <date>1894 </date>
+        <eventgrp>
+          <event>A.M. Brown University</event>
+        </eventgrp>
+      </chronitem>
+      <chronitem>
+        <date>1893-1895 </date>
+        <eventgrp>
+          <event>Instructor in Botany; Brown University</event>
+        </eventgrp>
+      </chronitem>
+      <chronitem>
+        <date>1894-1895 </date>
+        <eventgrp>
+          <event>Wood's Hole, Massachusetts</event>
+        </eventgrp>
+      </chronitem>
+      <chronitem>
+        <date>1895-1896 </date>
+        <eventgrp>
+          <event>University of Bonn (student with Eduard Strasburger)</event>
+        </eventgrp>
+      </chronitem>
+      <chronitem>
+        <date>1896-1901 </date>
+        <eventgrp>
+          <event>Instructor in Botany; University of California</event>
+        </eventgrp>
+      </chronitem>
+      <chronitem>
+        <date>1899 </date>
+        <eventgrp>
+          <event>Ph. D. University of California</event>
+        </eventgrp>
+      </chronitem>
+      <chronitem>
+        <date>1901-1908 </date>
+        <eventgrp>
+          <event>Assistant Professor University of California</event>
+        </eventgrp>
+      </chronitem>
+      <chronitem>
+        <date>1908-1909 </date>
+        <eventgrp>
+          <event>Associate Professor University of California</event>
+        </eventgrp>
+      </chronitem>
+      <chronitem>
+        <date>1909-1913 </date>
+        <eventgrp>
+          <event>Assistant Professor Harvard University</event>
+        </eventgrp>
+      </chronitem>
+      <chronitem>
+        <date>1913-1925 </date>
+        <eventgrp>
+          <event>Professor Harvard University</event>
+        </eventgrp>
+      </chronitem>
+      <chronitem>
+        <date>1920-1926 </date>
+        <eventgrp>
+          <event>Member Board of Scientific Directors Rockefeller Institute</event>
+        </eventgrp>
+      </chronitem>
+      <chronitem>
+        <date>1925 </date>
+        <eventgrp>
+          <event>Sc. D. (honorary) Harvard</event>
+        </eventgrp>
+      </chronitem>
+      <chronitem>
+        <date>1926 </date>
+        <eventgrp>
+          <event>Ph. D. Brown University</event>
+        </eventgrp>
+      </chronitem>
+      <chronitem>
+        <date>1925-1939</date>
+        <eventgrp>
+          <event>Member, Rockefeller Institute for Medical Research</event>
+        </eventgrp>
+      </chronitem>
+      <chronitem>
+        <date>1939- </date>
+        <eventgrp>
+          <event>Member Emeritus RIMR</event>
+        </eventgrp>
+      </chronitem>
+      <chronitem>
+        <date>1964 </date>
+        <eventgrp>
+          <event>Died April 9 in New York, NY. Ashes buried in cemetery of St. James the Less, Philadelphia, Pa.</event>
+        </eventgrp>
+      </chronitem>
+      <chronitem>
+        <date>1910- </date>
+        <eventgrp>
+          <event>Trustee Marine Biological Lab., Wood's Hole, Mass.</event>
+        </eventgrp>
+      </chronitem>
+      <chronitem>
+        <date>1919-1964 </date>
+        <eventgrp>
+          <event>Co-Editor The Journal of General Physiology</event>
+        </eventgrp>
+      </chronitem>
+    </chronlist>
+<p>Member of: A.A.A.S. Fellow, National Academy of Sciences of America, American Philosophical Society, Botanical Society of America, American Society of Naturalists, Academy of Arts and Sciences, NY Academy of Sciences, Botanical Society, Edinburgh, American Physiological Society, Society of Experimental Biology &amp; Medicine, American Chemical Society, Century Club, Kungliga Fysiog. Sallskapet, Lund, Leopold-Carolin Deutsche Akademie der Naturforscher (Halle).</p>  </bioghist>
+  <scopecontent id="9005dc4ed7ce7b53875f0aab2e3f0983">
+    <head>Scope and Contents note</head>
+<p>Bibliography, photographs, illustrations, Collected reprints.</p>  </scopecontent>
+  <arrangement id="11dc8197388cdf827de8face4f0a9aa9">
+    <head>Arrangement note</head>
+<p>Arranged by subject.</p>  </arrangement>
+  <prefercite id="93e906099b90c8d38af9d0ef966de468">
+    <head>Preferred Citation</head>
+<p>Information regarding the Rockefeller Archive Center's preferred elements and forms of citation can be found at <extref href="http://www.rockarch.org/research/citations.php">http://www.rockarch.org/research/citations.php</extref></p>  </prefercite>
+  <fileplan id="8c164cb19c365f3d5364fa988adc8a7f">
+    <head>File Plan note</head>
+<p>Former Classification: I 450 OS7</p>  </fileplan>
+  <accessrestrict id="03a6dc0dadfd0e6fed30d5e453ca21d3">
+    <head>Conditions Governing Access note</head>
+<p>Access to this collection is restricted pending permission from Rockefeller University.</p>  </accessrestrict>
+  <relatedmaterial id="e83ee3db6af693526d5abc66269fa7ec">
+    <head>Related Materials</head>
+<p>The Osterhout papers which consist of about 750 items are at the American Philosophical Society. An inventory of these papers are in box 1.</p>  </relatedmaterial>
+  <acqinfo id="10efb78d3f12f099d7006de5a45bc11f">
+    <head>Immediate Source of Acquisition</head>
+<p>Box 1 received or inventoried: September, 1974.  Box 2 and Box 3 added to collection May 1980 form the Office of Faculty Records.</p>  </acqinfo>
+  <controlaccess>
+    <subject source="lcsh">Mathematics</subject>
+    <subject source="lcsh">Physiology</subject>
+    <subject source="lcsh">Biology -- Research</subject>
+    <subject source="lcsh">Medical research</subject>
+    <subject source="lcsh">Life sciences</subject>
+    <corpname role="ctb" source="naf">Rockefeller University</corpname>
+    <corpname role="ctb" source="naf">Rockefeller Institute for Medical Research</corpname>
+  </controlaccess>
+  <dsc><c id="6b53c0c14f064f17865215b082a20ff7" level="file"><did><unittitle>Biographical material, photographs and bibliography</unittitle><container altrender="Letter Document Storage Box" id="01d073eba91b431b96715dfe75fbf459" label="mixed materials [A0000000085789]" type="box">1</container></did><scopecontent id="7576f198511334370cc911449b0500a9"><head>Scope and Contents note</head><p>Includes correspondence 1933-1940 with copies of correspondence 1924 on his appointment as Member of RIMR. Correspondence deals with retirement provisions and allowance for widow.</p><p>Includes reprint from "The Development of Harvard University" 1869-1929, Chapter xxii: Botany; Biographical memoir. National Academy of Sciences, v. (1947)</p></scopecontent></c><c id="4079bb8bd35648d7921091ee83a1691c" level="file"><did><unittitle>Film strips with explanatory notes</unittitle><container altrender="Letter Document Storage Box" id="bb9e67a5aef06754e8acac079e9dac05" label="mixed materials [A0000000085789]" type="box">1</container></did></c><c id="f09252b0a3214eb6be52418a44fdd90f" level="file"><did><unittitle>Illustrations used in publications</unittitle><container altrender="Letter Document Storage Box" id="e7f6e706ebf04ff0edb30a37af240d14" label="mixed materials [A0000000085789]" type="box">1</container></did></c><c id="ccad491b9851437c8cd82b7069e6db9a" level="file"><did><unittitle>Notes</unittitle><container altrender="Letter Document Storage Box" id="f727b479ad6f62591b2f5b4c9ce43a6f" label="mixed materials [A0000000085789]" type="box">1</container></did><scopecontent id="ee4d194d6f787c00d4d892a3761af24b"><head>Scope and Contents</head><p>Probably made by Marian Irwin Osterhout. Dealing with published works and first mentions of important developments contributed by W.J.V. Osterhout.</p></scopecontent></c><c id="124d9c86f8a742ceaa4c366a65887440" level="file"><did><unittitle>Marian Irwin Osterhout</unittitle><container altrender="Letter Document Storage Box" id="0cff12b024a33c801bc3b22660ae0bef" label="mixed materials [A0000000085789]" type="box">1</container></did><bioghist id="2f2f1222854897c8a312a41e023e8dac"><head>Biographical / Historical</head><p>(1888-1973)</p></bioghist><scopecontent id="d8b5f8b2a7015cfd9388e849513b7b9b"><head>Scope and Contents note</head><p>Bibliography, photograph; Half a Hundred Radcliffe Women.</p><p>Several manuscripts which may not have been published.</p></scopecontent></c><c id="f5fbc196bc954c3983f8e9d94279de93" level="file"><did><unittitle>Correspondence</unittitle><unitdate normal="1925/1935" type="inclusive">1925-1935</unitdate><container altrender="Letter Document Storage Box" id="13d644d97a899d341e65044298fcbe39" label="mixed materials [A0000000085789]" type="box">1</container></did><scopecontent id="ef49cc8c2e58768d5748b627dc218b9d"><head>Scope and Contents</head><p>28 letters between Marian Irwin (later Marian Irwin Osterhout) Simon Flexner and Edric Smith. The letters consist, primarily of administrative matters but includes letter of resignation 27 March 1933. The letters of Marian Osterhout are all handwritten.</p></scopecontent></c><c id="b3496e7f57ee4c39a3c4ca2591243794" level="file"><did><unittitle>Collected Reprints</unittitle><physdesc id="01bf50e88a5f7ce4e8c4651c3d56c877">5 volumes</physdesc></did><processinfo id="6841e567124940c9ef4d67b6a5d176a4"><head>Processing Information note</head><p>removed to RAC library.</p></processinfo></c><c id="11da8cd17bec4edc83062418f3233703" level="file"><did><unittitle>Collected Reprints</unittitle><physdesc id="01b25cd351b807cf7564ee022c1b7f90">1 volume</physdesc></did><processinfo id="1ff1a85edd1b53615801ded221c06391"><head>Processing Information</head><p>Relocated to RAC library 8/9/1988.</p></processinfo></c><c id="e9004ad57468430ca8d36cc252ae1fe6" level="file"><did><unittitle>Correspondence</unittitle><container altrender="Letter Document Storage Box" id="e2cc8a5df0cc53e2fbdb1c2e4c1ca50a" label="mixed materials [A0000000085790]" type="box">2</container><container altrender="Half Ltr Document Storage Box" id="24fe7ed0af4c43a66cb4e305db2a6d7c" label="mixed materials [A0000000085791]" type="box">3</container></did><scopecontent id="12bab32dbc922020f10704d897dc2c02"><head>Scope and Contents note</head><p>Consists primarily of administrative correspondence between Dr. Osterhout, Simon Flexner, and Business Manager. When Dr. Osterhout lost his sight the correspondence was carried on for him by his wife, Marian Irwin Osterhout.</p><p>1 folder in Box 2 contains one photograph, reprint of "Physiological studies of single plant cells" from BIOLOGICAL REVIEWS 4 (1931) ; an outline of the history of The JOURNAL OF GENERAL PHYSIOLOGY; duplicate copies of WHO'S WHO information; 3 1939-1939 news clippings; copy of minute adopted by Board of Scientific Directors in 1939; bibliography 1925-1956; obituary from BROWN ALUMNI MONTHLY.</p></scopecontent><relatedmaterial id="7b254d9e7bfe8746ebe6e63f0693f94b"><head>Separated Materials note</head><p>The Osterhout papers which consist of about 750 items are at the American Philosophical Society. An inventory of these papers is in Box 1.</p></relatedmaterial><acqinfo id="79504f3964afb18e98a3aafe4711d688"><head>Immediate Source of Acquisition</head><p>Added to the collection May 1980, from the Office of Faculty records.</p></acqinfo><c id="9be14302df7d4a7a9ded1b0091637b18" level="file"><did><unittitle>Letter concerning the naming of Tryparsamide</unittitle><unitdate>1920 November</unitdate><container altrender="Letter Document Storage Box" id="600b284bfd88dc6476f755786f69bf98" label="mixed materials [A0000000085790]" type="box">2</container></did><scopecontent id="35db25ea73a43b4d077f233658e44117"><head>Scope and Contents note</head><p>(while a Member of the Board of Scientific Directors, December, 1919-1923)</p></scopecontent></c><c id="3933dac87697402a8d4d790ec402f4dd" level="file"><did><unittitle>Correspondence at the time of Jacques Loeb's death</unittitle><unitdate normal="1924/1924" type="inclusive">1924</unitdate><container altrender="Letter Document Storage Box" id="b0a21945d5741b8ccc3009f9b776fb12" label="mixed materials [A0000000085790]" type="box">2</container></did><scopecontent id="31896c03241ea133a710df74b73c7ab8"><head>Scope and Contents note</head><p>February 11: arrangements regarding the editorship of JGP and later an invitation to become member of RIMR scientific staff.</p></scopecontent></c><c id="41ab58c313de476c8aa9d26e971f715f" level="file"><did><unittitle>Appointed to RIMR scientific staff</unittitle><unitdate normal="1925/1925" type="inclusive">1925</unitdate><container altrender="Letter Document Storage Box" id="76bec03df3a671d3975cb9df0f3b9d6d" label="mixed materials [A0000000085790]" type="box">2</container></did></c><c id="10b2dacdeb6a41c5926c2430856e970b" level="file"><did><unittitle>January 1, 1926 resignation from Board of Scientific Directors</unittitle><unitdate normal="1926/1927" type="inclusive">1926-1927</unitdate><container altrender="Letter Document Storage Box" id="0f860f9be29d955ff87c2fe3392f674a" label="mixed materials [A0000000085790]" type="box">2</container></did></c><c id="f063eecb1dea440eb5062df27405e7c9" level="file"><did><unitdate normal="1928/1929" type="inclusive">1928-1929</unitdate><container altrender="Letter Document Storage Box" id="a0a81769c3c21c4ae843a36d87ba8171" label="mixed materials [A0000000085790]" type="box">2</container></did></c><c id="0760eca34f0a4135be4c3599273f5f3c" level="file"><did><unitdate normal="1930/1933" type="inclusive">1930-1933</unitdate><container altrender="Letter Document Storage Box" id="ebf9a63d4451358f096def6bc32b7816" label="mixed materials [A0000000085790]" type="box">2</container></did><scopecontent id="b2a0f49094eec390928c93d93f3b67f8"><head>Scope and Contents</head><p>Includes closing of Bermuda Station and February 28 marriage to Marian Irwin.</p></scopecontent></c><c id="e90b656e12ef427ab6842d01158f08c9" level="file"><did><unitdate normal="1933/1940" type="inclusive">1933-1940</unitdate><container altrender="Half Ltr Document Storage Box" id="b72b6bb1dd046b6d621b2e9ecb456442" label="mixed materials [A0000000085791]" type="box">3</container></did></c><c id="7c1dd3b5d16941969be90149c2b755a0" level="file"><did><unitdate normal="1941/1950" type="inclusive">1941-1950</unitdate><container altrender="Half Ltr Document Storage Box" id="5937e98f669a79c08524477f6ec6f4e3" label="mixed materials [A0000000085791]" type="box">3</container></did></c><c id="ece40ee5f928470395747e969a271e12" level="file"><did><unitdate normal="1951/1973" type="inclusive">1951-1973</unitdate><container altrender="Half Ltr Document Storage Box" id="a181d5004ba3f3a50534fe7271db40ef" label="mixed materials [A0000000085791]" type="box">3</container></did><scopecontent id="1a34ec555ad5778483c6460ce97a34f0"><head>Scope and Contents note</head><p>Includes 1961 reconsideration of pension provisions and additional annuity for Mrs. O at Dr. O's death</p></scopecontent></c></c></dsc>
+</archdesc>
 </ead>

@@ -1,185 +1,55 @@
-<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
-  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="under_revision" langencoding="iso639-2b" repositoryencoding="iso15511">
-    <eadid>FA153.xml</eadid>
-    <filedesc>
-      <titlestmt>
-        <titleproper type="filing">Connelly (Clarence M.) papers</titleproper>
-        <titleproper>A Guide to the Clarence M. Connelly papers, Rockefeller Univeristy Faculty
- <num>FA153</num></titleproper>
-        <author>RDM</author>
-      </titlestmt>
-      <publicationstmt>
-        <publisher>Rockefeller Archive Center</publisher>
-        <p>
-          <date>1990 November 11</date>
-        </p>
-        <address>
-          <addressline>15 Dayton Avenue</addressline>
-          <addressline>Sleepy Hollow 10591</addressline>
-          <addressline>archive@rockarch.org</addressline>
-          <addressline>URL: <extptr xlink:href="http://www.rockarch.org" xlink:show="new" xlink:title="http://www.rockarch.org" xlink:type="simple"/></addressline>
-        </address>
-      </publicationstmt>
-    </filedesc>
-    <profiledesc>
-      <creation>This finding aid was produced using ArchivesSpace on <date>2019-02-05 02:48:17 -0500</date>.</creation>
-    </profiledesc>
-    <revisiondesc>
-      <change>
-        <date>24 August 2010</date>
-        <item>Paper finding aid converted to EAD/XML by AureXus in 2010. Imported into the Archvists’ Toolkit by Becky Robbins.</item>
-      </change>
-    </revisiondesc>
-  </eadheader>
-  <archdesc level="collection">
-    <did>
-      <langmaterial>
-        <language langcode="eng">English</language>
-      </langmaterial>
-      <repository>
-        <corpname>Rockefeller Archive Center</corpname>
-      </repository>
-      <unittitle>Clarence M. Connelly papers, Rockefeller University Faculty</unittitle>
-      <origination label="creator">
-        <corpname role="aut" source="naf">Rockefeller University</corpname>
-      </origination>
-      <origination label="creator">
-        <corpname role="ctb" source="naf">Rockefeller Institute for Medical Research</corpname>
-      </origination>
-      <origination label="creator">
-        <persname role="aut" rules="dacs">Connelly, Clarence M.</persname>
-      </origination>
-      <unitid>FA153</unitid>
-      <physdesc altrender="whole">
-        <extent altrender="materialtype spaceoccupied">1.2 Cubic Feet</extent>
-        <extent altrender="carrier">1 record storage box</extent>
-      </physdesc>
-      <unitdate normal="1939/1967" type="inclusive">1939-1967</unitdate>
-    </did>
-    <bioghist id="b404fabb20f4865ba2ef4055281aa503">
-      <head>Biographical/Historical note</head>
-      <p>Clarence M. Connelly (1916- ), physicist and Dean of Graduate Studies, was a member of The Rockefeller University faculty from 1954 until his retirement on December 31, 1984.</p>
-      <p>Connelly received his A.B. from Cornell University in 1938 and continued graduate studies there until 1942. From 1942-1946 he was a staff member with the Radiation Lab of M.I.T. where he worked on radar development. He joined Deltev Bronk's research group in 1946 at the Johnson Research Foundation of the University of Pennsylvania as an American Cancer Society pre doctoral fellow, where, in 1949, he received his Ph. D in biophysics. Connelly's work in biophysics focused on nerve cell function and activity.</p>
-      <p>From 1949-1954 Connelly was an assistant professor at John's Hopkins University.</p>
-      <p>While at The Rockefeller University, he become Associate Dean of Graduate Students In 1962 and assumed the responsibilities of full Dean in 1980. In this capacity he worked with members of the faculty and the V. P. for Academic Programs in a effort to locate and attract prospective students.</p>
-    </bioghist>
-    <scopecontent id="052472974eb7e69ab9f44d081154828e">
-      <head>Scope and Contents note</head>
-      <p>Consists of lab notebooks.</p>
-    </scopecontent>
-    <fileplan id="9123c5293957f9b12ee13eb8a9a6b79d">
-      <head>File Plan note</head>
-      <p>Former Classification: I 450 C762</p>
-    </fileplan>
-    <processinfo id="d4b6eeab45c526312deefa774fb1dd81">
-      <head>Processing Information note</head>
-      <p>Level 2 Minimal Processing, some material remains as received, in original folders and storage boxes.</p>
-    </processinfo>
-    <accessrestrict id="fd7679b04708a2ecd56dc068a9268f15">
-      <head>Conditions Governing Access note</head>
-      <p>Access to this collection is restricted pending permission from Rockefeller University.</p>
-    </accessrestrict>
-    <prefercite id="0e804c9ed79ab327b00b5438d8ad5b73">
-      <head>Preferred Citation</head>
-      <p>Information regarding the Rockefeller Archive Center's preferred elements and forms of citation can be found at <extref href="http://www.rockarch.org/research/citations.php">http://www.rockarch.org/research/citations.php</extref></p>
-    </prefercite>
-    <arrangement id="a7acfb1d00764f4ddf081188006e0f53">
-      <head>Arrangement</head>
-      <p>As received.</p>
-    </arrangement>
-    <controlaccess>
-      <subject source="lcsh">Physics</subject>
-      <subject source="lcsh">Biophysics</subject>
-    </controlaccess>
-    <dsc>
-      <c id="82c58afeb8e34d89a2365259d1280c97" level="file">
-        <did>
-          <unittitle>Lab Notebook</unittitle>
-          <unitdate>undated</unitdate>
-          <container altrender="Record Storage Box (Paige)" id="4843917c5e028df14f8bac2775ae0c7b" label="mixed materials [A0000000068246]" type="box">1</container>
-          <container id="1063abd04dca9049e7296c101dd301b2" parent="4843917c5e028df14f8bac2775ae0c7b" type="folder">1</container>
-        </did>
-      </c>
-      <c id="46cb8f9bcc224f738e2f6105c24c848a" level="file">
-        <did>
-          <unittitle>Lab Notebook</unittitle>
-          <unitdate normal="1947/1948" type="inclusive">1947-1948</unitdate>
-          <container altrender="Record Storage Box (Paige)" id="ca46257cff5abf9d81975f8a9e0c3e67" label="mixed materials [A0000000068246]" type="box">1</container>
-          <container id="4eaad34a11a0a22c07e83da9c1b33b87" parent="ca46257cff5abf9d81975f8a9e0c3e67" type="folder">2</container>
-        </did>
-      </c>
-      <c id="74949420a7c342c1bc233c6ee5daee7d" level="file">
-        <did>
-          <unittitle>Lab Notebook - Voltage Clamp</unittitle>
-          <unitdate normal="1958/1967" type="inclusive">1958-1959, 1965, 1967</unitdate>
-          <container altrender="Record Storage Box (Paige)" id="c10fa2937eddf4fdcb99b959896c9a70" label="mixed materials [A0000000068246]" type="box">1</container>
-          <container id="8e23823216a14bd55eb687f61dcb69f5" parent="c10fa2937eddf4fdcb99b959896c9a70" type="folder">3</container>
-        </did>
-      </c>
-      <c id="ea6a590b906643488ddf902d12887aad" level="file">
-        <did>
-          <unittitle>Lab Notebook - Journal - Johnson Foundation</unittitle>
-          <unitdate normal="1947/1948" type="inclusive">1947 February-1948</unitdate>
-          <container altrender="Record Storage Box (Paige)" id="767edded445cf056ad5f8d318dd91ac0" label="mixed materials [A0000000068246]" type="box">1</container>
-          <container id="e154f754cde738fd95fe5bfc8723cf26" parent="767edded445cf056ad5f8d318dd91ac0" type="folder">4</container>
-        </did>
-      </c>
-      <c id="60452e968c0641c4b38aa81440562d25" level="file">
-        <did>
-          <unittitle>Lab Notebook - Johnson Foundation - Early Oxygen Consumption of Limulus (some frog)</unittitle>
-          <unitdate normal="1946/1947" type="inclusive">1946 Fall-1947 June</unitdate>
-          <container altrender="Record Storage Box (Paige)" id="9676319b7822bfddb843ae82782b9480" label="mixed materials [A0000000068246]" type="box">1</container>
-          <container id="3629a2b97715bcf2eb9b049c3e6b019c" parent="9676319b7822bfddb843ae82782b9480" type="folder">5</container>
-        </did>
-      </c>
-      <c id="107fd1055f6f448d8ebf8e9e030b0892" level="file">
-        <did>
-          <unittitle>Lab Notebook, Notes</unittitle>
-          <unitdate normal="1946/1948" type="inclusive">1939-1948</unitdate>
-          <container altrender="Record Storage Box (Paige)" id="425a7f4b9c459efd1ba8b400ca7b82be" label="mixed materials [A0000000068246]" type="box">1</container>
-          <container id="66f5c8252d1e29d5558aa3b8576e48b1" parent="425a7f4b9c459efd1ba8b400ca7b82be" type="folder">6</container>
-        </did>
-      </c>
-      <c id="43c9135a35094692a362d7bce84c8af5" level="file">
-        <did>
-          <unittitle>Lab Notebook 3</unittitle>
-          <unitdate normal="1950/1951" type="inclusive">1950 September 25-1951 November</unitdate>
-          <container altrender="Record Storage Box (Paige)" id="10b9e607c4ad2315553d0214429dec3a" label="mixed materials [A0000000068246]" type="box">1</container>
-          <container id="aaa9c32a3d5d7c5b577ea99709bf86fb" parent="10b9e607c4ad2315553d0214429dec3a" type="folder">7</container>
-        </did>
-      </c>
-      <c id="e49f444718bb461e9a72f6bd9d6a0e52" level="file">
-        <did>
-          <unittitle>Lab Notebook 4</unittitle>
-          <unitdate normal="1951/1952" type="inclusive">1951 November 27-1952 May 23</unitdate>
-          <container altrender="Record Storage Box (Paige)" id="67627744b7bc86a09dc5b8475c49d6a9" label="mixed materials [A0000000068246]" type="box">1</container>
-          <container id="b22bb4073d42803e1f4f8c2080961e8d" parent="67627744b7bc86a09dc5b8475c49d6a9" type="folder">8</container>
-        </did>
-      </c>
-      <c id="75846c9ffde14ace8f2caad13a732a4a" level="file">
-        <did>
-          <unittitle>Lab Notebook 6</unittitle>
-          <unitdate normal="1952/1953" type="inclusive">1952 November 21-1953 January 20</unitdate>
-          <container altrender="Record Storage Box (Paige)" id="97cb2e77032ea2724f12f9c195a43f8d" label="mixed materials [A0000000068246]" type="box">1</container>
-          <container id="202dbe551bf6679c41f714ae30abfb0c" parent="97cb2e77032ea2724f12f9c195a43f8d" type="folder">9</container>
-        </did>
-      </c>
-      <c id="92aaeb36b2c6437eab3a574a603bb030" level="file">
-        <did>
-          <unittitle>Lab Notebook 7</unittitle>
-          <unitdate normal="1953/1954" type="inclusive">1953 January 20-1954 March 12</unitdate>
-          <container altrender="Record Storage Box (Paige)" id="5c152a9726c8454be87b7504e7cf278a" label="mixed materials [A0000000068246]" type="box">1</container>
-          <container id="3f5dd0ebe3525b1c11cf65cad519165d" parent="5c152a9726c8454be87b7504e7cf278a" type="folder">10</container>
-        </did>
-      </c>
-      <c id="e5b30ed552654b4d97a9fee7796b3c1c" level="file">
-        <did>
-          <unittitle>Ledger, "Record"</unittitle>
-          <unitdate normal="1949/1952" type="inclusive">1949 March 14-1952</unitdate>
-          <container altrender="Record Storage Box (Paige)" id="ec54d2a0fa22885f64d60fbb42c18607" label="mixed materials [A0000000068246]" type="box">1</container>
-          <container id="b4d15a523981d13170dc3236508c72bd" parent="ec54d2a0fa22885f64d60fbb42c18607" type="folder">11</container>
-        </did>
-      </c>
-    </dsc>
-  </archdesc>
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="under_revision" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid>FA153.xml</eadid><filedesc><titlestmt><titleproper type="filing">Connelly (Clarence M.) papers</titleproper><titleproper>A Guide to the Clarence M. Connelly papers, Rockefeller Univeristy Faculty
+ <num>FA153</num></titleproper><author>RDM</author></titlestmt><publicationstmt><publisher>Rockefeller Archive Center</publisher><p><date>1990 November 11</date></p><address><addressline>15 Dayton Avenue</addressline><addressline>Sleepy Hollow 10591</addressline><addressline>archive@rockarch.org</addressline><addressline>URL: <extptr xlink:href="http://www.rockarch.org" xlink:show="new" xlink:title="http://www.rockarch.org" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2019-08-05 00:18:21 -0400</date>.</creation></profiledesc><revisiondesc><change><date>24 August 2010</date><item>Paper finding aid converted to EAD/XML by AureXus in 2010. Imported into the Archvists’ Toolkit by Becky Robbins.</item></change></revisiondesc></eadheader><archdesc level="collection">
+  <did>
+    <langmaterial>
+      <language langcode="eng">English</language>
+    </langmaterial>
+    <repository>
+      <corpname>Rockefeller Archive Center</corpname>
+    </repository>
+    <unittitle>Clarence M. Connelly papers, Rockefeller University Faculty</unittitle>
+    <origination label="creator">
+      <corpname role="aut" source="naf">Rockefeller University</corpname>
+    </origination>
+    <origination label="creator">
+      <corpname role="ctb" source="naf">Rockefeller Institute for Medical Research</corpname>
+    </origination>
+    <origination label="creator">
+      <persname role="aut" rules="dacs">Connelly, Clarence M.</persname>
+    </origination>
+    <unitid>FA153</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">1.3 Cubic Feet</extent>
+      <extent altrender="carrier">1 record storage box</extent>
+    </physdesc>
+    <unitdate normal="1939/1967" type="inclusive">1939-1967</unitdate>
+  </did>
+  <bioghist id="b404fabb20f4865ba2ef4055281aa503">
+    <head>Biographical/Historical note</head>
+<p>Clarence M. Connelly (1916- ), physicist and Dean of Graduate Studies, was a member of The Rockefeller University faculty from 1954 until his retirement on December 31, 1984.</p><p>Connelly received his A.B. from Cornell University in 1938 and continued graduate studies there until 1942. From 1942-1946 he was a staff member with the Radiation Lab of M.I.T. where he worked on radar development. He joined Deltev Bronk's research group in 1946 at the Johnson Research Foundation of the University of Pennsylvania as an American Cancer Society pre doctoral fellow, where, in 1949, he received his Ph. D in biophysics. Connelly's work in biophysics focused on nerve cell function and activity.</p><p>From 1949-1954 Connelly was an assistant professor at John's Hopkins University.</p><p>While at The Rockefeller University, he become Associate Dean of Graduate Students In 1962 and assumed the responsibilities of full Dean in 1980. In this capacity he worked with members of the faculty and the V. P. for Academic Programs in a effort to locate and attract prospective students.</p>  </bioghist>
+  <scopecontent id="052472974eb7e69ab9f44d081154828e">
+    <head>Scope and Contents note</head>
+<p>Consists of lab notebooks.</p>  </scopecontent>
+  <fileplan id="9123c5293957f9b12ee13eb8a9a6b79d">
+    <head>File Plan note</head>
+<p>Former Classification: I 450 C762</p>  </fileplan>
+  <processinfo id="d4b6eeab45c526312deefa774fb1dd81">
+    <head>Processing Information note</head>
+<p>Level 2 Minimal Processing, some material remains as received, in original folders and storage boxes.</p>  </processinfo>
+  <accessrestrict id="fd7679b04708a2ecd56dc068a9268f15">
+    <head>Conditions Governing Access note</head>
+<p>Access to this collection is restricted pending permission from Rockefeller University.</p>  </accessrestrict>
+  <prefercite id="0e804c9ed79ab327b00b5438d8ad5b73">
+    <head>Preferred Citation</head>
+<p>Information regarding the Rockefeller Archive Center's preferred elements and forms of citation can be found at <extref href="http://www.rockarch.org/research/citations.php">http://www.rockarch.org/research/citations.php</extref></p>  </prefercite>
+  <arrangement id="a7acfb1d00764f4ddf081188006e0f53">
+    <head>Arrangement</head>
+<p>As received.</p>  </arrangement>
+  <controlaccess>
+    <subject source="lcsh">Physics</subject>
+    <subject source="lcsh">Biophysics</subject>
+  </controlaccess>
+  <dsc><c id="82c58afeb8e34d89a2365259d1280c97" level="file"><did><unittitle>Lab Notebook</unittitle><unitdate>undated</unitdate><container altrender="Record Storage Box (Paige)" id="bab5efef14315ae17602ec7c9813db35" label="mixed materials [A0000000068246]" type="box">1</container><container id="bf439ba8b4b0510ea728890a230793c0" parent="bab5efef14315ae17602ec7c9813db35" type="folder">1</container></did></c><c id="46cb8f9bcc224f738e2f6105c24c848a" level="file"><did><unittitle>Lab Notebook</unittitle><unitdate normal="1947/1948" type="inclusive">1947-1948</unitdate><container altrender="Record Storage Box (Paige)" id="3d8c0608ff8a2bbe530db5d68960d046" label="mixed materials [A0000000068246]" type="box">1</container><container id="51666e83e3f68e236f01878ceba6781b" parent="3d8c0608ff8a2bbe530db5d68960d046" type="folder">2</container></did></c><c id="74949420a7c342c1bc233c6ee5daee7d" level="file"><did><unittitle>Lab Notebook - Voltage Clamp</unittitle><unitdate normal="1958/1967" type="inclusive">1958-1959, 1965, 1967</unitdate><container altrender="Record Storage Box (Paige)" id="7c68c9f35a31989e0b28e849e59bea4e" label="mixed materials [A0000000068246]" type="box">1</container><container id="efc7df09dfdc4d3cbf4a245cab340ad8" parent="7c68c9f35a31989e0b28e849e59bea4e" type="folder">3</container></did></c><c id="ea6a590b906643488ddf902d12887aad" level="file"><did><unittitle>Lab Notebook - Journal - Johnson Foundation</unittitle><unitdate normal="1947/1948" type="inclusive">1947 February-1948</unitdate><container altrender="Record Storage Box (Paige)" id="33d86792558a8b18e4070fcde1f9871b" label="mixed materials [A0000000068246]" type="box">1</container><container id="5be9fc921b5a8530a82c759f924300cb" parent="33d86792558a8b18e4070fcde1f9871b" type="folder">4</container></did></c><c id="60452e968c0641c4b38aa81440562d25" level="file"><did><unittitle>Lab Notebook - Johnson Foundation - Early Oxygen Consumption of Limulus (some frog)</unittitle><unitdate normal="1946/1947" type="inclusive">1946 Fall-1947 June</unitdate><container altrender="Record Storage Box (Paige)" id="66bc0731d99cb21007c0ec45a23383c1" label="mixed materials [A0000000068246]" type="box">1</container><container id="646f2b4ea2cbd698bb1ff4587c38ca5f" parent="66bc0731d99cb21007c0ec45a23383c1" type="folder">5</container></did></c><c id="107fd1055f6f448d8ebf8e9e030b0892" level="file"><did><unittitle>Lab Notebook, Notes</unittitle><unitdate normal="1946/1948" type="inclusive">1939-1948</unitdate><container altrender="Record Storage Box (Paige)" id="5288cd9fb71588f9caa7aed1f355b7f1" label="mixed materials [A0000000068246]" type="box">1</container><container id="7eff2df4450d7cd0a40c2283471848cf" parent="5288cd9fb71588f9caa7aed1f355b7f1" type="folder">6</container></did></c><c id="43c9135a35094692a362d7bce84c8af5" level="file"><did><unittitle>Lab Notebook 3</unittitle><unitdate normal="1950/1951" type="inclusive">1950 September 25-1951 November</unitdate><container altrender="Record Storage Box (Paige)" id="3ce2710730e6359ad84d6eb48cd28791" label="mixed materials [A0000000068246]" type="box">1</container><container id="5aa84f19f6ed2beba522ecc3d4843d04" parent="3ce2710730e6359ad84d6eb48cd28791" type="folder">7</container></did></c><c id="e49f444718bb461e9a72f6bd9d6a0e52" level="file"><did><unittitle>Lab Notebook 4</unittitle><unitdate normal="1951/1952" type="inclusive">1951 November 27-1952 May 23</unitdate><container altrender="Record Storage Box (Paige)" id="80403e6c651c1dbb3222c7c725305286" label="mixed materials [A0000000068246]" type="box">1</container><container id="c8ea3551d2235f86f0bf1e63c59a57ca" parent="80403e6c651c1dbb3222c7c725305286" type="folder">8</container></did></c><c id="75846c9ffde14ace8f2caad13a732a4a" level="file"><did><unittitle>Lab Notebook 6</unittitle><unitdate normal="1952/1953" type="inclusive">1952 November 21-1953 January 20</unitdate><container altrender="Record Storage Box (Paige)" id="956572c62a909d10cc32617aac0595a0" label="mixed materials [A0000000068246]" type="box">1</container><container id="c926e84a9fb51dc2f35db60d3b55c1ab" parent="956572c62a909d10cc32617aac0595a0" type="folder">9</container></did></c><c id="92aaeb36b2c6437eab3a574a603bb030" level="file"><did><unittitle>Lab Notebook 7</unittitle><unitdate normal="1953/1954" type="inclusive">1953 January 20-1954 March 12</unitdate><container altrender="Record Storage Box (Paige)" id="f838fad07d7d19392008db468d589fab" label="mixed materials [A0000000068246]" type="box">1</container><container id="3a33bb7e2d2e807100c68fb645429a89" parent="f838fad07d7d19392008db468d589fab" type="folder">10</container></did></c><c id="e5b30ed552654b4d97a9fee7796b3c1c" level="file"><did><unittitle>Ledger, "Record"</unittitle><unitdate normal="1949/1952" type="inclusive">1949 March 14-1952</unitdate><container altrender="Record Storage Box (Paige)" id="7795fe99c550f70aaefd02ce8ddf71c2" label="mixed materials [A0000000068246]" type="box">1</container><container id="b7a6b9a7ae051a9ec70a5a5d86551902" parent="7795fe99c550f70aaefd02ce8ddf71c2" type="folder">11</container></did></c></dsc>
+</archdesc>
 </ead>
