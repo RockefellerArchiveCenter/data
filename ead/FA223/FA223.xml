@@ -1,205 +1,46 @@
-<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
-  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="under_revision" langencoding="iso639-2b" repositoryencoding="iso15511">
-    <eadid>FA223.xml</eadid>
-    <filedesc>
-      <titlestmt>
-        <titleproper type="filing">Rockefeller University records, Office of Communications and Public Affairs, News Releases, Series 1</titleproper>
-        <titleproper>A Guide to the Rockefeller University records, Office of Communications and Public Affairs, News Releases, Series 1
- <num>FA223</num></titleproper>
-      </titlestmt>
-      <publicationstmt>
-        <publisher>Rockefeller Archive Center</publisher>
-        <address>
-          <addressline>15 Dayton Avenue</addressline>
-          <addressline>Sleepy Hollow 10591</addressline>
-          <addressline>archive@rockarch.org</addressline>
-          <addressline>URL: <extptr xlink:href="http://www.rockarch.org" xlink:show="new" xlink:title="http://www.rockarch.org" xlink:type="simple"/></addressline>
-        </address>
-      </publicationstmt>
-    </filedesc>
-    <profiledesc>
-      <creation>This finding aid was produced using ArchivesSpace on <date>2018-09-05 00:10:43 -0400</date>.</creation>
-    </profiledesc>
-    <revisiondesc>
-      <change>
-        <date>2010 October 12</date>
-        <item>Paper finding aid converted to EAD/XML by AureXus in 2010. Imported into the Archvists’ Toolkit by Becky Robbins.</item>
-      </change>
-    </revisiondesc>
-  </eadheader>
-  <archdesc level="series">
-    <did>
-      <langmaterial>
-        <language langcode="eng">English</language>
-      </langmaterial>
-      <repository>
-        <corpname>Rockefeller Archive Center</corpname>
-      </repository>
-      <unittitle>Rockefeller University records, Office of Communications and Public Affairs, News Releases, Series 1</unittitle>
-      <origination label="creator">
-        <corpname role="aut" source="naf">Rockefeller University</corpname>
-      </origination>
-      <origination label="creator">
-        <corpname role="ctb" source="naf">Rockefeller Institute for Medical Research</corpname>
-      </origination>
-      <unitid>FA223</unitid>
-      <physdesc altrender="whole">
-        <extent altrender="materialtype spaceoccupied">0.44 Cubic Feet</extent>
-        <extent altrender="carrier">1 box</extent>
-      </physdesc>
-      <unitdate normal="1954/1990" type="inclusive">1954-1990</unitdate>
-      <physdesc id="3a3b47c8e8bee1addeeac7edd38b5a4a">1 box.</physdesc>
-    </did>
-    <fileplan id="1ebd1d7806b0194617ad7b82517b3b19">
-      <head>File Plan note</head>
-      <p>Former Classification: I 365-1</p>
-    </fileplan>
-    <scopecontent id="90a1e80775e39cb6d6f014280cecb3fe">
-      <head>Scope and Contents</head>
-      <p>News releases excluding those issued in connection with Program Planning and Development.</p>
-    </scopecontent>
-    <arrangement id="92f3146ea4d72fd46828b2ece85e7933">
-      <head>Arrangement</head>
-      <p>Chronological</p>
-    </arrangement>
-    <prefercite id="5720c2d507ba1f866785f549adb9ad01">
-      <head>Preferred Citation</head>
-      <p>Information regarding the Rockefeller Archive Center's preferred elements and forms of citation can be found at <extref href="http://www.rockarch.org/research/citations.php">http://www.rockarch.org/research/citations.php</extref></p>
-    </prefercite>
-    <accessrestrict id="15b0d990f71c447fa0d0a2fc212d5aad">
-      <head>Conditions Governing Access note</head>
-      <p>Open for researchd. Brittle or damaged items are available at the discretion of RAC.</p>
-    </accessrestrict>
-    <controlaccess>
-      <subject source="lcsh">Public relations</subject>
-    </controlaccess>
-    <dsc>
-      <c id="c57552b759754e029d7857de89853b57" level="file">
-        <did>
-          <unitdate normal="1954/1971" type="inclusive">1954-1971</unitdate>
-          <container altrender="Letter Document Storage Box" id="bf185a5046e91e6208dcd46d60e7ac43" label="mixed materials [A0000000090276]" type="box">1</container>
-          <container id="b2c73771155db5f1ca1f493b3a850866" parent="bf185a5046e91e6208dcd46d60e7ac43" type="folder">1</container>
-        </did>
-      </c>
-      <c id="83b3228e5e104a73931ac0191033c810" level="file">
-        <did>
-          <unitdate normal="1972/1972" type="inclusive">1972</unitdate>
-          <container altrender="Letter Document Storage Box" id="2d9f33baf91b22a81908db8a46372963" label="mixed materials [A0000000090276]" type="box">1</container>
-          <container id="61919ee8b66c4c9da0460b6d88ed584b" parent="2d9f33baf91b22a81908db8a46372963" type="folder">2</container>
-        </did>
-      </c>
-      <c id="868ce608b58f45e184cbee503434083e" level="file">
-        <did>
-          <unitdate normal="1973/1973" type="inclusive">1973</unitdate>
-          <container altrender="Letter Document Storage Box" id="f89c3c8901f2abca122a4a50d2874b54" label="mixed materials [A0000000090276]" type="box">1</container>
-          <container id="b35da297b5ba3c054bfcce934a4a0b3a" parent="f89c3c8901f2abca122a4a50d2874b54" type="folder">3</container>
-        </did>
-      </c>
-      <c id="e4895625e92a48d78870a9131cbfd122" level="file">
-        <did>
-          <unitdate normal="1974/1974" type="inclusive">1974</unitdate>
-          <container altrender="Letter Document Storage Box" id="cedd0604fbd28a86203160f00059c050" label="mixed materials [A0000000090276]" type="box">1</container>
-          <container id="d31c06c383624c3e0ffe22aefa16cd55" parent="cedd0604fbd28a86203160f00059c050" type="folder">4</container>
-        </did>
-      </c>
-      <c id="579c0f2a90704ccf82f623b3816375c3" level="file">
-        <did>
-          <unitdate normal="1975/1975" type="inclusive">1975</unitdate>
-          <container altrender="Letter Document Storage Box" id="056edbc4aad00eccbabe34f78e41a40e" label="mixed materials [A0000000090276]" type="box">1</container>
-          <container id="8495769a070ed1f2ca638cdd2187b011" parent="056edbc4aad00eccbabe34f78e41a40e" type="folder">5</container>
-        </did>
-      </c>
-      <c id="fa3bd40460bb465fb0165d8e0b374929" level="file">
-        <did>
-          <unitdate normal="1976/1976" type="inclusive">1976</unitdate>
-          <container altrender="Letter Document Storage Box" id="12cefea238ec32bd33aa078c627a08ca" label="mixed materials [A0000000090276]" type="box">1</container>
-          <container id="481f271ff9597b0822041b3d5c11a720" parent="12cefea238ec32bd33aa078c627a08ca" type="folder">6</container>
-        </did>
-      </c>
-      <c id="3153688481624966abf7841af014e4e9" level="file">
-        <did>
-          <unitdate normal="1977/1977" type="inclusive">1977</unitdate>
-          <container altrender="Letter Document Storage Box" id="0bce68439a1abba39dc63621ecf4246d" label="mixed materials [A0000000090276]" type="box">1</container>
-          <container id="8e6bafbafa5ed30be4d64ca769c1b2d0" parent="0bce68439a1abba39dc63621ecf4246d" type="folder">7</container>
-        </did>
-      </c>
-      <c id="e022d09919a64f579b38ce7d82d99f79" level="file">
-        <did>
-          <unitdate normal="1978/1980" type="inclusive">1978-1980</unitdate>
-          <container altrender="Letter Document Storage Box" id="c91bed047088400bc13ea930aa80770f" label="mixed materials [A0000000090276]" type="box">1</container>
-          <container id="0cda6f376a05a614dbdb3967c35e65ff" parent="c91bed047088400bc13ea930aa80770f" type="folder">8</container>
-        </did>
-      </c>
-      <c id="0a5cca0bd95642029abd9e47f3a853d2" level="file">
-        <did>
-          <unitdate normal="1981/1981" type="inclusive">1981</unitdate>
-          <container altrender="Letter Document Storage Box" id="c0423506e5fefe822ecdd76f01438a83" label="mixed materials [A0000000090276]" type="box">1</container>
-          <container id="53a2ec24955b2c33a11236490b5b2f6a" parent="c0423506e5fefe822ecdd76f01438a83" type="folder">9</container>
-        </did>
-      </c>
-      <c id="34616781827e485192d7d0664a1e0adb" level="file">
-        <did>
-          <unitdate normal="1982/1982" type="inclusive">1982</unitdate>
-          <container altrender="Letter Document Storage Box" id="cf179d5d33b73dddd6c34b3fdeef75be" label="mixed materials [A0000000090276]" type="box">1</container>
-          <container id="9efa5c8de30c221fea8bb57fd2445bb6" parent="cf179d5d33b73dddd6c34b3fdeef75be" type="folder">10</container>
-        </did>
-      </c>
-      <c id="53aa0b0a71eb487f9e832a9e56842ea9" level="file">
-        <did>
-          <unitdate normal="1983/1983" type="inclusive">1983</unitdate>
-          <container altrender="Letter Document Storage Box" id="2b53cab30d1646ec07f06e9f31139e0d" label="mixed materials [A0000000090276]" type="box">1</container>
-          <container id="251d8961f47032121c439088e3ea793a" parent="2b53cab30d1646ec07f06e9f31139e0d" type="folder">11</container>
-        </did>
-      </c>
-      <c id="5b45918209c34a7996c7e3704e160826" level="file">
-        <did>
-          <unitdate normal="1984/1984" type="inclusive">1984</unitdate>
-          <container altrender="Letter Document Storage Box" id="bde4e5fc2510cf09138443ee06499d55" label="mixed materials [A0000000090276]" type="box">1</container>
-          <container id="3ab58c409956255fada228ab80cfbd96" parent="bde4e5fc2510cf09138443ee06499d55" type="folder">12</container>
-        </did>
-      </c>
-      <c id="1b628032db8f4e9c9c83f4b86a5c10f7" level="file">
-        <did>
-          <unitdate normal="1985/1985" type="inclusive">1985</unitdate>
-          <container altrender="Letter Document Storage Box" id="c8ccf6a1731075c3bf6756633cebb73c" label="mixed materials [A0000000090276]" type="box">1</container>
-          <container id="7f6fb2bad20f702ff1f72fe64f52f804" parent="c8ccf6a1731075c3bf6756633cebb73c" type="folder">13</container>
-        </did>
-      </c>
-      <c id="1f5fceac2f5c4758a817e511d5513853" level="file">
-        <did>
-          <unitdate normal="1986/1986" type="inclusive">1986</unitdate>
-          <container altrender="Letter Document Storage Box" id="69f986f25e72b5956370de37de6ddfb7" label="mixed materials [A0000000090276]" type="box">1</container>
-          <container id="616fb4879b7f9519ca698363a69b2103" parent="69f986f25e72b5956370de37de6ddfb7" type="folder">14</container>
-        </did>
-      </c>
-      <c id="d27b1fe694504bd1b919f84da4ef6fb0" level="file">
-        <did>
-          <unitdate normal="1987/1987" type="inclusive">1987</unitdate>
-          <container altrender="Letter Document Storage Box" id="5ce093b5815b21d1b07ff67a1c40e3d5" label="mixed materials [A0000000090276]" type="box">1</container>
-          <container id="2801d05b8dfb70e74721865450521943" parent="5ce093b5815b21d1b07ff67a1c40e3d5" type="folder">15</container>
-        </did>
-      </c>
-      <c id="5500166f9f384a95a2ee0019003f7ef6" level="file">
-        <did>
-          <unitdate normal="1988/1988" type="inclusive">1988</unitdate>
-          <container altrender="Letter Document Storage Box" id="d2439e42ad2165c66dabb8fa5602ef7f" label="mixed materials [A0000000090276]" type="box">1</container>
-          <container id="476176b6a3f1796f4f014577b0280534" parent="d2439e42ad2165c66dabb8fa5602ef7f" type="folder">16</container>
-        </did>
-      </c>
-      <c id="9abacd2ed2a14f4ebd267d0d7dc7727d" level="file">
-        <did>
-          <unitdate normal="1989/1989" type="inclusive">1989</unitdate>
-          <container altrender="Letter Document Storage Box" id="d532614f41049b0365fa0f0647e3d4d6" label="mixed materials [A0000000090276]" type="box">1</container>
-          <container id="7917a4343380f38b29c664c00e881d7f" parent="d532614f41049b0365fa0f0647e3d4d6" type="folder">17</container>
-        </did>
-      </c>
-      <c id="3c9cbd895e564caa9d06fee2ea01a1f7" level="file">
-        <did>
-          <unitdate normal="1990/1990" type="inclusive">1990</unitdate>
-          <container altrender="Letter Document Storage Box" id="d17f64510fa30a75b4678384ad5471cd" label="mixed materials [A0000000090276]" type="box">1</container>
-          <container id="bcafdca0618a94b7ba87843deba50db4" parent="d17f64510fa30a75b4678384ad5471cd" type="folder">18</container>
-        </did>
-      </c>
-    </dsc>
-  </archdesc>
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="under_revision" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid>FA223.xml</eadid><filedesc><titlestmt><titleproper type="filing">Rockefeller University records, Office of Communications and Public Affairs, News Releases, Series 1</titleproper><titleproper>A Guide to the Rockefeller University records, Office of Communications and Public Affairs, News Releases, Series 1
+ <num>FA223</num></titleproper></titlestmt><publicationstmt><publisher>Rockefeller Archive Center</publisher><address><addressline>15 Dayton Avenue</addressline><addressline>Sleepy Hollow 10591</addressline><addressline>archive@rockarch.org</addressline><addressline>URL: <extptr xlink:href="http://www.rockarch.org" xlink:show="new" xlink:title="http://www.rockarch.org" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2019-08-07 00:02:04 -0400</date>.</creation></profiledesc><revisiondesc><change><date>2010 October 12</date><item>Paper finding aid converted to EAD/XML by AureXus in 2010. Imported into the Archvists’ Toolkit by Becky Robbins.</item></change></revisiondesc></eadheader><archdesc level="series">
+  <did>
+    <langmaterial>
+      <language langcode="eng">English</language>
+    </langmaterial>
+    <repository>
+      <corpname>Rockefeller Archive Center</corpname>
+    </repository>
+    <unittitle>Rockefeller University records, Office of Communications and Public Affairs, News Releases, Series 1</unittitle>
+    <origination label="creator">
+      <corpname role="aut" source="naf">Rockefeller University</corpname>
+    </origination>
+    <origination label="creator">
+      <corpname role="ctb" source="naf">Rockefeller Institute for Medical Research</corpname>
+    </origination>
+    <unitid>FA223</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">0.38 Cubic Feet</extent>
+      <extent altrender="carrier">1 letter document box</extent>
+    </physdesc>
+    <unitdate normal="1954/1990" type="inclusive">1954-1990</unitdate>
+    <physdesc id="3a3b47c8e8bee1addeeac7edd38b5a4a">1 box.</physdesc>
+  </did>
+  <fileplan id="1ebd1d7806b0194617ad7b82517b3b19">
+    <head>File Plan note</head>
+<p>Former Classification: I 365-1</p>  </fileplan>
+  <scopecontent id="90a1e80775e39cb6d6f014280cecb3fe">
+    <head>Scope and Contents</head>
+<p>News releases excluding those issued in connection with Program Planning and Development.</p>  </scopecontent>
+  <arrangement id="92f3146ea4d72fd46828b2ece85e7933">
+    <head>Arrangement</head>
+<p>Chronological</p>  </arrangement>
+  <prefercite id="5720c2d507ba1f866785f549adb9ad01">
+    <head>Preferred Citation</head>
+<p>Information regarding the Rockefeller Archive Center's preferred elements and forms of citation can be found at <extref href="http://www.rockarch.org/research/citations.php">http://www.rockarch.org/research/citations.php</extref></p>  </prefercite>
+  <accessrestrict id="15b0d990f71c447fa0d0a2fc212d5aad">
+    <head>Conditions Governing Access note</head>
+<p>Open for researchd. Brittle or damaged items are available at the discretion of RAC.</p>  </accessrestrict>
+  <controlaccess>
+    <subject source="lcsh">Public relations</subject>
+  </controlaccess>
+  <dsc><c id="c57552b759754e029d7857de89853b57" level="file"><did><unitdate normal="1954/1971" type="inclusive">1954-1971</unitdate><container altrender="Letter Document Storage Box" id="1779615fadb37c5ca8ad0e4008eff160" label="mixed materials [A0000000090276]" type="box">1</container><container id="ac134356d2eb2510e5a2ce3ac5cbc1a2" parent="1779615fadb37c5ca8ad0e4008eff160" type="folder">1</container></did></c><c id="83b3228e5e104a73931ac0191033c810" level="file"><did><unitdate normal="1972/1972" type="inclusive">1972</unitdate><container altrender="Letter Document Storage Box" id="bc4255626c0300d40f3ceca70761a90f" label="mixed materials [A0000000090276]" type="box">1</container><container id="094b7879aa254e93e9ef05b52461f478" parent="bc4255626c0300d40f3ceca70761a90f" type="folder">2</container></did></c><c id="868ce608b58f45e184cbee503434083e" level="file"><did><unitdate normal="1973/1973" type="inclusive">1973</unitdate><container altrender="Letter Document Storage Box" id="e3b983e32951f933a1f2389802ef82d7" label="mixed materials [A0000000090276]" type="box">1</container><container id="01efa24cd241924725a6f61501f4e97d" parent="e3b983e32951f933a1f2389802ef82d7" type="folder">3</container></did></c><c id="e4895625e92a48d78870a9131cbfd122" level="file"><did><unitdate normal="1974/1974" type="inclusive">1974</unitdate><container altrender="Letter Document Storage Box" id="44eac6a358e55c2cac9e142b2213918f" label="mixed materials [A0000000090276]" type="box">1</container><container id="889f987c4ca75166691e2d4935233c90" parent="44eac6a358e55c2cac9e142b2213918f" type="folder">4</container></did></c><c id="579c0f2a90704ccf82f623b3816375c3" level="file"><did><unitdate normal="1975/1975" type="inclusive">1975</unitdate><container altrender="Letter Document Storage Box" id="1fe059dadfd28ab03fa752c8e0d4cdf1" label="mixed materials [A0000000090276]" type="box">1</container><container id="3a7057ab23d4e981673642dd69857a77" parent="1fe059dadfd28ab03fa752c8e0d4cdf1" type="folder">5</container></did></c><c id="fa3bd40460bb465fb0165d8e0b374929" level="file"><did><unitdate normal="1976/1976" type="inclusive">1976</unitdate><container altrender="Letter Document Storage Box" id="910009d5a92be946f061bfc6b94f3fd3" label="mixed materials [A0000000090276]" type="box">1</container><container id="eb5946081cd8697ea67a0249ba35c7b7" parent="910009d5a92be946f061bfc6b94f3fd3" type="folder">6</container></did></c><c id="3153688481624966abf7841af014e4e9" level="file"><did><unitdate normal="1977/1977" type="inclusive">1977</unitdate><container altrender="Letter Document Storage Box" id="3c25c4ec0b894eb4748b12517cd3ef80" label="mixed materials [A0000000090276]" type="box">1</container><container id="3a5416eeb0a4491f392251212e471caa" parent="3c25c4ec0b894eb4748b12517cd3ef80" type="folder">7</container></did></c><c id="e022d09919a64f579b38ce7d82d99f79" level="file"><did><unitdate normal="1978/1980" type="inclusive">1978-1980</unitdate><container altrender="Letter Document Storage Box" id="3f38d49fd6be16ed361c3d13474c5c04" label="mixed materials [A0000000090276]" type="box">1</container><container id="e66a937067a296eb5c18b1b0f3aa540c" parent="3f38d49fd6be16ed361c3d13474c5c04" type="folder">8</container></did></c><c id="0a5cca0bd95642029abd9e47f3a853d2" level="file"><did><unitdate normal="1981/1981" type="inclusive">1981</unitdate><container altrender="Letter Document Storage Box" id="3b82cf755d6a3ec216e25259a79e9872" label="mixed materials [A0000000090276]" type="box">1</container><container id="7820eaee208856972f2bdc2da0683d3c" parent="3b82cf755d6a3ec216e25259a79e9872" type="folder">9</container></did></c><c id="34616781827e485192d7d0664a1e0adb" level="file"><did><unitdate normal="1982/1982" type="inclusive">1982</unitdate><container altrender="Letter Document Storage Box" id="155cda45cd4b2601959579a0cd9e0e2c" label="mixed materials [A0000000090276]" type="box">1</container><container id="4b062ac14ecda270c69bcc01099e925d" parent="155cda45cd4b2601959579a0cd9e0e2c" type="folder">10</container></did></c><c id="53aa0b0a71eb487f9e832a9e56842ea9" level="file"><did><unitdate normal="1983/1983" type="inclusive">1983</unitdate><container altrender="Letter Document Storage Box" id="e63caed365d10d06892f2ac837ba9d2a" label="mixed materials [A0000000090276]" type="box">1</container><container id="63e97e8bf8ccb505d8e625fa88c7770e" parent="e63caed365d10d06892f2ac837ba9d2a" type="folder">11</container></did></c><c id="5b45918209c34a7996c7e3704e160826" level="file"><did><unitdate normal="1984/1984" type="inclusive">1984</unitdate><container altrender="Letter Document Storage Box" id="d723dac80a28533b0c8bd698a94c98e3" label="mixed materials [A0000000090276]" type="box">1</container><container id="b4327542ddf1eaffc552d9ba608705c9" parent="d723dac80a28533b0c8bd698a94c98e3" type="folder">12</container></did></c><c id="1b628032db8f4e9c9c83f4b86a5c10f7" level="file"><did><unitdate normal="1985/1985" type="inclusive">1985</unitdate><container altrender="Letter Document Storage Box" id="df0fb1d27043536927ea52766c57a09c" label="mixed materials [A0000000090276]" type="box">1</container><container id="d0997f549f03d58d0f06ae8af760e494" parent="df0fb1d27043536927ea52766c57a09c" type="folder">13</container></did></c><c id="1f5fceac2f5c4758a817e511d5513853" level="file"><did><unitdate normal="1986/1986" type="inclusive">1986</unitdate><container altrender="Letter Document Storage Box" id="8def93f57db43d765839b0abe26cef18" label="mixed materials [A0000000090276]" type="box">1</container><container id="c18f9f010ea78a8cae22015454f8dbf3" parent="8def93f57db43d765839b0abe26cef18" type="folder">14</container></did></c><c id="d27b1fe694504bd1b919f84da4ef6fb0" level="file"><did><unitdate normal="1987/1987" type="inclusive">1987</unitdate><container altrender="Letter Document Storage Box" id="d713874f61b9a26c661cab1cace924bd" label="mixed materials [A0000000090276]" type="box">1</container><container id="4edba3fb3678363fbb3b271a21b61532" parent="d713874f61b9a26c661cab1cace924bd" type="folder">15</container></did></c><c id="5500166f9f384a95a2ee0019003f7ef6" level="file"><did><unitdate normal="1988/1988" type="inclusive">1988</unitdate><container altrender="Letter Document Storage Box" id="0619167a2196672674929c9f7a488e79" label="mixed materials [A0000000090276]" type="box">1</container><container id="c56234de754e837127cb6512b084ffbc" parent="0619167a2196672674929c9f7a488e79" type="folder">16</container></did></c><c id="9abacd2ed2a14f4ebd267d0d7dc7727d" level="file"><did><unitdate normal="1989/1989" type="inclusive">1989</unitdate><container altrender="Letter Document Storage Box" id="dc566d75d0d5f28a3d90428a6f32763c" label="mixed materials [A0000000090276]" type="box">1</container><container id="97d5cc4dcc646a1cc17c96f79a65b742" parent="dc566d75d0d5f28a3d90428a6f32763c" type="folder">17</container></did></c><c id="3c9cbd895e564caa9d06fee2ea01a1f7" level="file"><did><unitdate normal="1990/1990" type="inclusive">1990</unitdate><container altrender="Letter Document Storage Box" id="67ee991e205715d45c58e2e17024b3b0" label="mixed materials [A0000000090276]" type="box">1</container><container id="5b943b47492fda612d07b72da803d235" parent="67ee991e205715d45c58e2e17024b3b0" type="folder">18</container></did></c></dsc>
+</archdesc>
 </ead>

@@ -1,265 +1,49 @@
-<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
-  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="under_revision" langencoding="iso639-2b" repositoryencoding="iso15511">
-    <eadid>FA234.xml</eadid>
-    <filedesc>
-      <titlestmt>
-        <titleproper type="filing">Rockefeller University records, Telephone Directory</titleproper>
-        <titleproper>A Guide to the Rockefeller University records, Telephone Directory
- <num>FA234</num></titleproper>
-        <author>RDM</author>
-      </titlestmt>
-      <publicationstmt>
-        <publisher>Rockefeller Archive Center</publisher>
-        <p>
-          <date>1991 August 1, September 11</date>
-        </p>
-        <address>
-          <addressline>15 Dayton Avenue</addressline>
-          <addressline>Sleepy Hollow 10591</addressline>
-          <addressline>archive@rockarch.org</addressline>
-          <addressline>URL: <extptr xlink:href="http://www.rockarch.org" xlink:show="new" xlink:title="http://www.rockarch.org" xlink:type="simple"/></addressline>
-        </address>
-      </publicationstmt>
-    </filedesc>
-    <profiledesc>
-      <creation>This finding aid was produced using ArchivesSpace on <date>2018-08-04 00:02:29 -0400</date>.</creation>
-    </profiledesc>
-    <revisiondesc>
-      <change>
-        <date>2010 October 18</date>
-        <item>Paper finding aid converted to EAD/XML by AureXus in 2010. Imported into the Archvists’ Toolkit by Becky Robbins.</item>
-      </change>
-    </revisiondesc>
-  </eadheader>
-  <archdesc level="collection">
-    <did>
-      <langmaterial>
-        <language langcode="eng">English</language>
-      </langmaterial>
-      <repository>
-        <corpname>Rockefeller Archive Center</corpname>
-      </repository>
-      <unittitle>Rockefeller University records, Telephone Directory</unittitle>
-      <origination label="creator">
-        <corpname role="ctb" source="naf">Rockefeller Institute for Medical Research</corpname>
-      </origination>
-      <origination label="creator">
-        <corpname role="aut" source="naf">Rockefeller University</corpname>
-      </origination>
-      <unitid>FA234</unitid>
-      <physdesc altrender="whole">
-        <extent altrender="materialtype spaceoccupied">3.6 Cubic Feet</extent>
-        <extent altrender="carrier">3 boxes</extent>
-      </physdesc>
-      <unitdate normal="1958/2002" type="inclusive">1958-2002</unitdate>
-      <physdesc id="2c6bd192a6a2ed1612e35b6786b5d4f5">3 boxes.</physdesc>
-    </did>
-    <fileplan id="effd2c5ea6369a5cf110838be87e8011">
-      <head>File Plan note</head>
-      <p>Former Classification: I 457</p>
-    </fileplan>
-    <scopecontent id="e7fafd0a948e3ae3f2e3cb999d776ae0">
-      <head>Scope and Contents</head>
-      <p>The Telephone Directory of the Institute/University lists the names, telephone numbers, mail box numbers, and office/lab location of academic and non academic staff. An alphabetical index of "Offices and Services" is listed at the end of each directory.</p>
-    </scopecontent>
-    <processinfo id="452f97d0b5674d1b95bf4e4b90fb5d4c">
-      <head>Processing Information</head>
-      <p>Processed, August 1, 1991.</p>
-    </processinfo>
-    <arrangement id="1a7bf0b7eefcac7ed24e9e3df4f47e06">
-      <head>Arrangement</head>
-      <p>Chronological</p>
-    </arrangement>
-    <accessrestrict id="ef6a1b3254c22d3c247f72a9901af9ea">
-      <head>Conditions Governing Access note</head>
-      <p>Open for research. Brittle or damaged items are available at the discretion of RAC.</p>
-    </accessrestrict>
-    <prefercite id="589399547379723515ed327c95fbca61">
-      <head>Preferred Citation</head>
-      <p>Information regarding the Rockefeller Archive Center's preferred elements and forms of citation can be found at <extref href="http://www.rockarch.org/research/citations.php">http://www.rockarch.org/research/citations.php</extref></p>
-    </prefercite>
-    <controlaccess>
-      <subject source="lcsh">Medical education</subject>
-    </controlaccess>
-    <dsc>
-      <c id="703f09b2f5fc4729b8399727ed4a3a9c" level="file">
-        <did>
-          <unittitle>Telephone directory</unittitle>
-          <unitdate normal="1958/2002" type="inclusive">1958-2002</unitdate>
-        </did>
-        <c id="3ae735910c1145a5b8ff6b2eb97eedaf" level="file">
-          <did>
-            <unittitle>Rockefeller Institute</unittitle>
-            <unitdate normal="1958/1959" type="inclusive">1958-1959</unitdate>
-            <container altrender="Letter Document Storage Box" id="dc0d341a834c4c1d7a988320e2280f56" label="mixed materials [A0000000086296]" type="box">1</container>
-            <container id="403506df6dbf23e45e7060db5451be6d" parent="dc0d341a834c4c1d7a988320e2280f56" type="folder">1</container>
-          </did>
-        </c>
-        <c id="5495aef5cd244485af9d987327cfd659" level="file">
-          <did>
-            <unittitle>Rockefeller Institute</unittitle>
-            <unitdate normal="1960/1962" type="inclusive">1960-1962</unitdate>
-            <container altrender="Letter Document Storage Box" id="82e1fa93b0fb548c8ff18d05e8784646" label="mixed materials [A0000000086296]" type="box">1</container>
-            <container id="d2b3b5eda304bb709d1246354a5f550e" parent="82e1fa93b0fb548c8ff18d05e8784646" type="folder">2</container>
-          </did>
-        </c>
-        <c id="12bbef6fe61c4a58baf22223f6f2675e" level="file">
-          <did>
-            <unittitle>Rockefeller Institute/University</unittitle>
-            <unitdate normal="1963/1965" type="inclusive">1963-1965</unitdate>
-            <container altrender="Letter Document Storage Box" id="e79e26fb28d6e9a12e6f64f752282807" label="mixed materials [A0000000086296]" type="box">1</container>
-            <container id="2b44ab8caed3b8c2ebe82060332213f6" parent="e79e26fb28d6e9a12e6f64f752282807" type="folder">3</container>
-          </did>
-        </c>
-        <c id="5c7b954073dd4d74b67535aea5c11c43" level="file">
-          <did>
-            <unittitle>Rockefeller University</unittitle>
-            <unitdate normal="1966/1971" type="inclusive">1966-1968 1970-1971</unitdate>
-            <container altrender="Letter Document Storage Box" id="32940161f0d968a8b6c78ddb44f9ac7f" label="mixed materials [A0000000086296]" type="box">1</container>
-            <container id="511f8d7c4d9a583c4ce7e667a6d0b738" parent="32940161f0d968a8b6c78ddb44f9ac7f" type="folder">4</container>
-          </did>
-        </c>
-        <c id="e4b53044c6a545c480c31379cc575403" level="file">
-          <did>
-            <unittitle>Rockefeller University</unittitle>
-            <unitdate normal="1971/1973" type="inclusive">1971-1972, 1972-1973</unitdate>
-            <container altrender="Letter Document Storage Box" id="c25f40a39a0f639f143926870772cf9d" label="mixed materials [A0000000086296]" type="box">1</container>
-            <container id="e9a56e9590bbda2a395f187a2ab5ec91" parent="c25f40a39a0f639f143926870772cf9d" type="folder">5</container>
-          </did>
-        </c>
-        <c id="ee40c0720e2e448b8939baaa26ce1b0c" level="file">
-          <did>
-            <unittitle>Rockefeller University</unittitle>
-            <unitdate normal="1973/1975" type="inclusive">1973-1974 1974-1975</unitdate>
-            <container altrender="Letter Document Storage Box" id="665cfd26b200bf42a729cf7413a3c987" label="mixed materials [A0000000086296]" type="box">1</container>
-            <container id="837d972796783183f7eeb169c3c2d27e" parent="665cfd26b200bf42a729cf7413a3c987" type="folder">6</container>
-          </did>
-        </c>
-        <c id="1bd89e3000b9497c80a2bdf173c5f9c3" level="file">
-          <did>
-            <unittitle>Rockefeller University</unittitle>
-            <unitdate normal="1975/1977" type="inclusive">1975-1976 1976-1977</unitdate>
-            <container altrender="Letter Document Storage Box" id="e50b5a66f861b826c34e0942b0dc7149" label="mixed materials [A0000000086296]" type="box">1</container>
-            <container id="36f04552ba8b03945d16c78c2d9dd9ff" parent="e50b5a66f861b826c34e0942b0dc7149" type="folder">7</container>
-          </did>
-        </c>
-        <c id="1e1422a5441a4d19b4923b3d395023cd" level="file">
-          <did>
-            <unittitle>Rockefeller University</unittitle>
-            <unitdate normal="1977/1979" type="inclusive">1977-1978 1978-1979</unitdate>
-            <container altrender="Letter Document Storage Box" id="adbbe2eb952c0e84900b25c4c8fd10a3" label="mixed materials [A0000000086297]" type="box">2</container>
-            <container id="41ccfa1f3d82dc870057ca4e5016385d" parent="adbbe2eb952c0e84900b25c4c8fd10a3" type="folder">1</container>
-          </did>
-        </c>
-        <c id="deb9d917515d4630a4022cf9a863df7c" level="file">
-          <did>
-            <unittitle>Rockefeller University</unittitle>
-            <unitdate normal="1979/1981" type="inclusive">1979-1980 1980-1981</unitdate>
-            <container altrender="Letter Document Storage Box" id="cedafa0c71784fc6f0977e68fce968fc" label="mixed materials [A0000000086297]" type="box">2</container>
-            <container id="dfc68e8a12960948eda631833f40e9f8" parent="cedafa0c71784fc6f0977e68fce968fc" type="folder">2</container>
-          </did>
-        </c>
-        <c id="d9ba17d153944a0983908870fa5bf172" level="file">
-          <did>
-            <unittitle>Rockefeller University</unittitle>
-            <unitdate>1981 October</unitdate>
-            <container altrender="Letter Document Storage Box" id="7bf0fc08e5488c725f408e5419fd721e" label="mixed materials [A0000000086297]" type="box">2</container>
-            <container id="8f7a23d908343ec364b01642cc9e0ab3" parent="7bf0fc08e5488c725f408e5419fd721e" type="folder">3</container>
-          </did>
-          <scopecontent id="e6d4ed58cdf21c9b362a6525ed490b23">
-            <head>Scope and Contents</head>
-            <p>Preliminary edition</p>
-          </scopecontent>
-        </c>
-        <c id="7d3f09a034eb4d70a69714e4ef5065f4" level="file">
-          <did>
-            <unittitle>Rockefeller University</unittitle>
-            <unitdate normal="1982/1982" type="inclusive">1982</unitdate>
-            <container altrender="Letter Document Storage Box" id="fbd390c5e2943407ad630543b951cf9e" label="mixed materials [A0000000086297]" type="box">2</container>
-            <container id="67cd3e1c38bbfce3534db6f21caa813d" parent="fbd390c5e2943407ad630543b951cf9e" type="folder">4</container>
-          </did>
-        </c>
-        <c id="49da0b7d0c5748479dd156e65c5cded2" level="file">
-          <did>
-            <unittitle>Rockefeller University</unittitle>
-            <unitdate normal="1982/1983" type="inclusive">1982-1983</unitdate>
-            <container altrender="Letter Document Storage Box" id="484fc9d1567738321d75dfe1d740a3b4" label="mixed materials [A0000000086297]" type="box">2</container>
-            <container id="0a1522f73f08e9ce5ea70556b0a82680" parent="484fc9d1567738321d75dfe1d740a3b4" type="folder">5</container>
-          </did>
-        </c>
-        <c id="82aacd07d47a4b12bed587add806e510" level="file">
-          <did>
-            <unittitle>Rockefeller University</unittitle>
-            <unitdate normal="1984/1984" type="inclusive">1984</unitdate>
-            <container altrender="Letter Document Storage Box" id="8f20b9fd777a73af2972ea3fb478b78b" label="mixed materials [A0000000086297]" type="box">2</container>
-            <container id="1b839d08214b9b875767f2577ed6642a" parent="8f20b9fd777a73af2972ea3fb478b78b" type="folder">6</container>
-          </did>
-        </c>
-        <c id="256ba8babba844e89a7c503952f567c2" level="file">
-          <did>
-            <unittitle>Rockefeller University</unittitle>
-            <unitdate normal="1985/1985" type="inclusive">1985</unitdate>
-            <container altrender="Letter Document Storage Box" id="bd54c565e3020ef828e326b13468eebe" label="mixed materials [A0000000086297]" type="box">2</container>
-            <container id="49b6504ded7a83dab87b451dc40eac7b" parent="bd54c565e3020ef828e326b13468eebe" type="folder">7</container>
-          </did>
-        </c>
-        <c id="ab5de06f68eb44b082849e3c1cfa8833" level="file">
-          <did>
-            <unittitle>Rockefeller University</unittitle>
-            <unitdate>1988 July</unitdate>
-            <container altrender="Letter Document Storage Box" id="11891a6a35cd46181c80bf685989d45f" label="mixed materials [A0000000086297]" type="box">2</container>
-            <container id="c41a323469b27703e6e39ad601e5fca3" parent="11891a6a35cd46181c80bf685989d45f" type="folder">8</container>
-          </did>
-        </c>
-        <c id="fea128d07da745c2976bb1f41d4c2e52" level="file">
-          <did>
-            <unittitle>Rockefeller University</unittitle>
-            <unitdate normal="1989/1989" type="inclusive">1989</unitdate>
-            <container altrender="Letter Document Storage Box" id="03fb02f0e43901f93df6e57e2427d6cd" label="mixed materials [A0000000086297]" type="box">2</container>
-            <container id="93bd69f0515cb69fefc189c3574c47ea" parent="03fb02f0e43901f93df6e57e2427d6cd" type="folder">9</container>
-          </did>
-        </c>
-        <c id="849212ab13994962a610115e8506b59b" level="file">
-          <did>
-            <unittitle>Rockefeller University</unittitle>
-            <unitdate normal="1990/1990" type="inclusive">1990</unitdate>
-            <container altrender="Letter Document Storage Box" id="578cd901ba7e797d370d4256fc3b652c" label="mixed materials [A0000000086297]" type="box">2</container>
-            <container id="8b73829b9d397a4cc7d491a3d37e89a3" parent="578cd901ba7e797d370d4256fc3b652c" type="folder">10</container>
-          </did>
-        </c>
-        <c id="5fc8e011f5c84eb7a6e259de5183d8ee" level="file">
-          <did>
-            <unittitle>Rockefeller University</unittitle>
-            <unitdate normal="1991/1992" type="inclusive">1991-1992</unitdate>
-            <container altrender="Letter Document Storage Box" id="3db12e7dee7be2a859274aec13055084" label="mixed materials [A0000000086297]" type="box">2</container>
-            <container id="cc65bbe4eb58d0d479550dd0abba0d54" parent="3db12e7dee7be2a859274aec13055084" type="folder">11</container>
-          </did>
-        </c>
-        <c id="71004039149a444db68d7961c238e91c" level="file">
-          <did>
-            <unittitle>Rockefeller University</unittitle>
-            <unitdate normal="1993/1993" type="inclusive">1993</unitdate>
-            <container altrender="Letter Document Storage Box" id="b38e1d7a8605187f025ca28448431397" label="mixed materials [A0000000086297]" type="box">2</container>
-            <container id="ac45795fcf582f49a4e9165cc37e96b7" parent="b38e1d7a8605187f025ca28448431397" type="folder">12</container>
-          </did>
-        </c>
-        <c id="6cd84217015b4e3b99293e01f7a4838c" level="file">
-          <did>
-            <unittitle>Rockefeller University</unittitle>
-            <unitdate normal="1994/1995" type="inclusive">1994-1995</unitdate>
-            <container altrender="Half Ltr Document Storage Box" id="629e545108c09a2220fefb39f3d8fbf1" label="mixed materials [A0000000086298]" type="box">3</container>
-            <container id="0ef04b69239992a8e317241766958483" parent="629e545108c09a2220fefb39f3d8fbf1" type="folder">1</container>
-          </did>
-        </c>
-        <c id="8d6e7ecdf29044df8926d645e532bbe2" level="file">
-          <did>
-            <unittitle>Rockefeller University</unittitle>
-            <unitdate>Spring 2002</unitdate>
-            <container altrender="Half Ltr Document Storage Box" id="1375e2c8ea43771cc23313ee90eb9ba6" label="mixed materials [A0000000086298]" type="box">3</container>
-            <container id="f04c1154538dd1c1aaeb3a9482c6457e" parent="1375e2c8ea43771cc23313ee90eb9ba6" type="folder">2</container>
-          </did>
-        </c>
-      </c>
-    </dsc>
-  </archdesc>
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="under_revision" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid>FA234.xml</eadid><filedesc><titlestmt><titleproper type="filing">Rockefeller University records, Telephone Directory</titleproper><titleproper>A Guide to the Rockefeller University records, Telephone Directory
+ <num>FA234</num></titleproper><author>RDM</author></titlestmt><publicationstmt><publisher>Rockefeller Archive Center</publisher><p><date>1991 August 1, September 11</date></p><address><addressline>15 Dayton Avenue</addressline><addressline>Sleepy Hollow 10591</addressline><addressline>archive@rockarch.org</addressline><addressline>URL: <extptr xlink:href="http://www.rockarch.org" xlink:show="new" xlink:title="http://www.rockarch.org" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2019-08-07 00:04:40 -0400</date>.</creation></profiledesc><revisiondesc><change><date>2010 October 18</date><item>Paper finding aid converted to EAD/XML by AureXus in 2010. Imported into the Archvists’ Toolkit by Becky Robbins.</item></change></revisiondesc></eadheader><archdesc level="collection">
+  <did>
+    <langmaterial>
+      <language langcode="eng">English</language>
+    </langmaterial>
+    <repository>
+      <corpname>Rockefeller Archive Center</corpname>
+    </repository>
+    <unittitle>Rockefeller University records, Telephone Directory</unittitle>
+    <origination label="creator">
+      <corpname role="ctb" source="naf">Rockefeller Institute for Medical Research</corpname>
+    </origination>
+    <origination label="creator">
+      <corpname role="aut" source="naf">Rockefeller University</corpname>
+    </origination>
+    <unitid>FA234</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">0.95 Cubic Feet</extent>
+      <extent altrender="carrier">3 boxes</extent>
+    </physdesc>
+    <unitdate normal="1958/2002" type="inclusive">1958-2002</unitdate>
+    <physdesc id="2c6bd192a6a2ed1612e35b6786b5d4f5">3 boxes.</physdesc>
+  </did>
+  <fileplan id="effd2c5ea6369a5cf110838be87e8011">
+    <head>File Plan note</head>
+<p>Former Classification: I 457</p>  </fileplan>
+  <scopecontent id="e7fafd0a948e3ae3f2e3cb999d776ae0">
+    <head>Scope and Contents</head>
+<p>The Telephone Directory of the Institute/University lists the names, telephone numbers, mail box numbers, and office/lab location of academic and non academic staff. An alphabetical index of "Offices and Services" is listed at the end of each directory.</p>  </scopecontent>
+  <processinfo id="452f97d0b5674d1b95bf4e4b90fb5d4c">
+    <head>Processing Information</head>
+<p>Processed, August 1, 1991.</p>  </processinfo>
+  <arrangement id="1a7bf0b7eefcac7ed24e9e3df4f47e06">
+    <head>Arrangement</head>
+<p>Chronological</p>  </arrangement>
+  <accessrestrict id="ef6a1b3254c22d3c247f72a9901af9ea">
+    <head>Conditions Governing Access note</head>
+<p>Open for research. Brittle or damaged items are available at the discretion of RAC.</p>  </accessrestrict>
+  <prefercite id="589399547379723515ed327c95fbca61">
+    <head>Preferred Citation</head>
+<p>Information regarding the Rockefeller Archive Center's preferred elements and forms of citation can be found at <extref href="http://www.rockarch.org/research/citations.php">http://www.rockarch.org/research/citations.php</extref></p>  </prefercite>
+  <controlaccess>
+    <subject source="lcsh">Medical education</subject>
+  </controlaccess>
+  <dsc><c id="703f09b2f5fc4729b8399727ed4a3a9c" level="file"><did><unittitle>Telephone directory</unittitle><unitdate normal="1958/2002" type="inclusive">1958-2002</unitdate></did><c id="3ae735910c1145a5b8ff6b2eb97eedaf" level="file"><did><unittitle>Rockefeller Institute</unittitle><unitdate normal="1958/1959" type="inclusive">1958-1959</unitdate><container altrender="Letter Document Storage Box" id="10272b29191dd7daf9da1d5cf3ac97cc" label="mixed materials [A0000000086296]" type="box">1</container><container id="844b5cc1659c508969cce49e36365f66" parent="10272b29191dd7daf9da1d5cf3ac97cc" type="folder">1</container></did></c><c id="5495aef5cd244485af9d987327cfd659" level="file"><did><unittitle>Rockefeller Institute</unittitle><unitdate normal="1960/1962" type="inclusive">1960-1962</unitdate><container altrender="Letter Document Storage Box" id="d2cf8646033ae2c62d4d0f34213b8ceb" label="mixed materials [A0000000086296]" type="box">1</container><container id="2e4b83e30a533966219c7be1ebfb9f95" parent="d2cf8646033ae2c62d4d0f34213b8ceb" type="folder">2</container></did></c><c id="12bbef6fe61c4a58baf22223f6f2675e" level="file"><did><unittitle>Rockefeller Institute/University</unittitle><unitdate normal="1963/1965" type="inclusive">1963-1965</unitdate><container altrender="Letter Document Storage Box" id="842e378357edfaedce41a42922117699" label="mixed materials [A0000000086296]" type="box">1</container><container id="9448de2afc626d80575f0d00b0effa61" parent="842e378357edfaedce41a42922117699" type="folder">3</container></did></c><c id="5c7b954073dd4d74b67535aea5c11c43" level="file"><did><unittitle>Rockefeller University</unittitle><unitdate normal="1966/1971" type="inclusive">1966-1968 1970-1971</unitdate><container altrender="Letter Document Storage Box" id="2feefd985cad9f56ce9562d956aaec28" label="mixed materials [A0000000086296]" type="box">1</container><container id="32edddef348093b623d1f9e7ceb2b56d" parent="2feefd985cad9f56ce9562d956aaec28" type="folder">4</container></did></c><c id="e4b53044c6a545c480c31379cc575403" level="file"><did><unittitle>Rockefeller University</unittitle><unitdate normal="1971/1973" type="inclusive">1971-1972, 1972-1973</unitdate><container altrender="Letter Document Storage Box" id="deafdeca7e4790c7f6f1b75f87deb676" label="mixed materials [A0000000086296]" type="box">1</container><container id="aaf4893af717f59118f72697d1d482ac" parent="deafdeca7e4790c7f6f1b75f87deb676" type="folder">5</container></did></c><c id="ee40c0720e2e448b8939baaa26ce1b0c" level="file"><did><unittitle>Rockefeller University</unittitle><unitdate normal="1973/1975" type="inclusive">1973-1974 1974-1975</unitdate><container altrender="Letter Document Storage Box" id="24204724967a531a2e09b3b363a26619" label="mixed materials [A0000000086296]" type="box">1</container><container id="87a9cc5edd14d917d36db93eab7ab5b6" parent="24204724967a531a2e09b3b363a26619" type="folder">6</container></did></c><c id="1bd89e3000b9497c80a2bdf173c5f9c3" level="file"><did><unittitle>Rockefeller University</unittitle><unitdate normal="1975/1977" type="inclusive">1975-1976 1976-1977</unitdate><container altrender="Letter Document Storage Box" id="278205b9563a93d3a3c23c0c0d31b53c" label="mixed materials [A0000000086296]" type="box">1</container><container id="f997c184ae3d23b4cad593130ea603c2" parent="278205b9563a93d3a3c23c0c0d31b53c" type="folder">7</container></did></c><c id="1e1422a5441a4d19b4923b3d395023cd" level="file"><did><unittitle>Rockefeller University</unittitle><unitdate normal="1977/1979" type="inclusive">1977-1978 1978-1979</unitdate><container altrender="Letter Document Storage Box" id="97388010bfd50326cd9909cda41d1faf" label="mixed materials [A0000000086297]" type="box">2</container><container id="305d316748b3d44cecb984506038addf" parent="97388010bfd50326cd9909cda41d1faf" type="folder">1</container></did></c><c id="deb9d917515d4630a4022cf9a863df7c" level="file"><did><unittitle>Rockefeller University</unittitle><unitdate normal="1979/1981" type="inclusive">1979-1980 1980-1981</unitdate><container altrender="Letter Document Storage Box" id="ad3d835102e5ac2a31db06b850baf768" label="mixed materials [A0000000086297]" type="box">2</container><container id="942457ee55389351dd215f3b9ceaeae7" parent="ad3d835102e5ac2a31db06b850baf768" type="folder">2</container></did></c><c id="d9ba17d153944a0983908870fa5bf172" level="file"><did><unittitle>Rockefeller University</unittitle><unitdate>1981 October</unitdate><container altrender="Letter Document Storage Box" id="1e08e9be5e83bd16eac297205ca1c909" label="mixed materials [A0000000086297]" type="box">2</container><container id="880ed50052f08695187eb2ed7683d074" parent="1e08e9be5e83bd16eac297205ca1c909" type="folder">3</container></did><scopecontent id="e6d4ed58cdf21c9b362a6525ed490b23"><head>Scope and Contents</head><p>Preliminary edition</p></scopecontent></c><c id="7d3f09a034eb4d70a69714e4ef5065f4" level="file"><did><unittitle>Rockefeller University</unittitle><unitdate normal="1982/1982" type="inclusive">1982</unitdate><container altrender="Letter Document Storage Box" id="70654dede956e6cedba486cbc8cf74f1" label="mixed materials [A0000000086297]" type="box">2</container><container id="cb05eeb13e261329dcbb29005dddd015" parent="70654dede956e6cedba486cbc8cf74f1" type="folder">4</container></did></c><c id="49da0b7d0c5748479dd156e65c5cded2" level="file"><did><unittitle>Rockefeller University</unittitle><unitdate normal="1982/1983" type="inclusive">1982-1983</unitdate><container altrender="Letter Document Storage Box" id="749ad699a2f8abe5b210a448f5f392f2" label="mixed materials [A0000000086297]" type="box">2</container><container id="23e5acce1440d81112bcb560ebf21630" parent="749ad699a2f8abe5b210a448f5f392f2" type="folder">5</container></did></c><c id="82aacd07d47a4b12bed587add806e510" level="file"><did><unittitle>Rockefeller University</unittitle><unitdate normal="1984/1984" type="inclusive">1984</unitdate><container altrender="Letter Document Storage Box" id="db3606dd872ad6547a59fb8270f38165" label="mixed materials [A0000000086297]" type="box">2</container><container id="f8cd3d69671b903adf8e5b540a8081d6" parent="db3606dd872ad6547a59fb8270f38165" type="folder">6</container></did></c><c id="256ba8babba844e89a7c503952f567c2" level="file"><did><unittitle>Rockefeller University</unittitle><unitdate normal="1985/1985" type="inclusive">1985</unitdate><container altrender="Letter Document Storage Box" id="ceb4e9129a9501683618b2768cd1164a" label="mixed materials [A0000000086297]" type="box">2</container><container id="c2134b523ee6bc85ed483efeb53c4f10" parent="ceb4e9129a9501683618b2768cd1164a" type="folder">7</container></did></c><c id="ab5de06f68eb44b082849e3c1cfa8833" level="file"><did><unittitle>Rockefeller University</unittitle><unitdate>1988 July</unitdate><container altrender="Letter Document Storage Box" id="b95bc06df0829129ccf126504b65db90" label="mixed materials [A0000000086297]" type="box">2</container><container id="558e4fabc4aae385958d7dbc4278d76b" parent="b95bc06df0829129ccf126504b65db90" type="folder">8</container></did></c><c id="fea128d07da745c2976bb1f41d4c2e52" level="file"><did><unittitle>Rockefeller University</unittitle><unitdate normal="1989/1989" type="inclusive">1989</unitdate><container altrender="Letter Document Storage Box" id="3d8078b32c4bf42404d9fed92995b4a1" label="mixed materials [A0000000086297]" type="box">2</container><container id="ac35c90abd9e2af9ebde74389a9d99a4" parent="3d8078b32c4bf42404d9fed92995b4a1" type="folder">9</container></did></c><c id="849212ab13994962a610115e8506b59b" level="file"><did><unittitle>Rockefeller University</unittitle><unitdate normal="1990/1990" type="inclusive">1990</unitdate><container altrender="Letter Document Storage Box" id="4c51bbc77cbdcde3e766b993607b1a1d" label="mixed materials [A0000000086297]" type="box">2</container><container id="772c688d2ca5b1f2f752417ce7dcdc0b" parent="4c51bbc77cbdcde3e766b993607b1a1d" type="folder">10</container></did></c><c id="5fc8e011f5c84eb7a6e259de5183d8ee" level="file"><did><unittitle>Rockefeller University</unittitle><unitdate normal="1991/1992" type="inclusive">1991-1992</unitdate><container altrender="Letter Document Storage Box" id="48de0f94a380dc761e6489e6e845af14" label="mixed materials [A0000000086297]" type="box">2</container><container id="5bea8112968151fc3a13c339a07ac47b" parent="48de0f94a380dc761e6489e6e845af14" type="folder">11</container></did></c><c id="71004039149a444db68d7961c238e91c" level="file"><did><unittitle>Rockefeller University</unittitle><unitdate normal="1993/1993" type="inclusive">1993</unitdate><container altrender="Letter Document Storage Box" id="c0522ef942f5f6560e777dfb6ba26f27" label="mixed materials [A0000000086297]" type="box">2</container><container id="aca2b3d85e7f93a3b007ffab7d6cd0e0" parent="c0522ef942f5f6560e777dfb6ba26f27" type="folder">12</container></did></c><c id="6cd84217015b4e3b99293e01f7a4838c" level="file"><did><unittitle>Rockefeller University</unittitle><unitdate normal="1994/1995" type="inclusive">1994-1995</unitdate><container altrender="Half Ltr Document Storage Box" id="7a4fcd07a30eb5d1b7744515443f8ca2" label="mixed materials [A0000000086298]" type="box">3</container><container id="1f8ab3a660e0e3ebd39243957038048e" parent="7a4fcd07a30eb5d1b7744515443f8ca2" type="folder">1</container></did></c><c id="8d6e7ecdf29044df8926d645e532bbe2" level="file"><did><unittitle>Rockefeller University</unittitle><unitdate>Spring 2002</unitdate><container altrender="Half Ltr Document Storage Box" id="ea9a0358906d46c5821e8a497e534242" label="mixed materials [A0000000086298]" type="box">3</container><container id="1edf002c09563151c18d322e09267cb0" parent="ea9a0358906d46c5821e8a497e534242" type="folder">2</container></did></c></c></dsc>
+</archdesc>
 </ead>

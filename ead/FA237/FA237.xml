@@ -1,157 +1,44 @@
-<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
-  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="under_revision" langencoding="iso639-2b" repositoryencoding="iso15511">
-    <eadid>FA237.xml</eadid>
-    <filedesc>
-      <titlestmt>
-        <titleproper type="filing">Rockefeller University, The Faculty and Students Club Inc. collection</titleproper>
-        <titleproper>A Guide to the Rockefeller University, The Faculty and Students Club Inc.collection
- <num>FA237</num></titleproper>
-        <author>BJG</author>
-      </titlestmt>
-      <publicationstmt>
-        <publisher>Rockefeller Archive Center</publisher>
-        <p>
-          <date>1988 May 9</date>
-        </p>
-        <address>
-          <addressline>15 Dayton Avenue</addressline>
-          <addressline>Sleepy Hollow 10591</addressline>
-          <addressline>archive@rockarch.org</addressline>
-          <addressline>URL: <extptr xlink:href="http://www.rockarch.org" xlink:show="new" xlink:title="http://www.rockarch.org" xlink:type="simple"/></addressline>
-        </address>
-      </publicationstmt>
-    </filedesc>
-    <profiledesc>
-      <creation>This finding aid was produced using ArchivesSpace on <date>2018-09-05 00:02:21 -0400</date>.</creation>
-    </profiledesc>
-    <revisiondesc>
-      <change>
-        <date>2010 October 25</date>
-        <item>Paper finding aid converted to EAD/XML by AureXus in 2010. Imported into the Archvists’ Toolkit by Becky Robbins.</item>
-      </change>
-    </revisiondesc>
-  </eadheader>
-  <archdesc level="collection">
-    <did>
-      <langmaterial>
-        <language langcode="eng">English</language>
-      </langmaterial>
-      <repository>
-        <corpname>Rockefeller Archive Center</corpname>
-      </repository>
-      <unittitle>Rockefeller University, The Faculty and Students Club, Inc. collection</unittitle>
-      <origination label="creator">
-        <corpname role="ctb" source="naf">Rockefeller Institute for Medical Research</corpname>
-      </origination>
-      <origination label="creator">
-        <corpname role="aut" source="naf">Rockefeller University</corpname>
-      </origination>
-      <unitid>FA237</unitid>
-      <physdesc altrender="whole">
-        <extent altrender="materialtype spaceoccupied">0.4 Cubic Feet</extent>
-      </physdesc>
-      <unitdate normal="1959/1988" type="inclusive">1959-1988</unitdate>
-    </did>
-    <bioghist id="06aed19a80aedc9c1af5cfbb250ab9d8">
-      <head>Biographical/Historical note</head>
-      <p>The Faculty and Students Club, Inc. was organized in 1957 where members could bring and store their own liquor until 1959 when a liquor license was granted. An independent, non-profit organization, the Faculty and Students Club was organized to facilitate the informal associations of faculty and students and their wives and friends. While operated separately from the administration of the RIMR and then the University, its members, by the terms of its corporate charter, must be associated with the University. Leo Wachsmuth was its first manager, serving until his retirement in 1981.</p>
-    </bioghist>
-    <scopecontent id="544901bf66ff5ed949a9d48f9302c9b9">
-      <head>Scope and Contents note</head>
-      <p>A Special Collection of the Rockefeller University.</p>
-      <p>Includes account books, correspondence, memos, minutes, and speeches.</p>
-      <p>Correspondents include Detlev W. Bronk, David Lyons, and David Rockefeller.</p>
-      <p>Subjects include the 25th anniversary, the 30th anniversary, and Leo Wachsmuth's retirement party.</p>
-    </scopecontent>
-    <arrangement id="9a926ea18a94bb4b1f4d0e6212dd1566">
-      <head>Arrangement note</head>
-      <p>Arranged in alphabetical order.</p>
-    </arrangement>
-    <prefercite id="a33c252cbf71fe02bed2dee164ef05e2">
-      <head>Preferred Citation</head>
-      <p>Information regarding the Rockefeller Archive Center's preferred elements and forms of citation can be found at <extref href="http://www.rockarch.org/research/citations.php">http://www.rockarch.org/research/citations.php</extref></p>
-    </prefercite>
-    <fileplan id="94a111026a693ee3a8b484519020af8f">
-      <head>File Plan note</head>
-      <p>Former Classification: I 650-1</p>
-    </fileplan>
-    <accessrestrict id="a2266ee46f3b6f28cef7427c71bd820a">
-      <head>Conditions Governing Access note</head>
-      <p>Open for research. Brittle or damaged items are available at the discretion of RAC.</p>
-    </accessrestrict>
-    <dsc>
-      <c id="a6d7d51ebe15494ea1e4775ee72384dd" level="file">
-        <did>
-          <unittitle>Account Books</unittitle>
-          <unitdate normal="1959/1979" type="inclusive">1959-1979</unitdate>
-          <container altrender="Letter Document Storage Box" id="b399ad6f7ad52e7d7a178f5cfacec9cb" label="mixed materials [A0000000086961]" type="box">1</container>
-          <container id="6baedb3616f4781df3e2657d3f3e1189" parent="b399ad6f7ad52e7d7a178f5cfacec9cb" type="folder">1</container>
-        </did>
-      </c>
-      <c id="0326454a2e7f4045b152ffeae380cdf6" level="file">
-        <did>
-          <unittitle>By-Laws, Proposed</unittitle>
-          <unitdate normal="1970/1970" type="inclusive">1970</unitdate>
-          <container altrender="Letter Document Storage Box" id="0ce5e2c5a55e91444f0e16a9fb75a65b" label="mixed materials [A0000000086961]" type="box">1</container>
-          <container id="2a62779d88160e7fd924a4ded917cf5c" parent="0ce5e2c5a55e91444f0e16a9fb75a65b" type="folder">2</container>
-        </did>
-      </c>
-      <c id="34cf445085d94a72815db06322ebf5ac" level="file">
-        <did>
-          <unittitle>Correspondence</unittitle>
-          <unitdate normal="1969/1980" type="inclusive">1969-1980</unitdate>
-          <container altrender="Letter Document Storage Box" id="a4f0fd090e498409debac6e63decebe9" label="mixed materials [A0000000086961]" type="box">1</container>
-          <container id="7d8e1517376f6cfbeb7b83a8b4d67301" parent="a4f0fd090e498409debac6e63decebe9" type="folder">3</container>
-        </did>
-      </c>
-      <c id="797a954c7787467eba2a0bc0c79998d5" level="file">
-        <did>
-          <unittitle>Correspondence</unittitle>
-          <unitdate normal="1981/1986" type="inclusive">1981-1986</unitdate>
-          <container altrender="Letter Document Storage Box" id="182d4430eee976401ef00f66d169cf94" label="mixed materials [A0000000086961]" type="box">1</container>
-          <container id="502059017c94a7ca63943bde9f2785f1" parent="182d4430eee976401ef00f66d169cf94" type="folder">4</container>
-        </did>
-      </c>
-      <c id="023a45f4173c4296953fa99f6e73d5d4" level="file">
-        <did>
-          <unittitle>Lease</unittitle>
-          <unitdate normal="1959/1959" type="inclusive">1959</unitdate>
-          <container altrender="Letter Document Storage Box" id="64d1fcc6a1084cadd2a0d923181ee50c" label="mixed materials [A0000000086961]" type="box">1</container>
-          <container id="9817f1f57377016f8b977af4b52e1426" parent="64d1fcc6a1084cadd2a0d923181ee50c" type="folder">5</container>
-        </did>
-      </c>
-      <c id="abb7a79b2b31444eae8990a64102b9fa" level="file">
-        <did>
-          <unittitle>Minutes</unittitle>
-          <unitdate normal="1977/1987" type="inclusive">1977-1987</unitdate>
-          <container altrender="Letter Document Storage Box" id="59a36f1c9670dd32c0ee8994f29190db" label="mixed materials [A0000000086961]" type="box">1</container>
-          <container id="e755dd2cc3e0028284747bab4db928f2" parent="59a36f1c9670dd32c0ee8994f29190db" type="folder">6</container>
-        </did>
-      </c>
-      <c id="b1d885e300d84daf81ffe4b6ec64f3a4" level="file">
-        <did>
-          <unittitle>25th Anniversary</unittitle>
-          <unitdate normal="1981/1983" type="inclusive">1981-1983</unitdate>
-          <container altrender="Letter Document Storage Box" id="399d5799eb8886ba613aa87f73047dfa" label="mixed materials [A0000000086961]" type="box">1</container>
-          <container id="06ae1092db4bcf4555b712fb179971c7" parent="399d5799eb8886ba613aa87f73047dfa" type="folder">7</container>
-        </did>
-      </c>
-      <c id="eacd70432fa249d6b5f31680364dd2ea" level="file">
-        <did>
-          <unittitle>30th Anniversary, Preparations and Speeches</unittitle>
-          <unitdate normal="1987/1988" type="inclusive">1987-1988</unitdate>
-          <container altrender="Letter Document Storage Box" id="52537318932334066989226a1b0427d8" label="mixed materials [A0000000086961]" type="box">1</container>
-          <container id="cfd032deba09279769b244c6a16e398b" parent="52537318932334066989226a1b0427d8" type="folder">8</container>
-        </did>
-      </c>
-      <c id="44f999f8163f4ad7aea0a1df414b74dd" level="file">
-        <did>
-          <unittitle>Wachsmuth, Leonhard</unittitle>
-          <unitdate normal="1981/1982" type="inclusive">1981-1982</unitdate>
-          <container altrender="Letter Document Storage Box" id="770664bf067a5c66e56e1caf13a3d67d" label="mixed materials [A0000000086961]" type="box">1</container>
-          <container id="4f09e1494bc61e90fab0c863c499e73a" parent="770664bf067a5c66e56e1caf13a3d67d" type="folder">9</container>
-        </did>
-      </c>
-    </dsc>
-  </archdesc>
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="under_revision" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid>FA237.xml</eadid><filedesc><titlestmt><titleproper type="filing">Rockefeller University, The Faculty and Students Club Inc. collection</titleproper><titleproper>A Guide to the Rockefeller University, The Faculty and Students Club Inc.collection
+ <num>FA237</num></titleproper><author>BJG</author></titlestmt><publicationstmt><publisher>Rockefeller Archive Center</publisher><p><date>1988 May 9</date></p><address><addressline>15 Dayton Avenue</addressline><addressline>Sleepy Hollow 10591</addressline><addressline>archive@rockarch.org</addressline><addressline>URL: <extptr xlink:href="http://www.rockarch.org" xlink:show="new" xlink:title="http://www.rockarch.org" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2019-08-07 00:04:56 -0400</date>.</creation></profiledesc><revisiondesc><change><date>2010 October 25</date><item>Paper finding aid converted to EAD/XML by AureXus in 2010. Imported into the Archvists’ Toolkit by Becky Robbins.</item></change></revisiondesc></eadheader><archdesc level="collection">
+  <did>
+    <langmaterial>
+      <language langcode="eng">English</language>
+    </langmaterial>
+    <repository>
+      <corpname>Rockefeller Archive Center</corpname>
+    </repository>
+    <unittitle>Rockefeller University, The Faculty and Students Club, Inc. collection</unittitle>
+    <origination label="creator">
+      <corpname role="ctb" source="naf">Rockefeller Institute for Medical Research</corpname>
+    </origination>
+    <origination label="creator">
+      <corpname role="aut" source="naf">Rockefeller University</corpname>
+    </origination>
+    <unitid>FA237</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">0.38 Cubic Feet</extent>
+    </physdesc>
+    <unitdate normal="1959/1988" type="inclusive">1959-1988</unitdate>
+  </did>
+  <bioghist id="06aed19a80aedc9c1af5cfbb250ab9d8">
+    <head>Biographical/Historical note</head>
+<p>The Faculty and Students Club, Inc. was organized in 1957 where members could bring and store their own liquor until 1959 when a liquor license was granted. An independent, non-profit organization, the Faculty and Students Club was organized to facilitate the informal associations of faculty and students and their wives and friends. While operated separately from the administration of the RIMR and then the University, its members, by the terms of its corporate charter, must be associated with the University. Leo Wachsmuth was its first manager, serving until his retirement in 1981.</p>  </bioghist>
+  <scopecontent id="544901bf66ff5ed949a9d48f9302c9b9">
+    <head>Scope and Contents note</head>
+<p>A Special Collection of the Rockefeller University.</p><p>Includes account books, correspondence, memos, minutes, and speeches.</p><p>Correspondents include Detlev W. Bronk, David Lyons, and David Rockefeller.</p><p>Subjects include the 25th anniversary, the 30th anniversary, and Leo Wachsmuth's retirement party.</p>  </scopecontent>
+  <arrangement id="9a926ea18a94bb4b1f4d0e6212dd1566">
+    <head>Arrangement note</head>
+<p>Arranged in alphabetical order.</p>  </arrangement>
+  <prefercite id="a33c252cbf71fe02bed2dee164ef05e2">
+    <head>Preferred Citation</head>
+<p>Information regarding the Rockefeller Archive Center's preferred elements and forms of citation can be found at <extref href="http://www.rockarch.org/research/citations.php">http://www.rockarch.org/research/citations.php</extref></p>  </prefercite>
+  <fileplan id="94a111026a693ee3a8b484519020af8f">
+    <head>File Plan note</head>
+<p>Former Classification: I 650-1</p>  </fileplan>
+  <accessrestrict id="a2266ee46f3b6f28cef7427c71bd820a">
+    <head>Conditions Governing Access note</head>
+<p>Open for research. Brittle or damaged items are available at the discretion of RAC.</p>  </accessrestrict>
+  <dsc><c id="a6d7d51ebe15494ea1e4775ee72384dd" level="file"><did><unittitle>Account Books</unittitle><unitdate normal="1959/1979" type="inclusive">1959-1979</unitdate><container altrender="Letter Document Storage Box" id="54de6a3f2881fefa17cc41324326878f" label="mixed materials [A0000000086961]" type="box">1</container><container id="9ac44343dcbbb0c1c63a97fed0ec516d" parent="54de6a3f2881fefa17cc41324326878f" type="folder">1</container></did></c><c id="0326454a2e7f4045b152ffeae380cdf6" level="file"><did><unittitle>By-Laws, Proposed</unittitle><unitdate normal="1970/1970" type="inclusive">1970</unitdate><container altrender="Letter Document Storage Box" id="ed397f3c23d160700a5d5320714dbfe7" label="mixed materials [A0000000086961]" type="box">1</container><container id="64af19f877a19402f7faafb77afdb3c6" parent="ed397f3c23d160700a5d5320714dbfe7" type="folder">2</container></did></c><c id="34cf445085d94a72815db06322ebf5ac" level="file"><did><unittitle>Correspondence</unittitle><unitdate normal="1969/1980" type="inclusive">1969-1980</unitdate><container altrender="Letter Document Storage Box" id="d1f75a7e7e891e84cf8cd791428247e3" label="mixed materials [A0000000086961]" type="box">1</container><container id="36fcb52735a331e7e0fdf30e20d166d6" parent="d1f75a7e7e891e84cf8cd791428247e3" type="folder">3</container></did></c><c id="797a954c7787467eba2a0bc0c79998d5" level="file"><did><unittitle>Correspondence</unittitle><unitdate normal="1981/1986" type="inclusive">1981-1986</unitdate><container altrender="Letter Document Storage Box" id="0c4d34c57e223bc42e874723986eb1c1" label="mixed materials [A0000000086961]" type="box">1</container><container id="5546f2608a29353e72cd41d06328fa8a" parent="0c4d34c57e223bc42e874723986eb1c1" type="folder">4</container></did></c><c id="023a45f4173c4296953fa99f6e73d5d4" level="file"><did><unittitle>Lease</unittitle><unitdate normal="1959/1959" type="inclusive">1959</unitdate><container altrender="Letter Document Storage Box" id="e512fc272efd14f9e0d157030aef2c93" label="mixed materials [A0000000086961]" type="box">1</container><container id="309f309e1834630cf3f88ed103522a55" parent="e512fc272efd14f9e0d157030aef2c93" type="folder">5</container></did></c><c id="abb7a79b2b31444eae8990a64102b9fa" level="file"><did><unittitle>Minutes</unittitle><unitdate normal="1977/1987" type="inclusive">1977-1987</unitdate><container altrender="Letter Document Storage Box" id="7bfdf85746b759a4d36930010e09519a" label="mixed materials [A0000000086961]" type="box">1</container><container id="05cf0240bd793b5549684f76028271a4" parent="7bfdf85746b759a4d36930010e09519a" type="folder">6</container></did></c><c id="b1d885e300d84daf81ffe4b6ec64f3a4" level="file"><did><unittitle>25th Anniversary</unittitle><unitdate normal="1981/1983" type="inclusive">1981-1983</unitdate><container altrender="Letter Document Storage Box" id="264231a06e1e4c8dc05a9e6bcadfda86" label="mixed materials [A0000000086961]" type="box">1</container><container id="fa5cef46531d273130d9c08f9adf65b8" parent="264231a06e1e4c8dc05a9e6bcadfda86" type="folder">7</container></did></c><c id="eacd70432fa249d6b5f31680364dd2ea" level="file"><did><unittitle>30th Anniversary, Preparations and Speeches</unittitle><unitdate normal="1987/1988" type="inclusive">1987-1988</unitdate><container altrender="Letter Document Storage Box" id="39cff85a5f7e6cdb4fe02beefe131f9a" label="mixed materials [A0000000086961]" type="box">1</container><container id="00adc52f6f543c622adb69452d177b60" parent="39cff85a5f7e6cdb4fe02beefe131f9a" type="folder">8</container></did></c><c id="44f999f8163f4ad7aea0a1df414b74dd" level="file"><did><unittitle>Wachsmuth, Leonhard</unittitle><unitdate normal="1981/1982" type="inclusive">1981-1982</unitdate><container altrender="Letter Document Storage Box" id="cb66027b1cd16eccf657f1dbf59ba1e7" label="mixed materials [A0000000086961]" type="box">1</container><container id="1f0fedf153cc06f15fc8038c79f6ecd5" parent="cb66027b1cd16eccf657f1dbf59ba1e7" type="folder">9</container></did></c></dsc>
+</archdesc>
 </ead>
