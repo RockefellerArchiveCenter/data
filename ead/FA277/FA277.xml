@@ -1,323 +1,83 @@
-<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
-  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="under_revision" langencoding="iso639-2b" repositoryencoding="iso15511">
-    <eadid>FA277.xml</eadid>
-    <filedesc>
-      <titlestmt>
-        <titleproper type="filing">Commonwealth Fund records, Archives/Library, SG 1, Series 5</titleproper>
-        <titleproper>A Guide to the Commonwealth Fund records, Archives/Library, SG 1, Series 5
- <num>FA277</num></titleproper>
-      </titlestmt>
-      <publicationstmt>
-        <publisher>Rockefeller Archive Center</publisher>
-        <address>
-          <addressline>15 Dayton Avenue</addressline>
-          <addressline>Sleepy Hollow 10591</addressline>
-          <addressline>archive@rockarch.org</addressline>
-          <addressline>URL: <extptr xlink:href="http://www.rockarch.org" xlink:show="new" xlink:title="http://www.rockarch.org" xlink:type="simple"/></addressline>
-        </address>
-      </publicationstmt>
-    </filedesc>
-    <profiledesc>
-      <creation>This finding aid was produced using ArchivesSpace on <date>2017-03-02 04:34:45 -0500</date>.</creation>
-    </profiledesc>
-  </eadheader>
-  <archdesc level="series">
-    <did>
-      <langmaterial>
-        <language langcode="eng">English</language>
-      </langmaterial>
-      <repository>
-        <corpname>Rockefeller Archive Center</corpname>
-      </repository>
-      <unittitle>Commonwealth Fund records, Archives/Library, SG 1, Series 5</unittitle>
-      <origination label="creator">
-        <corpname role="aut" source="lcnaf">Commonwealth Fund</corpname>
-      </origination>
-      <origination label="creator">
-        <persname source="lcnaf">Harkness, Edward Stephen</persname>
-      </origination>
-      <origination label="creator">
-        <persname rules="dacs">Harkness, Charles W.</persname>
-      </origination>
-      <origination label="creator">
-        <persname source="lcnaf">Harkness, Anna M. Richardson</persname>
-      </origination>
-      <origination label="creator">
-        <persname source="lcnaf">Harkness, Mary Emma Stillman</persname>
-      </origination>
-      <unitid>FA277</unitid>
-      <physdesc altrender="whole">
-        <extent altrender="materialtype spaceoccupied">0.69 Cubic Feet</extent>
-        <extent altrender="carrier">2 boxes</extent>
-      </physdesc>
-      <unitdate normal="1919/1981" type="inclusive">1919-1981</unitdate>
-    </did>
-    <accessrestrict id="ef2dff5c03669084e90a3f9db32bf360">
-      <head>Conditions Governing Access note</head>
-      <p>Open for research with select materials restricted as noted. Brittle or damaged items are available at the discretion of RAC.</p>
-    </accessrestrict>
-    <userestrict id="62290544091c8233c7ecd490b3a3a4f6">
-      <head>Conditions Governing Use note</head>
-      <p>RAC users must abide by all applicable provisions of United States copyright law. Reproduction/duplication of archival items is routinely provided in accordance with "fair use." If the RAC does not hold copyright for an archival collection, or items within a collection, it is the user's responsibility to contact the copyright holder, or make a fair effort to do so, prior to publication.</p>
-    </userestrict>
-    <bioghist id="8796be13ce6e7d2408c08b3c4f2afcfc">
-      <head>Biographical/Historical note</head>
-      <p>The Commonwealth Fund was established in 1918 with an endowment of $10 million from Mrs. Stephen V. Harkness for "benevolent, religious, educational and like purposes." The early grants supported a variety of programs while generally promoting welfare, especially child welfare. Several grants were made in the field of medical research, but the Board of Directors decided in 1920 that this field was already sufficiently supported by other philanthropic organizations.</p>
-      <p>Despite this decision, by the mid-1920s the chief interest of the Fund had become public health, including mental hygiene, community health, rural hospitals, medical research, and medical education. Other grant areas included war relief, educational and legal research, child welfare, and international medical fellowships.</p>
-    </bioghist>
-    <fileplan id="e00a586e71e00fb4cb6f0b4976efaa01">
-      <head>File Plan note</head>
-      <p>Former Classification: IX; IV 4B 4;</p>
-    </fileplan>
-    <prefercite id="7a626735e23a5f8ea426364fa08572d0">
-      <head>Preferred Citation note</head>
-      <p>Information regarding the Rockefeller Archive Center's preferred elements and forms of citation can be found at <extref href="http://www.rockarch.org/research/citations.php">http://www.rockarch.org/research/citations.php</extref></p>
-    </prefercite>
-    <otherfindaid id="d8ef5518e239cbd9e674701d7ef54239">
-      <head>Other Finding Aids</head>
-      <p>Other available finding aids describing the Commonwealth Fund records include:</p>
-      <p>
-        <extref href="../FA247/overview">FA247 Commonwealth Fund Harkness House drawings</extref>
-      </p>
-      <p>
-        <extref href="../FA276/overview">FA276 Commonwealth Fund records, Annual Reports, SG 1, Series 4</extref>
-      </p>
-      <p>
-        <extref href="../FA277/overview">FA277 Commonwealth Fund records, Archives/Library, SG 1, Series 5</extref>
-      </p>
-      <p>
-        <extref href="../FA278/overview">FA278 Commonwealth Fund records, Austrian Program, SG 1, Series 6</extref>
-      </p>
-      <p>
-        <extref href="../FA279/overview">FA279 Commonwealth Fund records, Board of Directors, SG 1, Series 7</extref>
-      </p>
-      <p>
-        <extref href="../FA280/overview">FA280 Commonwealth Fund records, Capital Grants, SG 1, Series 8</extref>
-      </p>
-      <p>
-        <extref href="../FA281/overview">FA281 Commonwealth Fund records, Child Health Demonstrations, SG 1, Series 9</extref>
-      </p>
-      <p>
-        <extref href="../FA282/overview">FA282 Commonwealth Fund records, Division of Community Clinics, SG 1, Series 10</extref>
-      </p>
-      <p>
-        <extref href="../FA283/overview">FA283 Commonwealth Fund records, Division of Health Studies, SG 1, Series 11</extref>
-      </p>
-      <p>
-        <extref href="../FA284/overview">FA284 Commonwealth Fund records, Division of Public Health, SG 1, Series 12</extref>
-      </p>
-      <p>
-        <extref href="../FA285/overview">FA285 Commonwealth Fund records, Division of Publications, SG 1, Series 13</extref>
-      </p>
-      <p>
-        <extref href="../FA286/overview">FA286 Commonwealth Fund records, Division of Rural Hospitals, SG 1, Series 14</extref>
-      </p>
-      <p>
-        <extref href="../FA287/overview">FA287 Commonwealth Fund records, Educational Research, SG 1, Series 15</extref>
-      </p>
-      <p>
-        <extref href="../FA288/overview">FA288 Commonwealth Fund records, English Mental Hygiene Program, SG 1, Series 16</extref>
-      </p>
-      <p>
-        <extref href="../FA289/overview">FA289 Commonwealth Fund records, Finance Committee, SG 1, Series 17</extref>
-      </p>
-      <p>
-        <extref href="../FA290/overview">FA290 Commonwealth Fund records, Grants, SG 1, Series 18</extref>
-      </p>
-      <p>
-        <extref href="../FA291/overview">FA291 Commonwealth Fund records, Harkness Family, SG 1, Series 19</extref>
-      </p>
-      <p>
-        <extref href="../FA292/overview">FA292 Commonwealth Fund records, Harkness Fellowships, SG 1, Series 20</extref>
-      </p>
-      <p>
-        <extref href="../FA428/overview">FA428 Commonwealth Fund records, Harkness Fellowships, Fellows Reports, SG 1, Series 20A</extref>
-      </p>
-      <p>
-        <extref href="../FA293/overview">FA293 Commonwealth Fund records, Institute for Child Guidance, SG 1, Series 21</extref>
-      </p>
-      <p>
-        <extref href="../FA294/overview">FA294 Commonwealth Fund records, Interface Program, SG 1, Series 22</extref>
-      </p>
-      <p>
-        <extref href="../FA295/overview">FA295 Commonwealth Fund records, Legal Research Program, SG 1, Series 23</extref>
-      </p>
-      <p>
-        <extref href="../FA296/overview">FA296 Commonwealth Fund records, Living at Home Program, SG 1, Series 24</extref>
-      </p>
-      <p>
-        <extref href="../FA297/overview">FA297 Commonwealth Fund records, Mental Hygiene Program, SG 1, Series 25</extref>
-      </p>
-      <p>
-        <extref href="../FA298/overview">FA298 Commonwealth Fund records, Miscellaneous - unprocessed</extref>
-      </p>
-      <p>
-        <extref href="../FA299/overview">FA299 Commonwealth Fund records, Personnel - unprocessed</extref>
-      </p>
-      <p>
-        <extref href="../FA300/overview">FA300 Commonwealth Fund records, Pilgrim Trust, SG 1, Series 28</extref>
-      </p>
-      <p>
-        <extref href="../FA301/overview">FA301 Commonwealth Fund records, Program for the Prevention of Delinquency, SG 1, Series 29</extref>
-      </p>
-      <p>
-        <extref href="../FA302/overview">FA302 Commonwealth Fund records, Reference Files, SG 1, Series 30</extref>
-      </p>
-      <p>
-        <extref href="../FA303/overview">FA303 Commonwealth Fund records, Reports of the General Director, SG 1, Series 31</extref>
-      </p>
-      <p>
-        <extref href="../FA304/overview">FA304 Commonwealth Fund records, Treasurer, SG 1, Series 32</extref>
-      </p>
-      <p>
-        <extref href="../FA305/overview">FA305 Commonwealth Fund records, Turndown Lists, SG 1, Series 33 - unprocessed</extref>
-      </p>
-      <p>
-        <extref href="../FA306/overview">FA306 Commonwealth Fund records, Vertical File (R. Fitz), SG 1, Series 34  - unprocessed</extref>
-      </p>
-      <p>
-        <extref href="../FA307/overview">FA307 Commonwealth Fund records, Visual Materials, SG 1, Series 35</extref>
-      </p>
-      <p>
-        <extref href="../FA389/overview">FA389 Commonwealth Fund records, Administration - Historical Files, SG 1, Series 1</extref>
-      </p>
-      <p>
-        <extref href="../FA390/overview">FA390 Commonwealth Fund records, Administration - Officers Files, SG 1, Series 2</extref>
-      </p>
-      <p>
-        <extref href="../FA429/overview">FA429 Commonwealth Fund records, President, Margaret E. Mahoney, SG 2, Series 1</extref>
-      </p>
-      <p>
-        <extref href="../FA430/overview">FA430 Commonwealth Fund records, Book Program, SG 2, Series 2</extref>
-      </p>
-    </otherfindaid>
-    <scopecontent id="f5fe666e91b0eef8d664086d7bc27cf5">
-      <head>Scope and Contents</head>
-      <p>Types of records include: manuscripts and library records.</p>
-    </scopecontent>
-    <controlaccess>
-      <subject source="lcsh">Medical education</subject>
-      <subject source="lcsh">Legal research</subject>
-      <subject source="lcsh">Legal issues</subject>
-      <subject source="lcsh">Law</subject>
-      <subject source="lcsh">Mental health</subject>
-      <subject source="lcsh">Medicine -- Scholarships, fellowships, etc.</subject>
-      <subject source="lcsh">Medicine, Rural</subject>
-      <subject source="lcsh">Medical research</subject>
-      <subject source="lcsh">War relief</subject>
-      <geogname source="lcsh">United States</geogname>
-      <subject source="lcsh">Public welfare</subject>
-      <subject source="lcsh">Child psychology</subject>
-      <subject source="lcsh">Child welfare</subject>
-      <subject source="lcsh">Education, Rural</subject>
-      <subject source="lcsh">Hygiene</subject>
-      <subject source="lcsh">Public health</subject>
-      <geogname source="lcsh">New York (State)</geogname>
-      <geogname source="lcsh">New York (N.Y.)</geogname>
-      <subject source="lcsh">Child mental health</subject>
-      <corpname source="lcnaf">Harvard University</corpname>
-      <corpname source="lcnaf">Columbia University</corpname>
-      <corpname rules="dacs">Social Science Research Council</corpname>
-      <corpname source="lcnaf">Yale University</corpname>
-      <corpname source="lcnaf">Phillips Exeter Academy</corpname>
-    </controlaccess>
-    <dsc>
-      <c id="4c9be191e3e341f8b372df4dbefd236e" level="file">
-        <did>
-          <unittitle>Bibliography of Commonwealth Fund Grant-Related Publications</unittitle>
-          <unitdate normal="1938/1948" type="inclusive">May 6, 1938-November 1, 1948</unitdate>
-          <container id="4fdc642ef82f4d74ab23a55b71e02833" label="mixed materials (A0000000048439)" type="box">1</container>
-          <container id="bd526e16c14a92fcbefc2d2c1a80a7a8" parent="4fdc642ef82f4d74ab23a55b71e02833" type="folder">1</container>
-        </did>
-      </c>
-      <c id="3276828093e34c719b60354a29766dee" level="file">
-        <did>
-          <unittitle>Evans, Lester J. - "The Commonwealth Fund: A Thirty-Six Year Perspective 1923-1959" (Original Manuscript)</unittitle>
-          <unitdate normal="1923/1959" type="inclusive">1923-1959</unitdate>
-          <container id="46f68e920027898ea9d235792dfd4af8" label="mixed materials (A0000000048439)" type="box">1</container>
-          <container id="80d8b6c086ebf2b9e90f0eec53c8c7c9" parent="46f68e920027898ea9d235792dfd4af8" type="folder">2</container>
-        </did>
-      </c>
-      <c id="191b0206df814c248f2d7c2f9aeb4169" level="file">
-        <did>
-          <unittitle>Library - Acquisitions</unittitle>
-          <unitdate normal="1955/1966" type="inclusive">February 1955-May 1966</unitdate>
-          <container id="015e424e4a7fdd6893e4191ad32cef57" label="mixed materials (A0000000048439)" type="box">1</container>
-          <container id="4dce3b0f5198639cf2ae7558792309ec" parent="015e424e4a7fdd6893e4191ad32cef57" type="folder">3</container>
-        </did>
-      </c>
-      <c id="8e55548ad5af440baa9e2e6a32e03d30" level="file">
-        <did>
-          <unittitle>Library - Acquisitions</unittitle>
-          <unitdate normal="1955/1966" type="inclusive">February 1955-May 1966</unitdate>
-          <container id="9e9d0567b9b0b8905b16db81132c761b" label="mixed materials (A0000000048439)" type="box">1</container>
-          <container id="ca8558fa8e93ad42fec979cbc2e7ee35" parent="9e9d0567b9b0b8905b16db81132c761b" type="folder">4</container>
-        </did>
-      </c>
-      <c id="30fe45c194c14840b678f200c1768256" level="file">
-        <did>
-          <unittitle>Library - Classifications</unittitle>
-          <unitdate normal="1961/1961" type="inclusive">1961 [?]</unitdate>
-          <container id="b271637e558a0c563dc09fe313afbc5d" label="mixed materials (A0000000048439)" type="box">1</container>
-          <container id="a1432ea7359cd56325b4b33b08ef75b6" parent="b271637e558a0c563dc09fe313afbc5d" type="folder">5</container>
-        </did>
-      </c>
-      <c id="6621cc2617064254a579f49b24180284" level="file">
-        <did>
-          <unittitle>Library - Periodicals</unittitle>
-          <unitdate normal="1952/1976" type="inclusive">November 1952-March 1976</unitdate>
-          <container id="4a1662cea1e3d05c6ff8d3def646a197" label="mixed materials (A0000000048439)" type="box">1</container>
-          <container id="140c2bce11f99e30829830fb34aaed62" parent="4a1662cea1e3d05c6ff8d3def646a197" type="folder">6</container>
-        </did>
-      </c>
-      <c id="1345f4eb8610493a86d9ad27972b3971" level="file">
-        <did>
-          <unittitle>Library - Procedure Manual</unittitle>
-          <unitdate normal="1947/1947" type="inclusive">1947 [?]</unitdate>
-          <container id="584e9504953cdc45e00f180768c97445" label="mixed materials (A0000000048439)" type="box">1</container>
-          <container id="35472b80679b0d5945c5f36883c939ad" parent="584e9504953cdc45e00f180768c97445" type="folder">7</container>
-        </did>
-      </c>
-      <c id="b6fb08e42b324f2885cb502f621dd574" level="file">
-        <did>
-          <unittitle>Records Management - Key to File Classifications</unittitle>
-          <unitdate normal="1919/1945" type="inclusive">1919-1945</unitdate>
-          <container id="4b0c9783da9fff9a6f51dd1ea268469b" label="mixed materials (A0000000048439)" type="box">1</container>
-          <container id="09e50e845d1c72a4283bb1c4752c2352" parent="4b0c9783da9fff9a6f51dd1ea268469b" type="folder">8</container>
-        </did>
-      </c>
-      <c id="2e61735fb290451f8c6558c8557a7e11" level="file">
-        <did>
-          <unittitle>Records Management - Manual</unittitle>
-          <unitdate normal="1955/1955" type="inclusive">1955</unitdate>
-          <container id="6e4405426e3612790f366d17b6b35b7e" label="mixed materials (A0000000048439)" type="box">1</container>
-          <container id="bc1ff0fe384946fd451f2b349be31c19" parent="6e4405426e3612790f366d17b6b35b7e" type="folder">9</container>
-        </did>
-      </c>
-      <c id="cf62bb6fd57b4560aa6cd20c12116ba1" level="file">
-        <did>
-          <unittitle>Records Management - Memoranda</unittitle>
-          <unitdate normal="1927/1949" type="inclusive">1927-1949</unitdate>
-          <container id="c429d6ca846056b0ed2b3cffa3574d0f" label="mixed materials (A0000000048439)" type="box">1</container>
-          <container id="f67149c32e71e418c512a815ff0697a4" parent="c429d6ca846056b0ed2b3cffa3574d0f" type="folder">10</container>
-        </did>
-      </c>
-      <c id="512734d2bac4454ca712c7b374c3fc88" level="file">
-        <did>
-          <unittitle>Records Management - Memoranda</unittitle>
-          <unitdate normal="1950/1967" type="inclusive">1950-1967</unitdate>
-          <container id="cc820043ec62c14f3a65fa0cfee5ff4f" label="mixed materials (A0000000048440)" type="box">2</container>
-          <container id="fe0c5ef403e24f92931009001624db92" parent="cc820043ec62c14f3a65fa0cfee5ff4f" type="folder">11</container>
-        </did>
-      </c>
-      <c id="e6b60617c3074e06a7ed9fe3113a8a4e" level="file">
-        <did>
-          <unittitle>Requests to Use Commonwealth Fund Archives</unittitle>
-          <unitdate normal="1979/1981" type="inclusive">1979-1981</unitdate>
-          <container id="77a7a83c41bf8a386dd4d8340b5ad492" label="mixed materials (A0000000048440)" type="box">2</container>
-          <container id="d69f8029ae8b3a6563acffe64e854c86" parent="77a7a83c41bf8a386dd4d8340b5ad492" type="folder">12</container>
-        </did>
-      </c>
-    </dsc>
-  </archdesc>
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="under_revision" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid>FA277.xml</eadid><filedesc><titlestmt><titleproper type="filing">Commonwealth Fund records, Archives/Library, SG 1, Series 5</titleproper><titleproper>A Guide to the Commonwealth Fund records, Archives/Library, SG 1, Series 5
+ <num>FA277</num></titleproper></titlestmt><publicationstmt><publisher>Rockefeller Archive Center</publisher><address><addressline>15 Dayton Avenue</addressline><addressline>Sleepy Hollow 10591</addressline><addressline>archive@rockarch.org</addressline><addressline>URL: <extptr xlink:href="http://www.rockarch.org" xlink:show="new" xlink:title="http://www.rockarch.org" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2019-08-08 00:08:53 -0400</date>.</creation></profiledesc></eadheader><archdesc level="series">
+  <did>
+    <langmaterial>
+      <language langcode="eng">English</language>
+    </langmaterial>
+    <repository>
+      <corpname>Rockefeller Archive Center</corpname>
+    </repository>
+    <unittitle>Commonwealth Fund records, Archives/Library, SG 1, Series 5</unittitle>
+    <origination label="creator">
+      <corpname role="aut" source="naf">Commonwealth Fund</corpname>
+    </origination>
+    <origination label="creator">
+      <persname source="naf">Harkness, Edward Stephen</persname>
+    </origination>
+    <origination label="creator">
+      <persname rules="dacs">Harkness, Charles W.</persname>
+    </origination>
+    <origination label="creator">
+      <persname source="naf">Harkness, Anna M. Richardson</persname>
+    </origination>
+    <origination label="creator">
+      <persname source="naf">Harkness, Mary Emma Stillman</persname>
+    </origination>
+    <unitid>FA277</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">0.57 Cubic Feet</extent>
+      <extent altrender="carrier">2 boxes</extent>
+    </physdesc>
+    <unitdate normal="1919/1981" type="inclusive">1919-1981</unitdate>
+  </did>
+  <accessrestrict id="ef2dff5c03669084e90a3f9db32bf360">
+    <head>Conditions Governing Access note</head>
+<p>Open for research with select materials restricted as noted. Brittle or damaged items are available at the discretion of RAC.</p>  </accessrestrict>
+  <userestrict id="62290544091c8233c7ecd490b3a3a4f6">
+    <head>Conditions Governing Use note</head>
+<p>RAC users must abide by all applicable provisions of United States copyright law. Reproduction/duplication of archival items is routinely provided in accordance with "fair use." If the RAC does not hold copyright for an archival collection, or items within a collection, it is the user's responsibility to contact the copyright holder, or make a fair effort to do so, prior to publication.</p>  </userestrict>
+  <bioghist id="8796be13ce6e7d2408c08b3c4f2afcfc">
+    <head>Biographical/Historical note</head>
+<p>The Commonwealth Fund was established in 1918 with an endowment of $10 million from Mrs. Stephen V. Harkness for "benevolent, religious, educational and like purposes." The early grants supported a variety of programs while generally promoting welfare, especially child welfare. Several grants were made in the field of medical research, but the Board of Directors decided in 1920 that this field was already sufficiently supported by other philanthropic organizations.</p><p>Despite this decision, by the mid-1920s the chief interest of the Fund had become public health, including mental hygiene, community health, rural hospitals, medical research, and medical education. Other grant areas included war relief, educational and legal research, child welfare, and international medical fellowships.</p>  </bioghist>
+  <fileplan id="e00a586e71e00fb4cb6f0b4976efaa01">
+    <head>File Plan note</head>
+<p>Former Classification: IX; IV 4B 4;</p>  </fileplan>
+  <prefercite id="7a626735e23a5f8ea426364fa08572d0">
+    <head>Preferred Citation note</head>
+<p>Information regarding the Rockefeller Archive Center's preferred elements and forms of citation can be found at <extref href="http://www.rockarch.org/research/citations.php">http://www.rockarch.org/research/citations.php</extref></p>  </prefercite>
+  <otherfindaid id="d8ef5518e239cbd9e674701d7ef54239">
+    <head>Other Finding Aids</head>
+<p>Other available finding aids describing the Commonwealth Fund records include:</p><p><extref href="../FA247/overview">FA247 Commonwealth Fund Harkness House drawings</extref></p><p><extref href="../FA276/overview">FA276 Commonwealth Fund records, Annual Reports, SG 1, Series 4</extref></p><p><extref href="../FA277/overview">FA277 Commonwealth Fund records, Archives/Library, SG 1, Series 5</extref></p><p><extref href="../FA278/overview">FA278 Commonwealth Fund records, Austrian Program, SG 1, Series 6</extref></p><p><extref href="../FA279/overview">FA279 Commonwealth Fund records, Board of Directors, SG 1, Series 7</extref></p><p><extref href="../FA280/overview">FA280 Commonwealth Fund records, Capital Grants, SG 1, Series 8</extref></p><p><extref href="../FA281/overview">FA281 Commonwealth Fund records, Child Health Demonstrations, SG 1, Series 9</extref></p><p><extref href="../FA282/overview">FA282 Commonwealth Fund records, Division of Community Clinics, SG 1, Series 10</extref></p><p><extref href="../FA283/overview">FA283 Commonwealth Fund records, Division of Health Studies, SG 1, Series 11</extref></p><p><extref href="../FA284/overview">FA284 Commonwealth Fund records, Division of Public Health, SG 1, Series 12</extref></p><p><extref href="../FA285/overview">FA285 Commonwealth Fund records, Division of Publications, SG 1, Series 13</extref></p><p><extref href="../FA286/overview">FA286 Commonwealth Fund records, Division of Rural Hospitals, SG 1, Series 14</extref></p><p><extref href="../FA287/overview">FA287 Commonwealth Fund records, Educational Research, SG 1, Series 15</extref></p><p><extref href="../FA288/overview">FA288 Commonwealth Fund records, English Mental Hygiene Program, SG 1, Series 16</extref></p><p><extref href="../FA289/overview">FA289 Commonwealth Fund records, Finance Committee, SG 1, Series 17</extref></p><p><extref href="../FA290/overview">FA290 Commonwealth Fund records, Grants, SG 1, Series 18</extref></p><p><extref href="../FA291/overview">FA291 Commonwealth Fund records, Harkness Family, SG 1, Series 19</extref></p><p><extref href="../FA292/overview">FA292 Commonwealth Fund records, Harkness Fellowships, SG 1, Series 20</extref></p><p><extref href="../FA428/overview">FA428 Commonwealth Fund records, Harkness Fellowships, Fellows Reports, SG 1, Series 20A</extref></p><p><extref href="../FA293/overview">FA293 Commonwealth Fund records, Institute for Child Guidance, SG 1, Series 21</extref></p><p><extref href="../FA294/overview">FA294 Commonwealth Fund records, Interface Program, SG 1, Series 22</extref></p><p><extref href="../FA295/overview">FA295 Commonwealth Fund records, Legal Research Program, SG 1, Series 23</extref></p><p><extref href="../FA296/overview">FA296 Commonwealth Fund records, Living at Home Program, SG 1, Series 24</extref></p><p><extref href="../FA297/overview">FA297 Commonwealth Fund records, Mental Hygiene Program, SG 1, Series 25</extref></p><p><extref href="../FA298/overview">FA298 Commonwealth Fund records, Miscellaneous - unprocessed</extref></p><p><extref href="../FA299/overview">FA299 Commonwealth Fund records, Personnel - unprocessed</extref></p><p><extref href="../FA300/overview">FA300 Commonwealth Fund records, Pilgrim Trust, SG 1, Series 28</extref></p><p><extref href="../FA301/overview">FA301 Commonwealth Fund records, Program for the Prevention of Delinquency, SG 1, Series 29</extref></p><p><extref href="../FA302/overview">FA302 Commonwealth Fund records, Reference Files, SG 1, Series 30</extref></p><p><extref href="../FA303/overview">FA303 Commonwealth Fund records, Reports of the General Director, SG 1, Series 31</extref></p><p><extref href="../FA304/overview">FA304 Commonwealth Fund records, Treasurer, SG 1, Series 32</extref></p><p><extref href="../FA305/overview">FA305 Commonwealth Fund records, Turndown Lists, SG 1, Series 33 - unprocessed</extref></p><p><extref href="../FA306/overview">FA306 Commonwealth Fund records, Vertical File (R. Fitz), SG 1, Series 34  - unprocessed</extref></p><p><extref href="../FA307/overview">FA307 Commonwealth Fund records, Visual Materials, SG 1, Series 35</extref></p><p><extref href="../FA389/overview">FA389 Commonwealth Fund records, Administration - Historical Files, SG 1, Series 1</extref></p><p><extref href="../FA390/overview">FA390 Commonwealth Fund records, Administration - Officers Files, SG 1, Series 2</extref></p><p><extref href="../FA429/overview">FA429 Commonwealth Fund records, President, Margaret E. Mahoney, SG 2, Series 1</extref></p><p><extref href="../FA430/overview">FA430 Commonwealth Fund records, Book Program, SG 2, Series 2</extref></p>  </otherfindaid>
+  <scopecontent id="f5fe666e91b0eef8d664086d7bc27cf5">
+    <head>Scope and Contents</head>
+<p>Types of records include: manuscripts and library records.</p>  </scopecontent>
+  <controlaccess>
+    <subject source="lcsh">Medical education</subject>
+    <subject source="lcsh">Legal research</subject>
+    <subject source="lcsh">Legal issues</subject>
+    <subject source="lcsh">Law</subject>
+    <subject source="lcsh">Mental health</subject>
+    <subject source="lcsh">Medicine -- Scholarships, fellowships, etc.</subject>
+    <subject source="lcsh">Medicine, Rural</subject>
+    <subject source="lcsh">Medical research</subject>
+    <subject source="lcsh">War relief</subject>
+    <geogname source="lcsh">United States</geogname>
+    <subject source="lcsh">Public welfare</subject>
+    <subject source="lcsh">Child psychology</subject>
+    <subject source="lcsh">Child welfare</subject>
+    <subject source="lcsh">Education, Rural</subject>
+    <subject source="lcsh">Hygiene</subject>
+    <subject source="lcsh">Public health</subject>
+    <geogname source="lcsh">New York (State)</geogname>
+    <geogname source="lcsh">New York (N.Y.)</geogname>
+    <subject source="lcsh">Child mental health</subject>
+    <corpname source="naf">Harvard University</corpname>
+    <corpname source="naf">Columbia University</corpname>
+    <corpname rules="dacs">Social Science Research Council</corpname>
+    <corpname source="naf">Yale University</corpname>
+    <corpname source="naf">Phillips Exeter Academy</corpname>
+  </controlaccess>
+  <dsc><c id="4c9be191e3e341f8b372df4dbefd236e" level="file"><did><unittitle>Bibliography of Commonwealth Fund Grant-Related Publications</unittitle><unitdate normal="1938/1948" type="inclusive">May 6, 1938-November 1, 1948</unitdate><container altrender="Letter Document Storage Box" id="813ee4c996fea4fa375a35ff80392e71" label="mixed materials [A0000000048439]" type="box">1</container><container id="7bda7dc4f3efedc492421f08584df270" parent="813ee4c996fea4fa375a35ff80392e71" type="folder">1</container></did></c><c id="3276828093e34c719b60354a29766dee" level="file"><did><unittitle>Evans, Lester J. - "The Commonwealth Fund: A Thirty-Six Year Perspective 1923-1959" (Original Manuscript)</unittitle><unitdate normal="1923/1959" type="inclusive">1923-1959</unitdate><container altrender="Letter Document Storage Box" id="1df53c0f0f522bc8f04921e5ae60ff3d" label="mixed materials [A0000000048439]" type="box">1</container><container id="57e1f7a17bc5cec31589e147684a432b" parent="1df53c0f0f522bc8f04921e5ae60ff3d" type="folder">2</container></did></c><c id="191b0206df814c248f2d7c2f9aeb4169" level="file"><did><unittitle>Library - Acquisitions</unittitle><unitdate normal="1955/1966" type="inclusive">February 1955-May 1966</unitdate><container altrender="Letter Document Storage Box" id="bf8ffb24a1fd96b2f48a20d4632ea83a" label="mixed materials [A0000000048439]" type="box">1</container><container id="a386782c48cc29659604ced100b763ab" parent="bf8ffb24a1fd96b2f48a20d4632ea83a" type="folder">3</container></did></c><c id="8e55548ad5af440baa9e2e6a32e03d30" level="file"><did><unittitle>Library - Acquisitions</unittitle><unitdate normal="1955/1966" type="inclusive">February 1955-May 1966</unitdate><container altrender="Letter Document Storage Box" id="8f5a17ecaafb81aa6b9c6df9d8123ba2" label="mixed materials [A0000000048439]" type="box">1</container><container id="864b8afc344a524bcf3b4d3e1caf439a" parent="8f5a17ecaafb81aa6b9c6df9d8123ba2" type="folder">4</container></did></c><c id="30fe45c194c14840b678f200c1768256" level="file"><did><unittitle>Library - Classifications</unittitle><unitdate normal="1961/1961" type="inclusive">1961 [?]</unitdate><container altrender="Letter Document Storage Box" id="864a8cda75d530731e5d62d4bef1c2bb" label="mixed materials [A0000000048439]" type="box">1</container><container id="cd045c1765be80b127337e224c05cab0" parent="864a8cda75d530731e5d62d4bef1c2bb" type="folder">5</container></did></c><c id="6621cc2617064254a579f49b24180284" level="file"><did><unittitle>Library - Periodicals</unittitle><unitdate normal="1952/1976" type="inclusive">November 1952-March 1976</unitdate><container altrender="Letter Document Storage Box" id="febdc80f31dcc310dcb4189c35f91f8c" label="mixed materials [A0000000048439]" type="box">1</container><container id="c600564163b49fa8aa6ae705db5014b3" parent="febdc80f31dcc310dcb4189c35f91f8c" type="folder">6</container></did></c><c id="1345f4eb8610493a86d9ad27972b3971" level="file"><did><unittitle>Library - Procedure Manual</unittitle><unitdate normal="1947/1947" type="inclusive">1947 [?]</unitdate><container altrender="Letter Document Storage Box" id="668c880eb237755a0ce5b2322fc97925" label="mixed materials [A0000000048439]" type="box">1</container><container id="9ac42dfc93bb157bc0bdba44d66ec3c0" parent="668c880eb237755a0ce5b2322fc97925" type="folder">7</container></did></c><c id="b6fb08e42b324f2885cb502f621dd574" level="file"><did><unittitle>Records Management - Key to File Classifications</unittitle><unitdate normal="1919/1945" type="inclusive">1919-1945</unitdate><container altrender="Letter Document Storage Box" id="6b17c03b1fccec75538b4429e17d873f" label="mixed materials [A0000000048439]" type="box">1</container><container id="2a26bbb68f6b42f96ad4a600afca17f1" parent="6b17c03b1fccec75538b4429e17d873f" type="folder">8</container></did></c><c id="2e61735fb290451f8c6558c8557a7e11" level="file"><did><unittitle>Records Management - Manual</unittitle><unitdate normal="1955/1955" type="inclusive">1955</unitdate><container altrender="Letter Document Storage Box" id="146d59ba976a7758e73613a6e0a60662" label="mixed materials [A0000000048439]" type="box">1</container><container id="f5f41d4dc484bc0c8428df20dd6ca5e1" parent="146d59ba976a7758e73613a6e0a60662" type="folder">9</container></did></c><c id="cf62bb6fd57b4560aa6cd20c12116ba1" level="file"><did><unittitle>Records Management - Memoranda</unittitle><unitdate normal="1927/1949" type="inclusive">1927-1949</unitdate><container altrender="Letter Document Storage Box" id="a4cc9a878c1c97b336a1d0a47ed72562" label="mixed materials [A0000000048439]" type="box">1</container><container id="2d1eda93e4aa7576072c392201601d4a" parent="a4cc9a878c1c97b336a1d0a47ed72562" type="folder">10</container></did></c><c id="512734d2bac4454ca712c7b374c3fc88" level="file"><did><unittitle>Records Management - Memoranda</unittitle><unitdate normal="1950/1967" type="inclusive">1950-1967</unitdate><container altrender="Half Ltr Document Storage Box" id="505ee2b8911ef9e5957658c5648eeb60" label="mixed materials [A0000000048440]" type="box">2</container><container id="0bf2cb94e9b323ed6a31ead42dc6fef1" parent="505ee2b8911ef9e5957658c5648eeb60" type="folder">11</container></did></c><c id="e6b60617c3074e06a7ed9fe3113a8a4e" level="file"><did><unittitle>Requests to Use Commonwealth Fund Archives</unittitle><unitdate normal="1979/1981" type="inclusive">1979-1981</unitdate><container altrender="Half Ltr Document Storage Box" id="51f29016e21ec4bfe8c512915740f1f3" label="mixed materials [A0000000048440]" type="box">2</container><container id="bc2c23d3a1a27b903cbd7c4d84d7a43c" parent="51f29016e21ec4bfe8c512915740f1f3" type="folder">12</container></did></c></dsc>
+</archdesc>
 </ead>

@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mets xmlns="http://www.loc.gov/METS/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/mets/mets.xsd">
+  <metsHdr CREATEDATE="2019-08-08 02:29:02 -0400">
+    <agent ROLE="CREATOR" TYPE="ORGANIZATION">
+      <name>Rockefeller Archive Center</name>
+      <note>http://www.rockarch.org</note>
+      <note>Produced by ArchivesSpace</note>
+    </agent>
+  </metsHdr>
+  <dmdSec ID="2902">
+    <mdWrap MDTYPE="MODS">
+      <xmlData>
+        <mods version="3.4" xmlns="http://www.loc.gov/mods/v3">
+          <mods:titleInfo>
+            <mods:title>2628ba50c0ce4eaf9f4bea0a154e25f5_003.tif</mods:title>
+          </mods:titleInfo>
+          <mods:identifier type="local">f3248990-676a-45cc-9b20-2e3920bf586c</mods:identifier>
+          <mods:typeOfResource/>
+          <mods:originInfo/>
+          <mods:physicalDescription/>
+          <mods:note type="originalsloc">02cb8b8e-1bfa-4b2f-8715-90748eb7237d</mods:note>
+          <mods:note displayLabel="Digital object made available by">Rockefeller Archive Center, 15 Dayton Avenue, Sleepy Hollow, 10591, U.S.A. (http://www.rockarch.org)</mods:note>
+          <mods:relatedItem displayLabel="resource" type="host">
+            <mods:name>Nelson A. Rockefeller photographs, Gubernatorial Press Office, Series 3</mods:name>
+            <mods:identifier>FA456.xml</mods:identifier>
+          </mods:relatedItem>
+          <mods:relatedItem displayLabel="component" type="host">
+            <mods:name>Capitol, Nelson A. Rockefeller, Assemblyman Bertram Baker and grandchildren, 1962 February 26</mods:name>
+            <mods:identifier>2628ba50c0ce4eaf9f4bea0a154e25f5</mods:identifier>
+          </mods:relatedItem>
+        </mods>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec>
+    <techMD ID="8011">
+      <mdWrap MDTYPE="PREMIS:OBJECT">
+        <xmlData>
+          <object version="2.2" xmlns="info:lc/xmlns/premis-v2" xsi:schemaLocation="info:lc/xmlns/premis-v2 http://www.loc.gov/standards/premis/v2/premis-v2-2.xsd" xsi:type="file">
+            <objectIdentifier>
+              <objectIdentifierType>ArchivesSpace identifier</objectIdentifierType>
+              <objectIdentifierValue>8011</objectIdentifierValue>
+            </objectIdentifier>
+            <objectCharacteristics>
+              <fixity>
+                <messageDigestAlgorithm/>
+                <messageDigest/>
+              </fixity>
+              <size>2535743</size>
+              <format>
+                <formatDesignation>
+                  <formatName>tiff</formatName>
+                  <formatVersion>TIFF</formatVersion>
+                </formatDesignation>
+              </format>
+            </objectCharacteristics>
+          </object>
+        </xmlData>
+      </mdWrap>
+    </techMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="">
+      <file AMDID="8011" GROUPID="2902" ID="8011">
+        <FLocat xlink:href="https://storage.rockarch.org/f3248990-676a-45cc-9b20-2e3920bf586c-2628ba50c0ce4eaf9f4bea0a154e25f5_003.jpg"/>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="logical">
+    <div DMDID="2902" LABEL="2628ba50c0ce4eaf9f4bea0a154e25f5_003.tif" ORDER="1" TYPE="item">
+      <fptr FILEID="8011"/>
+    </div>
+  </structMap>
+  <structMap TYPE="physical">
+    <div DMDID="2902" LABEL="2628ba50c0ce4eaf9f4bea0a154e25f5_003.tif" ORDER="1" TYPE="item">
+      <fptr FILEID="8011"/>
+    </div>
+  </structMap>
+</mets>
+
