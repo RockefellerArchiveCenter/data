@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mets xmlns="http://www.loc.gov/METS/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/mets/mets.xsd">
+  <metsHdr CREATEDATE="2019-08-10 01:53:03 -0400">
+    <agent ROLE="CREATOR" TYPE="ORGANIZATION">
+      <name>Rockefeller Archive Center</name>
+      <note>http://www.rockarch.org</note>
+      <note>Produced by ArchivesSpace</note>
+    </agent>
+  </metsHdr>
+  <dmdSec ID="2963">
+    <mdWrap MDTYPE="MODS">
+      <xmlData>
+        <mods version="3.4" xmlns="http://www.loc.gov/mods/v3">
+          <mods:titleInfo>
+            <mods:title>775d0a6e8f9543068b3ff03603bb1a73.pdf</mods:title>
+          </mods:titleInfo>
+          <mods:identifier type="local">1a5703be-d15c-468a-a027-8490a25aa39c</mods:identifier>
+          <mods:typeOfResource/>
+          <mods:originInfo/>
+          <mods:physicalDescription/>
+          <mods:note type="originalsloc">338688cf-bf82-4ba9-8e1e-92a9445ddfcd</mods:note>
+          <mods:note displayLabel="Digital object made available by">Rockefeller Archive Center, 15 Dayton Avenue, Sleepy Hollow, 10591, U.S.A. (http://www.rockarch.org)</mods:note>
+          <mods:relatedItem displayLabel="resource" type="host">
+            <mods:name>Office of the Messrs. Rockefeller records, John D. Rockefeller, Jr. Personal papers, Series Z</mods:name>
+            <mods:identifier>FA335.xml</mods:identifier>
+          </mods:relatedItem>
+          <mods:relatedItem displayLabel="component" type="host">
+            <mods:name>Special Letter File (C), 1899-1953</mods:name>
+            <mods:identifier>775d0a6e8f9543068b3ff03603bb1a73</mods:identifier>
+          </mods:relatedItem>
+        </mods>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec>
+    <techMD ID="8072">
+      <mdWrap MDTYPE="PREMIS:OBJECT">
+        <xmlData>
+          <object version="2.2" xmlns="info:lc/xmlns/premis-v2" xsi:schemaLocation="info:lc/xmlns/premis-v2 http://www.loc.gov/standards/premis/v2/premis-v2-2.xsd" xsi:type="file">
+            <objectIdentifier>
+              <objectIdentifierType>ArchivesSpace identifier</objectIdentifierType>
+              <objectIdentifierValue>8072</objectIdentifierValue>
+            </objectIdentifier>
+            <objectCharacteristics>
+              <fixity>
+                <messageDigestAlgorithm/>
+                <messageDigest/>
+              </fixity>
+              <size>17267434</size>
+              <format>
+                <formatDesignation>
+                  <formatName/>
+                  <formatVersion>Acrobat PDF </formatVersion>
+                </formatDesignation>
+              </format>
+            </objectCharacteristics>
+          </object>
+        </xmlData>
+      </mdWrap>
+    </techMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="">
+      <file AMDID="8072" GROUPID="2963" ID="8072">
+        <FLocat xlink:href="https://storage.rockarch.org/1a5703be-d15c-468a-a027-8490a25aa39c-775d0a6e8f9543068b3ff03603bb1a73.pdf"/>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="logical">
+    <div DMDID="2963" LABEL="775d0a6e8f9543068b3ff03603bb1a73.pdf" ORDER="1" TYPE="item">
+      <fptr FILEID="8072"/>
+    </div>
+  </structMap>
+  <structMap TYPE="physical">
+    <div DMDID="2963" LABEL="775d0a6e8f9543068b3ff03603bb1a73.pdf" ORDER="1" TYPE="item">
+      <fptr FILEID="8072"/>
+    </div>
+  </structMap>
+</mets>
+
