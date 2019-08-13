@@ -1,467 +1,74 @@
-<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
-  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="under_revision" langencoding="iso639-2b" repositoryencoding="iso15511">
-    <eadid>FA300.xml</eadid>
-    <filedesc>
-      <titlestmt>
-        <titleproper type="filing">Commonwealth Fund records, Pilgrim Trust, SG 1, Series 28</titleproper>
-        <titleproper>A Guide to the Commonwealth Fund records, Pilgrim Trust, SG 1, Series 28
- <num>FA300</num></titleproper>
-      </titlestmt>
-      <publicationstmt>
-        <publisher>Rockefeller Archive Center</publisher>
-        <address>
-          <addressline>15 Dayton Avenue</addressline>
-          <addressline>Sleepy Hollow 10591</addressline>
-          <addressline>archive@rockarch.org</addressline>
-          <addressline>URL: <extptr xlink:href="http://www.rockarch.org" xlink:show="new" xlink:title="http://www.rockarch.org" xlink:type="simple"/></addressline>
-        </address>
-      </publicationstmt>
-    </filedesc>
-    <profiledesc>
-      <creation>This finding aid was produced using ArchivesSpace on <date>2017-03-02 04:54:24 -0500</date>.</creation>
-    </profiledesc>
-  </eadheader>
-  <archdesc level="series">
-    <did>
-      <langmaterial>
-        <language langcode="eng">English</language>
-      </langmaterial>
-      <repository>
-        <corpname>Rockefeller Archive Center</corpname>
-      </repository>
-      <unittitle>Commonwealth Fund records, Pilgrim Trust, SG 1, Series 28</unittitle>
-      <origination label="creator">
-        <corpname role="aut" source="lcnaf">Commonwealth Fund</corpname>
-      </origination>
-      <unitid>FA300</unitid>
-      <physdesc altrender="whole">
-        <extent altrender="materialtype spaceoccupied">2.84 Cubic Feet</extent>
-        <extent altrender="carrier">6 document boxes and 1 half-box.</extent>
-      </physdesc>
-      <unitdate normal="1930/1977" type="inclusive">1930-1977</unitdate>
-      <unitdate normal="1930/1950" type="bulk">1930-1950</unitdate>
-    </did>
-    <accessrestrict id="9a96700eaee92644fa60fed3372906b1">
-      <head>Conditions Governing Access note</head>
-      <p>Open for research. Brittle or damaged items are available at the discretion of RAC.</p>
-    </accessrestrict>
-    <userestrict id="73d9899532ed8382b7f9b6bd1794ad2f">
-      <head>Conditions Governing Use note</head>
-      <p>RAC users must abide by all applicable provisions of United States copyright law. Reproduction/duplication of archival items is routinely provided in accordance with "fair use." If the RAC does not hold copyright for an archival collection, or items within a collection, it is the user's responsibility to contact the copyright holder, or make a fair effort to do so, prior to publication.</p>
-    </userestrict>
-    <bioghist id="f516cfc369aee8ae2c2a00ccdd4a5848">
-      <head>Biographical/Historical note</head>
-      <p>The Commonwealth Fund was established in 1918 with an endowment of $10 million from Mrs. Stephen V. Harkness for "benevolent, religious, educational and like purposes." The early grants supported a variety of programs while generally promoting welfare, especially child welfare. Several grants were made in the field of medical research, but the Board of Directors decided in 1920 that this field was already sufficiently supported by other philanthropic organizations.</p>
-      <p>Despite this decision, by the mid-1920s the chief interest of the Fund had become public health, including mental hygiene, community health, rural hospitals, medical research, and medical education. Other grant areas included war relief, educational and legal research, child welfare, and international medical fellowships.</p>
-    </bioghist>
-    <fileplan id="7f6d3f8fa2e3ba818ea3438d587385c2">
-      <head>File Plan note</head>
-      <p>Former Classification: IX; IV 4B 4;</p>
-    </fileplan>
-    <prefercite id="603b0877b1e67b45f98e2bc54c17dfbc">
-      <head>Preferred Citation note</head>
-      <p>Information regarding the Rockefeller Archive Center's preferred elements and forms of citation can be found at <extref href="http://www.rockarch.org/research/citations.php">http://www.rockarch.org/research/citations.php</extref></p>
-    </prefercite>
-    <bioghist id="de7a7d1982d020b3fcf65265e27293dc">
-      <head>Biographical / Historical</head>
-      <p>The Pilgrim Trust was established by Edward S. Harkness in 1930, with an endowment of 2 million pound sterling.
-The stated mission of the Trust was to assist Great Britian and Northern Ireland with "urgent needs".</p>
-    </bioghist>
-    <scopecontent id="8ee87be5814ef651ce81afc2f4d37e30">
-      <head>Scope and Contents</head>
-      <p>Pilgrim Trust records primarily consist of Annual Reports, Minutes, and a variety of newspaper clippings.</p>
-    </scopecontent>
-    <processinfo id="7b10ab0118bf97e8cb25831ff8c99cea">
-      <head>Processing Information</head>
-      <p>Standard Processing by RAC Assistant Archivist Richard Torres, February 2014.</p>
-    </processinfo>
-    <otherfindaid id="c03b8f5b269aa41c11dbb4400db91f29">
-      <head>Other Finding Aids</head>
-      <p>Other available finding aids describing the Commonwealth Fund records include:</p>
-      <p>
-        <extref href="../FA247/overview">FA247 Commonwealth Fund Harkness House drawings</extref>
-      </p>
-      <p>
-        <extref href="../FA276/overview">FA276 Commonwealth Fund records, Annual Reports, SG 1, Series 4</extref>
-      </p>
-      <p>
-        <extref href="../FA277/overview">FA277 Commonwealth Fund records, Archives/Library, SG 1, Series 5</extref>
-      </p>
-      <p>
-        <extref href="../FA278/overview">FA278 Commonwealth Fund records, Austrian Program, SG 1, Series 6</extref>
-      </p>
-      <p>
-        <extref href="../FA279/overview">FA279 Commonwealth Fund records, Board of Directors, SG 1, Series 7</extref>
-      </p>
-      <p>
-        <extref href="../FA280/overview">FA280 Commonwealth Fund records, Capital Grants, SG 1, Series 8</extref>
-      </p>
-      <p>
-        <extref href="../FA281/overview">FA281 Commonwealth Fund records, Child Health Demonstrations, SG 1, Series 9</extref>
-      </p>
-      <p>
-        <extref href="../FA282/overview">FA282 Commonwealth Fund records, Division of Community Clinics, SG 1, Series 10</extref>
-      </p>
-      <p>
-        <extref href="../FA283/overview">FA283 Commonwealth Fund records, Division of Health Studies, SG 1, Series 11</extref>
-      </p>
-      <p>
-        <extref href="../FA284/overview">FA284 Commonwealth Fund records, Division of Public Health, SG 1, Series 12</extref>
-      </p>
-      <p>
-        <extref href="../FA285/overview">FA285 Commonwealth Fund records, Division of Publications, SG 1, Series 13</extref>
-      </p>
-      <p>
-        <extref href="../FA286/overview">FA286 Commonwealth Fund records, Division of Rural Hospitals, SG 1, Series 14</extref>
-      </p>
-      <p>
-        <extref href="../FA287/overview">FA287 Commonwealth Fund records, Educational Research, SG 1, Series 15</extref>
-      </p>
-      <p>
-        <extref href="../FA288/overview">FA288 Commonwealth Fund records, English Mental Hygiene Program, SG 1, Series 16</extref>
-      </p>
-      <p>
-        <extref href="../FA289/overview">FA289 Commonwealth Fund records, Finance Committee, SG 1, Series 17</extref>
-      </p>
-      <p>
-        <extref href="../FA290/overview">FA290 Commonwealth Fund records, Grants, SG 1, Series 18</extref>
-      </p>
-      <p>
-        <extref href="../FA291/overview">FA291 Commonwealth Fund records, Harkness Family, SG 1, Series 19</extref>
-      </p>
-      <p>
-        <extref href="../FA292/overview">FA292 Commonwealth Fund records, Harkness Fellowships, SG 1, Series 20</extref>
-      </p>
-      <p>
-        <extref href="../FA428/overview">FA428 Commonwealth Fund records, Harkness Fellowships, Fellows Reports, SG 1, Series 20A</extref>
-      </p>
-      <p>
-        <extref href="../FA293/overview">FA293 Commonwealth Fund records, Institute for Child Guidance, SG 1, Series 21</extref>
-      </p>
-      <p>
-        <extref href="../FA294/overview">FA294 Commonwealth Fund records, Interface Program, SG 1, Series 22</extref>
-      </p>
-      <p>
-        <extref href="../FA295/overview">FA295 Commonwealth Fund records, Legal Research Program, SG 1, Series 23</extref>
-      </p>
-      <p>
-        <extref href="../FA296/overview">FA296 Commonwealth Fund records, Living at Home Program, SG 1, Series 24</extref>
-      </p>
-      <p>
-        <extref href="../FA297/overview">FA297 Commonwealth Fund records, Mental Hygiene Program, SG 1, Series 25</extref>
-      </p>
-      <p>
-        <extref href="../FA298/overview">FA298 Commonwealth Fund records, Miscellaneous - unprocessed</extref>
-      </p>
-      <p>
-        <extref href="../FA299/overview">FA299 Commonwealth Fund records, Personnel - unprocessed</extref>
-      </p>
-      <p>
-        <extref href="../FA300/overview">FA300 Commonwealth Fund records, Pilgrim Trust, SG 1, Series 28</extref>
-      </p>
-      <p>
-        <extref href="../FA301/overview">FA301 Commonwealth Fund records, Program for the Prevention of Delinquency, SG 1, Series 29</extref>
-      </p>
-      <p>
-        <extref href="../FA302/overview">FA302 Commonwealth Fund records, Reference Files, SG 1, Series 30</extref>
-      </p>
-      <p>
-        <extref href="../FA303/overview">FA303 Commonwealth Fund records, Reports of the General Director, SG 1, Series 31</extref>
-      </p>
-      <p>
-        <extref href="../FA304/overview">FA304 Commonwealth Fund records, Treasurer, SG 1, Series 32</extref>
-      </p>
-      <p>
-        <extref href="../FA305/overview">FA305 Commonwealth Fund records, Turndown Lists, SG 1, Series 33 - unprocessed</extref>
-      </p>
-      <p>
-        <extref href="../FA306/overview">FA306 Commonwealth Fund records, Vertical File (R. Fitz), SG 1, Series 34  - unprocessed</extref>
-      </p>
-      <p>
-        <extref href="../FA307/overview">FA307 Commonwealth Fund records, Visual Materials, SG 1, Series 35</extref>
-      </p>
-      <p>
-        <extref href="../FA389/overview">FA389 Commonwealth Fund records, Administration - Historical Files, SG 1, Series 1</extref>
-      </p>
-      <p>
-        <extref href="../FA390/overview">FA390 Commonwealth Fund records, Administration - Officers Files, SG 1, Series 2</extref>
-      </p>
-      <p>
-        <extref href="../FA429/overview">FA429 Commonwealth Fund records, President, Margaret E. Mahoney, SG 2, Series 1</extref>
-      </p>
-      <p>
-        <extref href="../FA430/overview">FA430 Commonwealth Fund records, Book Program, SG 2, Series 2</extref>
-      </p>
-    </otherfindaid>
-    <controlaccess>
-      <subject source="lcsh">Child psychology</subject>
-      <subject source="lcsh">Child mental health</subject>
-      <geogname source="lcsh">New York (N.Y.)</geogname>
-      <geogname source="lcsh">New York (State)</geogname>
-      <subject source="lcsh">Public health</subject>
-      <subject source="lcsh">Public welfare</subject>
-      <geogname source="lcsh">United States</geogname>
-      <subject source="lcsh">War relief</subject>
-      <subject source="lcsh">Medical research</subject>
-      <subject source="lcsh">Medical education</subject>
-      <subject source="lcsh">Legal research</subject>
-      <subject source="lcsh">Legal issues</subject>
-      <subject source="lcsh">Law</subject>
-      <subject source="lcsh">Hygiene</subject>
-      <subject source="lcsh">Education, Rural</subject>
-      <subject source="lcsh">Child welfare</subject>
-      <subject source="lcsh">Mental health</subject>
-      <subject source="lcsh">Medicine, Rural</subject>
-      <subject source="lcsh">Medicine -- Scholarships, fellowships, etc.</subject>
-    </controlaccess>
-    <dsc>
-      <c id="a24f8bd7d9cd4cdabf1bfc08fd7196e8" level="file">
-        <did>
-          <unittitle>Annual Report</unittitle>
-          <unitdate normal="1930/1931" type="inclusive">1930-1931</unitdate>
-          <container id="0b757ead49ab9c7ec0346c341c6b1a24" label="bound volume (A0000000053535)" type="box">1</container>
-          <container id="f4f21ac7efe63bea0d899d35c80c3b37" parent="0b757ead49ab9c7ec0346c341c6b1a24" type="folder">1</container>
-        </did>
-      </c>
-      <c id="7918dd2bdb5141a48ed0ce45e83b0491" level="file">
-        <did>
-          <unittitle>Annual Report</unittitle>
-          <unitdate normal="1932/1933" type="inclusive">1932-1933</unitdate>
-          <container id="e08a7b44e06e1d50afbefcdf5e3fae8f" label="bound volume (A0000000053535)" type="box">1</container>
-          <container id="35440f6052749529cc263eaa726d3a1d" parent="e08a7b44e06e1d50afbefcdf5e3fae8f" type="folder">2</container>
-        </did>
-      </c>
-      <c id="448c2a7dee204fc6b5c720e1dad8e0dc" level="file">
-        <did>
-          <unittitle>Annual Report</unittitle>
-          <unitdate normal="1933/1934" type="inclusive">1933-1934</unitdate>
-          <container id="25cc6b1bb3dfd37136fba3afbcda8bd7" label="bound volume (A0000000053535)" type="box">1</container>
-          <container id="cbaa5da8dd2c1e8476d1b150fa373b6e" parent="25cc6b1bb3dfd37136fba3afbcda8bd7" type="folder">3</container>
-        </did>
-      </c>
-      <c id="768bf440437d400783de174006b2dc66" level="file">
-        <did>
-          <unittitle>Annual Report</unittitle>
-          <unitdate normal="1934/1934" type="inclusive">1934</unitdate>
-          <container id="54d40819a96dc9c6de5d87f825b2add7" label="bound volume (A0000000053535)" type="box">1</container>
-          <container id="7cfae826f13fc4577c511ab933a3de47" parent="54d40819a96dc9c6de5d87f825b2add7" type="folder">4</container>
-        </did>
-      </c>
-      <c id="f8a5d44fca694257aa5bc71d8c43925c" level="file">
-        <did>
-          <unittitle>Annual Report</unittitle>
-          <unitdate normal="1935/1936" type="inclusive">1935-1936</unitdate>
-          <container id="d7c0037fd93378b30120e0dfdf8cae03" label="bound volume (A0000000053535)" type="box">1</container>
-          <container id="fe058d1182512d8a6542bc5e05125e0f" parent="d7c0037fd93378b30120e0dfdf8cae03" type="folder">5</container>
-        </did>
-      </c>
-      <c id="abbe502a8aca4d2784e2fdba4e965ea3" level="file">
-        <did>
-          <unittitle>Annual Report</unittitle>
-          <unitdate normal="1936/1937" type="inclusive">1936-1937</unitdate>
-          <container id="ab6040fead6f8123a38411332966d27a" label="bound volume (A0000000053536)" type="box">2</container>
-          <container id="648a13fbf4a8ee0e821da617a105da3a" parent="ab6040fead6f8123a38411332966d27a" type="folder">6</container>
-        </did>
-      </c>
-      <c id="f4d0ca1c8519464abf9cfbb73c133b3e" level="file">
-        <did>
-          <unittitle>Annual Report</unittitle>
-          <unitdate normal="1937/1938" type="inclusive">1937-1938</unitdate>
-          <container id="56a80082b2ae468bc33dcbae1c2d9f1f" label="bound volume (A0000000053536)" type="box">2</container>
-          <container id="139e602555eb16b8c2ed844378cc5ff7" parent="56a80082b2ae468bc33dcbae1c2d9f1f" type="folder">7</container>
-        </did>
-      </c>
-      <c id="fadf346f4cc14a18b153531de7a7dc72" level="file">
-        <did>
-          <unittitle>Annual Report</unittitle>
-          <unitdate normal="1938/1939" type="inclusive">1938-1939</unitdate>
-          <container id="527e8e46f258c0b798b719f033c7a137" label="bound volume (A0000000053536)" type="box">2</container>
-          <container id="c7653b2e21d67037a55e99d78be4f6f5" parent="527e8e46f258c0b798b719f033c7a137" type="folder">8</container>
-        </did>
-      </c>
-      <c id="5a0069a08d7a497ea264d84df09501dc" level="file">
-        <did>
-          <unittitle>Annual Report</unittitle>
-          <unitdate normal="1939/1940" type="inclusive">1939-1940</unitdate>
-          <container id="c7bd2df5ae456d50495bc31567a64da5" label="bound volume (A0000000053536)" type="box">2</container>
-          <container id="b3247f6b34c9810a35e6812e1ef4c020" parent="c7bd2df5ae456d50495bc31567a64da5" type="folder">9</container>
-        </did>
-      </c>
-      <c id="4b25c72308ea470eb75c925c27635db9" level="file">
-        <did>
-          <unittitle>Annual Report</unittitle>
-          <unitdate normal="1940/1941" type="inclusive">1940-1941</unitdate>
-          <container id="b3503b5e1030f4b9e1bff25cd14c7990" label="bound volume (A0000000053536)" type="box">2</container>
-          <container id="4249768d71728804be7c0572bb783a9e" parent="b3503b5e1030f4b9e1bff25cd14c7990" type="folder">10</container>
-        </did>
-      </c>
-      <c id="3ef34fc681e94df68eab22dcaf3b498f" level="file">
-        <did>
-          <unittitle>Annual Report</unittitle>
-          <unitdate normal="1942/1943" type="inclusive">1942-1943</unitdate>
-          <container id="7e74acfb0ce556b544bae711b813d207" label="bound volume (A0000000053537)" type="box">3</container>
-          <container id="0c0755c6f973a7783314e05d093725d9" parent="7e74acfb0ce556b544bae711b813d207" type="folder">11</container>
-        </did>
-      </c>
-      <c id="7f842bcd95b74d51b2abb62bd6caa484" level="file">
-        <did>
-          <unittitle>Annual Report</unittitle>
-          <unitdate normal="1943/1945" type="inclusive">1943-1945</unitdate>
-          <container id="dc61753cf16ce562668c68194a91ced7" label="bound volume (A0000000053537)" type="box">3</container>
-          <container id="8a4b0c130936ab128fd6f9875365481f" parent="dc61753cf16ce562668c68194a91ced7" type="folder">12</container>
-        </did>
-      </c>
-      <c id="b54a71b6121746609e22865ed04540b6" level="file">
-        <did>
-          <unittitle>Annual Report</unittitle>
-          <unitdate normal="1945/1946" type="inclusive">1945-1946</unitdate>
-          <container id="f10c3ad71f40e3afca5231ebdb891be5" label="bound volume (A0000000053537)" type="box">3</container>
-          <container id="abebd453c4f8dbefbd08497c18754245" parent="f10c3ad71f40e3afca5231ebdb891be5" type="folder">13</container>
-        </did>
-      </c>
-      <c id="2ccf3b5e898b42588fa51c9bcd5cdb0d" level="file">
-        <did>
-          <unittitle>Annual Report</unittitle>
-          <unitdate normal="1947/1948" type="inclusive">1947-1948</unitdate>
-          <container id="c708036a1abe8dca57489deb2a378356" label="bound volume (A0000000053537)" type="box">3</container>
-          <container id="ef21dd1a89cebe301a035e428cfb3091" parent="c708036a1abe8dca57489deb2a378356" type="folder">14</container>
-        </did>
-      </c>
-      <c id="451e28f643d24752987b868e3ec43c6d" level="file">
-        <did>
-          <unittitle>Annual Report</unittitle>
-          <unitdate normal="1949/1949" type="inclusive">1949</unitdate>
-          <container id="5ed8a0b414f17580ec14e203559eedb3" label="bound volume (A0000000053537)" type="box">3</container>
-          <container id="958cdab2c07f577b46de85a1e3206eb0" parent="5ed8a0b414f17580ec14e203559eedb3" type="folder">15</container>
-        </did>
-      </c>
-      <c id="446852f914a348c890dacba922923ca3" level="file">
-        <did>
-          <unittitle>Annual Reports</unittitle>
-          <unitdate normal="1950/1952" type="inclusive">1950-1952</unitdate>
-          <container id="5c1b39fe31183bf83d0b852e7a6c0a5d" label="bound volume (A0000000053538)" type="box">4</container>
-          <container id="0c29881e8d2eb69de83ac948fd9036ff" parent="5c1b39fe31183bf83d0b852e7a6c0a5d" type="folder">16</container>
-        </did>
-      </c>
-      <c id="1be82babd4664451b4982f386fdf8686" level="file">
-        <did>
-          <unittitle>Annual Reports</unittitle>
-          <unitdate normal="1953/1955" type="inclusive">1953-1955</unitdate>
-          <container id="6fe10175e0bc7d16f513a1bce9716b2b" label="bound volume (A0000000053538)" type="box">4</container>
-          <container id="6d469eed4abe91f71ad1d80fc3f85b49" parent="6fe10175e0bc7d16f513a1bce9716b2b" type="folder">17</container>
-        </did>
-      </c>
-      <c id="d7e1bdaabe114d8da2a1a43325795dd2" level="file">
-        <did>
-          <unittitle>Annual Reports</unittitle>
-          <unitdate normal="1956/1958" type="inclusive">1956-1958</unitdate>
-          <container id="874a30cb2c67a25d0d3badfb6316e093" label="bound volume (A0000000053538)" type="box">4</container>
-          <container id="5ee4567e536edca75bf4d5161575e9c7" parent="874a30cb2c67a25d0d3badfb6316e093" type="folder">18</container>
-        </did>
-      </c>
-      <c id="c1d0e8cae6334b4b962b13ccd6d6e843" level="file">
-        <did>
-          <unittitle>Annual Reports</unittitle>
-          <unitdate normal="1959/1960" type="inclusive">1959-1960, 1962</unitdate>
-          <container id="39cafb2bc081ed321ed51d8b60eddcbc" label="bound volume (A0000000053538)" type="box">4</container>
-          <container id="508bd8ae75c841fbcbefd83a3b8ea260" parent="39cafb2bc081ed321ed51d8b60eddcbc" type="folder">19</container>
-        </did>
-      </c>
-      <c id="e6c1b38768854c02a03dee4fc530d3a3" level="file">
-        <did>
-          <unittitle>Annual Reports</unittitle>
-          <unitdate normal="1965/1975" type="inclusive">1965, 1975</unitdate>
-          <container id="68577b762928d0df01be2d4d4f871ce0" label="bound volume (A0000000053538)" type="box">4</container>
-          <container id="9cbba2ac41685d38da30690d0ec77c07" parent="68577b762928d0df01be2d4d4f871ce0" type="folder">20</container>
-        </did>
-      </c>
-      <c id="3e3630fe12a14dccbbba5a1bf333736c" level="file">
-        <did>
-          <unittitle>Annual Report</unittitle>
-          <unitdate normal="1976/1977" type="inclusive">1976-1977</unitdate>
-          <container id="96cad75e3e080832eb489a220c654266" label="bound volume (A0000000053538)" type="box">4</container>
-          <container id="67e0f41c76f58fd08c4b7d8832b58561" parent="96cad75e3e080832eb489a220c654266" type="folder">21</container>
-        </did>
-      </c>
-      <c id="e730efb557d14fb4bf1a8d4120e1276f" level="file">
-        <did>
-          <unittitle>Minutes</unittitle>
-          <unitdate normal="1930/1931" type="inclusive">1930-1931</unitdate>
-          <container id="2fc629d4e8de1e1768faf72148993d1a" label="bound volume (A0000000053539)" type="box">5</container>
-          <container id="cc672c559063a216caa6e4458102e3fa" parent="2fc629d4e8de1e1768faf72148993d1a" type="folder">22</container>
-        </did>
-      </c>
-      <c id="3c95884975c34974a4ac57c2c61017b8" level="file">
-        <did>
-          <unittitle>Minutes</unittitle>
-          <unitdate normal="1932/1932" type="inclusive">1932</unitdate>
-          <container id="7f937bcbcb517a883b2c0e49f3ae131e" label="bound volume (A0000000053539)" type="box">5</container>
-          <container id="472e6fc0ef2edd2c741f686466b3c91b" parent="7f937bcbcb517a883b2c0e49f3ae131e" type="folder">23</container>
-        </did>
-      </c>
-      <c id="9108842b3bab49239f729843cca45acf" level="file">
-        <did>
-          <unittitle>Minutes</unittitle>
-          <unitdate normal="1933/1933" type="inclusive">1933</unitdate>
-          <container id="42033661c09897159f352c1518c943ed" label="bound volume (A0000000053539)" type="box">5</container>
-          <container id="aff16248dfe72e2295dd373194cafe14" parent="42033661c09897159f352c1518c943ed" type="folder">24</container>
-        </did>
-      </c>
-      <c id="a204ab550c33417f9051e0c94fa6ec14" level="file">
-        <did>
-          <unittitle>Minutes</unittitle>
-          <unitdate normal="1934/1934" type="inclusive">1934</unitdate>
-          <container id="b3a081231f5b98003bc01e14a798eb08" label="bound volume (A0000000053539)" type="box">5</container>
-          <container id="6cfa299ecdd1c579eca0f5bba18581de" parent="b3a081231f5b98003bc01e14a798eb08" type="folder">25</container>
-        </did>
-      </c>
-      <c id="fbe857a2ca684513834777a8cf569243" level="file">
-        <did>
-          <unittitle>Minutes</unittitle>
-          <unitdate normal="1935/1935" type="inclusive">1935</unitdate>
-          <container id="5d3a54f9edcf6b980c504e2d148193a6" label="bound volume (A0000000053540)" type="box">6</container>
-          <container id="c53f25ab6031c29649312f8503a28a0c" parent="5d3a54f9edcf6b980c504e2d148193a6" type="folder">26</container>
-        </did>
-      </c>
-      <c id="e04ef0e56f9c406ea4bb1505833c5db7" level="file">
-        <did>
-          <unittitle>Minutes</unittitle>
-          <unitdate normal="1936/1936" type="inclusive">1936</unitdate>
-          <container id="5ed0957faf8dea9fe2d481db1ff2212f" label="bound volume (A0000000053540)" type="box">6</container>
-          <container id="8902b5f1a62e12a0a2e307d55e2b6128" parent="5ed0957faf8dea9fe2d481db1ff2212f" type="folder">27</container>
-        </did>
-      </c>
-      <c id="12396166487845b2b08379ad41f2ecf1" level="file">
-        <did>
-          <unittitle>Minutes</unittitle>
-          <unitdate normal="1937/1937" type="inclusive">1937</unitdate>
-          <container id="1d26e39387da1de74688472c5caedc31" label="bound volume (A0000000053540)" type="box">6</container>
-          <container id="efce45dafb30bb6562b3d53464060775" parent="1d26e39387da1de74688472c5caedc31" type="folder">28</container>
-        </did>
-      </c>
-      <c id="92469323c1834d87ab0f67b56052412f" level="file">
-        <did>
-          <unittitle>Minutes</unittitle>
-          <unitdate normal="1938/1938" type="inclusive">1938</unitdate>
-          <container id="1bd96d5a4e5dba352301204d1ada02fb" label="bound volume (A0000000053541)" type="box">7</container>
-          <container id="64315a66705e81bf7632a141596f4efc" parent="1bd96d5a4e5dba352301204d1ada02fb" type="folder">29</container>
-        </did>
-      </c>
-      <c id="97123589090a413ea3b159abb6eb179f" level="file">
-        <did>
-          <unittitle>Supplementary Material</unittitle>
-          <unitdate normal="1928/1931" type="inclusive">1928-1929, 1931</unitdate>
-          <container id="cedca730a4f011d82a004feb96f92b19" label="mixed materials (A0000000053541)" type="box">7</container>
-          <container id="9c774b65c1b41c9b8a5c544b30f163cb" parent="cedca730a4f011d82a004feb96f92b19" type="folder">30</container>
-        </did>
-      </c>
-      <c id="914cc7ff3c5a40c1b49bf708c8fa2731" level="file">
-        <did>
-          <unittitle>Clippings </unittitle>
-          <container id="58e44bf8b69938699b1956511c7c2888" label="mixed materials (A0000000053541)" type="box">7</container>
-          <container id="ac32dcbfc17ed88a49f9e282c63f77f2" parent="58e44bf8b69938699b1956511c7c2888" type="folder">31</container>
-        </did>
-      </c>
-    </dsc>
-  </archdesc>
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="under_revision" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid>FA300.xml</eadid><filedesc><titlestmt><titleproper type="filing">Commonwealth Fund records, Pilgrim Trust, SG 1, Series 28</titleproper><titleproper>A Guide to the Commonwealth Fund records, Pilgrim Trust, SG 1, Series 28
+ <num>FA300</num></titleproper></titlestmt><publicationstmt><publisher>Rockefeller Archive Center</publisher><address><addressline>15 Dayton Avenue</addressline><addressline>Sleepy Hollow 10591</addressline><addressline>archive@rockarch.org</addressline><addressline>URL: <extptr xlink:href="http://www.rockarch.org" xlink:show="new" xlink:title="http://www.rockarch.org" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2019-08-13 00:17:24 -0400</date>.</creation></profiledesc></eadheader><archdesc level="series">
+  <did>
+    <langmaterial>
+      <language langcode="eng">English</language>
+    </langmaterial>
+    <repository>
+      <corpname>Rockefeller Archive Center</corpname>
+    </repository>
+    <unittitle>Commonwealth Fund records, Pilgrim Trust, SG 1, Series 28</unittitle>
+    <origination label="creator">
+      <corpname role="aut" source="naf">Commonwealth Fund</corpname>
+    </origination>
+    <unitid>FA300</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">2.47 Cubic Feet</extent>
+      <extent altrender="carrier">6 document boxes and 1 half-box.</extent>
+    </physdesc>
+    <unitdate normal="1930/1977" type="inclusive">1930-1977</unitdate>
+    <unitdate normal="1930/1950" type="bulk">1930-1950</unitdate>
+  </did>
+  <accessrestrict id="9a96700eaee92644fa60fed3372906b1">
+    <head>Conditions Governing Access note</head>
+<p>Open for research. Brittle or damaged items are available at the discretion of RAC.</p>  </accessrestrict>
+  <userestrict id="73d9899532ed8382b7f9b6bd1794ad2f">
+    <head>Conditions Governing Use note</head>
+<p>RAC users must abide by all applicable provisions of United States copyright law. Reproduction/duplication of archival items is routinely provided in accordance with "fair use." If the RAC does not hold copyright for an archival collection, or items within a collection, it is the user's responsibility to contact the copyright holder, or make a fair effort to do so, prior to publication.</p>  </userestrict>
+  <bioghist id="f516cfc369aee8ae2c2a00ccdd4a5848">
+    <head>Biographical/Historical note</head>
+<p>The Commonwealth Fund was established in 1918 with an endowment of $10 million from Mrs. Stephen V. Harkness for "benevolent, religious, educational and like purposes." The early grants supported a variety of programs while generally promoting welfare, especially child welfare. Several grants were made in the field of medical research, but the Board of Directors decided in 1920 that this field was already sufficiently supported by other philanthropic organizations.</p><p>Despite this decision, by the mid-1920s the chief interest of the Fund had become public health, including mental hygiene, community health, rural hospitals, medical research, and medical education. Other grant areas included war relief, educational and legal research, child welfare, and international medical fellowships.</p>  </bioghist>
+  <fileplan id="7f6d3f8fa2e3ba818ea3438d587385c2">
+    <head>File Plan note</head>
+<p>Former Classification: IX; IV 4B 4;</p>  </fileplan>
+  <prefercite id="603b0877b1e67b45f98e2bc54c17dfbc">
+    <head>Preferred Citation note</head>
+<p>Information regarding the Rockefeller Archive Center's preferred elements and forms of citation can be found at <extref href="http://www.rockarch.org/research/citations.php">http://www.rockarch.org/research/citations.php</extref></p>  </prefercite>
+  <bioghist id="de7a7d1982d020b3fcf65265e27293dc">
+    <head>Biographical / Historical</head>
+<p>The Pilgrim Trust was established by Edward S. Harkness in 1930, with an endowment of 2 million pound sterling.
+The stated mission of the Trust was to assist Great Britian and Northern Ireland with "urgent needs".</p>  </bioghist>
+  <scopecontent id="8ee87be5814ef651ce81afc2f4d37e30">
+    <head>Scope and Contents</head>
+<p>Pilgrim Trust records primarily consist of Annual Reports, Minutes, and a variety of newspaper clippings.</p>  </scopecontent>
+  <processinfo id="7b10ab0118bf97e8cb25831ff8c99cea">
+    <head>Processing Information</head>
+<p>Standard Processing by RAC Assistant Archivist Richard Torres, February 2014.</p>  </processinfo>
+  <otherfindaid id="c03b8f5b269aa41c11dbb4400db91f29">
+    <head>Other Finding Aids</head>
+<p>Other available finding aids describing the Commonwealth Fund records include:</p><p><extref href="../FA247/overview">FA247 Commonwealth Fund Harkness House drawings</extref></p><p><extref href="../FA276/overview">FA276 Commonwealth Fund records, Annual Reports, SG 1, Series 4</extref></p><p><extref href="../FA277/overview">FA277 Commonwealth Fund records, Archives/Library, SG 1, Series 5</extref></p><p><extref href="../FA278/overview">FA278 Commonwealth Fund records, Austrian Program, SG 1, Series 6</extref></p><p><extref href="../FA279/overview">FA279 Commonwealth Fund records, Board of Directors, SG 1, Series 7</extref></p><p><extref href="../FA280/overview">FA280 Commonwealth Fund records, Capital Grants, SG 1, Series 8</extref></p><p><extref href="../FA281/overview">FA281 Commonwealth Fund records, Child Health Demonstrations, SG 1, Series 9</extref></p><p><extref href="../FA282/overview">FA282 Commonwealth Fund records, Division of Community Clinics, SG 1, Series 10</extref></p><p><extref href="../FA283/overview">FA283 Commonwealth Fund records, Division of Health Studies, SG 1, Series 11</extref></p><p><extref href="../FA284/overview">FA284 Commonwealth Fund records, Division of Public Health, SG 1, Series 12</extref></p><p><extref href="../FA285/overview">FA285 Commonwealth Fund records, Division of Publications, SG 1, Series 13</extref></p><p><extref href="../FA286/overview">FA286 Commonwealth Fund records, Division of Rural Hospitals, SG 1, Series 14</extref></p><p><extref href="../FA287/overview">FA287 Commonwealth Fund records, Educational Research, SG 1, Series 15</extref></p><p><extref href="../FA288/overview">FA288 Commonwealth Fund records, English Mental Hygiene Program, SG 1, Series 16</extref></p><p><extref href="../FA289/overview">FA289 Commonwealth Fund records, Finance Committee, SG 1, Series 17</extref></p><p><extref href="../FA290/overview">FA290 Commonwealth Fund records, Grants, SG 1, Series 18</extref></p><p><extref href="../FA291/overview">FA291 Commonwealth Fund records, Harkness Family, SG 1, Series 19</extref></p><p><extref href="../FA292/overview">FA292 Commonwealth Fund records, Harkness Fellowships, SG 1, Series 20</extref></p><p><extref href="../FA428/overview">FA428 Commonwealth Fund records, Harkness Fellowships, Fellows Reports, SG 1, Series 20A</extref></p><p><extref href="../FA293/overview">FA293 Commonwealth Fund records, Institute for Child Guidance, SG 1, Series 21</extref></p><p><extref href="../FA294/overview">FA294 Commonwealth Fund records, Interface Program, SG 1, Series 22</extref></p><p><extref href="../FA295/overview">FA295 Commonwealth Fund records, Legal Research Program, SG 1, Series 23</extref></p><p><extref href="../FA296/overview">FA296 Commonwealth Fund records, Living at Home Program, SG 1, Series 24</extref></p><p><extref href="../FA297/overview">FA297 Commonwealth Fund records, Mental Hygiene Program, SG 1, Series 25</extref></p><p><extref href="../FA298/overview">FA298 Commonwealth Fund records, Miscellaneous - unprocessed</extref></p><p><extref href="../FA299/overview">FA299 Commonwealth Fund records, Personnel - unprocessed</extref></p><p><extref href="../FA300/overview">FA300 Commonwealth Fund records, Pilgrim Trust, SG 1, Series 28</extref></p><p><extref href="../FA301/overview">FA301 Commonwealth Fund records, Program for the Prevention of Delinquency, SG 1, Series 29</extref></p><p><extref href="../FA302/overview">FA302 Commonwealth Fund records, Reference Files, SG 1, Series 30</extref></p><p><extref href="../FA303/overview">FA303 Commonwealth Fund records, Reports of the General Director, SG 1, Series 31</extref></p><p><extref href="../FA304/overview">FA304 Commonwealth Fund records, Treasurer, SG 1, Series 32</extref></p><p><extref href="../FA305/overview">FA305 Commonwealth Fund records, Turndown Lists, SG 1, Series 33 - unprocessed</extref></p><p><extref href="../FA306/overview">FA306 Commonwealth Fund records, Vertical File (R. Fitz), SG 1, Series 34  - unprocessed</extref></p><p><extref href="../FA307/overview">FA307 Commonwealth Fund records, Visual Materials, SG 1, Series 35</extref></p><p><extref href="../FA389/overview">FA389 Commonwealth Fund records, Administration - Historical Files, SG 1, Series 1</extref></p><p><extref href="../FA390/overview">FA390 Commonwealth Fund records, Administration - Officers Files, SG 1, Series 2</extref></p><p><extref href="../FA429/overview">FA429 Commonwealth Fund records, President, Margaret E. Mahoney, SG 2, Series 1</extref></p><p><extref href="../FA430/overview">FA430 Commonwealth Fund records, Book Program, SG 2, Series 2</extref></p>  </otherfindaid>
+  <controlaccess>
+    <subject source="lcsh">Child psychology</subject>
+    <subject source="lcsh">Child mental health</subject>
+    <geogname source="lcsh">New York (N.Y.)</geogname>
+    <geogname source="lcsh">New York (State)</geogname>
+    <subject source="lcsh">Public health</subject>
+    <subject source="lcsh">Public welfare</subject>
+    <geogname source="lcsh">United States</geogname>
+    <subject source="lcsh">War relief</subject>
+    <subject source="lcsh">Medical research</subject>
+    <subject source="lcsh">Medical education</subject>
+    <subject source="lcsh">Legal research</subject>
+    <subject source="lcsh">Legal issues</subject>
+    <subject source="lcsh">Law</subject>
+    <subject source="lcsh">Hygiene</subject>
+    <subject source="lcsh">Education, Rural</subject>
+    <subject source="lcsh">Child welfare</subject>
+    <subject source="lcsh">Mental health</subject>
+    <subject source="lcsh">Medicine, Rural</subject>
+    <subject source="lcsh">Medicine -- Scholarships, fellowships, etc.</subject>
+  </controlaccess>
+  <dsc><c id="a24f8bd7d9cd4cdabf1bfc08fd7196e8" level="file"><did><unittitle>Annual Report</unittitle><unitdate normal="1930/1931" type="inclusive">1930-1931</unitdate><container altrender="Letter Document Storage Box" id="2e2ffeb5fa624bfb0bd13226f5ba0293" label="bound volume [A0000000053535]" type="box">1</container><container id="9942412536a3f5a274f8c65d0c51a4ba" parent="2e2ffeb5fa624bfb0bd13226f5ba0293" type="folder">1</container></did></c><c id="7918dd2bdb5141a48ed0ce45e83b0491" level="file"><did><unittitle>Annual Report</unittitle><unitdate normal="1932/1933" type="inclusive">1932-1933</unitdate><container altrender="Letter Document Storage Box" id="b9026803b8ef5b6b1d56d4584b55e075" label="bound volume [A0000000053535]" type="box">1</container><container id="b76c510888a3ebc9de3717331f6386f2" parent="b9026803b8ef5b6b1d56d4584b55e075" type="folder">2</container></did></c><c id="448c2a7dee204fc6b5c720e1dad8e0dc" level="file"><did><unittitle>Annual Report</unittitle><unitdate normal="1933/1934" type="inclusive">1933-1934</unitdate><container altrender="Letter Document Storage Box" id="ae766a8e4b1363aced6c5e97438900fa" label="bound volume [A0000000053535]" type="box">1</container><container id="e832ff15ac9c818970468248c175591d" parent="ae766a8e4b1363aced6c5e97438900fa" type="folder">3</container></did></c><c id="768bf440437d400783de174006b2dc66" level="file"><did><unittitle>Annual Report</unittitle><unitdate normal="1934/1934" type="inclusive">1934</unitdate><container altrender="Letter Document Storage Box" id="9ebb388bee3d07a439c13463df30ccb3" label="bound volume [A0000000053535]" type="box">1</container><container id="1f848a886ffe10e3afc93f8c0ccd25e9" parent="9ebb388bee3d07a439c13463df30ccb3" type="folder">4</container></did></c><c id="f8a5d44fca694257aa5bc71d8c43925c" level="file"><did><unittitle>Annual Report</unittitle><unitdate normal="1935/1936" type="inclusive">1935-1936</unitdate><container altrender="Letter Document Storage Box" id="60296be955d40c451a425eaa8c7096fd" label="bound volume [A0000000053535]" type="box">1</container><container id="8fe18c5146cc637d0b9b81eda12a143b" parent="60296be955d40c451a425eaa8c7096fd" type="folder">5</container></did></c><c id="abbe502a8aca4d2784e2fdba4e965ea3" level="file"><did><unittitle>Annual Report</unittitle><unitdate normal="1936/1937" type="inclusive">1936-1937</unitdate><container altrender="Letter Document Storage Box" id="d60a64a758288af1b2c5e5f545909beb" label="bound volume [A0000000053536]" type="box">2</container><container id="c329c626503bda29a3136e77dfd20928" parent="d60a64a758288af1b2c5e5f545909beb" type="folder">6</container></did></c><c id="f4d0ca1c8519464abf9cfbb73c133b3e" level="file"><did><unittitle>Annual Report</unittitle><unitdate normal="1937/1938" type="inclusive">1937-1938</unitdate><container altrender="Letter Document Storage Box" id="5ab578e1fef48fd855fd6d65731e16d3" label="bound volume [A0000000053536]" type="box">2</container><container id="c59dead1b39a60710de3a6d8014d88bd" parent="5ab578e1fef48fd855fd6d65731e16d3" type="folder">7</container></did></c><c id="fadf346f4cc14a18b153531de7a7dc72" level="file"><did><unittitle>Annual Report</unittitle><unitdate normal="1938/1939" type="inclusive">1938-1939</unitdate><container altrender="Letter Document Storage Box" id="2d1c84c7a2305e787011c39b267dba7f" label="bound volume [A0000000053536]" type="box">2</container><container id="7f7cf68e4c52ba6e3c72335bd7af1270" parent="2d1c84c7a2305e787011c39b267dba7f" type="folder">8</container></did></c><c id="5a0069a08d7a497ea264d84df09501dc" level="file"><did><unittitle>Annual Report</unittitle><unitdate normal="1939/1940" type="inclusive">1939-1940</unitdate><container altrender="Letter Document Storage Box" id="db3cd1b235a39a9c347424b1ebde911c" label="bound volume [A0000000053536]" type="box">2</container><container id="90259f81591544e3f873b403953ae3d9" parent="db3cd1b235a39a9c347424b1ebde911c" type="folder">9</container></did></c><c id="4b25c72308ea470eb75c925c27635db9" level="file"><did><unittitle>Annual Report</unittitle><unitdate normal="1940/1941" type="inclusive">1940-1941</unitdate><container altrender="Letter Document Storage Box" id="39c8fdb585b6ec50bb3a5c8af755abee" label="bound volume [A0000000053536]" type="box">2</container><container id="782181eedc57300a852b9c8eb30c8f74" parent="39c8fdb585b6ec50bb3a5c8af755abee" type="folder">10</container></did></c><c id="3ef34fc681e94df68eab22dcaf3b498f" level="file"><did><unittitle>Annual Report</unittitle><unitdate normal="1942/1943" type="inclusive">1942-1943</unitdate><container altrender="Letter Document Storage Box" id="00afced39cf3cbe78c38fd5c80f9dbff" label="bound volume [A0000000053537]" type="box">3</container><container id="7a35793364ecd0565b2dc08dc1438695" parent="00afced39cf3cbe78c38fd5c80f9dbff" type="folder">11</container></did></c><c id="7f842bcd95b74d51b2abb62bd6caa484" level="file"><did><unittitle>Annual Report</unittitle><unitdate normal="1943/1945" type="inclusive">1943-1945</unitdate><container altrender="Letter Document Storage Box" id="109c459ca8adee9ce2c002f143f2bad2" label="bound volume [A0000000053537]" type="box">3</container><container id="3f57ec2f0a75469fda731526909bb54f" parent="109c459ca8adee9ce2c002f143f2bad2" type="folder">12</container></did></c><c id="b54a71b6121746609e22865ed04540b6" level="file"><did><unittitle>Annual Report</unittitle><unitdate normal="1945/1946" type="inclusive">1945-1946</unitdate><container altrender="Letter Document Storage Box" id="1fd39ffc9a2166d9d13d45c0bc9c3a3a" label="bound volume [A0000000053537]" type="box">3</container><container id="eb07a0fb19cc5a9b7ddb2a0785ba5c40" parent="1fd39ffc9a2166d9d13d45c0bc9c3a3a" type="folder">13</container></did></c><c id="2ccf3b5e898b42588fa51c9bcd5cdb0d" level="file"><did><unittitle>Annual Report</unittitle><unitdate normal="1947/1948" type="inclusive">1947-1948</unitdate><container altrender="Letter Document Storage Box" id="edad5efad7c89124a7caaa767c29de9f" label="bound volume [A0000000053537]" type="box">3</container><container id="1d071f7bc5a8e61c145c97a5058d5746" parent="edad5efad7c89124a7caaa767c29de9f" type="folder">14</container></did></c><c id="451e28f643d24752987b868e3ec43c6d" level="file"><did><unittitle>Annual Report</unittitle><unitdate normal="1949/1949" type="inclusive">1949</unitdate><container altrender="Letter Document Storage Box" id="ec0ea76a90c5186f9383b5d6249b2a94" label="bound volume [A0000000053537]" type="box">3</container><container id="68ff9c4d330c13f05ddf535bd641ab03" parent="ec0ea76a90c5186f9383b5d6249b2a94" type="folder">15</container></did></c><c id="446852f914a348c890dacba922923ca3" level="file"><did><unittitle>Annual Reports</unittitle><unitdate normal="1950/1952" type="inclusive">1950-1952</unitdate><container altrender="Letter Document Storage Box" id="dfda83051c15c72fdf8646e14f3c4c1a" label="bound volume [A0000000053538]" type="box">4</container><container id="3c505e622b89adb43ceadbc854719268" parent="dfda83051c15c72fdf8646e14f3c4c1a" type="folder">16</container></did></c><c id="1be82babd4664451b4982f386fdf8686" level="file"><did><unittitle>Annual Reports</unittitle><unitdate normal="1953/1955" type="inclusive">1953-1955</unitdate><container altrender="Letter Document Storage Box" id="28117fda8840ae38f9422f228687c944" label="bound volume [A0000000053538]" type="box">4</container><container id="a689f5061730ed957fc52bd55c1fbf29" parent="28117fda8840ae38f9422f228687c944" type="folder">17</container></did></c><c id="d7e1bdaabe114d8da2a1a43325795dd2" level="file"><did><unittitle>Annual Reports</unittitle><unitdate normal="1956/1958" type="inclusive">1956-1958</unitdate><container altrender="Letter Document Storage Box" id="e259e50e4f5fe32289044a781afd1aa4" label="bound volume [A0000000053538]" type="box">4</container><container id="460f633a89002b531bb83cebe1a84123" parent="e259e50e4f5fe32289044a781afd1aa4" type="folder">18</container></did></c><c id="c1d0e8cae6334b4b962b13ccd6d6e843" level="file"><did><unittitle>Annual Reports</unittitle><unitdate normal="1959/1960" type="inclusive">1959-1960, 1962</unitdate><container altrender="Letter Document Storage Box" id="f3e74fbb5a3a941ef410f2b32ed89e5e" label="bound volume [A0000000053538]" type="box">4</container><container id="587cd54cda2d1e690220599cef8d9e21" parent="f3e74fbb5a3a941ef410f2b32ed89e5e" type="folder">19</container></did></c><c id="e6c1b38768854c02a03dee4fc530d3a3" level="file"><did><unittitle>Annual Reports</unittitle><unitdate normal="1965/1975" type="inclusive">1965, 1975</unitdate><container altrender="Letter Document Storage Box" id="7a19bf0db4ed84c5d788ab952e476705" label="bound volume [A0000000053538]" type="box">4</container><container id="31a85998eee1d1e1d1ded0e385eae6f1" parent="7a19bf0db4ed84c5d788ab952e476705" type="folder">20</container></did></c><c id="3e3630fe12a14dccbbba5a1bf333736c" level="file"><did><unittitle>Annual Report</unittitle><unitdate normal="1976/1977" type="inclusive">1976-1977</unitdate><container altrender="Letter Document Storage Box" id="fff9a114ca9f1a2b07003350ef0a6046" label="bound volume [A0000000053538]" type="box">4</container><container id="945a7e5c2e97f70e238b834dc0147c7a" parent="fff9a114ca9f1a2b07003350ef0a6046" type="folder">21</container></did></c><c id="e730efb557d14fb4bf1a8d4120e1276f" level="file"><did><unittitle>Minutes</unittitle><unitdate normal="1930/1931" type="inclusive">1930-1931</unitdate><container altrender="Letter Document Storage Box" id="2b1f3ee468b291560888f67319f4bc6e" label="bound volume [A0000000053539]" type="box">5</container><container id="1f42fd01b9b87f55b4f3d50e3df9ba39" parent="2b1f3ee468b291560888f67319f4bc6e" type="folder">22</container></did></c><c id="3c95884975c34974a4ac57c2c61017b8" level="file"><did><unittitle>Minutes</unittitle><unitdate normal="1932/1932" type="inclusive">1932</unitdate><container altrender="Letter Document Storage Box" id="ff58ec4777b4d60083625481645d6676" label="bound volume [A0000000053539]" type="box">5</container><container id="e05e9f2778283088f39036398bc49044" parent="ff58ec4777b4d60083625481645d6676" type="folder">23</container></did></c><c id="9108842b3bab49239f729843cca45acf" level="file"><did><unittitle>Minutes</unittitle><unitdate normal="1933/1933" type="inclusive">1933</unitdate><container altrender="Letter Document Storage Box" id="81d0ecd87e099107889b529688cd709a" label="bound volume [A0000000053539]" type="box">5</container><container id="3a92e06a849071c8f23f9df0f602cfe8" parent="81d0ecd87e099107889b529688cd709a" type="folder">24</container></did></c><c id="a204ab550c33417f9051e0c94fa6ec14" level="file"><did><unittitle>Minutes</unittitle><unitdate normal="1934/1934" type="inclusive">1934</unitdate><container altrender="Letter Document Storage Box" id="e8e71623c502f05a98d93b5dbd944282" label="bound volume [A0000000053539]" type="box">5</container><container id="732bf98ad4e75bf568ed59b59f2889ee" parent="e8e71623c502f05a98d93b5dbd944282" type="folder">25</container></did></c><c id="fbe857a2ca684513834777a8cf569243" level="file"><did><unittitle>Minutes</unittitle><unitdate normal="1935/1935" type="inclusive">1935</unitdate><container altrender="Letter Document Storage Box" id="d346f9729b1c7052af5a3271c0c3cab4" label="bound volume [A0000000053540]" type="box">6</container><container id="8e656f42c7e0182a85953562f17dfa4c" parent="d346f9729b1c7052af5a3271c0c3cab4" type="folder">26</container></did></c><c id="e04ef0e56f9c406ea4bb1505833c5db7" level="file"><did><unittitle>Minutes</unittitle><unitdate normal="1936/1936" type="inclusive">1936</unitdate><container altrender="Letter Document Storage Box" id="9e91365e8e629b6c783c82293bbf65b4" label="bound volume [A0000000053540]" type="box">6</container><container id="8ece7aec8b14984871d3f50ea61ef7ed" parent="9e91365e8e629b6c783c82293bbf65b4" type="folder">27</container></did></c><c id="12396166487845b2b08379ad41f2ecf1" level="file"><did><unittitle>Minutes</unittitle><unitdate normal="1937/1937" type="inclusive">1937</unitdate><container altrender="Letter Document Storage Box" id="1eec1278e1e82676db7ffdd88167530d" label="bound volume [A0000000053540]" type="box">6</container><container id="8f51ef93ea314a1e7086ad609d544ee3" parent="1eec1278e1e82676db7ffdd88167530d" type="folder">28</container></did></c><c id="92469323c1834d87ab0f67b56052412f" level="file"><did><unittitle>Minutes</unittitle><unitdate normal="1938/1938" type="inclusive">1938</unitdate><container altrender="Half Lgl Document Storage Box" id="2a0df8366de201ecdfb32d241eeb9a20" label="bound volume [A0000000053541]" type="box">7</container><container id="0c505bc0933614462b655d922bca281b" parent="2a0df8366de201ecdfb32d241eeb9a20" type="folder">29</container></did></c><c id="97123589090a413ea3b159abb6eb179f" level="file"><did><unittitle>Supplementary Material</unittitle><unitdate normal="1928/1931" type="inclusive">1928-1929, 1931</unitdate><container altrender="Half Lgl Document Storage Box" id="7df01568879dfc455015ae3f803c6c92" label="mixed materials [A0000000053541]" type="box">7</container><container id="0c05436bdcdd9772c31eeee57f05a3cb" parent="7df01568879dfc455015ae3f803c6c92" type="folder">30</container></did></c><c id="914cc7ff3c5a40c1b49bf708c8fa2731" level="file"><did><unittitle>Clippings </unittitle><container altrender="Half Lgl Document Storage Box" id="9a64443116b5addfa24465fc1beda0a4" label="mixed materials [A0000000053541]" type="box">7</container><container id="032f88169d3a61ffe395ea9096cc9e44" parent="9a64443116b5addfa24465fc1beda0a4" type="folder">31</container></did></c></dsc>
+</archdesc>
 </ead>
