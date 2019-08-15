@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mets xmlns="http://www.loc.gov/METS/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/mets/mets.xsd">
+  <metsHdr CREATEDATE="2019-08-15 00:41:50 -0400">
+    <agent ROLE="CREATOR" TYPE="ORGANIZATION">
+      <name>Rockefeller Archive Center</name>
+      <note>http://www.rockarch.org</note>
+      <note>Produced by ArchivesSpace</note>
+    </agent>
+  </metsHdr>
+  <dmdSec ID="2983">
+    <mdWrap MDTYPE="MODS">
+      <xmlData>
+        <mods version="3.4" xmlns="http://www.loc.gov/mods/v3">
+          <mods:titleInfo>
+            <mods:title>0330ac3331f54be7a90a17b3ee5e53b3_002.tif</mods:title>
+          </mods:titleInfo>
+          <mods:identifier type="local">7b11eb20-0914-4ea7-ab5f-d52c959b587a</mods:identifier>
+          <mods:typeOfResource/>
+          <mods:originInfo/>
+          <mods:physicalDescription/>
+          <mods:note type="originalsloc">4a6245c5-390a-411f-b464-a906937fc5b7</mods:note>
+          <mods:note displayLabel="Digital object made available by">Rockefeller Archive Center, 15 Dayton Avenue, Sleepy Hollow, 10591, U.S.A. (http://www.rockarch.org)</mods:note>
+          <mods:relatedItem displayLabel="resource" type="host">
+            <mods:name>Nelson A. Rockefeller photographs, Room 5600, Rockefeller family office, Series 2</mods:name>
+            <mods:identifier>FA455.xml</mods:identifier>
+          </mods:relatedItem>
+          <mods:relatedItem displayLabel="component" type="host">
+            <mods:name>Mexican President Manuel Avila Camacho; Ezequiel Padilla; Nelson A. Rockefeller in Morelos, Mexico, 1943</mods:name>
+            <mods:identifier>0330ac3331f54be7a90a17b3ee5e53b3</mods:identifier>
+          </mods:relatedItem>
+        </mods>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec>
+    <techMD ID="8092">
+      <mdWrap MDTYPE="PREMIS:OBJECT">
+        <xmlData>
+          <object version="2.2" xmlns="info:lc/xmlns/premis-v2" xsi:schemaLocation="info:lc/xmlns/premis-v2 http://www.loc.gov/standards/premis/v2/premis-v2-2.xsd" xsi:type="file">
+            <objectIdentifier>
+              <objectIdentifierType>ArchivesSpace identifier</objectIdentifierType>
+              <objectIdentifierValue>8092</objectIdentifierValue>
+            </objectIdentifier>
+            <objectCharacteristics>
+              <fixity>
+                <messageDigestAlgorithm/>
+                <messageDigest/>
+              </fixity>
+              <size>534984</size>
+              <format>
+                <formatDesignation>
+                  <formatName>tiff</formatName>
+                  <formatVersion>TIFF</formatVersion>
+                </formatDesignation>
+              </format>
+            </objectCharacteristics>
+          </object>
+        </xmlData>
+      </mdWrap>
+    </techMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="">
+      <file AMDID="8092" GROUPID="2983" ID="8092">
+        <FLocat xlink:href="https://storage.rockarch.org/7b11eb20-0914-4ea7-ab5f-d52c959b587a-0330ac3331f54be7a90a17b3ee5e53b3_002.jpg"/>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="logical">
+    <div DMDID="2983" LABEL="0330ac3331f54be7a90a17b3ee5e53b3_002.tif" ORDER="1" TYPE="item">
+      <fptr FILEID="8092"/>
+    </div>
+  </structMap>
+  <structMap TYPE="physical">
+    <div DMDID="2983" LABEL="0330ac3331f54be7a90a17b3ee5e53b3_002.tif" ORDER="1" TYPE="item">
+      <fptr FILEID="8092"/>
+    </div>
+  </structMap>
+</mets>
+

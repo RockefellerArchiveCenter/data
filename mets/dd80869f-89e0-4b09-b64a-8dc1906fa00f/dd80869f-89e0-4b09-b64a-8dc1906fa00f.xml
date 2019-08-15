@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mets xmlns="http://www.loc.gov/METS/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/mets/mets.xsd">
+  <metsHdr CREATEDATE="2019-08-15 00:41:56 -0400">
+    <agent ROLE="CREATOR" TYPE="ORGANIZATION">
+      <name>Rockefeller Archive Center</name>
+      <note>http://www.rockarch.org</note>
+      <note>Produced by ArchivesSpace</note>
+    </agent>
+  </metsHdr>
+  <dmdSec ID="2991">
+    <mdWrap MDTYPE="MODS">
+      <xmlData>
+        <mods version="3.4" xmlns="http://www.loc.gov/mods/v3">
+          <mods:titleInfo>
+            <mods:title>833a78a5c9204995a242bb21e1aa0b6a_003.tif</mods:title>
+          </mods:titleInfo>
+          <mods:identifier type="local">dd80869f-89e0-4b09-b64a-8dc1906fa00f</mods:identifier>
+          <mods:typeOfResource/>
+          <mods:originInfo/>
+          <mods:physicalDescription/>
+          <mods:note type="originalsloc">fda79d2e-bcc6-4ea5-ba48-c7ccd0fb04a2</mods:note>
+          <mods:note displayLabel="Digital object made available by">Rockefeller Archive Center, 15 Dayton Avenue, Sleepy Hollow, 10591, U.S.A. (http://www.rockarch.org)</mods:note>
+          <mods:relatedItem displayLabel="resource" type="host">
+            <mods:name>Nelson A. Rockefeller photographs, Room 5600, Rockefeller family office, Series 2</mods:name>
+            <mods:identifier>FA455.xml</mods:identifier>
+          </mods:relatedItem>
+          <mods:relatedItem displayLabel="component" type="host">
+            <mods:name>Nelson A. Rockefeller at a meeting, Morelos, Mexico, 1942</mods:name>
+            <mods:identifier>833a78a5c9204995a242bb21e1aa0b6a</mods:identifier>
+          </mods:relatedItem>
+        </mods>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec>
+    <techMD ID="8100">
+      <mdWrap MDTYPE="PREMIS:OBJECT">
+        <xmlData>
+          <object version="2.2" xmlns="info:lc/xmlns/premis-v2" xsi:schemaLocation="info:lc/xmlns/premis-v2 http://www.loc.gov/standards/premis/v2/premis-v2-2.xsd" xsi:type="file">
+            <objectIdentifier>
+              <objectIdentifierType>ArchivesSpace identifier</objectIdentifierType>
+              <objectIdentifierValue>8100</objectIdentifierValue>
+            </objectIdentifier>
+            <objectCharacteristics>
+              <fixity>
+                <messageDigestAlgorithm/>
+                <messageDigest/>
+              </fixity>
+              <size>596428</size>
+              <format>
+                <formatDesignation>
+                  <formatName>tiff</formatName>
+                  <formatVersion>TIFF</formatVersion>
+                </formatDesignation>
+              </format>
+            </objectCharacteristics>
+          </object>
+        </xmlData>
+      </mdWrap>
+    </techMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="">
+      <file AMDID="8100" GROUPID="2991" ID="8100">
+        <FLocat xlink:href="https://storage.rockarch.org/dd80869f-89e0-4b09-b64a-8dc1906fa00f-833a78a5c9204995a242bb21e1aa0b6a_003.jpg"/>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="logical">
+    <div DMDID="2991" LABEL="833a78a5c9204995a242bb21e1aa0b6a_003.tif" ORDER="1" TYPE="item">
+      <fptr FILEID="8100"/>
+    </div>
+  </structMap>
+  <structMap TYPE="physical">
+    <div DMDID="2991" LABEL="833a78a5c9204995a242bb21e1aa0b6a_003.tif" ORDER="1" TYPE="item">
+      <fptr FILEID="8100"/>
+    </div>
+  </structMap>
+</mets>
+
