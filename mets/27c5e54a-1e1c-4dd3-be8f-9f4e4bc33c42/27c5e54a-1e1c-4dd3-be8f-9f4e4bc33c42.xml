@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mets xmlns="http://www.loc.gov/METS/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/mets/mets.xsd">
+  <metsHdr CREATEDATE="2019-08-16 03:23:15 -0400">
+    <agent ROLE="CREATOR" TYPE="ORGANIZATION">
+      <name>Rockefeller Archive Center</name>
+      <note>http://www.rockarch.org</note>
+      <note>Produced by ArchivesSpace</note>
+    </agent>
+  </metsHdr>
+  <dmdSec ID="2997">
+    <mdWrap MDTYPE="MODS">
+      <xmlData>
+        <mods version="3.4" xmlns="http://www.loc.gov/mods/v3">
+          <mods:titleInfo>
+            <mods:title>RF_Arnold_1966-1967.pdf</mods:title>
+          </mods:titleInfo>
+          <mods:identifier type="local">27c5e54a-1e1c-4dd3-be8f-9f4e4bc33c42</mods:identifier>
+          <mods:typeOfResource/>
+          <mods:originInfo/>
+          <mods:physicalDescription/>
+          <mods:note type="originalsloc">59de82cb-67fb-4502-b87d-e35a32c7b9f0</mods:note>
+          <mods:note displayLabel="Digital object made available by">Rockefeller Archive Center, 15 Dayton Avenue, Sleepy Hollow, 10591, U.S.A. (http://www.rockarch.org)</mods:note>
+          <mods:subject authority="lcsh">
+            <mods:geographic>Colombia</mods:geographic>
+          </mods:subject>
+          <mods:subject authority="lcsh">
+            <mods:geographic>Nigeria</mods:geographic>
+          </mods:subject>
+          <mods:relatedItem displayLabel="resource" type="host">
+            <mods:name>Rockefeller Foundation records, officers' diaries, RG 12, A-E</mods:name>
+            <mods:identifier>FA391.xml</mods:identifier>
+          </mods:relatedItem>
+          <mods:relatedItem displayLabel="component" type="host">
+            <mods:name>1966-1967</mods:name>
+            <mods:identifier>e732ee2ebcbb4e18b3ab0f15de750a81</mods:identifier>
+          </mods:relatedItem>
+        </mods>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec>
+    <techMD ID="8106">
+      <mdWrap MDTYPE="PREMIS:OBJECT">
+        <xmlData>
+          <object version="2.2" xmlns="info:lc/xmlns/premis-v2" xsi:schemaLocation="info:lc/xmlns/premis-v2 http://www.loc.gov/standards/premis/v2/premis-v2-2.xsd" xsi:type="file">
+            <objectIdentifier>
+              <objectIdentifierType>ArchivesSpace identifier</objectIdentifierType>
+              <objectIdentifierValue>8106</objectIdentifierValue>
+            </objectIdentifier>
+            <objectCharacteristics>
+              <fixity>
+                <messageDigestAlgorithm/>
+                <messageDigest/>
+              </fixity>
+              <size>211574275</size>
+              <format>
+                <formatDesignation>
+                  <formatName/>
+                  <formatVersion>Acrobat PDF </formatVersion>
+                </formatDesignation>
+              </format>
+            </objectCharacteristics>
+          </object>
+        </xmlData>
+      </mdWrap>
+    </techMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="">
+      <file AMDID="8106" GROUPID="2997" ID="8106">
+        <FLocat xlink:href="https://storage.rockarch.org/27c5e54a-1e1c-4dd3-be8f-9f4e4bc33c42-RF_Arnold_1966-1967.pdf"/>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="logical">
+    <div DMDID="2997" LABEL="RF_Arnold_1966-1967.pdf" ORDER="1" TYPE="item">
+      <fptr FILEID="8106"/>
+    </div>
+  </structMap>
+  <structMap TYPE="physical">
+    <div DMDID="2997" LABEL="RF_Arnold_1966-1967.pdf" ORDER="1" TYPE="item">
+      <fptr FILEID="8106"/>
+    </div>
+  </structMap>
+</mets>
+
