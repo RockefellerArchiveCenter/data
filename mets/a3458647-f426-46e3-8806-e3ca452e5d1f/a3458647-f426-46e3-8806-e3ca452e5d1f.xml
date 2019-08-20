@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mets xmlns="http://www.loc.gov/METS/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/mets/mets.xsd">
+  <metsHdr CREATEDATE="2019-08-20 04:29:14 -0400">
+    <agent ROLE="CREATOR" TYPE="ORGANIZATION">
+      <name>Rockefeller Archive Center</name>
+      <note>http://www.rockarch.org</note>
+      <note>Produced by ArchivesSpace</note>
+    </agent>
+  </metsHdr>
+  <dmdSec ID="3008">
+    <mdWrap MDTYPE="MODS">
+      <xmlData>
+        <mods version="3.4" xmlns="http://www.loc.gov/mods/v3">
+          <mods:titleInfo>
+            <mods:title>5dc488af6eab4abdb2ded6bfa6b50cac.pdf</mods:title>
+          </mods:titleInfo>
+          <mods:identifier type="local">a3458647-f426-46e3-8806-e3ca452e5d1f</mods:identifier>
+          <mods:typeOfResource/>
+          <mods:originInfo/>
+          <mods:physicalDescription/>
+          <mods:note type="originalsloc">ba3e9971-2fc5-4927-982a-bce8491cae7e</mods:note>
+          <mods:note displayLabel="Digital object made available by">Rockefeller Archive Center, 15 Dayton Avenue, Sleepy Hollow, 10591, U.S.A. (http://www.rockarch.org)</mods:note>
+          <mods:relatedItem displayLabel="resource" type="host">
+            <mods:name>Office of the Messrs. Rockefeller records, Business Interests, Series C</mods:name>
+            <mods:identifier>FA312.xml</mods:identifier>
+          </mods:relatedItem>
+          <mods:relatedItem displayLabel="component" type="host">
+            <mods:name>Rockefeller Center, Inc. - Theme and Decoration, 1931-1933</mods:name>
+            <mods:identifier>5dc488af6eab4abdb2ded6bfa6b50cac</mods:identifier>
+          </mods:relatedItem>
+        </mods>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec>
+    <techMD ID="8117">
+      <mdWrap MDTYPE="PREMIS:OBJECT">
+        <xmlData>
+          <object version="2.2" xmlns="info:lc/xmlns/premis-v2" xsi:schemaLocation="info:lc/xmlns/premis-v2 http://www.loc.gov/standards/premis/v2/premis-v2-2.xsd" xsi:type="file">
+            <objectIdentifier>
+              <objectIdentifierType>ArchivesSpace identifier</objectIdentifierType>
+              <objectIdentifierValue>8117</objectIdentifierValue>
+            </objectIdentifier>
+            <objectCharacteristics>
+              <fixity>
+                <messageDigestAlgorithm/>
+                <messageDigest/>
+              </fixity>
+              <size>74722685</size>
+              <format>
+                <formatDesignation>
+                  <formatName/>
+                  <formatVersion>Acrobat PDF </formatVersion>
+                </formatDesignation>
+              </format>
+            </objectCharacteristics>
+          </object>
+        </xmlData>
+      </mdWrap>
+    </techMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="">
+      <file AMDID="8117" GROUPID="3008" ID="8117">
+        <FLocat xlink:href="https://storage.rockarch.org/a3458647-f426-46e3-8806-e3ca452e5d1f-5dc488af6eab4abdb2ded6bfa6b50cac.pdf"/>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="logical">
+    <div DMDID="3008" LABEL="5dc488af6eab4abdb2ded6bfa6b50cac.pdf" ORDER="1" TYPE="item">
+      <fptr FILEID="8117"/>
+    </div>
+  </structMap>
+  <structMap TYPE="physical">
+    <div DMDID="3008" LABEL="5dc488af6eab4abdb2ded6bfa6b50cac.pdf" ORDER="1" TYPE="item">
+      <fptr FILEID="8117"/>
+    </div>
+  </structMap>
+</mets>
+

@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mets xmlns="http://www.loc.gov/METS/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/mets/mets.xsd">
+  <metsHdr CREATEDATE="2019-08-20 04:29:26 -0400">
+    <agent ROLE="CREATOR" TYPE="ORGANIZATION">
+      <name>Rockefeller Archive Center</name>
+      <note>http://www.rockarch.org</note>
+      <note>Produced by ArchivesSpace</note>
+    </agent>
+  </metsHdr>
+  <dmdSec ID="3021">
+    <mdWrap MDTYPE="MODS">
+      <xmlData>
+        <mods version="3.4" xmlns="http://www.loc.gov/mods/v3">
+          <mods:titleInfo>
+            <mods:title>23a78c161c234c89931140c0e46ff41b.pdf</mods:title>
+          </mods:titleInfo>
+          <mods:identifier type="local">7f6002f1-f04c-44f7-bc6b-17b6c432d936</mods:identifier>
+          <mods:typeOfResource/>
+          <mods:originInfo/>
+          <mods:physicalDescription/>
+          <mods:note type="originalsloc">00e160a7-0b6d-462c-8335-c304aadcf73c</mods:note>
+          <mods:note displayLabel="Digital object made available by">Rockefeller Archive Center, 15 Dayton Avenue, Sleepy Hollow, 10591, U.S.A. (http://www.rockarch.org)</mods:note>
+          <mods:relatedItem displayLabel="resource" type="host">
+            <mods:name>Office of the Messrs. Rockefeller records, John D. Rockefeller, Jr. Personal papers, Series Z</mods:name>
+            <mods:identifier>FA335.xml</mods:identifier>
+          </mods:relatedItem>
+          <mods:relatedItem displayLabel="component" type="host">
+            <mods:name>Impressions of China, January 19, 1922</mods:name>
+            <mods:identifier>23a78c161c234c89931140c0e46ff41b</mods:identifier>
+          </mods:relatedItem>
+        </mods>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec>
+    <techMD ID="8130">
+      <mdWrap MDTYPE="PREMIS:OBJECT">
+        <xmlData>
+          <object version="2.2" xmlns="info:lc/xmlns/premis-v2" xsi:schemaLocation="info:lc/xmlns/premis-v2 http://www.loc.gov/standards/premis/v2/premis-v2-2.xsd" xsi:type="file">
+            <objectIdentifier>
+              <objectIdentifierType>ArchivesSpace identifier</objectIdentifierType>
+              <objectIdentifierValue>8130</objectIdentifierValue>
+            </objectIdentifier>
+            <objectCharacteristics>
+              <fixity>
+                <messageDigestAlgorithm/>
+                <messageDigest/>
+              </fixity>
+              <size>712993</size>
+              <format>
+                <formatDesignation>
+                  <formatName/>
+                  <formatVersion>Acrobat PDF </formatVersion>
+                </formatDesignation>
+              </format>
+            </objectCharacteristics>
+          </object>
+        </xmlData>
+      </mdWrap>
+    </techMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="">
+      <file AMDID="8130" GROUPID="3021" ID="8130">
+        <FLocat xlink:href="https://storage.rockarch.org/7f6002f1-f04c-44f7-bc6b-17b6c432d936-23a78c161c234c89931140c0e46ff41b.pdf"/>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="logical">
+    <div DMDID="3021" LABEL="23a78c161c234c89931140c0e46ff41b.pdf" ORDER="1" TYPE="item">
+      <fptr FILEID="8130"/>
+    </div>
+  </structMap>
+  <structMap TYPE="physical">
+    <div DMDID="3021" LABEL="23a78c161c234c89931140c0e46ff41b.pdf" ORDER="1" TYPE="item">
+      <fptr FILEID="8130"/>
+    </div>
+  </structMap>
+</mets>
+

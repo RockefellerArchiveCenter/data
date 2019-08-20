@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mets xmlns="http://www.loc.gov/METS/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/mets/mets.xsd">
+  <metsHdr CREATEDATE="2019-08-20 04:29:20 -0400">
+    <agent ROLE="CREATOR" TYPE="ORGANIZATION">
+      <name>Rockefeller Archive Center</name>
+      <note>http://www.rockarch.org</note>
+      <note>Produced by ArchivesSpace</note>
+    </agent>
+  </metsHdr>
+  <dmdSec ID="3014">
+    <mdWrap MDTYPE="MODS">
+      <xmlData>
+        <mods version="3.4" xmlns="http://www.loc.gov/mods/v3">
+          <mods:titleInfo>
+            <mods:title>f25c50be511e4ccda2821cc6994c9f88.pdf</mods:title>
+          </mods:titleInfo>
+          <mods:identifier type="local">28e9e4d5-e132-4b76-9e8c-a4ffeb2c21db</mods:identifier>
+          <mods:typeOfResource/>
+          <mods:originInfo/>
+          <mods:physicalDescription/>
+          <mods:note type="originalsloc">44bfc0e4-966f-4ff4-8414-cbd834a85ecc</mods:note>
+          <mods:note displayLabel="Digital object made available by">Rockefeller Archive Center, 15 Dayton Avenue, Sleepy Hollow, 10591, U.S.A. (http://www.rockarch.org)</mods:note>
+          <mods:relatedItem displayLabel="resource" type="host">
+            <mods:name>Laura Spelman Rockefeller Memorial records</mods:name>
+            <mods:identifier>FA061,xml</mods:identifier>
+          </mods:relatedItem>
+          <mods:relatedItem displayLabel="component" type="host">
+            <mods:name>Social Science Research Council - Human Migrations, 1924-1930</mods:name>
+            <mods:identifier>f25c50be511e4ccda2821cc6994c9f88</mods:identifier>
+          </mods:relatedItem>
+        </mods>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec>
+    <techMD ID="8123">
+      <mdWrap MDTYPE="PREMIS:OBJECT">
+        <xmlData>
+          <object version="2.2" xmlns="info:lc/xmlns/premis-v2" xsi:schemaLocation="info:lc/xmlns/premis-v2 http://www.loc.gov/standards/premis/v2/premis-v2-2.xsd" xsi:type="file">
+            <objectIdentifier>
+              <objectIdentifierType>ArchivesSpace identifier</objectIdentifierType>
+              <objectIdentifierValue>8123</objectIdentifierValue>
+            </objectIdentifier>
+            <objectCharacteristics>
+              <fixity>
+                <messageDigestAlgorithm/>
+                <messageDigest/>
+              </fixity>
+              <size>44616358</size>
+              <format>
+                <formatDesignation>
+                  <formatName/>
+                  <formatVersion>Acrobat PDF </formatVersion>
+                </formatDesignation>
+              </format>
+            </objectCharacteristics>
+          </object>
+        </xmlData>
+      </mdWrap>
+    </techMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="">
+      <file AMDID="8123" GROUPID="3014" ID="8123">
+        <FLocat xlink:href="https://storage.rockarch.org/28e9e4d5-e132-4b76-9e8c-a4ffeb2c21db-f25c50be511e4ccda2821cc6994c9f88.pdf"/>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="logical">
+    <div DMDID="3014" LABEL="f25c50be511e4ccda2821cc6994c9f88.pdf" ORDER="1" TYPE="item">
+      <fptr FILEID="8123"/>
+    </div>
+  </structMap>
+  <structMap TYPE="physical">
+    <div DMDID="3014" LABEL="f25c50be511e4ccda2821cc6994c9f88.pdf" ORDER="1" TYPE="item">
+      <fptr FILEID="8123"/>
+    </div>
+  </structMap>
+</mets>
+
