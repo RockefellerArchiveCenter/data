@@ -1,205 +1,95 @@
-<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
-  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" repositoryencoding="iso15511">
-    <eadid>FA509.xml</eadid>
-    <filedesc>
-      <titlestmt>
-        <titleproper type="filing">Ford Foundation records, Africa and the Middle East, Johannesburg, South Africa Office Files</titleproper>
-        <titleproper>A Guide to the Ford Foundation records, Africa and the Middle East, Johannesburg, South Africa Office Files
- <num>FA509</num></titleproper>
-      </titlestmt>
-      <publicationstmt>
-        <publisher>Rockefeller Archive Center</publisher>
-        <address>
-          <addressline>15 Dayton Avenue</addressline>
-          <addressline>Sleepy Hollow 10591</addressline>
-          <addressline>archive@rockarch.org</addressline>
-          <addressline>URL: <extptr xlink:href="http://www.rockarch.org" xlink:show="new" xlink:title="http://www.rockarch.org" xlink:type="simple"/></addressline>
-        </address>
-      </publicationstmt>
-    </filedesc>
-    <profiledesc>
-      <creation>This finding aid was produced using ArchivesSpace on <date>2017-10-25 00:08:16 -0400</date>.</creation>
-    </profiledesc>
-  </eadheader>
-  <archdesc level="collection">
-    <did>
-      <langmaterial>
-        <language langcode="eng">English</language>
-      </langmaterial>
-      <repository>
-        <corpname>Rockefeller Archive Center</corpname>
-      </repository>
-      <unittitle>Ford Foundation records, Africa and the Middle East, Johannesburg, South Africa Office Files</unittitle>
-      <origination label="creator">
-        <corpname role="aut" rules="dacs" source="nad">Ford Foundation</corpname>
-      </origination>
-      <unitid>FA509</unitid>
-      <physdesc altrender="whole">
-        <extent altrender="materialtype spaceoccupied">1 Cubic Feet</extent>
-      </physdesc>
-      <unitdate normal="1989/1996" type="inclusive">1989-1996</unitdate>
-    </did>
-    <accessrestrict id="5f781528073153bbaf77f968e6ff55e1">
-      <head>Conditions Governing Access note</head>
-      <p>Material is open for scholarly research, with prior archival review. </p>
-      <p>Material more than ten years old is open for scholarly research.</p>
-      <p>Select individual files are restricted, as noted. Permission to access these files must be obtained from the Ford Foundation before scholarly access is permitted.</p>
-    </accessrestrict>
-    <userestrict id="44baef5174f8584329237f10d5d06788">
-      <head>Conditions Governing Use note</head>
-      <p>Completion of a use agreement is required prior to providing scholarly access. See RAC Head of Reference (or applicable designee) for details. Ford Foundation holds title, copyright and literary rights in the collection, in so far as it holds them. The Rockefeller Archive Center has authority to grant permission to cite and publish material from the collection for scholarly purposes. Permission to publish extensive excerpts, or material in its entirety, will be referred to the Ford Foundation.</p>
-    </userestrict>
-    <acqinfo id="7d05133aa94e8608f2d4c65547be6a47">
-      <head>Immediate Source of Acquisition note</head>
-      <p>Ford Foundation archive was deposited at RAC in 2011. Ford Foundation records, correspondence, reports, program files and officers papers were transferred to, and accessioned by, RAC beginning in 2011. Accessions continue as necessary.</p>
-    </acqinfo>
-    <prefercite id="bc92d23dcd8e7956f8027b95cbb07fbb">
-      <head>Preferred Citation note</head>
-      <p>Information regarding the Rockefeller Archive Center's preferred elements and forms of citation can be found at <extref href="http://www.rockarch.org/research/citations.php">http://www.rockarch.org/research/citations.php</extref></p>
-    </prefercite>
-    <processinfo id="e2118bc536810a045bca8bb3d08acd7f">
-      <head>Processing Information</head>
-      <p>Level 1 Minimal Processing has been conducted to establish basic intellectual and physical control of the material and assess immediate preservation and conservation needs. Material remains as received, in original folders and storage boxes.</p>
-    </processinfo>
-    <accessrestrict id="356ed920fb0d36b0dd1ca9298196aba4">
-      <head>Conditions Governing Access</head>
-      <p>Records more than 10 years old are open for research with select materials restricted as noted. Brittle or damaged items are available at the discretion of RAC. Researchers interested in accessing digital media (floppy disks, CDs, DVDs, etc.) or audiovisual material (audio cassettes, VHS, etc.) in this collection must use an access surrogate. The original items may not be accessed because of preservation concerns. To request an access surrogate be made, or if you are unsure if there is an access surrogate, please contact an archivist.</p>
-    </accessrestrict>
-    <scopecontent id="bdcce9ff107f1e023779ebe3f4caeacd">
-      <head>Scope and Contents</head>
-      <p>Office files of the Africa and Middle East Program in South Africa.</p>
-    </scopecontent>
-    <arrangement id="92593ea3e33b90bdd32887459c399590">
-      <head>Arrangement</head>
-      <p>Arranged in 3 series:
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid>FA509.xml</eadid><filedesc><titlestmt><titleproper type="filing">Ford Foundation records, Africa and the Middle East, Johannesburg, South Africa Office Files</titleproper><titleproper>A Guide to the Ford Foundation records, Africa and the Middle East, Johannesburg, South Africa Office Files
+ <num>FA509</num></titleproper></titlestmt><publicationstmt><publisher>Rockefeller Archive Center</publisher><address><addressline>15 Dayton Avenue</addressline><addressline>Sleepy Hollow 10591</addressline><addressline>archive@rockarch.org</addressline><addressline>URL: <extptr xlink:href="http://www.rockarch.org" xlink:show="new" xlink:title="http://www.rockarch.org" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2019-08-22 00:15:57 -0400</date>.</creation></profiledesc></eadheader><archdesc level="collection">
+  <did>
+    <langmaterial>
+      <language langcode="eng">English</language>
+    </langmaterial>
+    <repository>
+      <corpname>Rockefeller Archive Center</corpname>
+    </repository>
+    <unittitle>Ford Foundation records, Africa and the Middle East, Johannesburg, South Africa Office Files</unittitle>
+    <origination label="creator">
+      <corpname role="aut" rules="dacs" source="nad">Ford Foundation</corpname>
+    </origination>
+    <unitid>FA509</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">0.76 Cubic Feet</extent>
+      <extent altrender="carrier">2 letter document boxes.</extent>
+    </physdesc>
+    <unitdate normal="1989/1996" type="inclusive">1989-1996</unitdate>
+  </did>
+  <accessrestrict id="5f781528073153bbaf77f968e6ff55e1">
+    <head>Conditions Governing Access note</head>
+<p>Material is open for scholarly research, with prior archival review. </p><p>Material more than ten years old is open for scholarly research.</p><p>Select individual files are restricted, as noted. Permission to access these files must be obtained from the Ford Foundation before scholarly access is permitted.</p>  </accessrestrict>
+  <userestrict id="44baef5174f8584329237f10d5d06788">
+    <head>Conditions Governing Use note</head>
+<p>Completion of a use agreement is required prior to providing scholarly access. See RAC Head of Reference (or applicable designee) for details. Ford Foundation holds title, copyright and literary rights in the collection, in so far as it holds them. The Rockefeller Archive Center has authority to grant permission to cite and publish material from the collection for scholarly purposes. Permission to publish extensive excerpts, or material in its entirety, will be referred to the Ford Foundation.</p>  </userestrict>
+  <acqinfo id="7d05133aa94e8608f2d4c65547be6a47">
+    <head>Immediate Source of Acquisition note</head>
+<p>Ford Foundation archive was deposited at RAC in 2011. Ford Foundation records, correspondence, reports, program files and officers papers were transferred to, and accessioned by, RAC beginning in 2011. Accessions continue as necessary.</p>  </acqinfo>
+  <prefercite id="bc92d23dcd8e7956f8027b95cbb07fbb">
+    <head>Preferred Citation note</head>
+<p>Information regarding the Rockefeller Archive Center's preferred elements and forms of citation can be found at <extref href="http://www.rockarch.org/research/citations.php">http://www.rockarch.org/research/citations.php</extref></p>  </prefercite>
+  <processinfo id="e2118bc536810a045bca8bb3d08acd7f">
+    <head>Processing Information</head>
+<p>Level 1 Minimal Processing has been conducted to establish basic intellectual and physical control of the material and assess immediate preservation and conservation needs. Material remains as received, in original folders and storage boxes.</p>  </processinfo>
+  <accessrestrict id="356ed920fb0d36b0dd1ca9298196aba4">
+    <head>Conditions Governing Access</head>
+<p>Records more than 10 years old are open for research with select materials restricted as noted. Brittle or damaged items are available at the discretion of RAC. Researchers interested in accessing digital media (floppy disks, CDs, DVDs, etc.) or audiovisual material (audio cassettes, VHS, etc.) in this collection must use an access surrogate. The original items may not be accessed because of preservation concerns. To request an access surrogate be made, or if you are unsure if there is an access surrogate, please contact an archivist.</p>  </accessrestrict>
+  <scopecontent id="bdcce9ff107f1e023779ebe3f4caeacd">
+    <head>Scope and Contents</head>
+<p>Office files of the Africa and Middle East Program in South Africa.</p>  </scopecontent>
+  <arrangement id="92593ea3e33b90bdd32887459c399590">
+    <head>Arrangement</head>
+<p>Arranged in 3 series:
 1. International Agencies and Donors.
 2. Manica Province.
-3. Organizations.</p>
-    </arrangement>
-    <bioghist id="1e4b16fc58e2f4361ee9801cb01ce808">
-      <head>Biographical / Historical</head>
-      <p>
-        <emph render="bold">Segment One: International Activities of the Ford Foundation: An Overview</emph>
-      </p>
-      <p>The Foundation's aspiration to become a national and international philanthropy for the advancement of human welfare was first formally expressed in the seminal 1949 report of the Gaither Study Committee, <emph render="italic">Report of the Study for the Ford Foundation on Policy and Program</emph> (RAC Library, call letters 361.7 GAI ), which was commissioned by the Board of Trustees to chart the Foundation's future. Foundation Trustees launched Ford's international grantmaking activities in 1950 when they approved the committee's report and its embrace of peace, democracy, and freedom.  Since then, the Foundation has tackled these goals using a variety of strategies and responding to changing contexts, from the Cold War to the 1989 fall of the Berlin Wall and beyond.</p>
-      <p>Toward the Foundation's aspiration‎al goal, "the establishment of peace", its international activities have comprised a wide range of conceptual approaches and focus areas. These include international affairs, international studies, international understanding, arms control and disarmament, international law, international economic concerns, and overseas development in nearly every region of the world. Three distinct periods emerge for the international grantmaking defined by external contextual changes and internal changes in Foundation leadership and structures: the expansion era of 1950-1965; the transition and restructuring years of 1966-1988; and the post-1989 shift away from Cold War dichotomies.  During each of the distinct historical periods the consistent objectives were: 1) to ensure freedom and democracy in developed countries; 2) to foster education and international understanding in all countries; and 3) to contribute to the social, economic, and political development of less developed countries.</p>
-    </bioghist>
-    <bioghist id="3248c13a608677a26363949e9c3250f5">
-      <head>Biographical / Historical</head>
-      <p>
-        <emph render="bold"> Segment 4. Period Sketch - The Post-1989 Shift Away from Cold War Dichotomies</emph>
-      </p>
-      <p>Between 1989 and 1991, dramatic changes in the external international conditions created a significantly different context for Ford Foundation's international activities both in the United States and overseas. In November, 1989, the Berlin Wall fell. In February 1990, in South Africa, Nelson Mandela was released from prison. In December 1991, the Soviet Union dissolved. As a consequence, the Cold War was over, Western Europe no longer had a special strategic role in the Foundation, and program-related activities in Eastern Europe and the former Soviet Union multiplied. The Foundation not only continued the earlier efforts to fund leadership in the region; from 1990-1994, Ford also spent $1 million on the training of newly-elected parliamentarians in Eastern Europe and the former USSR. By 1993, half of the funds for grantmaking related to the former Soviet bloc were going to in-country individuals and institutions.</p>
-      <p>In 1989, Thomas also instituted a major restructuring of the Foundation to fulfill his vision of "One Foundation." All programs were put into one division led by Vice President Susan Berresford. Carmichael joined the Institute of International Education to run a program on Soviet and Eastern European Affairs and then higher education in South Africa. All the Foundation grant programs - domestic and international - reported to Berresford: Africa and the Middle East (AME, formerly MEA), Asia (ASIA), Latin American and the Caribbean (LAC/OLAC), Human Rights and Governance (HRG), Education and Culture (EC), Program-Related Investments (PRI), and International Affairs (IA).</p>
-      <p>The change in South Africa opened up many new opportunities to work in partnership with a range of South Africa partners to promote and sustain the transition to democracy. The Foundation supported women's groups working on law, development and reproductive rights. It contributed, for example, to the groups working on the Women's Chatter in South Africa, resulting in the adoption in 1994 of the  first constitution anywhere that specifically included sections on women's rights.</p>
-      <p>During the 1990s, the promising political changes in African countries and elsewhere provided a positive perspective to counteract the continuing economic constraints facing the Foundation and the rising debt in developing countries. Both to reinforce local democratic initiatives and to address its economic challenges, the Foundation's field offices across Africa and the developing world shifted their support toward the promotion of smaller scale community-based initiatives.</p>
-      <p>Thomas supported work on arts and culture, not as a goal in itself, but, instead, as a means for promoting social justice, education, and human rights, both in the United States and in developing countries. At the same time, while reducing support for cultural institutions in the United States, such institutions received support overseas to preserve and celebrate national and local cultural heritages. While in South Africa, for example, the Foundation provided support for Johannesburg anti-apartheid theatre groups, in West Africa it funded for nearly two decades a program to preserve and make accessible cultural heritage by expand the training of museum leaders and strengthening museum exhibit and outreach capabilities.</p>
-      <p>In the early 1990s, the Foundation through its India office helped establish an independent foundation to enhance sustainability in the arts community. Ford envisioned new opportunities for cultural institution to rely on local resources focus on new forms of creativity and encourage young artists, in particular. Similar to the Indian effort, the Ford office in Egypt in 1993 provided support for an arts-focused foundation.</p>
-      <p>When Susan Berresford became president in 1996, with a strong commitment to globalization as well as concern for the uncertainty it created, she reorganized the Foundation in to three large program themes that would inform grantmaking in the United States and developing countries: Assets with a focus on poverty, Peace and Social Justice on rights issues, and Education, Media, Arts and Culture to pull together related endeavors. She also created a separate communications program. Each program was led by a vice president. Berresford strongly reinforced the institutional and grantmaking goal of affirmative action, an organizational goal that had been initiated in the Bundy era.</p>
-      <p>She maintained significant support, domestically and internationally for women's issues. She endorsed and encouraged the worldwide meetings staff members and grantees to continue to hold joint meetings in order to create a greater sense of partnership and shared purpose. The more promising international situation enabled the Ford Foundation in 1996 to open an office in Russia (Moscow) and in Vietnam (Hanoi). Berresford encouraged the development of local and regional peace and security programs in developing countries. A regional security, peace, and cooperation program in India, for instance, focused on the work of civil society groups as an increasingly prominent regional interest in South Asia.</p>
-      <p>In this period, the Foundation gave renewed the prominence of arts and culture in the US and maintained the commitment in developing countries. By 2000, funding levels for the Education, Media, Arts and Culture division were approaching parity with the other two, Assets and Peace and Justice.</p>
-      <p>Berresford also encouraged each of the programs to hold worldwide meeting to promote cross-program and cross-national collaboration in fields such as human rights, income generation, cultural preservation, and building capacity in the arts and arts management. One persistent question of such initiatives. Toward that end, and building on the earlier experiences in India and Egypt, Berresford worked closely with her senior vice president, Barry Gaberman and other staff to establish new foundations at the local and national levels, particularly in developing countries. Gaberman had been at the foundation since 1973, starting as assistant to the representative in Indonesia. After serving in a number of different positions, by 1984, under Thomas, he served as deputy vice president in the U.S. and International Affairs program. After the 1989, Thomas and Berresford appointed him deputy vice president. 1996, Berresford appointed him senior vice president.</p>
-      <p>As the twentieth century came to a close, the economic conditions of the 1970s and 1980s that had resulted in so much global debt, with special impact on the developing world, were slowly turning around. Many countries were experiencing economic growth and burgeoning democratic initiatives. Not only was the global economic situation improving but the Foundation's assets were also growing. Consequently, the Foundation was in a strong position to bring attention to long-standing issues holding back developing countries. The grants programs addressed the pressing need both for advanced training of young- to mid-career adults living in marginalized and disadvantaged conditions along the equally, and for strengthening and building sustainability of universities across sub-Saharan Africa, along with enhancing broadband access for improved internet communications, promoting women in higher education, and strengthening postgraduate education.</p>
-      <p>Reacting to the tragedy of September 11, 2001, the Foundation provided immediate relief to affected local institutions in the United States. The Foundation also helped launch support a fund at the Institute of International Education to support scholars at risk in countries in conflict and under terrorist threats, especially in, but not limited to, the Middle East.</p>
-    </bioghist>
-    <bioghist id="2dfd1dfe5e03159803ed2de544b4fbdf">
-      <head>Biographical / Historical</head>
-      <p>
-        <emph render="bold">Segment 4. Period Summary - The Post-1989 Shift Away from Cold War Dichotomies</emph>
-      </p>
-      <p>Franklin Thomas's presidency, lasting until his retirement in 1995, was defined by a commitment to connect the Foundation's US and international activities around a few key themes. These themes were addressed through grants that created private sector partnerships, enhanced support for local community groups, and enlarged initiatives to promote human rights, with special attention to women's rights. Throughout Thomas's tenure, Ford staff reinforced his special commitment to bolstering marginalized communities and broadening access to the law and educational opportunity. The Ford Foundation led the way in building the fields of international security studies, arms control, human rights, and governance. Moreover, in this period, Ford was innovative in drawing together the fields of international cooperation and human rights into one program.</p>
-      <p>Susan Berresford in her tenure as president from 1996-1997 continued and expanded the activities she helped initiate under Thomas. She and her colleagues increased support for the arts and established a variety of major international collaborative efforts implementing the concept of one foundation. Ford staff in this period drew on the Foundation's time-tested grantmaking strategies (supporting individuals and new institutions as needed), while concentrating on under-addressed issues and underserved populations. With Berresford's encouragement, Foundation staff explicitly took into account the new global context, increasing opportunities for inclusion of disadvantaged populations in all of their activities.</p>
-    </bioghist>
-    <dsc>
-      <c id="78ca49f0a331407387f6495b8bacdba3" level="series">
-        <did>
-          <unittitle>International Agencies and Donors</unittitle>
-          <unitid>I</unitid>
-        </did>
-        <c id="cf60e8d181de41e3b48eb3ac775c6288" level="file">
-          <did>
-            <unittitle>CIMA</unittitle>
-            <unitdate>1995</unitdate>
-            <physdesc id="bceadaea5b72c0593140bce05a61007f">Photos/Film</physdesc>
-            <container id="a9a57cb24aabd6b124edc04be4b39a47" label="mixed materials (A0000000041753)" type="box">1</container>
-          </did>
-        </c>
-        <c id="778535c5ea604efc82868015bcbb8325" level="file">
-          <did>
-            <unittitle>Christian Care</unittitle>
-            <unitdate>1995</unitdate>
-            <container id="7ae34814daf3e80fc27c0a8b1acca9ef" label="mixed materials (A0000000041753)" type="box">1</container>
-          </did>
-        </c>
-        <c id="ba12ac98a09543a699eb259a8edf22f6" level="file">
-          <did>
-            <unittitle>Churches</unittitle>
-            <unitdate>1993-1994</unitdate>
-            <container id="00ee560d8d9f9fd8395af1a6e0a139a5" label="mixed materials (A0000000041753)" type="box">1</container>
-          </did>
-        </c>
-        <c id="40dee588681f4b5f8e400accedcd5fc3" level="file">
-          <did>
-            <unittitle>EBANO</unittitle>
-            <unitdate>1995</unitdate>
-            <container id="0cfdf825b801aead7a41d70ab12d8b22" label="mixed materials (A0000000041753)" type="box">1</container>
-          </did>
-        </c>
-        <c id="99ff118a2c1d405e820bcd3aed47c2a5" level="file">
-          <did>
-            <unittitle>Mozambique Justice Visit</unittitle>
-            <unitdate>1996</unitdate>
-            <container id="a1c70a5277415097fac87a708259ae12" label="mixed materials (A0000000041753)" type="box">1</container>
-          </did>
-        </c>
-        <c id="1423c3c1d45f4b07aefc4840b52a47a7" level="file">
-          <did>
-            <unittitle>University of Rio de Janeiro</unittitle>
-            <unitdate>1993-1996</unitdate>
-            <container id="8f0455cd35b570dfac120a084e512897" label="mixed materials (A0000000041753)" type="box">1</container>
-          </did>
-        </c>
-      </c>
-      <c id="1c44aad7e95a4f7c97e5014c38d9ac7f" level="series">
-        <did>
-          <unittitle>Manica Province</unittitle>
-          <unitid>II</unitid>
-        </did>
-        <c id="473ea76ac25c4090a96bc00996c9a6ab" level="file">
-          <did>
-            <unittitle>Centro de Estudios Internacionales</unittitle>
-            <unitdate>1994</unitdate>
-            <container id="09446b2ccb8ce74149069bb9ddf84a3f" label="mixed materials (A0000000041754)" type="box">2</container>
-          </did>
-        </c>
-        <c id="d3d2d7a012ee4abeabf5594e7c62b94e" level="file">
-          <did>
-            <unittitle>Paul Richards -- Understanding War Conference</unittitle>
-            <unitdate>1993</unitdate>
-            <container id="2eb7a2d6f24125895f8ceb2c42748f0e" label="mixed materials (A0000000041754)" type="box">2</container>
-          </did>
-        </c>
-      </c>
-      <c id="2d1fdc212dae416ea5dc42017bd3e3b0" level="series">
-        <did>
-          <unittitle>Organizations</unittitle>
-          <unitid>III</unitid>
-        </did>
-        <c id="17a5b41367d04a9fa0a5d73d502f49f5" level="file">
-          <did>
-            <unittitle>African Studies in the United States</unittitle>
-            <unitdate>1989-1996</unitdate>
-            <container id="54dc66e96e7cd2f6791587cf75148555" label="mixed materials (A0000000041754)" type="box">2</container>
-          </did>
-        </c>
-        <c id="e7f5eb8d5e764d5aad51e60871ef917d" level="file">
-          <did>
-            <unittitle>South African Universities</unittitle>
-            <unitdate>1994</unitdate>
-            <container id="d561b2065a88e1a4c1ce92e2fec1dcd9" label="mixed materials (A0000000041754)" type="box">2</container>
-          </did>
-        </c>
-      </c>
-    </dsc>
-  </archdesc>
+3. Organizations.</p>  </arrangement>
+  <bioghist id="1e4b16fc58e2f4361ee9801cb01ce808">
+    <head>Biographical / Historical</head>
+<p><emph render="bold">Segment One: International Activities of the Ford Foundation: An Overview</emph></p> 
+
+<p>The Foundation's aspiration to become a national and international philanthropy for the advancement of human welfare was first formally expressed in the seminal 1949 report of the Gaither Study Committee, <emph render="italic">Report of the Study for the Ford Foundation on Policy and Program</emph> (RAC Library, call letters 361.7 GAI ), which was commissioned by the Board of Trustees to chart the Foundation's future. Foundation Trustees launched Ford's international grantmaking activities in 1950 when they approved the committee's report and its embrace of peace, democracy, and freedom.  Since then, the Foundation has tackled these goals using a variety of strategies and responding to changing contexts, from the Cold War to the 1989 fall of the Berlin Wall and beyond.</p>
+
+<p>Toward the Foundation's aspiration‎al goal, "the establishment of peace", its international activities have comprised a wide range of conceptual approaches and focus areas. These include international affairs, international studies, international understanding, arms control and disarmament, international law, international economic concerns, and overseas development in nearly every region of the world. Three distinct periods emerge for the international grantmaking defined by external contextual changes and internal changes in Foundation leadership and structures: the expansion era of 1950-1965; the transition and restructuring years of 1966-1988; and the post-1989 shift away from Cold War dichotomies.  During each of the distinct historical periods the consistent objectives were: 1) to ensure freedom and democracy in developed countries; 2) to foster education and international understanding in all countries; and 3) to contribute to the social, economic, and political development of less developed countries.</p>
+  </bioghist>
+  <bioghist id="3248c13a608677a26363949e9c3250f5">
+    <head>Biographical / Historical</head>
+<p><emph render="bold"> Segment 4. Period Sketch - The Post-1989 Shift Away from Cold War Dichotomies</emph></p>
+
+
+<p>Between 1989 and 1991, dramatic changes in the external international conditions created a significantly different context for Ford Foundation's international activities both in the United States and overseas. In November, 1989, the Berlin Wall fell. In February 1990, in South Africa, Nelson Mandela was released from prison. In December 1991, the Soviet Union dissolved. As a consequence, the Cold War was over, Western Europe no longer had a special strategic role in the Foundation, and program-related activities in Eastern Europe and the former Soviet Union multiplied. The Foundation not only continued the earlier efforts to fund leadership in the region; from 1990-1994, Ford also spent $1 million on the training of newly-elected parliamentarians in Eastern Europe and the former USSR. By 1993, half of the funds for grantmaking related to the former Soviet bloc were going to in-country individuals and institutions.</p>
+
+<p>In 1989, Thomas also instituted a major restructuring of the Foundation to fulfill his vision of "One Foundation." All programs were put into one division led by Vice President Susan Berresford. Carmichael joined the Institute of International Education to run a program on Soviet and Eastern European Affairs and then higher education in South Africa. All the Foundation grant programs - domestic and international - reported to Berresford: Africa and the Middle East (AME, formerly MEA), Asia (ASIA), Latin American and the Caribbean (LAC/OLAC), Human Rights and Governance (HRG), Education and Culture (EC), Program-Related Investments (PRI), and International Affairs (IA).</p>
+<p>The change in South Africa opened up many new opportunities to work in partnership with a range of South Africa partners to promote and sustain the transition to democracy. The Foundation supported women's groups working on law, development and reproductive rights. It contributed, for example, to the groups working on the Women's Chatter in South Africa, resulting in the adoption in 1994 of the  first constitution anywhere that specifically included sections on women's rights.</p>
+
+<p>During the 1990s, the promising political changes in African countries and elsewhere provided a positive perspective to counteract the continuing economic constraints facing the Foundation and the rising debt in developing countries. Both to reinforce local democratic initiatives and to address its economic challenges, the Foundation's field offices across Africa and the developing world shifted their support toward the promotion of smaller scale community-based initiatives.</p>
+
+<p>Thomas supported work on arts and culture, not as a goal in itself, but, instead, as a means for promoting social justice, education, and human rights, both in the United States and in developing countries. At the same time, while reducing support for cultural institutions in the United States, such institutions received support overseas to preserve and celebrate national and local cultural heritages. While in South Africa, for example, the Foundation provided support for Johannesburg anti-apartheid theatre groups, in West Africa it funded for nearly two decades a program to preserve and make accessible cultural heritage by expand the training of museum leaders and strengthening museum exhibit and outreach capabilities.</p>
+
+<p>In the early 1990s, the Foundation through its India office helped establish an independent foundation to enhance sustainability in the arts community. Ford envisioned new opportunities for cultural institution to rely on local resources focus on new forms of creativity and encourage young artists, in particular. Similar to the Indian effort, the Ford office in Egypt in 1993 provided support for an arts-focused foundation.</p>
+
+<p>When Susan Berresford became president in 1996, with a strong commitment to globalization as well as concern for the uncertainty it created, she reorganized the Foundation in to three large program themes that would inform grantmaking in the United States and developing countries: Assets with a focus on poverty, Peace and Social Justice on rights issues, and Education, Media, Arts and Culture to pull together related endeavors. She also created a separate communications program. Each program was led by a vice president. Berresford strongly reinforced the institutional and grantmaking goal of affirmative action, an organizational goal that had been initiated in the Bundy era.</p>
+  
+<p>She maintained significant support, domestically and internationally for women's issues. She endorsed and encouraged the worldwide meetings staff members and grantees to continue to hold joint meetings in order to create a greater sense of partnership and shared purpose. The more promising international situation enabled the Ford Foundation in 1996 to open an office in Russia (Moscow) and in Vietnam (Hanoi). Berresford encouraged the development of local and regional peace and security programs in developing countries. A regional security, peace, and cooperation program in India, for instance, focused on the work of civil society groups as an increasingly prominent regional interest in South Asia.</p>
+
+<p>In this period, the Foundation gave renewed the prominence of arts and culture in the US and maintained the commitment in developing countries. By 2000, funding levels for the Education, Media, Arts and Culture division were approaching parity with the other two, Assets and Peace and Justice.</p>
+
+<p>Berresford also encouraged each of the programs to hold worldwide meeting to promote cross-program and cross-national collaboration in fields such as human rights, income generation, cultural preservation, and building capacity in the arts and arts management. One persistent question of such initiatives. Toward that end, and building on the earlier experiences in India and Egypt, Berresford worked closely with her senior vice president, Barry Gaberman and other staff to establish new foundations at the local and national levels, particularly in developing countries. Gaberman had been at the foundation since 1973, starting as assistant to the representative in Indonesia. After serving in a number of different positions, by 1984, under Thomas, he served as deputy vice president in the U.S. and International Affairs program. After the 1989, Thomas and Berresford appointed him deputy vice president. 1996, Berresford appointed him senior vice president.</p>
+
+<p>As the twentieth century came to a close, the economic conditions of the 1970s and 1980s that had resulted in so much global debt, with special impact on the developing world, were slowly turning around. Many countries were experiencing economic growth and burgeoning democratic initiatives. Not only was the global economic situation improving but the Foundation's assets were also growing. Consequently, the Foundation was in a strong position to bring attention to long-standing issues holding back developing countries. The grants programs addressed the pressing need both for advanced training of young- to mid-career adults living in marginalized and disadvantaged conditions along the equally, and for strengthening and building sustainability of universities across sub-Saharan Africa, along with enhancing broadband access for improved internet communications, promoting women in higher education, and strengthening postgraduate education.</p>
+
+<p>Reacting to the tragedy of September 11, 2001, the Foundation provided immediate relief to affected local institutions in the United States. The Foundation also helped launch support a fund at the Institute of International Education to support scholars at risk in countries in conflict and under terrorist threats, especially in, but not limited to, the Middle East.</p>
+  </bioghist>
+  <bioghist id="2dfd1dfe5e03159803ed2de544b4fbdf">
+    <head>Biographical / Historical</head>
+<p><emph render="bold">Segment 4. Period Summary - The Post-1989 Shift Away from Cold War Dichotomies</emph></p>
+
+<p>Franklin Thomas's presidency, lasting until his retirement in 1995, was defined by a commitment to connect the Foundation's US and international activities around a few key themes. These themes were addressed through grants that created private sector partnerships, enhanced support for local community groups, and enlarged initiatives to promote human rights, with special attention to women's rights. Throughout Thomas's tenure, Ford staff reinforced his special commitment to bolstering marginalized communities and broadening access to the law and educational opportunity. The Ford Foundation led the way in building the fields of international security studies, arms control, human rights, and governance. Moreover, in this period, Ford was innovative in drawing together the fields of international cooperation and human rights into one program.</p>
+
+<p>Susan Berresford in her tenure as president from 1996-1997 continued and expanded the activities she helped initiate under Thomas. She and her colleagues increased support for the arts and established a variety of major international collaborative efforts implementing the concept of one foundation. Ford staff in this period drew on the Foundation's time-tested grantmaking strategies (supporting individuals and new institutions as needed), while concentrating on under-addressed issues and underserved populations. With Berresford's encouragement, Foundation staff explicitly took into account the new global context, increasing opportunities for inclusion of disadvantaged populations in all of their activities.</p>
+  </bioghist>
+  <dsc><c id="78ca49f0a331407387f6495b8bacdba3" level="series"><did><unittitle>International Agencies and Donors</unittitle><unitid>I</unitid></did><c id="cf60e8d181de41e3b48eb3ac775c6288" level="file"><did><unittitle>CIMA</unittitle><unitdate>1995</unitdate><physdesc id="bceadaea5b72c0593140bce05a61007f">Photos/Film</physdesc><container altrender="Letter Document Storage Box" id="a50a2353793c757ec966d08e6178dbc7" label="mixed materials [A0000000041753]" type="box">1</container></did></c><c id="778535c5ea604efc82868015bcbb8325" level="file"><did><unittitle>Christian Care</unittitle><unitdate>1995</unitdate><container altrender="Letter Document Storage Box" id="8035905f2fa59223b3df447d2a0895d1" label="mixed materials [A0000000041753]" type="box">1</container></did></c><c id="ba12ac98a09543a699eb259a8edf22f6" level="file"><did><unittitle>Churches</unittitle><unitdate>1993-1994</unitdate><container altrender="Letter Document Storage Box" id="9539dc9c3f2670dfcb51909b627cc5fa" label="mixed materials [A0000000041753]" type="box">1</container></did></c><c id="40dee588681f4b5f8e400accedcd5fc3" level="file"><did><unittitle>EBANO</unittitle><unitdate>1995</unitdate><container altrender="Letter Document Storage Box" id="b676e651adcd72a2632519766429d256" label="mixed materials [A0000000041753]" type="box">1</container></did></c><c id="99ff118a2c1d405e820bcd3aed47c2a5" level="file"><did><unittitle>Mozambique Justice Visit</unittitle><unitdate>1996</unitdate><container altrender="Letter Document Storage Box" id="367ff7d460aac5550d01a9e54f38b7a6" label="mixed materials [A0000000041753]" type="box">1</container></did></c><c id="1423c3c1d45f4b07aefc4840b52a47a7" level="file"><did><unittitle>University of Rio de Janeiro</unittitle><unitdate>1993-1996</unitdate><container altrender="Letter Document Storage Box" id="f9d50d12d69605268c4c0e90899d41ea" label="mixed materials [A0000000041753]" type="box">1</container></did></c></c><c id="1c44aad7e95a4f7c97e5014c38d9ac7f" level="series"><did><unittitle>Manica Province</unittitle><unitid>II</unitid></did><c id="473ea76ac25c4090a96bc00996c9a6ab" level="file"><did><unittitle>Centro de Estudios Internacionales</unittitle><unitdate>1994</unitdate><container altrender="Letter Document Storage Box" id="3e4312b015d0232553784f1359d17257" label="mixed materials [A0000000041754]" type="box">2</container></did></c><c id="d3d2d7a012ee4abeabf5594e7c62b94e" level="file"><did><unittitle>Paul Richards -- Understanding War Conference</unittitle><unitdate>1993</unitdate><container altrender="Letter Document Storage Box" id="94bd8b11684a9fdec3351a075c5da491" label="mixed materials [A0000000041754]" type="box">2</container></did></c></c><c id="2d1fdc212dae416ea5dc42017bd3e3b0" level="series"><did><unittitle>Organizations</unittitle><unitid>III</unitid></did><c id="17a5b41367d04a9fa0a5d73d502f49f5" level="file"><did><unittitle>African Studies in the United States</unittitle><unitdate>1989-1996</unitdate><container altrender="Letter Document Storage Box" id="218ccbe3b28a508fd8c3764b2caa2fcf" label="mixed materials [A0000000041754]" type="box">2</container></did></c><c id="e7f5eb8d5e764d5aad51e60871ef917d" level="file"><did><unittitle>South African Universities</unittitle><unitdate>1994</unitdate><container altrender="Letter Document Storage Box" id="5338a97bf585911dad505e341bf4b44c" label="mixed materials [A0000000041754]" type="box">2</container></did></c></c></dsc>
+</archdesc>
 </ead>
