@@ -1,166 +1,47 @@
-<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
-  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" repositoryencoding="iso15511">
-    <eadid>FA537.xml</eadid>
-    <filedesc>
-      <titlestmt>
-        <titleproper type="filing">Ford Foundation records, Education and Public Policy Program (EPP), Program Staff Files</titleproper>
-        <titleproper>A Guide to the Ford Foundation records, Education and Public Policy Program (EPP), Program Staff Files
- <num>FA537</num></titleproper>
-      </titlestmt>
-      <publicationstmt>
-        <publisher>Rockefeller Archive Center</publisher>
-        <address>
-          <addressline>15 Dayton Avenue</addressline>
-          <addressline>Sleepy Hollow 10591</addressline>
-          <addressline>archive@rockarch.org</addressline>
-          <addressline>URL: <extptr xlink:href="http://www.rockarch.org" xlink:show="new" xlink:title="http://www.rockarch.org" xlink:type="simple"/></addressline>
-        </address>
-      </publicationstmt>
-    </filedesc>
-    <profiledesc>
-      <creation>This finding aid was produced using ArchivesSpace on <date>2017-10-25 00:15:16 -0400</date>.</creation>
-    </profiledesc>
-  </eadheader>
-  <archdesc level="collection">
-    <did>
-      <langmaterial>
-        <language langcode="eng">English</language>
-      </langmaterial>
-      <repository>
-        <corpname>Rockefeller Archive Center</corpname>
-      </repository>
-      <unittitle>Ford Foundation records, Education and Public Policy Program (EPP), Program Staff Files</unittitle>
-      <origination label="creator">
-        <corpname role="aut" rules="dacs" source="nad">Ford Foundation</corpname>
-      </origination>
-      <unitid>FA537</unitid>
-      <physdesc altrender="whole">
-        <extent altrender="materialtype spaceoccupied">2.4 Cubic Feet</extent>
-      </physdesc>
-      <unitdate normal="1972/1980" type="inclusive">1972-1980</unitdate>
-    </did>
-    <processinfo id="366a5cd1ad74affdd2ebe2a76b39d7da">
-      <head>Processing Information</head>
-      <p>Level 1 Minimal Processing has been conducted to establish basic intellectual and physical control of the material and assess immediate preservation and conservation needs. Material remains as received, in original folders and storage boxes.</p>
-    </processinfo>
-    <userestrict id="de674989ad9e495d95baf7fe6d324636">
-      <head>Conditions Governing Use note</head>
-      <p>Completion of a use agreement is required prior to providing scholarly access. See RAC Head of Reference (or applicable designee) for details. Ford Foundation holds title, copyright and literary rights in the collection, in so far as it holds them. The Rockefeller Archive Center has authority to grant permission to cite and publish material from the collection for scholarly purposes. Permission to publish extensive excerpts, or material in its entirety, will be referred to the Ford Foundation.</p>
-    </userestrict>
-    <acqinfo id="20083757d446aa7f2b733c6dd1b876eb">
-      <head>Immediate Source of Acquisition note</head>
-      <p>Ford Foundation archive was deposited at RAC in 2011. Ford Foundation records, correspondence, reports, program files and officers papers were transferred to, and accessioned by, RAC beginning in 2011. Accessions continue as necessary.</p>
-    </acqinfo>
-    <prefercite id="a7831355cf24d0c880abfed2c25eb821">
-      <head>Preferred Citation note</head>
-      <p>Information regarding the Rockefeller Archive Center's preferred elements and forms of citation can be found at <extref href="http://www.rockarch.org/research/citations.php">http://www.rockarch.org/research/citations.php</extref></p>
-    </prefercite>
-    <accessrestrict id="3f89e7c9e3fc766b0b90d215a11f5679">
-      <head>Conditions Governing Access</head>
-      <p>Records more than 10 years old are open for research with select materials restricted as noted. Brittle or damaged items are available at the discretion of RAC.</p>
-    </accessrestrict>
-    <scopecontent id="5970d76b5bdfa31de39514d0fd60815d">
-      <head>Scope and Contents</head>
-      <p>Primarily contains correspondence and committee records.</p>
-    </scopecontent>
-    <arrangement id="e639a8486f12e8ac1951363910c8ffd7">
-      <head>Arrangement</head>
-      <p>Arranged in 2 series:
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid>FA537.xml</eadid><filedesc><titlestmt><titleproper type="filing">Ford Foundation records, Education and Public Policy Program (EPP), Program Staff Files</titleproper><titleproper>A Guide to the Ford Foundation records, Education and Public Policy Program (EPP), Program Staff Files
+ <num>FA537</num></titleproper></titlestmt><publicationstmt><publisher>Rockefeller Archive Center</publisher><address><addressline>15 Dayton Avenue</addressline><addressline>Sleepy Hollow 10591</addressline><addressline>archive@rockarch.org</addressline><addressline>URL: <extptr xlink:href="http://www.rockarch.org" xlink:show="new" xlink:title="http://www.rockarch.org" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2019-08-23 00:12:24 -0400</date>.</creation></profiledesc></eadheader><archdesc level="collection">
+  <did>
+    <langmaterial>
+      <language langcode="eng">English</language>
+    </langmaterial>
+    <repository>
+      <corpname>Rockefeller Archive Center</corpname>
+    </repository>
+    <unittitle>Ford Foundation records, Education and Public Policy Program (EPP), Program Staff Files</unittitle>
+    <origination label="creator">
+      <corpname role="aut" rules="dacs" source="nad">Ford Foundation</corpname>
+    </origination>
+    <unitid>FA537</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">2.62 Cubic Feet</extent>
+      <extent altrender="carrier">2 standard record storage boxes.</extent>
+    </physdesc>
+    <unitdate normal="1972/1980" type="inclusive">1972-1980</unitdate>
+  </did>
+  <processinfo id="366a5cd1ad74affdd2ebe2a76b39d7da">
+    <head>Processing Information</head>
+<p>Level 1 Minimal Processing has been conducted to establish basic intellectual and physical control of the material and assess immediate preservation and conservation needs. Material remains as received, in original folders and storage boxes.</p>  </processinfo>
+  <userestrict id="de674989ad9e495d95baf7fe6d324636">
+    <head>Conditions Governing Use note</head>
+<p>Completion of a use agreement is required prior to providing scholarly access. See RAC Head of Reference (or applicable designee) for details. Ford Foundation holds title, copyright and literary rights in the collection, in so far as it holds them. The Rockefeller Archive Center has authority to grant permission to cite and publish material from the collection for scholarly purposes. Permission to publish extensive excerpts, or material in its entirety, will be referred to the Ford Foundation.</p>  </userestrict>
+  <acqinfo id="20083757d446aa7f2b733c6dd1b876eb">
+    <head>Immediate Source of Acquisition note</head>
+<p>Ford Foundation archive was deposited at RAC in 2011. Ford Foundation records, correspondence, reports, program files and officers papers were transferred to, and accessioned by, RAC beginning in 2011. Accessions continue as necessary.</p>  </acqinfo>
+  <prefercite id="a7831355cf24d0c880abfed2c25eb821">
+    <head>Preferred Citation note</head>
+<p>Information regarding the Rockefeller Archive Center's preferred elements and forms of citation can be found at <extref href="http://www.rockarch.org/research/citations.php">http://www.rockarch.org/research/citations.php</extref></p>  </prefercite>
+  <accessrestrict id="3f89e7c9e3fc766b0b90d215a11f5679">
+    <head>Conditions Governing Access</head>
+<p>Records more than 10 years old are open for research with select materials restricted as noted. Brittle or damaged items are available at the discretion of RAC.</p>  </accessrestrict>
+  <scopecontent id="5970d76b5bdfa31de39514d0fd60815d">
+    <head>Scope and Contents</head>
+<p>Primarily contains correspondence and committee records.</p>  </scopecontent>
+  <arrangement id="e639a8486f12e8ac1951363910c8ffd7">
+    <head>Arrangement</head>
+<p>Arranged in 2 series:
 1. EPP Chronological Correspondence.
-2. Coordinating Committee on Women's Programs.</p>
-    </arrangement>
-    <dsc>
-      <c id="05bcbfd99c154e6893353eb2e89d405c" level="series">
-        <did>
-          <unittitle>EPP Chronological Correspondence</unittitle>
-          <unitid>I</unitid>
-          <unitdate normal="1977/1978" type="inclusive">1977-1978</unitdate>
-        </did>
-        <c id="3f81a7f2943e4a11bfb45ea1e48f9fb4" level="file">
-          <did>
-            <unittitle>Chronological Correspondence</unittitle>
-            <unitdate>Oct 31, 1977-Jan 27, 1978</unitdate>
-            <container id="403f7fb9bead2581a066187bef2aa1d4" label="mixed materials (A0000000087243)" type="box">1</container>
-          </did>
-        </c>
-        <c id="833d3ae7e129471c85472633a62b6ff0" level="file">
-          <did>
-            <unittitle>Chronological Correspondence</unittitle>
-            <unitdate>Jan 30-Mar 31, 1978</unitdate>
-            <container id="fdaa17d945eb823f800f4931c7426188" label="mixed materials (A0000000087243)" type="box">1</container>
-          </did>
-        </c>
-        <c id="d21c7b647ba443e0ae91426ab9fdab58" level="file">
-          <did>
-            <unittitle>Chronological Correspondence</unittitle>
-            <unitdate>Apr 3-Jun 2, 1978</unitdate>
-            <container id="8c2060a3eb5a122e5c0b5da0ebac54b0" label="mixed materials (A0000000087243)" type="box">1</container>
-          </did>
-        </c>
-      </c>
-      <c id="340c2c6955a642a6af85cc5c575c9dd0" level="series">
-        <did>
-          <unittitle>Coordinating Committee on Women's Programs</unittitle>
-          <unitid>II</unitid>
-          <unitdate normal="1972/1980" type="inclusive">1972-1980</unitdate>
-        </did>
-        <c id="11a713504970415eb624fa5957e8c6db" level="file">
-          <did>
-            <unittitle>Coordinating Committee on Women's Programs</unittitle>
-            <unitdate>Apr-Dec 1972</unitdate>
-            <container id="e9c64e2fbdac1a31f70e00bfe81a0665" label="mixed materials (A0000000087244)" type="box">2</container>
-          </did>
-        </c>
-        <c id="b049ff9606f748b69a23dd0dd92063f6" level="file">
-          <did>
-            <unittitle>Coordinating Committee on Women's Programs</unittitle>
-            <unitdate>1974</unitdate>
-            <container id="e33f5ff63c44046dd4772fa23a4299ed" label="mixed materials (A0000000087244)" type="box">2</container>
-          </did>
-        </c>
-        <c id="fcf01db67d31403a84c98cf6b2c0ed1a" level="file">
-          <did>
-            <unittitle>Coordinating Committee on Women's Programs</unittitle>
-            <unitdate>Jan-Jun 1975</unitdate>
-            <container id="89aa3d4f6924b72afc4814f9652dd062" label="mixed materials (A0000000087244)" type="box">2</container>
-          </did>
-        </c>
-        <c id="45b5cd1c9aaa484b9b8fbabca7e591b5" level="file">
-          <did>
-            <unittitle>Coordinating Committee on Women's Programs</unittitle>
-            <unitdate>Jul-Dec 1975</unitdate>
-            <container id="9c66c0c26504d08691d6207653c054d3" label="mixed materials (A0000000087244)" type="box">2</container>
-          </did>
-        </c>
-        <c id="df1aa84115514c48a2944bab750ad13d" level="file">
-          <did>
-            <unittitle>Coordinating Committee on Women's Programs</unittitle>
-            <unitdate>Jan-May 1976</unitdate>
-            <container id="ab6cb50ef4a7c76e6b7a2288fc0dabeb" label="mixed materials (A0000000087244)" type="box">2</container>
-          </did>
-        </c>
-        <c id="83ef9543f1d04df6a367ffddca2ee468" level="file">
-          <did>
-            <unittitle>Coordinating Committee on Women's Programs -- Pension Inequality Report and Background</unittitle>
-            <unitdate>1974-1980</unitdate>
-            <container id="27bce887b050b91d7d284cd6a8876f06" label="mixed materials (A0000000087244)" type="box">2</container>
-          </did>
-        </c>
-        <c id="ab9b84fdd63842fd9620cf5e0c53fd68" level="file">
-          <did>
-            <unittitle>Coordinating Committee on Women's Programs -- Original Pension Memorandum</unittitle>
-            <unitdate>Jul 28, 1976</unitdate>
-            <container id="0464d0dbb5ecac6c4811a1907c048fd3" label="mixed materials (A0000000087244)" type="box">2</container>
-          </did>
-        </c>
-        <c id="27ef70069175402dad462590972c1cad" level="file">
-          <did>
-            <unittitle>Coordinating Committee on Women's Programs -- Revised Pension Memorandum</unittitle>
-            <unitdate>Apr 22, 1977</unitdate>
-            <container id="d9b24575583ba8e10a79834da20f27c8" label="mixed materials (A0000000087244)" type="box">2</container>
-          </did>
-        </c>
-      </c>
-    </dsc>
-  </archdesc>
+2. Coordinating Committee on Women's Programs.</p>  </arrangement>
+  <dsc><c id="05bcbfd99c154e6893353eb2e89d405c" level="series"><did><unittitle>EPP Chronological Correspondence</unittitle><unitid>I</unitid><unitdate normal="1977/1978" type="inclusive">1977-1978</unitdate></did><c id="3f81a7f2943e4a11bfb45ea1e48f9fb4" level="file"><did><unittitle>Chronological Correspondence</unittitle><unitdate>Oct 31, 1977-Jan 27, 1978</unitdate><container altrender="Record Storage Box (Paige)" id="681d126764f3f860afc48710ba4190b8" label="mixed materials [A0000000087243]" type="box">1</container></did></c><c id="833d3ae7e129471c85472633a62b6ff0" level="file"><did><unittitle>Chronological Correspondence</unittitle><unitdate>Jan 30-Mar 31, 1978</unitdate><container altrender="Record Storage Box (Paige)" id="8eaa1afb99b24e9ab60de173a98a5a37" label="mixed materials [A0000000087243]" type="box">1</container></did></c><c id="d21c7b647ba443e0ae91426ab9fdab58" level="file"><did><unittitle>Chronological Correspondence</unittitle><unitdate>Apr 3-Jun 2, 1978</unitdate><container altrender="Record Storage Box (Paige)" id="58503b99407e0884eb0f5060eb3aafee" label="mixed materials [A0000000087243]" type="box">1</container></did></c></c><c id="340c2c6955a642a6af85cc5c575c9dd0" level="series"><did><unittitle>Coordinating Committee on Women's Programs</unittitle><unitid>II</unitid><unitdate normal="1972/1980" type="inclusive">1972-1980</unitdate></did><c id="11a713504970415eb624fa5957e8c6db" level="file"><did><unittitle>Coordinating Committee on Women's Programs</unittitle><unitdate>Apr-Dec 1972</unitdate><container altrender="Record Storage Box (Paige)" id="7bc5b87499ad9f0a635f0f74f4640ce0" label="mixed materials [A0000000087244]" type="box">2</container></did></c><c id="b049ff9606f748b69a23dd0dd92063f6" level="file"><did><unittitle>Coordinating Committee on Women's Programs</unittitle><unitdate>1974</unitdate><container altrender="Record Storage Box (Paige)" id="cb7b66f0c6ec521c7f8ea594233f72df" label="mixed materials [A0000000087244]" type="box">2</container></did></c><c id="fcf01db67d31403a84c98cf6b2c0ed1a" level="file"><did><unittitle>Coordinating Committee on Women's Programs</unittitle><unitdate>Jan-Jun 1975</unitdate><container altrender="Record Storage Box (Paige)" id="94afcd360c69648a73d6016a4c8e897e" label="mixed materials [A0000000087244]" type="box">2</container></did></c><c id="45b5cd1c9aaa484b9b8fbabca7e591b5" level="file"><did><unittitle>Coordinating Committee on Women's Programs</unittitle><unitdate>Jul-Dec 1975</unitdate><container altrender="Record Storage Box (Paige)" id="cf14093eacfb4d6ad1cee326c75fe077" label="mixed materials [A0000000087244]" type="box">2</container></did></c><c id="df1aa84115514c48a2944bab750ad13d" level="file"><did><unittitle>Coordinating Committee on Women's Programs</unittitle><unitdate>Jan-May 1976</unitdate><container altrender="Record Storage Box (Paige)" id="3c5db4af9e4f99e8cbd1b796f5705a2e" label="mixed materials [A0000000087244]" type="box">2</container></did></c><c id="83ef9543f1d04df6a367ffddca2ee468" level="file"><did><unittitle>Coordinating Committee on Women's Programs -- Pension Inequality Report and Background</unittitle><unitdate>1974-1980</unitdate><container altrender="Record Storage Box (Paige)" id="bb60fa5be992e682102645ff17ca19d4" label="mixed materials [A0000000087244]" type="box">2</container></did></c><c id="ab9b84fdd63842fd9620cf5e0c53fd68" level="file"><did><unittitle>Coordinating Committee on Women's Programs -- Original Pension Memorandum</unittitle><unitdate>Jul 28, 1976</unitdate><container altrender="Record Storage Box (Paige)" id="e5bc00626881d6f03185b9cd72e55cee" label="mixed materials [A0000000087244]" type="box">2</container></did></c><c id="27ef70069175402dad462590972c1cad" level="file"><did><unittitle>Coordinating Committee on Women's Programs -- Revised Pension Memorandum</unittitle><unitdate>Apr 22, 1977</unitdate><container altrender="Record Storage Box (Paige)" id="6b172c7a31aaeba26c8e8deb678dd7c2" label="mixed materials [A0000000087244]" type="box">2</container></did></c></c></dsc>
+</archdesc>
 </ead>
