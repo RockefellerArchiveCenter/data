@@ -1,266 +1,70 @@
-<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
-  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="under_revision" langencoding="iso639-2b" repositoryencoding="iso15511">
-    <eadid>FA819.xml</eadid>
-    <filedesc>
-      <titlestmt>
-        <titleproper type="filing">Rockefeller University records, President, Frederick Seitz, Personal, Biographical and Miscellaneous, Series 6</titleproper>
-        <titleproper>A Guide to the Rockefeller University records, President, Frederick Seitz, Personal, Biographical and Miscellaneous, Series 6
- <num>FA819</num></titleproper>
-        <author>Finding aid prepared by LH, CF</author>
-      </titlestmt>
-      <publicationstmt>
-        <publisher>Rockefeller Archive Center</publisher>
-        <p>
-          <date>1997 March 11</date>
-        </p>
-        <address>
-          <addressline>15 Dayton Avenue</addressline>
-          <addressline>Sleepy Hollow 10591</addressline>
-          <addressline>archive@rockarch.org</addressline>
-          <addressline>URL: <extptr xlink:href="http://www.rockarch.org" xlink:show="new" xlink:title="http://www.rockarch.org" xlink:type="simple"/></addressline>
-        </address>
-      </publicationstmt>
-    </filedesc>
-    <profiledesc>
-      <creation>This finding aid was produced using ArchivesSpace on <date>2017-09-02 01:40:46 -0400</date>.</creation>
-    </profiledesc>
-    <revisiondesc>
-      <date>2010 August 19</date>
-      <item>Paper finding aid converted to EAD/XML by AureXus in 2010. Imported into the Archvists’ Toolkit by Becky Robbins.</item>
-    </revisiondesc>
-  </eadheader>
-  <archdesc level="series">
-    <did>
-      <langmaterial>
-        <language langcode="eng">English</language>
-      </langmaterial>
-      <repository>
-        <corpname>Rockefeller Archive Center</corpname>
-      </repository>
-      <unittitle>Rockefeller University records, President, Frederick Seitz, Personal, Biographical and Miscellaneous, Series 6</unittitle>
-      <origination label="creator">
-        <persname role="aut" source="naf">Seitz, Frederick</persname>
-      </origination>
-      <origination label="creator">
-        <corpname role="aut" source="naf">Rockefeller University</corpname>
-      </origination>
-      <unitid>FA819</unitid>
-      <physdesc altrender="whole">
-        <extent altrender="materialtype spaceoccupied">2 Cubic Feet</extent>
-        <extent altrender="carrier">3 boxes</extent>
-      </physdesc>
-      <unitdate normal="1951/1968" type="inclusive">1951-1968</unitdate>
-    </did>
-    <bioghist id="8638339ecdd94b24ac1e22088586c058">
-      <head>Biographical/Historical note</head>
-      <p>Frederick Seitz (b. July 4, 1911) is a physicist and science administrator. He has made fundamental contributions to the theory of solids, nuclear physics, fluorescence, and crystals, and has been a leader in the post - World War II scientific establishment in the United States. From 1968-1978 Seitz was president of the Rockefeller University.</p>
-      <p>Seitz entered Stanford University in January 1929, where he started out as a biochemistry major, but soon focused on mathematics and physics. He graduated from Stanford in three years with a degree in mathematics, and started doctoral studies in physics at Princeton University at the beginning of 1932. Completing his doctorate in 1934 Seitz remained at Princeton as a Proctor Fellow, and in 1935 was appointed as an instructor at the University of Rochester. In 1939 Seitz moved to the University of Pennsylvania first as assistant professor, 1939-1941, and then associate professor, 1941-1942, in the Morgan Laboratory of Physics. Seitz moved to the University of Illinois in 1949 to accept an appointment as a professor of Physics. In the 40s and 50s Seitz's research focused on the properties of crystals. His published works included studies of dislocations and imperfections in crystal structures, the effect of irradiation on crystals, and the process of diffusion in crystalline materials. In 1962 Seitz was elected president of the National Academy of Sciences in Washington, a position which he held for 6 years. In that same year, he became a trustee of the Rockefeller University and in 1968 he went on to become president of the Rockefeller University. In 1973 he received the National Medal of Science, the nation's highest award in science, for his contributions "to the foundation of the modern quantum theory of the solid state of matter."</p>
-      <p>Among his numerous honors and awards, Dr. Seitz received the Franklin Medal in 1965, the Herbert Hoover Medal in 1968, the Defense Department Distinguished Service Award in Awards in 1968, the NASA distinguished Service in 1969, the Compton Award, the highest award of the American Institute of Physics, in 1970, and the James Madison Medal of Princeton University in 1978. In 1979 he received his second NASA Distinguished Public Service Medal presented for his "dedicated service as chairman of the NASA Space Program Advisory Council from 1973 to 1977. " In addition to the Rockefeller University, 26 universities in this country and abroad have awarded him honorary degrees. In 1983 he received the Fourth Vannevar Bush Award presented by the National Science Board of the National Science Foundation and the R. Loveland Memorial Award of the American College of Physicians. From 1978 to 1983 he served as vice chairman of the Board of Trustees of the Memorial Sloan - Kettering Cancer Center.</p>
-      <p>Other memberships include the American Academy of Arts and Sciences, The Century Club, the Bohemian Club, the American Philosophical Society, the American Society for Metals, the American Institute of Mining, Metallurgy and Petroleum Engineers, the American Crystallographic Society, the Optical Society of America, the Washington Academy of Science, and a number of European scientific academies.</p>
-    </bioghist>
-    <otherfindaid id="dec13bb1fa750b4d7340fd7115b29662">
-      <head>Other Finding Aids</head>
-      <p>FA141 Rockefeller University records, President, Frederick Seitz, Business, Series 1.
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="under_revision" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid>FA819.xml</eadid><filedesc><titlestmt><titleproper type="filing">Rockefeller University records, President, Frederick Seitz, Personal, Biographical and Miscellaneous, Series 6</titleproper><titleproper>A Guide to the Rockefeller University records, President, Frederick Seitz, Personal, Biographical and Miscellaneous, Series 6
+ <num>FA819</num></titleproper><author>Finding aid prepared by LH, CF</author></titlestmt><publicationstmt><publisher>Rockefeller Archive Center</publisher><p><date>1997 March 11</date></p><address><addressline>15 Dayton Avenue</addressline><addressline>Sleepy Hollow 10591</addressline><addressline>archive@rockarch.org</addressline><addressline>URL: <extptr xlink:href="http://www.rockarch.org" xlink:show="new" xlink:title="http://www.rockarch.org" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2019-08-26 00:20:36 -0400</date>.</creation></profiledesc><revisiondesc><date>2010 August 19</date><item>Paper finding aid converted to EAD/XML by AureXus in 2010. Imported into the Archvists’ Toolkit by Becky Robbins.</item></revisiondesc></eadheader><archdesc level="series">
+  <did>
+    <langmaterial>
+      <language langcode="eng">English</language>
+    </langmaterial>
+    <repository>
+      <corpname>Rockefeller Archive Center</corpname>
+    </repository>
+    <unittitle>Rockefeller University records, President, Frederick Seitz, Personal, Biographical and Miscellaneous, Series 6</unittitle>
+    <origination label="creator">
+      <persname role="aut" source="naf">Seitz, Frederick</persname>
+    </origination>
+    <origination label="creator">
+      <corpname role="aut" source="naf">Rockefeller University</corpname>
+    </origination>
+    <unitid>FA819</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">1.67 Cubic Feet</extent>
+      <extent altrender="carrier">3 boxes</extent>
+    </physdesc>
+    <unitdate normal="1951/1968" type="inclusive">1951-1968</unitdate>
+  </did>
+  <bioghist id="8638339ecdd94b24ac1e22088586c058">
+    <head>Biographical/Historical note</head>
+<p>Frederick Seitz (b. July 4, 1911) is a physicist and science administrator. He has made fundamental contributions to the theory of solids, nuclear physics, fluorescence, and crystals, and has been a leader in the post - World War II scientific establishment in the United States. From 1968-1978 Seitz was president of the Rockefeller University.</p><p>Seitz entered Stanford University in January 1929, where he started out as a biochemistry major, but soon focused on mathematics and physics. He graduated from Stanford in three years with a degree in mathematics, and started doctoral studies in physics at Princeton University at the beginning of 1932. Completing his doctorate in 1934 Seitz remained at Princeton as a Proctor Fellow, and in 1935 was appointed as an instructor at the University of Rochester. In 1939 Seitz moved to the University of Pennsylvania first as assistant professor, 1939-1941, and then associate professor, 1941-1942, in the Morgan Laboratory of Physics. Seitz moved to the University of Illinois in 1949 to accept an appointment as a professor of Physics. In the 40s and 50s Seitz's research focused on the properties of crystals. His published works included studies of dislocations and imperfections in crystal structures, the effect of irradiation on crystals, and the process of diffusion in crystalline materials. In 1962 Seitz was elected president of the National Academy of Sciences in Washington, a position which he held for 6 years. In that same year, he became a trustee of the Rockefeller University and in 1968 he went on to become president of the Rockefeller University. In 1973 he received the National Medal of Science, the nation's highest award in science, for his contributions "to the foundation of the modern quantum theory of the solid state of matter."</p><p>Among his numerous honors and awards, Dr. Seitz received the Franklin Medal in 1965, the Herbert Hoover Medal in 1968, the Defense Department Distinguished Service Award in Awards in 1968, the NASA distinguished Service in 1969, the Compton Award, the highest award of the American Institute of Physics, in 1970, and the James Madison Medal of Princeton University in 1978. In 1979 he received his second NASA Distinguished Public Service Medal presented for his "dedicated service as chairman of the NASA Space Program Advisory Council from 1973 to 1977. " In addition to the Rockefeller University, 26 universities in this country and abroad have awarded him honorary degrees. In 1983 he received the Fourth Vannevar Bush Award presented by the National Science Board of the National Science Foundation and the R. Loveland Memorial Award of the American College of Physicians. From 1978 to 1983 he served as vice chairman of the Board of Trustees of the Memorial Sloan - Kettering Cancer Center.</p><p>Other memberships include the American Academy of Arts and Sciences, The Century Club, the Bohemian Club, the American Philosophical Society, the American Society for Metals, the American Institute of Mining, Metallurgy and Petroleum Engineers, the American Crystallographic Society, the Optical Society of America, the Washington Academy of Science, and a number of European scientific academies.</p>  </bioghist>
+  <otherfindaid id="dec13bb1fa750b4d7340fd7115b29662">
+    <head>Other Finding Aids</head>
+<p>FA141 Rockefeller University records, President, Frederick Seitz, Business, Series 1.
 FA815 Rockefeller University records, President, Frederick Seitz, Chronological Files, Series 2.
 FA816 Rockefeller University records, President, Frederick Seitz, Archive Center, Series 3.
 FA817 Rockefeller University records, President, Frederick Seitz, Campus, Series 4.
-FA818 Rockefeller University records, President, Frederick Seitz, General Administration, Series 5.</p>
-    </otherfindaid>
-    <arrangement id="2e668e4ec0523c047c1df4476281db57">
-      <head>Arrangement note</head>
-      <p>Collection is arranged in six series:
+FA818 Rockefeller University records, President, Frederick Seitz, General Administration, Series 5.</p>  </otherfindaid>
+  <arrangement id="2e668e4ec0523c047c1df4476281db57">
+    <head>Arrangement note</head>
+<p>Collection is arranged in six series:
 1. Business, 1929-1979
 2. Chronological Files, 1969-1978
 3. Archive Center, 1971-1977
 4. Campus, 1968-1978
 5. General Administration, 1958-1979
-6. Presonal, Biographical and Misccellaneous, 1951-1968.</p>
-      <p>Arrangement mainly alphabetical and chronological by series.</p>
-    </arrangement>
-    <prefercite id="c547a511710cbb8b717aa50db5a28939">
-      <head>Preferred Citation note</head>
-      <p>Information regarding the Rockefeller Archive Center's preferred elements and forms of citation can be found at <extref href="http://www.rockarch.org/research/citations.php">http://www.rockarch.org/research/citations.php</extref></p>
-    </prefercite>
-    <fileplan id="514619bb2bf35944e7802f37b1204dc0">
-      <head>File Plan note</head>
-      <p>Former Classification: 1 304-2</p>
-    </fileplan>
-    <accessrestrict id="3d55f052c54e700b2d08da737df3788e">
-      <head>Conditions Governing Access</head>
-      <p>Records more than 25 years old are open for research with select materials restricted as noted. Brittle or damaged items are available at the discretion of RAC. Material in the Rockefeller family collections that provides the names, correspondence, or activities of living members of the Rockefeller family, and/or documents the net wealth of any Rockefeller family members, is restricted from scholarly access. Researchers interested in accessing digital media (floppy disks, CDs, DVDs, etc.) or audiovisual material (audio cassettes, VHS, etc.) in this collection must use an access surrogate. The original items may not be accessed because of preservation concerns. To request an access surrogate be made, or if you are unsure if there is an access surrogate, please contact an archivist.</p>
-    </accessrestrict>
-    <arrangement id="c48def59ffa915c585518bea1af3e4c0">
-      <head>Arrangement</head>
-      <p>Alphabetical.</p>
-    </arrangement>
-    <scopecontent id="e224ac1ee36f064503a0f1369753b2f9">
-      <head>Scope and Contents</head>
-      <p>Biographical files document academic institutions as well as Seitz awards and certificates.</p>
-    </scopecontent>
-    <controlaccess>
-      <subject source="lcsh">Urban policy -- New York (State) -- New York</subject>
-      <subject source="lcsh">Physical sciences</subject>
-      <subject source="lcsh">Biology -- Research</subject>
-      <subject source="lcsh">Regional planning -- New York (N.Y.)</subject>
-      <subject source="lcsh">Physics</subject>
-      <geogname source="lcsh">New York (N.Y.)</geogname>
-      <subject source="lcsh">Operations management</subject>
-    </controlaccess>
-    <dsc>
-      <c id="e7d3514f992e418e87fcb4759198e0c4" level="series">
-        <did>
-          <unittitle>Personal, Biographical and Miscellaneous</unittitle>
-          <unitid>6</unitid>
-          <physdesc altrender="whole">
-            <extent altrender="materialtype spaceoccupied">2 Cubic Feet</extent>
-            <extent altrender="carrier">3 boxes</extent>
-          </physdesc>
-          <unitdate normal="1951/1968" type="inclusive">1951-1968</unitdate>
-        </did>
-        <scopecontent id="85f53226d39322b4a34a5effaf308811">
-          <head>Scope and Contents note</head>
-          <p>Includes Awards/Certificates and Historical booklets on Academic Institutions.</p>
-        </scopecontent>
-        <arrangement id="b20ed1656405b43a8c259faf2eef40e7">
-          <head>Arrangement note</head>
-          <p>Arranged in alphabetical order.</p>
-        </arrangement>
-        <c id="6cde69876e924f6c919a7d99c77ce055" level="file">
-          <did>
-            <unittitle>Alma Mater Studiorum</unittitle>
-            <unitdate>undated</unitdate>
-            <physdesc id="dfeb05b85cdd33494e4e92bcab19f941">2 booklets</physdesc>
-            <container id="d66796d0023415f69e8002b711d12166" label="mixed materials (A0000000055064)" type="box">1</container>
-          </did>
-        </c>
-        <c id="ad83da6a38494049987aa3f0f03e328b" level="file">
-          <did>
-            <unittitle>Brown University Certificate</unittitle>
-            <unitdate>undated</unitdate>
-            <physdesc id="bc0c8274d67661fe15a9e1dcfdab6de6">bound</physdesc>
-            <container id="83ba4a30a4ff59866db16b10b7c28bdc" label="mixed materials (A0000000055064)" type="box">1</container>
-          </did>
-        </c>
-        <c id="eede2a469f9f4c989988c178c9c9c28a" level="file">
-          <did>
-            <unittitle>Forni, Gherardo "The Archiginnasio", Scientia Medica Italica, vol. III, n. 4, Reprint</unittitle>
-            <unitdate normal="1955/1955" type="inclusive">1955</unitdate>
-            <container id="0288dafaea228c9bda5c33c908d840b7" label="mixed materials (A0000000055064)" type="box">1</container>
-          </did>
-        </c>
-        <c id="7fdb4d5c040e418286d7206ad0a92c27" level="file">
-          <did>
-            <unittitle>Historia De Los Estudios Universitarios en Mexico, A History of the University of Mexico</unittitle>
-            <unitdate normal="1951/1951" type="inclusive">1951</unitdate>
-            <langmaterial id="03051d384dbe80186e6d1462a6568c9c">Spanish</langmaterial>
-            <container id="562d7c5e466241394b514a160811f366" label="mixed materials (A0000000055064)" type="box">1</container>
-          </did>
-        </c>
-        <c id="dd8134e39f9d47c98d891b2aafe6f714" level="file">
-          <did>
-            <unittitle>Biographical - Assorted Photographs</unittitle>
-            <unitdate normal="1963/1968" type="inclusive">1963-1968</unitdate>
-            <container id="3337ae6b492607acf6c995514758ddde" label="mixed materials (A0000000055064)" type="box">1</container>
-            <container id="846dd21b937dae645d90ecd3a26f2d78" parent="3337ae6b492607acf6c995514758ddde" type="folder">1</container>
-          </did>
-        </c>
-        <c id="84c57db4ba41498094bcbd799542d9eb" level="file">
-          <did>
-            <unittitle>Biographical - Biography releases and Announcements</unittitle>
-            <unitdate normal="1968/1968" type="inclusive">1968</unitdate>
-            <container id="42d540c152b1298e6f13b7ad0a6a480a" label="mixed materials (A0000000055064)" type="box">1</container>
-            <container id="41301bbab32f285aa263402209985632" parent="42d540c152b1298e6f13b7ad0a6a480a" type="folder">2</container>
-          </did>
-        </c>
-        <c id="021a2e56add24a46a12ab5a1304aeedf" level="file">
-          <did>
-            <unittitle>Installation Photographs</unittitle>
-            <unitdate normal="1968/1968" type="inclusive">1968</unitdate>
-            <container id="1861fca76ab8176c102c1c7ecea122ea" label="mixed materials (A0000000055064)" type="box">1</container>
-            <container id="c610ac69db64387b61eeadb9f7c9445e" parent="1861fca76ab8176c102c1c7ecea122ea" type="folder">3</container>
-          </did>
-        </c>
-        <c id="b48aeed5f8e744fc8a2675e1ca9bce4d" level="file">
-          <did>
-            <unittitle>Biographical - Memorabilia</unittitle>
-            <unitdate normal="1968/1976" type="inclusive">1968-1976</unitdate>
-            <container id="829ccce24b8c027458f0d59c65065058" label="mixed materials (A0000000055064)" type="box">1</container>
-            <container id="c3b828f14cf8c3fcec5a9948cefe735b" parent="829ccce24b8c027458f0d59c65065058" type="folder">4</container>
-          </did>
-        </c>
-        <c id="a07a224c16464f92ae835a280fd95917" level="file">
-          <did>
-            <unittitle>Biographical - Scattered Correspondence</unittitle>
-            <unitdate normal="1968/1978" type="inclusive">1968-1978</unitdate>
-            <container id="c5fdf5e6ec8a9ae170c36fe977a1143d" label="mixed materials (A0000000055064)" type="box">1</container>
-            <container id="8a53134cb0b5c70f8c61bd61139dac7a" parent="c5fdf5e6ec8a9ae170c36fe977a1143d" type="folder">5</container>
-          </did>
-        </c>
-        <c id="73cbe306b8534354a8db2d530a212de7" level="file">
-          <did>
-            <unittitle>Alma Mater Studiorum About the history of University of Bologna</unittitle>
-            <unitdate>undated</unitdate>
-            <physdesc id="d7f8c53d1a1b4a0993955cee6d28225f">2 copies</physdesc>
-            <container id="ec94d7d13a21e7d8bf0cf5753cb1a7c9" label="mixed materials (A0000000055065)" type="box">2</container>
-          </did>
-        </c>
-        <c id="21fed817ab934f3c8f17c2a8584b68d2" level="file">
-          <did>
-            <unittitle>Brown University bound honor</unittitle>
-            <container id="db56331893b5790b6d9f51b32c04445b" label="mixed materials (A0000000055065)" type="box">2</container>
-          </did>
-        </c>
-        <c id="9bdfddbc1516415a87dee765ade29c74" level="file">
-          <did>
-            <unittitle>Ensayos Sobre La Universidad de Mexico</unittitle>
-            <unitdate normal="1955/1955" type="inclusive">1955</unitdate>
-            <container id="17d908830024c5dc55abf13d6f781e00" label="mixed materials (A0000000055065)" type="box">2</container>
-          </did>
-        </c>
-        <c id="bf9ed5116dd34ff5bb6a3370414e6bf2" level="file">
-          <did>
-            <unittitle>Forni, Gherardo "The Archiginnasio", Scientia Medica Italica, Vol. III, n. 4</unittitle>
-            <unitdate normal="1955/1955" type="inclusive">1955</unitdate>
-            <container id="7a5f89f37522a3826aa3e06eef8927df" label="mixed materials (A0000000055065)" type="box">2</container>
-          </did>
-        </c>
-        <c id="91b3472318b14867902806ad69a346d5" level="file">
-          <did>
-            <unittitle>Indiana University - Congratulatory Certificate on the Inauguration of Frederick Seitz</unittitle>
-            <unitdate>undated</unitdate>
-            <physdesc id="7d0a8dad710c80858b7ee4e9624c70a9">bound</physdesc>
-            <container id="9d48e2d3a1ad033c9666a8f0ac30fb24" label="mixed materials (A0000000055065)" type="box">2</container>
-          </did>
-        </c>
-        <c id="2e69c91bbf004227a388f4cc58dc214e" level="file">
-          <did>
-            <unittitle>Northwestern University bound honor on the occasion of Frederick Seitz's installation</unittitle>
-            <container id="062a984799e05bb52e35a3c432d4a9da" label="mixed materials (A0000000055065)" type="box">2</container>
-          </did>
-        </c>
-        <c id="f1d2de144db94e56a2894edd527f9399" level="file">
-          <did>
-            <unittitle>Polytechnic Institute of Brooklyn - Inauguration of Frederick Seitz As President of the Rockefeller University</unittitle>
-            <unitdate>1968 October 8</unitdate>
-            <physdesc id="7c6d569944b8b17789745141139a48e8">2 bound Certificates</physdesc>
-            <container id="47b3bd2648a57a64b5eec3acc88f05aa" label="mixed materials (A0000000055065)" type="box">2</container>
-          </did>
-        </c>
-        <c id="83cd230e95c64ef788fb9dd5c17dda55" level="file">
-          <did>
-            <unittitle>Bound Certificate of Induction as President of Rockefeller University</unittitle>
-            <unitdate normal="1968/1968" type="inclusive">1968</unitdate>
-            <container id="ca838405d328f05fa0d7173d139e93d6" label="mixed materials (A0000000055066)" type="box">3</container>
-          </did>
-        </c>
-        <c id="6350798aeb7b482bbb5726c29f21e7a8" level="file">
-          <did>
-            <unittitle>The New York Society for the Relief of the Ruptured and Crippled, a report, Rockefeller University</unittitle>
-            <unitdate>1973 March 22</unitdate>
-            <container id="e51bfb7281f6cbc6433a15be7bcfe800" label="mixed materials (A0000000055066)" type="box">3</container>
-          </did>
-        </c>
-      </c>
-    </dsc>
-  </archdesc>
+6. Presonal, Biographical and Misccellaneous, 1951-1968.</p><p>Arrangement mainly alphabetical and chronological by series.</p>  </arrangement>
+  <prefercite id="c547a511710cbb8b717aa50db5a28939">
+    <head>Preferred Citation note</head>
+<p>Information regarding the Rockefeller Archive Center's preferred elements and forms of citation can be found at <extref href="http://www.rockarch.org/research/citations.php">http://www.rockarch.org/research/citations.php</extref></p>  </prefercite>
+  <fileplan id="514619bb2bf35944e7802f37b1204dc0">
+    <head>File Plan note</head>
+<p>Former Classification: 1 304-2</p>  </fileplan>
+  <accessrestrict id="3d55f052c54e700b2d08da737df3788e">
+    <head>Conditions Governing Access</head>
+<p>Records more than 25 years old are open for research with select materials restricted as noted. Brittle or damaged items are available at the discretion of RAC. Material in the Rockefeller family collections that provides the names, correspondence, or activities of living members of the Rockefeller family, and/or documents the net wealth of any Rockefeller family members, is restricted from scholarly access. Researchers interested in accessing digital media (floppy disks, CDs, DVDs, etc.) or audiovisual material (audio cassettes, VHS, etc.) in this collection must use an access surrogate. The original items may not be accessed because of preservation concerns. To request an access surrogate be made, or if you are unsure if there is an access surrogate, please contact an archivist.</p>  </accessrestrict>
+  <arrangement id="c48def59ffa915c585518bea1af3e4c0">
+    <head>Arrangement</head>
+<p>Alphabetical.</p>  </arrangement>
+  <scopecontent id="e224ac1ee36f064503a0f1369753b2f9">
+    <head>Scope and Contents</head>
+<p>Biographical files document academic institutions as well as Seitz awards and certificates.</p>  </scopecontent>
+  <controlaccess>
+    <subject source="lcsh">Urban policy -- New York (State) -- New York</subject>
+    <subject source="lcsh">Physical sciences</subject>
+    <subject source="lcsh">Biology -- Research</subject>
+    <subject source="lcsh">Regional planning -- New York (N.Y.)</subject>
+    <subject source="lcsh">Physics</subject>
+    <geogname source="lcsh">New York (N.Y.)</geogname>
+    <subject source="lcsh">Operations management</subject>
+  </controlaccess>
+  <dsc><c id="e7d3514f992e418e87fcb4759198e0c4" level="series"><did><unittitle>Personal, Biographical and Miscellaneous</unittitle><unitid>6</unitid><physdesc altrender="whole"><extent altrender="materialtype spaceoccupied">2 Cubic Feet</extent><extent altrender="carrier">3 boxes</extent></physdesc><unitdate normal="1951/1968" type="inclusive">1951-1968</unitdate></did><scopecontent id="85f53226d39322b4a34a5effaf308811"><head>Scope and Contents note</head><p>Includes Awards/Certificates and Historical booklets on Academic Institutions.</p></scopecontent><arrangement id="b20ed1656405b43a8c259faf2eef40e7"><head>Arrangement note</head><p>Arranged in alphabetical order.</p></arrangement><c id="6cde69876e924f6c919a7d99c77ce055" level="file"><did><unittitle>Alma Mater Studiorum</unittitle><unitdate>undated</unitdate><physdesc id="dfeb05b85cdd33494e4e92bcab19f941">2 booklets</physdesc><container altrender="Letter Document Storage Box" id="adc3c4936f72409faf21210bba73d0eb" label="mixed materials [A0000000055064]" type="box">1</container></did></c><c id="ad83da6a38494049987aa3f0f03e328b" level="file"><did><unittitle>Brown University Certificate</unittitle><unitdate>undated</unitdate><physdesc id="bc0c8274d67661fe15a9e1dcfdab6de6">bound</physdesc><container altrender="Letter Document Storage Box" id="b800f5da6af9898be3c8a6b556de7246" label="mixed materials [A0000000055064]" type="box">1</container></did></c><c id="eede2a469f9f4c989988c178c9c9c28a" level="file"><did><unittitle>Forni, Gherardo "The Archiginnasio", Scientia Medica Italica, vol. III, n. 4, Reprint</unittitle><unitdate normal="1955/1955" type="inclusive">1955</unitdate><container altrender="Letter Document Storage Box" id="dd51ec0105aad969d0061b1ab3355665" label="mixed materials [A0000000055064]" type="box">1</container></did></c><c id="7fdb4d5c040e418286d7206ad0a92c27" level="file"><did><unittitle>Historia De Los Estudios Universitarios en Mexico, A History of the University of Mexico</unittitle><unitdate normal="1951/1951" type="inclusive">1951</unitdate><langmaterial id="03051d384dbe80186e6d1462a6568c9c">Spanish</langmaterial><container altrender="Letter Document Storage Box" id="ba1e2ff3fb0ce7f34581cddb2a50d6ca" label="mixed materials [A0000000055064]" type="box">1</container></did></c><c id="dd8134e39f9d47c98d891b2aafe6f714" level="file"><did><unittitle>Biographical - Assorted Photographs</unittitle><unitdate normal="1963/1968" type="inclusive">1963-1968</unitdate><container altrender="Letter Document Storage Box" id="b242268858b855c4ff817e600cf7ba94" label="mixed materials [A0000000055064]" type="box">1</container><container id="ae6ab84c18cd68a3ce61e7720b538e6b" parent="b242268858b855c4ff817e600cf7ba94" type="folder">1</container></did></c><c id="84c57db4ba41498094bcbd799542d9eb" level="file"><did><unittitle>Biographical - Biography releases and Announcements</unittitle><unitdate normal="1968/1968" type="inclusive">1968</unitdate><container altrender="Letter Document Storage Box" id="f2aca0eaad2e18f6873de05fc93a5535" label="mixed materials [A0000000055064]" type="box">1</container><container id="b9192ef22e169ae224b6a8c0cfe830fd" parent="f2aca0eaad2e18f6873de05fc93a5535" type="folder">2</container></did></c><c id="021a2e56add24a46a12ab5a1304aeedf" level="file"><did><unittitle>Installation Photographs</unittitle><unitdate normal="1968/1968" type="inclusive">1968</unitdate><container altrender="Letter Document Storage Box" id="5de90f1389fc37a454ea204878d4d5a9" label="mixed materials [A0000000055064]" type="box">1</container><container id="b4cb0012bf7c778f4888f92a3b33afaf" parent="5de90f1389fc37a454ea204878d4d5a9" type="folder">3</container></did></c><c id="b48aeed5f8e744fc8a2675e1ca9bce4d" level="file"><did><unittitle>Biographical - Memorabilia</unittitle><unitdate normal="1968/1976" type="inclusive">1968-1976</unitdate><container altrender="Letter Document Storage Box" id="365279a4120f7bd53b29444b6792d53f" label="mixed materials [A0000000055064]" type="box">1</container><container id="ed20327faa90daedbdc8964c4995a653" parent="365279a4120f7bd53b29444b6792d53f" type="folder">4</container></did></c><c id="a07a224c16464f92ae835a280fd95917" level="file"><did><unittitle>Biographical - Scattered Correspondence</unittitle><unitdate normal="1968/1978" type="inclusive">1968-1978</unitdate><container altrender="Letter Document Storage Box" id="a42fcc691df61b0d089151f7bd410848" label="mixed materials [A0000000055064]" type="box">1</container><container id="be1f7fac950cee57b110ecde0a12a41e" parent="a42fcc691df61b0d089151f7bd410848" type="folder">5</container></did></c><c id="73cbe306b8534354a8db2d530a212de7" level="file"><did><unittitle>Alma Mater Studiorum About the history of University of Bologna</unittitle><unitdate>undated</unitdate><physdesc id="d7f8c53d1a1b4a0993955cee6d28225f">2 copies</physdesc><container altrender="Tall Lgl Document Storage Box" id="f08ea96084884ae71051a4574a139fe7" label="mixed materials [A0000000055065]" type="box">2</container></did></c><c id="21fed817ab934f3c8f17c2a8584b68d2" level="file"><did><unittitle>Brown University bound honor</unittitle><container altrender="Tall Lgl Document Storage Box" id="61819b9b4ada34c26a8ef70b31f74337" label="mixed materials [A0000000055065]" type="box">2</container></did></c><c id="9bdfddbc1516415a87dee765ade29c74" level="file"><did><unittitle>Ensayos Sobre La Universidad de Mexico</unittitle><unitdate normal="1955/1955" type="inclusive">1955</unitdate><container altrender="Tall Lgl Document Storage Box" id="0e6fcc4de8ca07387d72743d6e582543" label="mixed materials [A0000000055065]" type="box">2</container></did></c><c id="bf9ed5116dd34ff5bb6a3370414e6bf2" level="file"><did><unittitle>Forni, Gherardo "The Archiginnasio", Scientia Medica Italica, Vol. III, n. 4</unittitle><unitdate normal="1955/1955" type="inclusive">1955</unitdate><container altrender="Tall Lgl Document Storage Box" id="21f817931ddff617fdfab98dd5f8de1f" label="mixed materials [A0000000055065]" type="box">2</container></did></c><c id="91b3472318b14867902806ad69a346d5" level="file"><did><unittitle>Indiana University - Congratulatory Certificate on the Inauguration of Frederick Seitz</unittitle><unitdate>undated</unitdate><physdesc id="7d0a8dad710c80858b7ee4e9624c70a9">bound</physdesc><container altrender="Tall Lgl Document Storage Box" id="4a014575cf2be90a2488bd527866cdbd" label="mixed materials [A0000000055065]" type="box">2</container></did></c><c id="2e69c91bbf004227a388f4cc58dc214e" level="file"><did><unittitle>Northwestern University bound honor on the occasion of Frederick Seitz's installation</unittitle><container altrender="Tall Lgl Document Storage Box" id="4fcdecf488de76ea14d7e994ccda210d" label="mixed materials [A0000000055065]" type="box">2</container></did></c><c id="f1d2de144db94e56a2894edd527f9399" level="file"><did><unittitle>Polytechnic Institute of Brooklyn - Inauguration of Frederick Seitz As President of the Rockefeller University</unittitle><unitdate>1968 October 8</unitdate><physdesc id="7c6d569944b8b17789745141139a48e8">2 bound Certificates</physdesc><container altrender="Tall Lgl Document Storage Box" id="cec902da1428264fdbaf789cee99ae6e" label="mixed materials [A0000000055065]" type="box">2</container></did></c><c id="83cd230e95c64ef788fb9dd5c17dda55" level="file"><did><unittitle>Bound Certificate of Induction as President of Rockefeller University</unittitle><unitdate normal="1968/1968" type="inclusive">1968</unitdate><container altrender="16x20 Oversize Document Box (Tall)" id="a90d09c3558b0467da946d1b6b85c8f7" label="mixed materials [A0000000055066]" type="box">3</container></did></c><c id="6350798aeb7b482bbb5726c29f21e7a8" level="file"><did><unittitle>The New York Society for the Relief of the Ruptured and Crippled, a report, Rockefeller University</unittitle><unitdate>1973 March 22</unitdate><container altrender="16x20 Oversize Document Box (Tall)" id="ecd8ca6f1d219a10f1b0a82db9f52edf" label="mixed materials [A0000000055066]" type="box">3</container></did></c></c></dsc>
+</archdesc>
 </ead>

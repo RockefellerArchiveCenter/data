@@ -1,435 +1,70 @@
-<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
-  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="under_revision" langencoding="iso639-2b" repositoryencoding="iso15511">
-    <eadid>FA816.xml</eadid>
-    <filedesc>
-      <titlestmt>
-        <titleproper type="filing">Rockefeller University records, President, Frederick Seitz, Archive Center, Series 3</titleproper>
-        <titleproper>A Guide to the Rockefeller University records, President, Frederick Seitz, Archive Center, Series 3
- <num>FA816</num></titleproper>
-        <author>Finding aid prepared by LH, CF</author>
-      </titlestmt>
-      <publicationstmt>
-        <publisher>Rockefeller Archive Center</publisher>
-        <p>
-          <date>1997 March 11</date>
-        </p>
-        <address>
-          <addressline>15 Dayton Avenue</addressline>
-          <addressline>Sleepy Hollow 10591</addressline>
-          <addressline>archive@rockarch.org</addressline>
-          <addressline>URL: <extptr xlink:href="http://www.rockarch.org" xlink:show="new" xlink:title="http://www.rockarch.org" xlink:type="simple"/></addressline>
-        </address>
-      </publicationstmt>
-    </filedesc>
-    <profiledesc>
-      <creation>This finding aid was produced using ArchivesSpace on <date>2017-08-25 00:02:11 -0400</date>.</creation>
-    </profiledesc>
-    <revisiondesc>
-      <date>2010 August 19</date>
-      <item>Paper finding aid converted to EAD/XML by AureXus in 2010. Imported into the Archvists’ Toolkit by Becky Robbins.</item>
-    </revisiondesc>
-  </eadheader>
-  <archdesc level="series">
-    <did>
-      <langmaterial>
-        <language langcode="eng">English</language>
-      </langmaterial>
-      <repository>
-        <corpname>Rockefeller Archive Center</corpname>
-      </repository>
-      <unittitle>Rockefeller University records, President, Frederick Seitz, Archive Center, Series 3</unittitle>
-      <origination label="creator">
-        <persname role="aut" source="naf">Seitz, Frederick</persname>
-      </origination>
-      <origination label="creator">
-        <corpname role="aut" source="naf">Rockefeller University</corpname>
-      </origination>
-      <unitid>FA816</unitid>
-      <physdesc altrender="whole">
-        <extent altrender="materialtype spaceoccupied">2.64 Cubic Feet</extent>
-        <extent altrender="carrier">6 document boxes</extent>
-      </physdesc>
-      <unitdate normal="1971/1977" type="inclusive">1971-1977</unitdate>
-    </did>
-    <bioghist id="62abbc7121d072de3059cfa72e30583b">
-      <head>Biographical/Historical note</head>
-      <p>Frederick Seitz (b. July 4, 1911) is a physicist and science administrator. He has made fundamental contributions to the theory of solids, nuclear physics, fluorescence, and crystals, and has been a leader in the post - World War II scientific establishment in the United States. From 1968-1978 Seitz was president of the Rockefeller University.</p>
-      <p>Seitz entered Stanford University in January 1929, where he started out as a biochemistry major, but soon focused on mathematics and physics. He graduated from Stanford in three years with a degree in mathematics, and started doctoral studies in physics at Princeton University at the beginning of 1932. Completing his doctorate in 1934 Seitz remained at Princeton as a Proctor Fellow, and in 1935 was appointed as an instructor at the University of Rochester. In 1939 Seitz moved to the University of Pennsylvania first as assistant professor, 1939-1941, and then associate professor, 1941-1942, in the Morgan Laboratory of Physics. Seitz moved to the University of Illinois in 1949 to accept an appointment as a professor of Physics. In the 40s and 50s Seitz's research focused on the properties of crystals. His published works included studies of dislocations and imperfections in crystal structures, the effect of irradiation on crystals, and the process of diffusion in crystalline materials. In 1962 Seitz was elected president of the National Academy of Sciences in Washington, a position which he held for 6 years. In that same year, he became a trustee of the Rockefeller University and in 1968 he went on to become president of the Rockefeller University. In 1973 he received the National Medal of Science, the nation's highest award in science, for his contributions "to the foundation of the modern quantum theory of the solid state of matter."</p>
-      <p>Among his numerous honors and awards, Dr. Seitz received the Franklin Medal in 1965, the Herbert Hoover Medal in 1968, the Defense Department Distinguished Service Award in Awards in 1968, the NASA distinguished Service in 1969, the Compton Award, the highest award of the American Institute of Physics, in 1970, and the James Madison Medal of Princeton University in 1978. In 1979 he received his second NASA Distinguished Public Service Medal presented for his "dedicated service as chairman of the NASA Space Program Advisory Council from 1973 to 1977. " In addition to the Rockefeller University, 26 universities in this country and abroad have awarded him honorary degrees. In 1983 he received the Fourth Vannevar Bush Award presented by the National Science Board of the National Science Foundation and the R. Loveland Memorial Award of the American College of Physicians. From 1978 to 1983 he served as vice chairman of the Board of Trustees of the Memorial Sloan - Kettering Cancer Center.</p>
-      <p>Other memberships include the American Academy of Arts and Sciences, The Century Club, the Bohemian Club, the American Philosophical Society, the American Society for Metals, the American Institute of Mining, Metallurgy and Petroleum Engineers, the American Crystallographic Society, the Optical Society of America, the Washington Academy of Science, and a number of European scientific academies.</p>
-    </bioghist>
-    <arrangement id="a8fa49f29a322fea573514aa0c3ccaf9">
-      <head>Arrangement note</head>
-      <p>Collection is arranged in six series:
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="under_revision" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid>FA816.xml</eadid><filedesc><titlestmt><titleproper type="filing">Rockefeller University records, President, Frederick Seitz, Archive Center, Series 3</titleproper><titleproper>A Guide to the Rockefeller University records, President, Frederick Seitz, Archive Center, Series 3
+ <num>FA816</num></titleproper><author>Finding aid prepared by LH, CF</author></titlestmt><publicationstmt><publisher>Rockefeller Archive Center</publisher><p><date>1997 March 11</date></p><address><addressline>15 Dayton Avenue</addressline><addressline>Sleepy Hollow 10591</addressline><addressline>archive@rockarch.org</addressline><addressline>URL: <extptr xlink:href="http://www.rockarch.org" xlink:show="new" xlink:title="http://www.rockarch.org" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2019-08-26 00:20:17 -0400</date>.</creation></profiledesc><revisiondesc><date>2010 August 19</date><item>Paper finding aid converted to EAD/XML by AureXus in 2010. Imported into the Archvists’ Toolkit by Becky Robbins.</item></revisiondesc></eadheader><archdesc level="series">
+  <did>
+    <langmaterial>
+      <language langcode="eng">English</language>
+    </langmaterial>
+    <repository>
+      <corpname>Rockefeller Archive Center</corpname>
+    </repository>
+    <unittitle>Rockefeller University records, President, Frederick Seitz, Archive Center, Series 3</unittitle>
+    <origination label="creator">
+      <persname role="aut" source="naf">Seitz, Frederick</persname>
+    </origination>
+    <origination label="creator">
+      <corpname role="aut" source="naf">Rockefeller University</corpname>
+    </origination>
+    <unitid>FA816</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">2.28 Cubic Feet</extent>
+      <extent altrender="carrier">6 letter document boxes</extent>
+    </physdesc>
+    <unitdate normal="1971/1977" type="inclusive">1971-1977</unitdate>
+  </did>
+  <bioghist id="62abbc7121d072de3059cfa72e30583b">
+    <head>Biographical/Historical note</head>
+<p>Frederick Seitz (b. July 4, 1911) is a physicist and science administrator. He has made fundamental contributions to the theory of solids, nuclear physics, fluorescence, and crystals, and has been a leader in the post - World War II scientific establishment in the United States. From 1968-1978 Seitz was president of the Rockefeller University.</p><p>Seitz entered Stanford University in January 1929, where he started out as a biochemistry major, but soon focused on mathematics and physics. He graduated from Stanford in three years with a degree in mathematics, and started doctoral studies in physics at Princeton University at the beginning of 1932. Completing his doctorate in 1934 Seitz remained at Princeton as a Proctor Fellow, and in 1935 was appointed as an instructor at the University of Rochester. In 1939 Seitz moved to the University of Pennsylvania first as assistant professor, 1939-1941, and then associate professor, 1941-1942, in the Morgan Laboratory of Physics. Seitz moved to the University of Illinois in 1949 to accept an appointment as a professor of Physics. In the 40s and 50s Seitz's research focused on the properties of crystals. His published works included studies of dislocations and imperfections in crystal structures, the effect of irradiation on crystals, and the process of diffusion in crystalline materials. In 1962 Seitz was elected president of the National Academy of Sciences in Washington, a position which he held for 6 years. In that same year, he became a trustee of the Rockefeller University and in 1968 he went on to become president of the Rockefeller University. In 1973 he received the National Medal of Science, the nation's highest award in science, for his contributions "to the foundation of the modern quantum theory of the solid state of matter."</p><p>Among his numerous honors and awards, Dr. Seitz received the Franklin Medal in 1965, the Herbert Hoover Medal in 1968, the Defense Department Distinguished Service Award in Awards in 1968, the NASA distinguished Service in 1969, the Compton Award, the highest award of the American Institute of Physics, in 1970, and the James Madison Medal of Princeton University in 1978. In 1979 he received his second NASA Distinguished Public Service Medal presented for his "dedicated service as chairman of the NASA Space Program Advisory Council from 1973 to 1977. " In addition to the Rockefeller University, 26 universities in this country and abroad have awarded him honorary degrees. In 1983 he received the Fourth Vannevar Bush Award presented by the National Science Board of the National Science Foundation and the R. Loveland Memorial Award of the American College of Physicians. From 1978 to 1983 he served as vice chairman of the Board of Trustees of the Memorial Sloan - Kettering Cancer Center.</p><p>Other memberships include the American Academy of Arts and Sciences, The Century Club, the Bohemian Club, the American Philosophical Society, the American Society for Metals, the American Institute of Mining, Metallurgy and Petroleum Engineers, the American Crystallographic Society, the Optical Society of America, the Washington Academy of Science, and a number of European scientific academies.</p>  </bioghist>
+  <arrangement id="a8fa49f29a322fea573514aa0c3ccaf9">
+    <head>Arrangement note</head>
+<p>Collection is arranged in six series:
 1. Business, 1929-1979
 2. Chronological Files, 1969-1978
 3. Archive Center, 1971-1977
 4. Campus, 1968-1978
 5. General Administration, 1958-1979
-6. Presonal, Biographical and Misccellaneous, 1951-1968.</p>
-      <p>Arrangement mainly alphabetical and chronological by series.</p>
-    </arrangement>
-    <prefercite id="5171157d3b2d657849ddf6154997dbd0">
-      <head>Preferred Citation note</head>
-      <p>Information regarding the Rockefeller Archive Center's preferred elements and forms of citation can be found at <extref href="http://www.rockarch.org/research/citations.php">http://www.rockarch.org/research/citations.php</extref></p>
-    </prefercite>
-    <fileplan id="31ec71d887f9957672ba16958173d6bd">
-      <head>File Plan note</head>
-      <p>Former Classification: 1 304-2</p>
-    </fileplan>
-    <otherfindaid id="9459ab49798828c934455cc29bc89090">
-      <head>Other Finding Aids</head>
-      <p>FA141 Rockefeller University records, President, Frederick Seitz, Business, Series 1.
+6. Presonal, Biographical and Misccellaneous, 1951-1968.</p><p>Arrangement mainly alphabetical and chronological by series.</p>  </arrangement>
+  <prefercite id="5171157d3b2d657849ddf6154997dbd0">
+    <head>Preferred Citation note</head>
+<p>Information regarding the Rockefeller Archive Center's preferred elements and forms of citation can be found at <extref href="http://www.rockarch.org/research/citations.php">http://www.rockarch.org/research/citations.php</extref></p>  </prefercite>
+  <fileplan id="31ec71d887f9957672ba16958173d6bd">
+    <head>File Plan note</head>
+<p>Former Classification: 1 304-2</p>  </fileplan>
+  <otherfindaid id="9459ab49798828c934455cc29bc89090">
+    <head>Other Finding Aids</head>
+<p>FA141 Rockefeller University records, President, Frederick Seitz, Business, Series 1.
 FA815 Rockefeller University records, President, Frederick Seitz, Chronological Files, Series 2.
 FA817 Rockefeller University records, President, Frederick Seitz, Campus, Series 4.
 FA818 Rockefeller University records, President, Frederick Seitz, General Administration, Series 5.
-FA819 Rockefeller University records, President, Frederick Seitz, Personal, Biographical and Miscellaneous, Series 6.</p>
-    </otherfindaid>
-    <accessrestrict id="c95d0f5173ba95d62debbbe16ba52592">
-      <head>Conditions Governing Access note</head>
-      <p>Records more than 25 years old are open for research with select materials restricted as noted. Brittle or damaged items are available at the discretion of RAC. Material in the Rockefeller family collections that provides the names, correspondence, or activities of living members of the Rockefeller family, and/or documents the net wealth of any Rockefeller family members, is restricted from scholarly access. Researchers interested in accessing digital media (floppy disks, CDs, DVDs, etc.) or audiovisual material (audio cassettes, VHS, etc.) in this collection must use an access surrogate. The original items may not be accessed because of preservation concerns. To request an access surrogate be made, or if you are unsure if there is an access surrogate, please contact an archivist.</p>
-    </accessrestrict>
-    <arrangement id="7186b0683fc326a36fed81713923b599">
-      <head>Arrangement</head>
-      <p>Archive Center records are arranged chronologically.</p>
-    </arrangement>
-    <scopecontent id="ab2fcd7c0eb3f55538a2028ea7f0bcd7">
-      <head>Scope and Contents</head>
-      <p>Contains working files.</p>
-    </scopecontent>
-    <controlaccess>
-      <subject source="lcsh">Operations management</subject>
-      <subject source="lcsh">Physical sciences</subject>
-      <subject source="lcsh">Urban policy -- New York (State) -- New York</subject>
-      <subject source="lcsh">Regional planning -- New York (N.Y.)</subject>
-      <subject source="lcsh">Physics</subject>
-      <geogname source="lcsh">New York (N.Y.)</geogname>
-      <subject source="lcsh">Biology -- Research</subject>
-    </controlaccess>
-    <dsc>
-      <c id="dbdc268f43544342a3471e6be2961665" level="series">
-        <did>
-          <unittitle>Archive Center</unittitle>
-          <unitid>3</unitid>
-          <physdesc altrender="whole">
-            <extent altrender="materialtype spaceoccupied">2.64 Cubic Feet</extent>
-            <extent altrender="carrier">6 document boxes</extent>
-          </physdesc>
-          <unitdate normal="1971/1977" type="inclusive">1971-1977</unitdate>
-        </did>
-        <scopecontent id="9e14934eed136ae1ba18789abe4a3977">
-          <head>Scope and Contents note</head>
-          <p>Includes Working Files.</p>
-        </scopecontent>
-        <arrangement id="66d784547b1de6b136ff4ca5a89bd0c1">
-          <head>Arrangement note</head>
-          <p>Arranged in chronological order.</p>
-        </arrangement>
-        <c id="9a7cee3898324d79b44d1da9bcc618cb" level="file">
-          <did>
-            <unittitle>Archive Center: Appraisal and Reports</unittitle>
-            <unitdate>undated</unitdate>
-            <container id="56ef582f0fa31971ce1f6d468519f6af" label="mixed materials (A0000000054917)" type="box">1</container>
-            <container id="a7917fb1c9d5457c86221396df341f70" parent="56ef582f0fa31971ce1f6d468519f6af" type="folder">1</container>
-          </did>
-        </c>
-        <c id="5df2f5be9286400a98bbcea9282b64b6" level="file">
-          <did>
-            <unittitle>Archive Center - CES Working File-Nelson Aldrich proposal for Library-Archives on RU campus</unittitle>
-            <unitdate normal="1971/1971" type="inclusive">1971</unitdate>
-            <container id="c64a81934e57840f6e191aece6c48bb3" label="mixed materials (A0000000054917)" type="box">1</container>
-            <container id="226744fd55a933d38997899595519cb9" parent="c64a81934e57840f6e191aece6c48bb3" type="folder">2</container>
-          </did>
-        </c>
-        <c id="4e91ce0133154d389c5f5fb527962246" level="file">
-          <did>
-            <unittitle>Archive Center - CES Working File-excerpts from minutes</unittitle>
-            <unitdate normal="1966/1972" type="inclusive">1966-1972</unitdate>
-            <container id="5305aa0df247d95c719cedb1a70a0763" label="mixed materials (A0000000054917)" type="box">1</container>
-            <container id="5ad1a9831275d394914cd7191448b822" parent="5305aa0df247d95c719cedb1a70a0763" type="folder">3</container>
-          </did>
-        </c>
-        <c id="9a87e34fd25d432d8e401b595af0c275" level="file">
-          <did>
-            <unittitle>Archive Center - CES Working File-Dr. Sunderlin: visit to Boston</unittitle>
-            <unitdate>1972 October 6</unitdate>
-            <container id="760e38b2ff61bb6548f356c1a9551237" label="mixed materials (A0000000054917)" type="box">1</container>
-            <container id="5f2d6e1dd76abd1f5c91af145447ff5a" parent="760e38b2ff61bb6548f356c1a9551237" type="folder">4</container>
-          </did>
-        </c>
-        <c id="d0a0290610904c56b898940c055478c7" level="file">
-          <did>
-            <unittitle>Archive Center - CES Working File 1</unittitle>
-            <unitdate>1973 April-1974 January</unitdate>
-            <container id="7a86dbdb4f8bd1f71bc301f1456b25c1" label="mixed materials (A0000000054917)" type="box">1</container>
-            <container id="b1b00ec8fe3abb884a8024b08fb265ae" parent="7a86dbdb4f8bd1f71bc301f1456b25c1" type="folder">5</container>
-          </did>
-        </c>
-        <c id="dc520fd48e1c4128a4c6ba456d148e93" level="file">
-          <did>
-            <unittitle>Archive Center - CES Working File 2</unittitle>
-            <unitdate>1974 February-June</unitdate>
-            <container id="12b45894517415cde5e24b4149ca4efe" label="mixed materials (A0000000054917)" type="box">1</container>
-            <container id="85729882a502028468e618beab180a70" parent="12b45894517415cde5e24b4149ca4efe" type="folder">6</container>
-          </did>
-        </c>
-        <c id="83a8ff70294e46b0a6d32d455d7838a0" level="file">
-          <did>
-            <unittitle>Archive Center - CES Working File 3</unittitle>
-            <unitdate>1974 July-August</unitdate>
-            <container id="5f6108f2b0a3261afe8aa6b492968957" label="mixed materials (A0000000054917)" type="box">1</container>
-            <container id="67a1dbfde1c4a85b2c55bd581f99f1d6" parent="5f6108f2b0a3261afe8aa6b492968957" type="folder">7</container>
-          </did>
-        </c>
-        <c id="6288fa92da6c49b6a97bff2a8ebacc4c" level="file">
-          <did>
-            <unittitle>Archive Center - CES Working File</unittitle>
-            <unitdate>1974 August-1975 January</unitdate>
-            <container id="ae4e664860132b4586bf09df34071042" label="mixed materials (A0000000054917)" type="box">1</container>
-            <container id="71079d4ea49c0bb685fb183a93c92538" parent="ae4e664860132b4586bf09df34071042" type="folder">8</container>
-          </did>
-        </c>
-        <c id="197a3cd39bf04d9ab81b5ef3f42bb5af" level="file">
-          <did>
-            <unittitle>Archive Center - CES Working File</unittitle>
-            <unitdate>1975 February-October</unitdate>
-            <container id="792922174f894f7ab150979fc2d8efd0" label="mixed materials (A0000000054918)" type="box">2</container>
-            <container id="b3b9346b1295dbabb2d71e4d0328fa68" parent="792922174f894f7ab150979fc2d8efd0" type="folder">1</container>
-          </did>
-        </c>
-        <c id="e629f32428494c42a8137a798346764c" level="file">
-          <did>
-            <unittitle>Archive Center - CES Working File</unittitle>
-            <unitdate>1975 November-1976 June</unitdate>
-            <container id="15f681337416bb31d990640fd384da8d" label="mixed materials (A0000000054918)" type="box">2</container>
-            <container id="88b668e6587227787dd35eb40b176c3f" parent="15f681337416bb31d990640fd384da8d" type="folder">2</container>
-          </did>
-        </c>
-        <c id="5fa85ad3b610416eaa5772970f36e93a" level="file">
-          <did>
-            <unittitle>Archive Drafts</unittitle>
-            <unitdate normal="1976/1976" type="inclusive">1976</unitdate>
-            <container id="7e54b5e786e477c9f49e083466874c2c" label="mixed materials (A0000000054918)" type="box">2</container>
-            <container id="54648f679e1b04efb654fe0e6ed64424" parent="7e54b5e786e477c9f49e083466874c2c" type="folder">3</container>
-          </did>
-        </c>
-        <c id="44dbd1f01eb843d591d880cdacfdaf86" level="file">
-          <did>
-            <unittitle>Archive Center - CES Working File, Photographs and Artist's Conceptions</unittitle>
-            <unitdate>undated</unitdate>
-            <container id="7941f9724c2720defa9351b9c608b96e" label="mixed materials (A0000000054918)" type="box">2</container>
-            <container id="22fceeaff83932345d82e6e2fa21024d" parent="7941f9724c2720defa9351b9c608b96e" type="folder">4</container>
-          </did>
-        </c>
-        <c id="2759fcee466e41d0bed1ac6062590374" level="file">
-          <did>
-            <unittitle>The Chemical Foundation - Francis P. Garvan</unittitle>
-            <unitdate normal="1971/1971" type="inclusive">1971</unitdate>
-            <container id="9a1d68dffc07e57a377f645a8682814b" label="mixed materials (A0000000054918)" type="box">2</container>
-            <container id="0f29cc3fedede37aa33560d843a9f90f" parent="9a1d68dffc07e57a377f645a8682814b" type="folder">5</container>
-          </did>
-        </c>
-        <c id="6e193ea8ec3e4633a09e605669708363" level="file">
-          <did>
-            <unittitle>Rockefeller Archives Center, memos regarding construction</unittitle>
-            <unitdate normal="1973/1974" type="inclusive">1973-1974</unitdate>
-            <container id="f9bd9cb0ccfbd6e2c0dcf6e57d2cb61c" label="mixed materials (A0000000054918)" type="box">2</container>
-            <container id="d4c2d5963576ee592e547fa86df6893a" parent="f9bd9cb0ccfbd6e2c0dcf6e57d2cb61c" type="folder">6</container>
-          </did>
-        </c>
-        <c id="3b2fa6b1138140b29ec617474cf34f7c" level="file">
-          <did>
-            <unittitle>Archive Center: Papers thru - File 1 (Bronk Administration)</unittitle>
-            <unitdate>1968 April</unitdate>
-            <container id="81cfa3b9073fdb0fe5348461c599b3d3" label="mixed materials (A0000000054918)" type="box">2</container>
-            <container id="4a7c2e53a1bdd331745eae1278e7947b" parent="81cfa3b9073fdb0fe5348461c599b3d3" type="folder">7</container>
-          </did>
-        </c>
-        <c id="6125c07f8f5a4e9884e77645d2c8b465" level="file">
-          <did>
-            <unittitle>Archive Center: Papers from - File 2 (Seitz Administration)</unittitle>
-            <unitdate>1968 June-1969 December</unitdate>
-            <container id="a759c9fb263b8e58ff5a2a2ed8065113" label="mixed materials (A0000000054918)" type="box">2</container>
-            <container id="b739f5ec43a091643295f250794584d4" parent="a759c9fb263b8e58ff5a2a2ed8065113" type="folder">8</container>
-          </did>
-        </c>
-        <c id="e4a8c0ab844240acbd17c5aa6641d5f8" level="file">
-          <did>
-            <unittitle>Archive Center: File 3, papers from</unittitle>
-            <unitdate normal="1970/1970" type="inclusive">1970</unitdate>
-            <container id="2b22c21e4db692540c093d3c8c915154" label="mixed materials (A0000000054918)" type="box">2</container>
-            <container id="1ca4c543fbefe00785d794e12862e521" parent="2b22c21e4db692540c093d3c8c915154" type="folder">9</container>
-          </did>
-        </c>
-        <c id="32faa8df430d437885bbedbb8430a057" level="file">
-          <did>
-            <unittitle>Archive Center: File 4</unittitle>
-            <unitdate normal="1971/1971" type="inclusive">1971</unitdate>
-            <container id="a184b8d0979e16a174bac509423aa7c0" label="mixed materials (A0000000054919)" type="box">3</container>
-            <container id="f4e69f600ece835dbeb1107979b4f214" parent="a184b8d0979e16a174bac509423aa7c0" type="folder">1</container>
-          </did>
-        </c>
-        <c id="ad5aaf762b214c3b812bee6baf89d41f" level="file">
-          <did>
-            <unittitle>Archive Center: File 4</unittitle>
-            <unitdate>1972 January-March 27</unitdate>
-            <container id="aff296ccfdf927147703cf5c359d55c2" label="mixed materials (A0000000054919)" type="box">3</container>
-            <container id="0c1e5ff01b9e3bee4ec54c0f4e8055f7" parent="aff296ccfdf927147703cf5c359d55c2" type="folder">2</container>
-          </did>
-        </c>
-        <c id="ca072e93ddd74841b77aae14b1dddc9a" level="file">
-          <did>
-            <unittitle>Archive Center: File 4</unittitle>
-            <unitdate>1972 March 28-April 18</unitdate>
-            <container id="e62d8eb1edbba9de7a5cc94b00313d49" label="mixed materials (A0000000054919)" type="box">3</container>
-            <container id="b33a128cea50ee0639952e263d6f0251" parent="e62d8eb1edbba9de7a5cc94b00313d49" type="folder">3</container>
-          </did>
-        </c>
-        <c id="7955d989ebc845e9851c32d9f7704165" level="file">
-          <did>
-            <unittitle>Archive Center: File 4</unittitle>
-            <unitdate>1972 April 24-June 15</unitdate>
-            <container id="92a0269b2d8f80b6a54005014c3c4ee6" label="mixed materials (A0000000054919)" type="box">3</container>
-            <container id="78c9cc906866a28858df8e8e60fa7d33" parent="92a0269b2d8f80b6a54005014c3c4ee6" type="folder">4</container>
-          </did>
-        </c>
-        <c id="c95bc3ea08334674914fee113ce5c089" level="file">
-          <did>
-            <unittitle>Archive Center: File 4</unittitle>
-            <unitdate>1972 July 7-1973 October 11</unitdate>
-            <container id="d045cc7cc4ff16764f857982641639ee" label="mixed materials (A0000000054919)" type="box">3</container>
-            <container id="ac17f39d9b9376812cf949a75725d300" parent="d045cc7cc4ff16764f857982641639ee" type="folder">5</container>
-          </did>
-        </c>
-        <c id="0c2261d4a19d45efaa6d2ffc61571a3b" level="file">
-          <did>
-            <unittitle>Archive Center</unittitle>
-            <unitdate normal="1972/1973" type="inclusive">1972-1973</unitdate>
-            <container id="c314391a6ba1f869a2e245e2ec6d61eb" label="mixed materials (A0000000054920)" type="box">4</container>
-            <container id="7db0376f6c11c70fb88f5ab6b2fc065b" parent="c314391a6ba1f869a2e245e2ec6d61eb" type="folder">1</container>
-          </did>
-        </c>
-        <c id="30f0d527bd74459a9dbf511324dafe6e" level="file">
-          <did>
-            <unittitle>Archive Center: File 5</unittitle>
-            <unitdate>1973 October 4-1974 January</unitdate>
-            <container id="68185a14b062123d067c821b38379cd9" label="mixed materials (A0000000054920)" type="box">4</container>
-            <container id="9f3fccdb9ce352ccdc4da1c375bb2769" parent="68185a14b062123d067c821b38379cd9" type="folder">2</container>
-          </did>
-        </c>
-        <c id="9502d2a48dd546759b10a5324d579863" level="file">
-          <did>
-            <unittitle>Archive Center</unittitle>
-            <unitdate>1974 January-June</unitdate>
-            <container id="85572300afd2a1284a21b498506decb8" label="mixed materials (A0000000054920)" type="box">4</container>
-            <container id="b842a6a8b5c832ee823eae57a8632c52" parent="85572300afd2a1284a21b498506decb8" type="folder">3</container>
-          </did>
-        </c>
-        <c id="f0a8cd42a8ae4677ab60228afaa3c022" level="file">
-          <did>
-            <unittitle>Archive Center: File 5</unittitle>
-            <unitdate>1974 February-March</unitdate>
-            <container id="25113fcae7144dfb5a665b388be2bf94" label="mixed materials (A0000000054920)" type="box">4</container>
-            <container id="22f473319db3322c05034cd797e75416" parent="25113fcae7144dfb5a665b388be2bf94" type="folder">4</container>
-          </did>
-        </c>
-        <c id="17a550aa09b547fd8fbe1d21beb30924" level="file">
-          <did>
-            <unittitle>Archive Center</unittitle>
-            <unitdate>1974 July-August</unitdate>
-            <container id="81b19ea4404cf276fc3946605a4be184" label="mixed materials (A0000000054920)" type="box">4</container>
-            <container id="da251adf8f3207cf97dddf55fa407eaa" parent="81b19ea4404cf276fc3946605a4be184" type="folder">5</container>
-          </did>
-        </c>
-        <c id="595d1da8761947c6a9cb7d3937d75735" level="file">
-          <did>
-            <unittitle>Archive Center</unittitle>
-            <unitdate>1974 September-December</unitdate>
-            <container id="a20d27fac7e20fc32b0c9b2f4256ee42" label="mixed materials (A0000000054920)" type="box">4</container>
-            <container id="973dcccd8ac63aa2f6dd7fcbb72c773c" parent="a20d27fac7e20fc32b0c9b2f4256ee42" type="folder">6</container>
-          </did>
-        </c>
-        <c id="46fc869d7b4c4278b146aee099ec5ef9" level="file">
-          <did>
-            <unittitle>Archive Center: File 5</unittitle>
-            <unitdate>1974 April-June</unitdate>
-            <container id="f09b006e9451131c8d149995513dd7f3" label="mixed materials (A0000000054921)" type="box">5</container>
-            <container id="043bbd27089b855dddefff5592c21d0a" parent="f09b006e9451131c8d149995513dd7f3" type="folder">1</container>
-          </did>
-        </c>
-        <c id="036c88a2570a442999152fa4d9d126ed" level="file">
-          <did>
-            <unittitle>Archive Center: File 6</unittitle>
-            <unitdate>1974 July-September</unitdate>
-            <container id="459a2d45699893a66356d9b839c39370" label="mixed materials (A0000000054921)" type="box">5</container>
-            <container id="0242f15d37d22b9eb66973197ea94c4a" parent="459a2d45699893a66356d9b839c39370" type="folder">2</container>
-          </did>
-        </c>
-        <c id="0fbd55504d3c47e796999e98babd90a6" level="file">
-          <did>
-            <unittitle>Archive Center: File 6</unittitle>
-            <unitdate>1974 October-1975 February</unitdate>
-            <container id="2e6d4ee454d98432f2749bce699e3a8e" label="mixed materials (A0000000054921)" type="box">5</container>
-            <container id="b2389e74a4f21f52f1ba2b5d6b6909c6" parent="2e6d4ee454d98432f2749bce699e3a8e" type="folder">3</container>
-          </did>
-        </c>
-        <c id="3f351a8df10f40678c72517bab7ea1eb" level="file">
-          <did>
-            <unittitle>Archive Center</unittitle>
-            <unitdate>1975 January-December</unitdate>
-            <container id="6243890152cbf7337b34ee116bc245b8" label="mixed materials (A0000000054921)" type="box">5</container>
-            <container id="77b6195abb965f1401e9c886e1881529" parent="6243890152cbf7337b34ee116bc245b8" type="folder">4</container>
-          </did>
-        </c>
-        <c id="2d7caadbd2af48b883d6ea9224f634be" level="file">
-          <did>
-            <unittitle>Archive Center: File 7</unittitle>
-            <unitdate>1975 March-1976 February</unitdate>
-            <container id="9c7879cd79c2ccb6baa99e15ee2fa1e5" label="mixed materials (A0000000054921)" type="box">5</container>
-            <container id="4734d2d7a40434b339f477fcd17c9335" parent="9c7879cd79c2ccb6baa99e15ee2fa1e5" type="folder">5</container>
-          </did>
-        </c>
-        <c id="41527c63e6e34e4ea9e7b178a84aef14" level="file">
-          <did>
-            <unittitle>Archive Center: File 7</unittitle>
-            <unitdate>1976 March-May</unitdate>
-            <container id="5b5d18856d890181f77d34678bc7dd70" label="mixed materials (A0000000054921)" type="box">5</container>
-            <container id="7531653ad693abfbb9efd816cfe30884" parent="5b5d18856d890181f77d34678bc7dd70" type="folder">6</container>
-          </did>
-        </c>
-        <c id="426d78a0f0954784aa4617383eba6c94" level="file">
-          <did>
-            <unittitle>Archive Center: File 7</unittitle>
-            <unitdate>1976 June-August</unitdate>
-            <container id="33de7004d7c4dffbaf9a641726df75b4" label="mixed materials (A0000000054922)" type="box">6</container>
-            <container id="ccf8c798dc123150fe33d3a0a12abd83" parent="33de7004d7c4dffbaf9a641726df75b4" type="folder">1</container>
-          </did>
-        </c>
-        <c id="ae9d743d89574d88978c0222a0df33b2" level="file">
-          <did>
-            <unittitle>Archive Center: File 8</unittitle>
-            <unitdate>1976 September-November</unitdate>
-            <container id="512d144d08a95834438e731fab7ce628" label="mixed materials (A0000000054922)" type="box">6</container>
-            <container id="6672500c89a932e0e71b970f8555ee92" parent="512d144d08a95834438e731fab7ce628" type="folder">2</container>
-          </did>
-        </c>
-        <c id="8589ac6a1f514010b182667b7a06b507" level="file">
-          <did>
-            <unittitle>Archive Center: File 8</unittitle>
-            <unitdate>1976 December-1977 December</unitdate>
-            <container id="678b5ba1f2c4897e72f06fd9ebdc3936" label="mixed materials (A0000000054922)" type="box">6</container>
-            <container id="0bebc60bcba3b63e7e9be63dce72984f" parent="678b5ba1f2c4897e72f06fd9ebdc3936" type="folder">3</container>
-          </did>
-        </c>
-        <c id="5e666a160d27472ea5de7d130a24633a" level="file">
-          <did>
-            <unittitle>Archive Center: File 9</unittitle>
-            <unitdate normal="1977/1978" type="inclusive">1977-1978</unitdate>
-            <container id="faff25b598470641cb31ac170323e7f2" label="mixed materials (A0000000054922)" type="box">6</container>
-            <container id="08b6ea321e8c3acffed33f01421b0dd4" parent="faff25b598470641cb31ac170323e7f2" type="folder">4</container>
-          </did>
-        </c>
-      </c>
-    </dsc>
-  </archdesc>
+FA819 Rockefeller University records, President, Frederick Seitz, Personal, Biographical and Miscellaneous, Series 6.</p>  </otherfindaid>
+  <accessrestrict id="c95d0f5173ba95d62debbbe16ba52592">
+    <head>Conditions Governing Access note</head>
+<p>Records more than 25 years old are open for research with select materials restricted as noted. Brittle or damaged items are available at the discretion of RAC. Material in the Rockefeller family collections that provides the names, correspondence, or activities of living members of the Rockefeller family, and/or documents the net wealth of any Rockefeller family members, is restricted from scholarly access. Researchers interested in accessing digital media (floppy disks, CDs, DVDs, etc.) or audiovisual material (audio cassettes, VHS, etc.) in this collection must use an access surrogate. The original items may not be accessed because of preservation concerns. To request an access surrogate be made, or if you are unsure if there is an access surrogate, please contact an archivist.</p>  </accessrestrict>
+  <arrangement id="7186b0683fc326a36fed81713923b599">
+    <head>Arrangement</head>
+<p>Archive Center records are arranged chronologically.</p>  </arrangement>
+  <scopecontent id="ab2fcd7c0eb3f55538a2028ea7f0bcd7">
+    <head>Scope and Contents</head>
+<p>Contains working files.</p>  </scopecontent>
+  <controlaccess>
+    <subject source="lcsh">Operations management</subject>
+    <subject source="lcsh">Physical sciences</subject>
+    <subject source="lcsh">Urban policy -- New York (State) -- New York</subject>
+    <subject source="lcsh">Regional planning -- New York (N.Y.)</subject>
+    <subject source="lcsh">Physics</subject>
+    <geogname source="lcsh">New York (N.Y.)</geogname>
+    <subject source="lcsh">Biology -- Research</subject>
+  </controlaccess>
+  <dsc><c id="dbdc268f43544342a3471e6be2961665" level="series"><did><unittitle>Archive Center</unittitle><unitid>3</unitid><physdesc altrender="whole"><extent altrender="materialtype spaceoccupied">2.64 Cubic Feet</extent><extent altrender="carrier">6 document boxes</extent></physdesc><unitdate normal="1971/1977" type="inclusive">1971-1977</unitdate></did><scopecontent id="9e14934eed136ae1ba18789abe4a3977"><head>Scope and Contents note</head><p>Includes Working Files.</p></scopecontent><arrangement id="66d784547b1de6b136ff4ca5a89bd0c1"><head>Arrangement note</head><p>Arranged in chronological order.</p></arrangement><c id="9a7cee3898324d79b44d1da9bcc618cb" level="file"><did><unittitle>Archive Center: Appraisal and Reports</unittitle><unitdate>undated</unitdate><container altrender="Letter Document Storage Box" id="fae49378d3438f479ab59f87491e98b3" label="mixed materials [A0000000054917]" type="box">1</container><container id="907773a3f2b2c434d65eefdd97186d98" parent="fae49378d3438f479ab59f87491e98b3" type="folder">1</container></did></c><c id="5df2f5be9286400a98bbcea9282b64b6" level="file"><did><unittitle>Archive Center - CES Working File-Nelson Aldrich proposal for Library-Archives on RU campus</unittitle><unitdate normal="1971/1971" type="inclusive">1971</unitdate><container altrender="Letter Document Storage Box" id="eae8990b7535cf565f425e583395f703" label="mixed materials [A0000000054917]" type="box">1</container><container id="af52e462f7c0bef8ecdbeb635c677961" parent="eae8990b7535cf565f425e583395f703" type="folder">2</container></did></c><c id="4e91ce0133154d389c5f5fb527962246" level="file"><did><unittitle>Archive Center - CES Working File-excerpts from minutes</unittitle><unitdate normal="1966/1972" type="inclusive">1966-1972</unitdate><container altrender="Letter Document Storage Box" id="6ab1d8bd8d3bc4d544beace1b5d93f56" label="mixed materials [A0000000054917]" type="box">1</container><container id="f95eea72c0ec7c4f0d65f5f4b8032ae7" parent="6ab1d8bd8d3bc4d544beace1b5d93f56" type="folder">3</container></did></c><c id="9a87e34fd25d432d8e401b595af0c275" level="file"><did><unittitle>Archive Center - CES Working File-Dr. Sunderlin: visit to Boston</unittitle><unitdate>1972 October 6</unitdate><container altrender="Letter Document Storage Box" id="9bf37096c1930ac8cb8aa0371a80c13e" label="mixed materials [A0000000054917]" type="box">1</container><container id="b5dda72219b84d36f0fd08248c12fc1d" parent="9bf37096c1930ac8cb8aa0371a80c13e" type="folder">4</container></did></c><c id="d0a0290610904c56b898940c055478c7" level="file"><did><unittitle>Archive Center - CES Working File 1</unittitle><unitdate>1973 April-1974 January</unitdate><container altrender="Letter Document Storage Box" id="aafc1f020b297e65fd026bd3ff22c451" label="mixed materials [A0000000054917]" type="box">1</container><container id="ada866fa90607643b35e922520138905" parent="aafc1f020b297e65fd026bd3ff22c451" type="folder">5</container></did></c><c id="dc520fd48e1c4128a4c6ba456d148e93" level="file"><did><unittitle>Archive Center - CES Working File 2</unittitle><unitdate>1974 February-June</unitdate><container altrender="Letter Document Storage Box" id="046791c2a7b9ee3985c2d3847eea2bc8" label="mixed materials [A0000000054917]" type="box">1</container><container id="bb740c6216ba74e1edb27e924f513d4b" parent="046791c2a7b9ee3985c2d3847eea2bc8" type="folder">6</container></did></c><c id="83a8ff70294e46b0a6d32d455d7838a0" level="file"><did><unittitle>Archive Center - CES Working File 3</unittitle><unitdate>1974 July-August</unitdate><container altrender="Letter Document Storage Box" id="7f39968863267a6e2a7cb8b416e4f300" label="mixed materials [A0000000054917]" type="box">1</container><container id="c1a8474c289153b2bfdc359b48141c06" parent="7f39968863267a6e2a7cb8b416e4f300" type="folder">7</container></did></c><c id="6288fa92da6c49b6a97bff2a8ebacc4c" level="file"><did><unittitle>Archive Center - CES Working File</unittitle><unitdate>1974 August-1975 January</unitdate><container altrender="Letter Document Storage Box" id="7352f4a07172e15f1c747163d0964f28" label="mixed materials [A0000000054917]" type="box">1</container><container id="9a83fdaf600d5e6fd2b22f235f0c4d81" parent="7352f4a07172e15f1c747163d0964f28" type="folder">8</container></did></c><c id="197a3cd39bf04d9ab81b5ef3f42bb5af" level="file"><did><unittitle>Archive Center - CES Working File</unittitle><unitdate>1975 February-October</unitdate><container altrender="Letter Document Storage Box" id="01c2435872769fe1212c833f5ef5fafd" label="mixed materials [A0000000054918]" type="box">2</container><container id="ce95adc31f3f070af6001e5d3895c2ee" parent="01c2435872769fe1212c833f5ef5fafd" type="folder">1</container></did></c><c id="e629f32428494c42a8137a798346764c" level="file"><did><unittitle>Archive Center - CES Working File</unittitle><unitdate>1975 November-1976 June</unitdate><container altrender="Letter Document Storage Box" id="d60243cb81666dfc353b0d5287315e7d" label="mixed materials [A0000000054918]" type="box">2</container><container id="e6e8757fdd84948732d14c70bc10708b" parent="d60243cb81666dfc353b0d5287315e7d" type="folder">2</container></did></c><c id="5fa85ad3b610416eaa5772970f36e93a" level="file"><did><unittitle>Archive Drafts</unittitle><unitdate normal="1976/1976" type="inclusive">1976</unitdate><container altrender="Letter Document Storage Box" id="cfd8bfb4b528313c126374e29eb72125" label="mixed materials [A0000000054918]" type="box">2</container><container id="858011361df19d638b5cbfa3f6af9478" parent="cfd8bfb4b528313c126374e29eb72125" type="folder">3</container></did></c><c id="44dbd1f01eb843d591d880cdacfdaf86" level="file"><did><unittitle>Archive Center - CES Working File, Photographs and Artist's Conceptions</unittitle><unitdate>undated</unitdate><container altrender="Letter Document Storage Box" id="8b2d9475e8d492be50544f1ce42a1d7d" label="mixed materials [A0000000054918]" type="box">2</container><container id="dd617403015ed522378877408345e02d" parent="8b2d9475e8d492be50544f1ce42a1d7d" type="folder">4</container></did></c><c id="2759fcee466e41d0bed1ac6062590374" level="file"><did><unittitle>The Chemical Foundation - Francis P. Garvan</unittitle><unitdate normal="1971/1971" type="inclusive">1971</unitdate><container altrender="Letter Document Storage Box" id="80b01dbbdb075078972f70b2180ac5b8" label="mixed materials [A0000000054918]" type="box">2</container><container id="23b40a1b061e2b97a8313c323d5e283c" parent="80b01dbbdb075078972f70b2180ac5b8" type="folder">5</container></did></c><c id="6e193ea8ec3e4633a09e605669708363" level="file"><did><unittitle>Rockefeller Archives Center, memos regarding construction</unittitle><unitdate normal="1973/1974" type="inclusive">1973-1974</unitdate><container altrender="Letter Document Storage Box" id="e9f2a8a838f3fcaef9e40d507aabc3cd" label="mixed materials [A0000000054918]" type="box">2</container><container id="08b241820d078cfb710444f55e6eaa02" parent="e9f2a8a838f3fcaef9e40d507aabc3cd" type="folder">6</container></did></c><c id="3b2fa6b1138140b29ec617474cf34f7c" level="file"><did><unittitle>Archive Center: Papers thru - File 1 (Bronk Administration)</unittitle><unitdate>1968 April</unitdate><container altrender="Letter Document Storage Box" id="96f51ccfafd94ec85f4d4face8d0dab8" label="mixed materials [A0000000054918]" type="box">2</container><container id="335aafc368b8aef1e36e5ca8b1bb2e1c" parent="96f51ccfafd94ec85f4d4face8d0dab8" type="folder">7</container></did></c><c id="6125c07f8f5a4e9884e77645d2c8b465" level="file"><did><unittitle>Archive Center: Papers from - File 2 (Seitz Administration)</unittitle><unitdate>1968 June-1969 December</unitdate><container altrender="Letter Document Storage Box" id="9a1036978ed58eba34726f0badbc4c91" label="mixed materials [A0000000054918]" type="box">2</container><container id="24f422a7b182b1668bc1ac47c1d4de13" parent="9a1036978ed58eba34726f0badbc4c91" type="folder">8</container></did></c><c id="e4a8c0ab844240acbd17c5aa6641d5f8" level="file"><did><unittitle>Archive Center: File 3, papers from</unittitle><unitdate normal="1970/1970" type="inclusive">1970</unitdate><container altrender="Letter Document Storage Box" id="c546473902bea7a722e33f317692feb9" label="mixed materials [A0000000054918]" type="box">2</container><container id="379a28bdc0e9df3ff36968694e91a52f" parent="c546473902bea7a722e33f317692feb9" type="folder">9</container></did></c><c id="32faa8df430d437885bbedbb8430a057" level="file"><did><unittitle>Archive Center: File 4</unittitle><unitdate normal="1971/1971" type="inclusive">1971</unitdate><container altrender="Letter Document Storage Box" id="0408dcbdcd6d3a49c45ef1c6a35408bd" label="mixed materials [A0000000054919]" type="box">3</container><container id="9bdb8640a1c4d03b2edfe0ed0a882f87" parent="0408dcbdcd6d3a49c45ef1c6a35408bd" type="folder">1</container></did></c><c id="ad5aaf762b214c3b812bee6baf89d41f" level="file"><did><unittitle>Archive Center: File 4</unittitle><unitdate>1972 January-March 27</unitdate><container altrender="Letter Document Storage Box" id="5b0e8fd93d82f789f2520fd7463cf275" label="mixed materials [A0000000054919]" type="box">3</container><container id="afcd90c120d9ae8270e2ed88008b9eec" parent="5b0e8fd93d82f789f2520fd7463cf275" type="folder">2</container></did></c><c id="ca072e93ddd74841b77aae14b1dddc9a" level="file"><did><unittitle>Archive Center: File 4</unittitle><unitdate>1972 March 28-April 18</unitdate><container altrender="Letter Document Storage Box" id="d6e60be159d9d8a5ec787c6df42feaa1" label="mixed materials [A0000000054919]" type="box">3</container><container id="fc378aae82024d05a1a27161f22e43e9" parent="d6e60be159d9d8a5ec787c6df42feaa1" type="folder">3</container></did></c><c id="7955d989ebc845e9851c32d9f7704165" level="file"><did><unittitle>Archive Center: File 4</unittitle><unitdate>1972 April 24-June 15</unitdate><container altrender="Letter Document Storage Box" id="e7a38ec58ea15c0ca32692a70e7da13a" label="mixed materials [A0000000054919]" type="box">3</container><container id="458c45039b4a745c289dc6c5453d0f1c" parent="e7a38ec58ea15c0ca32692a70e7da13a" type="folder">4</container></did></c><c id="c95bc3ea08334674914fee113ce5c089" level="file"><did><unittitle>Archive Center: File 4</unittitle><unitdate>1972 July 7-1973 October 11</unitdate><container altrender="Letter Document Storage Box" id="de0da28b4ec2c4bfda2eda16b5e5e8dc" label="mixed materials [A0000000054919]" type="box">3</container><container id="8281706d4b2de493dae8fd8ffdd0e57a" parent="de0da28b4ec2c4bfda2eda16b5e5e8dc" type="folder">5</container></did></c><c id="0c2261d4a19d45efaa6d2ffc61571a3b" level="file"><did><unittitle>Archive Center</unittitle><unitdate normal="1972/1973" type="inclusive">1972-1973</unitdate><container altrender="Letter Document Storage Box" id="34fdb512430daf3b2a7b69ffd6d6b299" label="mixed materials [A0000000054920]" type="box">4</container><container id="a5be40a4d7bc260021bc712414ebd37c" parent="34fdb512430daf3b2a7b69ffd6d6b299" type="folder">1</container></did></c><c id="30f0d527bd74459a9dbf511324dafe6e" level="file"><did><unittitle>Archive Center: File 5</unittitle><unitdate>1973 October 4-1974 January</unitdate><container altrender="Letter Document Storage Box" id="18bfe3cf1d00bf043911d5d47b4a8f2c" label="mixed materials [A0000000054920]" type="box">4</container><container id="714fbd7443de6e4cd899fe3fbb03e5cb" parent="18bfe3cf1d00bf043911d5d47b4a8f2c" type="folder">2</container></did></c><c id="9502d2a48dd546759b10a5324d579863" level="file"><did><unittitle>Archive Center</unittitle><unitdate>1974 January-June</unitdate><container altrender="Letter Document Storage Box" id="12863a464eac82949553dc945be49c1a" label="mixed materials [A0000000054920]" type="box">4</container><container id="ae06a2fb6cbd20f7ef679380e20e788d" parent="12863a464eac82949553dc945be49c1a" type="folder">3</container></did></c><c id="f0a8cd42a8ae4677ab60228afaa3c022" level="file"><did><unittitle>Archive Center: File 5</unittitle><unitdate>1974 February-March</unitdate><container altrender="Letter Document Storage Box" id="27d66062ec79ad334e9bcafcf9268c16" label="mixed materials [A0000000054920]" type="box">4</container><container id="70b3cc9b764fd8c2a918a8a5da3551d1" parent="27d66062ec79ad334e9bcafcf9268c16" type="folder">4</container></did></c><c id="17a550aa09b547fd8fbe1d21beb30924" level="file"><did><unittitle>Archive Center</unittitle><unitdate>1974 July-August</unitdate><container altrender="Letter Document Storage Box" id="0904b03cca1109586d76314293833f08" label="mixed materials [A0000000054920]" type="box">4</container><container id="3f38e1bd8286d82eb571ae96c132fb61" parent="0904b03cca1109586d76314293833f08" type="folder">5</container></did></c><c id="595d1da8761947c6a9cb7d3937d75735" level="file"><did><unittitle>Archive Center</unittitle><unitdate>1974 September-December</unitdate><container altrender="Letter Document Storage Box" id="6a78c46839c511a75a30273fd943f9f3" label="mixed materials [A0000000054920]" type="box">4</container><container id="8352f0303d6ec2d9417040948924cdb7" parent="6a78c46839c511a75a30273fd943f9f3" type="folder">6</container></did></c><c id="46fc869d7b4c4278b146aee099ec5ef9" level="file"><did><unittitle>Archive Center: File 5</unittitle><unitdate>1974 April-June</unitdate><container altrender="Letter Document Storage Box" id="ffaf54c98526a31bf0ba60fe4b4c4649" label="mixed materials [A0000000054921]" type="box">5</container><container id="ca7b568ea5ec7671346f13d96d454d39" parent="ffaf54c98526a31bf0ba60fe4b4c4649" type="folder">1</container></did></c><c id="036c88a2570a442999152fa4d9d126ed" level="file"><did><unittitle>Archive Center: File 6</unittitle><unitdate>1974 July-September</unitdate><container altrender="Letter Document Storage Box" id="ed562b014c37e29e6a12fef87c9ccc67" label="mixed materials [A0000000054921]" type="box">5</container><container id="c32665b88183c34469a75d6d8282234c" parent="ed562b014c37e29e6a12fef87c9ccc67" type="folder">2</container></did></c><c id="0fbd55504d3c47e796999e98babd90a6" level="file"><did><unittitle>Archive Center: File 6</unittitle><unitdate>1974 October-1975 February</unitdate><container altrender="Letter Document Storage Box" id="13fd633d5614c5ff50adb1b32aedbfb5" label="mixed materials [A0000000054921]" type="box">5</container><container id="d60b276911b06462d32aae3022bb0284" parent="13fd633d5614c5ff50adb1b32aedbfb5" type="folder">3</container></did></c><c id="3f351a8df10f40678c72517bab7ea1eb" level="file"><did><unittitle>Archive Center</unittitle><unitdate>1975 January-December</unitdate><container altrender="Letter Document Storage Box" id="207189caa5977df8f9a8f4f39f81a027" label="mixed materials [A0000000054921]" type="box">5</container><container id="c6a42a6061c4eb161b410ffded4c6f7c" parent="207189caa5977df8f9a8f4f39f81a027" type="folder">4</container></did></c><c id="2d7caadbd2af48b883d6ea9224f634be" level="file"><did><unittitle>Archive Center: File 7</unittitle><unitdate>1975 March-1976 February</unitdate><container altrender="Letter Document Storage Box" id="1ec4fa564863b9f8f612420d900e7738" label="mixed materials [A0000000054921]" type="box">5</container><container id="fa70bb7a1a9c13757480755a85b24f12" parent="1ec4fa564863b9f8f612420d900e7738" type="folder">5</container></did></c><c id="41527c63e6e34e4ea9e7b178a84aef14" level="file"><did><unittitle>Archive Center: File 7</unittitle><unitdate>1976 March-May</unitdate><container altrender="Letter Document Storage Box" id="6fe4128a798c2a1b194f8167631f24e1" label="mixed materials [A0000000054921]" type="box">5</container><container id="03b92596efa688604bac4b3a4893f11b" parent="6fe4128a798c2a1b194f8167631f24e1" type="folder">6</container></did></c><c id="426d78a0f0954784aa4617383eba6c94" level="file"><did><unittitle>Archive Center: File 7</unittitle><unitdate>1976 June-August</unitdate><container altrender="Letter Document Storage Box" id="8a129c01bc0be9696664079a89bcf51a" label="mixed materials [A0000000054922]" type="box">6</container><container id="5f5f9771281c693cc85c268407c69666" parent="8a129c01bc0be9696664079a89bcf51a" type="folder">1</container></did></c><c id="ae9d743d89574d88978c0222a0df33b2" level="file"><did><unittitle>Archive Center: File 8</unittitle><unitdate>1976 September-November</unitdate><container altrender="Letter Document Storage Box" id="bcc4802b036a5cbf515b024de552abcb" label="mixed materials [A0000000054922]" type="box">6</container><container id="d56bd3aa676b1af3f29e50e97fd154f2" parent="bcc4802b036a5cbf515b024de552abcb" type="folder">2</container></did></c><c id="8589ac6a1f514010b182667b7a06b507" level="file"><did><unittitle>Archive Center: File 8</unittitle><unitdate>1976 December-1977 December</unitdate><container altrender="Letter Document Storage Box" id="be8ccb9cc232393eeb1528595b7056a0" label="mixed materials [A0000000054922]" type="box">6</container><container id="b3e5e2b634fcbf87e574da4de6e1bc75" parent="be8ccb9cc232393eeb1528595b7056a0" type="folder">3</container></did></c><c id="5e666a160d27472ea5de7d130a24633a" level="file"><did><unittitle>Archive Center: File 9</unittitle><unitdate normal="1977/1978" type="inclusive">1977-1978</unitdate><container altrender="Letter Document Storage Box" id="efaf70764bf5ab9c1f419ba3a56a19a3" label="mixed materials [A0000000054922]" type="box">6</container><container id="628d62d3687e84a57ef6e69ea7951153" parent="efaf70764bf5ab9c1f419ba3a56a19a3" type="folder">4</container></did></c></c></dsc>
+</archdesc>
 </ead>
