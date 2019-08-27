@@ -7,18 +7,18 @@
       <note>Produced by ArchivesSpace</note>
     </agent>
   </metsHdr>
-  <dmdSec ID="3043">
+  <dmdSec ID="3061">
     <mdWrap MDTYPE="MODS">
       <xmlData>
         <mods version="3.4" xmlns="http://www.loc.gov/mods/v3">
           <mods:titleInfo>
             <mods:title>99f97cd27a3f4df591bb671dbd4d5919.pdf</mods:title>
           </mods:titleInfo>
-          <mods:identifier type="local">1b3a4392-854a-4bf9-85a7-ab3e7f8eacca</mods:identifier>
+          <mods:identifier type="local">b22174d3-aab1-4b42-bdc5-eb4e0ca33456</mods:identifier>
           <mods:typeOfResource/>
           <mods:originInfo/>
           <mods:physicalDescription/>
-          <mods:note type="originalsloc">808d37f8-c856-4b2a-84b0-9c6f690a869f</mods:note>
+          <mods:note type="originalsloc">c03836a5-4849-47b0-b3df-53878170127d</mods:note>
           <mods:note displayLabel="Digital object made available by">Rockefeller Archive Center, 15 Dayton Avenue, Sleepy Hollow, 10591, U.S.A. (http://www.rockarch.org)</mods:note>
           <mods:relatedItem displayLabel="resource" type="host">
             <mods:name>John D. Rockefeller papers</mods:name>
@@ -33,13 +33,13 @@
     </mdWrap>
   </dmdSec>
   <amdSec>
-    <techMD ID="8152">
+    <techMD ID="8170">
       <mdWrap MDTYPE="PREMIS:OBJECT">
         <xmlData>
           <object version="2.2" xmlns="info:lc/xmlns/premis-v2" xsi:schemaLocation="info:lc/xmlns/premis-v2 http://www.loc.gov/standards/premis/v2/premis-v2-2.xsd" xsi:type="file">
             <objectIdentifier>
               <objectIdentifierType>ArchivesSpace identifier</objectIdentifierType>
-              <objectIdentifierValue>8152</objectIdentifierValue>
+              <objectIdentifierValue>8170</objectIdentifierValue>
             </objectIdentifier>
             <objectCharacteristics>
               <fixity>
@@ -61,19 +61,19 @@
   </amdSec>
   <fileSec>
     <fileGrp USE="">
-      <file AMDID="8152" GROUPID="3043" ID="8152">
-        <FLocat xlink:href="https://storage.rockarch.org/1b3a4392-854a-4bf9-85a7-ab3e7f8eacca-99f97cd27a3f4df591bb671dbd4d5919.pdf"/>
+      <file AMDID="8170" GROUPID="3061" ID="8170">
+        <FLocat xlink:href="https://storage.rockarch.org/b22174d3-aab1-4b42-bdc5-eb4e0ca33456-99f97cd27a3f4df591bb671dbd4d5919.pdf"/>
       </file>
     </fileGrp>
   </fileSec>
   <structMap TYPE="logical">
-    <div DMDID="3043" LABEL="99f97cd27a3f4df591bb671dbd4d5919.pdf" ORDER="1" TYPE="item">
-      <fptr FILEID="8152"/>
+    <div DMDID="3061" LABEL="99f97cd27a3f4df591bb671dbd4d5919.pdf" ORDER="1" TYPE="item">
+      <fptr FILEID="8170"/>
     </div>
   </structMap>
   <structMap TYPE="physical">
-    <div DMDID="3043" LABEL="99f97cd27a3f4df591bb671dbd4d5919.pdf" ORDER="1" TYPE="item">
-      <fptr FILEID="8152"/>
+    <div DMDID="3061" LABEL="99f97cd27a3f4df591bb671dbd4d5919.pdf" ORDER="1" TYPE="item">
+      <fptr FILEID="8170"/>
     </div>
   </structMap>
 </mets>
