@@ -1,159 +1,57 @@
-<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
-  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="under_revision" langencoding="iso639-2b" repositoryencoding="iso15511">
-    <eadid>FA903.xml</eadid>
-    <filedesc>
-      <titlestmt>
-        <titleproper type="filing">Rockefeller University records, Vice President, Frank Lappin Horsfall, Jr., Subject Files, Series 4</titleproper>
-        <titleproper>A Guide to the Rockefeller University records, Vice President, Frank Lappin Horsfall, Jr., Subject Files, Series 4
- <num>FA903</num></titleproper>
-      </titlestmt>
-      <publicationstmt>
-        <publisher>Rockefeller Archive Center</publisher>
-        <address>
-          <addressline>15 Dayton Avenue</addressline>
-          <addressline>Sleepy Hollow 10591</addressline>
-          <addressline>archive@rockarch.org</addressline>
-          <addressline>URL: <extptr xlink:href="http://www.rockarch.org" xlink:show="new" xlink:title="http://www.rockarch.org" xlink:type="simple"/></addressline>
-        </address>
-      </publicationstmt>
-    </filedesc>
-    <profiledesc>
-      <creation>This finding aid was produced using ArchivesSpace on <date>2018-03-15 00:30:23 -0400</date>.</creation>
-    </profiledesc>
-  </eadheader>
-  <archdesc level="series">
-    <did>
-      <langmaterial>
-        <language langcode="eng">English</language>
-      </langmaterial>
-      <repository>
-        <corpname>Rockefeller Archive Center</corpname>
-      </repository>
-      <unittitle>Rockefeller University records, Vice President, Frank Lappin Horsfall, Jr., Subject Files, Series 4</unittitle>
-      <origination label="creator">
-        <corpname role="aut" source="naf">Rockefeller University</corpname>
-      </origination>
-      <origination label="creator">
-        <persname role="aut" source="naf">Horsfall, Frank Lappin</persname>
-      </origination>
-      <origination label="creator">
-        <corpname role="aut" source="naf">Rockefeller Institute for Medical Research</corpname>
-      </origination>
-      <unitid>FA903</unitid>
-      <physdesc altrender="whole">
-        <extent altrender="materialtype spaceoccupied">1 box(es)</extent>
-      </physdesc>
-      <unitdate normal="1955/1969" type="inclusive">1955-1969</unitdate>
-      <physdesc id="3509e9149958cb2a62773378c05127ec">1 box.</physdesc>
-    </did>
-    <bioghist id="74e3a78e25852219820516c47dbff05e">
-      <head>Biographical/Historical note</head>
-      <p>The newly adopted By-Laws of 1953 provided for an elected Vice-President who was a member of the Board of Trustees. Thomas Milton Rivers was elected the first Vice-President of the newly constituted Board of Trustees and served as Director of The Institute, Director of the Department of Laboratories and Director of the Hospital until his retirement in 1955.</p>
-      <p>August 1955 amendments to the By-Laws abolished the elected Vice-President and the requirement which provided that he be a member of the Board of Trustees and called for one or more appointed Vice-Presidents. Further amendment, January 25, 1956 provided that the Board of Trustees elect one or more Vice-Presidents to discharge such functions as may be assigned to them by the President or by resolution duly accepted at any meeting.</p>
-      <p>Between 1955 and 1959 Frank Lappin Horsfall, Jr. held the position of Vice-President for Clinical Studies; between 1955 and 1964 Douglas Whitaker served as Vice-President for Administration (between 1961-64 changed to Vice-President for Academic Administration). In 1964/65 Maclyn McCarty was elected Vice-President with special responsibilities in the clinical sciences. He is at the same time, Physician-in-Chief. In 1965 Carl Pfaffmann was elected Vice-President and Professor to develop a program of research and graduate instruction in the behavioral and social sciences. In 1969/70 a third Vice-President was added. This position carries with it the role of Secretary to the Board of Trustees and was filled by Charles Eugene Sunderlin.</p>
-      <p>In 1972 the University trustees elected Rodney W. Nichols to a new post of Vice-President for Program planning. He had been the first Director of the Office of Program Planning and Development.</p>
-      <p>In 1973 Albert Gold was named Vice-President for Academic Resources. As Vice-President he also retains his responsibilities relating to Junior faculty (Director of Postdoctoral Affairs) with additional duties in connection with organization, operation and planning at the University.</p>
-      <p>In 1974, effective September 15, Maclyn McCarty retired as Physician-in-Chief of the Hospital, which post was then filled by Dr. Attalah Kappas.</p>
-      <p>June 30, 1976 Eugene Sunderlin retired as vice-president of the RU.</p>
-      <p>June 1978 Dr. Albert Gold resigned from the University and October 1978 Drs. McCarty and Pfaffmann having reached retirement age resigned their positions as Vice-President. Mr. Rodney Nichols was elected to a new position of executive Vice-President and Mr. David J. Lyons was elected to a new position as Vice-President and Controller with new managerial responsibilities.</p>
-    </bioghist>
-    <otherfindaid id="22a9f55b7254310300edcd95e7d3d85a">
-      <head>Other Finding Aids note</head>
-      <p>FA822 Rockefeller University records, Vice President, Frank Lappin Horsfall, Jr.</p>
-    </otherfindaid>
-    <arrangement id="b655bef610b7fa078ed4a19aa2fb1141">
-      <head>Arrangement note</head>
-      <p>Rockefeller University records, Vice President, Frank Lappin Horsfall, Jr is arranged in 3 series:</p>
-      <p>Series 2: Administrative Correspondence. 
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="under_revision" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid>FA903.xml</eadid><filedesc><titlestmt><titleproper type="filing">Rockefeller University records, Vice President, Frank Lappin Horsfall, Jr., Subject Files, Series 4</titleproper><titleproper>A Guide to the Rockefeller University records, Vice President, Frank Lappin Horsfall, Jr., Subject Files, Series 4
+ <num>FA903</num></titleproper></titlestmt><publicationstmt><publisher>Rockefeller Archive Center</publisher><address><addressline>15 Dayton Avenue</addressline><addressline>Sleepy Hollow 10591</addressline><addressline>archive@rockarch.org</addressline><addressline>URL: <extptr xlink:href="http://www.rockarch.org" xlink:show="new" xlink:title="http://www.rockarch.org" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2019-08-28 00:16:47 -0400</date>.</creation></profiledesc></eadheader><archdesc level="series">
+  <did>
+    <langmaterial>
+      <language langcode="eng">English</language>
+    </langmaterial>
+    <repository>
+      <corpname>Rockefeller Archive Center</corpname>
+    </repository>
+    <unittitle>Rockefeller University records, Vice President, Frank Lappin Horsfall, Jr., Subject Files, Series 4</unittitle>
+    <origination label="creator">
+      <corpname role="aut" source="naf">Rockefeller University</corpname>
+    </origination>
+    <origination label="creator">
+      <persname role="aut" source="naf">Horsfall, Frank Lappin</persname>
+    </origination>
+    <origination label="creator">
+      <corpname role="aut" source="naf">Rockefeller Institute for Medical Research</corpname>
+    </origination>
+    <unitid>FA903</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">0.19 Cubic Feet</extent>
+      <extent altrender="carrier">1 half-letter document box.</extent>
+    </physdesc>
+    <unitdate normal="1955/1969" type="inclusive">1955-1969</unitdate>
+    <physdesc id="3509e9149958cb2a62773378c05127ec">1 box.</physdesc>
+  </did>
+  <bioghist id="74e3a78e25852219820516c47dbff05e">
+    <head>Biographical/Historical note</head>
+<p>The newly adopted By-Laws of 1953 provided for an elected Vice-President who was a member of the Board of Trustees. Thomas Milton Rivers was elected the first Vice-President of the newly constituted Board of Trustees and served as Director of The Institute, Director of the Department of Laboratories and Director of the Hospital until his retirement in 1955.</p><p>August 1955 amendments to the By-Laws abolished the elected Vice-President and the requirement which provided that he be a member of the Board of Trustees and called for one or more appointed Vice-Presidents. Further amendment, January 25, 1956 provided that the Board of Trustees elect one or more Vice-Presidents to discharge such functions as may be assigned to them by the President or by resolution duly accepted at any meeting.</p><p>Between 1955 and 1959 Frank Lappin Horsfall, Jr. held the position of Vice-President for Clinical Studies; between 1955 and 1964 Douglas Whitaker served as Vice-President for Administration (between 1961-64 changed to Vice-President for Academic Administration). In 1964/65 Maclyn McCarty was elected Vice-President with special responsibilities in the clinical sciences. He is at the same time, Physician-in-Chief. In 1965 Carl Pfaffmann was elected Vice-President and Professor to develop a program of research and graduate instruction in the behavioral and social sciences. In 1969/70 a third Vice-President was added. This position carries with it the role of Secretary to the Board of Trustees and was filled by Charles Eugene Sunderlin.</p><p>In 1972 the University trustees elected Rodney W. Nichols to a new post of Vice-President for Program planning. He had been the first Director of the Office of Program Planning and Development.</p><p>In 1973 Albert Gold was named Vice-President for Academic Resources. As Vice-President he also retains his responsibilities relating to Junior faculty (Director of Postdoctoral Affairs) with additional duties in connection with organization, operation and planning at the University.</p><p>In 1974, effective September 15, Maclyn McCarty retired as Physician-in-Chief of the Hospital, which post was then filled by Dr. Attalah Kappas.</p><p>June 30, 1976 Eugene Sunderlin retired as vice-president of the RU.</p><p>June 1978 Dr. Albert Gold resigned from the University and October 1978 Drs. McCarty and Pfaffmann having reached retirement age resigned their positions as Vice-President. Mr. Rodney Nichols was elected to a new position of executive Vice-President and Mr. David J. Lyons was elected to a new position as Vice-President and Controller with new managerial responsibilities.</p>  </bioghist>
+  <otherfindaid id="22a9f55b7254310300edcd95e7d3d85a">
+    <head>Other Finding Aids note</head>
+<p>FA822 Rockefeller University records, Vice President, Frank Lappin Horsfall, Jr.</p>  </otherfindaid>
+  <arrangement id="b655bef610b7fa078ed4a19aa2fb1141">
+    <head>Arrangement note</head>
+<p>Rockefeller University records, Vice President, Frank Lappin Horsfall, Jr is arranged in 3 series:</p><p>Series 2: Administrative Correspondence. 
 Series 4: Subject Files. 
-Series 6: Biographical Material.</p>
-    </arrangement>
-    <prefercite id="a009f6ccb5c3b11b850e7727bc2727dd">
-      <head>Preferred Citation note</head>
-      <p>Information regarding the Rockefeller Archive Center's preferred elements and forms of citation can be found at <extref href="http://www.rockarch.org/research/citations.php">http://www.rockarch.org/research/citations.php</extref></p>
-    </prefercite>
-    <fileplan id="799b9d635be7c7afa8cb544a2e0fdcf1">
-      <head>File Plan note</head>
-      <p>Former Classification: I 342-4</p>
-    </fileplan>
-    <accessrestrict id="fd6904dba6751b90b41aa54c8e278824">
-      <head>Conditions Governing Access note</head>
-      <p>This collection is open for research. Brittle or damaged items are available at the discretion of RAC.</p>
-    </accessrestrict>
-    <bioghist id="7b7188d437a67c3b4258e1f64f649640">
-      <head>Biographical / Historical</head>
-      <p>Vice President, 1955-1959</p>
-    </bioghist>
-    <scopecontent id="77e9554c2121a64084bc354c11d1f7ae">
-      <head>Scope and Contents</head>
-      <p>Types of records include: subject files.</p>
-    </scopecontent>
-    <dsc>
-      <c id="f69171cf9d094d9898ecb54d6d6aa6bf" level="series">
-        <did>
-          <unittitle>Subject Files</unittitle>
-          <unitid>4</unitid>
-          <physdesc altrender="whole">
-            <extent altrender="materialtype spaceoccupied">0.44 Cubic Feet</extent>
-            <extent altrender="carrier">1 box</extent>
-          </physdesc>
-          <unitdate normal="1955/1969" type="inclusive">1955-1969</unitdate>
-          <physdesc id="ebbd1317687dc25d1b4da3ce0fbc8646">2½ box</physdesc>
-        </did>
-        <acqinfo id="89469249836ac467a3fdf967cc1e7c47">
-          <head>Immediate Source of Acquisition note</head>
-          <p>Received from Lila Magie August 27, 1987. Found when cleaning out her files.</p>
-        </acqinfo>
-        <c id="ccbfc0a281974819bb8059b9da272c54" level="file">
-          <did>
-            <unittitle>Appointments in Biological Sciences</unittitle>
-            <unitdate normal="1969/1969" type="inclusive">1969</unitdate>
-            <container altrender="Half Ltr Document Storage Box" id="1e742edc06870cf1f44eb74a6101af7f" label="mixed materials [A0000000086527]" type="box">1</container>
-          </did>
-        </c>
-        <c id="14afcedd5af34920bd63f0113c5bf8d3" level="file">
-          <did>
-            <unittitle>Diary Notes re: special meeting on July 2, 1969</unittitle>
-            <unitdate>1969 July 2</unitdate>
-            <container altrender="Half Ltr Document Storage Box" id="3765a26a925793efcd62cf495c326b5a" label="mixed materials [A0000000086527]" type="box">1</container>
-          </did>
-        </c>
-        <c id="5b90dd2553ba4b3c97f78db13baa74ed" level="file">
-          <did>
-            <unittitle>Consultants to the Institute (Faculty), mostly form letters re: appointments as consultants</unittitle>
-            <unitdate normal="1956/1966" type="inclusive">1956-1966</unitdate>
-            <container altrender="Half Ltr Document Storage Box" id="cd55dae55a0f12176773b3d9e22ffd84" label="mixed materials [A0000000086527]" type="box">1</container>
-          </did>
-        </c>
-        <c id="a399af111858444bab9a0e1256daaada" level="file">
-          <did>
-            <unittitle>Faculty Candidates-Inactive, correspondence to &amp; from candidates, esp. re: Fr. Enrico Cantore, S.S. Chern</unittitle>
-            <unitdate normal="1967/1969" type="inclusive">1967-1969</unitdate>
-            <container altrender="Half Ltr Document Storage Box" id="e72fa59a1a938de471ab9de4f5059862" label="mixed materials [A0000000086527]" type="box">1</container>
-          </did>
-        </c>
-        <c id="957b7b4955b6456bb53a23f22e49d565" level="file">
-          <did>
-            <unittitle>Historical Directory, information re: RI staff, some forms incomplete</unittitle>
-            <unitdate normal="1904/1956" type="inclusive">1904-1956</unitdate>
-            <container altrender="Half Ltr Document Storage Box" id="2306d5c8d8336019f80d4b00c9f94433" label="mixed materials [A0000000086527]" type="box">1</container>
-          </did>
-        </c>
-        <c id="da3924ab1a3c4c2a802662617685f76d" level="file">
-          <did>
-            <unittitle>Medical Care Program, memos &amp; correspondence concerning the coverage</unittitle>
-            <unitdate normal="1957/1959" type="inclusive">1957-1959</unitdate>
-            <container altrender="Half Ltr Document Storage Box" id="ba7dc9ee610cad7579dde68c6ae90f8b" label="mixed materials [A0000000086527]" type="box">1</container>
-          </did>
-        </c>
-        <c id="888819178be645f68c6722f1f4f8db6d" level="file">
-          <did>
-            <unittitle>Nominators-Correspondence, re: postdoctoral graduate fellowships</unittitle>
-            <unitdate normal="1955/1958" type="inclusive">1955-1958</unitdate>
-            <container altrender="Half Ltr Document Storage Box" id="04732759e60a03e03ba7e5d4505c98fa" label="mixed materials [A0000000086527]" type="box">1</container>
-          </did>
-        </c>
-      </c>
-    </dsc>
-  </archdesc>
+Series 6: Biographical Material.</p>  </arrangement>
+  <prefercite id="a009f6ccb5c3b11b850e7727bc2727dd">
+    <head>Preferred Citation note</head>
+<p>Information regarding the Rockefeller Archive Center's preferred elements and forms of citation can be found at <extref href="http://www.rockarch.org/research/citations.php">http://www.rockarch.org/research/citations.php</extref></p>  </prefercite>
+  <fileplan id="799b9d635be7c7afa8cb544a2e0fdcf1">
+    <head>File Plan note</head>
+<p>Former Classification: I 342-4</p>  </fileplan>
+  <accessrestrict id="fd6904dba6751b90b41aa54c8e278824">
+    <head>Conditions Governing Access note</head>
+<p>This collection is open for research. Brittle or damaged items are available at the discretion of RAC.</p>  </accessrestrict>
+  <bioghist id="7b7188d437a67c3b4258e1f64f649640">
+    <head>Biographical / Historical</head>
+<p>Vice President, 1955-1959</p>  </bioghist>
+  <scopecontent id="77e9554c2121a64084bc354c11d1f7ae">
+    <head>Scope and Contents</head>
+<p>Types of records include: subject files.</p>  </scopecontent>
+  <dsc><c id="f69171cf9d094d9898ecb54d6d6aa6bf" level="series"><did><unittitle>Subject Files</unittitle><unitid>4</unitid><physdesc altrender="whole"><extent altrender="materialtype spaceoccupied">0.44 Cubic Feet</extent><extent altrender="carrier">1 box</extent></physdesc><unitdate normal="1955/1969" type="inclusive">1955-1969</unitdate><physdesc id="ebbd1317687dc25d1b4da3ce0fbc8646">2½ box</physdesc></did><acqinfo id="89469249836ac467a3fdf967cc1e7c47"><head>Immediate Source of Acquisition note</head><p>Received from Lila Magie August 27, 1987. Found when cleaning out her files.</p></acqinfo><c id="ccbfc0a281974819bb8059b9da272c54" level="file"><did><unittitle>Appointments in Biological Sciences</unittitle><unitdate normal="1969/1969" type="inclusive">1969</unitdate><container altrender="Half Ltr Document Storage Box" id="0811b2479ece149280b9bccfb484ea40" label="mixed materials [A0000000086527]" type="box">1</container></did></c><c id="14afcedd5af34920bd63f0113c5bf8d3" level="file"><did><unittitle>Diary Notes re: special meeting on July 2, 1969</unittitle><unitdate>1969 July 2</unitdate><container altrender="Half Ltr Document Storage Box" id="18b48a85d4bb90568af108c00aee043b" label="mixed materials [A0000000086527]" type="box">1</container></did></c><c id="5b90dd2553ba4b3c97f78db13baa74ed" level="file"><did><unittitle>Consultants to the Institute (Faculty), mostly form letters re: appointments as consultants</unittitle><unitdate normal="1956/1966" type="inclusive">1956-1966</unitdate><container altrender="Half Ltr Document Storage Box" id="7eddc8a5491f7cd051db2d84f9bb7d58" label="mixed materials [A0000000086527]" type="box">1</container></did></c><c id="a399af111858444bab9a0e1256daaada" level="file"><did><unittitle>Faculty Candidates-Inactive, correspondence to &amp; from candidates, esp. re: Fr. Enrico Cantore, S.S. Chern</unittitle><unitdate normal="1967/1969" type="inclusive">1967-1969</unitdate><container altrender="Half Ltr Document Storage Box" id="b34370784c8e19b78dd9a4931d372c08" label="mixed materials [A0000000086527]" type="box">1</container></did></c><c id="957b7b4955b6456bb53a23f22e49d565" level="file"><did><unittitle>Historical Directory, information re: RI staff, some forms incomplete</unittitle><unitdate normal="1904/1956" type="inclusive">1904-1956</unitdate><container altrender="Half Ltr Document Storage Box" id="33d47419e1210c1f99b1380ea933591b" label="mixed materials [A0000000086527]" type="box">1</container></did></c><c id="da3924ab1a3c4c2a802662617685f76d" level="file"><did><unittitle>Medical Care Program, memos &amp; correspondence concerning the coverage</unittitle><unitdate normal="1957/1959" type="inclusive">1957-1959</unitdate><container altrender="Half Ltr Document Storage Box" id="c6b5da935f14a4d20824730b0829b92e" label="mixed materials [A0000000086527]" type="box">1</container></did></c><c id="888819178be645f68c6722f1f4f8db6d" level="file"><did><unittitle>Nominators-Correspondence, re: postdoctoral graduate fellowships</unittitle><unitdate normal="1955/1958" type="inclusive">1955-1958</unitdate><container altrender="Half Ltr Document Storage Box" id="bf09ab9e9a6483ec8024d63a3f5819b6" label="mixed materials [A0000000086527]" type="box">1</container></did></c></c></dsc>
+</archdesc>
 </ead>
