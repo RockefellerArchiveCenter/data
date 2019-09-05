@@ -1,159 +1,48 @@
-<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
-  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" repositoryencoding="iso15511">
-    <eadid>FA972.xml</eadid>
-    <filedesc>
-      <titlestmt>
-        <titleproper type="filing">Rockefeller University Press, Journal of Experimental Medicine, Accepted Manuscripts, Series 1</titleproper>
-        <titleproper>A Guide to the Rockefeller University Press, Journal of Experimental Medicine, Accepted Manuscripts, Series 1
- <num>FA972</num></titleproper>
-      </titlestmt>
-      <publicationstmt>
-        <publisher>Rockefeller Archive Center</publisher>
-        <address>
-          <addressline>15 Dayton Avenue</addressline>
-          <addressline>Sleepy Hollow 10591</addressline>
-          <addressline>archive@rockarch.org</addressline>
-          <addressline>URL: <extptr xlink:href="http://www.rockarch.org" xlink:show="new" xlink:title="http://www.rockarch.org" xlink:type="simple"/></addressline>
-        </address>
-      </publicationstmt>
-    </filedesc>
-    <profiledesc>
-      <creation>This finding aid was produced using ArchivesSpace on <date>2018-08-21 00:09:09 -0400</date>.</creation>
-      <langusage>English</langusage>
-      <descrules>Describing Archives: A Content Standard</descrules>
-    </profiledesc>
-  </eadheader>
-  <archdesc level="series">
-    <did>
-      <langmaterial>
-        <language langcode="eng">English</language>
-      </langmaterial>
-      <repository>
-        <corpname>Rockefeller Archive Center</corpname>
-      </repository>
-      <unittitle>Rockefeller University Press, Journal of Experimental Medicine, Accepted Manuscripts, Series 1</unittitle>
-      <origination label="creator">
-        <corpname role="aut" source="naf">Rockefeller University</corpname>
-      </origination>
-      <origination label="creator">
-        <corpname role="aut" rules="dacs">Rockefeller University Press</corpname>
-      </origination>
-      <unitid>FA972</unitid>
-      <physdesc altrender="whole">
-        <extent altrender="materialtype spaceoccupied">1.64 Cubic Feet</extent>
-        <extent altrender="carrier">1 standard record storage box, 1 document box.</extent>
-      </physdesc>
-      <unitdate normal="1972/1983" type="inclusive">1972-1983</unitdate>
-    </did>
-    <accessrestrict id="7553f0eff627035c59462751466238c9">
-      <head>Conditions Governing Access</head>
-      <p>Open for research. Brittle or damaged items are available at the discretion of RAC.</p>
-    </accessrestrict>
-    <prefercite id="55b1a1bf2ba4c71718bf18dbf6ccf708">
-      <head>Preferred Citation</head>
-      <p>Information regarding the Rockefeller Archive Center's preferred elements and forms of citation can be found at <extref href="http://www.rockarch.org/research/citations.php">http://www.rockarch.org/research/citations.php</extref></p>
-    </prefercite>
-    <fileplan id="a635d5d58e5c599caf344558a2f0188d">
-      <head>File Plan</head>
-      <p>Former Classification: I 517-2-U</p>
-    </fileplan>
-    <otherfindaid id="eb1ce4b19e2ecc88c90cf940c6c269eb">
-      <head>Other Finding Aids</head>
-      <p>FA971 Rockefeller University records, Rockefeller University Press, Journal of Experimental Medicine, Microfiche.</p>
-    </otherfindaid>
-    <arrangement id="d9031f39083a7dc621294d3fdcfbf3af">
-      <head>Arrangement</head>
-      <p>Alphabetical.</p>
-    </arrangement>
-    <scopecontent id="5dcb89e9936f54b2f365df466fe1e991">
-      <head>Scope and Contents</head>
-      <p>Consists of correspondence and notes related to the submission, evaluation, and acceptance of manuscripts for publication in the Journal of Experimental Medicine.</p>
-    </scopecontent>
-    <processinfo id="629999101337cc865d179999a43ae4cc">
-      <head>Processing Information</head>
-      <p>Minimal Processing. Some materials remain in original housing.</p>
-    </processinfo>
-    <dsc>
-      <c id="0146a7a29bed464b8843de5db04aa839" level="file">
-        <did>
-          <unittitle>Correspondence - A</unittitle>
-          <unitdate normal="1972/1983" type="inclusive">1972-1983</unitdate>
-          <container altrender="Record Storage Box (Paige)" id="953723d2f98933b3963c992d28ee31cc" label="mixed materials [A0000000076851]" type="box">1</container>
-          <container id="87d46d6be94e64578cf1b1fb5e6e26c7" parent="953723d2f98933b3963c992d28ee31cc" type="folder">1-3</container>
-        </did>
-      </c>
-      <c id="948e7eb2330243e791b3eb0a627e86fe" level="file">
-        <did>
-          <unittitle>Correspondence - B</unittitle>
-          <unitdate normal="1980/1983" type="inclusive">1980-1983</unitdate>
-          <container altrender="Record Storage Box (Paige)" id="5fd0e80b1e74c82922ce4d00b4d2db8d" label="mixed materials [A0000000076851]" type="box">1</container>
-          <container id="8c27b31dbdca46e0ea527b599243d26e" parent="5fd0e80b1e74c82922ce4d00b4d2db8d" type="folder">4-6</container>
-        </did>
-      </c>
-      <c id="0312646a5a904c0895277199adbdad7f" level="file">
-        <did>
-          <unittitle>Correspondence - C</unittitle>
-          <unitdate normal="1980/1983" type="inclusive">1980-1983</unitdate>
-          <container altrender="Record Storage Box (Paige)" id="94f090f26c6aa5e3f4ee016df45ea12a" label="mixed materials [A0000000076851]" type="box">1</container>
-          <container id="181f06606ec1c5de53092309f9510aa8" parent="94f090f26c6aa5e3f4ee016df45ea12a" type="folder">7-9</container>
-        </did>
-      </c>
-      <c id="691487a21730451d8ec6fae204e6b884" level="file">
-        <did>
-          <unittitle>Correspondence - D</unittitle>
-          <unitdate normal="1972/1983" type="inclusive">1972-1983</unitdate>
-          <container altrender="Record Storage Box (Paige)" id="0389f97245fea6818fb97aaed2ebead1" label="mixed materials [A0000000076851]" type="box">1</container>
-          <container id="3423672aa60ff24ea39ed2704ee27ced" parent="0389f97245fea6818fb97aaed2ebead1" type="folder">10-13</container>
-        </did>
-      </c>
-      <c id="cfc16c06c7224546b05876e8f8709b73" level="file">
-        <did>
-          <unittitle>Correspondence - F</unittitle>
-          <unitdate normal="1972/1983" type="inclusive">1972-1983</unitdate>
-          <container altrender="Record Storage Box (Paige)" id="0dd2564d05a459d9b51dd231093d14ff" label="mixed materials [A0000000076851]" type="box">1</container>
-          <container id="2366a624834a36473d8ae92f07561c25" parent="0dd2564d05a459d9b51dd231093d14ff" type="folder">14-16</container>
-        </did>
-      </c>
-      <c id="48308d9d7052412bb5cc69b8b20996d0" level="file">
-        <did>
-          <unittitle>Correspondence - G</unittitle>
-          <unitdate normal="1980/1983" type="inclusive">1980-1983</unitdate>
-          <container altrender="Record Storage Box (Paige)" id="fbf68def812a9a8e8b53fcc362da70a6" label="mixed materials [A0000000076851]" type="box">1</container>
-          <container id="ecc2e347513024798a3939bf0799f380" parent="fbf68def812a9a8e8b53fcc362da70a6" type="folder">17-19</container>
-        </did>
-      </c>
-      <c id="5d2a93a8d6e849c084ac47fb0b5d3875" level="file">
-        <did>
-          <unittitle>Correspondence - P</unittitle>
-          <unitdate normal="1972/1983" type="inclusive">1972-1983</unitdate>
-          <container altrender="Record Storage Box (Paige)" id="6fefde651930db1a297d16bd31bf3945" label="mixed materials [A0000000076851]" type="box">1</container>
-          <container id="b4e848a5afe8e14c474dd3b16c6589ff" parent="6fefde651930db1a297d16bd31bf3945" type="folder">20-23</container>
-        </did>
-      </c>
-      <c id="8670c338e04247d2ab1b966cb132c1fe" level="file">
-        <did>
-          <unittitle>Correspondence - S</unittitle>
-          <unitdate normal="1978/1981" type="inclusive">1978-1981</unitdate>
-          <container altrender="Record Storage Box (Paige)" id="e8c5a616ac667819ebaf68559722684d" label="mixed materials [A0000000076851]" type="box">1</container>
-          <container id="b6614a0bde9add31a251f262572fb49a" parent="e8c5a616ac667819ebaf68559722684d" type="folder">24-25</container>
-        </did>
-      </c>
-      <c id="76a6ac53fc364d328f3cd4fabd9fc266" level="file">
-        <did>
-          <unittitle>Correspondence - T</unittitle>
-          <unitdate normal="1972/1983" type="inclusive">1972-1983</unitdate>
-          <container altrender="Letter Document Storage Box" id="61cc93cbd09f7c8797c0f35a3d35e225" label="mixed materials [A0000000076852]" type="box">2</container>
-          <container id="f14cce36a04be420c77adeac8753e32a" parent="61cc93cbd09f7c8797c0f35a3d35e225" type="folder">1-3</container>
-        </did>
-      </c>
-      <c id="650ab323b88b48e3a41f5ca43365516e" level="file">
-        <did>
-          <unittitle>Correspondence - W</unittitle>
-          <unitdate normal="1972/1981" type="inclusive">1972-1981</unitdate>
-          <container altrender="Letter Document Storage Box" id="1e66179e00e41bad64312c34817d9f02" label="mixed materials [A0000000076852]" type="box">2</container>
-          <container id="0d7fe6e9011f2a61347a99e43294eed9" parent="1e66179e00e41bad64312c34817d9f02" type="folder">4-7</container>
-        </did>
-      </c>
-    </dsc>
-  </archdesc>
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid>FA972.xml</eadid><filedesc><titlestmt><titleproper type="filing">Rockefeller University Press, Journal of Experimental Medicine, Accepted Manuscripts, Series 1</titleproper><titleproper>A Guide to the Rockefeller University Press, Journal of Experimental Medicine, Accepted Manuscripts, Series 1
+ <num>FA972</num></titleproper></titlestmt><publicationstmt><publisher>Rockefeller Archive Center</publisher><address><addressline>15 Dayton Avenue</addressline><addressline>Sleepy Hollow 10591</addressline><addressline>archive@rockarch.org</addressline><addressline>URL: <extptr xlink:href="http://www.rockarch.org" xlink:show="new" xlink:title="http://www.rockarch.org" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2019-09-05 00:20:02 -0400</date>.</creation><langusage>English</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="series">
+  <did>
+    <langmaterial>
+      <language langcode="eng">English</language>
+    </langmaterial>
+    <repository>
+      <corpname>Rockefeller Archive Center</corpname>
+    </repository>
+    <unittitle>Rockefeller University Press, Journal of Experimental Medicine, Accepted Manuscripts, Series 1</unittitle>
+    <origination label="creator">
+      <corpname role="aut" source="naf">Rockefeller University</corpname>
+    </origination>
+    <origination label="creator">
+      <corpname role="aut" rules="dacs">Rockefeller University Press</corpname>
+    </origination>
+    <unitid>FA972</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">1.69 Cubic Feet</extent>
+      <extent altrender="carrier">1 standard record storage box, 1 letter document box.</extent>
+    </physdesc>
+    <unitdate normal="1972/1983" type="inclusive">1972-1983</unitdate>
+  </did>
+  <accessrestrict id="7553f0eff627035c59462751466238c9">
+    <head>Conditions Governing Access</head>
+<p>Open for research. Brittle or damaged items are available at the discretion of RAC.</p>  </accessrestrict>
+  <prefercite id="55b1a1bf2ba4c71718bf18dbf6ccf708">
+    <head>Preferred Citation</head>
+<p>Information regarding the Rockefeller Archive Center's preferred elements and forms of citation can be found at <extref href="http://www.rockarch.org/research/citations.php">http://www.rockarch.org/research/citations.php</extref></p>  </prefercite>
+  <fileplan id="a635d5d58e5c599caf344558a2f0188d">
+    <head>File Plan</head>
+<p>Former Classification: I 517-2-U</p>  </fileplan>
+  <otherfindaid id="eb1ce4b19e2ecc88c90cf940c6c269eb">
+    <head>Other Finding Aids</head>
+<p>FA971 Rockefeller University records, Rockefeller University Press, Journal of Experimental Medicine, Microfiche.</p>  </otherfindaid>
+  <arrangement id="d9031f39083a7dc621294d3fdcfbf3af">
+    <head>Arrangement</head>
+<p>Alphabetical.</p>  </arrangement>
+  <scopecontent id="5dcb89e9936f54b2f365df466fe1e991">
+    <head>Scope and Contents</head>
+<p>Consists of correspondence and notes related to the submission, evaluation, and acceptance of manuscripts for publication in the Journal of Experimental Medicine.</p>  </scopecontent>
+  <processinfo id="629999101337cc865d179999a43ae4cc">
+    <head>Processing Information</head>
+<p>Minimal Processing. Some materials remain in original housing.</p>  </processinfo>
+  <dsc><c id="0146a7a29bed464b8843de5db04aa839" level="file"><did><unittitle>Correspondence - A</unittitle><unitdate normal="1972/1983" type="inclusive">1972-1983</unitdate><container altrender="Record Storage Box (Paige)" id="be8749c90d3db09824e4c81ccd35796a" label="mixed materials [A0000000076851]" type="box">1</container><container id="9f7fb386f62b5664268bfa3a1553ac3d" parent="be8749c90d3db09824e4c81ccd35796a" type="folder">1-3</container></did></c><c id="948e7eb2330243e791b3eb0a627e86fe" level="file"><did><unittitle>Correspondence - B</unittitle><unitdate normal="1980/1983" type="inclusive">1980-1983</unitdate><container altrender="Record Storage Box (Paige)" id="948022578354cc0dfff418a7dd69eef8" label="mixed materials [A0000000076851]" type="box">1</container><container id="051e97f8a5b903f0d29c7c4623958d5a" parent="948022578354cc0dfff418a7dd69eef8" type="folder">4-6</container></did></c><c id="0312646a5a904c0895277199adbdad7f" level="file"><did><unittitle>Correspondence - C</unittitle><unitdate normal="1980/1983" type="inclusive">1980-1983</unitdate><container altrender="Record Storage Box (Paige)" id="e2f0d54a9003a4d94f22d14ca95e74a7" label="mixed materials [A0000000076851]" type="box">1</container><container id="25949014fd4ae688c273a774543cf34d" parent="e2f0d54a9003a4d94f22d14ca95e74a7" type="folder">7-9</container></did></c><c id="691487a21730451d8ec6fae204e6b884" level="file"><did><unittitle>Correspondence - D</unittitle><unitdate normal="1972/1983" type="inclusive">1972-1983</unitdate><container altrender="Record Storage Box (Paige)" id="7558feb586ba00ee2bad167cd260c2dd" label="mixed materials [A0000000076851]" type="box">1</container><container id="09ed383c5f81135df2932e1a3c5afdba" parent="7558feb586ba00ee2bad167cd260c2dd" type="folder">10-13</container></did></c><c id="cfc16c06c7224546b05876e8f8709b73" level="file"><did><unittitle>Correspondence - F</unittitle><unitdate normal="1972/1983" type="inclusive">1972-1983</unitdate><container altrender="Record Storage Box (Paige)" id="b5d2554f714d9dbd77c0e84b8ff149d2" label="mixed materials [A0000000076851]" type="box">1</container><container id="6f2f486482d9eb413c3aa069b32e23bb" parent="b5d2554f714d9dbd77c0e84b8ff149d2" type="folder">14-16</container></did></c><c id="48308d9d7052412bb5cc69b8b20996d0" level="file"><did><unittitle>Correspondence - G</unittitle><unitdate normal="1980/1983" type="inclusive">1980-1983</unitdate><container altrender="Record Storage Box (Paige)" id="d26dcece103475baeb9efa33fdbda26e" label="mixed materials [A0000000076851]" type="box">1</container><container id="de846183d6ce90bd1a700d05e98b9245" parent="d26dcece103475baeb9efa33fdbda26e" type="folder">17-19</container></did></c><c id="5d2a93a8d6e849c084ac47fb0b5d3875" level="file"><did><unittitle>Correspondence - P</unittitle><unitdate normal="1972/1983" type="inclusive">1972-1983</unitdate><container altrender="Record Storage Box (Paige)" id="239696116edc1e1b406da21dcdc0ddc1" label="mixed materials [A0000000076851]" type="box">1</container><container id="5bde6838d3105da8d7adbead99e234ca" parent="239696116edc1e1b406da21dcdc0ddc1" type="folder">20-23</container></did></c><c id="8670c338e04247d2ab1b966cb132c1fe" level="file"><did><unittitle>Correspondence - S</unittitle><unitdate normal="1978/1981" type="inclusive">1978-1981</unitdate><container altrender="Record Storage Box (Paige)" id="ce037d783c048727ca6ed0fb35c049e2" label="mixed materials [A0000000076851]" type="box">1</container><container id="56db38f2f157087a440999b349946772" parent="ce037d783c048727ca6ed0fb35c049e2" type="folder">24-25</container></did></c><c id="76a6ac53fc364d328f3cd4fabd9fc266" level="file"><did><unittitle>Correspondence - T</unittitle><unitdate normal="1972/1983" type="inclusive">1972-1983</unitdate><container altrender="Letter Document Storage Box" id="8d9f649b112715dae40a5519b460f294" label="mixed materials [A0000000076852]" type="box">2</container><container id="dd4cc3d13f31a7644182d7aa867e524c" parent="8d9f649b112715dae40a5519b460f294" type="folder">1-3</container></did></c><c id="650ab323b88b48e3a41f5ca43365516e" level="file"><did><unittitle>Correspondence - W</unittitle><unitdate normal="1972/1981" type="inclusive">1972-1981</unitdate><container altrender="Letter Document Storage Box" id="2b49ec516d0f84544603ff960b0836fd" label="mixed materials [A0000000076852]" type="box">2</container><container id="882bbcff5098adf85f9ce86def25c2b4" parent="2b49ec516d0f84544603ff960b0836fd" type="folder">4-7</container></did></c></dsc>
+</archdesc>
 </ead>

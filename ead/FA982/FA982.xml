@@ -1,165 +1,40 @@
-<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
-  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" repositoryencoding="iso15511">
-    <eadid>FA982.xml</eadid>
-    <filedesc>
-      <titlestmt>
-        <titleproper type="filing">Rockefeller University records, Corporation, Board of Trustees, Master Books</titleproper>
-        <titleproper>A Guide to Rockefeller University records, Corporation, Board of Trustees, Master Books
- <num>FA982</num></titleproper>
-      </titlestmt>
-      <publicationstmt>
-        <publisher>Rockefeller Archive Center</publisher>
-        <address>
-          <addressline>15 Dayton Avenue</addressline>
-          <addressline>Sleepy Hollow 10591</addressline>
-          <addressline>archive@rockarch.org</addressline>
-          <addressline>URL: <extptr xlink:href="http://www.rockarch.org" xlink:show="new" xlink:title="http://www.rockarch.org" xlink:type="simple"/></addressline>
-        </address>
-      </publicationstmt>
-    </filedesc>
-    <profiledesc>
-      <creation>This finding aid was produced using ArchivesSpace on <date>2018-03-15 00:20:58 -0400</date>.</creation>
-      <langusage>English</langusage>
-      <descrules>Describing Archives: A Content Standard</descrules>
-    </profiledesc>
-  </eadheader>
-  <archdesc level="collection">
-    <did>
-      <langmaterial>
-        <language langcode="eng">English</language>
-      </langmaterial>
-      <repository>
-        <corpname>Rockefeller Archive Center</corpname>
-      </repository>
-      <unittitle>Rockefeller University records, Corporation, Board of Trustees, Master Books</unittitle>
-      <origination label="creator">
-        <corpname role="aut" source="naf">Rockefeller University</corpname>
-      </origination>
-      <unitid>FA982</unitid>
-      <physdesc altrender="whole">
-        <extent altrender="materialtype spaceoccupied">1.2 Cubic Feet</extent>
-        <extent altrender="carrier">3 boxes - 2 document boxes and 1 half-document box</extent>
-      </physdesc>
-      <unitdate normal="1969/1977" type="inclusive">1969-1977</unitdate>
-      <physdesc id="dc236c794247dccdab98fef76265e3ea">3 boxes - 2 document boxes and 1 half-document box</physdesc>
-    </did>
-    <accessrestrict id="50b5545c2abb329cbfeece5e4a2110df">
-      <head>Conditions Governing Access</head>
-      <p>Collection is open for research. Brittle or damaged items are available at the discretion of RAC.</p>
-    </accessrestrict>
-    <prefercite id="38784b5dd34dc4d8e8c4e72221ef4b85">
-      <head>Preferred Citation</head>
-      <p>Information regarding the Rockefeller Archive Center's preferred elements and forms of citation can be found at <extref href="http://www.rockarch.org/research/citations.php">http://www.rockarch.org/research/citations.php</extref></p>
-    </prefercite>
-    <fileplan id="928e6d9ab955610852633c0b48f8737d">
-      <head>File Plan</head>
-      <p>Former Classification: I 130.2-U</p>
-    </fileplan>
-    <arrangement id="138c96654e6457ae1968b63446ae69f9">
-      <head>Arrangement</head>
-      <p>Arrangement is chronological.</p>
-    </arrangement>
-    <scopecontent id="b7b5941efcd5e5e8c305cd245cb0a0ce">
-      <head>Scope and Contents</head>
-      <p>The Master Books contain minutes and agendas from Board of Trustees' meetings, as well as correspondence.</p>
-    </scopecontent>
-    <dsc>
-      <c id="5e5612f9d8f042469b66a3fe699fe372" level="file">
-        <did>
-          <unittitle>Master Books</unittitle>
-          <unitdate normal="1969/1969" type="inclusive">1969 January-May</unitdate>
-          <container altrender="Letter Document Storage Box" id="1b0ec299730ebe69d2a97098b4cf518a" label="mixed materials [A0000000074300]" type="box">1</container>
-          <container id="275792285f0b89e05124fa4fa57a0d9a" parent="1b0ec299730ebe69d2a97098b4cf518a" type="folder">1</container>
-        </did>
-      </c>
-      <c id="6f80499c839a420f84ef6a4d6af15a51" level="file">
-        <did>
-          <unittitle>Master Books, FY 1970</unittitle>
-          <unitdate normal="1969/1970" type="inclusive">1969 November-1970 May</unitdate>
-          <container altrender="Letter Document Storage Box" id="948b92fcb083897ac1aeb55bf36db47f" label="mixed materials [A0000000074300]" type="box">1</container>
-          <container id="d997853a4d16a5f55b09a2ac8295d576" parent="948b92fcb083897ac1aeb55bf36db47f" type="folder">2</container>
-        </did>
-      </c>
-      <c id="9f1154d351eb97325562f4f1f2ca43c4" level="file">
-        <did>
-          <unittitle>Master Books, FY 1971 Book I</unittitle>
-          <unitdate normal="1970/1970">1970 July-December</unitdate>
-          <container altrender="Letter Document Storage Box" id="09adcc03e3f0bd9f3733d21494b02a66" label="mixed materials [A0000000074300]" type="box">1</container>
-          <container id="2f2508e54b8a3ce71ce8390d446b9359" parent="09adcc03e3f0bd9f3733d21494b02a66" type="folder">3</container>
-        </did>
-      </c>
-      <c id="4e52f37a7fcce7c669e19d0334f0147e" level="file">
-        <did>
-          <unittitle>Master Books, FY 1971 Book II</unittitle>
-          <unitdate normal="1971/1971" type="inclusive">1971 January-June</unitdate>
-          <container altrender="Letter Document Storage Box" id="89383dd3804a521ce21963936fe36a20" label="mixed materials [A0000000074300]" type="box">1</container>
-          <container id="39d9f2351902ac0b7d8fe76dfc28ef0b" parent="89383dd3804a521ce21963936fe36a20" type="folder">4</container>
-        </did>
-      </c>
-      <c id="2f233ed6818cb88cd63376184a4afc0d" level="file">
-        <did>
-          <unittitle>Master Books, FY 1972 Book I</unittitle>
-          <unitdate normal="1971/1971" type="inclusive">1971 July-December</unitdate>
-          <container altrender="Letter Document Storage Box" id="c7c16730b4c23153ed2d5be30f2ed6f5" label="mixed materials [A0000000074300]" type="box">1</container>
-          <container id="741b1749bb031f4ac8dccf661cc044c1" parent="c7c16730b4c23153ed2d5be30f2ed6f5" type="folder">5</container>
-        </did>
-      </c>
-      <c id="b7a95c8262617a6a3fa6a1f574ad870f" level="file">
-        <did>
-          <unittitle>Master Books, FY 1972 Book II</unittitle>
-          <unitdate normal="1972/1972" type="inclusive">1972 January-June</unitdate>
-          <container altrender="Letter Document Storage Box" id="562454e1ab7d19fe163a04f2d552f5fe" label="mixed materials [A0000000074301]" type="box">2</container>
-          <container id="26991c69798971b092dc53cf384c631d" parent="562454e1ab7d19fe163a04f2d552f5fe" type="folder">6</container>
-        </did>
-      </c>
-      <c id="da96ae1f699f30286d3462a55c6aedd1" level="file">
-        <did>
-          <unittitle>Master Books, FY 1973 Book I</unittitle>
-          <unitdate normal="1972/1972" type="inclusive">1972 July-December</unitdate>
-          <container altrender="Letter Document Storage Box" id="6dfa9766a5152910599dece32f1d5566" label="mixed materials [A0000000074301]" type="box">2</container>
-          <container id="79dfd28973bceec13ed050bcb734e5b5" parent="6dfa9766a5152910599dece32f1d5566" type="folder">7</container>
-        </did>
-      </c>
-      <c id="f984bdfaaec4fd32d10a12942232f849" level="file">
-        <did>
-          <unittitle>Master Books, FY 1973 Book II</unittitle>
-          <unitdate normal="1973/1973" type="inclusive">1973 January-June</unitdate>
-          <container altrender="Letter Document Storage Box" id="6bf51cc569bdb469d15ee8ea6627e4e1" label="mixed materials [A0000000074301]" type="box">2</container>
-          <container id="c094daa0c6bcac86f9c3ddea6e675c34" parent="6bf51cc569bdb469d15ee8ea6627e4e1" type="folder">8</container>
-        </did>
-      </c>
-      <c id="0ffbbaceb3500dc6d0b0b4f41538a761" level="file">
-        <did>
-          <unittitle>Master Books, FY 1974 Book I</unittitle>
-          <unitdate normal="1973/1973" type="inclusive">1973 July-December</unitdate>
-          <container altrender="Letter Document Storage Box" id="0bcec01fe0041e9c4c77cd835b34b5d4" label="mixed materials [A0000000074301]" type="box">2</container>
-          <container id="12f677723372511514b433af95306029" parent="0bcec01fe0041e9c4c77cd835b34b5d4" type="folder">9</container>
-        </did>
-      </c>
-      <c id="7a6a314547ff41171dbdafc58f9778c7" level="file">
-        <did>
-          <unittitle>Master Books, FY 1974 Book II</unittitle>
-          <unitdate normal="1974/1974" type="inclusive">1974 January-June</unitdate>
-          <container altrender="Letter Document Storage Box" id="5ca08e6dfaecc240c9ae66f6e29b1e6a" label="mixed materials [A0000000074301]" type="box">2</container>
-          <container id="e2e832a17b8748e592bdc62a6223e98f" parent="5ca08e6dfaecc240c9ae66f6e29b1e6a" type="folder">10</container>
-        </did>
-      </c>
-      <c id="fb706f1f5ba3e0ea4509a8c453a2f31b" level="file">
-        <did>
-          <unittitle>Master Books, FY 1975</unittitle>
-          <unitdate normal="1974/1974" type="inclusive">1974 July-December</unitdate>
-          <container altrender="Half Ltr Document Storage Box" id="57648bc84892d558a9b1628255e3b375" label="mixed materials [A0000000074302]" type="box">3</container>
-          <container id="51c20181f4a1000fa7991244b1f58032" parent="57648bc84892d558a9b1628255e3b375" type="folder">11</container>
-        </did>
-      </c>
-      <c id="b813c39aaa3415693135011f9e6af975" level="file">
-        <did>
-          <unittitle>Master Books</unittitle>
-          <unitdate normal="1976/1977" type="inclusive">1976-1977</unitdate>
-          <container altrender="Half Ltr Document Storage Box" id="8d6837e5667d1d6889375b1d03e11d2a" label="mixed materials [A0000000074302]" type="box">3</container>
-          <container id="4f31a66b20c3cac5520458f597d269db" parent="8d6837e5667d1d6889375b1d03e11d2a" type="folder">12</container>
-        </did>
-      </c>
-    </dsc>
-  </archdesc>
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid>FA982.xml</eadid><filedesc><titlestmt><titleproper type="filing">Rockefeller University records, Corporation, Board of Trustees, Master Books</titleproper><titleproper>A Guide to Rockefeller University records, Corporation, Board of Trustees, Master Books
+ <num>FA982</num></titleproper></titlestmt><publicationstmt><publisher>Rockefeller Archive Center</publisher><address><addressline>15 Dayton Avenue</addressline><addressline>Sleepy Hollow 10591</addressline><addressline>archive@rockarch.org</addressline><addressline>URL: <extptr xlink:href="http://www.rockarch.org" xlink:show="new" xlink:title="http://www.rockarch.org" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2019-09-05 00:21:44 -0400</date>.</creation><langusage>English</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
+  <did>
+    <langmaterial>
+      <language langcode="eng">English</language>
+    </langmaterial>
+    <repository>
+      <corpname>Rockefeller Archive Center</corpname>
+    </repository>
+    <unittitle>Rockefeller University records, Corporation, Board of Trustees, Master Books</unittitle>
+    <origination label="creator">
+      <corpname role="aut" source="naf">Rockefeller University</corpname>
+    </origination>
+    <unitid>FA982</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">0.95 Cubic Feet</extent>
+      <extent altrender="carrier">3 boxes - 2 document boxes and 1 half-document box</extent>
+    </physdesc>
+    <unitdate normal="1969/1977" type="inclusive">1969-1977</unitdate>
+    <physdesc id="dc236c794247dccdab98fef76265e3ea">3 boxes - 2 document boxes and 1 half-document box</physdesc>
+  </did>
+  <accessrestrict id="50b5545c2abb329cbfeece5e4a2110df">
+    <head>Conditions Governing Access</head>
+<p>Collection is open for research. Brittle or damaged items are available at the discretion of RAC.</p>  </accessrestrict>
+  <prefercite id="38784b5dd34dc4d8e8c4e72221ef4b85">
+    <head>Preferred Citation</head>
+<p>Information regarding the Rockefeller Archive Center's preferred elements and forms of citation can be found at <extref href="http://www.rockarch.org/research/citations.php">http://www.rockarch.org/research/citations.php</extref></p>  </prefercite>
+  <fileplan id="928e6d9ab955610852633c0b48f8737d">
+    <head>File Plan</head>
+<p>Former Classification: I 130.2-U</p>  </fileplan>
+  <arrangement id="138c96654e6457ae1968b63446ae69f9">
+    <head>Arrangement</head>
+<p>Arrangement is chronological.</p>  </arrangement>
+  <scopecontent id="b7b5941efcd5e5e8c305cd245cb0a0ce">
+    <head>Scope and Contents</head>
+<p>The Master Books contain minutes and agendas from Board of Trustees' meetings, as well as correspondence.</p>  </scopecontent>
+  <dsc><c id="5e5612f9d8f042469b66a3fe699fe372" level="file"><did><unittitle>Master Books</unittitle><unitdate normal="1969/1969" type="inclusive">1969 January-May</unitdate><container altrender="Letter Document Storage Box" id="4a1c55cb5d9704b5e3d9f212072c8406" label="mixed materials [A0000000074300]" type="box">1</container><container id="9027a63ca1e10a77fb900e7c64ad60a7" parent="4a1c55cb5d9704b5e3d9f212072c8406" type="folder">1</container></did></c><c id="6f80499c839a420f84ef6a4d6af15a51" level="file"><did><unittitle>Master Books, FY 1970</unittitle><unitdate normal="1969/1970" type="inclusive">1969 November-1970 May</unitdate><container altrender="Letter Document Storage Box" id="2f752882627e72f2ef38efe57cacb7ab" label="mixed materials [A0000000074300]" type="box">1</container><container id="d2ac6a25447d7b06e378fb9ba0cbde56" parent="2f752882627e72f2ef38efe57cacb7ab" type="folder">2</container></did></c><c id="9f1154d351eb97325562f4f1f2ca43c4" level="file"><did><unittitle>Master Books, FY 1971 Book I</unittitle><unitdate normal="1970/1970">1970 July-December</unitdate><container altrender="Letter Document Storage Box" id="84aea044811107732b2203dd68e6056e" label="mixed materials [A0000000074300]" type="box">1</container><container id="9341d92227cab602d26a3dc8421ea3f6" parent="84aea044811107732b2203dd68e6056e" type="folder">3</container></did></c><c id="4e52f37a7fcce7c669e19d0334f0147e" level="file"><did><unittitle>Master Books, FY 1971 Book II</unittitle><unitdate normal="1971/1971" type="inclusive">1971 January-June</unitdate><container altrender="Letter Document Storage Box" id="f5acb9b357cfca3ea10ceed546f9e84c" label="mixed materials [A0000000074300]" type="box">1</container><container id="72510dfa94468aa185bb03fc39ed1afc" parent="f5acb9b357cfca3ea10ceed546f9e84c" type="folder">4</container></did></c><c id="2f233ed6818cb88cd63376184a4afc0d" level="file"><did><unittitle>Master Books, FY 1972 Book I</unittitle><unitdate normal="1971/1971" type="inclusive">1971 July-December</unitdate><container altrender="Letter Document Storage Box" id="afb581a79ba9ed629894cf7559486f6f" label="mixed materials [A0000000074300]" type="box">1</container><container id="9a4904cb63f2aecd917ebae4fece2543" parent="afb581a79ba9ed629894cf7559486f6f" type="folder">5</container></did></c><c id="b7a95c8262617a6a3fa6a1f574ad870f" level="file"><did><unittitle>Master Books, FY 1972 Book II</unittitle><unitdate normal="1972/1972" type="inclusive">1972 January-June</unitdate><container altrender="Letter Document Storage Box" id="c259700e11bfc79094aca7518164c746" label="mixed materials [A0000000074301]" type="box">2</container><container id="b2f67bcb096ab6b6d7052889f515e6b2" parent="c259700e11bfc79094aca7518164c746" type="folder">6</container></did></c><c id="da96ae1f699f30286d3462a55c6aedd1" level="file"><did><unittitle>Master Books, FY 1973 Book I</unittitle><unitdate normal="1972/1972" type="inclusive">1972 July-December</unitdate><container altrender="Letter Document Storage Box" id="8bd80aa86cfaddda237ced53388ca4fb" label="mixed materials [A0000000074301]" type="box">2</container><container id="562a3e15d787608dd4ffffd495e03863" parent="8bd80aa86cfaddda237ced53388ca4fb" type="folder">7</container></did></c><c id="f984bdfaaec4fd32d10a12942232f849" level="file"><did><unittitle>Master Books, FY 1973 Book II</unittitle><unitdate normal="1973/1973" type="inclusive">1973 January-June</unitdate><container altrender="Letter Document Storage Box" id="4ded49c61b3b287244c143a4329891cc" label="mixed materials [A0000000074301]" type="box">2</container><container id="c7275c9ee6440f5fce86b91bfb28ac2e" parent="4ded49c61b3b287244c143a4329891cc" type="folder">8</container></did></c><c id="0ffbbaceb3500dc6d0b0b4f41538a761" level="file"><did><unittitle>Master Books, FY 1974 Book I</unittitle><unitdate normal="1973/1973" type="inclusive">1973 July-December</unitdate><container altrender="Letter Document Storage Box" id="556d5080aa8b120cbc7c30d3b8cc7d3e" label="mixed materials [A0000000074301]" type="box">2</container><container id="aa2cbb531e524ae43492041b40ddcf91" parent="556d5080aa8b120cbc7c30d3b8cc7d3e" type="folder">9</container></did></c><c id="7a6a314547ff41171dbdafc58f9778c7" level="file"><did><unittitle>Master Books, FY 1974 Book II</unittitle><unitdate normal="1974/1974" type="inclusive">1974 January-June</unitdate><container altrender="Letter Document Storage Box" id="e07c45c3a47272e0591c0385aef08c6d" label="mixed materials [A0000000074301]" type="box">2</container><container id="cc5f90e1e36429ae762dc741dacd1108" parent="e07c45c3a47272e0591c0385aef08c6d" type="folder">10</container></did></c><c id="fb706f1f5ba3e0ea4509a8c453a2f31b" level="file"><did><unittitle>Master Books, FY 1975</unittitle><unitdate normal="1974/1974" type="inclusive">1974 July-December</unitdate><container altrender="Half Ltr Document Storage Box" id="acc921f28da779229fcd10ab528c8b8f" label="mixed materials [A0000000074302]" type="box">3</container><container id="37872e5a7e2c8d0ee5ab157ae9927801" parent="acc921f28da779229fcd10ab528c8b8f" type="folder">11</container></did></c><c id="b813c39aaa3415693135011f9e6af975" level="file"><did><unittitle>Master Books</unittitle><unitdate normal="1976/1977" type="inclusive">1976-1977</unitdate><container altrender="Half Ltr Document Storage Box" id="d5ff467132ec388d2de51451edc4f5f7" label="mixed materials [A0000000074302]" type="box">3</container><container id="fde126da3c2452489f7140bf31739984" parent="d5ff467132ec388d2de51451edc4f5f7" type="folder">12</container></did></c></dsc>
+</archdesc>
 </ead>

@@ -1,127 +1,43 @@
-<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
-  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" repositoryencoding="iso15511">
-    <eadid>FA979.xml</eadid>
-    <filedesc>
-      <titlestmt>
-        <titleproper type="filing">Gowen (John W.) papers</titleproper>
-        <titleproper>A Guide to the John W. Gowen papers, Rockefeller Institute for Medical Research Scientific Staff
- <num>FA979</num></titleproper>
-      </titlestmt>
-      <publicationstmt>
-        <publisher>Rockefeller Archive Center</publisher>
-        <address>
-          <addressline>15 Dayton Avenue</addressline>
-          <addressline>Sleepy Hollow 10591</addressline>
-          <addressline>archive@rockarch.org</addressline>
-          <addressline>URL: <extptr xlink:href="http://www.rockarch.org" xlink:show="new" xlink:title="http://www.rockarch.org" xlink:type="simple"/></addressline>
-        </address>
-      </publicationstmt>
-    </filedesc>
-    <profiledesc>
-      <creation>This finding aid was produced using ArchivesSpace on <date>2018-11-02 00:26:34 -0400</date>.</creation>
-      <langusage>English</langusage>
-      <descrules>Describing Archives: A Content Standard</descrules>
-    </profiledesc>
-  </eadheader>
-  <archdesc level="collection">
-    <did>
-      <langmaterial>
-        <language langcode="eng">English</language>
-      </langmaterial>
-      <repository>
-        <corpname>Rockefeller Archive Center</corpname>
-      </repository>
-      <unittitle>John W. Gowen papers, Rockefeller Institute for Medical Research Scientific Staff</unittitle>
-      <origination label="creator">
-        <corpname role="aut" source="ingest">Rockefeller Institute for Medical Research.</corpname>
-      </origination>
-      <origination label="creator">
-        <persname role="aut" rules="local" source="local">Gowen, John W.</persname>
-      </origination>
-      <unitid>FA979</unitid>
-      <physdesc altrender="whole">
-        <extent altrender="materialtype spaceoccupied">0.44 Cubic Feet</extent>
-        <extent altrender="carrier">1 box.</extent>
-      </physdesc>
-      <unitdate normal="1919/1937" type="inclusive">1919-1937</unitdate>
-      <physdesc id="581ef35548f815685257c0cdd84afb20">1 box.</physdesc>
-    </did>
-    <accessrestrict id="30fe64d16473a75966a56759b59016c1">
-      <head>Conditions Governing Access</head>
-      <p>Access to this collection is restricted pending permission from Rockefeller University.</p>
-    </accessrestrict>
-    <fileplan id="53241dc03bc2857582d18c8e3b62d77d">
-      <head>File Plan</head>
-      <p>Former Classification: I 450 G747</p>
-    </fileplan>
-    <prefercite id="71e411fcffd506c0ab3fe8b420e99f1a">
-      <head>Preferred Citation</head>
-      <p>Information regarding the Rockefeller Archive Center's preferred elements and forms of citation can be found at <extref href="http://www.rockarch.org/research/citations.php">http://www.rockarch.org/research/citations.php</extref></p>
-    </prefercite>
-    <processinfo id="e36029560c2568b3026d5368fb5896c6">
-      <head>Processing Information</head>
-      <p>CK, August 11, 1986.</p>
-    </processinfo>
-    <scopecontent id="5908afa9132d31474fa2f600795cc434">
-      <head>Scope and Contents</head>
-      <p>Administrative correspondence.</p>
-    </scopecontent>
-    <dsc>
-      <c id="e27123eeece545468029aef23e37e80b" level="file">
-        <did>
-          <unittitle>Administrative Correspondence</unittitle>
-          <unitdate normal="1919/1937" type="inclusive">1919-1937</unitdate>
-        </did>
-        <c id="c5e8399f155d4202b69324287218e27c" level="file">
-          <did>
-            <unitdate normal="1919/1923" type="inclusive">1919-1923</unitdate>
-            <container altrender="Half Ltr Document Storage Box" id="2e618abea765adf2953b0adc969c55f5" label="mixed materials [A0000000085541]" type="box">1</container>
-            <container id="252e1c8624beeea4fcd8fa03659b9b2b" parent="2e618abea765adf2953b0adc969c55f5" type="folder">1</container>
-          </did>
-        </c>
-        <c id="bf0234516af04185a05c8a7dc903beea" level="file">
-          <did>
-            <unitdate normal="1924/1925" type="inclusive">1924-1925</unitdate>
-            <container altrender="Half Ltr Document Storage Box" id="b88a31f409fb1a3850333510e6b05c79" label="mixed materials [A0000000085541]" type="box">1</container>
-            <container id="c54ebd8ba3975ba99b41450a9fccbeab" parent="b88a31f409fb1a3850333510e6b05c79" type="folder">2</container>
-          </did>
-        </c>
-        <c id="f3b6994fa5ec44459bd441dc93bb5a12" level="file">
-          <did>
-            <unitdate normal="1926/1926" type="inclusive">1926</unitdate>
-            <container altrender="Half Ltr Document Storage Box" id="5f342f770abd63c08f897cb46fafcb42" label="mixed materials [A0000000085541]" type="box">1</container>
-            <container id="e88947de915d6302a40bc8ad1fc58c82" parent="5f342f770abd63c08f897cb46fafcb42" type="folder">3</container>
-          </did>
-        </c>
-        <c id="5689735e3be5414cbd6211dd1c3dcab5" level="file">
-          <did>
-            <unitdate normal="1928/1930" type="inclusive">1928-1930</unitdate>
-            <container altrender="Half Ltr Document Storage Box" id="b85aa8ecd8267ef30b3b0489b93b99b0" label="mixed materials [A0000000085541]" type="box">1</container>
-            <container id="610392e26796b9c0d3efd75582e993d3" parent="b85aa8ecd8267ef30b3b0489b93b99b0" type="folder">4</container>
-          </did>
-        </c>
-        <c id="cdb7cf3d7fef495ba14ba1ac0172e063" level="file">
-          <did>
-            <unitdate normal="1932/1932" type="inclusive">1932</unitdate>
-            <container altrender="Half Ltr Document Storage Box" id="a0df35783200f81a125b6dd73404f6eb" label="mixed materials [A0000000085541]" type="box">1</container>
-            <container id="fa70ebb74e8bfbf56b91a098fb87274b" parent="a0df35783200f81a125b6dd73404f6eb" type="folder">5</container>
-          </did>
-        </c>
-        <c id="afad3656ba9a4515802f9694a23c0a9f" level="file">
-          <did>
-            <unitdate normal="1933/1933" type="inclusive">1933</unitdate>
-            <container altrender="Half Ltr Document Storage Box" id="6851b80d12ec6996cee4ba1241ffed03" label="mixed materials [A0000000085541]" type="box">1</container>
-            <container id="4015aaca88e8e9a8fdda8c03ba9098bf" parent="6851b80d12ec6996cee4ba1241ffed03" type="folder">6</container>
-          </did>
-        </c>
-        <c id="cf28e10c650742de9ec41ba151e92ac0" level="file">
-          <did>
-            <unitdate normal="1934/1937" type="inclusive">1934-1937</unitdate>
-            <container altrender="Half Ltr Document Storage Box" id="b9c9bde878cb58cd4eb6357742cbb760" label="mixed materials [A0000000085541]" type="box">1</container>
-            <container id="096f49e495ec63d00f9bda0a61582db9" parent="b9c9bde878cb58cd4eb6357742cbb760" type="folder">7</container>
-          </did>
-        </c>
-      </c>
-    </dsc>
-  </archdesc>
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid>FA979.xml</eadid><filedesc><titlestmt><titleproper type="filing">Gowen (John W.) papers</titleproper><titleproper>A Guide to the John W. Gowen papers, Rockefeller Institute for Medical Research Scientific Staff
+ <num>FA979</num></titleproper></titlestmt><publicationstmt><publisher>Rockefeller Archive Center</publisher><address><addressline>15 Dayton Avenue</addressline><addressline>Sleepy Hollow 10591</addressline><addressline>archive@rockarch.org</addressline><addressline>URL: <extptr xlink:href="http://www.rockarch.org" xlink:show="new" xlink:title="http://www.rockarch.org" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2019-09-05 00:21:21 -0400</date>.</creation><langusage>English</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
+  <did>
+    <langmaterial>
+      <language langcode="eng">English</language>
+    </langmaterial>
+    <repository>
+      <corpname>Rockefeller Archive Center</corpname>
+    </repository>
+    <unittitle>John W. Gowen papers, Rockefeller Institute for Medical Research Scientific Staff</unittitle>
+    <origination label="creator">
+      <corpname role="aut" source="ingest">Rockefeller Institute for Medical Research.</corpname>
+    </origination>
+    <origination label="creator">
+      <persname role="aut" rules="local" source="local">Gowen, John W.</persname>
+    </origination>
+    <unitid>FA979</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">0.19 Cubic Feet</extent>
+      <extent altrender="carrier">1 half-letter document box.</extent>
+    </physdesc>
+    <unitdate normal="1919/1937" type="inclusive">1919-1937</unitdate>
+    <physdesc id="581ef35548f815685257c0cdd84afb20">1 box.</physdesc>
+  </did>
+  <accessrestrict id="30fe64d16473a75966a56759b59016c1">
+    <head>Conditions Governing Access</head>
+<p>Access to this collection is restricted pending permission from Rockefeller University.</p>  </accessrestrict>
+  <fileplan id="53241dc03bc2857582d18c8e3b62d77d">
+    <head>File Plan</head>
+<p>Former Classification: I 450 G747</p>  </fileplan>
+  <prefercite id="71e411fcffd506c0ab3fe8b420e99f1a">
+    <head>Preferred Citation</head>
+<p>Information regarding the Rockefeller Archive Center's preferred elements and forms of citation can be found at <extref href="http://www.rockarch.org/research/citations.php">http://www.rockarch.org/research/citations.php</extref></p>  </prefercite>
+  <processinfo id="e36029560c2568b3026d5368fb5896c6">
+    <head>Processing Information</head>
+<p>CK, August 11, 1986.</p>  </processinfo>
+  <scopecontent id="5908afa9132d31474fa2f600795cc434">
+    <head>Scope and Contents</head>
+<p>Administrative correspondence.</p>  </scopecontent>
+  <dsc><c id="e27123eeece545468029aef23e37e80b" level="file"><did><unittitle>Administrative Correspondence</unittitle><unitdate normal="1919/1937" type="inclusive">1919-1937</unitdate></did><c id="c5e8399f155d4202b69324287218e27c" level="file"><did><unitdate normal="1919/1923" type="inclusive">1919-1923</unitdate><container altrender="Half Ltr Document Storage Box" id="38871440abf7a29e89cb03ea8f31dbae" label="mixed materials [A0000000085541]" type="box">1</container><container id="e43cfd8a7fca9c27c061e7db5f5d62bc" parent="38871440abf7a29e89cb03ea8f31dbae" type="folder">1</container></did></c><c id="bf0234516af04185a05c8a7dc903beea" level="file"><did><unitdate normal="1924/1925" type="inclusive">1924-1925</unitdate><container altrender="Half Ltr Document Storage Box" id="b85a811882fdddcaebaa4b4f89ce4bef" label="mixed materials [A0000000085541]" type="box">1</container><container id="b18d044c26f620f72e24e04fe7e4b1a4" parent="b85a811882fdddcaebaa4b4f89ce4bef" type="folder">2</container></did></c><c id="f3b6994fa5ec44459bd441dc93bb5a12" level="file"><did><unitdate normal="1926/1926" type="inclusive">1926</unitdate><container altrender="Half Ltr Document Storage Box" id="5bc622e2e45a3032a9e47375605eceef" label="mixed materials [A0000000085541]" type="box">1</container><container id="8ecf67ccf205b3593d5d3df1af6d5f58" parent="5bc622e2e45a3032a9e47375605eceef" type="folder">3</container></did></c><c id="5689735e3be5414cbd6211dd1c3dcab5" level="file"><did><unitdate normal="1928/1930" type="inclusive">1928-1930</unitdate><container altrender="Half Ltr Document Storage Box" id="1da954f2a19f340d15f2ff5efd75029f" label="mixed materials [A0000000085541]" type="box">1</container><container id="492201165f8bf08ab18aefcd65195ca9" parent="1da954f2a19f340d15f2ff5efd75029f" type="folder">4</container></did></c><c id="cdb7cf3d7fef495ba14ba1ac0172e063" level="file"><did><unitdate normal="1932/1932" type="inclusive">1932</unitdate><container altrender="Half Ltr Document Storage Box" id="2ec29107526ff46a20f347215f43be5e" label="mixed materials [A0000000085541]" type="box">1</container><container id="9b134b8c1c686c828dc6d91cce814008" parent="2ec29107526ff46a20f347215f43be5e" type="folder">5</container></did></c><c id="afad3656ba9a4515802f9694a23c0a9f" level="file"><did><unitdate normal="1933/1933" type="inclusive">1933</unitdate><container altrender="Half Ltr Document Storage Box" id="87a641136b0a7c37885f819b6f01b748" label="mixed materials [A0000000085541]" type="box">1</container><container id="a440330f050cc32d590b9be38eef3269" parent="87a641136b0a7c37885f819b6f01b748" type="folder">6</container></did></c><c id="cf28e10c650742de9ec41ba151e92ac0" level="file"><did><unitdate normal="1934/1937" type="inclusive">1934-1937</unitdate><container altrender="Half Ltr Document Storage Box" id="e3e88e4bc7e49950dd702f9b67d2f190" label="mixed materials [A0000000085541]" type="box">1</container><container id="2563df0dc523c471c3c48d2282aa3ade" parent="e3e88e4bc7e49950dd702f9b67d2f190" type="folder">7</container></did></c></c></dsc>
+</archdesc>
 </ead>
