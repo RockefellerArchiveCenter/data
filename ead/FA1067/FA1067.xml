@@ -1,268 +1,70 @@
-<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
-  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" repositoryencoding="iso15511">
-    <eadid>FA1067.xml</eadid>
-    <filedesc>
-      <titlestmt>
-        <titleproper type="filing">Schreiber (Morris) papers</titleproper>
-        <titleproper>A Guide to the Morris Schreiber papers, Rockefeller University Faculty
- <num>FA1067</num></titleproper>
-      </titlestmt>
-      <publicationstmt>
-        <publisher>Rockefeller Archive Center</publisher>
-        <address>
-          <addressline>15 Dayton Avenue</addressline>
-          <addressline>Sleepy Hollow 10591</addressline>
-          <addressline>archive@rockarch.org</addressline>
-          <addressline>URL: <extptr xlink:href="http://www.rockarch.org" xlink:show="new" xlink:title="http://www.rockarch.org" xlink:type="simple"/></addressline>
-        </address>
-      </publicationstmt>
-    </filedesc>
-    <profiledesc>
-      <creation>This finding aid was produced using ArchivesSpace on <date>2018-11-02 00:25:15 -0400</date>.</creation>
-      <langusage>English</langusage>
-      <descrules>Describing Archives: A Content Standard</descrules>
-    </profiledesc>
-  </eadheader>
-  <archdesc level="collection">
-    <did>
-      <langmaterial>
-        <language langcode="eng">English</language>
-      </langmaterial>
-      <repository>
-        <corpname>Rockefeller Archive Center</corpname>
-      </repository>
-      <unittitle>Morris Schreiber papers, Rockefeller University Faculty</unittitle>
-      <origination label="creator">
-        <persname role="aut" rules="dacs" source="local">Schreiber, Morris</persname>
-      </origination>
-      <unitid>FA1067</unitid>
-      <physdesc altrender="whole">
-        <extent altrender="materialtype spaceoccupied">16.8 Cubic Feet</extent>
-      </physdesc>
-      <unitdate normal="1949/1988" type="inclusive">ca. 1949-1988</unitdate>
-      <physdesc id="0a4fc3d49fd1cf0d8a9566489a1661d1">
-        <extent>14 record storage cartons.</extent>
-      </physdesc>
-      <container id="a426cc58bf97e9cf0e6239ee666333cf" label="mixed materials" type="box">4</container>
-      <container id="760bbd7a65f98e7429b60106fe8749d2" label="mixed materials" type="box">7</container>
-      <container id="35f26aab69c1ec34db6c578c05942a11" label="mixed materials" type="box">6</container>
-      <container id="f9ebc56412c8db8038de8e19bd178958" label="mixed materials" type="box">8</container>
-      <container id="db9b80b6d19b2eff7e7b4ce9e1b1db3b" label="mixed materials" type="box">2</container>
-      <container id="ff680aa39a78a4a95ccda7c57550d91a" label="mixed materials" type="box">9</container>
-      <container id="f97b41b0f8c17385b1f72e51a7701864" label="mixed materials" type="box">3</container>
-      <container id="ab75c0ecc656c3b20fa1266c1be751d0" label="mixed materials" type="box">10</container>
-      <container id="657e2096f8c1fc9b0a92b7414f21c32f" label="mixed materials" type="box">5</container>
-      <container id="c265c703620bcf45e4cb264d702e4ae0" label="mixed materials" type="box">14</container>
-      <container id="136a211ca5b9bb5d7f0f2ffd08dd1c4f" label="mixed materials" type="box">1</container>
-      <container id="1dc3e6a2b4ca483bc268131ba1559089" label="mixed materials" type="box">11</container>
-      <container id="4d96f831004b1c940e1c444d5c88edf3" label="mixed materials" type="box">12</container>
-      <container id="0a454e324f2bb16d3ed0ed100293cb21" label="mixed materials" type="box">13</container>
-    </did>
-    <processinfo id="e70f353563e0aabd1532bdff0e7ae307">
-      <head>Processing Information note</head>
-      <p>Level 1 Minimal Processing has been conducted to establish basic intellectual and physical control of the material and assess immediate preservation and conservation needs. Material primarily remains as received, in original folders and storage boxes. Some records have been rehoused into acid-free archival folders. Processing conducted by BJG, 1988 September 22.</p>
-    </processinfo>
-    <arrangement id="1a6a460dd1d78c65502fa6d467480646">
-      <head>Arrangement</head>
-      <p>Collection is arranged into 7 series:
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid>FA1067.xml</eadid><filedesc><titlestmt><titleproper type="filing">Schreiber (Morris) papers</titleproper><titleproper>A Guide to the Morris Schreiber papers, Rockefeller University Faculty
+ <num>FA1067</num></titleproper></titlestmt><publicationstmt><publisher>Rockefeller Archive Center</publisher><address><addressline>15 Dayton Avenue</addressline><addressline>Sleepy Hollow 10591</addressline><addressline>archive@rockarch.org</addressline><addressline>URL: <extptr xlink:href="http://www.rockarch.org" xlink:show="new" xlink:title="http://www.rockarch.org" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2019-09-08 00:00:56 -0400</date>.</creation><langusage>English</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
+  <did>
+    <langmaterial>
+      <language langcode="eng">English</language>
+    </langmaterial>
+    <repository>
+      <corpname>Rockefeller Archive Center</corpname>
+    </repository>
+    <unittitle>Morris Schreiber papers, Rockefeller University Faculty</unittitle>
+    <origination label="creator">
+      <persname role="aut" rules="dacs" source="local">Schreiber, Morris</persname>
+    </origination>
+    <unitid>FA1067</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">18.34 Cubic Feet</extent>
+    </physdesc>
+    <unitdate normal="1949/1988" type="inclusive">ca. 1949-1988</unitdate>
+    <physdesc id="0a4fc3d49fd1cf0d8a9566489a1661d1"><extent>14 record storage cartons.</extent></physdesc>
+    <container id="9369ef72e4eb6a37b62b7afbb486a5dd" label="mixed materials" type="box">4</container>
+    <container id="43a4dafcaeed5227c1f3983e9fde7175" label="mixed materials" type="box">7</container>
+    <container id="ae9cf415f0858bf6745b2e6dce1cea61" label="mixed materials" type="box">6</container>
+    <container id="caa6c401e4e28a2610d1c091b9336da0" label="mixed materials" type="box">8</container>
+    <container id="bcf65a6b330c8f3c86b3c7ec4d02b5c5" label="mixed materials" type="box">2</container>
+    <container id="d8548dcc6f7d2c58398ed4ea5b9268ed" label="mixed materials" type="box">9</container>
+    <container id="2ca045b9053fb8091bb6da50d52e84f6" label="mixed materials" type="box">3</container>
+    <container id="238f587a5e28c6dfdf10e48d8b5e3db7" label="mixed materials" type="box">10</container>
+    <container id="01747a9b1a8c5f0d758c9e070a199bbd" label="mixed materials" type="box">5</container>
+    <container id="293f54925d814773972608e1094f5d1f" label="mixed materials" type="box">14</container>
+    <container id="d9f933ffc413bef9be10658cbace8b67" label="mixed materials" type="box">1</container>
+    <container id="01c61be4ed7d77df0a2224eda20a2d99" label="mixed materials" type="box">11</container>
+    <container id="f4b936935dfb7224602350cf089bc4bc" label="mixed materials" type="box">12</container>
+    <container id="a0f862106f62586fde4c8571c9b6520d" label="mixed materials" type="box">13</container>
+  </did>
+  <processinfo id="e70f353563e0aabd1532bdff0e7ae307">
+    <head>Processing Information note</head>
+<p>Level 1 Minimal Processing has been conducted to establish basic intellectual and physical control of the material and assess immediate preservation and conservation needs. Material primarily remains as received, in original folders and storage boxes. Some records have been rehoused into acid-free archival folders. Processing conducted by BJG, 1988 September 22.</p>  </processinfo>
+  <arrangement id="1a6a460dd1d78c65502fa6d467480646">
+    <head>Arrangement</head>
+<p>Collection is arranged into 7 series:
 1. Budgets.
 2. Correspodence.
 3. Manuscripts.
 4. Memorabilia.
 5. Notebooks.
 6. Reprints.
-7. Subject Files.</p>
-    </arrangement>
-    <prefercite id="82b17d3bd8c3e5020f36eb29f3ef271a">
-      <head>Preferred Citation note</head>
-      <p>Information regarding the Rockefeller Archive Center's preferred elements and forms of citation can be found at <extref href="http://www.rockarch.org/research/citations.php">http://www.rockarch.org/research/citations.php</extref></p>
-    </prefercite>
-    <accessrestrict id="1701d65b41d67df2e1758e1475a47a76">
-      <head>Conditions Governing Access note</head>
-      <p>Access to this collection is restricted pending permission from Rockefeller University.</p>
-    </accessrestrict>
-    <fileplan id="0ec3c7665cea1d60435f7284d52d1933">
-      <head>File Plan note</head>
-      <p>Former Classification: I 450 Sch72-U</p>
-    </fileplan>
-    <bioghist id="eb320330e0248d5e12ed9d27d2784b3b">
-      <head>Biographical / Historical</head>
-      <p>Morris Schreiber, 1926-1988. Theorectical mathematican. 
-Dr. Schreiber joined the staff of the Rockefeller University in 1962. He lectured extensively and conducted numerous tutorials. At the time of his death, he was working on the generalization of number theory to polynomials. He passed away in New York City on April 30, 1988.</p>
-    </bioghist>
-    <scopecontent id="e753ad06765bfda55b3b825fc91bb761">
-      <head>Scope and Contents</head>
-      <p>Types of records include: correspondence, budgets, notebooks, manuscripts, and subject files.</p>
-    </scopecontent>
-    <controlaccess>
-      <corpname source="ingest">Rockefeller University.</corpname>
-    </controlaccess>
-    <dsc>
-      <c id="522c03297c4b482e9ce2f58f6b6ba986" level="series">
-        <did>
-          <unittitle>Budgets</unittitle>
-          <unitid>1</unitid>
-          <physdesc altrender="whole">
-            <extent altrender="materialtype spaceoccupied">0.6 Cubic Feet</extent>
-            <extent altrender="carrier">Extent is approximate.</extent>
-          </physdesc>
-          <unitdate normal="1971/1981" type="inclusive">1971-1981</unitdate>
-          <physdesc id="4a7b0da061868d539a8ae056c0cc7f3f">Box 14.</physdesc>
-          <container id="b59b01a1e470a1dd4b563fba0e8f4ef0" label="mixed materials" type="box">14</container>
-        </did>
-        <arrangement id="a13555d225d90ea76b86d8472f3f97bc">
-          <head>Arrangement</head>
-          <p>Arranged chronologically.</p>
-        </arrangement>
-        <scopecontent id="d944997e9e4598080f79c33cd8fc8e0e">
-          <head>Scope and Contents</head>
-          <p>Includes computer printouts of budgets.</p>
-        </scopecontent>
-        <otherfindaid id="d8b027e1a2eca4cbe68c36c7dedc243d">
-          <head>Other Finding Aids</head>
-          <p>
-            <extref href="/xtf/media/pdf/inventory/FA1067/FA1067.pdf">A PDF container list for this collection is available.</extref>
-          </p>
-        </otherfindaid>
-      </c>
-      <c id="cd3ce6ef107c44e09c22980a8fa06c3b" level="series">
-        <did>
-          <unittitle>Correspondence</unittitle>
-          <unitid>2</unitid>
-          <physdesc altrender="whole">
-            <extent altrender="materialtype spaceoccupied">0.2 Cubic Feet</extent>
-            <extent altrender="carrier">Extent is approximate.</extent>
-          </physdesc>
-          <physdesc id="07b5f87cd184888d940031dfa26dc14b">Box 1.</physdesc>
-          <container id="b6699a311fbae544fcca4482d5abb410" label="mixed materials" type="box">1</container>
-        </did>
-        <arrangement id="401789d23955f8e2a992e14898130508">
-          <head>Arrangement</head>
-          <p>Alphabetical.</p>
-        </arrangement>
-        <otherfindaid id="0d25d3ec3f27a9442748f76003e4b028">
-          <head>Other Finding Aids</head>
-          <p>
-            <extref href="/xtf/media/pdf/inventory/FA1067/FA1067.pdf">A PDF container list for this collection is available.</extref>
-          </p>
-        </otherfindaid>
-      </c>
-      <c id="e49a17aaea1f4229a184b9e8e2c00d08" level="series">
-        <did>
-          <unittitle>Manuscripts</unittitle>
-          <unitid>3</unitid>
-          <physdesc altrender="whole">
-            <extent altrender="materialtype spaceoccupied">0.6 Cubic Feet</extent>
-            <extent altrender="carrier">Extent is approximate.</extent>
-          </physdesc>
-          <physdesc id="7df031070c00e7da5f982e593a4d3d23">Box 7.</physdesc>
-          <container id="e0e3d95db691e266c7da920531c24c6c" label="mixed materials" type="box">7</container>
-        </did>
-        <otherfindaid id="068f60aba7de0ed18c47e6ed0fcbe2ed">
-          <head>Other Finding Aids</head>
-          <p>
-            <extref href="/xtf/media/pdf/inventory/FA1067/FA1067.pdf">A PDF container list for this collection is available.</extref>
-          </p>
-        </otherfindaid>
-      </c>
-      <c id="55b122de0bec4e4a9895ff9b4ccb3c11" level="series">
-        <did>
-          <unittitle>Memorabilia</unittitle>
-          <unitid>4</unitid>
-          <physdesc altrender="whole">
-            <extent altrender="materialtype spaceoccupied">0.6 Cubic Feet</extent>
-            <extent altrender="carrier">Extent is approximate.</extent>
-          </physdesc>
-          <physdesc id="45832895f0074378214afc07d792533a">Box 14.</physdesc>
-          <container id="4d4acac5a9f9a42de8c8b9f6d66c7fa0" label="mixed materials" type="box">14</container>
-        </did>
-        <scopecontent id="dc81c444cc55b19bfc29e435f4e2570d">
-          <head>Scope and Contents</head>
-          <p>Includes: articles, films, index cards, photographs and post cards.</p>
-        </scopecontent>
-        <accessrestrict id="1c0753e65c14da2ae446aafedf5ce4c8">
-          <head>Conditions Governing Access</head>
-          <p>RAC is unable to provide access to obsolete media. When feasible, a digital surrogate may be created via special order. All applicable charges will apply. See RAC Head of Archival Services or RAC Head of Digital Programs for details.</p>
-        </accessrestrict>
-        <otherfindaid id="5ad244c2cdcdd3fca5cff323069c4bb1">
-          <head>Other Finding Aids</head>
-          <p>
-            <extref href="/xtf/media/pdf/inventory/FA1067/FA1067.pdf">A PDF container list for this collection is available.</extref>
-          </p>
-        </otherfindaid>
-      </c>
-      <c id="fb628073b120426296a251c7c3ab85f8" level="series">
-        <did>
-          <unittitle>Notebooks</unittitle>
-          <unitid>5</unitid>
-          <physdesc altrender="whole">
-            <extent altrender="materialtype spaceoccupied">6.7 Cubic Feet</extent>
-            <extent altrender="carrier">Extent is approximate.</extent>
-          </physdesc>
-          <physdesc id="ddc2fc9f464d5e2070843a1a06a20aa3">Box 7-12</physdesc>
-          <container id="00d850cfd6424ab11a96bed290bc955b" label="mixed materials" type="box">7</container>
-          <container id="ba6d1c4faa3f89cd973ed8abfa7b0e58" label="mixed materials" type="box">10</container>
-          <container id="24d23625bbca2aa63066af8a50981577" label="mixed materials" type="box">11</container>
-          <container id="763e023e58f1a1d61a4284aa0340a7f1" label="mixed materials" type="box">8</container>
-          <container id="6e7a18cabaabf330e5d24332400d745a" label="mixed materials" type="box">9</container>
-          <container id="fa45fb44c75e3dd3292099faa255c4b1" label="mixed materials" type="box">12</container>
-        </did>
-        <scopecontent id="1b5fbd2dba1720bf9a56423f2b5a21b9">
-          <head>Scope and Contents</head>
-          <p>Includes: Lectures, notes and papers.</p>
-        </scopecontent>
-        <otherfindaid id="07133e30bda09e4fedd1ae532511a670">
-          <head>Other Finding Aids</head>
-          <p>
-            <extref href="/xtf/media/pdf/inventory/FA1067/FA1067.pdf">A PDF container list for this collection is available.</extref>
-          </p>
-        </otherfindaid>
-      </c>
-      <c id="05d1337bf2c5462e8909a9e14cad8206" level="series">
-        <did>
-          <unittitle>Reprints</unittitle>
-          <unitid>6</unitid>
-          <physdesc altrender="whole">
-            <extent altrender="materialtype spaceoccupied">1.2 Cubic Feet</extent>
-            <extent altrender="carrier">Extent is approximate.</extent>
-          </physdesc>
-          <physdesc id="3736dc2abcb1b4f388ab7f31998b8c2b">Box 13.</physdesc>
-          <container id="e5c702af7b653713d4e702ca45e1c37d" label="mixed materials" type="box">13</container>
-        </did>
-        <otherfindaid id="5e6c3ba19b1719006fac83eb6ec5754a">
-          <head>Other Finding Aids</head>
-          <p>
-            <extref href="/xtf/media/pdf/inventory/FA1067/FA1067.pdf">A PDF container list for this collection is available.</extref>
-          </p>
-        </otherfindaid>
-      </c>
-      <c id="26f2e2daad9c44ea8beb176391cf38cf" level="series">
-        <did>
-          <unittitle>Subject Files</unittitle>
-          <unitid>7</unitid>
-          <physdesc altrender="whole">
-            <extent altrender="materialtype spaceoccupied">7 Cubic Feet</extent>
-            <extent altrender="carrier">Extent is approximate</extent>
-          </physdesc>
-          <unitdate normal="1970/1983" type="inclusive">ca. 1970-1983</unitdate>
-          <container id="68a8a4958d35bcc7074076a034769edb" label="mixed materials" type="box">5</container>
-          <container id="5f31af9b69504e2de69ff059d64be162" label="mixed materials" type="box">6</container>
-          <container id="b8974115a0fc1eaa18944b1220fdf802" label="mixed materials" type="box">3</container>
-          <container id="d9bdee57a57d14b673feaccc782722ef" label="mixed materials" type="box">4</container>
-          <container id="b8dd3ab289c41ec49fc4b7ca56b5ad09" label="mixed materials" type="box">1</container>
-          <container id="ae486e85898463da286834e8041f6dff" label="mixed materials" type="box">2</container>
-        </did>
-        <scopecontent id="9962f29ef8a2ad966ef94cdac9461e80">
-          <head>Scope and Contents</head>
-          <p>Includes: correspondence, notes and papers.</p>
-        </scopecontent>
-        <otherfindaid id="3edd0c9139ebbb6b8f0a8e6cd784d31d">
-          <head>Other Finding Aids</head>
-          <p>
-            <extref href="/xtf/media/pdf/inventory/FA1067/FA1067.pdf">A PDF container list for this collection is available.</extref>
-          </p>
-        </otherfindaid>
-      </c>
-    </dsc>
-  </archdesc>
+7. Subject Files.</p>  </arrangement>
+  <prefercite id="82b17d3bd8c3e5020f36eb29f3ef271a">
+    <head>Preferred Citation note</head>
+<p>Information regarding the Rockefeller Archive Center's preferred elements and forms of citation can be found at <extref href="http://www.rockarch.org/research/citations.php">http://www.rockarch.org/research/citations.php</extref></p>  </prefercite>
+  <accessrestrict id="1701d65b41d67df2e1758e1475a47a76">
+    <head>Conditions Governing Access note</head>
+<p>Access to this collection is restricted pending permission from Rockefeller University.</p>  </accessrestrict>
+  <fileplan id="0ec3c7665cea1d60435f7284d52d1933">
+    <head>File Plan note</head>
+<p>Former Classification: I 450 Sch72-U</p>  </fileplan>
+  <bioghist id="eb320330e0248d5e12ed9d27d2784b3b">
+    <head>Biographical / Historical</head>
+<p>Morris Schreiber, 1926-1988. Theorectical mathematican. 
+Dr. Schreiber joined the staff of the Rockefeller University in 1962. He lectured extensively and conducted numerous tutorials. At the time of his death, he was working on the generalization of number theory to polynomials. He passed away in New York City on April 30, 1988.</p>  </bioghist>
+  <scopecontent id="e753ad06765bfda55b3b825fc91bb761">
+    <head>Scope and Contents</head>
+<p>Types of records include: correspondence, budgets, notebooks, manuscripts, and subject files.</p>  </scopecontent>
+  <controlaccess>
+    <corpname source="ingest">Rockefeller University.</corpname>
+  </controlaccess>
+  <dsc><c id="522c03297c4b482e9ce2f58f6b6ba986" level="series"><did><unittitle>Budgets</unittitle><unitid>1</unitid><physdesc altrender="whole"><extent altrender="materialtype spaceoccupied">0.6 Cubic Feet</extent><extent altrender="carrier">Extent is approximate.</extent></physdesc><unitdate normal="1971/1981" type="inclusive">1971-1981</unitdate><physdesc id="4a7b0da061868d539a8ae056c0cc7f3f">Box 14.</physdesc><container id="0e9582311f41a6519f4cc32addccae27" label="mixed materials" type="box">14</container></did><arrangement id="a13555d225d90ea76b86d8472f3f97bc"><head>Arrangement</head><p>Arranged chronologically.</p></arrangement><scopecontent id="d944997e9e4598080f79c33cd8fc8e0e"><head>Scope and Contents</head><p>Includes computer printouts of budgets.</p></scopecontent><otherfindaid id="d8b027e1a2eca4cbe68c36c7dedc243d"><head>Other Finding Aids</head><p><extref href="/xtf/media/pdf/inventory/FA1067/FA1067.pdf">A PDF container list for this collection is available.</extref></p></otherfindaid></c><c id="cd3ce6ef107c44e09c22980a8fa06c3b" level="series"><did><unittitle>Correspondence</unittitle><unitid>2</unitid><physdesc altrender="whole"><extent altrender="materialtype spaceoccupied">0.2 Cubic Feet</extent><extent altrender="carrier">Extent is approximate.</extent></physdesc><physdesc id="07b5f87cd184888d940031dfa26dc14b">Box 1.</physdesc><container id="a35fe272717f9b23120f3fd5619a6106" label="mixed materials" type="box">1</container></did><arrangement id="401789d23955f8e2a992e14898130508"><head>Arrangement</head><p>Alphabetical.</p></arrangement><otherfindaid id="0d25d3ec3f27a9442748f76003e4b028"><head>Other Finding Aids</head><p><extref href="/xtf/media/pdf/inventory/FA1067/FA1067.pdf">A PDF container list for this collection is available.</extref></p></otherfindaid></c><c id="e49a17aaea1f4229a184b9e8e2c00d08" level="series"><did><unittitle>Manuscripts</unittitle><unitid>3</unitid><physdesc altrender="whole"><extent altrender="materialtype spaceoccupied">0.6 Cubic Feet</extent><extent altrender="carrier">Extent is approximate.</extent></physdesc><physdesc id="7df031070c00e7da5f982e593a4d3d23">Box 7.</physdesc><container id="0535df7ddf38a5a7692e9d58cdab5a16" label="mixed materials" type="box">7</container></did><otherfindaid id="068f60aba7de0ed18c47e6ed0fcbe2ed"><head>Other Finding Aids</head><p><extref href="/xtf/media/pdf/inventory/FA1067/FA1067.pdf">A PDF container list for this collection is available.</extref></p></otherfindaid></c><c id="55b122de0bec4e4a9895ff9b4ccb3c11" level="series"><did><unittitle>Memorabilia</unittitle><unitid>4</unitid><physdesc altrender="whole"><extent altrender="materialtype spaceoccupied">0.6 Cubic Feet</extent><extent altrender="carrier">Extent is approximate.</extent></physdesc><physdesc id="45832895f0074378214afc07d792533a">Box 14.</physdesc><container id="372e4b1b436284214ad12358fe4a87c2" label="mixed materials" type="box">14</container></did><scopecontent id="dc81c444cc55b19bfc29e435f4e2570d"><head>Scope and Contents</head><p>Includes: articles, films, index cards, photographs and post cards.</p></scopecontent><accessrestrict id="1c0753e65c14da2ae446aafedf5ce4c8"><head>Conditions Governing Access</head><p>RAC is unable to provide access to obsolete media. When feasible, a digital surrogate may be created via special order. All applicable charges will apply. See RAC Head of Archival Services or RAC Head of Digital Programs for details.</p></accessrestrict><otherfindaid id="5ad244c2cdcdd3fca5cff323069c4bb1"><head>Other Finding Aids</head><p><extref href="/xtf/media/pdf/inventory/FA1067/FA1067.pdf">A PDF container list for this collection is available.</extref></p></otherfindaid></c><c id="fb628073b120426296a251c7c3ab85f8" level="series"><did><unittitle>Notebooks</unittitle><unitid>5</unitid><physdesc altrender="whole"><extent altrender="materialtype spaceoccupied">6.7 Cubic Feet</extent><extent altrender="carrier">Extent is approximate.</extent></physdesc><physdesc id="ddc2fc9f464d5e2070843a1a06a20aa3">Box 7-12</physdesc><container id="892c0ba5a4327a6293a4abb1f79bb03c" label="mixed materials" type="box">7</container><container id="dcf82f442e36ab84deba1dfcb1d2a7aa" label="mixed materials" type="box">10</container><container id="1750f11ecbed4ca4eecc796e2a942019" label="mixed materials" type="box">11</container><container id="e69a4954eff2d19b1ca2bc82abd64751" label="mixed materials" type="box">8</container><container id="99512d044e5856ddbc554b8d9acaef7d" label="mixed materials" type="box">9</container><container id="fd8a26c40cb986a915be2890fc0fac02" label="mixed materials" type="box">12</container></did><scopecontent id="1b5fbd2dba1720bf9a56423f2b5a21b9"><head>Scope and Contents</head><p>Includes: Lectures, notes and papers.</p></scopecontent><otherfindaid id="07133e30bda09e4fedd1ae532511a670"><head>Other Finding Aids</head><p><extref href="/xtf/media/pdf/inventory/FA1067/FA1067.pdf">A PDF container list for this collection is available.</extref></p></otherfindaid></c><c id="05d1337bf2c5462e8909a9e14cad8206" level="series"><did><unittitle>Reprints</unittitle><unitid>6</unitid><physdesc altrender="whole"><extent altrender="materialtype spaceoccupied">1.2 Cubic Feet</extent><extent altrender="carrier">Extent is approximate.</extent></physdesc><physdesc id="3736dc2abcb1b4f388ab7f31998b8c2b">Box 13.</physdesc><container id="c9dcde577a1283227127e4ed11cad39f" label="mixed materials" type="box">13</container></did><otherfindaid id="5e6c3ba19b1719006fac83eb6ec5754a"><head>Other Finding Aids</head><p><extref href="/xtf/media/pdf/inventory/FA1067/FA1067.pdf">A PDF container list for this collection is available.</extref></p></otherfindaid></c><c id="26f2e2daad9c44ea8beb176391cf38cf" level="series"><did><unittitle>Subject Files</unittitle><unitid>7</unitid><physdesc altrender="whole"><extent altrender="materialtype spaceoccupied">7 Cubic Feet</extent><extent altrender="carrier">Extent is approximate</extent></physdesc><unitdate normal="1970/1983" type="inclusive">ca. 1970-1983</unitdate><container id="37ffb1c1b18840c8f0f7dc141fc773a3" label="mixed materials" type="box">5</container><container id="b6c7de3342df65b92534c03eb55bc638" label="mixed materials" type="box">6</container><container id="9a6329f47217dfb029954e20262e074f" label="mixed materials" type="box">3</container><container id="355b721b477fd052f096f74f009e4d28" label="mixed materials" type="box">4</container><container id="ecd02ba3feb8950779a5e83f5d636b2c" label="mixed materials" type="box">1</container><container id="e5eaf7fc7f7ec658d71d9e2521923801" label="mixed materials" type="box">2</container></did><scopecontent id="9962f29ef8a2ad966ef94cdac9461e80"><head>Scope and Contents</head><p>Includes: correspondence, notes and papers.</p></scopecontent><otherfindaid id="3edd0c9139ebbb6b8f0a8e6cd784d31d"><head>Other Finding Aids</head><p><extref href="/xtf/media/pdf/inventory/FA1067/FA1067.pdf">A PDF container list for this collection is available.</extref></p></otherfindaid></c></dsc>
+</archdesc>
 </ead>
