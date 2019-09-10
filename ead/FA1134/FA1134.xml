@@ -1,264 +1,41 @@
-<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
-  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" repositoryencoding="iso15511">
-    <eadid>FA1134.xml</eadid>
-    <filedesc>
-      <titlestmt>
-        <titleproper type="filing">Commonwealth Fund records, Grant and Program Reviews, SG 2, Series 9</titleproper>
-        <titleproper>A Guide to the Commonwealth Fund records, Grant and Program Reviews, SG 2, Series 9 <num>FA1134</num></titleproper>
-      </titlestmt>
-      <publicationstmt>
-        <publisher>Rockefeller Archive Center</publisher>
-        <address>
-          <addressline>15 Dayton Avenue</addressline>
-          <addressline>Sleepy Hollow 10591</addressline>
-          <addressline>archive@rockarch.org</addressline>
-          <addressline>URL: <extptr xlink:href="http://www.rockarch.org" xlink:show="new" xlink:title="http://www.rockarch.org" xlink:type="simple"/></addressline>
-        </address>
-      </publicationstmt>
-    </filedesc>
-    <profiledesc>
-      <creation>This finding aid was produced using ArchivesSpace on <date>2019-02-15 00:08:48 -0500</date>.</creation>
-      <descrules>Describing Archives: A Content Standard</descrules>
-    </profiledesc>
-  </eadheader>
-  <archdesc level="series">
-    <did>
-      <langmaterial>
-        <language langcode="eng">English</language>
-      </langmaterial>
-      <repository>
-        <corpname>Rockefeller Archive Center</corpname>
-      </repository>
-      <unittitle>Commonwealth Fund records, Grant and Program Reviews, SG 2, Series 9</unittitle>
-      <origination label="creator">
-        <corpname role="aut" source="ingest">Commonwealth Fund.</corpname>
-      </origination>
-      <unitid>FA1134</unitid>
-      <physdesc altrender="whole">
-        <extent altrender="materialtype spaceoccupied">2.64 Cubic Feet</extent>
-        <extent altrender="carrier">6 document boxes.</extent>
-      </physdesc>
-      <unitdate normal="1984/1993" type="inclusive">1984-1993</unitdate>
-    </did>
-    <arrangement id="87d3efaf019250ca17171fce9d665a9d">
-      <head>Arrangement</head>
-      <p>As received.</p>
-    </arrangement>
-    <acqinfo id="2f9d99b55e3df62133a7bb106385a270">
-      <head>Immediate Source of Acquisition</head>
-      <p>Records in this series were transferred to RAC in October 1996.</p>
-    </acqinfo>
-    <userestrict id="ab5ec852f2d0d60b555925798b33c5b4">
-      <head>Conditions Governing Use</head>
-      <p>Donated to RAC by Commonwealth Fund in 1985. RAC has legal title, copyright and literary rights to the collection in so far as it holds them.</p>
-    </userestrict>
-    <scopecontent id="9468e4f0fd78af03fbc77e37bd1b47ea">
-      <head>Scope and Contents</head>
-      <p>A selection of grant, project and program review sessions from the mid-1980s through the mid-1990s.</p>
-    </scopecontent>
-    <accessrestrict id="87a7ab465daca2227923e8efb4af7980">
-      <head>Conditions Governing Access</head>
-      <p>Open for research. Brittle or damaged items are available at the discretion of RAC. Researchers interested in accessing digital media (floppy disks, CDs, DVDs, etc.) or audiovisual material (audio cassettes, VHS, etc.) in this collection must use an access surrogate. The original items may not be accessed because of preservation concerns. To request an access surrogate be made, or if you are unsure if there is an access surrogate, please contact an archivist.</p>
-    </accessrestrict>
-    <prefercite id="2f9fcaf082d859c39f4f46e1bfd4b3f9">
-      <head>Preferred Citation</head>
-      <p>Information regarding the Rockefeller Archive Center's preferred elements and forms of citation can be found at <extref href="http://www.rockarch.org/research/citations.php">http://www.rockarch.org/research/citations.php</extref></p>
-    </prefercite>
-    <dsc>
-      <c id="b4b339bd7ada92194f418df2ec86b2b0" level="file">
-        <did>
-          <unittitle>Grant Review Sessions - Commonwealth Fund</unittitle>
-          <unitdate normal="1987/1987">1987 August</unitdate>
-          <container altrender="Letter Document Storage Box" id="f2570acb3ffcafd2f9ed14ecdf5819df" label="mixed materials [A0000000075596]" type="box">1</container>
-          <container id="844ea083e2baacb5ad0b224d7f513de1" parent="f2570acb3ffcafd2f9ed14ecdf5819df" type="folder">1-5</container>
-        </did>
-      </c>
-      <c id="0bfa43e084273e4faa527d7e9ff81890" level="file">
-        <did>
-          <unittitle>Grant Review Sessions - Commonwealth Fund</unittitle>
-          <unitdate normal="1987/1987">1987 October</unitdate>
-          <container altrender="Letter Document Storage Box" id="8f7e9525c75749ec7a948d1d2a4defb6" label="mixed materials [A0000000075597]" type="box">2</container>
-          <container id="fd52246835a3e5d6e99f67af67b444c3" parent="8f7e9525c75749ec7a948d1d2a4defb6" type="folder">6</container>
-        </did>
-      </c>
-      <c id="095d7fd439d3d2c4fe1d7329329770b9" level="file">
-        <did>
-          <unittitle>Grant Review Sessions - Living at Home Program</unittitle>
-          <unitdate normal="1987/1987">1987 December</unitdate>
-          <container altrender="Letter Document Storage Box" id="9aa2caf11c838ebddabe0874df3a6de5" label="mixed materials [A0000000075597]" type="box">2</container>
-          <container id="de594c570c82eab798183352edb9653d" parent="9aa2caf11c838ebddabe0874df3a6de5" type="folder">7-9</container>
-        </did>
-      </c>
-      <c id="2e1cb4aa54fb2dfc81ce6e4bc802bf98" level="file">
-        <did>
-          <unittitle>Grant Review Sessions - Living at Home Program</unittitle>
-          <unitdate>1988 November</unitdate>
-          <container altrender="Letter Document Storage Box" id="9f8ce902976a2e598e22fb5e643d6073" label="mixed materials [A0000000075597]" type="box">2</container>
-          <container id="5ca80d72515952bdf8dec3d842970619" parent="9f8ce902976a2e598e22fb5e643d6073" type="folder">10</container>
-        </did>
-      </c>
-      <c id="c591ec7800281b2c56d8e8bf7c542050" level="file">
-        <did>
-          <unittitle>Grant Review Sessions - Living at Home Program</unittitle>
-          <unitdate normal="1988/1988">1988 October</unitdate>
-          <container altrender="Letter Document Storage Box" id="325d93f117f2af9f2b0168eeb0036764" label="mixed materials [A0000000075598]" type="box">3</container>
-          <container id="0a3e767744adfc429dad82813fedbb0f" parent="325d93f117f2af9f2b0168eeb0036764" type="folder">11</container>
-        </did>
-      </c>
-      <c id="276b343ec78846b30411eac1d83188c0" level="file">
-        <did>
-          <unittitle>Program Review Sessions - Task Force on Academic Health Centers</unittitle>
-          <unitdate normal="1988/1988">1988 February</unitdate>
-          <container altrender="Letter Document Storage Box" id="2c80a30ca686a8342a755f6107856bb2" label="mixed materials [A0000000075598]" type="box">3</container>
-          <container id="b90379c8b9226f07ed6a0a8ca83ac2df" parent="2c80a30ca686a8342a755f6107856bb2" type="folder">12-15</container>
-        </did>
-      </c>
-      <c id="ff5c38019c9e68c50802d0b1ab55e623" level="file">
-        <did>
-          <unittitle>Program Review Sessions - Youth Programs</unittitle>
-          <unitdate normal="1993/1994" type="inclusive">1993-1994</unitdate>
-          <container altrender="Letter Document Storage Box" id="5ef1201c230ddd8c766769078a9cb9c9" label="mixed materials [A0000000075598]" type="box">3</container>
-          <container id="12d19561211c6b540e07e0331c5eb6f4" parent="5ef1201c230ddd8c766769078a9cb9c9" type="folder">16</container>
-          <container altrender="Letter Document Storage Box" id="b31471e660e26ef1db76706205c36fcc" label="mixed materials [A0000000075599]" type="box">4</container>
-          <container id="ce3f10aeb5bce6cbbe84e2e552aa7c50" parent="b31471e660e26ef1db76706205c36fcc" type="folder">17</container>
-        </did>
-      </c>
-      <c id="60e1696d75360922ae1c475fd9756ecd" level="file">
-        <did>
-          <unittitle>Program Review Sessions - Nursing</unittitle>
-          <unitdate normal="1993/1993">1993</unitdate>
-          <container altrender="Letter Document Storage Box" id="6b4ef540c0fc048d141374e789ea1050" label="mixed materials [A0000000075599]" type="box">4</container>
-          <container id="91dffe1784889fa19ba4989eb2e0e403" parent="6b4ef540c0fc048d141374e789ea1050" type="folder">18-19</container>
-        </did>
-      </c>
-      <c id="689b55e6a3877033c57f34575f500f49" level="file">
-        <did>
-          <unittitle>Grant Review Session - Children's Defense Fund</unittitle>
-          <unitdate normal="1989/1989">1989 June</unitdate>
-          <container altrender="Letter Document Storage Box" id="ea631531f13ad8080e88af1ed1102844" label="mixed materials [A0000000075599]" type="box">4</container>
-          <container id="6ffc7314da418f5ec64c3585ce17100d" parent="ea631531f13ad8080e88af1ed1102844" type="folder">20</container>
-        </did>
-      </c>
-      <c id="3fb0568816f212a3d8abf4d77487fb64" level="file">
-        <did>
-          <unittitle>Program Review Sessions - Saving Lives Program</unittitle>
-          <unitdate normal="1989/1992" type="inclusive">1989, 1992</unitdate>
-          <container altrender="Letter Document Storage Box" id="0cee7fbf03be7b62b690c5d8ba24b276" label="mixed materials [A0000000075599]" type="box">4</container>
-          <container id="0ab56072e0bfff38bedb9e767cb7ee8d" parent="0cee7fbf03be7b62b690c5d8ba24b276" type="folder">21-23</container>
-          <container altrender="Letter Document Storage Box" id="6368b2f93fd280fcfbf7592b6c482b39" label="mixed materials [A0000000075600]" type="box">5</container>
-          <container id="069c2db3541c3b7e9609784b78824ddf" parent="6368b2f93fd280fcfbf7592b6c482b39" type="folder">24</container>
-        </did>
-      </c>
-      <c id="51d142e63ccbd5c9e24976e7ff2d46e1" level="file">
-        <did>
-          <unittitle>Program Development Seminar</unittitle>
-          <unitdate normal="1989/1989">1989 August</unitdate>
-          <container altrender="Letter Document Storage Box" id="c6ec5d851cfb88e9f404c9210989bc13" label="mixed materials [A0000000075600]" type="box">5</container>
-          <container id="dfd175bc24bf46c526990a2420e6dd95" parent="c6ec5d851cfb88e9f404c9210989bc13" type="folder">25-26</container>
-        </did>
-      </c>
-      <c id="2422e25dc83fc7c07904d5443c76c098" level="file">
-        <did>
-          <unittitle>Management Seminar</unittitle>
-          <unitdate normal="1987/1988" type="inclusive">1987 August-1988 June</unitdate>
-          <container altrender="Letter Document Storage Box" id="af65189dd26774fac06533ea439a9179" label="mixed materials [A0000000075600]" type="box">5</container>
-          <container id="b20c80159cae00c4c46b12414a320bb4" parent="af65189dd26774fac06533ea439a9179" type="folder">27</container>
-        </did>
-      </c>
-      <c id="747feff75eaa568919138adc3143ddb9" level="file">
-        <did>
-          <unittitle>The Commonwealth Fund at Hurricane Island Outward Bound School</unittitle>
-          <unitdate normal="1987/1987">1987 August</unitdate>
-          <physdesc id="2a9d1ce277414b2aa100d81477ab36cf">12 minutes</physdesc>
-          <materialspec id="e8c0b8325018ba51f451d90f13d088ee">VHS</materialspec>
-          <container altrender="Lgl Document Storage Box" id="fd17fd92a8e00ea17211554b33442a54" label="Moving Images [A0000000089571]" type="box">1</container>
-          <container id="2c99a99e50180826ab12d7cbeea616c1" parent="fd17fd92a8e00ea17211554b33442a54" type="Tape">AV 11749</container>
-        </did>
-        <accessrestrict id="0aed1a82849654aa7740325fcf9910e5">
-          <head>Conditions Governing Access</head>
-          <p>Access copy currently unavailable. Please see a RAC archivist for further instruction.</p>
-        </accessrestrict>
-        <scopecontent id="94954f20d70aa0880548d6a97f0e3afc">
-          <head>Scope and Contents</head>
-          <p>Management seminar.</p>
-        </scopecontent>
-        <relatedmaterial id="9579f602d6308e3e98eb12f90e7bf0d0">
-          <head>Related Materials</head>
-          <p>From Box: 5 [A0000000075600], Folder: 27</p>
-        </relatedmaterial>
-      </c>
-      <c id="2258034b94d28be649322b0bafbe8512" level="file">
-        <did>
-          <unittitle>Grant Review Sessions - Commonwealth Fund</unittitle>
-          <unitdate normal="1984/1986" type="inclusive">1984-1986</unitdate>
-          <container altrender="Letter Document Storage Box" id="29ac736acf7bcaa9403074c7e74afdde" label="mixed materials [A0000000075600]" type="box">5</container>
-          <container id="814eff8a261136eac6a377dfc47bf3cb" parent="29ac736acf7bcaa9403074c7e74afdde" type="folder">28-29</container>
-          <container altrender="Letter Document Storage Box" id="8bcc4fbfddaa3afb52cfae6b577dffd6" label="mixed materials [A0000000075601]" type="box">6</container>
-          <container id="0bb2a69002933ab38165471aed67fbcb" parent="8bcc4fbfddaa3afb52cfae6b577dffd6" type="folder">30</container>
-        </did>
-      </c>
-      <c id="61144a05d281400b98228019b098be4b" level="file">
-        <did>
-          <unittitle>Program Review Sessions - Grants Monitoring Program</unittitle>
-          <unitdate normal="1993/1993">1993 January</unitdate>
-          <container altrender="Letter Document Storage Box" id="7d4bd1cabbadf5877371b6ff3634ac02" label="mixed materials [A0000000075601]" type="box">6</container>
-          <container id="c3f02a8ef5277737cb2e9ee7f1524608" parent="7d4bd1cabbadf5877371b6ff3634ac02" type="folder">31</container>
-        </did>
-      </c>
-      <c id="ad3487bbc2124e47e2b614969a7e0a5d" level="file">
-        <did>
-          <unittitle>Program Review Sessions - Consumer Choice in Home Care</unittitle>
-          <unitdate normal="1990/1990">1990 January</unitdate>
-          <container altrender="Letter Document Storage Box" id="cd5f5994fa19701adcbdd12552ed09be" label="mixed materials [A0000000075601]" type="box">6</container>
-          <container id="90e487ca60e161f649f363a4d7c3832b" parent="cd5f5994fa19701adcbdd12552ed09be" type="folder">32</container>
-        </did>
-      </c>
-      <c id="4f9b39cd489037ccf604f8988dffe84a" level="file">
-        <did>
-          <unittitle>Program Review Sessions - Picker-Commonwealth Fund Patient-Centered Care Program</unittitle>
-          <unitdate normal="1991/1992" type="inclusive">1991-1992</unitdate>
-          <container altrender="Letter Document Storage Box" id="8ff9b4b6c40fc628b87cc765d42b4825" label="mixed materials [A0000000075601]" type="box">6</container>
-          <container id="354d47dd30f9a4e2eb797fcf55573597" parent="8ff9b4b6c40fc628b87cc765d42b4825" type="folder">33</container>
-        </did>
-      </c>
-      <c id="9d2331317e07543783514427b388b159" level="file">
-        <did>
-          <unittitle>Program Review Sessions - Career Beginnings Evaluation Meeting</unittitle>
-          <unitdate normal="1990/1990">1990 May</unitdate>
-          <container altrender="Letter Document Storage Box" id="126ebf745b0b3674288e7842ccbd4baf" label="mixed materials [A0000000075601]" type="box">6</container>
-          <container id="ae06db1754ed40d3764b84a613374740" parent="126ebf745b0b3674288e7842ccbd4baf" type="folder">34</container>
-        </did>
-      </c>
-      <c id="d689ba418df5e0b9545a96a24033f853" level="file">
-        <did>
-          <unittitle>Project Review - Angioplasty</unittitle>
-          <unitdate normal="1990/1990">1990 September</unitdate>
-          <container altrender="Letter Document Storage Box" id="dd4359d6af387dbf5fa5ff13c4f5a3ae" label="mixed materials [A0000000075601]" type="box">6</container>
-          <container id="84fd5690479aeb461a20baba57e757e5" parent="dd4359d6af387dbf5fa5ff13c4f5a3ae" type="folder">35</container>
-        </did>
-      </c>
-      <c id="0218d74e298d8add2a8b96a8859bbde8" level="file">
-        <did>
-          <unittitle>Program Review Sessions - Americans Over-50 at Work Program</unittitle>
-          <container altrender="Letter Document Storage Box" id="d535166b2048413e23c027ab43f14e81" label="mixed materials [A0000000075601]" type="box">6</container>
-          <container id="31ca8d61d1bd21d731d320eb09a0520f" parent="d535166b2048413e23c027ab43f14e81" type="folder">36</container>
-        </did>
-      </c>
-      <c id="ce454983d60c6b712473607a30a04a35" level="file">
-        <did>
-          <unittitle>Program Review Sessions - Health Care and Nursing</unittitle>
-          <unitdate normal="1991/1992" type="inclusive">1991-1992</unitdate>
-          <container altrender="Letter Document Storage Box" id="c89b1e5ed6e9fecc6b1dcfd18a098d4d" label="mixed materials [A0000000075601]" type="box">6</container>
-          <container id="73f4cfb2d75e9e8fe2d1931b908e2aee" parent="c89b1e5ed6e9fecc6b1dcfd18a098d4d" type="folder">37</container>
-        </did>
-      </c>
-      <c id="a2ff5991791cbed2c6b7fba4a07f958d" level="file">
-        <did>
-          <unittitle>Program Review Sessions - Sponsor-A-Scholar Program</unittitle>
-          <container altrender="Letter Document Storage Box" id="4230108dd7689e6f2d6bf8aed035d69e" label="mixed materials [A0000000075601]" type="box">6</container>
-          <container id="b19df86cbd22725d43c97279de0f0429" parent="4230108dd7689e6f2d6bf8aed035d69e" type="folder">38</container>
-        </did>
-      </c>
-    </dsc>
-  </archdesc>
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid>FA1134.xml</eadid><filedesc><titlestmt><titleproper type="filing">Commonwealth Fund records, Grant and Program Reviews, SG 2, Series 9</titleproper><titleproper>A Guide to the Commonwealth Fund records, Grant and Program Reviews, SG 2, Series 9 <num>FA1134</num></titleproper></titlestmt><publicationstmt><publisher>Rockefeller Archive Center</publisher><address><addressline>15 Dayton Avenue</addressline><addressline>Sleepy Hollow 10591</addressline><addressline>archive@rockarch.org</addressline><addressline>URL: <extptr xlink:href="http://www.rockarch.org" xlink:show="new" xlink:title="http://www.rockarch.org" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2019-09-10 00:08:00 -0400</date>.</creation><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="series">
+  <did>
+    <langmaterial>
+      <language langcode="eng">English</language>
+    </langmaterial>
+    <repository>
+      <corpname>Rockefeller Archive Center</corpname>
+    </repository>
+    <unittitle>Commonwealth Fund records, Grant and Program Reviews, SG 2, Series 9</unittitle>
+    <origination label="creator">
+      <corpname role="aut" source="ingest">Commonwealth Fund.</corpname>
+    </origination>
+    <unitid>FA1134</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">2.75 Cubic Feet</extent>
+      <extent altrender="carrier">6 letter document boxes, 1 legal document box</extent>
+    </physdesc>
+    <unitdate normal="1984/1993" type="inclusive">1984-1993</unitdate>
+  </did>
+  <arrangement id="87d3efaf019250ca17171fce9d665a9d">
+    <head>Arrangement</head>
+<p>As received.</p>  </arrangement>
+  <acqinfo id="2f9d99b55e3df62133a7bb106385a270">
+    <head>Immediate Source of Acquisition</head>
+<p>Records in this series were transferred to RAC in October 1996.</p>  </acqinfo>
+  <userestrict id="ab5ec852f2d0d60b555925798b33c5b4">
+    <head>Conditions Governing Use</head>
+<p>Donated to RAC by Commonwealth Fund in 1985. RAC has legal title, copyright and literary rights to the collection in so far as it holds them.</p>  </userestrict>
+  <scopecontent id="9468e4f0fd78af03fbc77e37bd1b47ea">
+    <head>Scope and Contents</head>
+<p>A selection of grant, project and program review sessions from the mid-1980s through the mid-1990s.</p>  </scopecontent>
+  <accessrestrict id="87a7ab465daca2227923e8efb4af7980">
+    <head>Conditions Governing Access</head>
+<p>Open for research. Brittle or damaged items are available at the discretion of RAC. Researchers interested in accessing digital media (floppy disks, CDs, DVDs, etc.) or audiovisual material (audio cassettes, VHS, etc.) in this collection must use an access surrogate. The original items may not be accessed because of preservation concerns. To request an access surrogate be made, or if you are unsure if there is an access surrogate, please contact an archivist.</p>  </accessrestrict>
+  <prefercite id="2f9fcaf082d859c39f4f46e1bfd4b3f9">
+    <head>Preferred Citation</head>
+<p>Information regarding the Rockefeller Archive Center's preferred elements and forms of citation can be found at <extref href="http://www.rockarch.org/research/citations.php">http://www.rockarch.org/research/citations.php</extref></p>  </prefercite>
+  <dsc><c id="b4b339bd7ada92194f418df2ec86b2b0" level="file"><did><unittitle>Grant Review Sessions - Commonwealth Fund</unittitle><unitdate normal="1987/1987">1987 August</unitdate><container altrender="Letter Document Storage Box" id="097713d1dc6abbedd986104807cec072" label="mixed materials [A0000000075596]" type="box">1</container><container id="8e1d973538c5e4a020a3ffecce93e9b1" parent="097713d1dc6abbedd986104807cec072" type="folder">1-5</container></did></c><c id="0bfa43e084273e4faa527d7e9ff81890" level="file"><did><unittitle>Grant Review Sessions - Commonwealth Fund</unittitle><unitdate normal="1987/1987">1987 October</unitdate><container altrender="Letter Document Storage Box" id="dddb3d70f0afd6056913f18553c3d334" label="mixed materials [A0000000075597]" type="box">2</container><container id="77b70577b031f770d034022297059e18" parent="dddb3d70f0afd6056913f18553c3d334" type="folder">6</container></did></c><c id="095d7fd439d3d2c4fe1d7329329770b9" level="file"><did><unittitle>Grant Review Sessions - Living at Home Program</unittitle><unitdate normal="1987/1987">1987 December</unitdate><container altrender="Letter Document Storage Box" id="4ae390d822d81b64caa2d6541f7d7d78" label="mixed materials [A0000000075597]" type="box">2</container><container id="09e739994c3ac0f3ff10f17ea7c1ac29" parent="4ae390d822d81b64caa2d6541f7d7d78" type="folder">7-9</container></did></c><c id="2e1cb4aa54fb2dfc81ce6e4bc802bf98" level="file"><did><unittitle>Grant Review Sessions - Living at Home Program</unittitle><unitdate>1988 November</unitdate><container altrender="Letter Document Storage Box" id="ea910c40d3c52e63c9668c142aed5675" label="mixed materials [A0000000075597]" type="box">2</container><container id="435522077afc251f76d94c01bc7c024b" parent="ea910c40d3c52e63c9668c142aed5675" type="folder">10</container></did></c><c id="c591ec7800281b2c56d8e8bf7c542050" level="file"><did><unittitle>Grant Review Sessions - Living at Home Program</unittitle><unitdate normal="1988/1988">1988 October</unitdate><container altrender="Letter Document Storage Box" id="ec8b4f91908e95d899738f720b36c27b" label="mixed materials [A0000000075598]" type="box">3</container><container id="9631c600d035cc5996f6a4bec21802bc" parent="ec8b4f91908e95d899738f720b36c27b" type="folder">11</container></did></c><c id="276b343ec78846b30411eac1d83188c0" level="file"><did><unittitle>Program Review Sessions - Task Force on Academic Health Centers</unittitle><unitdate normal="1988/1988">1988 February</unitdate><container altrender="Letter Document Storage Box" id="3e6caa04e08189bc1225b98c62cc477e" label="mixed materials [A0000000075598]" type="box">3</container><container id="dc5a62970caf1dbdb5a538d7b13b34ea" parent="3e6caa04e08189bc1225b98c62cc477e" type="folder">12-15</container></did></c><c id="ff5c38019c9e68c50802d0b1ab55e623" level="file"><did><unittitle>Program Review Sessions - Youth Programs</unittitle><unitdate normal="1993/1994" type="inclusive">1993-1994</unitdate><container altrender="Letter Document Storage Box" id="c0580c8ce799eacdb3a5db6bc4e3932e" label="mixed materials [A0000000075598]" type="box">3</container><container id="5c9f0800aa758e46c93ac589e11e21dd" parent="c0580c8ce799eacdb3a5db6bc4e3932e" type="folder">16</container><container altrender="Letter Document Storage Box" id="033fc4eaa0c15750c978e6860ebb5d0c" label="mixed materials [A0000000075599]" type="box">4</container><container id="acfda9ec2dab6ab66a9c16cf600089c4" parent="033fc4eaa0c15750c978e6860ebb5d0c" type="folder">17</container></did></c><c id="60e1696d75360922ae1c475fd9756ecd" level="file"><did><unittitle>Program Review Sessions - Nursing</unittitle><unitdate normal="1993/1993">1993</unitdate><container altrender="Letter Document Storage Box" id="39cb536314d6a8e89ec58bec4fe2899b" label="mixed materials [A0000000075599]" type="box">4</container><container id="c777a98f11612684d74064a277d460e7" parent="39cb536314d6a8e89ec58bec4fe2899b" type="folder">18-19</container></did></c><c id="689b55e6a3877033c57f34575f500f49" level="file"><did><unittitle>Grant Review Session - Children's Defense Fund</unittitle><unitdate normal="1989/1989">1989 June</unitdate><container altrender="Letter Document Storage Box" id="8470fa9ce4078d09d05de1b0950f9b3a" label="mixed materials [A0000000075599]" type="box">4</container><container id="175d22fe10824b913ee9c5748cfe880a" parent="8470fa9ce4078d09d05de1b0950f9b3a" type="folder">20</container></did></c><c id="3fb0568816f212a3d8abf4d77487fb64" level="file"><did><unittitle>Program Review Sessions - Saving Lives Program</unittitle><unitdate normal="1989/1992" type="inclusive">1989, 1992</unitdate><container altrender="Letter Document Storage Box" id="6e6621d45fd988c0f6746f4ee4a4c996" label="mixed materials [A0000000075599]" type="box">4</container><container id="e061f110946d1069ca9f0e3d1cdffcb8" parent="6e6621d45fd988c0f6746f4ee4a4c996" type="folder">21-23</container><container altrender="Letter Document Storage Box" id="932004c393bc0832e343e2463d7253d3" label="mixed materials [A0000000075600]" type="box">5</container><container id="a6f7fc788201ae2b0e4297f4057c5a76" parent="932004c393bc0832e343e2463d7253d3" type="folder">24</container></did></c><c id="51d142e63ccbd5c9e24976e7ff2d46e1" level="file"><did><unittitle>Program Development Seminar</unittitle><unitdate normal="1989/1989">1989 August</unitdate><container altrender="Letter Document Storage Box" id="1efcc387e821c677cd716b43d6338f1a" label="mixed materials [A0000000075600]" type="box">5</container><container id="1ca83767be2496cadbd77cdee5e0df8e" parent="1efcc387e821c677cd716b43d6338f1a" type="folder">25-26</container></did></c><c id="2422e25dc83fc7c07904d5443c76c098" level="file"><did><unittitle>Management Seminar</unittitle><unitdate normal="1987/1988" type="inclusive">1987 August-1988 June</unitdate><container altrender="Letter Document Storage Box" id="07201f1f4b2836d05341fe85a274234b" label="mixed materials [A0000000075600]" type="box">5</container><container id="0aab2b2e6641fc1b0e6e73f00c610ff6" parent="07201f1f4b2836d05341fe85a274234b" type="folder">27</container></did></c><c id="747feff75eaa568919138adc3143ddb9" level="file"><did><unittitle>The Commonwealth Fund at Hurricane Island Outward Bound School</unittitle><unitdate normal="1987/1987">1987 August</unitdate><physdesc id="2a9d1ce277414b2aa100d81477ab36cf">12 minutes</physdesc><materialspec id="e8c0b8325018ba51f451d90f13d088ee">VHS</materialspec><container altrender="Lgl Document Storage Box" id="16fe512a00463baecc4688d9287bf5ca" label="Moving Images [A0000000089571]" type="box">1</container><container id="b9a2c9ad0637e432331728dc3c2373d6" parent="16fe512a00463baecc4688d9287bf5ca" type="Tape">AV 11749</container></did><accessrestrict id="0aed1a82849654aa7740325fcf9910e5"><head>Conditions Governing Access</head><p>Access copy currently unavailable. Please see a RAC archivist for further instruction.</p></accessrestrict><scopecontent id="94954f20d70aa0880548d6a97f0e3afc"><head>Scope and Contents</head><p>Management seminar.</p></scopecontent><relatedmaterial id="9579f602d6308e3e98eb12f90e7bf0d0"><head>Related Materials</head><p>From Box: 5 [A0000000075600], Folder: 27</p></relatedmaterial></c><c id="2258034b94d28be649322b0bafbe8512" level="file"><did><unittitle>Grant Review Sessions - Commonwealth Fund</unittitle><unitdate normal="1984/1986" type="inclusive">1984-1986</unitdate><container altrender="Letter Document Storage Box" id="a29e2a86ba2d2f95420f1f174a180d8d" label="mixed materials [A0000000075600]" type="box">5</container><container id="125be8d7fea943bdd0aba373d9f0e797" parent="a29e2a86ba2d2f95420f1f174a180d8d" type="folder">28-29</container><container altrender="Letter Document Storage Box" id="dc635b7d0c2055900f927f6d05b56999" label="mixed materials [A0000000075601]" type="box">6</container><container id="122bc774172c57f131b2d1da1784bb63" parent="dc635b7d0c2055900f927f6d05b56999" type="folder">30</container></did></c><c id="61144a05d281400b98228019b098be4b" level="file"><did><unittitle>Program Review Sessions - Grants Monitoring Program</unittitle><unitdate normal="1993/1993">1993 January</unitdate><container altrender="Letter Document Storage Box" id="887f2e108fe2c6170145fa7bd49e728f" label="mixed materials [A0000000075601]" type="box">6</container><container id="7dfc4aadd6820496e8d300f1d0b0e47c" parent="887f2e108fe2c6170145fa7bd49e728f" type="folder">31</container></did></c><c id="ad3487bbc2124e47e2b614969a7e0a5d" level="file"><did><unittitle>Program Review Sessions - Consumer Choice in Home Care</unittitle><unitdate normal="1990/1990">1990 January</unitdate><container altrender="Letter Document Storage Box" id="43ad2c3eb69b2db560df23334d2af3ce" label="mixed materials [A0000000075601]" type="box">6</container><container id="c87abab09e0d4b5c358a1b0a9f271475" parent="43ad2c3eb69b2db560df23334d2af3ce" type="folder">32</container></did></c><c id="4f9b39cd489037ccf604f8988dffe84a" level="file"><did><unittitle>Program Review Sessions - Picker-Commonwealth Fund Patient-Centered Care Program</unittitle><unitdate normal="1991/1992" type="inclusive">1991-1992</unitdate><container altrender="Letter Document Storage Box" id="60357f32b68328a13669fea5debbbe9a" label="mixed materials [A0000000075601]" type="box">6</container><container id="467696c66669fc84ecb8452f9b1d7538" parent="60357f32b68328a13669fea5debbbe9a" type="folder">33</container></did></c><c id="9d2331317e07543783514427b388b159" level="file"><did><unittitle>Program Review Sessions - Career Beginnings Evaluation Meeting</unittitle><unitdate normal="1990/1990">1990 May</unitdate><container altrender="Letter Document Storage Box" id="5c3c036a870aec374082aa4c56fe9142" label="mixed materials [A0000000075601]" type="box">6</container><container id="a18019461c03a752078c99bb7d46435a" parent="5c3c036a870aec374082aa4c56fe9142" type="folder">34</container></did></c><c id="d689ba418df5e0b9545a96a24033f853" level="file"><did><unittitle>Project Review - Angioplasty</unittitle><unitdate normal="1990/1990">1990 September</unitdate><container altrender="Letter Document Storage Box" id="92f4f7b14dc603ff1e797cd92680d299" label="mixed materials [A0000000075601]" type="box">6</container><container id="40dd1ecce63871ddc07c28d66dd2db2c" parent="92f4f7b14dc603ff1e797cd92680d299" type="folder">35</container></did></c><c id="0218d74e298d8add2a8b96a8859bbde8" level="file"><did><unittitle>Program Review Sessions - Americans Over-50 at Work Program</unittitle><container altrender="Letter Document Storage Box" id="bf07250dbe4966335611cddf5cf06a1a" label="mixed materials [A0000000075601]" type="box">6</container><container id="efd178c207a29f7cf68295cf671a6e44" parent="bf07250dbe4966335611cddf5cf06a1a" type="folder">36</container></did></c><c id="ce454983d60c6b712473607a30a04a35" level="file"><did><unittitle>Program Review Sessions - Health Care and Nursing</unittitle><unitdate normal="1991/1992" type="inclusive">1991-1992</unitdate><container altrender="Letter Document Storage Box" id="3b665af897a44cb9df5794e22f10d3fd" label="mixed materials [A0000000075601]" type="box">6</container><container id="6fa4892b6dea08a321682ca5964d3d2c" parent="3b665af897a44cb9df5794e22f10d3fd" type="folder">37</container></did></c><c id="a2ff5991791cbed2c6b7fba4a07f958d" level="file"><did><unittitle>Program Review Sessions - Sponsor-A-Scholar Program</unittitle><container altrender="Letter Document Storage Box" id="b693c9a09dec6ebb8ec1c638465dc874" label="mixed materials [A0000000075601]" type="box">6</container><container id="a22b3a28a92a8c5c3969e47cfc790e5d" parent="b693c9a09dec6ebb8ec1c638465dc874" type="folder">38</container></did></c></dsc>
+</archdesc>
 </ead>
