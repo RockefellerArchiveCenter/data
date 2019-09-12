@@ -1,341 +1,85 @@
-<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
-  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" repositoryencoding="iso15511">
-    <eadid>FA1319.xml</eadid>
-    <filedesc>
-      <titlestmt>
-        <titleproper type="filing">Ford Foundation records, Program Action Index Cards, Accession 2017:064</titleproper>
-        <titleproper>A Guide to the Ford Foundation records, Program Action Index Cards, Accession 2017:064 <num>FA1319</num></titleproper>
-        <author>Katie Martin</author>
-      </titlestmt>
-      <publicationstmt>
-        <publisher>Rockefeller Archive Center</publisher>
-        <address>
-          <addressline>15 Dayton Avenue</addressline>
-          <addressline>Sleepy Hollow 10591</addressline>
-          <addressline>archive@rockarch.org</addressline>
-          <addressline>URL: <extptr xlink:href="http://www.rockarch.org" xlink:show="new" xlink:title="http://www.rockarch.org" xlink:type="simple"/></addressline>
-        </address>
-      </publicationstmt>
-    </filedesc>
-    <profiledesc>
-      <creation>This finding aid was produced using ArchivesSpace on <date>2018-02-06 00:00:44 -0500</date>.</creation>
-      <langusage>English</langusage>
-      <descrules>Describing Archives: A Content Standard</descrules>
-    </profiledesc>
-  </eadheader>
-  <archdesc level="collection">
-    <did>
-      <langmaterial>
-        <language langcode="eng">English</language>
-      </langmaterial>
-      <repository>
-        <corpname>Rockefeller Archive Center</corpname>
-      </repository>
-      <unittitle>Ford Foundation records, Program Action Index Cards, Accession 2017:064</unittitle>
-      <origination label="creator">
-        <corpname role="aut" source="local">Ford Foundaton</corpname>
-      </origination>
-      <unitid>FA1319</unitid>
-      <physdesc altrender="whole">
-        <extent altrender="materialtype spaceoccupied">7.6 Cubic Feet</extent>
-        <extent altrender="carrier">23 8x5 Card File Boxes (Short)</extent>
-      </physdesc>
-      <unitdate normal="1936/1987" type="inclusive">1936-1987</unitdate>
-      <langmaterial id="2425a42aeb1045882796dd0a8b8ea6ec">Materials are in English</langmaterial>
-    </did>
-    <scopecontent id="e59f9886088a362600d2db0fe2c54ab8">
-      <head>Scope and Contents</head>
-      <p>The collection contains Ford Foundation Program Action Index Cards/Microfilm Tracking Cards created and maintained by Ford Foundation's records management program. The cards tracked the microfilming process of the Ford Foundation's New York Office and Field Offices' grant materials. The cards served as a checklist for records management tasks and they include some/all of the following information: Program Area Number, Microfilm Reel Number, Date Transferred to Archives, Main File/Attachments Located, Grant Closing Date, Grant Processed, Grants Accounting File Processed, Microfilm Box Number, Date Box Sent, Date Film Returned, Program Area Acronym, Film inspection Date, and Grant Destruction Authorized.</p>
-    </scopecontent>
-    <arrangement id="a5f3703f976794819bff3993c70d67ff">
-      <head>Arrangement</head>
-      <p>
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid>FA1319.xml</eadid><filedesc><titlestmt><titleproper type="filing">Ford Foundation records, Program Action Index Cards, Accession 2017:064</titleproper><titleproper>A Guide to the Ford Foundation records, Program Action Index Cards, Accession 2017:064 <num>FA1319</num></titleproper><author>Katie Martin</author></titlestmt><publicationstmt><publisher>Rockefeller Archive Center</publisher><address><addressline>15 Dayton Avenue</addressline><addressline>Sleepy Hollow 10591</addressline><addressline>archive@rockarch.org</addressline><addressline>URL: <extptr xlink:href="http://www.rockarch.org" xlink:show="new" xlink:title="http://www.rockarch.org" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2019-09-12 00:15:53 -0400</date>.</creation><langusage>English</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
+  <did>
+    <langmaterial>
+      <language langcode="eng">English</language>
+    </langmaterial>
+    <repository>
+      <corpname>Rockefeller Archive Center</corpname>
+    </repository>
+    <unittitle>Ford Foundation records, Program Action Index Cards, Accession 2017:064</unittitle>
+    <origination label="creator">
+      <corpname role="aut" source="local">Ford Foundaton</corpname>
+    </origination>
+    <unitid>FA1319</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">7.6 Cubic Feet</extent>
+      <extent altrender="carrier">23 8x5 Card File Boxes (Short)</extent>
+    </physdesc>
+    <unitdate normal="1936/1987" type="inclusive">1936-1987</unitdate>
+    <langmaterial id="2425a42aeb1045882796dd0a8b8ea6ec">Materials are in English</langmaterial>
+  </did>
+  <scopecontent id="e59f9886088a362600d2db0fe2c54ab8">
+    <head>Scope and Contents</head>
+<p>The collection contains Ford Foundation Program Action Index Cards/Microfilm Tracking Cards created and maintained by Ford Foundation's records management program. The cards tracked the microfilming process of the Ford Foundation's New York Office and Field Offices' grant materials. The cards served as a checklist for records management tasks and they include some/all of the following information: Program Area Number, Microfilm Reel Number, Date Transferred to Archives, Main File/Attachments Located, Grant Closing Date, Grant Processed, Grants Accounting File Processed, Microfilm Box Number, Date Box Sent, Date Film Returned, Program Area Acronym, Film inspection Date, and Grant Destruction Authorized.</p>  </scopecontent>
+  <arrangement id="a5f3703f976794819bff3993c70d67ff">
+    <head>Arrangement</head>
+<p>
 The Ford Foundation Program Action Index Cards are divided into two series: 1. Program Action Index Cards - New York Office Grants 2. Program Action Index Cards - Field Office Grants. 
 </p>
-      <p>Both series are arranged by Program Action (PA) number (loosely chronological by year). Gaps between PA numbers appear in both series.
+
+<p>Both series are arranged by Program Action (PA) number (loosely chronological by year). Gaps between PA numbers appear in both series.
 </p>
-      <p>Each Ford Foundation Grant and the corresponding Grant File is identified by a unique Program Action (PA) number. PA numbers begin with the year a grant was made (2-digits), followed by a sequential number within that year (4-digits).</p>
-      <p>For example: PA 55-0123 was the 123rd grant made in the year 1955. PA numbers are often typed or handwritten on Ford documents in the following format: 55-123 (year)-(####). However, the Ford Foundation's grants database (LINKS) uses an 8-digit format for PA numbers: 05500123 (0YY#####).</p>
-      <p>Beginning in the 1970s the 4th digit in the 8-digit PA number was used to encode at least three different types of Ford grants:</p>
-      <p>
+<p>Each Ford Foundation Grant and the corresponding Grant File is identified by a unique Program Action (PA) number. PA numbers begin with the year a grant was made (2-digits), followed by a sequential number within that year (4-digits).</p>
+
+<p>For example: PA 55-0123 was the 123rd grant made in the year 1955. PA numbers are often typed or handwritten on Ford documents in the following format: 55-123 (year)-(####). However, the Ford Foundation's grants database (LINKS) uses an 8-digit format for PA numbers: 05500123 (0YY#####).</p>
+
+<p>Beginning in the 1970s the 4th digit in the 8-digit PA number was used to encode at least three different types of Ford grants:</p>
+<p>
 1.	0YY5#### = Delegated Authority Grants (DAG) / Delegated Authority Projects (DAP)</p>
-      <p>
+<p>
 2.	0YY6#### = Grants to Individuals</p>
-      <p>
+<p>
 3.	0YY9#### = Foundation Administered Projects (FAP)
 </p>
-    </arrangement>
-    <relatedmaterial id="4b09f995f74e9bb01cb129ce2a4b5df9">
-      <head>Related Materials</head>
-      <p>Program Action Index Cards refer to microfilmed grants from the Ford Foundation's New York Office and Field Offices. The microfilm is held in the following collections: 
+  </arrangement>
+  <relatedmaterial id="4b09f995f74e9bb01cb129ce2a4b5df9">
+    <head>Related Materials</head>
+<p>Program Action Index Cards refer to microfilmed grants from the Ford Foundation's New York Office and Field Offices. The microfilm is held in the following collections: 
 </p>
-      <p>
-        <extref href="../FA732A/overview">FA732A Ford Foundation records, Grants, A-B</extref>
-      </p>
-      <p>
-        <extref href="../FA732B/overview">FA732B Ford Foundation records, Grants, C-D</extref>
-      </p>
-      <p>
-        <extref href="../FA732D/overview">FA732D Ford Foundation records, Grants, H-K</extref>
-      </p>
-      <p>
-        <extref href="../FA732E/overview">FA732E Ford Foundation records, Grants, L-N</extref>
-      </p>
-      <p>
-        <extref href="../FA732F/overview">FA732F Ford Foundation records, Grants, O-R</extref>
-      </p>
-      <p>
-        <extref href="../FA732G/overview">FA732G Ford Foundation records, Grants, S-Thel</extref>
-      </p>
-      <p>
-        <extref href="../FA732H/overview">FA732H Ford Foundation records, Grants, Them-Tw</extref>
-      </p>
-      <p>
-        <extref href="../FA732I/overview">FA732I Ford Foundation records, Grants, U-Z</extref>
-      </p>
-    </relatedmaterial>
-    <bioghist id="2cbf2db4aa1b8335c867e642d6cb38b5">
-      <head>Biographical / Historical</head>
-      <p>The Ford Foundation was chartered by Henry and Edsel Ford in 1936 "to receive and administer funds for scientific, educational and charitable purposes, all for the public welfare", and initially served the Ford family's charitable interests in the Detroit area. Following the deaths of Edsel Ford (1943) and Henry Ford (1947), the Foundation was propelled to the forefront of philanthropy as the largest American foundation in terms of both endowment and yearly expenditures, and with an international scope to its major program areas. </p>
-      <p> During the Foundation's first twenty years its major programs were in international economic development, primary and higher education, educational and public broadcasting, behavioral sciences, civil liberties, urban development, fine arts and the humanities. The Ford Foundation also partnered with the Rockefeller Foundation in supporting agricultural development in South America, Africa, and Southeast Asia. Since the 1970s, the Foundation has also pioneered programs in women's rights, energy policy, micro-financing in under-developed countries, establishing human rights groups, and improving international HIV/AIDS education. </p>
-    </bioghist>
-    <acqinfo id="31caad1a12d4f213ac3eb4c49add1f91">
-      <head>Immediate Source of Acquisition</head>
-      <p>This material was transferred to RAC in 2017 by the Ford Foundation and ingested by RAC as Accession 2017:064.</p>
-    </acqinfo>
-    <accessrestrict id="1452957cbfc94c027ca3fc138d23e9d3">
-      <head>Conditions Governing Access</head>
-      <p>Open for research. Brittle or damaged items are available at the discretion of RAC.</p>
-    </accessrestrict>
-    <prefercite id="60177bf4435694018f378eda95d5c48e">
-      <head>Preferred Citation</head>
-      <p>Information regarding the Rockefeller Archive Center's preferred elements and forms of citation can be found at <extref href="http://www.rockarch.org/research/citations.php">http://www.rockarch.org/research/citations.php</extref></p>
-    </prefercite>
-    <processinfo id="4f2433f6827ec0fb3b956f350ddee64d">
-      <head>Processing Information</head>
-      <p>Processed by Katie Martin, October 2017</p>
-    </processinfo>
-    <dsc>
-      <c id="166e466585ead9b614573faf2fed029e" level="series">
-        <did>
-          <unittitle>Program Action Index Cards - New York Office Grants</unittitle>
-          <unitid>1</unitid>
-        </did>
-        <c id="d050bcdeffae2ecd143ef57701811dcc" level="file">
-          <did>
-            <unittitle>Program Action Index Cards - New York Office Grants - 36-234 - 55-235</unittitle>
-            <unitdate normal="1936/1955" type="inclusive">1936-1955</unitdate>
-            <container altrender="8x5 Card File Box (Short)" id="4dc3975b089fc3234eb298b86171ba88" label="mixed materials [A0000000080225]" type="box">1</container>
-          </did>
-        </c>
-        <c id="f6ed1a19e59683e4cfcbbade63cb71cb" level="file">
-          <did>
-            <unittitle>Program Action Index Cards - New York Office Grants - 56-1 - 56-999</unittitle>
-            <unitdate normal="1956/1956">1956</unitdate>
-            <container altrender="8x5 Card File Box (Short)" id="6ec392347a2f3491fbb592fa897ee15c" label="mixed materials [A0000000080226]" type="box">2</container>
-          </did>
-        </c>
-        <c id="41263cf02ab8cd6ce433bffe326d0515" level="file">
-          <did>
-            <unittitle>Program Action Index Cards - New York Office Grants - 56-1000 - 58-404</unittitle>
-            <unitdate normal="1956/1958" type="inclusive">1956-1958</unitdate>
-            <container altrender="8x5 Card File Box (Short)" id="8f241b5ab4bd93042d5f0d83541a634c" label="mixed materials [A0000000080227]" type="box">3</container>
-          </did>
-        </c>
-        <c id="f8c645fa09c47d8ea01dd94ba9e2859e" level="file">
-          <did>
-            <unittitle>Program Action Index Cards - New York Office Grants - 59-2 - 60-476</unittitle>
-            <unitdate normal="1959/1960" type="inclusive">1959-1960</unitdate>
-            <container altrender="8x5 Card File Box (Short)" id="b0b07d189e4161751e7b09f86b03efca" label="mixed materials [A0000000080228]" type="box">4</container>
-          </did>
-        </c>
-        <c id="dfde829a8b2b3ca0723ca008449e934c" level="file">
-          <did>
-            <unittitle>Program Action Index Cards - New York Office Grants - 61-1 - 62-523</unittitle>
-            <unitdate normal="1961/1962" type="inclusive">1961-1962</unitdate>
-            <container altrender="8x5 Card File Box (Short)" id="ad1d2dab9393f31230d1e3f0ec6c8142" label="mixed materials [A0000000080229]" type="box">5</container>
-          </did>
-        </c>
-        <c id="774203dd01939aa207078ac346ef29f3" level="file">
-          <did>
-            <unittitle>Program Action Index Cards - New York Office Grants - 639-0001 - 64-300</unittitle>
-            <unitdate normal="1963/1964" type="inclusive">1963-1964</unitdate>
-            <container altrender="8x5 Card File Box (Short)" id="ef48929e85fe754e3e3098efb2606cfc" label="mixed materials [A0000000080230]" type="box">6</container>
-          </did>
-        </c>
-        <c id="43cd8adfecb7047e6ff1b6c3ed8d4237" level="file">
-          <did>
-            <unittitle>Program Action Index Cards - New York Office Grants - 64-301 - 66-300</unittitle>
-            <unitdate normal="1964/1966" type="inclusive">1964-1966</unitdate>
-            <container altrender="8x5 Card File Box (Short)" id="e389b68ee860d4fbe9dc2fbfedf28a72" label="mixed materials [A0000000080231]" type="box">7</container>
-          </did>
-        </c>
-        <c id="dcc83a1031a321cdc1c4f58e648e20c0" level="file">
-          <did>
-            <unittitle>Program Action Index Cards - New York Office Grants - 66-301 - 68-199</unittitle>
-            <unitdate normal="1966/1968" type="inclusive">1966-1968</unitdate>
-            <container altrender="8x5 Card File Box (Short)" id="f96c237c2444a3f9d6d31562391943ed" label="mixed materials [A0000000080232]" type="box">8</container>
-          </did>
-        </c>
-        <c id="18264dc302375750739cb2b9701c20c3" level="file">
-          <did>
-            <unittitle>Program Action Index Cards - New York Office Grants - 68-200 - 69-299</unittitle>
-            <unitdate normal="1968/1969" type="inclusive">1968-1969</unitdate>
-            <container altrender="8x5 Card File Box (Short)" id="dee932ead6c9d834b7e523cbd2d0b51f" label="mixed materials [A0000000080233]" type="box">9</container>
-          </did>
-        </c>
-        <c id="111722d5d80bce5f9dc82cf151f06c5e" level="file">
-          <did>
-            <unittitle>Program Action Index Cards - New York Office Grants - 69-301 - 70-984</unittitle>
-            <unitdate normal="1969/1970" type="inclusive">1969-1970</unitdate>
-            <container altrender="8x5 Card File Box (Short)" id="1d5b6dd05fc780d5f5215a04bb08a1b9" label="mixed materials [A0000000080234]" type="box">10</container>
-          </did>
-        </c>
-        <c id="4a4c9b023075806b8a148a993c7f2bc5" level="file">
-          <did>
-            <unittitle>Program Action Index Cards - New York Office Grants - 719-0001 - 72-985</unittitle>
-            <unitdate normal="1971/1972" type="inclusive">1971-1972</unitdate>
-            <container altrender="8x5 Card File Box (Short)" id="3b1fee59bea5b449264d6c3fa5967052" label="mixed materials [A0000000080235]" type="box">11</container>
-          </did>
-        </c>
-        <c id="1c36494e78d8dc6bde7edbe3be509379" level="file">
-          <did>
-            <unittitle>Program Action Index Cards - New York Office Grants - 739-0001 - 73-985</unittitle>
-            <unitdate normal="1973/1973">1973</unitdate>
-            <container altrender="8x5 Card File Box (Short)" id="df336b1582cac692fe93f2c9112dcb32" label="mixed materials [A0000000080236]" type="box">12</container>
-          </did>
-        </c>
-        <c id="834938485fd1d8aaef765914b96e9395" level="file">
-          <did>
-            <unittitle>Program Action Index Cards - New York Office Grants - 749-0001 - 750-0299</unittitle>
-            <unitdate normal="1974/1975" type="inclusive">1974-1975</unitdate>
-            <container altrender="8x5 Card File Box (Short)" id="fec9d2fe920b819efd95395c982cb769" label="mixed materials [A0000000080237]" type="box">13</container>
-          </did>
-        </c>
-        <c id="2d72b7349b940a55fcc206bab439cdad" level="file">
-          <did>
-            <unittitle>Program Action Index Cards - New York Office Grants - 75-301 - 769-0827</unittitle>
-            <unitdate normal="1975/1976" type="inclusive">1975-1976</unitdate>
-            <container altrender="8x5 Card File Box (Short)" id="86981c08c7501ba294eb1434418ae473" label="mixed materials [A0000000080238]" type="box">14</container>
-          </did>
-        </c>
-        <c id="f3f9f525ca14797095a58fff020ab19c" level="file">
-          <did>
-            <unittitle>Program Action Index Cards - New York Office Grants - 775-011 - 785-0299</unittitle>
-            <unitdate normal="1977/1978" type="inclusive">1977-1978</unitdate>
-            <container altrender="8x5 Card File Box (Short)" id="3c3348aa668b0ae6c68927a1e10d8791" label="mixed materials [A0000000080239]" type="box">15</container>
-          </did>
-        </c>
-        <c id="dc8b1ef2f1f3e4e0e9bd16d5cfd343ce" level="file">
-          <did>
-            <unittitle>Program Action Index Cards - New York Office Grants - 78-300 - 79-499</unittitle>
-            <unitdate normal="1978/1979" type="inclusive">1978-1979</unitdate>
-            <container altrender="8x5 Card File Box (Short)" id="63116e82ff925919532381f0bb4575e7" label="mixed materials [A0000000080240]" type="box">16</container>
-          </did>
-        </c>
-        <c id="87586113342c4084f24bad502501a1d0" level="file">
-          <did>
-            <unittitle>Program Action Index Cards - New York Office Grants - 79-500 - 805-903</unittitle>
-            <unitdate normal="1979/1980" type="inclusive">1979-1980</unitdate>
-            <container altrender="8x5 Card File Box (Short)" id="a543bc22ffa3446da50457aa3d825dd1" label="mixed materials [A0000000080241]" type="box">17</container>
-          </did>
-        </c>
-        <c id="2999fc564ba461bf68ec8c4029541fd2" level="file">
-          <did>
-            <unittitle>Program Action Index Cards - New York Office Grants - 815-010 - 81-1076</unittitle>
-            <unitdate normal="1981/1981">1981</unitdate>
-            <container altrender="8x5 Card File Box (Short)" id="2e7d2c3f4a360c16f33803924ce78a43" label="mixed materials [A0000000080242]" type="box">18</container>
-          </did>
-        </c>
-        <c id="ebedb8c240e79baf731fcd3af476caf1" level="file">
-          <did>
-            <unittitle>Program Action Index Cards - New York Office Grants - 820-011 - 825-1233</unittitle>
-            <unitdate normal="1982/1982">1982</unitdate>
-            <container altrender="8x5 Card File Box (Short)" id="32c5f65081d72aaec142bf11b399e7c4" label="mixed materials [A0000000080243]" type="box">19</container>
-          </did>
-        </c>
-        <c id="f5023e582982aaf26abb806a4d5495c4" level="file">
-          <did>
-            <unittitle>Program Action Index Cards - New York Office Grants - 835-0011 - 835-1098</unittitle>
-            <unitdate normal="1983/1983">1983</unitdate>
-            <container altrender="8x5 Card File Box (Short)" id="ac5ba6f28547ed7de93d25181ceb50d0" label="mixed materials [A0000000080244]" type="box">20</container>
-          </did>
-        </c>
-        <c id="c59e96ec24c25e22c37c378422c710bc" level="file">
-          <did>
-            <unittitle>Program Action Index Cards - New York Office Grants - 845-0010 - 845-0967</unittitle>
-            <unitdate normal="1984/1984">1984</unitdate>
-            <container altrender="8x5 Card File Box (Short)" id="05e0ac4d1ddb96c03b82a13767cf41bb" label="mixed materials [A0000000080245]" type="box">21</container>
-          </did>
-        </c>
-        <c id="fc8bacd76389453100234c6413714a46" level="file">
-          <did>
-            <unittitle>Program Action Index Cards - New York Office Grants - 855-0012 - 855-1061</unittitle>
-            <unitdate normal="1985/1985">1985</unitdate>
-            <container altrender="8x5 Card File Box (Short)" id="ff42f3317446fc55b02fb2e657c434b8" label="mixed materials [A0000000080245]" type="box">21</container>
-          </did>
-        </c>
-        <c id="59ebee8d55c2370eea2f4c29b9de5dbd" level="file">
-          <did>
-            <unittitle>Program Action Index Cards - New York Office Grants - 865-0022 - 865-1075</unittitle>
-            <unitdate normal="1986/1986">1986</unitdate>
-            <container altrender="8x5 Card File Box (Short)" id="b59e741c7f4fb3305517b1f5a74919ba" label="mixed materials [A0000000080245]" type="box">21</container>
-          </did>
-        </c>
-        <c id="eff1c93c0b308b23dfaa3dfb3bfbfdc9" level="file">
-          <did>
-            <unittitle>Program Action Index Cards - New York Office Grants - 875-0058 - 870-832</unittitle>
-            <unitdate normal="1987/1987">1987</unitdate>
-            <container altrender="8x5 Card File Box (Short)" id="5dd1741bfa5b42c24a3888f2eb910570" label="mixed materials [A0000000080245]" type="box">21</container>
-          </did>
-        </c>
-      </c>
-      <c id="ea6160def871a0256b50bcf03ee97731" level="series">
-        <did>
-          <unittitle>Program Action Index Cards - Field Office Grants</unittitle>
-          <unitid>2</unitid>
-        </did>
-        <c id="a5e1d02fcc6d05c830b5fc531524816a" level="file">
-          <did>
-            <unittitle>Program Action Index Cards - Field Office Grants - 50-3 - 65-358</unittitle>
-            <unitdate normal="1950/1965" type="inclusive">1950-1965</unitdate>
-            <container altrender="8x5 Card File Box (Short)" id="d8a32e2e1549b0044ad15458a45c295e" label="mixed materials [A0000000080246]" type="box">22</container>
-          </did>
-          <scopecontent id="59313d08c86de26d1f7d63cdceff41c4">
-            <head>Scope and Contents</head>
-            <p>Field office locations include: India; Islamabad, Pakistan; Lagos, Nigeria; Cairo, Egypt; Rio, Brazil; Thailand; Santiago, Chile; Bogota, Colombia; Jakarta, Indonesia; Buenos Aires, Argentina; Mexico; Riyadh, Saudi Arabia; Manila, Philippines; Peru</p>
-          </scopecontent>
-        </c>
-        <c id="35c3f476b94123744a1d8a511635bf27" level="file">
-          <did>
-            <unittitle>Program Action Index Cards - Field Office Grants - 66-86 - 71-577</unittitle>
-            <unitdate normal="1966/1971" type="inclusive">1966-1971</unitdate>
-            <container altrender="8x5 Card File Box (Short)" id="c60ebab28c8072ea98b05f53b88236d6" label="mixed materials [A0000000080246]" type="box">22</container>
-          </did>
-          <scopecontent id="5621a89a0917dec60fc384a8108053d4">
-            <head>Scope and Contents</head>
-            <p>Field office locations include: India; Islamabad, Pakistan; Lagos, Nigeria; Cairo, Egypt; Rio, Brazil; Thailand; Santiago, Chile; Bogota, Colombia; Jakarta, Indonesia; Buenos Aires, Argentina; Mexico; Riyadh, Saudi Arabia; Manila, Philippines; Lima, Peru; Paris, France</p>
-          </scopecontent>
-        </c>
-        <c id="7cf01c0e0d16ab569526095297168003" level="file">
-          <did>
-            <unittitle>Program Action Index Cards - Field Office Grants - 72-1 - 76-825</unittitle>
-            <unitdate normal="1972/1976" type="inclusive">1972-1976</unitdate>
-            <container altrender="8x5 Card File Box (Short)" id="ddcf71700dd922a1021e414845b61f79" label="mixed materials [A0000000080247]" type="box">23</container>
-          </did>
-        </c>
-        <c id="e4c1fdb9c42c883f0eb08f37a4581804" level="file">
-          <did>
-            <unittitle>Program Action Index Cards - Field Office Grants - 77-11 - 84-417</unittitle>
-            <unitdate normal="1977/1984" type="inclusive">1977-1984</unitdate>
-            <container altrender="8x5 Card File Box (Short)" id="c14619723f451b3517b8c36e4295addf" label="mixed materials [A0000000080247]" type="box">23</container>
-          </did>
-          <scopecontent id="dd6172574bbc34718a22073eaece8aee">
-            <head>Scope and Contents</head>
-            <p>Field office locations include: India; Islamabad, Pakistan; Lagos, Nigeria; Cairo, Egypt; Rio, Brazil; Thailand; Santiago, Chile; Bogota, Colombia; Jakarta, Indonesia; Buenos Aires, Argentina; Mexico; Riyadh, Saudi Arabia; Manila, Philippines; Lima, Peru; Paris, France</p>
-          </scopecontent>
-        </c>
-      </c>
-    </dsc>
-  </archdesc>
+<p>
+<extref href="../FA732A/overview">FA732A Ford Foundation records, Grants, A-B</extref></p>
+<p>
+<extref href="../FA732B/overview">FA732B Ford Foundation records, Grants, C-D</extref> 
+</p>
+<p>
+<extref href="../FA732D/overview">FA732D Ford Foundation records, Grants, H-K</extref>
+</p>
+<p><extref href="../FA732E/overview">FA732E Ford Foundation records, Grants, L-N</extref>
+</p>
+<p>
+<extref href="../FA732F/overview">FA732F Ford Foundation records, Grants, O-R</extref></p> 
+<p>
+<extref href="../FA732G/overview">FA732G Ford Foundation records, Grants, S-Thel</extref></p>
+<p>
+<extref href="../FA732H/overview">FA732H Ford Foundation records, Grants, Them-Tw</extref></p>
+<p>
+<extref href="../FA732I/overview">FA732I Ford Foundation records, Grants, U-Z</extref></p>  </relatedmaterial>
+  <bioghist id="2cbf2db4aa1b8335c867e642d6cb38b5">
+    <head>Biographical / Historical</head>
+<p>The Ford Foundation was chartered by Henry and Edsel Ford in 1936 "to receive and administer funds for scientific, educational and charitable purposes, all for the public welfare", and initially served the Ford family's charitable interests in the Detroit area. Following the deaths of Edsel Ford (1943) and Henry Ford (1947), the Foundation was propelled to the forefront of philanthropy as the largest American foundation in terms of both endowment and yearly expenditures, and with an international scope to its major program areas. </p> <p> During the Foundation's first twenty years its major programs were in international economic development, primary and higher education, educational and public broadcasting, behavioral sciences, civil liberties, urban development, fine arts and the humanities. The Ford Foundation also partnered with the Rockefeller Foundation in supporting agricultural development in South America, Africa, and Southeast Asia. Since the 1970s, the Foundation has also pioneered programs in women's rights, energy policy, micro-financing in under-developed countries, establishing human rights groups, and improving international HIV/AIDS education. </p>  </bioghist>
+  <acqinfo id="31caad1a12d4f213ac3eb4c49add1f91">
+    <head>Immediate Source of Acquisition</head>
+<p>This material was transferred to RAC in 2017 by the Ford Foundation and ingested by RAC as Accession 2017:064.</p>  </acqinfo>
+  <accessrestrict id="1452957cbfc94c027ca3fc138d23e9d3">
+    <head>Conditions Governing Access</head>
+<p>Open for research. Brittle or damaged items are available at the discretion of RAC.</p>  </accessrestrict>
+  <prefercite id="60177bf4435694018f378eda95d5c48e">
+    <head>Preferred Citation</head>
+<p>Information regarding the Rockefeller Archive Center's preferred elements and forms of citation can be found at <extref href="http://www.rockarch.org/research/citations.php">http://www.rockarch.org/research/citations.php</extref></p>  </prefercite>
+  <processinfo id="4f2433f6827ec0fb3b956f350ddee64d">
+    <head>Processing Information</head>
+<p>Processed by Katie Martin, October 2017</p>  </processinfo>
+  <dsc><c id="166e466585ead9b614573faf2fed029e" level="series"><did><unittitle>Program Action Index Cards - New York Office Grants</unittitle><unitid>1</unitid></did><c id="d050bcdeffae2ecd143ef57701811dcc" level="file"><did><unittitle>Program Action Index Cards - New York Office Grants - 36-234 - 55-235</unittitle><unitdate normal="1936/1955" type="inclusive">1936-1955</unitdate><container altrender="8x5 Card File Box (Short)" id="cb6db92a3c3d6d88e34136a3f7043b29" label="mixed materials [A0000000080225]" type="box">1</container></did></c><c id="f6ed1a19e59683e4cfcbbade63cb71cb" level="file"><did><unittitle>Program Action Index Cards - New York Office Grants - 56-1 - 56-999</unittitle><unitdate normal="1956/1956">1956</unitdate><container altrender="8x5 Card File Box (Short)" id="bade31cdd33aebb062f7e571e0d02213" label="mixed materials [A0000000080226]" type="box">2</container></did></c><c id="41263cf02ab8cd6ce433bffe326d0515" level="file"><did><unittitle>Program Action Index Cards - New York Office Grants - 56-1000 - 58-404</unittitle><unitdate normal="1956/1958" type="inclusive">1956-1958</unitdate><container altrender="8x5 Card File Box (Short)" id="2f57d0fac2eaa9172788885ea8dbe828" label="mixed materials [A0000000080227]" type="box">3</container></did></c><c id="f8c645fa09c47d8ea01dd94ba9e2859e" level="file"><did><unittitle>Program Action Index Cards - New York Office Grants - 59-2 - 60-476</unittitle><unitdate normal="1959/1960" type="inclusive">1959-1960</unitdate><container altrender="8x5 Card File Box (Short)" id="de45b03402eedac7d7ea1b7d7a94c4e7" label="mixed materials [A0000000080228]" type="box">4</container></did></c><c id="dfde829a8b2b3ca0723ca008449e934c" level="file"><did><unittitle>Program Action Index Cards - New York Office Grants - 61-1 - 62-523</unittitle><unitdate normal="1961/1962" type="inclusive">1961-1962</unitdate><container altrender="8x5 Card File Box (Short)" id="6ada5cb1c0b771036f667612045a3309" label="mixed materials [A0000000080229]" type="box">5</container></did></c><c id="774203dd01939aa207078ac346ef29f3" level="file"><did><unittitle>Program Action Index Cards - New York Office Grants - 639-0001 - 64-300</unittitle><unitdate normal="1963/1964" type="inclusive">1963-1964</unitdate><container altrender="8x5 Card File Box (Short)" id="cf9fcfd374b29ba8f367da12b8c87d61" label="mixed materials [A0000000080230]" type="box">6</container></did></c><c id="43cd8adfecb7047e6ff1b6c3ed8d4237" level="file"><did><unittitle>Program Action Index Cards - New York Office Grants - 64-301 - 66-300</unittitle><unitdate normal="1964/1966" type="inclusive">1964-1966</unitdate><container altrender="8x5 Card File Box (Short)" id="9e8014fbae5e71322057ba5ec8f7c9fb" label="mixed materials [A0000000080231]" type="box">7</container></did></c><c id="dcc83a1031a321cdc1c4f58e648e20c0" level="file"><did><unittitle>Program Action Index Cards - New York Office Grants - 66-301 - 68-199</unittitle><unitdate normal="1966/1968" type="inclusive">1966-1968</unitdate><container altrender="8x5 Card File Box (Short)" id="1b23edd3a74bfc42bc24b5e8f8f0e15b" label="mixed materials [A0000000080232]" type="box">8</container></did></c><c id="18264dc302375750739cb2b9701c20c3" level="file"><did><unittitle>Program Action Index Cards - New York Office Grants - 68-200 - 69-299</unittitle><unitdate normal="1968/1969" type="inclusive">1968-1969</unitdate><container altrender="8x5 Card File Box (Short)" id="f916b61cb51d0a6fb88365768ae2b784" label="mixed materials [A0000000080233]" type="box">9</container></did></c><c id="111722d5d80bce5f9dc82cf151f06c5e" level="file"><did><unittitle>Program Action Index Cards - New York Office Grants - 69-301 - 70-984</unittitle><unitdate normal="1969/1970" type="inclusive">1969-1970</unitdate><container altrender="8x5 Card File Box (Short)" id="0acd7d78b6920da418f5c1768c213594" label="mixed materials [A0000000080234]" type="box">10</container></did></c><c id="4a4c9b023075806b8a148a993c7f2bc5" level="file"><did><unittitle>Program Action Index Cards - New York Office Grants - 719-0001 - 72-985</unittitle><unitdate normal="1971/1972" type="inclusive">1971-1972</unitdate><container altrender="8x5 Card File Box (Short)" id="0b1b8e4652faea37cf8498093fe5e1c9" label="mixed materials [A0000000080235]" type="box">11</container></did></c><c id="1c36494e78d8dc6bde7edbe3be509379" level="file"><did><unittitle>Program Action Index Cards - New York Office Grants - 739-0001 - 73-985</unittitle><unitdate normal="1973/1973">1973</unitdate><container altrender="8x5 Card File Box (Short)" id="480e7a1823b9a04f39bab2453c8adc22" label="mixed materials [A0000000080236]" type="box">12</container></did></c><c id="834938485fd1d8aaef765914b96e9395" level="file"><did><unittitle>Program Action Index Cards - New York Office Grants - 749-0001 - 750-0299</unittitle><unitdate normal="1974/1975" type="inclusive">1974-1975</unitdate><container altrender="8x5 Card File Box (Short)" id="6cefa8da4b06616a950821e83c576bb7" label="mixed materials [A0000000080237]" type="box">13</container></did></c><c id="2d72b7349b940a55fcc206bab439cdad" level="file"><did><unittitle>Program Action Index Cards - New York Office Grants - 75-301 - 769-0827</unittitle><unitdate normal="1975/1976" type="inclusive">1975-1976</unitdate><container altrender="8x5 Card File Box (Short)" id="9ad242b45a1f2be88ac4d1c4f2a87bfb" label="mixed materials [A0000000080238]" type="box">14</container></did></c><c id="f3f9f525ca14797095a58fff020ab19c" level="file"><did><unittitle>Program Action Index Cards - New York Office Grants - 775-011 - 785-0299</unittitle><unitdate normal="1977/1978" type="inclusive">1977-1978</unitdate><container altrender="8x5 Card File Box (Short)" id="1f20e788a58e10573b71adf0596ac713" label="mixed materials [A0000000080239]" type="box">15</container></did></c><c id="dc8b1ef2f1f3e4e0e9bd16d5cfd343ce" level="file"><did><unittitle>Program Action Index Cards - New York Office Grants - 78-300 - 79-499</unittitle><unitdate normal="1978/1979" type="inclusive">1978-1979</unitdate><container altrender="8x5 Card File Box (Short)" id="91308d4bf8a19f3cbb125e1f5c12ecb4" label="mixed materials [A0000000080240]" type="box">16</container></did></c><c id="87586113342c4084f24bad502501a1d0" level="file"><did><unittitle>Program Action Index Cards - New York Office Grants - 79-500 - 805-903</unittitle><unitdate normal="1979/1980" type="inclusive">1979-1980</unitdate><container altrender="8x5 Card File Box (Short)" id="3a5a3686267792669c0cf7b0fca44be8" label="mixed materials [A0000000080241]" type="box">17</container></did></c><c id="2999fc564ba461bf68ec8c4029541fd2" level="file"><did><unittitle>Program Action Index Cards - New York Office Grants - 815-010 - 81-1076</unittitle><unitdate normal="1981/1981">1981</unitdate><container altrender="8x5 Card File Box (Short)" id="1bd6225527965f1eb7cabedd2b01da03" label="mixed materials [A0000000080242]" type="box">18</container></did></c><c id="ebedb8c240e79baf731fcd3af476caf1" level="file"><did><unittitle>Program Action Index Cards - New York Office Grants - 820-011 - 825-1233</unittitle><unitdate normal="1982/1982">1982</unitdate><container altrender="8x5 Card File Box (Short)" id="8975c933b680c99b395b596fff9f0aeb" label="mixed materials [A0000000080243]" type="box">19</container></did></c><c id="f5023e582982aaf26abb806a4d5495c4" level="file"><did><unittitle>Program Action Index Cards - New York Office Grants - 835-0011 - 835-1098</unittitle><unitdate normal="1983/1983">1983</unitdate><container altrender="8x5 Card File Box (Short)" id="a19ba648c9611a8769ed290bceb8992d" label="mixed materials [A0000000080244]" type="box">20</container></did></c><c id="c59e96ec24c25e22c37c378422c710bc" level="file"><did><unittitle>Program Action Index Cards - New York Office Grants - 845-0010 - 845-0967</unittitle><unitdate normal="1984/1984">1984</unitdate><container altrender="8x5 Card File Box (Short)" id="905008e38c9ea8558f6349d666c2b127" label="mixed materials [A0000000080245]" type="box">21</container></did></c><c id="fc8bacd76389453100234c6413714a46" level="file"><did><unittitle>Program Action Index Cards - New York Office Grants - 855-0012 - 855-1061</unittitle><unitdate normal="1985/1985">1985</unitdate><container altrender="8x5 Card File Box (Short)" id="2655d4fcaad536f858e57fac4655ef51" label="mixed materials [A0000000080245]" type="box">21</container></did></c><c id="59ebee8d55c2370eea2f4c29b9de5dbd" level="file"><did><unittitle>Program Action Index Cards - New York Office Grants - 865-0022 - 865-1075</unittitle><unitdate normal="1986/1986">1986</unitdate><container altrender="8x5 Card File Box (Short)" id="dc24e2251e011250cd22e0347e5e8888" label="mixed materials [A0000000080245]" type="box">21</container></did></c><c id="eff1c93c0b308b23dfaa3dfb3bfbfdc9" level="file"><did><unittitle>Program Action Index Cards - New York Office Grants - 875-0058 - 870-832</unittitle><unitdate normal="1987/1987">1987</unitdate><container altrender="8x5 Card File Box (Short)" id="6441642ab728dff3ae32201747756356" label="mixed materials [A0000000080245]" type="box">21</container></did></c></c><c id="ea6160def871a0256b50bcf03ee97731" level="series"><did><unittitle>Program Action Index Cards - Field Office Grants</unittitle><unitid>2</unitid></did><c id="a5e1d02fcc6d05c830b5fc531524816a" level="file"><did><unittitle>Program Action Index Cards - Field Office Grants - 50-3 - 65-358</unittitle><unitdate normal="1950/1965" type="inclusive">1950-1965</unitdate><container altrender="8x5 Card File Box (Short)" id="8237966c0b748892d4fc5623d25c356c" label="mixed materials [A0000000080246]" type="box">22</container></did><scopecontent id="59313d08c86de26d1f7d63cdceff41c4"><head>Scope and Contents</head><p>Field office locations include: India; Islamabad, Pakistan; Lagos, Nigeria; Cairo, Egypt; Rio, Brazil; Thailand; Santiago, Chile; Bogota, Colombia; Jakarta, Indonesia; Buenos Aires, Argentina; Mexico; Riyadh, Saudi Arabia; Manila, Philippines; Peru</p></scopecontent></c><c id="35c3f476b94123744a1d8a511635bf27" level="file"><did><unittitle>Program Action Index Cards - Field Office Grants - 66-86 - 71-577</unittitle><unitdate normal="1966/1971" type="inclusive">1966-1971</unitdate><container altrender="8x5 Card File Box (Short)" id="9b3e0f31733b14c4ee495c44190668ad" label="mixed materials [A0000000080246]" type="box">22</container></did><scopecontent id="5621a89a0917dec60fc384a8108053d4"><head>Scope and Contents</head><p>Field office locations include: India; Islamabad, Pakistan; Lagos, Nigeria; Cairo, Egypt; Rio, Brazil; Thailand; Santiago, Chile; Bogota, Colombia; Jakarta, Indonesia; Buenos Aires, Argentina; Mexico; Riyadh, Saudi Arabia; Manila, Philippines; Lima, Peru; Paris, France</p></scopecontent></c><c id="7cf01c0e0d16ab569526095297168003" level="file"><did><unittitle>Program Action Index Cards - Field Office Grants - 72-1 - 76-825</unittitle><unitdate normal="1972/1976" type="inclusive">1972-1976</unitdate><container altrender="8x5 Card File Box (Short)" id="bae0de42ba67af40e987e129f381b318" label="mixed materials [A0000000080247]" type="box">23</container></did></c><c id="e4c1fdb9c42c883f0eb08f37a4581804" level="file"><did><unittitle>Program Action Index Cards - Field Office Grants - 77-11 - 84-417</unittitle><unitdate normal="1977/1984" type="inclusive">1977-1984</unitdate><container altrender="8x5 Card File Box (Short)" id="c370fba216257192318cc2071a203e30" label="mixed materials [A0000000080247]" type="box">23</container></did><scopecontent id="dd6172574bbc34718a22073eaece8aee"><head>Scope and Contents</head><p>Field office locations include: India; Islamabad, Pakistan; Lagos, Nigeria; Cairo, Egypt; Rio, Brazil; Thailand; Santiago, Chile; Bogota, Colombia; Jakarta, Indonesia; Buenos Aires, Argentina; Mexico; Riyadh, Saudi Arabia; Manila, Philippines; Lima, Peru; Paris, France</p></scopecontent></c></c></dsc>
+</archdesc>
 </ead>

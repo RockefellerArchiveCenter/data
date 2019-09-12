@@ -1,628 +1,73 @@
-<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
-  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" repositoryencoding="iso15511">
-    <eadid>FA1320.xml</eadid>
-    <filedesc>
-      <titlestmt>
-        <titleproper type="filing">Ford Foundation records, Multimedia Material, Accession 2017:067</titleproper>
-        <titleproper>A Guide to the Ford Foundation records, Multimedia Material, Accession 2017:067 <num>FA1320</num></titleproper>
-        <author>Katie Martin</author>
-      </titlestmt>
-      <publicationstmt>
-        <publisher>Rockefeller Archive Center</publisher>
-        <address>
-          <addressline>15 Dayton Avenue</addressline>
-          <addressline>Sleepy Hollow 10591</addressline>
-          <addressline>archive@rockarch.org</addressline>
-          <addressline>URL: <extptr xlink:href="http://www.rockarch.org" xlink:show="new" xlink:title="http://www.rockarch.org" xlink:type="simple"/></addressline>
-        </address>
-      </publicationstmt>
-    </filedesc>
-    <profiledesc>
-      <creation>This finding aid was produced using ArchivesSpace on <date>2018-04-03 00:15:24 -0400</date>.</creation>
-      <langusage>English</langusage>
-      <descrules>Describing Archives: A Content Standard</descrules>
-    </profiledesc>
-  </eadheader>
-  <archdesc level="collection">
-    <did>
-      <langmaterial>
-        <language langcode="eng">English</language>
-      </langmaterial>
-      <repository>
-        <corpname>Rockefeller Archive Center</corpname>
-      </repository>
-      <unittitle>Ford Foundation records, Multimedia Material, Accession 2017:067</unittitle>
-      <origination label="creator">
-        <corpname role="aut" rules="dacs" source="nad">Ford Foundation</corpname>
-      </origination>
-      <unitid>FA1320</unitid>
-      <physdesc altrender="whole">
-        <extent altrender="materialtype spaceoccupied">1 Cubic Feet</extent>
-        <extent altrender="carrier">3 boxes: 1 legal document container, 1 letter document container, 1 4x6 card file box</extent>
-      </physdesc>
-      <unitdate normal="1950/2008" type="inclusive">1950-2008</unitdate>
-      <langmaterial id="4ca00ba5b90d066ca422aafb1730358b">English</langmaterial>
-    </did>
-    <scopecontent id="0e39adbff71c002a3044c9cad448bdaa">
-      <head>Scope and Contents</head>
-      <p>Ford Foundation records, Multimedia Material, Accession 2017:067 contains photographs, negatives, slides, and films related to Ford Foundation press materials, publications, and projects, including the 1991 and 1992 Annual Reports, international women's programs in the 1980s, and activities of the Fund for Adult Education.</p>
-      <p>
-The collection also houses microfiche of press releases and responses, newspaper clippings, editorial round ups, and annual reports.</p>
-    </scopecontent>
-    <relatedmaterial id="eaa9fe7deddd035dd035ddc9fe459710">
-      <head>Related Materials</head>
-      <p>Related to material in Boxes 99-107 in <extref href="http://dimes.rockarch.org/FA1304/contents">Ford Foundation records, Publications (Non-Grant Related), Accession 2017:050</extref></p>
-    </relatedmaterial>
-    <separatedmaterial id="5f0160b4d18c0291dadbaee3b430c455">
-      <head>Separated Materials</head>
-      <p>Special format items have been separated from the body of the collection and assigned a unique separation number, as noted. Requests to access open special formats should reference the unique separation number.</p>
-    </separatedmaterial>
-    <arrangement id="b8be7d1b4188b650a52bd01d365c7357">
-      <head>Arrangement</head>
-      <p>Materials are arranged as received from the Ford Foundation in 2017.</p>
-    </arrangement>
-    <accessrestrict id="2c0edf9ed6d237e4f5359d0f0d51f262">
-      <head>Conditions Governing Access</head>
-      <p>Open for research with select materials restricted as noted. Brittle or damaged items are available at the discretion of RAC. Researchers interested in accessing digital media (floppy disks, CDs, DVDs, etc.) in this collection must use an access surrogate. The original items may not be accessed because of preservation concerns. To request an access surrogate be made, or if you are unsure if there is an access surrogate, please contact an archivist.</p>
-    </accessrestrict>
-    <acqinfo id="f9632b3486d1f432ef87c15bf7f36f42">
-      <head>Immediate Source of Acquisition</head>
-      <p>This material was transferred to RAC in 2017 by the Ford Foundation and ingested by RAC as Accession 2017:067.</p>
-    </acqinfo>
-    <prefercite id="863420ce272bcd8d48c9f039e37e7ba6">
-      <head>Preferred Citation</head>
-      <p>Information regarding the Rockefeller Archive Center's preferred elements and forms of citation can be found at <extref href="http://www.rockarch.org/research/citations.php">http://www.rockarch.org/research/citations.php</extref></p>
-    </prefercite>
-    <processinfo id="9ef94d6f19918bfae8602390d56b30ba">
-      <head>Processing Information</head>
-      <p>Processed by Katie Martin, October 2017.</p>
-    </processinfo>
-    <bioghist id="8e31fc4e5aedb59756cbebd3bac53bc8">
-      <head>Biographical / Historical</head>
-      <p>The Ford Foundation was chartered by Henry and Edsel Ford in 1936 "to receive and administer funds for scientific, educational and charitable purposes, all for the public welfare", and initially served the Ford family's charitable interests in the Detroit area. Following the deaths of Edsel Ford (1943) and Henry Ford (1947), the Foundation was propelled to the forefront of philanthropy as the largest American foundation in terms of both endowment and yearly expenditures, and with an international scope to its major program areas.
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid>FA1320.xml</eadid><filedesc><titlestmt><titleproper type="filing">Ford Foundation records, Multimedia Material, Accession 2017:067</titleproper><titleproper>A Guide to the Ford Foundation records, Multimedia Material, Accession 2017:067 <num>FA1320</num></titleproper><author>Katie Martin</author></titlestmt><publicationstmt><publisher>Rockefeller Archive Center</publisher><address><addressline>15 Dayton Avenue</addressline><addressline>Sleepy Hollow 10591</addressline><addressline>archive@rockarch.org</addressline><addressline>URL: <extptr xlink:href="http://www.rockarch.org" xlink:show="new" xlink:title="http://www.rockarch.org" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2019-09-12 00:16:28 -0400</date>.</creation><langusage>English</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
+  <did>
+    <langmaterial>
+      <language langcode="eng">English</language>
+    </langmaterial>
+    <repository>
+      <corpname>Rockefeller Archive Center</corpname>
+    </repository>
+    <unittitle>Ford Foundation records, Multimedia Material, Accession 2017:067</unittitle>
+    <origination label="creator">
+      <corpname role="aut" rules="dacs" source="nad">Ford Foundation</corpname>
+    </origination>
+    <unitid>FA1320</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">1.07 Cubic Feet</extent>
+      <extent altrender="carrier">3 boxes: 1 legal document container, 1 letter document container, 1 4x6 card file box</extent>
+    </physdesc>
+    <unitdate normal="1950/2008" type="inclusive">1950-2008</unitdate>
+    <langmaterial id="4ca00ba5b90d066ca422aafb1730358b">English</langmaterial>
+  </did>
+  <scopecontent id="0e39adbff71c002a3044c9cad448bdaa">
+    <head>Scope and Contents</head>
+<p>Ford Foundation records, Multimedia Material, Accession 2017:067 contains photographs, negatives, slides, and films related to Ford Foundation press materials, publications, and projects, including the 1991 and 1992 Annual Reports, international women's programs in the 1980s, and activities of the Fund for Adult Education.</p><p>
+The collection also houses microfiche of press releases and responses, newspaper clippings, editorial round ups, and annual reports.</p>  </scopecontent>
+  <relatedmaterial id="eaa9fe7deddd035dd035ddc9fe459710">
+    <head>Related Materials</head>
+<p>Related to material in Boxes 99-107 in <extref href="http://dimes.rockarch.org/FA1304/contents">Ford Foundation records, Publications (Non-Grant Related), Accession 2017:050</extref></p>  </relatedmaterial>
+  <separatedmaterial id="5f0160b4d18c0291dadbaee3b430c455">
+    <head>Separated Materials</head>
+<p>Special format items have been separated from the body of the collection and assigned a unique separation number, as noted. Requests to access open special formats should reference the unique separation number.</p>  </separatedmaterial>
+  <arrangement id="b8be7d1b4188b650a52bd01d365c7357">
+    <head>Arrangement</head>
+<p>Materials are arranged as received from the Ford Foundation in 2017.</p>  </arrangement>
+  <accessrestrict id="2c0edf9ed6d237e4f5359d0f0d51f262">
+    <head>Conditions Governing Access</head>
+<p>Open for research with select materials restricted as noted. Brittle or damaged items are available at the discretion of RAC. Researchers interested in accessing digital media (floppy disks, CDs, DVDs, etc.) in this collection must use an access surrogate. The original items may not be accessed because of preservation concerns. To request an access surrogate be made, or if you are unsure if there is an access surrogate, please contact an archivist.</p>  </accessrestrict>
+  <acqinfo id="f9632b3486d1f432ef87c15bf7f36f42">
+    <head>Immediate Source of Acquisition</head>
+<p>This material was transferred to RAC in 2017 by the Ford Foundation and ingested by RAC as Accession 2017:067.</p>  </acqinfo>
+  <prefercite id="863420ce272bcd8d48c9f039e37e7ba6">
+    <head>Preferred Citation</head>
+<p>Information regarding the Rockefeller Archive Center's preferred elements and forms of citation can be found at <extref href="http://www.rockarch.org/research/citations.php">http://www.rockarch.org/research/citations.php</extref></p>  </prefercite>
+  <processinfo id="9ef94d6f19918bfae8602390d56b30ba">
+    <head>Processing Information</head>
+<p>Processed by Katie Martin, October 2017.</p>  </processinfo>
+  <bioghist id="8e31fc4e5aedb59756cbebd3bac53bc8">
+    <head>Biographical / Historical</head>
+<p>The Ford Foundation was chartered by Henry and Edsel Ford in 1936 "to receive and administer funds for scientific, educational and charitable purposes, all for the public welfare", and initially served the Ford family's charitable interests in the Detroit area. Following the deaths of Edsel Ford (1943) and Henry Ford (1947), the Foundation was propelled to the forefront of philanthropy as the largest American foundation in terms of both endowment and yearly expenditures, and with an international scope to its major program areas.
 </p>
-      <p>
+<p>
 During the Foundation's first twenty years its major programs were in international economic development, primary and higher education, educational and public broadcasting, behavioral sciences, civil liberties, urban development, fine arts and the humanities. The Ford Foundation also partnered with the Rockefeller Foundation in supporting agricultural development in South America, Africa, and Southeast Asia. Since the 1970s, the Foundation has also pioneered programs in women's rights, energy policy, micro-financing in under-developed countries, establishing human rights groups, and improving international HIV/AIDS education.
-</p>
-    </bioghist>
-    <processinfo id="e403cb50f584d1cdbb8fec1d45265031">
-      <head>Processing Information</head>
-      <p>Folders 21 and 23 have been removed because they contain digital material</p>
-    </processinfo>
-    <controlaccess>
-      <subject source="lcsh">Ford Foundation</subject>
-    </controlaccess>
-    <dsc>
-      <c id="24135eb72bbd4cc3ed12474969fc8d5a" level="series">
-        <did>
-          <unittitle>Multimedia Material</unittitle>
-          <unitid>1</unitid>
-        </did>
-        <c id="adb2ac15550c207ab48629c8c6a1c09a" level="file">
-          <did>
-            <unittitle>Innovations in State and Local Government - Photo Shoot (Photocopies of Originals)</unittitle>
-            <unitdate normal="1991/1991">1991</unitdate>
-            <container altrender="Lgl Document Storage Box" id="5a285951ee02894c9a4b44e940b0e9d5" label="mixed materials [A0000000080200]" type="box">1</container>
-            <container id="7608177e10b4837e96e634c6a196b082" parent="5a285951ee02894c9a4b44e940b0e9d5" type="folder">1</container>
-          </did>
-          <scopecontent id="bf4410c9a5751adc65b9e431a83331a4">
-            <head>Scope and Contents</head>
-            <p>Photocopies of original photographs include: Georgia No-Tillage Assistance Program, The Blackstone Project: Preventing Pollution Before 
-It Happens, KET - Kentucky, schoolchildren, mural painting, babies with mothers, Seattle Neighborhood Matching Fund, exhibit layout, K-6 Fresno, Trauma Intervention Program, Friends of the Family, School-Based Youth Services NJ, Philadelphia Anti-Graffiti Network, Monroe Maternity Center</p>
-          </scopecontent>
-        </c>
-        <c id="5db840b56c8928ae072c9a217ea969df" level="file">
-          <did>
-            <unittitle>1991 Annual Report Photo Research - ORI Photographs</unittitle>
-            <unitdate normal="1991/1991">1991</unitdate>
-            <container altrender="Lgl Document Storage Box" id="049d67b5a695650652f7d708d0f6e80b" label="mixed materials [A0000000080200]" type="box">1</container>
-            <container id="b5cf295285716f19f342d8ab4bb75eb1" parent="049d67b5a695650652f7d708d0f6e80b" type="folder">2</container>
-          </did>
-          <scopecontent id="f0d1720f4ae3700865d8a5d73c23db1c">
-            <head>Scope and Contents</head>
-            <p>Photographs by Bob Stockfield and photo captioned, "The Foundation supports analysis of current trends in Europe and their effects on groups like NATO" and on back "Military - NATO Exercises in Germany, NATO, Randy G. Taylor/Gamma-Liason"</p>
-          </scopecontent>
-        </c>
-        <c id="3287e9114a827433a45245e8f54a2e88" level="file">
-          <did>
-            <unittitle>1991 Annual Report Photo Research - International Affairs Photographs</unittitle>
-            <unitdate normal="1978/1990" type="inclusive">1978-1990</unitdate>
-            <container altrender="Lgl Document Storage Box" id="5661c45d4ad0d80f496645d05e75d693" label="mixed materials [A0000000080200]" type="box">1</container>
-            <container id="7a48efe48b637b1c30769842810d2abe" parent="5661c45d4ad0d80f496645d05e75d693" type="folder">3</container>
-          </did>
-          <scopecontent id="43fd7293a60b6be6d61c5224347e8248">
-            <head>Scope and Contents</head>
-            <p>United Nations Interim Force in Lebanon - 1978, 1980; World Summit for Children, United Nations Headquarters - 1990</p>
-          </scopecontent>
-        </c>
-        <c id="adf992e820013e0228e49699233abb97" level="file">
-          <did>
-            <unittitle>1991 Annual Report Photo Research - Education &amp; Culture Photographs</unittitle>
-            <unitdate normal="1990/1992" type="inclusive">1990-1992</unitdate>
-            <container altrender="Lgl Document Storage Box" id="5494ba7d39471c266517fcfa4de1110b" label="mixed materials [A0000000080200]" type="box">1</container>
-            <container id="c3845560b63a296e549ebe557b02bce8" parent="5494ba7d39471c266517fcfa4de1110b" type="folder">4</container>
-          </did>
-          <scopecontent id="8aabf0dfdf833de846c941afd60ca4ad">
-            <head>Scope and Contents</head>
-            <p>Antony Gormley's Installation in the Old City Jail; 1990 Los Angeles Festival - Bread and Puppet Theater Performance from Vermont</p>
-          </scopecontent>
-        </c>
-        <c id="172e2662a4b78a9eda7c8934c14153ce" level="file">
-          <did>
-            <unittitle>1991 Annual Report Photo Research - Rights &amp; Social Justice Photographs</unittitle>
-            <unitdate normal="1991/1991">1991</unitdate>
-            <container altrender="Lgl Document Storage Box" id="b54b3999f8ec3276566eba5ada5e45a3" label="mixed materials [A0000000080200]" type="box">1</container>
-            <container id="98515ad32065267d2761dfc252268541" parent="b54b3999f8ec3276566eba5ada5e45a3" type="folder">5</container>
-          </did>
-          <scopecontent id="86436e0bed96d80aa87f18bb518677ed">
-            <head>Scope and Contents</head>
-            <p>Notes on back of photos: Gabra - N. Kenya - Millenium; Nyimba, N.W. Nepal - Woman with 4 Husbands Ages 8-30 - Millenium; #13-34: Mzarabani Communal Land</p>
-          </scopecontent>
-        </c>
-        <c id="1f3d170701c1631cf5cd74008c35eb34" level="file">
-          <did>
-            <unittitle>1991 Annual Report Photo Research - Governance &amp; Public Policy Photographs</unittitle>
-            <unitdate normal="1991/1991">1991</unitdate>
-            <container altrender="Lgl Document Storage Box" id="d12d5b407abacedc162f4f317a6049eb" label="mixed materials [A0000000080200]" type="box">1</container>
-            <container id="56a45e4e908321d3dfb1ab82a7bc3359" parent="d12d5b407abacedc162f4f317a6049eb" type="folder">6</container>
-          </did>
-          <scopecontent id="1e34a786360d6eaefbcbad913c127919">
-            <head>Scope and Contents</head>
-            <p>Photos from "In the Shadow of Love: A Teen AIDS Story" - Afterschool Special on ABC produced by WGBH Boston</p>
-          </scopecontent>
-        </c>
-        <c id="6616d2acf432092ff80ce1e3fc98c3b5" level="file">
-          <did>
-            <unittitle>1991 Annual Report Photo Research - Rural Poverty Photographs</unittitle>
-            <unitdate normal="1990/1991" type="inclusive">1990-1991</unitdate>
-            <container altrender="Lgl Document Storage Box" id="f76766c1c5832644e59c6f36b84cba35" label="mixed materials [A0000000080200]" type="box">1</container>
-            <container id="8892a1a97117e4289a3b8e46e1e5b9b2" parent="f76766c1c5832644e59c6f36b84cba35" type="folder">7</container>
-          </did>
-          <scopecontent id="ae24d9d2baed5970cd09c8717d20ac2f">
-            <head>Scope and Contents</head>
-            <p>Contains photos, slides, and negatives of the Cache River in Illinois and farming in Bangladesh and Nigeria</p>
-          </scopecontent>
-        </c>
-        <c id="cf05bba210748975b38c2ff4fb758637" level="file">
-          <did>
-            <unittitle>1991 Annual Report Photo Research - Urban Poverty Photographs</unittitle>
-            <unitdate normal="1991/1991">1991</unitdate>
-            <container altrender="Lgl Document Storage Box" id="26d95c14561b354c90f93b49d561f4ed" label="mixed materials [A0000000080200]" type="box">1</container>
-            <container id="96ec5cc24bc200f7278bc76ef511623c" parent="26d95c14561b354c90f93b49d561f4ed" type="folder">8</container>
-          </did>
-          <scopecontent id="570f1f5bfe5871d595bbd2c6172fe703">
-            <head>Scope and Contents</head>
-            <p>Photos by Marc PokKempner - Chicago; Christopher Morris, 1990 Black Star, Mexico; 70M Rio Branco Distributed by Magnum, Brazil, Sao Bernardo S. P.; Ken Ross - Slum Village, Rio, Brazil</p>
-          </scopecontent>
-        </c>
-        <c id="8ecdb5952dd190082eccd098a1149cf0" level="file">
-          <did>
-            <unittitle>1992 Annual Report - United Nations Photographs</unittitle>
-            <unitdate normal="1979/1991" type="inclusive">1979-1991</unitdate>
-            <container altrender="Lgl Document Storage Box" id="e5e7133a6518e0eeb908f250cee6304a" label="mixed materials [A0000000080200]" type="box">1</container>
-            <container id="cf5b08bd280ccbd8c9f713e66684589e" parent="e5e7133a6518e0eeb908f250cee6304a" type="folder">9</container>
-          </did>
-          <scopecontent id="ee6fe1256a0edcc48d04ea8aeaeb7415">
-            <head>Scope and Contents</head>
-            <p>Titles of photographs include: United Nations Interim Force in Lebanon; United Nations Peace-Keeping Force in Cyprus; Secretary-General of Environment and Development Conference Introduces Pele as Goodwill Ambassador; Press-Conference by Secretary-General of Conference of Environment and Development; Human Settlements - The Places Where People Live and Work, Beijing, China and Dacca Bangladesh; United Nations – Sponsored News Mission Visits Middle East, May 1983, In Connection with the International Conference on the Question of Palestine, Quneitra, Syria; Communications is for People: World Communications Year, Sichuan Province, China, 1982; Farming for Development: Agriculture in China, Sichuan, China; Population and Family Planning, Dacca, Bangladesh; Refugees in Somalia; National Forest Inventory in Mexico, Durango, Mexico; Energy in the 21st Century/The Alternatives, Sichuan, China, 1979; United Nations Interim Force in Lebanon (UNIFIL); Secretary-General Visits Untag Military Headquarters in Namibia, Sviderhof Base, Namibia</p>
-          </scopecontent>
-        </c>
-        <c id="a4e77729d709591d0a574defeb4c8ff6" level="file">
-          <did>
-            <unittitle>1992 Annual Report - Photocopies of Photographs from the Bettman Archive/Bettman Newsphotos/United Press International (UPI) and Reuters Photo Libraries</unittitle>
-            <unitdate normal="1992/1992">1992</unitdate>
-            <container altrender="Lgl Document Storage Box" id="6a3c1a12b3888acfddb844ec1b60df59" label="mixed materials [A0000000080200]" type="box">1</container>
-            <container id="475c7bda1a207c3bba1ce46d029ff611" parent="6a3c1a12b3888acfddb844ec1b60df59" type="folder">10</container>
-          </did>
-          <scopecontent id="bbc18618f6c0a55d5e47f2dbd53e7aed">
-            <head>Scope and Contents</head>
-            <p>Photocopies of agricultural scenes, international affairs, picket lines, women breaking barriers, scenes of life under communism, UNICEF, urban and rural poor, refugees, and migrant workers</p>
-          </scopecontent>
-        </c>
-        <c id="97c220f3bf0b56509fe6a074c41c656e" level="file">
-          <did>
-            <unittitle>1992 Annual Report - Photographs, Slides, and Negatives</unittitle>
-            <unitdate normal="1981/1991" type="inclusive">1981-1991</unitdate>
-            <container altrender="Lgl Document Storage Box" id="67b61bec3f155c96d186b887f6b82e84" label="mixed materials [A0000000080200]" type="box">1</container>
-            <container id="142c33f563288f65173fd577f3fb9a0f" parent="67b61bec3f155c96d186b887f6b82e84" type="folder">11</container>
-          </did>
-          <scopecontent id="a8868270aecbde192bfa197ea39cf7b8">
-            <head>Scope and Contents</head>
-            <p>Photograph captions/titles include: Hispanics in the market of Paseo de la Plaza in Los Angeles defy cultural and political labels; Press Conference by President of Costa Rica, United Nations, New York; Farming for Development - Nepal; Coping with Disaster: Drought in Ethiopia; Coping with Disaster: Nicaraguan Refugees in Honduras; Drought in Africa, Korem, Ethiopia; Millenium - Nigeria, Brazil, Phillipines; UNICEF - Nigeria slides; includes negatives</p>
-          </scopecontent>
-        </c>
-        <c id="87bee90345652e358525a263615a74df" level="file">
-          <did>
-            <unittitle>Women's Programs - Photographs of Working Women - South Africa</unittitle>
-            <unitdate>undated</unitdate>
-            <container altrender="Lgl Document Storage Box" id="3b98dbad8a41e4b86c6a06be2be8895d" label="mixed materials [A0000000080200]" type="box">1</container>
-            <container id="a07f931df78d59fa1267c9742c041dd9" parent="3b98dbad8a41e4b86c6a06be2be8895d" type="folder">12</container>
-          </did>
-        </c>
-        <c id="3d41a123e4cd0032116e0ec737d646cb" level="file">
-          <did>
-            <unittitle>Women's Programs - Photographs - India</unittitle>
-            <unitdate normal="1985/1985">1985</unitdate>
-            <container altrender="Lgl Document Storage Box" id="620017f759ffd9e997719566819b624c" label="mixed materials [A0000000080200]" type="box">1</container>
-            <container id="24dbcf688be01fee8cda765cbf9d2a77" parent="620017f759ffd9e997719566819b624c" type="folder">13</container>
-          </did>
-          <scopecontent id="327aa24ac2a4a29ef17990d24b2924d3">
-            <head>Scope and Contents</head>
-            <p>
+</p>   </bioghist>
+  <processinfo id="e403cb50f584d1cdbb8fec1d45265031">
+    <head>Processing Information</head>
+<p>Folders 21 and 23 have been removed because they contain digital material</p>  </processinfo>
+  <controlaccess>
+    <subject source="lcsh">Ford Foundation</subject>
+  </controlaccess>
+  <dsc><c id="24135eb72bbd4cc3ed12474969fc8d5a" level="series"><did><unittitle>Multimedia Material</unittitle><unitid>1</unitid></did><c id="adb2ac15550c207ab48629c8c6a1c09a" level="file"><did><unittitle>Innovations in State and Local Government - Photo Shoot (Photocopies of Originals)</unittitle><unitdate normal="1991/1991">1991</unitdate><container altrender="Lgl Document Storage Box" id="01028f646f711ae45c991218495edfc6" label="mixed materials [A0000000080200]" type="box">1</container><container id="a3886695345e58c8a1b9a14e2c0c8215" parent="01028f646f711ae45c991218495edfc6" type="folder">1</container></did><scopecontent id="bf4410c9a5751adc65b9e431a83331a4"><head>Scope and Contents</head><p>Photocopies of original photographs include: Georgia No-Tillage Assistance Program, The Blackstone Project: Preventing Pollution Before 
+It Happens, KET - Kentucky, schoolchildren, mural painting, babies with mothers, Seattle Neighborhood Matching Fund, exhibit layout, K-6 Fresno, Trauma Intervention Program, Friends of the Family, School-Based Youth Services NJ, Philadelphia Anti-Graffiti Network, Monroe Maternity Center</p></scopecontent></c><c id="5db840b56c8928ae072c9a217ea969df" level="file"><did><unittitle>1991 Annual Report Photo Research - ORI Photographs</unittitle><unitdate normal="1991/1991">1991</unitdate><container altrender="Lgl Document Storage Box" id="cf8f2ede6af20b4176d882c10e645ea7" label="mixed materials [A0000000080200]" type="box">1</container><container id="eac53213e53a1f9832071c6878af2672" parent="cf8f2ede6af20b4176d882c10e645ea7" type="folder">2</container></did><scopecontent id="f0d1720f4ae3700865d8a5d73c23db1c"><head>Scope and Contents</head><p>Photographs by Bob Stockfield and photo captioned, "The Foundation supports analysis of current trends in Europe and their effects on groups like NATO" and on back "Military - NATO Exercises in Germany, NATO, Randy G. Taylor/Gamma-Liason"</p></scopecontent></c><c id="3287e9114a827433a45245e8f54a2e88" level="file"><did><unittitle>1991 Annual Report Photo Research - International Affairs Photographs</unittitle><unitdate normal="1978/1990" type="inclusive">1978-1990</unitdate><container altrender="Lgl Document Storage Box" id="be729e641cd09edeaf601ef23c48fe6e" label="mixed materials [A0000000080200]" type="box">1</container><container id="cc0f6bd4396c99242a76a0598315a198" parent="be729e641cd09edeaf601ef23c48fe6e" type="folder">3</container></did><scopecontent id="43fd7293a60b6be6d61c5224347e8248"><head>Scope and Contents</head><p>United Nations Interim Force in Lebanon - 1978, 1980; World Summit for Children, United Nations Headquarters - 1990</p></scopecontent></c><c id="adf992e820013e0228e49699233abb97" level="file"><did><unittitle>1991 Annual Report Photo Research - Education &amp; Culture Photographs</unittitle><unitdate normal="1990/1992" type="inclusive">1990-1992</unitdate><container altrender="Lgl Document Storage Box" id="268b03c3320c76a1249a0dfa570fc272" label="mixed materials [A0000000080200]" type="box">1</container><container id="e8f5495e8399243687d64e2aeceedeff" parent="268b03c3320c76a1249a0dfa570fc272" type="folder">4</container></did><scopecontent id="8aabf0dfdf833de846c941afd60ca4ad"><head>Scope and Contents</head><p>Antony Gormley's Installation in the Old City Jail; 1990 Los Angeles Festival - Bread and Puppet Theater Performance from Vermont</p></scopecontent></c><c id="172e2662a4b78a9eda7c8934c14153ce" level="file"><did><unittitle>1991 Annual Report Photo Research - Rights &amp; Social Justice Photographs</unittitle><unitdate normal="1991/1991">1991</unitdate><container altrender="Lgl Document Storage Box" id="a11e5e2ff093235c194e4bef45872921" label="mixed materials [A0000000080200]" type="box">1</container><container id="dbf3c8319b004020c6f35b68f5f7d2b2" parent="a11e5e2ff093235c194e4bef45872921" type="folder">5</container></did><scopecontent id="86436e0bed96d80aa87f18bb518677ed"><head>Scope and Contents</head><p>Notes on back of photos: Gabra - N. Kenya - Millenium; Nyimba, N.W. Nepal - Woman with 4 Husbands Ages 8-30 - Millenium; #13-34: Mzarabani Communal Land</p></scopecontent></c><c id="1f3d170701c1631cf5cd74008c35eb34" level="file"><did><unittitle>1991 Annual Report Photo Research - Governance &amp; Public Policy Photographs</unittitle><unitdate normal="1991/1991">1991</unitdate><container altrender="Lgl Document Storage Box" id="e41dce5aec2471e50c3e29cb0f1c6be9" label="mixed materials [A0000000080200]" type="box">1</container><container id="7c6efca149c3513c48d4660391c4b39e" parent="e41dce5aec2471e50c3e29cb0f1c6be9" type="folder">6</container></did><scopecontent id="1e34a786360d6eaefbcbad913c127919"><head>Scope and Contents</head><p>Photos from "In the Shadow of Love: A Teen AIDS Story" - Afterschool Special on ABC produced by WGBH Boston</p></scopecontent></c><c id="6616d2acf432092ff80ce1e3fc98c3b5" level="file"><did><unittitle>1991 Annual Report Photo Research - Rural Poverty Photographs</unittitle><unitdate normal="1990/1991" type="inclusive">1990-1991</unitdate><container altrender="Lgl Document Storage Box" id="7d464a229e572606f0e85137465a21d9" label="mixed materials [A0000000080200]" type="box">1</container><container id="a042461d5ef75a52d240d8eae0dca72f" parent="7d464a229e572606f0e85137465a21d9" type="folder">7</container></did><scopecontent id="ae24d9d2baed5970cd09c8717d20ac2f"><head>Scope and Contents</head><p>Contains photos, slides, and negatives of the Cache River in Illinois and farming in Bangladesh and Nigeria</p></scopecontent></c><c id="cf05bba210748975b38c2ff4fb758637" level="file"><did><unittitle>1991 Annual Report Photo Research - Urban Poverty Photographs</unittitle><unitdate normal="1991/1991">1991</unitdate><container altrender="Lgl Document Storage Box" id="342f4400af04560f832470738d9d978d" label="mixed materials [A0000000080200]" type="box">1</container><container id="a123cb9bf763a83f2b531900604c6ef9" parent="342f4400af04560f832470738d9d978d" type="folder">8</container></did><scopecontent id="570f1f5bfe5871d595bbd2c6172fe703"><head>Scope and Contents</head><p>Photos by Marc PokKempner - Chicago; Christopher Morris, 1990 Black Star, Mexico; 70M Rio Branco Distributed by Magnum, Brazil, Sao Bernardo S. P.; Ken Ross - Slum Village, Rio, Brazil</p></scopecontent></c><c id="8ecdb5952dd190082eccd098a1149cf0" level="file"><did><unittitle>1992 Annual Report - United Nations Photographs</unittitle><unitdate normal="1979/1991" type="inclusive">1979-1991</unitdate><container altrender="Lgl Document Storage Box" id="b77c3657a8ac4a1c9cd19bedad8433e0" label="mixed materials [A0000000080200]" type="box">1</container><container id="de6b304169335968253f60d8bee626da" parent="b77c3657a8ac4a1c9cd19bedad8433e0" type="folder">9</container></did><scopecontent id="ee6fe1256a0edcc48d04ea8aeaeb7415"><head>Scope and Contents</head><p>Titles of photographs include: United Nations Interim Force in Lebanon; United Nations Peace-Keeping Force in Cyprus; Secretary-General of Environment and Development Conference Introduces Pele as Goodwill Ambassador; Press-Conference by Secretary-General of Conference of Environment and Development; Human Settlements - The Places Where People Live and Work, Beijing, China and Dacca Bangladesh; United Nations – Sponsored News Mission Visits Middle East, May 1983, In Connection with the International Conference on the Question of Palestine, Quneitra, Syria; Communications is for People: World Communications Year, Sichuan Province, China, 1982; Farming for Development: Agriculture in China, Sichuan, China; Population and Family Planning, Dacca, Bangladesh; Refugees in Somalia; National Forest Inventory in Mexico, Durango, Mexico; Energy in the 21st Century/The Alternatives, Sichuan, China, 1979; United Nations Interim Force in Lebanon (UNIFIL); Secretary-General Visits Untag Military Headquarters in Namibia, Sviderhof Base, Namibia</p></scopecontent></c><c id="a4e77729d709591d0a574defeb4c8ff6" level="file"><did><unittitle>1992 Annual Report - Photocopies of Photographs from the Bettman Archive/Bettman Newsphotos/United Press International (UPI) and Reuters Photo Libraries</unittitle><unitdate normal="1992/1992">1992</unitdate><container altrender="Lgl Document Storage Box" id="674e873051eea2a30829c5ceebafc111" label="mixed materials [A0000000080200]" type="box">1</container><container id="cf8169a967a642626a887a08500145ec" parent="674e873051eea2a30829c5ceebafc111" type="folder">10</container></did><scopecontent id="bbc18618f6c0a55d5e47f2dbd53e7aed"><head>Scope and Contents</head><p>Photocopies of agricultural scenes, international affairs, picket lines, women breaking barriers, scenes of life under communism, UNICEF, urban and rural poor, refugees, and migrant workers</p></scopecontent></c><c id="97c220f3bf0b56509fe6a074c41c656e" level="file"><did><unittitle>1992 Annual Report - Photographs, Slides, and Negatives</unittitle><unitdate normal="1981/1991" type="inclusive">1981-1991</unitdate><container altrender="Lgl Document Storage Box" id="c0dd9df15bb1b86c6f5ff131e408f054" label="mixed materials [A0000000080200]" type="box">1</container><container id="8b77cc553b81c0f13a315bddf068c64b" parent="c0dd9df15bb1b86c6f5ff131e408f054" type="folder">11</container></did><scopecontent id="a8868270aecbde192bfa197ea39cf7b8"><head>Scope and Contents</head><p>Photograph captions/titles include: Hispanics in the market of Paseo de la Plaza in Los Angeles defy cultural and political labels; Press Conference by President of Costa Rica, United Nations, New York; Farming for Development - Nepal; Coping with Disaster: Drought in Ethiopia; Coping with Disaster: Nicaraguan Refugees in Honduras; Drought in Africa, Korem, Ethiopia; Millenium - Nigeria, Brazil, Phillipines; UNICEF - Nigeria slides; includes negatives</p></scopecontent></c><c id="87bee90345652e358525a263615a74df" level="file"><did><unittitle>Women's Programs - Photographs of Working Women - South Africa</unittitle><unitdate>undated</unitdate><container altrender="Lgl Document Storage Box" id="21cae867c02c13920bf82ae05c9f4016" label="mixed materials [A0000000080200]" type="box">1</container><container id="18fa334f853a3938c2f317c3b1aa70a4" parent="21cae867c02c13920bf82ae05c9f4016" type="folder">12</container></did></c><c id="3d41a123e4cd0032116e0ec737d646cb" level="file"><did><unittitle>Women's Programs - Photographs - India</unittitle><unitdate normal="1985/1985">1985</unitdate><container altrender="Lgl Document Storage Box" id="f02f160b9b9e003ab96b8ffc0952f688" label="mixed materials [A0000000080200]" type="box">1</container><container id="76bb7ba25949de395f17b577065ac770" parent="f02f160b9b9e003ab96b8ffc0952f688" type="folder">13</container></did><scopecontent id="327aa24ac2a4a29ef17990d24b2924d3"><head>Scope and Contents</head><p>
 Note from Original Envelope: Addressed to: Ms. Nancy Boggs; From: Viji Srinivasm; Subject: Women's Programs: Slides and Photographs; Date 23 May 1985; The Ford Foundation, 55, Lodi Estate, New Delhi 3
 </p>
-            <p>Photograph 1. Grantee: Annapurna Mahila Mandal, Description: Home-based caterer kneads dough for migrant workers, Intervention: Centralised workshop for middle-class clientele; Photograph 2. Grantee: Working Women's Forum, Description: Flower-vendor selling flowers, Intervention: Access to credit and direct linkage with flower-growers; Photograph 3. Grantee: Working Women's Forum, Description: Home-based producer rolling incense-sticks, Intervention: Child labourer education centre; Photograph 4. Grantee: Working Women's Forum, Description: Home-based producer rolling incense-sticks, Intervention: Access to credit and new markets; Photograph 5. Grantee: Working Women's Forum, Description: Home-based producer rolling incense-sticks, Intervention: Child care and health centre; Photograph 6. Grantee: Working Women's Forum, Description: Home-based producer makes lace, Intervention: Access to credit, empowerment through organising; Photograph 7. Grantee: Vanvasi Seva Kendra, Description: Traditional looms of women's blanket-weavers, Intervention: Upgrading looms at Women's Development Centre; Photograph 8. Grantee: Community Services Guild, Description: Food Stall, Intervention: Access to credit; Photograph 9. Grantee: Community Services Guild, Description: Cleaning of millet on payment of a small wage, Intervention: Access to credit to buy large quantities and clean and sell when prices are high; Photograph 10. Grantee: Mahila Sewa Trust, Description: Girls learning pottery, Intervention: Non-traditional occupations for women; Photograph 11. Grantee: Mahila Sewa Trust, Description: Junksmith, Intervention: Access to credit, skill training and upgrading; Photograph 13. Grantee: Master Craftsmen's Association of Mithila, Description: Paintings in Madhubani Style, Intervention: Central workshop and storage facilities</p>
-          </scopecontent>
-        </c>
-        <c id="1b72b3981f4a84399f00f1060b6b1c7f" level="file">
-          <did>
-            <unittitle>Women's Programs - Slides - Self Employed Women's Association (SEWA), Ahmedabad, India</unittitle>
-            <unitdate normal="1982/1982">1982</unitdate>
-            <container altrender="Lgl Document Storage Box" id="50e173ec6d1e80cfbb1ff025553c8de5" label="mixed materials [A0000000080200]" type="box">1</container>
-            <container id="4386068e0a48dbfea2f0cf047dec0328" parent="50e173ec6d1e80cfbb1ff025553c8de5" type="folder">14</container>
-          </did>
-          <scopecontent id="2ea1da43fe98613066741810d0afbbbe">
-            <head>Scope and Contents</head>
-            <p>Note from original envelope: Handiraft workers, block printers (sp?), market workers, cigarette rollers, cart puller</p>
-            <p>
+<p>Photograph 1. Grantee: Annapurna Mahila Mandal, Description: Home-based caterer kneads dough for migrant workers, Intervention: Centralised workshop for middle-class clientele; Photograph 2. Grantee: Working Women's Forum, Description: Flower-vendor selling flowers, Intervention: Access to credit and direct linkage with flower-growers; Photograph 3. Grantee: Working Women's Forum, Description: Home-based producer rolling incense-sticks, Intervention: Child labourer education centre; Photograph 4. Grantee: Working Women's Forum, Description: Home-based producer rolling incense-sticks, Intervention: Access to credit and new markets; Photograph 5. Grantee: Working Women's Forum, Description: Home-based producer rolling incense-sticks, Intervention: Child care and health centre; Photograph 6. Grantee: Working Women's Forum, Description: Home-based producer makes lace, Intervention: Access to credit, empowerment through organising; Photograph 7. Grantee: Vanvasi Seva Kendra, Description: Traditional looms of women's blanket-weavers, Intervention: Upgrading looms at Women's Development Centre; Photograph 8. Grantee: Community Services Guild, Description: Food Stall, Intervention: Access to credit; Photograph 9. Grantee: Community Services Guild, Description: Cleaning of millet on payment of a small wage, Intervention: Access to credit to buy large quantities and clean and sell when prices are high; Photograph 10. Grantee: Mahila Sewa Trust, Description: Girls learning pottery, Intervention: Non-traditional occupations for women; Photograph 11. Grantee: Mahila Sewa Trust, Description: Junksmith, Intervention: Access to credit, skill training and upgrading; Photograph 13. Grantee: Master Craftsmen's Association of Mithila, Description: Paintings in Madhubani Style, Intervention: Central workshop and storage facilities</p></scopecontent></c><c id="1b72b3981f4a84399f00f1060b6b1c7f" level="file"><did><unittitle>Women's Programs - Slides - Self Employed Women's Association (SEWA), Ahmedabad, India</unittitle><unitdate normal="1982/1982">1982</unitdate><container altrender="Lgl Document Storage Box" id="71659f10d71e97b7e963ef6637048861" label="mixed materials [A0000000080200]" type="box">1</container><container id="eb62b91073166a74ddc8869cb1697e6d" parent="71659f10d71e97b7e963ef6637048861" type="folder">14</container></did><scopecontent id="2ea1da43fe98613066741810d0afbbbe"><head>Scope and Contents</head><p>Note from original envelope: Handiraft workers, block printers (sp?), market workers, cigarette rollers, cart puller</p>
+<p>
 Photographs copyright Joseph S. Viesti 1982; Captions include: SEWA Clothing Market, SEWA Handcart Pullers, SEWA Market Worker, SEWA Cigarette Roller, SEWA Handicraft Worker, SEWA Market
-</p>
-          </scopecontent>
-        </c>
-        <c id="56780b425fb5e6db4ccf8998134f21b5" level="file">
-          <did>
-            <unittitle>Women's Programs - Photographs from the Third Latin American and Caribbean Feminist Encounter, Mulherio Communications Center, SOS Corpo, Women's Health Group, and the Professional Association of Domestic Workers, Brazil Office</unittitle>
-            <unitdate normal="1985/1985">1985</unitdate>
-            <container altrender="Lgl Document Storage Box" id="8c8bab045a48efd4e1d61cf9e0ae70c6" label="mixed materials [A0000000080200]" type="box">1</container>
-            <container id="dddbf0b703e23f4be28f240d92bbe7d0" parent="8c8bab045a48efd4e1d61cf9e0ae70c6" type="folder">15</container>
-          </did>
-          <scopecontent id="31cafeec44ced0b877cec893a9f70bfb">
-            <head>Scope and Contents</head>
-            <p>
+</p></scopecontent></c><c id="56780b425fb5e6db4ccf8998134f21b5" level="file"><did><unittitle>Women's Programs - Photographs from the Third Latin American and Caribbean Feminist Encounter, Mulherio Communications Center, SOS Corpo, Women's Health Group, and the Professional Association of Domestic Workers, Brazil Office</unittitle><unitdate normal="1985/1985">1985</unitdate><container altrender="Lgl Document Storage Box" id="9fba490112988f62f625cb29171d18ad" label="mixed materials [A0000000080200]" type="box">1</container><container id="6836abfa58070fd2daf40ce831b77fef" parent="9fba490112988f62f625cb29171d18ad" type="folder">15</container></did><scopecontent id="31cafeec44ced0b877cec893a9f70bfb"><head>Scope and Contents</head>
+<p>
 Note from original envelope: Brazil Office - To: Gerry Whittington, Reports; From: Kathryn Burns; Contents: Material for Trustees' Meeting
 </p>
-          </scopecontent>
-        </c>
-        <c id="7b3d0a6d055f4a095650922afa906d19" level="file">
-          <did>
-            <unittitle>Women's Programs - Negatives</unittitle>
-            <unitdate>undated</unitdate>
-            <container altrender="Lgl Document Storage Box" id="cd011250cc56efcd8ded8a96c9210615" label="mixed materials [A0000000080200]" type="box">1</container>
-            <container id="78d362cac309340bc491cbe2cd42499b" parent="cd011250cc56efcd8ded8a96c9210615" type="folder">16</container>
-          </did>
-          <scopecontent id="7252a7298c9c3758aea6442825e07054">
-            <head>Scope and Contents</head>
-            <p>2 negatives</p>
-          </scopecontent>
-        </c>
-        <c id="e52c60a1fbaa6ad8a01c58e628ed13a7" level="file">
-          <did>
-            <unittitle>Women's Programs - Bangladesh Women's Health Coalition Photographs</unittitle>
-            <unitdate normal="1985/1985">1985</unitdate>
-            <container altrender="Lgl Document Storage Box" id="488e07f76f4f41356aa060482f814945" label="mixed materials [A0000000080200]" type="box">1</container>
-            <container id="7fa885617157db7777af5c2bb374f725" parent="488e07f76f4f41356aa060482f814945" type="folder">17</container>
-          </did>
-          <scopecontent id="9cb024439b5448807ba07a643fceaa62">
-            <head>Scope and Contents</head>
-            <p>Most photographs from the rural clinic in Bolora; Photo captions include: Coalition Clinic, Bolora; Coalition Sewing Center Tangail; BWHC Central Office</p>
-          </scopecontent>
-        </c>
-        <c id="0a14016d67845ce8b6ab1d3a316539f5" level="file">
-          <did>
-            <unittitle>Women's Programs - Andean Region and Southern Cone Photographs</unittitle>
-            <unitdate normal="1985/1985">1985</unitdate>
-            <container altrender="Lgl Document Storage Box" id="0c2ef46fcbcca67421e7876f4c24a76b" label="mixed materials [A0000000080200]" type="box">1</container>
-            <container id="7bd5ebe5edf0bb1d93b79b87fef90660" parent="0c2ef46fcbcca67421e7876f4c24a76b" type="folder">18</container>
-          </did>
-        </c>
-        <c id="ca5a2ac2f85a8a23c985472d46a79a50" level="file">
-          <did>
-            <unittitle>Women's Exhibit - 1st Round Selection Photographs</unittitle>
-            <unitdate>undated</unitdate>
-            <container altrender="Lgl Document Storage Box" id="05bd5ca43a1517db28cc40c44c09d427" label="mixed materials [A0000000080200]" type="box">1</container>
-            <container id="aa77d9e5ff747e46f8fdc4e644ab61ca" parent="05bd5ca43a1517db28cc40c44c09d427" type="folder">19</container>
-          </did>
-          <scopecontent id="e051959880c11611fe43a226b240133d">
-            <head>Scope and Contents</head>
-            <p>Photographs of famous women reproduced from Schlesinger Library, Radcliffe College</p>
-          </scopecontent>
-        </c>
-        <c id="db193b8dd0b89d5706c11fa3b085847c" level="file">
-          <did>
-            <unittitle>Women's Programs - Mexico - Negatives, Slides, and Photographs</unittitle>
-            <unitdate normal="1985/1985">1985</unitdate>
-            <container altrender="Letter Document Storage Box" id="843f82de3838e8b2e3eebf6becdbee54" label="mixed materials [A0000000080201]" type="box">2</container>
-            <container id="f782a6572c26067bf71e5b635ad93731" parent="843f82de3838e8b2e3eebf6becdbee54" type="folder">28</container>
-          </did>
-        </c>
-        <c id="6185cfbeba8cff750fd70648c61de6d7" level="file">
-          <did>
-            <unittitle>Oxford University - Sudan Slides - Ahfad University for Women</unittitle>
-            <unitdate>undated</unitdate>
-            <container altrender="Lgl Document Storage Box" id="4a8e7590a3bf81adec49e8c9c0947c9d" label="mixed materials [A0000000080200]" type="box">1</container>
-            <container id="465428250f70cbe8a566ead772972be4" parent="4a8e7590a3bf81adec49e8c9c0947c9d" type="folder">20</container>
-          </did>
-        </c>
-        <c id="859f466f1f2babf4a99191c91496cb29" level="file">
-          <did>
-            <unittitle>Women's Programs - Income Generation &amp; Legal Aid - Jakarta - Java Slides</unittitle>
-            <unitdate normal="1985/1985">1985</unitdate>
-            <container altrender="Letter Document Storage Box" id="4b385d9a87d02cc0894019c448b326d8" label="mixed materials [A0000000080201]" type="box">2</container>
-            <container id="6a5b291f0340f5acc5d5486723e2837e" parent="4b385d9a87d02cc0894019c448b326d8" type="folder">26</container>
-          </did>
-        </c>
-        <c id="d170358f0ae7f095fe741cd47168d72a" level="file">
-          <did>
-            <unittitle>Staff Briefing Led by Professor Abdullahi An-Na'im, Resident Scholar, Everything You Wanted to Know about Islam, Human Rights, Religious Pluralism but were too Afraid to Ask, WKMProductions  (DVD)</unittitle>
-            <unitdate normal="2007-12-06/2007-12-06">2007 December 6</unitdate>
-            <container altrender="Letter Document Storage Box" id="e9ef6982435bd3a6845686b9dddab91f" label="Digital [A0000000080201]" type="box">2</container>
-            <container id="dae74c44674a9c52282ff67bf06d2860" parent="e9ef6982435bd3a6845686b9dddab91f" type="folder">21</container>
-          </did>
-          <accessrestrict id="4d295d960be7813fe56aacb8933330cf">
-            <head>Conditions Governing Access</head>
-            <p>Access copy currently unavailable. Researchers interested in accessing digital media (floppy disks, CDs, DVDs, etc.) in this collection must use an access surrogate. The original items may not be accessed because of preservation concerns. To request an access surrogate be made, or if you are unsure if there is an access surrogate, please contact an archivist</p>
-          </accessrestrict>
-        </c>
-        <c id="6f5126c527a7f4ecf016ce791a059f41" level="file">
-          <did>
-            <unittitle>CVS Photo CD Contact Sheet and Negatives - Unidentified Office Space, Buildings</unittitle>
-            <unitdate normal="2008-06/2008-06">2008 June</unitdate>
-            <container altrender="Letter Document Storage Box" id="e2c9f972486c70bc68cabbf0b753852d" label="mixed materials [A0000000080201]" type="box">2</container>
-            <container id="e2b5b273be0b00ccc28a43b08dce4b41" parent="e2c9f972486c70bc68cabbf0b753852d" type="folder">22</container>
-          </did>
-          <accessrestrict id="0f49dcb36065f3425a5ac9a6467a184d">
-            <head>Conditions Governing Access</head>
-            <p>Access copy currently unavailable. Researchers interested in accessing digital media (floppy disks, CDs, DVDs, etc.) in this collection must use an access surrogate. The original items may not be accessed because of preservation concerns. To request an access surrogate be made, or if you are unsure if there is an access surrogate, please contact an archivist.</p>
-          </accessrestrict>
-        </c>
-        <c id="e59de1aa736bb709d41c4e4eec0d4b9d" level="file">
-          <did>
-            <unittitle>CVS Photo CD - Unidentified Office Space, Buildings</unittitle>
-            <unitdate normal="2008-06/2008-06">2008 June</unitdate>
-            <container altrender="Letter Document Storage Box" id="cec1c08f1b45afee0185d346a779e89f" label="Digital [A0000000080201]" type="box">2</container>
-            <container id="cb4f333f9a9ff32689799050a532ae67" parent="cec1c08f1b45afee0185d346a779e89f" type="folder">22</container>
-          </did>
-        </c>
-        <c id="b5cab7c0fa3ce57d9b9c0ca54c660a2f" level="file">
-          <did>
-            <unittitle>Fund for Adult Education (FAE) - League of Women Voters - "Government in Action" - Indiana University - Slides and Key to Slides</unittitle>
-            <unitdate certainty="inferred" normal="1961/1961">1961 (?)</unitdate>
-            <container altrender="Letter Document Storage Box" id="98da3a3f8faefc20335f82de008b3c56" label="mixed materials [A0000000080201]" type="box">2</container>
-            <container id="0df32032e2d902f5a54bc3b49d095ec1" parent="98da3a3f8faefc20335f82de008b3c56" type="folder">24</container>
-          </did>
-          <scopecontent id="577fa8a01607018187b984adf96eb916">
-            <head>Scope and Contents</head>
-            <p>Slides 1-9: USA 1961 - The Nation and its Government, Lynton K. Caldwell; Slides 10-13: The New Federalism - Intergovernmental Relations in the 1960s, Brevard Crihfield; Slides 14-26: Local Government and the Growing Problems of Urbanism, York Y. Willbern; Slides 27, 28: Processes of Policy Formulation - Political Action, David R. Derge; Slides 29-31: Processes of Policy Execution - Executive Action, John E. Stoner; Slides 32-38: Processes of Policy Control Legislative Surveillance and Judicial Action, Charles S. Hyneman; Slides 39-43: The Organization and Management of Public Agencies, William J. Siffin; Slides 44-55: Government in Action; The Public Bureaucracy, Paul Van Riper; Slides 56-59: The Budget and Public Finance, Donald H. Clark</p>
-          </scopecontent>
-        </c>
-        <c id="d16dec1d891fb66a5a80b57243de61b8" level="file">
-          <did>
-            <unittitle>Ford Grant Project CD - Iron Mountain Cover</unittitle>
-            <unitdate>undated</unitdate>
-            <container altrender="Letter Document Storage Box" id="04272e24a654ad246cf28b9e8cbbe08f" label="Digital [A0000000080201]" type="box">2</container>
-            <container id="3bb5de2cbbdaf80fedd81154b0c41b56" parent="04272e24a654ad246cf28b9e8cbbe08f" type="folder">23</container>
-          </did>
-          <accessrestrict id="6c5e0d0b6bffc2f1a56e5e51bcad4312">
-            <head>Conditions Governing Access</head>
-            <p>Access copy currently unavailable. Researchers interested in accessing digital media (floppy disks, CDs, DVDs, etc.) in this collection must use an access surrogate. The original items may not be accessed because of preservation concerns. To request an access surrogate be made, or if you are unsure if there is an access surrogate, please contact an archivist.</p>
-          </accessrestrict>
-        </c>
-        <c id="b27250295005a8a0ce86bccccad56654" level="file">
-          <did>
-            <unittitle>Photos of Staff with Franklin Thomas at His Last Holiday Party</unittitle>
-            <unitdate>undated</unitdate>
-            <container altrender="Letter Document Storage Box" id="a62a566b8ff580a33b126b7dd150d335" label="mixed materials [A0000000080201]" type="box">2</container>
-            <container id="7af24bb69bf639e3bd10fb28fc7c750a" parent="a62a566b8ff580a33b126b7dd150d335" type="folder">25</container>
-          </did>
-          <scopecontent id="ea4aa59a4b3189f9fbeececd017ac6ce">
-            <head>Scope and Contents</head>
-            <p>Organized by individual staff names</p>
-          </scopecontent>
-        </c>
-        <c id="c2eb0a8ceb8c9b0929bb9d959db66819" level="file">
-          <did>
-            <unittitle>Wanted: Men...Who Know Economics, Who Understand, Who Can Analyse, Who Can Express Themselves, Chamber of Commerce of the United States, Washington, D.C.</unittitle>
-            <unitdate>undated</unitdate>
-            <container altrender="Letter Document Storage Box" id="bca9e4cd80cd324e42b138133b52cc22" label="mixed materials [A0000000080201]" type="box">2</container>
-            <container id="e6b515d319c892eb582f342a26781c7b" parent="bca9e4cd80cd324e42b138133b52cc22" type="folder">27</container>
-          </did>
-          <separatedmaterial id="7a9a4bfbfefaacfa89b9bf5c72d00f3b">
-            <head>Separated Materials</head>
-            <p>Separated from film reel no. 620 "Room for Discussion"</p>
-          </separatedmaterial>
-        </c>
-        <c id="1e454cb49a309929336f0eb37e75911d" level="file">
-          <did>
-            <unittitle>Art Prints</unittitle>
-            <unitdate normal="1969/1969">1969</unitdate>
-            <container altrender="Letter Document Storage Box" id="525eff41945aac4dead10f7ee1635eb3" label="mixed materials [A0000000080201]" type="box">2</container>
-            <container id="a61a47dc937aea457606fc031a53a763" parent="525eff41945aac4dead10f7ee1635eb3" type="folder">29</container>
-          </did>
-          <scopecontent id="7d59133dbefca552945cd6ed65d77b62">
-            <head>Scope and Contents</head>
-            <p>1.) Vernet, J., View of Capo Miseno, 1740-45; 2.) Vernet, J., View of the Temple of Saturn, 1740-1745; 3.) Vernet, J. View of the Churches on the Caelian Hill 1740-1745; 4.) Vernet, J., View of the Ruins of the Temple of Diana..., 1740-1745; 5.) Vickers, A. G., Church of the Bonds of St. Peter; 6.) Vickers, A. G. The Moskoi Gate, Kremlin, Moscow; 7.) Vickers, A. G., Street Scene, Moscow; 8.) Vickers, A. G., View of Potsdam; 9.) Villon, J., Composition, 1959; 10.) Villon, J., Orly, 1962; 11.) Visentini, A., 1. Tempio della dea Vestale in Roma; 12.) Visentini, A., 2. Tempio della Sibbila Atiuoli; 13.) 3. Visentini, A. Faciata della Capela di S. Pietro Momtorio; 14.) Visentini, A. 4. Faciata della Prospetivo nel Palazo Spada in Roma; 15.) Visentini A. 5. Tempio dantonino e Faustina in Roma; 16.) Visentini, A. 6. Tempio di Nimes in Francia; 17. - 24.) Volpato and Ottaviani, Raphael's Loggias in the Vatican, 1772-1777; 25.) Ward, J., Burnt Rock; 26.) Whistler, J.A.M., Thames Police, 1859; 27.) Wilkie D., A Study for the "Village Politicians"; 28.) Yosiharu, The Great Foreign Elephant; 29.) Letter from Raymond J. Smyke describing Map of Africa hanging in Ford Foundation office - originally attached to the back of the frame (Horton #26, no Ford # of the Moll, "English Map of Africa"); Also includes some artwork captions - 1.) #18/224 Antiphonal Leaf: The Annunciation; 2.) 26 Antiphonal leaf: The Adoration of the Magi; 3.) #125 Carte nouvelle de la Mer Mediterranee; 4.) Raphael's Loggias in the Vatican</p>
-          </scopecontent>
-        </c>
-        <c id="230d41bf2f5cf2bc4b6d1453a556d8cd" level="file">
-          <did>
-            <unittitle>Foundation Clipping File/Microfiche Memo</unittitle>
-            <unitdate normal="1964/1964">1964</unitdate>
-            <container altrender="Letter Document Storage Box" id="8d28347e67b3299a8017524fd3ea7075" label="mixed materials [A0000000080201]" type="box">2</container>
-            <container id="18b0787e9b970f485fdba270b8c11e74" parent="8d28347e67b3299a8017524fd3ea7075" type="folder">30</container>
-          </did>
-          <separatedmaterial id="2382e43dfeb0badff0e19aca44ad0915">
-            <head>Separated Materials</head>
-            <p>Originally with cards in Box 3</p>
-          </separatedmaterial>
-        </c>
-        <c id="ffcdacf9f2dbe49b9d95b40b5e2084e9" level="file">
-          <did>
-            <unittitle>Press Release Responses and Clippings - Microfiche - 1-293</unittitle>
-            <unitdate normal="1950/1966" type="inclusive">1950-1966</unitdate>
-            <container altrender="4x6 Card File Box" id="f45d3d553ce599b0409b78435f905652" label="mixed materials [A0000000080202]" type="box">3</container>
-          </did>
-          <scopecontent id="3f76f2885246c67a24b648a041efcfcc">
-            <head>Scope and Contents</head>
-            <p>Clippings organized chronologically by program</p>
-          </scopecontent>
-        </c>
-        <c id="197bd4b180a02a4771d33c1c26ea2342" level="file">
-          <did>
-            <unittitle>Press Release Responses and Clippings - Microfiche</unittitle>
-            <unitdate normal="1967/1973" type="inclusive">1967-1973</unitdate>
-            <container altrender="4x6 Card File Box" id="2e04e61a4d919d9799c1814d8c381744" label="mixed materials [A0000000080202]" type="box">3</container>
-          </did>
-          <scopecontent id="c643bbcb424ed0c817c362a77a899d7f">
-            <head>Scope and Contents</head>
-            <p>Clippings organized chronologically by program</p>
-          </scopecontent>
-        </c>
-        <c id="68134a9b970650e2f410c8ada9b2abdd" level="file">
-          <did>
-            <unittitle>FY 74 Clippings - Microfiche - 1-11</unittitle>
-            <unitdate normal="1974/1974">1974</unitdate>
-            <container altrender="4x6 Card File Box" id="0238db2d529079793769551efb05fcdc" label="mixed materials [A0000000080202]" type="box">3</container>
-          </did>
-          <scopecontent id="638b10b7df979b6a87841050c130860e">
-            <head>Scope and Contents</head>
-            <p>Clippings organized chronologically by program</p>
-          </scopecontent>
-        </c>
-        <c id="b95e95ebbdf135539542df31b6bafbee" level="file">
-          <did>
-            <unittitle>FY 75 Clippings - Microfiche - 1-8</unittitle>
-            <unitdate normal="1975/1975">1975</unitdate>
-            <container altrender="4x6 Card File Box" id="a0a169bd94057369a16209f2c93326df" label="mixed materials [A0000000080202]" type="box">3</container>
-          </did>
-          <scopecontent id="ff11094707bb956d43d8067c35e89484">
-            <head>Scope and Contents</head>
-            <p>Clippings organized chronologically by program</p>
-          </scopecontent>
-        </c>
-        <c id="57e630644b1ef681811cb9421b1565ec" level="file">
-          <did>
-            <unittitle>Editorial Roundups - 263-284 - Microfiche</unittitle>
-            <unitdate normal="1957/1972" type="inclusive">1957-1972</unitdate>
-            <container altrender="4x6 Card File Box" id="38f5ac384b6bb11549095c09e3762f3b" label="mixed materials [A0000000080202]" type="box">3</container>
-          </did>
-        </c>
-        <c id="a8964feb36a9e9bcf50770cb30c51ed2" level="file">
-          <did>
-            <unittitle>Editorial Roundups - Microfiche</unittitle>
-            <unitdate normal="1967/1972" type="inclusive">1967-1972</unitdate>
-            <container altrender="4x6 Card File Box" id="dc25d839b1ab698045cae8bc3cfe081d" label="mixed materials [A0000000080202]" type="box">3</container>
-          </did>
-        </c>
-        <c id="8fae22e2db297b58674fdb0ff930a590" level="file">
-          <did>
-            <unittitle>Microfiche #1000-1001 - (Illegible) and Rotary</unittitle>
-            <unitdate>undated</unitdate>
-            <container altrender="Letter Document Storage Box" id="eddb2cf6e301153a9b8c32ae1a0a5c6a" label="mixed materials [A0000000080201]" type="box">2</container>
-            <container id="b6609b7c007b47e03819bbfea8612579" parent="eddb2cf6e301153a9b8c32ae1a0a5c6a" type="folder">31</container>
-          </did>
-        </c>
-        <c id="ac836c7c9111456c6b2c814649d2e306" level="file">
-          <did>
-            <unittitle>The Ford Foundation - Press Clippings - Annual Report 1951 to 1957 - Microfiche</unittitle>
-            <unitdate normal="1951/1957" type="inclusive">1951-1957</unitdate>
-            <container altrender="Letter Document Storage Box" id="1f5f9f4a99732f38237e0a6fdc679f87" label="mixed materials [A0000000080201]" type="box">2</container>
-            <container id="a7dce5b38577f4b88126c47c385f5a67" parent="1f5f9f4a99732f38237e0a6fdc679f87" type="folder">32</container>
-          </did>
-        </c>
-        <c id="bf578700a22917fc3a4b470e8d489b37" level="file">
-          <did>
-            <unittitle>The Ford Foundation Newspaper Clippings 1956: College Teacher's Salaries - No.1 &amp; 2  - Microfiche</unittitle>
-            <unitdate normal="1956/1956">1956</unitdate>
-            <container altrender="Letter Document Storage Box" id="cd6f67dd236c5a664579a95ae8ac9679" label="mixed materials [A0000000080201]" type="box">2</container>
-            <container id="5b05acaec44e30a0fd6c36dc9831d943" parent="cd6f67dd236c5a664579a95ae8ac9679" type="folder">33</container>
-          </did>
-        </c>
-        <c id="ca7c759a0f0d1a894e8ee5fe02c3aa6d" level="file">
-          <did>
-            <unittitle>Ford Foundation, 1974 Annual Report - 2 parts  - Microfiche</unittitle>
-            <unitdate normal="1974/1974">1974</unitdate>
-            <container altrender="4x6 Card File Box" id="a386d3f97f044418da5170c66a5a6bf3" label="mixed materials [A0000000080202]" type="box">3</container>
-          </did>
-        </c>
-        <c id="e6f0b1126c0691e6dc6b8b9695031f2c" level="file">
-          <did>
-            <unittitle>Guide to Foundation Annual Reports on Film - Microfiche</unittitle>
-            <unitdate normal="1970/1970">1970</unitdate>
-            <container altrender="4x6 Card File Box" id="f0bb9df5f3713ebfc3431cc92eb69a69" label="mixed materials [A0000000080202]" type="box">3</container>
-          </did>
-        </c>
-        <c id="4109eeed891b5033e86cbfda091d4ec4" level="file">
-          <did>
-            <unittitle>Editorial Round Ups 1967, No. 46 - Microfiche (2 copies)</unittitle>
-            <unitdate normal="1967/1967">1967</unitdate>
-            <container altrender="4x6 Card File Box" id="24d9d858a14835246d3b01132ebc0016" label="mixed materials [A0000000080202]" type="box">3</container>
-          </did>
-        </c>
-        <c id="c84fd6c982e716ecd24ee899bc6bf643" level="file">
-          <did>
-            <unittitle>Reel No. 620 Room For Discussion - Film</unittitle>
-            <unitid>2017:067:009</unitid>
-            <unitdate>undated</unitdate>
-            <container altrender="Letter Document Storage Box" id="789ef2bbfaeffe2b237fe7cd7d37fa6f" label="Moving Images [A0000000080201]" type="box">2</container>
-            <container id="d91e1972936efc33c511c1cf2c9d17cc" parent="789ef2bbfaeffe2b237fe7cd7d37fa6f" type="item">2017:067:009</container>
-          </did>
-          <separatedmaterial id="42286a1d8dfb02ee0791ab1664793778">
-            <head>Separated Materials</head>
-            <p>Special format items have been separated from the above listed file and assigned a unique separation number, as noted. Requests to access open special formats should reference the unique separation number.</p>
-          </separatedmaterial>
-          <accessrestrict id="f5b6a7b2c94e5e6c2576ccb051f755c7">
-            <head>Conditions Governing Access</head>
-            <p>Access copy currently unavailable. Please contact a RAC archivist for further instruction.</p>
-          </accessrestrict>
-        </c>
-        <c id="6dd6de24783e57b744afb266cccf8554" level="file">
-          <did>
-            <unittitle>Reel No. 698 How to Organize A Discussion Group - Film</unittitle>
-            <unitid>2017:067:010</unitid>
-            <unitdate>undated</unitdate>
-            <container altrender="Letter Document Storage Box" id="6d269452138fce9f13aa9bb0e078faba" label="Moving Images [A0000000080201]" type="box">2</container>
-            <container id="07c5d9eebddc0d4880f2bbdd1e07907e" parent="6d269452138fce9f13aa9bb0e078faba" type="item">2017:067:010</container>
-          </did>
-          <separatedmaterial id="ad81f0c2dbbacb9a52dbc38835398df8">
-            <head>Separated Materials</head>
-            <p>Special format items have been separated from the above listed file and assigned a unique separation number, as noted. Requests to access open special formats should reference the unique separation number.</p>
-          </separatedmaterial>
-          <accessrestrict id="6bb8b329c4f1302487284d832c39e7b5">
-            <head>Conditions Governing Access</head>
-            <p>Access copy currently unavailable. Please contact a RAC archivist for further instruction.</p>
-          </accessrestrict>
-        </c>
-        <c id="3415ac019a26000766bf6d1b19eb19b6" level="file">
-          <did>
-            <unittitle>Reel No. 699B - How to Conduct a Discussion - Film</unittitle>
-            <unitid>2017:067:011</unitid>
-            <unitdate>undated</unitdate>
-            <container altrender="Letter Document Storage Box" id="0603ea45690b13cf83629113b37ec3c0" label="Moving Images [A0000000080201]" type="box">2</container>
-            <container id="d7283bcccd28ccd4733b4fe137de275a" parent="0603ea45690b13cf83629113b37ec3c0" type="item">2017:067:011</container>
-          </did>
-          <separatedmaterial id="cabb1c9124e4d69e84a908e278bf3a66">
-            <head>Separated Materials</head>
-            <p>Special format items have been separated from the above listed file and assigned a unique separation number, as noted. Requests to access open special formats should reference the unique separation number.</p>
-          </separatedmaterial>
-          <accessrestrict id="996a7b1eafcf4b8b4b17db75ac06059f">
-            <head>Conditions Governing Access</head>
-            <p>Access copy currently unavailable. Please contact a RAC archivist for further instruction.</p>
-          </accessrestrict>
-        </c>
-        <c id="52ce8d6255ca394173c55c106d783889" level="file">
-          <did>
-            <unittitle>Franklin Thomas - Philadelphia Council on Foundations (COF) Annual Conference - Cassette Tape - Audio</unittitle>
-            <unitid>2017:067:012</unitid>
-            <unitdate normal="1981-05-14/1981-05-14">1981 May 14</unitdate>
-            <container altrender="Letter Document Storage Box" id="1272b549143f80b6e9ba374f1bc70af6" label="Audio [A0000000080201]" type="box">2</container>
-            <container id="049593e3bce38baabed76e97ba313d91" parent="1272b549143f80b6e9ba374f1bc70af6" type="item">2017:067:012</container>
-          </did>
-          <separatedmaterial id="77d991673956d4c2fde6caf7447b704d">
-            <head>Separated Materials</head>
-            <p>Special format items have been separated from the above listed file and assigned a unique separation number, as noted. Requests to access open special formats should reference the unique separation number.</p>
-          </separatedmaterial>
-        </c>
-      </c>
-    </dsc>
-  </archdesc>
+</scopecontent></c><c id="7b3d0a6d055f4a095650922afa906d19" level="file"><did><unittitle>Women's Programs - Negatives</unittitle><unitdate>undated</unitdate><container altrender="Lgl Document Storage Box" id="2d99eb0cc32adc9853832ccaff3da67d" label="mixed materials [A0000000080200]" type="box">1</container><container id="fd9d50e9de047da5ddc05fefe6855c5c" parent="2d99eb0cc32adc9853832ccaff3da67d" type="folder">16</container></did><scopecontent id="7252a7298c9c3758aea6442825e07054"><head>Scope and Contents</head><p>2 negatives</p></scopecontent></c><c id="e52c60a1fbaa6ad8a01c58e628ed13a7" level="file"><did><unittitle>Women's Programs - Bangladesh Women's Health Coalition Photographs</unittitle><unitdate normal="1985/1985">1985</unitdate><container altrender="Lgl Document Storage Box" id="c8d49f7175a0924f379aa6fe162d42bd" label="mixed materials [A0000000080200]" type="box">1</container><container id="27ad2dd108f9695d262a58b0d89da809" parent="c8d49f7175a0924f379aa6fe162d42bd" type="folder">17</container></did><scopecontent id="9cb024439b5448807ba07a643fceaa62"><head>Scope and Contents</head><p>Most photographs from the rural clinic in Bolora; Photo captions include: Coalition Clinic, Bolora; Coalition Sewing Center Tangail; BWHC Central Office</p></scopecontent></c><c id="0a14016d67845ce8b6ab1d3a316539f5" level="file"><did><unittitle>Women's Programs - Andean Region and Southern Cone Photographs</unittitle><unitdate normal="1985/1985">1985</unitdate><container altrender="Lgl Document Storage Box" id="2cb8545498ad2b1b418c0a7b8e619e5f" label="mixed materials [A0000000080200]" type="box">1</container><container id="65e94fab345d91cf5c881b5cf3a5dbb3" parent="2cb8545498ad2b1b418c0a7b8e619e5f" type="folder">18</container></did></c><c id="ca5a2ac2f85a8a23c985472d46a79a50" level="file"><did><unittitle>Women's Exhibit - 1st Round Selection Photographs</unittitle><unitdate>undated</unitdate><container altrender="Lgl Document Storage Box" id="061a17d059f68e59a8c541df5c22a49a" label="mixed materials [A0000000080200]" type="box">1</container><container id="6fe46232fae50b4b9ed430bb81273350" parent="061a17d059f68e59a8c541df5c22a49a" type="folder">19</container></did><scopecontent id="e051959880c11611fe43a226b240133d"><head>Scope and Contents</head><p>Photographs of famous women reproduced from Schlesinger Library, Radcliffe College</p></scopecontent></c><c id="db193b8dd0b89d5706c11fa3b085847c" level="file"><did><unittitle>Women's Programs - Mexico - Negatives, Slides, and Photographs</unittitle><unitdate normal="1985/1985">1985</unitdate><container altrender="Letter Document Storage Box" id="be9df812c1704e86cea5189c3d38ef2f" label="mixed materials [A0000000080201]" type="box">2</container><container id="cec499c1b3754317f64881805729a5e2" parent="be9df812c1704e86cea5189c3d38ef2f" type="folder">28</container></did></c><c id="6185cfbeba8cff750fd70648c61de6d7" level="file"><did><unittitle>Oxford University - Sudan Slides - Ahfad University for Women</unittitle><unitdate>undated</unitdate><container altrender="Lgl Document Storage Box" id="3c227a46c1aa279d28527c6749728a47" label="mixed materials [A0000000080200]" type="box">1</container><container id="7addcd05e54019112403e6b2450b6e3a" parent="3c227a46c1aa279d28527c6749728a47" type="folder">20</container></did></c><c id="859f466f1f2babf4a99191c91496cb29" level="file"><did><unittitle>Women's Programs - Income Generation &amp; Legal Aid - Jakarta - Java Slides</unittitle><unitdate normal="1985/1985">1985</unitdate><container altrender="Letter Document Storage Box" id="f46f2d79413a9b42cb917c5748ca11bd" label="mixed materials [A0000000080201]" type="box">2</container><container id="a46a11136d3c6e383a3176b9f7239099" parent="f46f2d79413a9b42cb917c5748ca11bd" type="folder">26</container></did></c><c id="d170358f0ae7f095fe741cd47168d72a" level="file"><did><unittitle>Staff Briefing Led by Professor Abdullahi An-Na'im, Resident Scholar, Everything You Wanted to Know about Islam, Human Rights, Religious Pluralism but were too Afraid to Ask, WKMProductions  (DVD)</unittitle><unitdate normal="2007-12-06/2007-12-06">2007 December 6</unitdate><container altrender="Letter Document Storage Box" id="6725e2eef1466b182c5031689dc7049b" label="Digital [A0000000080201]" type="box">2</container><container id="86397ed27ea497c33fce1f601a2eefa2" parent="6725e2eef1466b182c5031689dc7049b" type="folder">21</container></did><accessrestrict id="4d295d960be7813fe56aacb8933330cf"><head>Conditions Governing Access</head><p>Access copy currently unavailable. Researchers interested in accessing digital media (floppy disks, CDs, DVDs, etc.) in this collection must use an access surrogate. The original items may not be accessed because of preservation concerns. To request an access surrogate be made, or if you are unsure if there is an access surrogate, please contact an archivist</p></accessrestrict></c><c id="6f5126c527a7f4ecf016ce791a059f41" level="file"><did><unittitle>CVS Photo CD Contact Sheet and Negatives - Unidentified Office Space, Buildings</unittitle><unitdate normal="2008-06/2008-06">2008 June</unitdate><container altrender="Letter Document Storage Box" id="7583fb722389aadc88462a2551f83980" label="mixed materials [A0000000080201]" type="box">2</container><container id="7992f64b29e908c90ddcf84ee2ffe795" parent="7583fb722389aadc88462a2551f83980" type="folder">22</container></did><accessrestrict id="0f49dcb36065f3425a5ac9a6467a184d"><head>Conditions Governing Access</head><p>Access copy currently unavailable. Researchers interested in accessing digital media (floppy disks, CDs, DVDs, etc.) in this collection must use an access surrogate. The original items may not be accessed because of preservation concerns. To request an access surrogate be made, or if you are unsure if there is an access surrogate, please contact an archivist.</p></accessrestrict></c><c id="e59de1aa736bb709d41c4e4eec0d4b9d" level="file"><did><unittitle>CVS Photo CD - Unidentified Office Space, Buildings</unittitle><unitdate normal="2008-06/2008-06">2008 June</unitdate><container altrender="Letter Document Storage Box" id="cea0a64f37d30deb6a7bccd3a7f0eff2" label="Digital [A0000000080201]" type="box">2</container><container id="bbf918d5140d43baa24a5847a444b553" parent="cea0a64f37d30deb6a7bccd3a7f0eff2" type="folder">22</container></did></c><c id="d16dec1d891fb66a5a80b57243de61b8" level="file"><did><unittitle>Ford Grant Project CD - Iron Mountain Cover</unittitle><unitdate>undated</unitdate><container altrender="Letter Document Storage Box" id="746699ecfaea71da44750201f722f5e8" label="Digital [A0000000080201]" type="box">2</container><container id="f9ba2c8ab01707f70624f2ca8759d3c8" parent="746699ecfaea71da44750201f722f5e8" type="folder">23</container></did><accessrestrict id="6c5e0d0b6bffc2f1a56e5e51bcad4312"><head>Conditions Governing Access</head><p>Access copy currently unavailable. Researchers interested in accessing digital media (floppy disks, CDs, DVDs, etc.) in this collection must use an access surrogate. The original items may not be accessed because of preservation concerns. To request an access surrogate be made, or if you are unsure if there is an access surrogate, please contact an archivist.</p></accessrestrict></c><c id="b5cab7c0fa3ce57d9b9c0ca54c660a2f" level="file"><did><unittitle>Fund for Adult Education (FAE) - League of Women Voters - "Government in Action" - Indiana University - Slides and Key to Slides</unittitle><unitdate certainty="inferred" normal="1961/1961">1961 (?)</unitdate><container altrender="Letter Document Storage Box" id="b6c21de73f6bf60e54c7ba10fa480151" label="mixed materials [A0000000080201]" type="box">2</container><container id="68275515c023d11c7c63e4262e1bbba5" parent="b6c21de73f6bf60e54c7ba10fa480151" type="folder">24</container></did><scopecontent id="577fa8a01607018187b984adf96eb916"><head>Scope and Contents</head><p>Slides 1-9: USA 1961 - The Nation and its Government, Lynton K. Caldwell; Slides 10-13: The New Federalism - Intergovernmental Relations in the 1960s, Brevard Crihfield; Slides 14-26: Local Government and the Growing Problems of Urbanism, York Y. Willbern; Slides 27, 28: Processes of Policy Formulation - Political Action, David R. Derge; Slides 29-31: Processes of Policy Execution - Executive Action, John E. Stoner; Slides 32-38: Processes of Policy Control Legislative Surveillance and Judicial Action, Charles S. Hyneman; Slides 39-43: The Organization and Management of Public Agencies, William J. Siffin; Slides 44-55: Government in Action; The Public Bureaucracy, Paul Van Riper; Slides 56-59: The Budget and Public Finance, Donald H. Clark</p></scopecontent></c><c id="b27250295005a8a0ce86bccccad56654" level="file"><did><unittitle>Photos of Staff with Franklin Thomas at His Last Holiday Party</unittitle><unitdate>undated</unitdate><container altrender="Letter Document Storage Box" id="9c208ce8cc366dc954e2fbf0d8f69d79" label="mixed materials [A0000000080201]" type="box">2</container><container id="0ba7fefe2aeed438420783097fd040a4" parent="9c208ce8cc366dc954e2fbf0d8f69d79" type="folder">25</container></did><scopecontent id="ea4aa59a4b3189f9fbeececd017ac6ce"><head>Scope and Contents</head><p>Organized by individual staff names</p></scopecontent></c><c id="c2eb0a8ceb8c9b0929bb9d959db66819" level="file"><did><unittitle>Wanted: Men...Who Know Economics, Who Understand, Who Can Analyse, Who Can Express Themselves, Chamber of Commerce of the United States, Washington, D.C.</unittitle><unitdate>undated</unitdate><container altrender="Letter Document Storage Box" id="a809560942475cc035fcd96f9bda39fd" label="mixed materials [A0000000080201]" type="box">2</container><container id="f60c7c62615fd80e0e9fe7481036762b" parent="a809560942475cc035fcd96f9bda39fd" type="folder">27</container></did><separatedmaterial id="7a9a4bfbfefaacfa89b9bf5c72d00f3b"><head>Separated Materials</head><p>Separated from film reel no. 620 "Room for Discussion"</p></separatedmaterial></c><c id="1e454cb49a309929336f0eb37e75911d" level="file"><did><unittitle>Art Prints</unittitle><unitdate normal="1969/1969">1969</unitdate><container altrender="Letter Document Storage Box" id="ceb92596a20e18fb28d681083d923f00" label="mixed materials [A0000000080201]" type="box">2</container><container id="8fa3ab9f100fa937256f83040e5e7aaf" parent="ceb92596a20e18fb28d681083d923f00" type="folder">29</container></did><scopecontent id="7d59133dbefca552945cd6ed65d77b62"><head>Scope and Contents</head><p>1.) Vernet, J., View of Capo Miseno, 1740-45; 2.) Vernet, J., View of the Temple of Saturn, 1740-1745; 3.) Vernet, J. View of the Churches on the Caelian Hill 1740-1745; 4.) Vernet, J., View of the Ruins of the Temple of Diana..., 1740-1745; 5.) Vickers, A. G., Church of the Bonds of St. Peter; 6.) Vickers, A. G. The Moskoi Gate, Kremlin, Moscow; 7.) Vickers, A. G., Street Scene, Moscow; 8.) Vickers, A. G., View of Potsdam; 9.) Villon, J., Composition, 1959; 10.) Villon, J., Orly, 1962; 11.) Visentini, A., 1. Tempio della dea Vestale in Roma; 12.) Visentini, A., 2. Tempio della Sibbila Atiuoli; 13.) 3. Visentini, A. Faciata della Capela di S. Pietro Momtorio; 14.) Visentini, A. 4. Faciata della Prospetivo nel Palazo Spada in Roma; 15.) Visentini A. 5. Tempio dantonino e Faustina in Roma; 16.) Visentini, A. 6. Tempio di Nimes in Francia; 17. - 24.) Volpato and Ottaviani, Raphael's Loggias in the Vatican, 1772-1777; 25.) Ward, J., Burnt Rock; 26.) Whistler, J.A.M., Thames Police, 1859; 27.) Wilkie D., A Study for the "Village Politicians"; 28.) Yosiharu, The Great Foreign Elephant; 29.) Letter from Raymond J. Smyke describing Map of Africa hanging in Ford Foundation office - originally attached to the back of the frame (Horton #26, no Ford # of the Moll, "English Map of Africa"); Also includes some artwork captions - 1.) #18/224 Antiphonal Leaf: The Annunciation; 2.) 26 Antiphonal leaf: The Adoration of the Magi; 3.) #125 Carte nouvelle de la Mer Mediterranee; 4.) Raphael's Loggias in the Vatican</p></scopecontent></c><c id="230d41bf2f5cf2bc4b6d1453a556d8cd" level="file"><did><unittitle>Foundation Clipping File/Microfiche Memo</unittitle><unitdate normal="1964/1964">1964</unitdate><container altrender="Letter Document Storage Box" id="1dab5765ebb02eb3ee6b434f0d8e9bb3" label="mixed materials [A0000000080201]" type="box">2</container><container id="4ba6c0a68f63d69afb9e6b6200866acb" parent="1dab5765ebb02eb3ee6b434f0d8e9bb3" type="folder">30</container></did><separatedmaterial id="2382e43dfeb0badff0e19aca44ad0915"><head>Separated Materials</head><p>Originally with cards in Box 3</p></separatedmaterial></c><c id="ffcdacf9f2dbe49b9d95b40b5e2084e9" level="file"><did><unittitle>Press Release Responses and Clippings - Microfiche - 1-293</unittitle><unitdate normal="1950/1966" type="inclusive">1950-1966</unitdate><container altrender="4x6 Card File Box" id="39220434bf12dbe7797c862506fa814e" label="mixed materials [A0000000080202]" type="box">3</container></did><scopecontent id="3f76f2885246c67a24b648a041efcfcc"><head>Scope and Contents</head><p>Clippings organized chronologically by program</p></scopecontent></c><c id="197bd4b180a02a4771d33c1c26ea2342" level="file"><did><unittitle>Press Release Responses and Clippings - Microfiche</unittitle><unitdate normal="1967/1973" type="inclusive">1967-1973</unitdate><container altrender="4x6 Card File Box" id="2aad354dd7d024112dde4f4132329c4d" label="mixed materials [A0000000080202]" type="box">3</container></did><scopecontent id="c643bbcb424ed0c817c362a77a899d7f"><head>Scope and Contents</head><p>Clippings organized chronologically by program</p></scopecontent></c><c id="68134a9b970650e2f410c8ada9b2abdd" level="file"><did><unittitle>FY 74 Clippings - Microfiche - 1-11</unittitle><unitdate normal="1974/1974">1974</unitdate><container altrender="4x6 Card File Box" id="3a8aec93b62d2d2d41fab4e20f90f7f1" label="mixed materials [A0000000080202]" type="box">3</container></did><scopecontent id="638b10b7df979b6a87841050c130860e"><head>Scope and Contents</head><p>Clippings organized chronologically by program</p></scopecontent></c><c id="b95e95ebbdf135539542df31b6bafbee" level="file"><did><unittitle>FY 75 Clippings - Microfiche - 1-8</unittitle><unitdate normal="1975/1975">1975</unitdate><container altrender="4x6 Card File Box" id="22bea4ec7b767d0eef4f1129ab87d9cd" label="mixed materials [A0000000080202]" type="box">3</container></did><scopecontent id="ff11094707bb956d43d8067c35e89484"><head>Scope and Contents</head><p>Clippings organized chronologically by program</p></scopecontent></c><c id="57e630644b1ef681811cb9421b1565ec" level="file"><did><unittitle>Editorial Roundups - 263-284 - Microfiche</unittitle><unitdate normal="1957/1972" type="inclusive">1957-1972</unitdate><container altrender="4x6 Card File Box" id="acff80530d0cca89f071cf10d41e45e5" label="mixed materials [A0000000080202]" type="box">3</container></did></c><c id="a8964feb36a9e9bcf50770cb30c51ed2" level="file"><did><unittitle>Editorial Roundups - Microfiche</unittitle><unitdate normal="1967/1972" type="inclusive">1967-1972</unitdate><container altrender="4x6 Card File Box" id="5cee2860c5065ccb5a57cf999bbc8f4c" label="mixed materials [A0000000080202]" type="box">3</container></did></c><c id="8fae22e2db297b58674fdb0ff930a590" level="file"><did><unittitle>Microfiche #1000-1001 - (Illegible) and Rotary</unittitle><unitdate>undated</unitdate><container altrender="Letter Document Storage Box" id="d98699b391a9a8b985b0e7750a4a9a6e" label="mixed materials [A0000000080201]" type="box">2</container><container id="89866a8bd72fc4a02e1eb9a8732ff14e" parent="d98699b391a9a8b985b0e7750a4a9a6e" type="folder">31</container></did></c><c id="ac836c7c9111456c6b2c814649d2e306" level="file"><did><unittitle>The Ford Foundation - Press Clippings - Annual Report 1951 to 1957 - Microfiche</unittitle><unitdate normal="1951/1957" type="inclusive">1951-1957</unitdate><container altrender="Letter Document Storage Box" id="1b87b8c010e86f9be8f192db47d0afb0" label="mixed materials [A0000000080201]" type="box">2</container><container id="654762e7e762f9bf4b3d9c7ea1a70df7" parent="1b87b8c010e86f9be8f192db47d0afb0" type="folder">32</container></did></c><c id="bf578700a22917fc3a4b470e8d489b37" level="file"><did><unittitle>The Ford Foundation Newspaper Clippings 1956: College Teacher's Salaries - No.1 &amp; 2  - Microfiche</unittitle><unitdate normal="1956/1956">1956</unitdate><container altrender="Letter Document Storage Box" id="2f6f2e20ba16701722feae5870184efa" label="mixed materials [A0000000080201]" type="box">2</container><container id="45fd395900030f8152e189c302496109" parent="2f6f2e20ba16701722feae5870184efa" type="folder">33</container></did></c><c id="ca7c759a0f0d1a894e8ee5fe02c3aa6d" level="file"><did><unittitle>Ford Foundation, 1974 Annual Report - 2 parts  - Microfiche</unittitle><unitdate normal="1974/1974">1974</unitdate><container altrender="4x6 Card File Box" id="f2c05b404964bc2ca4b686584b841d79" label="mixed materials [A0000000080202]" type="box">3</container></did></c><c id="e6f0b1126c0691e6dc6b8b9695031f2c" level="file"><did><unittitle>Guide to Foundation Annual Reports on Film - Microfiche</unittitle><unitdate normal="1970/1970">1970</unitdate><container altrender="4x6 Card File Box" id="18aa947caddb637475b597ee8ad5b2c3" label="mixed materials [A0000000080202]" type="box">3</container></did></c><c id="4109eeed891b5033e86cbfda091d4ec4" level="file"><did><unittitle>Editorial Round Ups 1967, No. 46 - Microfiche (2 copies)</unittitle><unitdate normal="1967/1967">1967</unitdate><container altrender="4x6 Card File Box" id="e7ede7686a2aedc0873b9271de0e5e37" label="mixed materials [A0000000080202]" type="box">3</container></did></c><c id="c84fd6c982e716ecd24ee899bc6bf643" level="file"><did><unittitle>Reel No. 620 Room For Discussion - Film</unittitle><unitid>2017:067:009</unitid><unitdate>undated</unitdate><container altrender="Letter Document Storage Box" id="bb56b1adc6d026c6f2694437b4b5a44c" label="Moving Images [A0000000080201]" type="box">2</container><container id="28cf4a81536e2947ae5deff85c616f70" parent="bb56b1adc6d026c6f2694437b4b5a44c" type="item">2017:067:009</container></did><separatedmaterial id="42286a1d8dfb02ee0791ab1664793778"><head>Separated Materials</head><p>Special format items have been separated from the above listed file and assigned a unique separation number, as noted. Requests to access open special formats should reference the unique separation number.</p></separatedmaterial><accessrestrict id="f5b6a7b2c94e5e6c2576ccb051f755c7"><head>Conditions Governing Access</head><p>Access copy currently unavailable. Please contact a RAC archivist for further instruction.</p></accessrestrict></c><c id="6dd6de24783e57b744afb266cccf8554" level="file"><did><unittitle>Reel No. 698 How to Organize A Discussion Group - Film</unittitle><unitid>2017:067:010</unitid><unitdate>undated</unitdate><container altrender="Letter Document Storage Box" id="ae2d797aae5de7996efd200732c67d33" label="Moving Images [A0000000080201]" type="box">2</container><container id="aebd2f7a720f1173ad50ceb4af110bf6" parent="ae2d797aae5de7996efd200732c67d33" type="item">2017:067:010</container></did><separatedmaterial id="ad81f0c2dbbacb9a52dbc38835398df8"><head>Separated Materials</head><p>Special format items have been separated from the above listed file and assigned a unique separation number, as noted. Requests to access open special formats should reference the unique separation number.</p></separatedmaterial><accessrestrict id="6bb8b329c4f1302487284d832c39e7b5"><head>Conditions Governing Access</head><p>Access copy currently unavailable. Please contact a RAC archivist for further instruction.</p></accessrestrict></c><c id="3415ac019a26000766bf6d1b19eb19b6" level="file"><did><unittitle>Reel No. 699B - How to Conduct a Discussion - Film</unittitle><unitid>2017:067:011</unitid><unitdate>undated</unitdate><container altrender="Letter Document Storage Box" id="c158253a15868571861f50baa7a8a5fd" label="Moving Images [A0000000080201]" type="box">2</container><container id="7118e664ac7ef0191e34dd380e4ab5a8" parent="c158253a15868571861f50baa7a8a5fd" type="item">2017:067:011</container></did><separatedmaterial id="cabb1c9124e4d69e84a908e278bf3a66"><head>Separated Materials</head><p>Special format items have been separated from the above listed file and assigned a unique separation number, as noted. Requests to access open special formats should reference the unique separation number.</p></separatedmaterial><accessrestrict id="996a7b1eafcf4b8b4b17db75ac06059f"><head>Conditions Governing Access</head><p>Access copy currently unavailable. Please contact a RAC archivist for further instruction.</p></accessrestrict></c><c id="52ce8d6255ca394173c55c106d783889" level="file"><did><unittitle>Franklin Thomas - Philadelphia Council on Foundations (COF) Annual Conference - Cassette Tape - Audio</unittitle><unitid>2017:067:012</unitid><unitdate normal="1981-05-14/1981-05-14">1981 May 14</unitdate><container altrender="Letter Document Storage Box" id="d96b4474bd53e7cb320af368539f5b61" label="Audio [A0000000080201]" type="box">2</container><container id="7349bae76dee6ac040377c5a3b085829" parent="d96b4474bd53e7cb320af368539f5b61" type="item">2017:067:012</container></did><separatedmaterial id="77d991673956d4c2fde6caf7447b704d"><head>Separated Materials</head><p>Special format items have been separated from the above listed file and assigned a unique separation number, as noted. Requests to access open special formats should reference the unique separation number.</p></separatedmaterial></c></c></dsc>
+</archdesc>
 </ead>

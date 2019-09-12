@@ -1,94 +1,47 @@
-<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
-  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" repositoryencoding="iso15511">
-    <eadid>FA1285.xml</eadid>
-    <filedesc>
-      <titlestmt>
-        <titleproper type="filing">Brenner (Bertha G.) collection</titleproper>
-        <titleproper>A Guide to the Bertha G. Brenner collection <num>FA1285</num></titleproper>
-      </titlestmt>
-      <publicationstmt>
-        <publisher>Rockefeller Archive Center</publisher>
-        <address>
-          <addressline>15 Dayton Avenue</addressline>
-          <addressline>Sleepy Hollow 10591</addressline>
-          <addressline>archive@rockarch.org</addressline>
-          <addressline>URL: <extptr xlink:href="http://www.rockarch.org" xlink:show="new" xlink:title="http://www.rockarch.org" xlink:type="simple"/></addressline>
-        </address>
-      </publicationstmt>
-    </filedesc>
-    <profiledesc>
-      <creation>This finding aid was produced using ArchivesSpace on <date>2017-03-02 02:58:54 -0500</date>.</creation>
-      <descrules>Describing Archives: A Content Standard</descrules>
-    </profiledesc>
-  </eadheader>
-  <archdesc level="collection">
-    <did>
-      <langmaterial>
-        <language langcode="eng">English</language>
-      </langmaterial>
-      <repository>
-        <corpname>Rockefeller Archive Center</corpname>
-      </repository>
-      <unittitle>Bertha G. Brenner collection</unittitle>
-      <origination label="creator">
-        <persname role="aut" rules="local" source="local">Brenner, Bertha G.</persname>
-      </origination>
-      <unitid>FA1285</unitid>
-      <physdesc altrender="whole">
-        <extent altrender="materialtype spaceoccupied">0.25 Cubic Feet</extent>
-        <extent altrender="carrier">1 half-document box.</extent>
-      </physdesc>
-      <unitdate normal="1922/1947" type="inclusive">1922-1947</unitdate>
-    </did>
-    <prefercite id="7773f47b9e850ca03832654371647dc0">
-      <head>Preferred Citation</head>
-      <p>Information regarding the Rockefeller Archive Center's preferred elements and forms of citation can be found at <extref href="http://www.rockarch.org/research/citations.php">http://www.rockarch.org/research/citations.php</extref></p>
-    </prefercite>
-    <arrangement id="6c85c0c945a628c08a09c9a829f04623">
-      <head>Arrangement</head>
-      <p>As received.</p>
-    </arrangement>
-    <accessrestrict id="d92bc8dc1815211a99514e5eff58cd69">
-      <head>Conditions Governing Access</head>
-      <p>Open for research.</p>
-    </accessrestrict>
-    <acqinfo id="eaae84c786f752baf9b42842bd93b58f">
-      <head>Immediate Source of Acquisition</head>
-      <p>Donated to RAC in 2006 by Edgar H. Brenner, son of Bertha G. Brenner. Transferred to the archives as Accession 2006:093.</p>
-    </acqinfo>
-    <userestrict id="8cca596d7410990291487813415ca9c4">
-      <head>Conditions Governing Use</head>
-      <p>RAC has legal title, copyright and literary rights to the collection in so far as it holds them.</p>
-    </userestrict>
-    <processinfo id="4123e2d3512636b3cc84136558cac206">
-      <head>Processing Information</head>
-      <p>Minimal processing, 2017.</p>
-    </processinfo>
-    <bioghist id="40f1ec31607c1ba0ef568f02b6dc07f5">
-      <head>Biographical / Historical</head>
-      <p>Bertha G. Brenner was an active member of the Lincoln School Parent-Teacher Association.</p>
-    </bioghist>
-    <scopecontent id="489900d9395399d155a1b6d3eb84283b">
-      <head>Scope and Contents</head>
-      <p>Contains correspondence, memoranda and committee records pertaining to the Parent-Teacher Association at the Lincoln School of Teachers College, Columbia University. Collection was collected and compiled by Bertha G. Brennan.</p>
-    </scopecontent>
-    <dsc>
-      <c id="f766070d7397d8dc9dfd6a8a705200fd" level="file">
-        <did>
-          <unittitle>Lincoln School</unittitle>
-          <unitdate normal="1939/1947" type="inclusive">1939-1947</unitdate>
-          <container id="a63ebe23ced491c25225b48ad7dfe782" label="mixed materials (A0000000078681)" type="box">1</container>
-          <container id="80e37cd2613c3549d24ad355fac702b0" parent="a63ebe23ced491c25225b48ad7dfe782" type="folder">1</container>
-        </did>
-      </c>
-      <c id="06bb14b70f64a540e8ffd927a9275b49" level="file">
-        <did>
-          <unittitle>Horace Mann-Lincoln School Policy Committee</unittitle>
-          <unitdate normal="1922/1946" type="inclusive">1922-1946</unitdate>
-          <container id="b9be032886f41ea2fdf25c180ca4cd5f" label="mixed materials (A0000000078681)" type="box">1</container>
-          <container id="6ab5424aeaa52b491ad9c76570b9eced" parent="b9be032886f41ea2fdf25c180ca4cd5f" type="folder">2</container>
-        </did>
-      </c>
-    </dsc>
-  </archdesc>
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid>FA1285.xml</eadid><filedesc><titlestmt><titleproper type="filing">Brenner (Bertha G.) collection</titleproper><titleproper>A Guide to the Bertha G. Brenner collection <num>FA1285</num></titleproper></titlestmt><publicationstmt><publisher>Rockefeller Archive Center</publisher><address><addressline>15 Dayton Avenue</addressline><addressline>Sleepy Hollow 10591</addressline><addressline>archive@rockarch.org</addressline><addressline>URL: <extptr xlink:href="http://www.rockarch.org" xlink:show="new" xlink:title="http://www.rockarch.org" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2019-09-12 00:04:06 -0400</date>.</creation><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
+  <did>
+    <langmaterial>
+      <language langcode="eng">English</language>
+    </langmaterial>
+    <repository>
+      <corpname>Rockefeller Archive Center</corpname>
+    </repository>
+    <unittitle>Bertha G. Brenner collection</unittitle>
+    <origination label="creator">
+      <persname role="aut" rules="local" source="local">Brenner, Bertha G.</persname>
+    </origination>
+    <unitid>FA1285</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">0.19 Cubic Feet</extent>
+      <extent altrender="carrier">1 half-document box.</extent>
+    </physdesc>
+    <unitdate normal="1922/1947" type="inclusive">1922-1947</unitdate>
+  </did>
+  <prefercite id="7773f47b9e850ca03832654371647dc0">
+    <head>Preferred Citation</head>
+<p>Information regarding the Rockefeller Archive Center's preferred elements and forms of citation can be found at <extref href="http://www.rockarch.org/research/citations.php">http://www.rockarch.org/research/citations.php</extref></p>  </prefercite>
+  <arrangement id="6c85c0c945a628c08a09c9a829f04623">
+    <head>Arrangement</head>
+<p>As received.</p>  </arrangement>
+  <accessrestrict id="d92bc8dc1815211a99514e5eff58cd69">
+    <head>Conditions Governing Access</head>
+<p>Open for research.</p>  </accessrestrict>
+  <acqinfo id="eaae84c786f752baf9b42842bd93b58f">
+    <head>Immediate Source of Acquisition</head>
+<p>Donated to RAC in 2006 by Edgar H. Brenner, son of Bertha G. Brenner. Transferred to the archives as Accession 2006:093.</p>  </acqinfo>
+  <userestrict id="8cca596d7410990291487813415ca9c4">
+    <head>Conditions Governing Use</head>
+<p>RAC has legal title, copyright and literary rights to the collection in so far as it holds them.</p>  </userestrict>
+  <processinfo id="4123e2d3512636b3cc84136558cac206">
+    <head>Processing Information</head>
+<p>Minimal processing, 2017.</p>  </processinfo>
+  <bioghist id="40f1ec31607c1ba0ef568f02b6dc07f5">
+    <head>Biographical / Historical</head>
+<p>Bertha G. Brenner was an active member of the Lincoln School Parent-Teacher Association.</p>  </bioghist>
+  <scopecontent id="489900d9395399d155a1b6d3eb84283b">
+    <head>Scope and Contents</head>
+<p>Contains correspondence, memoranda and committee records pertaining to the Parent-Teacher Association at the Lincoln School of Teachers College, Columbia University. Collection was collected and compiled by Bertha G. Brennan.</p>  </scopecontent>
+  <dsc><c id="f766070d7397d8dc9dfd6a8a705200fd" level="file"><did><unittitle>Lincoln School</unittitle><unitdate normal="1939/1947" type="inclusive">1939-1947</unitdate><container altrender="Half Ltr Document Storage Box" id="462eac029a986b175a657f5b19cbb8d0" label="mixed materials [A0000000078681]" type="box">1</container><container id="50b4f57975c42eafffb216aaee05a419" parent="462eac029a986b175a657f5b19cbb8d0" type="folder">1</container></did></c><c id="06bb14b70f64a540e8ffd927a9275b49" level="file"><did><unittitle>Horace Mann-Lincoln School Policy Committee</unittitle><unitdate normal="1922/1946" type="inclusive">1922-1946</unitdate><container altrender="Half Ltr Document Storage Box" id="e16b9156a4007590e23b235b35c30ac2" label="mixed materials [A0000000078681]" type="box">1</container><container id="c57728d085c5c8691025186687ec841d" parent="e16b9156a4007590e23b235b35c30ac2" type="folder">2</container></did></c></dsc>
+</archdesc>
 </ead>
