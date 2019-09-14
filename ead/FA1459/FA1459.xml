@@ -1,221 +1,45 @@
-<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
-  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" repositoryencoding="iso15511">
-    <eadid>FA1459.xml</eadid>
-    <filedesc>
-      <titlestmt>
-        <titleproper type="filing">Commonwealth Fund records, Health Care in New York City Program, SG 3, Series 2</titleproper>
-        <titleproper>A Guide to the Commonwealth Fund records, Health Care in New York City Program, SG 3, Series 2 <num>FA1459</num></titleproper>
-      </titlestmt>
-      <publicationstmt>
-        <publisher>Rockefeller Archive Center</publisher>
-        <address>
-          <addressline>15 Dayton Avenue</addressline>
-          <addressline>Sleepy Hollow 10591</addressline>
-          <addressline>archive@rockarch.org</addressline>
-          <addressline>URL: <extptr xlink:href="http://www.rockarch.org" xlink:show="new" xlink:title="http://www.rockarch.org" xlink:type="simple"/></addressline>
-        </address>
-      </publicationstmt>
-    </filedesc>
-    <profiledesc>
-      <creation>This finding aid was produced using ArchivesSpace on <date>2018-09-26 00:00:46 -0400</date>.</creation>
-      <descrules>Describing Archives: A Content Standard</descrules>
-    </profiledesc>
-  </eadheader>
-  <archdesc level="series">
-    <did>
-      <langmaterial>
-        <language langcode="eng">English</language>
-      </langmaterial>
-      <repository>
-        <corpname>Rockefeller Archive Center</corpname>
-      </repository>
-      <unittitle>Commonwealth Fund records, Health Care in New York City Program, SG 3, Series 2</unittitle>
-      <origination label="creator">
-        <corpname role="aut" source="naf">Commonwealth Fund</corpname>
-      </origination>
-      <unitid>FA1459</unitid>
-      <physdesc altrender="whole">
-        <extent altrender="materialtype spaceoccupied">1.32 Cubic Feet</extent>
-        <extent altrender="carrier">3 letter-size document boxes</extent>
-      </physdesc>
-      <unitdate normal="1993/1998" type="inclusive">1993-1998</unitdate>
-      <langmaterial id="175a258f4b3395d6fbe782d87490be3b">English</langmaterial>
-    </did>
-    <arrangement id="993b1750e70c624f4991c9fa3cf29451">
-      <head>Arrangement</head>
-      <p>Records remain in original order, as received.</p>
-    </arrangement>
-    <processinfo id="4c07ad8eacc24a28a050507a4e64ee9c">
-      <head>Processing Information</head>
-      <p>Minimal processing. Some records remain in original file folders.</p>
-    </processinfo>
-    <prefercite id="1fca4d17b4d062013ce4eacc4a900d35">
-      <head>Preferred Citation</head>
-      <p>Information regarding the Rockefeller Archive Center's preferred elements and forms of citation can be found at <extref href="http://www.rockarch.org/research/citations.php">http://www.rockarch.org/research/citations.php</extref></p>
-    </prefercite>
-    <accessrestrict id="bb4ff3cf00165748729e0ded7d6dc5a8">
-      <head>Conditions Governing Access</head>
-      <p>Open for research with select materials restricted as noted. Brittle or damaged items are available at the discretion of RAC.</p>
-    </accessrestrict>
-    <userestrict id="8811d8f534ed7871388e2c9b6a8ad75e">
-      <head>Conditions Governing Use</head>
-      <p>RAC has legal title, copyright and literary property rights to this collection in so far as it holds them.</p>
-    </userestrict>
-    <acqinfo id="e367213b5e0850789684bcd4c1fce140">
-      <head>Immediate Source of Acquisition</head>
-      <p>The Commonwealth Fund records were donated to RAC in 1985. The initial transfer of archival records to RAC began in 1986, and transfers continue on a regular basis. This series was transferred to RAC as accession 2007:077.</p>
-    </acqinfo>
-    <scopecontent id="5667e64ed97e47a7f8488cc5527daeaf">
-      <head>Scope and Contents</head>
-      <p>This series documents the grant administration files and associated program files for the Commonwealth Fund Health Care in New York City program. Each grant file often contains records pertaining to: budget and administration, proposals and development, articles and background information, correspondence, grant products and related files. The resulting Louis Harris and Associates survey is also included.</p>
-    </scopecontent>
-    <dsc>
-      <c id="be371d190f054461e444609a60477759" level="file">
-        <did>
-          <unittitle>New York City Survey - Questionnaire Development (96003)</unittitle>
-          <unitdate normal="1996/1996">1996</unitdate>
-          <container altrender="Letter Document Storage Box" id="d4524fddc6312aacc68e263613c7bfca" label="mixed materials [A0000000017749]" type="box">1</container>
-          <container id="6686dd92f554b7f54ef60e48ff82bf4c" parent="d4524fddc6312aacc68e263613c7bfca" type="folder">1</container>
-        </did>
-      </c>
-      <c id="ae62160dbc559bf4d67a7b9368ed66be" level="file">
-        <did>
-          <unittitle>New York State - Low Income and Access to Care Survey</unittitle>
-          <unitdate normal="1996/1996">1996</unitdate>
-          <container altrender="Letter Document Storage Box" id="1ca7c049200154ff3ae1518bb8ace04d" label="mixed materials [A0000000017749]" type="box">1</container>
-          <container id="4cf0ff0d792d7fcc49cfb2ef362a184d" parent="1ca7c049200154ff3ae1518bb8ace04d" type="folder">2</container>
-        </did>
-      </c>
-      <c id="92ad8ddffd376787731f9d592e92ed20" level="file">
-        <did>
-          <unittitle>Louis Harris and Associates - New York City Health Care Survey (96003)</unittitle>
-          <unitdate normal="1996/1996">1996</unitdate>
-          <container altrender="Letter Document Storage Box" id="8570babef4697340c55b0e269575e465" label="mixed materials [A0000000017749]" type="box">1</container>
-          <container id="dd09cb72add46df73ac4515916679c4e" parent="8570babef4697340c55b0e269575e465" type="folder">3</container>
-        </did>
-      </c>
-      <c id="dc862948dce6a6b80277fb5da270bdda" level="file">
-        <did>
-          <unittitle>New York City Survey - Consultants, Leaders, Foundations</unittitle>
-          <unitdate normal="1995/1996" type="inclusive">1995-1996</unitdate>
-          <container altrender="Letter Document Storage Box" id="c935b0105d933cea777218bf5ae636a3" label="mixed materials [A0000000017749]" type="box">1</container>
-          <container id="ff813af9ad5e09b94a17655416d89a0e" parent="c935b0105d933cea777218bf5ae636a3" type="folder">4</container>
-        </did>
-      </c>
-      <c id="607f0a28e4aa93373ffbac1a8832c537" level="file">
-        <did>
-          <unittitle>Louis Harris and Associates - New York City Health Care Survey (96003) - Articles and Background</unittitle>
-          <container altrender="Letter Document Storage Box" id="e25d6ecf0b103ab3b8695fa66ef853a7" label="mixed materials [A0000000017750]" type="box">2</container>
-          <container id="a4e7e585e2aa13c63ff2509993738654" parent="e25d6ecf0b103ab3b8695fa66ef853a7" type="folder">5</container>
-        </did>
-      </c>
-      <c id="4f377563744b343bc4a13a861a23788f" level="file">
-        <did>
-          <unittitle>Louis Harris and Associates - New York City Health Care Survey (96003) - Administration and Budget</unittitle>
-          <unitdate normal="1995/1998" type="inclusive">1995-1998</unitdate>
-          <container altrender="Letter Document Storage Box" id="a9ff504989477dc6311430ce01d457a4" label="mixed materials [A0000000017750]" type="box">2</container>
-          <container id="774fccf4e2660776cc96369afda71e4e" parent="a9ff504989477dc6311430ce01d457a4" type="folder">6</container>
-        </did>
-      </c>
-      <c id="2c698362e8b48ca39c942d4e192f2486" level="file">
-        <did>
-          <unittitle>Louis Harris and Associates - New York City Health Care Survey (96003) - Correspondence</unittitle>
-          <unitdate normal="1995/1998" type="inclusive">1995-1998</unitdate>
-          <container altrender="Letter Document Storage Box" id="9c3b2faadea7036a92747e73cd095b45" label="mixed materials [A0000000017750]" type="box">2</container>
-          <container id="55ce9c53a6fa84ab6bc36345579ac1c5" parent="9c3b2faadea7036a92747e73cd095b45" type="folder">7</container>
-        </did>
-      </c>
-      <c id="771cd3a937b6a1b2d5ddee1c86ae1520" level="file">
-        <did>
-          <unittitle>Louis Harris and Associates - New York City Health Care Survey (96003) - Grant Products</unittitle>
-          <container altrender="Letter Document Storage Box" id="6158983cc7a5112cde1e6dc662acf329" label="mixed materials [A0000000017750]" type="box">2</container>
-          <container id="a36e45ec817aa0de8cccdd9c0f6c8b4c" parent="6158983cc7a5112cde1e6dc662acf329" type="folder">8</container>
-        </did>
-      </c>
-      <c id="660969ad99c4dcc68906883da8ffe0b2" level="file">
-        <did>
-          <unittitle>Louis Harris and Associates - New York City Health Care Survey (96003) - Grant Products - Managed Care and Access to Health Care in New York City</unittitle>
-          <unitdate normal="1997/1997">1997</unitdate>
-          <container altrender="Letter Document Storage Box" id="58f5f285db1031d3abcf3630feff38b4" label="mixed materials [A0000000017750]" type="box">2</container>
-          <container id="e7a33bb8a852f26d4bd42a59a64922df" parent="58f5f285db1031d3abcf3630feff38b4" type="folder">9</container>
-        </did>
-      </c>
-      <c id="104bd4824437074448f66aabec78eba6" level="file">
-        <did>
-          <unittitle>Global Strategy Group - Feld - Examining Enrollment Barriers for Uninsured Children in New York City (980519) - Articles and Background</unittitle>
-          <unitdate normal="1993/1998" type="inclusive">1993-1998</unitdate>
-          <container altrender="Letter Document Storage Box" id="cb93393eeb736df6dbc1c92c63aa0a64" label="mixed materials [A0000000017751]" type="box">3</container>
-          <container id="d9340f2504b1043e48cec07ee8dfa157" parent="cb93393eeb736df6dbc1c92c63aa0a64" type="folder">10</container>
-        </did>
-      </c>
-      <c id="4bd3d326c0d1601a563fafe44fd98cc1" level="file">
-        <did>
-          <unittitle>Global Strategy Group - Feld - Examining Enrollment Barriers for Uninsured Children in New York City (980519) - Proposal Development</unittitle>
-          <unitdate normal="1998/1998">1998</unitdate>
-          <container altrender="Letter Document Storage Box" id="e2f9492fd59a4567ff26404e2ef8d6ba" label="mixed materials [A0000000017751]" type="box">3</container>
-          <container id="30416f82e38e2fb63b3844dd0ba1eceb" parent="e2f9492fd59a4567ff26404e2ef8d6ba" type="folder">11</container>
-        </did>
-      </c>
-      <c id="79f5c42fec3f66b715fded9dc499998c" level="file">
-        <did>
-          <unittitle>Global Strategy Group - Feld - Examining Enrollment Barriers for Uninsured Children in New York City (980519) - Administration and Budget</unittitle>
-          <unitdate normal="1998/1998">1998</unitdate>
-          <container altrender="Letter Document Storage Box" id="8c86f8a0b40bdea60d51bfa4e42e611e" label="mixed materials [A0000000017751]" type="box">3</container>
-          <container id="7aedc39a5ba9ed805f5a17ff241935ab" parent="8c86f8a0b40bdea60d51bfa4e42e611e" type="folder">12</container>
-        </did>
-      </c>
-      <c id="082f79c990b2765f9f731fb5ca7b861c" level="file">
-        <did>
-          <unittitle>Global Strategy Group - Feld - Examining Enrollment Barriers for Uninsured Children in New York City (980519) - Correspondence</unittitle>
-          <unitdate normal="1998/1999" type="inclusive">1998-1999</unitdate>
-          <container altrender="Letter Document Storage Box" id="43259bc05e0b7d6495611f809ec00bb4" label="mixed materials [A0000000017751]" type="box">3</container>
-          <container id="387599294d081e23f6214e7cb0ffdc8f" parent="43259bc05e0b7d6495611f809ec00bb4" type="folder">13</container>
-        </did>
-      </c>
-      <c id="416ff3eb8f0520b2a7a3fb13faac5b45" level="file">
-        <did>
-          <unittitle>Global Strategy Group - Feld - Examining Enrollment Barriers for Uninsured Children in New York City (980519) - Grant Products</unittitle>
-          <unitdate normal="1998/1998">1998</unitdate>
-          <container altrender="Letter Document Storage Box" id="f455a9b10d2184f0626c77e80ce9eb90" label="mixed materials [A0000000017751]" type="box">3</container>
-          <container id="f1f4fdf716205744a2c472231375b893" parent="f455a9b10d2184f0626c77e80ce9eb90" type="folder">14</container>
-        </did>
-      </c>
-      <c id="596baf5308ae56cbaaaace2d60db5cd3" level="file">
-        <did>
-          <unittitle>Focus Groups (980519)</unittitle>
-          <unitdate normal="1998/1998">1998</unitdate>
-          <container altrender="Letter Document Storage Box" id="15f3e3b0e02a316b9eec21cf2a9e9023" label="mixed materials [A0000000017751]" type="box">3</container>
-          <container id="55e2d9fd37616397b4211b31ad3f10e6" parent="15f3e3b0e02a316b9eec21cf2a9e9023" type="folder">15</container>
-        </did>
-      </c>
-      <c id="710eac76811215ede8766608762cccb7" level="file">
-        <did>
-          <unittitle>Global Strategy Group - Feld - Examining Enrollment Barriers for Uninsured Children in New York City (980519) - Harris Recontacts</unittitle>
-          <unitdate normal="1998/1998">1998</unitdate>
-          <container altrender="Letter Document Storage Box" id="6132a9fe184354cc8d906225c8085a9e" label="mixed materials [A0000000017751]" type="box">3</container>
-          <container id="b4ed0daab90869beec61b52c9b582865" parent="6132a9fe184354cc8d906225c8085a9e" type="folder">16</container>
-        </did>
-        <accessrestrict id="ad79161a86009e12d3ee1f90e2927ee2">
-          <head>Conditions Governing Access</head>
-          <p>Restricted - Confidential material.</p>
-        </accessrestrict>
-      </c>
-      <c id="89b7a08b6ceed2e546cb72005cdeb5e2" level="file">
-        <did>
-          <unittitle>Ninth Annual Symposium on Health Services Research in New York</unittitle>
-          <unitdate normal="1998/1998">1998 December 1</unitdate>
-          <container altrender="Letter Document Storage Box" id="aca52ef3f8b35c1067e1bdabbd8646ac" label="mixed materials [A0000000017751]" type="box">3</container>
-          <container id="1a547a47cf68242a623309653b45213f" parent="aca52ef3f8b35c1067e1bdabbd8646ac" type="folder">17</container>
-        </did>
-      </c>
-      <c id="80ab54dd265e1acdbdbf7fea0eaa4889" level="file">
-        <did>
-          <unittitle>Focus Groups (980519) - Expert Advisory Meetings</unittitle>
-          <unitdate normal="1998/1998">1998</unitdate>
-          <container altrender="Letter Document Storage Box" id="6ba7d421346beb7b0f4495837d20ac20" label="mixed materials [A0000000017751]" type="box">3</container>
-          <container id="dbc2cb3586fbedaf3da1ab6d22f5c447" parent="6ba7d421346beb7b0f4495837d20ac20" type="folder">18</container>
-        </did>
-      </c>
-    </dsc>
-  </archdesc>
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid>FA1459.xml</eadid><filedesc><titlestmt><titleproper type="filing">Commonwealth Fund records, Health Care in New York City Program, SG 3, Series 2</titleproper><titleproper>A Guide to the Commonwealth Fund records, Health Care in New York City Program, SG 3, Series 2 <num>FA1459</num></titleproper></titlestmt><publicationstmt><publisher>Rockefeller Archive Center</publisher><address><addressline>15 Dayton Avenue</addressline><addressline>Sleepy Hollow 10591</addressline><addressline>archive@rockarch.org</addressline><addressline>URL: <extptr xlink:href="http://www.rockarch.org" xlink:show="new" xlink:title="http://www.rockarch.org" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2019-09-14 00:24:11 -0400</date>.</creation><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="series">
+  <did>
+    <langmaterial>
+      <language langcode="eng">English</language>
+    </langmaterial>
+    <repository>
+      <corpname>Rockefeller Archive Center</corpname>
+    </repository>
+    <unittitle>Commonwealth Fund records, Health Care in New York City Program, SG 3, Series 2</unittitle>
+    <origination label="creator">
+      <corpname role="aut" source="naf">Commonwealth Fund</corpname>
+    </origination>
+    <unitid>FA1459</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">1.14 Cubic Feet</extent>
+      <extent altrender="carrier">3 letter-size document boxes</extent>
+    </physdesc>
+    <unitdate normal="1993/1998" type="inclusive">1993-1998</unitdate>
+    <langmaterial id="175a258f4b3395d6fbe782d87490be3b">English</langmaterial>
+  </did>
+  <arrangement id="993b1750e70c624f4991c9fa3cf29451">
+    <head>Arrangement</head>
+<p>Records remain in original order, as received.</p>  </arrangement>
+  <processinfo id="4c07ad8eacc24a28a050507a4e64ee9c">
+    <head>Processing Information</head>
+<p>Minimal processing. Some records remain in original file folders.</p>  </processinfo>
+  <prefercite id="1fca4d17b4d062013ce4eacc4a900d35">
+    <head>Preferred Citation</head>
+<p>Information regarding the Rockefeller Archive Center's preferred elements and forms of citation can be found at <extref href="http://www.rockarch.org/research/citations.php">http://www.rockarch.org/research/citations.php</extref></p>  </prefercite>
+  <accessrestrict id="bb4ff3cf00165748729e0ded7d6dc5a8">
+    <head>Conditions Governing Access</head>
+<p>Open for research with select materials restricted as noted. Brittle or damaged items are available at the discretion of RAC.</p>  </accessrestrict>
+  <userestrict id="8811d8f534ed7871388e2c9b6a8ad75e">
+    <head>Conditions Governing Use</head>
+<p>RAC has legal title, copyright and literary property rights to this collection in so far as it holds them.</p>  </userestrict>
+  <acqinfo id="e367213b5e0850789684bcd4c1fce140">
+    <head>Immediate Source of Acquisition</head>
+<p>The Commonwealth Fund records were donated to RAC in 1985. The initial transfer of archival records to RAC began in 1986, and transfers continue on a regular basis. This series was transferred to RAC as accession 2007:077.</p>  </acqinfo>
+  <scopecontent id="5667e64ed97e47a7f8488cc5527daeaf">
+    <head>Scope and Contents</head>
+<p>This series documents the grant administration files and associated program files for the Commonwealth Fund Health Care in New York City program. Each grant file often contains records pertaining to: budget and administration, proposals and development, articles and background information, correspondence, grant products and related files. The resulting Louis Harris and Associates survey is also included.</p>  </scopecontent>
+  <dsc><c id="be371d190f054461e444609a60477759" level="file"><did><unittitle>New York City Survey - Questionnaire Development (96003)</unittitle><unitdate normal="1996/1996">1996</unitdate><container altrender="Letter Document Storage Box" id="b8f9f14a5aa82ef8e68e034c5996ecb8" label="mixed materials [A0000000017749]" type="box">1</container><container id="9e55726835dc125eb8b40adabf50e0e9" parent="b8f9f14a5aa82ef8e68e034c5996ecb8" type="folder">1</container></did></c><c id="ae62160dbc559bf4d67a7b9368ed66be" level="file"><did><unittitle>New York State - Low Income and Access to Care Survey</unittitle><unitdate normal="1996/1996">1996</unitdate><container altrender="Letter Document Storage Box" id="13f08f501800e7df6521538ea0001716" label="mixed materials [A0000000017749]" type="box">1</container><container id="1ad665211656bc6d28838dbf7705d2a4" parent="13f08f501800e7df6521538ea0001716" type="folder">2</container></did></c><c id="92ad8ddffd376787731f9d592e92ed20" level="file"><did><unittitle>Louis Harris and Associates - New York City Health Care Survey (96003)</unittitle><unitdate normal="1996/1996">1996</unitdate><container altrender="Letter Document Storage Box" id="e07ce448e727503fc0a17c8fb8d7ede3" label="mixed materials [A0000000017749]" type="box">1</container><container id="0a9d4797be6d04fa282209cfcb99c612" parent="e07ce448e727503fc0a17c8fb8d7ede3" type="folder">3</container></did></c><c id="dc862948dce6a6b80277fb5da270bdda" level="file"><did><unittitle>New York City Survey - Consultants, Leaders, Foundations</unittitle><unitdate normal="1995/1996" type="inclusive">1995-1996</unitdate><container altrender="Letter Document Storage Box" id="c5bf0220216031f60634175adc51e0bd" label="mixed materials [A0000000017749]" type="box">1</container><container id="fb1a46d06a7bc1c55156ae02bb6c491f" parent="c5bf0220216031f60634175adc51e0bd" type="folder">4</container></did></c><c id="607f0a28e4aa93373ffbac1a8832c537" level="file"><did><unittitle>Louis Harris and Associates - New York City Health Care Survey (96003) - Articles and Background</unittitle><container altrender="Letter Document Storage Box" id="155d1df47671e1c95c7c3b62abacadb9" label="mixed materials [A0000000017750]" type="box">2</container><container id="127363cf1fc2317a521cf6e862aad551" parent="155d1df47671e1c95c7c3b62abacadb9" type="folder">5</container></did></c><c id="4f377563744b343bc4a13a861a23788f" level="file"><did><unittitle>Louis Harris and Associates - New York City Health Care Survey (96003) - Administration and Budget</unittitle><unitdate normal="1995/1998" type="inclusive">1995-1998</unitdate><container altrender="Letter Document Storage Box" id="326e83b6281df4ccf82a7f2024635ab6" label="mixed materials [A0000000017750]" type="box">2</container><container id="f86d7fdb10822e886126c0982c538e09" parent="326e83b6281df4ccf82a7f2024635ab6" type="folder">6</container></did></c><c id="2c698362e8b48ca39c942d4e192f2486" level="file"><did><unittitle>Louis Harris and Associates - New York City Health Care Survey (96003) - Correspondence</unittitle><unitdate normal="1995/1998" type="inclusive">1995-1998</unitdate><container altrender="Letter Document Storage Box" id="9630404ccd303862cede15bf999c5373" label="mixed materials [A0000000017750]" type="box">2</container><container id="65b0b274634eea41e806b0336761152b" parent="9630404ccd303862cede15bf999c5373" type="folder">7</container></did></c><c id="771cd3a937b6a1b2d5ddee1c86ae1520" level="file"><did><unittitle>Louis Harris and Associates - New York City Health Care Survey (96003) - Grant Products</unittitle><container altrender="Letter Document Storage Box" id="d2468f43cfd93f55ae74e2aee05a00e5" label="mixed materials [A0000000017750]" type="box">2</container><container id="b9e6ded6acbce7a1eff117a82d4d4cf1" parent="d2468f43cfd93f55ae74e2aee05a00e5" type="folder">8</container></did></c><c id="660969ad99c4dcc68906883da8ffe0b2" level="file"><did><unittitle>Louis Harris and Associates - New York City Health Care Survey (96003) - Grant Products - Managed Care and Access to Health Care in New York City</unittitle><unitdate normal="1997/1997">1997</unitdate><container altrender="Letter Document Storage Box" id="d182e839cc329a636a3514654a080057" label="mixed materials [A0000000017750]" type="box">2</container><container id="e936dfac92f8f7dab477c10bf6375cbd" parent="d182e839cc329a636a3514654a080057" type="folder">9</container></did></c><c id="104bd4824437074448f66aabec78eba6" level="file"><did><unittitle>Global Strategy Group - Feld - Examining Enrollment Barriers for Uninsured Children in New York City (980519) - Articles and Background</unittitle><unitdate normal="1993/1998" type="inclusive">1993-1998</unitdate><container altrender="Letter Document Storage Box" id="9131c170a1945c03830731a9b57e6853" label="mixed materials [A0000000017751]" type="box">3</container><container id="4e7caa0ded10ec10ffcf3671c2dfcd66" parent="9131c170a1945c03830731a9b57e6853" type="folder">10</container></did></c><c id="4bd3d326c0d1601a563fafe44fd98cc1" level="file"><did><unittitle>Global Strategy Group - Feld - Examining Enrollment Barriers for Uninsured Children in New York City (980519) - Proposal Development</unittitle><unitdate normal="1998/1998">1998</unitdate><container altrender="Letter Document Storage Box" id="dfe6418dfa7936a7d6b01d64b357a147" label="mixed materials [A0000000017751]" type="box">3</container><container id="da0ad7039d16417b712af96747ba5292" parent="dfe6418dfa7936a7d6b01d64b357a147" type="folder">11</container></did></c><c id="79f5c42fec3f66b715fded9dc499998c" level="file"><did><unittitle>Global Strategy Group - Feld - Examining Enrollment Barriers for Uninsured Children in New York City (980519) - Administration and Budget</unittitle><unitdate normal="1998/1998">1998</unitdate><container altrender="Letter Document Storage Box" id="7afad014455de6c11addeacdbf9b26fa" label="mixed materials [A0000000017751]" type="box">3</container><container id="febac686c1754d91c5594067d0a0a087" parent="7afad014455de6c11addeacdbf9b26fa" type="folder">12</container></did></c><c id="082f79c990b2765f9f731fb5ca7b861c" level="file"><did><unittitle>Global Strategy Group - Feld - Examining Enrollment Barriers for Uninsured Children in New York City (980519) - Correspondence</unittitle><unitdate normal="1998/1999" type="inclusive">1998-1999</unitdate><container altrender="Letter Document Storage Box" id="7a36cfbe3470d8a8b19cbaa5a59a40f9" label="mixed materials [A0000000017751]" type="box">3</container><container id="ac6082e11de52950f73455d59d9334c8" parent="7a36cfbe3470d8a8b19cbaa5a59a40f9" type="folder">13</container></did></c><c id="416ff3eb8f0520b2a7a3fb13faac5b45" level="file"><did><unittitle>Global Strategy Group - Feld - Examining Enrollment Barriers for Uninsured Children in New York City (980519) - Grant Products</unittitle><unitdate normal="1998/1998">1998</unitdate><container altrender="Letter Document Storage Box" id="d86ddacb5c831a7af525149b0f311328" label="mixed materials [A0000000017751]" type="box">3</container><container id="f83fb4177b1c3696f0e6a728319f88dd" parent="d86ddacb5c831a7af525149b0f311328" type="folder">14</container></did></c><c id="596baf5308ae56cbaaaace2d60db5cd3" level="file"><did><unittitle>Focus Groups (980519)</unittitle><unitdate normal="1998/1998">1998</unitdate><container altrender="Letter Document Storage Box" id="5b24e199e39b29302ff6d69ef954062b" label="mixed materials [A0000000017751]" type="box">3</container><container id="7dc9647fc8bd890a1b633c5aa4b41d57" parent="5b24e199e39b29302ff6d69ef954062b" type="folder">15</container></did></c><c id="710eac76811215ede8766608762cccb7" level="file"><did><unittitle>Global Strategy Group - Feld - Examining Enrollment Barriers for Uninsured Children in New York City (980519) - Harris Recontacts</unittitle><unitdate normal="1998/1998">1998</unitdate><container altrender="Letter Document Storage Box" id="e9420f291e47d36470ef3cbb5df9db03" label="mixed materials [A0000000017751]" type="box">3</container><container id="98fd9359d8df5f0b465122579148cfd9" parent="e9420f291e47d36470ef3cbb5df9db03" type="folder">16</container></did><accessrestrict id="ad79161a86009e12d3ee1f90e2927ee2"><head>Conditions Governing Access</head><p>Restricted - Confidential material.</p></accessrestrict></c><c id="89b7a08b6ceed2e546cb72005cdeb5e2" level="file"><did><unittitle>Ninth Annual Symposium on Health Services Research in New York</unittitle><unitdate normal="1998/1998">1998 December 1</unitdate><container altrender="Letter Document Storage Box" id="057b358e1ffaaf918e4da446d8d10bc6" label="mixed materials [A0000000017751]" type="box">3</container><container id="e19a22e9bcef4d3bdec8ac8d179c622b" parent="057b358e1ffaaf918e4da446d8d10bc6" type="folder">17</container></did></c><c id="80ab54dd265e1acdbdbf7fea0eaa4889" level="file"><did><unittitle>Focus Groups (980519) - Expert Advisory Meetings</unittitle><unitdate normal="1998/1998">1998</unitdate><container altrender="Letter Document Storage Box" id="a9a53cc488184ef95b0a83acc3a34201" label="mixed materials [A0000000017751]" type="box">3</container><container id="61d858a9bc3fb4147010757ca5a4fc6e" parent="a9a53cc488184ef95b0a83acc3a34201" type="folder">18</container></did></c></dsc>
+</archdesc>
 </ead>

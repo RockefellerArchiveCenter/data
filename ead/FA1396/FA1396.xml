@@ -1,100 +1,41 @@
-<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
-  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" repositoryencoding="iso15511">
-    <eadid>FA1396.xml</eadid>
-    <filedesc>
-      <titlestmt>
-        <titleproper type="filing">Magat (Richard) papers</titleproper>
-        <titleproper>A Guide to the Richard Magat papers <num>FA1396</num></titleproper>
-      </titlestmt>
-      <publicationstmt>
-        <publisher>Rockefeller Archive Center</publisher>
-        <address>
-          <addressline>15 Dayton Avenue</addressline>
-          <addressline>Sleepy Hollow 10591</addressline>
-          <addressline>archive@rockarch.org</addressline>
-          <addressline>URL: <extptr xlink:href="http://www.rockarch.org" xlink:show="new" xlink:title="http://www.rockarch.org" xlink:type="simple"/></addressline>
-        </address>
-      </publicationstmt>
-    </filedesc>
-    <profiledesc>
-      <creation>This finding aid was produced using ArchivesSpace on <date>2018-03-02 00:00:06 -0500</date>.</creation>
-      <descrules>Describing Archives: A Content Standard</descrules>
-    </profiledesc>
-  </eadheader>
-  <archdesc level="collection">
-    <did>
-      <langmaterial>
-        <language langcode="eng">English</language>
-      </langmaterial>
-      <repository>
-        <corpname>Rockefeller Archive Center</corpname>
-      </repository>
-      <unittitle>Richard Magat papers</unittitle>
-      <origination label="creator">
-        <persname role="aut" source="naf">Magat, Richard</persname>
-      </origination>
-      <unitid>FA1396</unitid>
-      <physdesc altrender="whole">
-        <extent altrender="materialtype spaceoccupied">0.25 Cubic Feet</extent>
-        <extent altrender="carrier">1 half legal document storage box</extent>
-      </physdesc>
-      <unitdate normal="1979/2001" type="inclusive">1979-2001</unitdate>
-    </did>
-    <scopecontent id="8299bca97adf4d92ad68305d84ed9410">
-      <head>Scope and Contents</head>
-      <p>A small selection of personal items of Richard Magat including McGeorge Bundy 60th birthday photographs, Ford Foundation artwork, and Ford Foundation Office of Reports plaque.</p>
-    </scopecontent>
-    <accessrestrict id="661a4d646a62cbbdfebbbe267f01018d">
-      <head>Conditions Governing Access</head>
-      <p>Open for research. Brittle or damaged items are available at the discretion of the RAC.</p>
-    </accessrestrict>
-    <acqinfo id="cf890fcb6a4ce11425e15d46802e95fa">
-      <head>Immediate Source of Acquisition</head>
-      <p>The collection was transferred to RAC in 2017 as Accession 2017:042.</p>
-    </acqinfo>
-    <userestrict id="b0c30c4e485d46238a3c52d952ae62d8">
-      <head>Conditions Governing Use</head>
-      <p>The collection was donated to Rockefeller Archive Center as an unrestricted gift in 2017. Rockefeller Archive Center has legal title, copyright and literary property rights in so far as it holds them.</p>
-    </userestrict>
-    <processinfo id="192e4de041e6ea7186ef980b4ae05438">
-      <head>Processing Information</head>
-      <p>Minimal Processing, 2017.</p>
-    </processinfo>
-    <prefercite id="2e9d3b19fcabfcf91d4aa5eb552701cd">
-      <head>Preferred Citation</head>
-      <p>Information regarding the Rockefeller Archive Center's preferred elements and forms of citation can be found at <extref href="http://www.rockarch.org/research/citations.php">http://www.rockarch.org/research/citations.php</extref></p>
-    </prefercite>
-    <dsc>
-      <c id="1da09e5b2fa090affd8e48f004b3c8d0" level="file">
-        <did>
-          <unittitle>Salute to Richard Magat</unittitle>
-          <unitdate normal="1982/2001" type="inclusive">1982-2001</unitdate>
-          <container altrender="Half Lgl Document Storage Box" id="d140d507c2a357bcecfccd2900f4fc61" label="mixed materials [A0000000019103]" type="box">1</container>
-          <container id="45039ccaa3ee9eeb207f95a21a7e1a47" parent="d140d507c2a357bcecfccd2900f4fc61" type="folder">1</container>
-        </did>
-      </c>
-      <c id="92a9bc4e9296e2da00b405346150997c" level="file">
-        <did>
-          <unittitle>Ford Foundation artwork</unittitle>
-          <container altrender="Half Lgl Document Storage Box" id="828aaf058fbf08ff270f4adf837119d4" label="mixed materials [A0000000019103]" type="box">1</container>
-          <container id="a7a27d786f3239a14b9f0c72729c2481" parent="828aaf058fbf08ff270f4adf837119d4" type="folder">2</container>
-        </did>
-      </c>
-      <c id="65e1cbc381d7c7708816a2a2814d97dc" level="file">
-        <did>
-          <unittitle>A Birthday Portfolio: Mac Bundy at 60</unittitle>
-          <unitdate normal="1979-03-29/1979-03-29">1979 March 29</unitdate>
-          <container altrender="Half Lgl Document Storage Box" id="94ba58d8ad49938ac5811c80d1f4a0e8" label="mixed materials [A0000000019103]" type="box">1</container>
-          <container id="ee115cdfcdc9358888674663518e2c97" parent="94ba58d8ad49938ac5811c80d1f4a0e8" type="folder">3</container>
-        </did>
-      </c>
-      <c id="3a4f7d5a1fe74fc5d8f0f1cd7f7f3132" level="file">
-        <did>
-          <unittitle>Ford Foundation Office of Reports plaque</unittitle>
-          <container altrender="Half Lgl Document Storage Box" id="8accafd78f685d267d34080db4529742" label="mixed materials [A0000000019103]" type="box">1</container>
-          <container id="1073df71397a44c10541da2d274b0a7e" parent="8accafd78f685d267d34080db4529742" type="folder">4</container>
-        </did>
-      </c>
-    </dsc>
-  </archdesc>
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid>FA1396.xml</eadid><filedesc><titlestmt><titleproper type="filing">Magat (Richard) papers</titleproper><titleproper>A Guide to the Richard Magat papers <num>FA1396</num></titleproper></titlestmt><publicationstmt><publisher>Rockefeller Archive Center</publisher><address><addressline>15 Dayton Avenue</addressline><addressline>Sleepy Hollow 10591</addressline><addressline>archive@rockarch.org</addressline><addressline>URL: <extptr xlink:href="http://www.rockarch.org" xlink:show="new" xlink:title="http://www.rockarch.org" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2019-09-14 00:02:32 -0400</date>.</creation><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
+  <did>
+    <langmaterial>
+      <language langcode="eng">English</language>
+    </langmaterial>
+    <repository>
+      <corpname>Rockefeller Archive Center</corpname>
+    </repository>
+    <unittitle>Richard Magat papers</unittitle>
+    <origination label="creator">
+      <persname role="aut" source="naf">Magat, Richard</persname>
+    </origination>
+    <unitid>FA1396</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">0.24 Cubic Feet</extent>
+      <extent altrender="carrier">1 half legal document storage box</extent>
+    </physdesc>
+    <unitdate normal="1979/2001" type="inclusive">1979-2001</unitdate>
+  </did>
+  <scopecontent id="8299bca97adf4d92ad68305d84ed9410">
+    <head>Scope and Contents</head>
+<p>A small selection of personal items of Richard Magat including McGeorge Bundy 60th birthday photographs, Ford Foundation artwork, and Ford Foundation Office of Reports plaque.</p>  </scopecontent>
+  <accessrestrict id="661a4d646a62cbbdfebbbe267f01018d">
+    <head>Conditions Governing Access</head>
+<p>Open for research. Brittle or damaged items are available at the discretion of the RAC.</p>  </accessrestrict>
+  <acqinfo id="cf890fcb6a4ce11425e15d46802e95fa">
+    <head>Immediate Source of Acquisition</head>
+<p>The collection was transferred to RAC in 2017 as Accession 2017:042.</p>  </acqinfo>
+  <userestrict id="b0c30c4e485d46238a3c52d952ae62d8">
+    <head>Conditions Governing Use</head>
+<p>The collection was donated to Rockefeller Archive Center as an unrestricted gift in 2017. Rockefeller Archive Center has legal title, copyright and literary property rights in so far as it holds them.</p>  </userestrict>
+  <processinfo id="192e4de041e6ea7186ef980b4ae05438">
+    <head>Processing Information</head>
+<p>Minimal Processing, 2017.</p>  </processinfo>
+  <prefercite id="2e9d3b19fcabfcf91d4aa5eb552701cd">
+    <head>Preferred Citation</head>
+<p>Information regarding the Rockefeller Archive Center's preferred elements and forms of citation can be found at <extref href="http://www.rockarch.org/research/citations.php">http://www.rockarch.org/research/citations.php</extref></p>  </prefercite>
+  <dsc><c id="1da09e5b2fa090affd8e48f004b3c8d0" level="file"><did><unittitle>Salute to Richard Magat</unittitle><unitdate normal="1982/2001" type="inclusive">1982-2001</unitdate><container altrender="Half Lgl Document Storage Box" id="ebce4eab9676a3000cde1dd6a1c31823" label="mixed materials [A0000000019103]" type="box">1</container><container id="49b2ca48a7648426721bd22a743cc137" parent="ebce4eab9676a3000cde1dd6a1c31823" type="folder">1</container></did></c><c id="92a9bc4e9296e2da00b405346150997c" level="file"><did><unittitle>Ford Foundation artwork</unittitle><container altrender="Half Lgl Document Storage Box" id="fa669bf1ae908aeaeae92409a012cc33" label="mixed materials [A0000000019103]" type="box">1</container><container id="c4133fe2fc436cafc5d64710a245ff51" parent="fa669bf1ae908aeaeae92409a012cc33" type="folder">2</container></did></c><c id="65e1cbc381d7c7708816a2a2814d97dc" level="file"><did><unittitle>A Birthday Portfolio: Mac Bundy at 60</unittitle><unitdate normal="1979-03-29/1979-03-29">1979 March 29</unitdate><container altrender="Half Lgl Document Storage Box" id="92f4845593562dcf5dff8fa5054828c4" label="mixed materials [A0000000019103]" type="box">1</container><container id="2e6120722ebcef5a0bf6875a92714abe" parent="92f4845593562dcf5dff8fa5054828c4" type="folder">3</container></did></c><c id="3a4f7d5a1fe74fc5d8f0f1cd7f7f3132" level="file"><did><unittitle>Ford Foundation Office of Reports plaque</unittitle><container altrender="Half Lgl Document Storage Box" id="b2fcbf0b19c3d74aed4c33facaf63f2e" label="mixed materials [A0000000019103]" type="box">1</container><container id="92764693cf8a30473e24364d5a132eca" parent="b2fcbf0b19c3d74aed4c33facaf63f2e" type="folder">4</container></did></c></dsc>
+</archdesc>
 </ead>
