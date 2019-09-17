@@ -1,185 +1,43 @@
-<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
-  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="in_progress" langencoding="iso639-2b" repositoryencoding="iso15511">
-    <eadid>FA106.xml</eadid>
-    <filedesc>
-      <titlestmt>
-        <titleproper type="filing">Ferguson (Duncan) papers</titleproper>
-        <titleproper>A Guide to the Duncan Ferguson papers
- <num>FA106</num></titleproper>
-      </titlestmt>
-      <publicationstmt>
-        <publisher>Rockefeller Archive Center</publisher>
-        <p>
-          <date>2009</date>
-        </p>
-        <address>
-          <addressline>15 Dayton Avenue</addressline>
-          <addressline>Sleepy Hollow 10591</addressline>
-          <addressline>archive@rockarch.org</addressline>
-          <addressline>URL: <extptr xlink:href="http://www.rockarch.org" xlink:show="new" xlink:title="http://www.rockarch.org" xlink:type="simple"/></addressline>
-        </address>
-      </publicationstmt>
-    </filedesc>
-    <profiledesc>
-      <creation>This finding aid was produced using ArchivesSpace on <date>2017-03-02 02:00:44 -0500</date>.</creation>
-    </profiledesc>
-  </eadheader>
-  <archdesc level="collection">
-    <did>
-      <langmaterial>
-        <language langcode="eng">English</language>
-      </langmaterial>
-      <repository>
-        <corpname>Rockefeller Archive Center</corpname>
-      </repository>
-      <unittitle>Duncan Ferguson papers</unittitle>
-      <origination label="creator">
-        <persname role="aut" source="lcnaf">Ferguson, Duncan</persname>
-      </origination>
-      <unitid>FA106</unitid>
-      <physdesc altrender="whole">
-        <extent altrender="materialtype spaceoccupied">3 box(es)</extent>
-      </physdesc>
-      <unitdate>undated</unitdate>
-    </did>
-    <accessrestrict id="a158714aaa27f93d170050ed5bca5c08">
-      <head>Conditions Governing Access</head>
-      <p>Collection is open for scholarly research.</p>
-      <p>RAC is unable to provide access to obsolete media and original digital media. In addition separated media may not yet have undergone stabilization procedures. When feasible, a digital surrogate may be created via special order. All applicable charges will apply. See RAC Head of Archival Services or RAC Head of Digital Programs for details.</p>
-    </accessrestrict>
-    <prefercite id="531176a113625fb49140ac7ecfffadeb">
-      <head>Preferred Citation</head>
-      <p>Information regarding the Rockefeller Archive Center's preferred elements and forms of citation can be found at <extref href="http://www.rockarch.org/research/citations.php">http://www.rockarch.org/research/citations.php</extref></p>
-    </prefercite>
-    <fileplan id="e35e29453d4df89ee78f3cda5b55a3a9">
-      <head>File Plan note</head>
-      <p>Former Classification: P/1080</p>
-    </fileplan>
-    <scopecontent id="883ca45b076269a7fbf7de96fef02fdb">
-      <head>Scope and Contents note</head>
-      <p>Duncan Ferguson was a New York City-based sculptor and the husband of Alice Decker. Many of the photographs were taken in China, as his father, John Calvin Ferguson, was the founder and president of Nanking University and an advisor to the Chinese Government. Mary Ferguson, whose papers are held at the Rockefeller Archive Center, was his sister.</p>
-      <p>This small collection contains photographs of Duncan Ferguson and his family, postcards, correspondence, and personal notes.</p>
-    </scopecontent>
-    <arrangement id="703765508752d9c164c55fe49562d99f">
-      <head>Arrangement</head>
-      <p>This collection is arranged into 3 series:</p>
-      <p>1. Photographs</p>
-      <p>2. Postcards</p>
-      <p>3. Correspondence and Printed Material</p>
-    </arrangement>
-    <controlaccess>
-      <geogname source="lcsh">China</geogname>
-      <genreform source="lcsh">Photographs</genreform>
-      <genreform source="local">Postcards</genreform>
-    </controlaccess>
-    <dsc>
-      <c id="71b7e6c0dceb4a5bb97aee64db4b4950" level="series">
-        <did>
-          <unittitle>Photographs</unittitle>
-        </did>
-        <scopecontent id="b89bd9290425720c17a70d0a2e92de8a">
-          <head>Scope and Contents note</head>
-          <p>Ferguson Family, China, Photos of Laura Slobe</p>
-        </scopecontent>
-        <c id="7d38c2d2dca24f26a95bd25ac4089bfd" level="file">
-          <did>
-            <unittitle>Ferguson Family Photographs</unittitle>
-            <container id="20156b06d7c9effee6c0231a73452894" label="mixed materials (110310.1.318)" type="box">1</container>
-            <container id="885fe96c8bea16beed7d98a475e3ab5c" parent="20156b06d7c9effee6c0231a73452894" type="folder">1</container>
-          </did>
-        </c>
-        <c id="48aa88c683d54596816f5025aae64b54" level="file">
-          <did>
-            <unittitle>Ferguson Family Photographs</unittitle>
-            <container id="ed64ab74ac971e8f8c1b1f8a39fd9f62" label="mixed materials (110310.1.318)" type="box">1</container>
-            <container id="eb09bf70d8c5e059fde56700ba501905" parent="ed64ab74ac971e8f8c1b1f8a39fd9f62" type="folder">2</container>
-          </did>
-        </c>
-        <c id="83f3930594eb4125bd90b55b19da578d" level="file">
-          <did>
-            <unittitle>China</unittitle>
-            <container id="3b23aa325285049fd9dc43001ea45d1d" label="mixed materials (110310.1.318)" type="box">1</container>
-            <container id="1d2581a5c163a5b6eed32ca907a8131a" parent="3b23aa325285049fd9dc43001ea45d1d" type="folder">3</container>
-          </did>
-        </c>
-        <c id="e7984052d19943bfb6b3516fa32694df" level="file">
-          <did>
-            <unittitle>China</unittitle>
-            <container id="a21300a3e152808902279fb63e9d288e" label="mixed materials (110310.1.318)" type="box">1</container>
-            <container id="309033643c974ff9b8be414a58b5ebd3" parent="a21300a3e152808902279fb63e9d288e" type="folder">4</container>
-          </did>
-        </c>
-        <c id="aeb35f24fda1445b94cd373e43fb21aa" level="file">
-          <did>
-            <unittitle>Laura Slobe</unittitle>
-            <container id="d4b2a620717010cf20d881ef88f60f55" label="mixed materials (110310.1.318)" type="box">1</container>
-            <container id="7657d9b3c3ee96246fb81cda69a47e25" parent="d4b2a620717010cf20d881ef88f60f55" type="folder">5</container>
-          </did>
-        </c>
-      </c>
-      <c id="10940751cc3c464bb7beed856a332a6d" level="series">
-        <did>
-          <unittitle>Postcards</unittitle>
-        </did>
-        <c id="3bb9284192b248ffb2e411ad040884c5" level="file">
-          <did>
-            <unittitle>Postcards by Country</unittitle>
-            <container id="b9320d14c09119d66dbca7b99f3bbd0c" label="mixed materials (110316.2.318)" type="box">2</container>
-            <container id="7178c29f48b5055ca5f20c95db987a71" parent="b9320d14c09119d66dbca7b99f3bbd0c" type="folder">a</container>
-          </did>
-          <scopecontent id="91f34decc5d237a5e6339f3c9b7e9f3c">
-            <head>Scope and Contents note</head>
-            <p>Amsterdam Austria Britain Brussels China France Germany Italy Mexico Switzerland</p>
-          </scopecontent>
-        </c>
-      </c>
-      <c id="b629375bbee64f9f831a371986a02e1f" level="series">
-        <did>
-          <unittitle>Correspondence and Printed Materials</unittitle>
-        </did>
-        <c id="1da86d5c8d3340409e7b4b50949743d8" level="file">
-          <did>
-            <unittitle>Letters - Charles Biederman to Laura Slobe</unittitle>
-            <container id="d736fbf1cc8f9836cba38a8b351f7342" label="mixed materials (110318.3.318)" type="box">3</container>
-            <container id="c76960ad1b45d199fc32c50353282a50" parent="d736fbf1cc8f9836cba38a8b351f7342" type="folder">6</container>
-          </did>
-        </c>
-        <c id="c4bf73e86bae4b1bbde0546d2f41880a" level="file">
-          <did>
-            <unittitle>Letters - Joe Lee to Duncan Ferguson</unittitle>
-            <container id="c8d5adc10665796b0699131d9c176653" label="mixed materials (110318.3.318)" type="box">3</container>
-            <container id="254631dcba1dd1050c1e67df88509169" parent="c8d5adc10665796b0699131d9c176653" type="folder">7</container>
-          </did>
-        </c>
-        <c id="a4262ef5729e4a6fa4b63d784cb0d293" level="file">
-          <did>
-            <unittitle>Letters - Joe Lee to Duncan Ferguson</unittitle>
-            <container id="a36f2136c89d0a12d9797816c94381a4" label="mixed materials (110318.3.318)" type="box">3</container>
-            <container id="1a95d4c2168e3c52ea22670b833305b4" parent="a36f2136c89d0a12d9797816c94381a4" type="folder">8</container>
-          </did>
-        </c>
-        <c id="b0b88d01c2d1401284867607597caad7" level="file">
-          <did>
-            <unittitle>Letters - Laura Slobe to Duncan Ferguson</unittitle>
-            <container id="a8fcae9e28bf01f5fe4f713bb867e506" label="mixed materials (110318.3.318)" type="box">3</container>
-            <container id="16e16b2c7e17dc27f2e7ed3696caa843" parent="a8fcae9e28bf01f5fe4f713bb867e506" type="folder">9</container>
-          </did>
-        </c>
-        <c id="4457333c4dfe41db9d65f5fda182b351" level="file">
-          <did>
-            <unittitle>Letters - Laura Slobe to Duncan Ferguson</unittitle>
-            <container id="c44bae3ef563b1f5355f24766bd50810" label="mixed materials (110318.3.318)" type="box">3</container>
-            <container id="bb9efb6744aaf05e99a8c6cd4fe89a99" parent="c44bae3ef563b1f5355f24766bd50810" type="folder">10</container>
-          </did>
-        </c>
-        <c id="88b5b6222602453b927be3d547f5296e" level="file">
-          <did>
-            <unittitle>Paper Materials</unittitle>
-            <container id="8eea66e29ee4807bc48614e584cb6052" label="mixed materials (110318.3.318)" type="box">3</container>
-            <container id="b477852dc7bf6ec266f959a866d3db65" parent="8eea66e29ee4807bc48614e584cb6052" type="folder">11</container>
-          </did>
-        </c>
-      </c>
-    </dsc>
-  </archdesc>
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="in_progress" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid>FA106.xml</eadid><filedesc><titlestmt><titleproper type="filing">Ferguson (Duncan) papers</titleproper><titleproper>A Guide to the Duncan Ferguson papers
+ <num>FA106</num></titleproper></titlestmt><publicationstmt><publisher>Rockefeller Archive Center</publisher><p><date>2009</date></p><address><addressline>15 Dayton Avenue</addressline><addressline>Sleepy Hollow 10591</addressline><addressline>archive@rockarch.org</addressline><addressline>URL: <extptr xlink:href="http://www.rockarch.org" xlink:show="new" xlink:title="http://www.rockarch.org" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2019-09-17 00:17:30 -0400</date>.</creation></profiledesc></eadheader><archdesc level="collection">
+  <did>
+    <langmaterial>
+      <language langcode="eng">English</language>
+    </langmaterial>
+    <repository>
+      <corpname>Rockefeller Archive Center</corpname>
+    </repository>
+    <unittitle>Duncan Ferguson papers</unittitle>
+    <origination label="creator">
+      <persname role="aut" source="naf">Ferguson, Duncan</persname>
+    </origination>
+    <unitid>FA106</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">1.14 Cubic Feet</extent>
+    </physdesc>
+    <unitdate>undated</unitdate>
+  </did>
+  <accessrestrict id="a158714aaa27f93d170050ed5bca5c08">
+    <head>Conditions Governing Access</head>
+<p>Collection is open for scholarly research.</p><p>RAC is unable to provide access to obsolete media and original digital media. In addition separated media may not yet have undergone stabilization procedures. When feasible, a digital surrogate may be created via special order. All applicable charges will apply. See RAC Head of Archival Services or RAC Head of Digital Programs for details.</p>  </accessrestrict>
+  <prefercite id="531176a113625fb49140ac7ecfffadeb">
+    <head>Preferred Citation</head>
+<p>Information regarding the Rockefeller Archive Center's preferred elements and forms of citation can be found at <extref href="http://www.rockarch.org/research/citations.php">http://www.rockarch.org/research/citations.php</extref></p>  </prefercite>
+  <fileplan id="e35e29453d4df89ee78f3cda5b55a3a9">
+    <head>File Plan note</head>
+<p>Former Classification: P/1080</p>  </fileplan>
+  <scopecontent id="883ca45b076269a7fbf7de96fef02fdb">
+    <head>Scope and Contents note</head>
+<p>Duncan Ferguson was a New York City-based sculptor and the husband of Alice Decker. Many of the photographs were taken in China, as his father, John Calvin Ferguson, was the founder and president of Nanking University and an advisor to the Chinese Government. Mary Ferguson, whose papers are held at the Rockefeller Archive Center, was his sister.</p><p>This small collection contains photographs of Duncan Ferguson and his family, postcards, correspondence, and personal notes.</p>  </scopecontent>
+  <arrangement id="703765508752d9c164c55fe49562d99f">
+    <head>Arrangement</head>
+<p>This collection is arranged into 3 series:</p><p>1. Photographs</p><p>2. Postcards</p><p>3. Correspondence and Printed Material</p>  </arrangement>
+  <controlaccess>
+    <geogname source="lcsh">China</geogname>
+    <genreform source="lcsh">Photographs</genreform>
+    <genreform source="local">Postcards</genreform>
+  </controlaccess>
+  <dsc><c id="71b7e6c0dceb4a5bb97aee64db4b4950" level="series"><did><unittitle>Photographs</unittitle></did><scopecontent id="b89bd9290425720c17a70d0a2e92de8a"><head>Scope and Contents note</head><p>Ferguson Family, China, Photos of Laura Slobe</p></scopecontent><c id="7d38c2d2dca24f26a95bd25ac4089bfd" level="file"><did><unittitle>Ferguson Family Photographs</unittitle><container id="c6cb185fdc1f5f439092571cdcf64c0b" label="mixed materials [110310.1.318]" type="box">1</container><container id="0aab43f013f499db7967b3883abb66a9" parent="c6cb185fdc1f5f439092571cdcf64c0b" type="folder">1</container></did></c><c id="48aa88c683d54596816f5025aae64b54" level="file"><did><unittitle>Ferguson Family Photographs</unittitle><container id="ee1f93b6a5143afd1fd5b57dd0c386a5" label="mixed materials [110310.1.318]" type="box">1</container><container id="f57ef277604ce12af4ee546f76ff64ee" parent="ee1f93b6a5143afd1fd5b57dd0c386a5" type="folder">2</container></did></c><c id="83f3930594eb4125bd90b55b19da578d" level="file"><did><unittitle>China</unittitle><container id="b1a9dba9ac00e4febbc0339978ad65b9" label="mixed materials [110310.1.318]" type="box">1</container><container id="a887c27dfabbdbd470af076ee58f3908" parent="b1a9dba9ac00e4febbc0339978ad65b9" type="folder">3</container></did></c><c id="e7984052d19943bfb6b3516fa32694df" level="file"><did><unittitle>China</unittitle><container id="6dd6da6590b522dfde167bf27fd14ec6" label="mixed materials [110310.1.318]" type="box">1</container><container id="d314236793447bb45a1dd8bde90d3177" parent="6dd6da6590b522dfde167bf27fd14ec6" type="folder">4</container></did></c><c id="aeb35f24fda1445b94cd373e43fb21aa" level="file"><did><unittitle>Laura Slobe</unittitle><container id="cef6ca996d57998258c3cbb5bea4f694" label="mixed materials [110310.1.318]" type="box">1</container><container id="b71f571e0c7440d960e43b8b4185502a" parent="cef6ca996d57998258c3cbb5bea4f694" type="folder">5</container></did></c></c><c id="10940751cc3c464bb7beed856a332a6d" level="series"><did><unittitle>Postcards</unittitle></did><c id="3bb9284192b248ffb2e411ad040884c5" level="file"><did><unittitle>Postcards by Country</unittitle><container id="f7f577a3d6fd028ecb9c4c115180cefb" label="mixed materials [110316.2.318]" type="box">2</container><container id="049dfba64839d47b167b2754a77b6f4c" parent="f7f577a3d6fd028ecb9c4c115180cefb" type="folder">a</container></did><scopecontent id="91f34decc5d237a5e6339f3c9b7e9f3c"><head>Scope and Contents note</head><p>Amsterdam Austria Britain Brussels China France Germany Italy Mexico Switzerland</p></scopecontent></c></c><c id="b629375bbee64f9f831a371986a02e1f" level="series"><did><unittitle>Correspondence and Printed Materials</unittitle></did><c id="1da86d5c8d3340409e7b4b50949743d8" level="file"><did><unittitle>Letters - Charles Biederman to Laura Slobe</unittitle><container id="067e679ef15c824f0adaca5560d775b2" label="mixed materials [110318.3.318]" type="box">3</container><container id="bbb4df8660aac333bebb784649ef6069" parent="067e679ef15c824f0adaca5560d775b2" type="folder">6</container></did></c><c id="c4bf73e86bae4b1bbde0546d2f41880a" level="file"><did><unittitle>Letters - Joe Lee to Duncan Ferguson</unittitle><container id="f98040f8bd77575f538ec26da10e9330" label="mixed materials [110318.3.318]" type="box">3</container><container id="69f11e5c94e2dd20add2d43d36ea411b" parent="f98040f8bd77575f538ec26da10e9330" type="folder">7</container></did></c><c id="a4262ef5729e4a6fa4b63d784cb0d293" level="file"><did><unittitle>Letters - Joe Lee to Duncan Ferguson</unittitle><container id="8f3883bed26ef39fd85cb1a656e47bf0" label="mixed materials [110318.3.318]" type="box">3</container><container id="124f27e9e5aa5c705fdf777c85bfbcad" parent="8f3883bed26ef39fd85cb1a656e47bf0" type="folder">8</container></did></c><c id="b0b88d01c2d1401284867607597caad7" level="file"><did><unittitle>Letters - Laura Slobe to Duncan Ferguson</unittitle><container id="0f2bb6a3bf20285eef466cc98d7ef67a" label="mixed materials [110318.3.318]" type="box">3</container><container id="eed43dd36b5113ef5fa62cecf7a00683" parent="0f2bb6a3bf20285eef466cc98d7ef67a" type="folder">9</container></did></c><c id="4457333c4dfe41db9d65f5fda182b351" level="file"><did><unittitle>Letters - Laura Slobe to Duncan Ferguson</unittitle><container id="7a3360d0ade4c1bc246985ef238507ae" label="mixed materials [110318.3.318]" type="box">3</container><container id="20387f2f7c990205490e8632468def31" parent="7a3360d0ade4c1bc246985ef238507ae" type="folder">10</container></did></c><c id="88b5b6222602453b927be3d547f5296e" level="file"><did><unittitle>Paper Materials</unittitle><container id="1338313c1bfa2d7c497e4a34e0f1d13c" label="mixed materials [110318.3.318]" type="box">3</container><container id="caf6812f72bb5302b335db5a65e37fb3" parent="1338313c1bfa2d7c497e4a34e0f1d13c" type="folder">11</container></did></c></c></dsc>
+</archdesc>
 </ead>
