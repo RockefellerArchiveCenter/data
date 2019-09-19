@@ -1,352 +1,46 @@
-<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
-  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" repositoryencoding="iso15511">
-    <eadid>FA1007.xml</eadid>
-    <filedesc>
-      <titlestmt>
-        <titleproper type="filing">Rockefeller University records, Corporation, Board of Trustees, Finance Committee</titleproper>
-        <titleproper>A Guide to the Rockefeller University records, Corporation, Board of Trustees, Finance Committee
- <num>FA1007</num></titleproper>
-      </titlestmt>
-      <publicationstmt>
-        <publisher>Rockefeller Archive Center</publisher>
-        <address>
-          <addressline>15 Dayton Avenue</addressline>
-          <addressline>Sleepy Hollow 10591</addressline>
-          <addressline>archive@rockarch.org</addressline>
-          <addressline>URL: <extptr xlink:href="http://www.rockarch.org" xlink:show="new" xlink:title="http://www.rockarch.org" xlink:type="simple"/></addressline>
-        </address>
-      </publicationstmt>
-    </filedesc>
-    <profiledesc>
-      <creation>This finding aid was produced using ArchivesSpace on <date>2017-03-02 01:55:28 -0500</date>.</creation>
-      <langusage>English</langusage>
-      <descrules>Describing Archives: A Content Standard</descrules>
-    </profiledesc>
-  </eadheader>
-  <archdesc level="collection">
-    <did>
-      <langmaterial>
-        <language langcode="eng">English</language>
-      </langmaterial>
-      <repository>
-        <corpname>Rockefeller Archive Center</corpname>
-      </repository>
-      <unittitle>Rockefeller University records, Corporation, Board of Trustees, Finance Committee</unittitle>
-      <origination label="creator">
-        <corpname role="aut" source="lcnaf">Rockefeller University</corpname>
-      </origination>
-      <unitid>FA1007</unitid>
-      <physdesc altrender="whole">
-        <extent altrender="materialtype spaceoccupied">3.6 Cubic Feet</extent>
-        <extent altrender="carrier">3 record storage cartons.</extent>
-      </physdesc>
-      <unitdate normal="1967/1997" type="inclusive">1967-1997</unitdate>
-      <physdesc id="98c954f86b3b4b4201561b2b86ffcf72">3 record storage cartons.</physdesc>
-    </did>
-    <accessrestrict id="1e550918fde6aaa1363542977afd63e6">
-      <head>Conditions Governing Access</head>
-      <p>Records more than 25 years old are open for research. Brittle or damaged items are available at the discretion of RAC.</p>
-    </accessrestrict>
-    <otherfindaid id="a0a86ccb9e853b0f19b12e099c68073b">
-      <head>Other Finding Aids</head>
-      <p>For Finance Committee records currently open for scholarly research see:</p>
-      <p>FA1017 Rockefeller University records, Corporation, Board of Trustees, Finance Committee, Minutes</p>
-    </otherfindaid>
-    <fileplan id="0169b8eead7549050007e2f10d5e77a3">
-      <head>File Plan</head>
-      <p>Former Classification: I 140-U</p>
-    </fileplan>
-    <prefercite id="ca0a7dd8c53392fd54ddfa4f38094eef">
-      <head>Preferred Citation</head>
-      <p>Information regarding the Rockefeller Archive Center's preferred elements and forms of citation can be found at <extref href="http://www.rockarch.org/research/citations.php">http://www.rockarch.org/research/citations.php</extref></p>
-    </prefercite>
-    <processinfo id="8cd2388d85d3d318ed45820693eec01f">
-      <head>Processing Information</head>
-      <p>Minimal Processing. Some material remains in original file folders.</p>
-    </processinfo>
-    <arrangement id="0e26a0864dca973aaf5592d2c049935a">
-      <head>Arrangement</head>
-      <p>Primarily chronological</p>
-    </arrangement>
-    <scopecontent id="a18af536f205403e3f34afa0b92bbfc8">
-      <head>Scope and Contents</head>
-      <p>Contains Finance Committee meeting records, agendas, minutes, correspondence and associated financial reports.</p>
-    </scopecontent>
-    <dsc>
-      <c id="c37b044b3b9d4601964738e44e1a91fe" level="file">
-        <did>
-          <unittitle>Finance Committee</unittitle>
-          <unitdate normal="1967/1968" type="inclusive">Fiscal Year (FY) 1967 July-1968 June</unitdate>
-          <container id="92caddd0c49911639a0fb74109ae20b4" label="mixed materials" type="box">1</container>
-          <container id="ac0ddc4958561745debc8c4009bc9ef3" parent="92caddd0c49911639a0fb74109ae20b4" type="folder">1</container>
-        </did>
-      </c>
-      <c id="9f90198ebda94119bfb79c498d777fb3" level="file">
-        <did>
-          <unittitle>Finance Committee</unittitle>
-          <unitdate normal="1968/1969" type="inclusive">FY 1968 July-1969 June</unitdate>
-          <container id="cf11cf26572f43e7579dc6187092b978" label="mixed materials" type="box">1</container>
-          <container id="f72bf2104d151bb5e0076d4f011d4735" parent="cf11cf26572f43e7579dc6187092b978" type="folder">2</container>
-        </did>
-      </c>
-      <c id="a1966bebfe5b4dd7a9f6ed1ad708f07c" level="file">
-        <did>
-          <unittitle>Finance Committee</unittitle>
-          <unitdate normal="1969/1970" type="inclusive">FY 1969 July-1970 June</unitdate>
-          <container id="3cb29d9a568932eb568fb0e344ee2120" label="mixed materials" type="box">1</container>
-          <container id="4e50fc65106e0fa59edc5ddfb47fca87" parent="3cb29d9a568932eb568fb0e344ee2120" type="folder">3</container>
-        </did>
-      </c>
-      <c id="295b50e2ccf7416ab8e4bfcfe0826e00" level="file">
-        <did>
-          <unittitle>Finance Committee</unittitle>
-          <unitdate normal="1970/1971" type="inclusive">FY 1970 July-1971 June</unitdate>
-          <container id="580e885716063d8af7ca9b44a487c01f" label="mixed materials" type="box">1</container>
-          <container id="7d99751fc3b563f0d64d18e6b780ab03" parent="580e885716063d8af7ca9b44a487c01f" type="folder">4</container>
-        </did>
-      </c>
-      <c id="f1c4c81826fb43cf9b259a0206682323" level="file">
-        <did>
-          <unittitle>Financial Report Supplement</unittitle>
-          <unitdate normal="1971/1971" type="inclusive">1971 June 30</unitdate>
-          <container id="6c27b92c0828760f55b1861523217477" label="mixed materials" type="box">1</container>
-          <container id="5217fc8d2b5ef715e8fb1fdea289815b" parent="6c27b92c0828760f55b1861523217477" type="folder">5</container>
-        </did>
-      </c>
-      <c id="31f5127574744e3eacbdb2ae9f41e3cf" level="file">
-        <did>
-          <unittitle>Finance Committee</unittitle>
-          <unitdate normal="1971/1972" type="inclusive">1971 July-1972 June</unitdate>
-          <container id="1cf936806921743beeca5bba3232e32e" label="mixed materials" type="box">1</container>
-          <container id="4eeba0b7d33db30471505287b110d989" parent="1cf936806921743beeca5bba3232e32e" type="folder">6</container>
-        </did>
-      </c>
-      <c id="ff925d758cc545e198f82a0808500db7" level="file">
-        <did>
-          <unittitle>Finance Committee</unittitle>
-          <unitdate normal="1972/1972" type="inclusive">1972 May 17</unitdate>
-          <container id="90860c6e089013a37816f30517d60307" label="mixed materials" type="box">1</container>
-          <container id="b9bd6a98c4af6ceae9b39d49757d770c" parent="90860c6e089013a37816f30517d60307" type="folder">7</container>
-        </did>
-      </c>
-      <c id="051b2de515c2454aa78e94c0ff53b2da" level="file">
-        <did>
-          <unittitle>Finance Committee</unittitle>
-          <unitdate normal="1972/1973" type="inclusive">FY 1972 July-1973 June</unitdate>
-          <container id="d3f3cce7aa373c7a04fe2716b39c0058" label="mixed materials" type="box">1</container>
-          <container id="b674e44ae1c960a43124ba2a91e97f80" parent="d3f3cce7aa373c7a04fe2716b39c0058" type="folder">8-9</container>
-        </did>
-      </c>
-      <c id="0706ec6c07e940e3987b32a40fee99f5" level="file">
-        <did>
-          <unittitle>Analysis of financial resources</unittitle>
-          <unitdate normal="1973/1973" type="inclusive">1973 May 3</unitdate>
-          <container id="30edbbdc24f7a0edf9966d9c5184f977" label="mixed materials" type="box">1</container>
-          <container id="967ae909df4eb759d406325b5219fb04" parent="30edbbdc24f7a0edf9966d9c5184f977" type="folder">10</container>
-        </did>
-      </c>
-      <c id="13f7591917dd4104ad233a638302d72a" level="file">
-        <did>
-          <unittitle>Financial Report Supplement</unittitle>
-          <unitdate normal="1973/1973" type="inclusive">1973 June 30</unitdate>
-          <container id="f0ae58e0157932866a1cc711845ce478" label="mixed materials" type="box">1</container>
-          <container id="feb6abd285adbfd4ca02f9330dc5ad04" parent="f0ae58e0157932866a1cc711845ce478" type="folder">11</container>
-        </did>
-      </c>
-      <c id="fc94d9b9c06a4d5c9a864d5b13fa8a1f" level="file">
-        <did>
-          <unittitle>Finance Committee</unittitle>
-          <unitdate normal="1974/1974" type="inclusive">FY 1974</unitdate>
-          <container id="1b9f6b2f7764a6bee6c36a2c288d436f" label="mixed materials" type="box">1</container>
-          <container id="a6b49d3e3087fddb540951184a8aa5c2" parent="1b9f6b2f7764a6bee6c36a2c288d436f" type="folder">12</container>
-        </did>
-      </c>
-      <c id="968344256bbd4c658f3c81379a208ae1" level="file">
-        <did>
-          <unittitle>Financial Report Supplement</unittitle>
-          <unitdate normal="1974/1974" type="inclusive">1974 June 30</unitdate>
-          <container id="f217b7f88537f3d54bbbdec0056836a6" label="mixed materials" type="box">1</container>
-          <container id="49364602bcd4e6516377c34d562f921f" parent="f217b7f88537f3d54bbbdec0056836a6" type="folder">13</container>
-        </did>
-      </c>
-      <c id="889f7c039a844fce9b5c488ff4e0b80d" level="file">
-        <did>
-          <unittitle>Committee for the Future of the University (Haggerty Committee)</unittitle>
-          <unitdate normal="1973/1974" type="inclusive">1973-1974</unitdate>
-          <container id="c242bbc8b0d3b249146bebd9d64aecdf" label="mixed materials" type="box">1</container>
-          <container id="cb7d2f05c55fed6050653e13153ac8d2" parent="c242bbc8b0d3b249146bebd9d64aecdf" type="folder">14</container>
-          <container id="b3333c0e813c7ee28fb61fcba81a3ef9" label="mixed materials" type="box">2</container>
-          <container id="13529c23c2a53f57788b0b5a06d904b5" parent="b3333c0e813c7ee28fb61fcba81a3ef9" type="folder">1-4</container>
-        </did>
-      </c>
-      <c id="bd5cb3170e1bc5bcb5b259911f5274a3" level="file">
-        <did>
-          <unittitle>Finance Committee</unittitle>
-          <unitdate normal="1975/1976" type="inclusive">FY 1975</unitdate>
-          <container id="87a89f2acb3cadbb0b3e76b918958855" label="mixed materials" type="box">2</container>
-          <container id="2f63f0c380aaa427927e09011ea98ad7" parent="87a89f2acb3cadbb0b3e76b918958855" type="folder">5-6</container>
-        </did>
-      </c>
-      <c id="8f9c8474b1629010409e5885db38fb01" level="file">
-        <did>
-          <unittitle>Finance Committee</unittitle>
-          <unitdate normal="1976/1976">1976</unitdate>
-          <container id="b8b32cf99009fe87ada9e0522b603e51" label="mixed materials" type="box">2</container>
-          <container id="866ed0b4aa3b9b75093b1c28c77dfc39" parent="b8b32cf99009fe87ada9e0522b603e51" type="folder">7-10</container>
-        </did>
-      </c>
-      <c id="dc2562e14b014e178a59da50253e0965" level="file">
-        <did>
-          <unittitle>Proceedings of seminar for trustees of educational institutions</unittitle>
-          <unitdate normal="1977/1977" type="inclusive">1977</unitdate>
-          <container id="de1c74a7f8de0f1f70438c3bca222c31" label="mixed materials" type="box">2</container>
-          <container id="535cdd2542d902065eec9190c4870bc3" parent="de1c74a7f8de0f1f70438c3bca222c31" type="folder">11</container>
-        </did>
-      </c>
-      <c id="0c98a2d6d17341fd84972d2333b3f643" level="file">
-        <did>
-          <unittitle>Financial Report Supplement</unittitle>
-          <unitdate normal="1977/1977" type="inclusive">1977 June 30</unitdate>
-          <container id="8d02d04d921c530160efd32f3c1209a0" label="mixed materials" type="box">2</container>
-          <container id="cf85e93820dad3ba57a4cfd27fc1dc53" parent="8d02d04d921c530160efd32f3c1209a0" type="folder">12</container>
-        </did>
-      </c>
-      <c id="fc899bab7d9f0dba100688b028562aa8" level="file">
-        <did>
-          <unittitle>Finance Committee</unittitle>
-          <unitdate normal="1977/1977">1977</unitdate>
-          <container id="58994153ca378427e1b37f245ab8480f" label="mixed materials" type="box">2</container>
-          <container id="a7b828da9bc8783cb69c0ae4c0de02bc" parent="58994153ca378427e1b37f245ab8480f" type="folder">13-14</container>
-        </did>
-      </c>
-      <c id="337dc7a2d9704cccb503eff25d44ff66" level="file">
-        <did>
-          <unittitle>Joint Finance and Budget Committee</unittitle>
-          <unitdate normal="1983/1984" type="inclusive">1983-1984</unitdate>
-          <container id="f0c98168f3020e138e135886470e3b7e" label="mixed materials" type="box">2</container>
-          <container id="759c88259db91e8a23ca16d6f4bb8990" parent="f0c98168f3020e138e135886470e3b7e" type="folder">15</container>
-        </did>
-      </c>
-      <c id="3b5492686c9a4d729dac3b1a46810188" level="file">
-        <did>
-          <unittitle>Finance Committee</unittitle>
-          <unitdate normal="1984/1984">1984</unitdate>
-          <container id="a6a100bebfc9569202c472f638e2790a" label="mixed materials" type="box">2</container>
-          <container id="7036cf73ed4aba1edab8b48d715aad68" parent="a6a100bebfc9569202c472f638e2790a" type="folder">16</container>
-        </did>
-      </c>
-      <c id="037fff32fcf9408296758b47b77967dd" level="file">
-        <did>
-          <unittitle>Finance Committee</unittitle>
-          <unitdate normal="1990/1990">1990</unitdate>
-          <container id="7113042ca615eb32e42e54ad8326a98c" label="mixed materials" type="box">3</container>
-          <container id="8e44f400aa49c3817e5e30932b738b3f" parent="7113042ca615eb32e42e54ad8326a98c" type="folder">1</container>
-        </did>
-      </c>
-      <c id="f635cb62cd8f47a0ad913d469a19f753" level="file">
-        <did>
-          <unittitle>New York State Coalition for Independent Colleges and Universities</unittitle>
-          <unitdate normal="1990/1990">1990</unitdate>
-          <container id="b31598a793f689629b341b69047c79b8" label="mixed materials" type="box">3</container>
-          <container id="5c46376ba456693b343b107875cced27" parent="b31598a793f689629b341b69047c79b8" type="folder">2</container>
-        </did>
-      </c>
-      <c id="5306a38cc95d5fc72dc2b7ea580f2b13" level="file">
-        <did>
-          <unittitle>Finance Committee</unittitle>
-          <unitdate normal="1991/1991">1991</unitdate>
-          <container id="7cf4182389e12a4b8f91577c1c88b684" label="mixed materials" type="box">3</container>
-          <container id="d2df2495da9d97a1d109d563c4c01651" parent="7cf4182389e12a4b8f91577c1c88b684" type="folder">3-5</container>
-        </did>
-        <accessrestrict id="2291577d05ee46e545321fda57c3b89a">
-          <head>Conditions Governing Access</head>
-          <p>Restricted from scholarly research - Open in 2017</p>
-        </accessrestrict>
-      </c>
-      <c id="8cd3f37c866a5130e5c669e1a1b995bc" level="file">
-        <did>
-          <unittitle>Finance Committee</unittitle>
-          <unitdate normal="1992/1992">1992</unitdate>
-          <container id="d13fc9a29d5ae461ba2f07b9ce362de1" label="mixed materials" type="box">3</container>
-          <container id="e6bd331e9ebf4c50198bb9d82c834061" parent="d13fc9a29d5ae461ba2f07b9ce362de1" type="folder">6</container>
-        </did>
-        <accessrestrict id="e6c20bc8438e2ed24a1a05ecdf50352c">
-          <head>Conditions Governing Access</head>
-          <p>Restricted from scholarly research - Open in 2018</p>
-        </accessrestrict>
-      </c>
-      <c id="6e6f40f688b2215f149cdc7a791d0442" level="file">
-        <did>
-          <unittitle>Finance Committee</unittitle>
-          <unitdate normal="1993/1993">1993</unitdate>
-          <container id="e82369d7af419d40b4159b867a2993d6" label="mixed materials" type="box">3</container>
-          <container id="89d68b13f797e37627a4d48623e67fdc" parent="e82369d7af419d40b4159b867a2993d6" type="folder">7-8</container>
-        </did>
-        <accessrestrict id="8bd7f078f52b9d61ab6cfa31939574c5">
-          <head>Conditions Governing Access</head>
-          <p>Restricted from scholarly access - Open in 2019</p>
-        </accessrestrict>
-      </c>
-      <c id="0af09f75baa366df5ac75ed3a7db1312" level="file">
-        <did>
-          <unittitle>Development and Academic Planning Files</unittitle>
-          <unitdate normal="1990/1993" type="inclusive">1990-1993</unitdate>
-          <container id="c7898eedc1d8a3e980b72c26fe8e2a61" label="mixed materials" type="box">3</container>
-          <container id="7cb811f51da87f1f4212149333e8a7b8" parent="c7898eedc1d8a3e980b72c26fe8e2a61" type="folder">9</container>
-        </did>
-        <accessrestrict id="c315fb7e58d5036f73d12910568490ef">
-          <head>Conditions Governing Access</head>
-          <p>Restricted from scholarly access - Open in 2019</p>
-        </accessrestrict>
-      </c>
-      <c id="6232f4a599d8167495723377992cfdd2" level="file">
-        <did>
-          <unittitle>Finance Committee</unittitle>
-          <unitdate normal="1994/1994">1994</unitdate>
-          <container id="a25a2e7f238c09dc9cb4d70393d0d4d9" label="mixed materials" type="box">3</container>
-          <container id="4cbf812a5f0fb914eab8063c25697d2d" parent="a25a2e7f238c09dc9cb4d70393d0d4d9" type="folder">10</container>
-        </did>
-        <accessrestrict id="a92230daf79928ec6cd44fadbe1df111">
-          <head>Conditions Governing Access</head>
-          <p>Restricted from scholarly access - Open in 2020</p>
-        </accessrestrict>
-      </c>
-      <c id="caf3b204024d7c3b2116424a15733aac" level="file">
-        <did>
-          <unittitle>Finance Committee</unittitle>
-          <unitdate normal="1995/1995">1995</unitdate>
-          <container id="89606d65f35d05f9243a1db1c437f125" label="mixed materials" type="box">3</container>
-          <container id="768272be9057e872e243cb4eacb9e31c" parent="89606d65f35d05f9243a1db1c437f125" type="folder">11</container>
-        </did>
-        <accessrestrict id="d844a5865f9f6868b14e885b4d96a4e6">
-          <head>Conditions Governing Access</head>
-          <p>Restricted from scholarly access - Open in 2021</p>
-        </accessrestrict>
-      </c>
-      <c id="a4554248380e624cee48822d32b7d95f" level="file">
-        <did>
-          <unittitle>Finance Committee</unittitle>
-          <unitdate normal="1996/1996">1996</unitdate>
-          <container id="50fa668691b437eb9da91de32a964276" label="mixed materials" type="box">3</container>
-          <container id="c3b0a8bea004a268d7ef5567669af56c" parent="50fa668691b437eb9da91de32a964276" type="folder">12-13</container>
-        </did>
-        <accessrestrict id="3c03fcee6cf956a7f9e12e1094b5d835">
-          <head>Conditions Governing Access</head>
-          <p>Restricted from scholarly access - Open in 2022</p>
-        </accessrestrict>
-      </c>
-      <c id="9934e272dd1212549f2860b0d0406203" level="file">
-        <did>
-          <unittitle>Finance Committee and Audit Files</unittitle>
-          <unitdate normal="1997/1998" type="inclusive">1997-1998</unitdate>
-          <container id="c0eed86c0505fb2b99be933ee2f666f1" label="mixed materials" type="box">3</container>
-          <container id="411e106c7266f2f9dc0b174aba59cd25" parent="c0eed86c0505fb2b99be933ee2f666f1" type="folder">14-17</container>
-        </did>
-        <accessrestrict id="458eb5d642ff75eca0c6236d917b37ce">
-          <head>Conditions Governing Access</head>
-          <p>Restricted from scholarly access - Open in 2024</p>
-        </accessrestrict>
-      </c>
-    </dsc>
-  </archdesc>
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid>FA1007.xml</eadid><filedesc><titlestmt><titleproper type="filing">Rockefeller University records, Corporation, Board of Trustees, Finance Committee</titleproper><titleproper>A Guide to the Rockefeller University records, Corporation, Board of Trustees, Finance Committee
+ <num>FA1007</num></titleproper></titlestmt><publicationstmt><publisher>Rockefeller Archive Center</publisher><address><addressline>15 Dayton Avenue</addressline><addressline>Sleepy Hollow 10591</addressline><addressline>archive@rockarch.org</addressline><addressline>URL: <extptr xlink:href="http://www.rockarch.org" xlink:show="new" xlink:title="http://www.rockarch.org" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2019-09-19 02:04:18 -0400</date>.</creation><langusage>English</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
+  <did>
+    <langmaterial>
+      <language langcode="eng">English</language>
+    </langmaterial>
+    <repository>
+      <corpname>Rockefeller Archive Center</corpname>
+    </repository>
+    <unittitle>Rockefeller University records, Corporation, Board of Trustees, Finance Committee</unittitle>
+    <origination label="creator">
+      <corpname role="aut" source="naf">Rockefeller University</corpname>
+    </origination>
+    <unitid>FA1007</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">3.93 Cubic Feet</extent>
+      <extent altrender="carrier">3 record storage cartons.</extent>
+    </physdesc>
+    <unitdate normal="1967/1997" type="inclusive">1967-1997</unitdate>
+    <physdesc id="98c954f86b3b4b4201561b2b86ffcf72">3 record storage cartons.</physdesc>
+  </did>
+  <accessrestrict id="1e550918fde6aaa1363542977afd63e6">
+    <head>Conditions Governing Access</head>
+<p>Records more than 25 years old are open for research. Brittle or damaged items are available at the discretion of RAC.</p>  </accessrestrict>
+  <otherfindaid id="a0a86ccb9e853b0f19b12e099c68073b">
+    <head>Other Finding Aids</head>
+<p>For Finance Committee records currently open for scholarly research see:</p><p>FA1017 Rockefeller University records, Corporation, Board of Trustees, Finance Committee, Minutes</p>  </otherfindaid>
+  <fileplan id="0169b8eead7549050007e2f10d5e77a3">
+    <head>File Plan</head>
+<p>Former Classification: I 140-U</p>  </fileplan>
+  <prefercite id="ca0a7dd8c53392fd54ddfa4f38094eef">
+    <head>Preferred Citation</head>
+<p>Information regarding the Rockefeller Archive Center's preferred elements and forms of citation can be found at <extref href="http://www.rockarch.org/research/citations.php">http://www.rockarch.org/research/citations.php</extref></p>  </prefercite>
+  <processinfo id="8cd2388d85d3d318ed45820693eec01f">
+    <head>Processing Information</head>
+<p>Minimal Processing. Some material remains in original file folders.</p>  </processinfo>
+  <arrangement id="0e26a0864dca973aaf5592d2c049935a">
+    <head>Arrangement</head>
+<p>Primarily chronological</p>  </arrangement>
+  <scopecontent id="a18af536f205403e3f34afa0b92bbfc8">
+    <head>Scope and Contents</head>
+<p>Contains Finance Committee meeting records, agendas, minutes, correspondence and associated financial reports.</p>  </scopecontent>
+  <dsc><c id="c37b044b3b9d4601964738e44e1a91fe" level="file"><did><unittitle>Finance Committee</unittitle><unitdate normal="1967/1968" type="inclusive">Fiscal Year (FY) 1967 July-1968 June</unitdate><container id="7e14ec47060d9e922228c14123fcfb51" label="mixed materials" type="box">1</container><container id="d772fec85352dff9d29298ae90954bac" parent="7e14ec47060d9e922228c14123fcfb51" type="folder">1</container></did></c><c id="9f90198ebda94119bfb79c498d777fb3" level="file"><did><unittitle>Finance Committee</unittitle><unitdate normal="1968/1969" type="inclusive">FY 1968 July-1969 June</unitdate><container id="42107b430b9d84c09f767fbc98823697" label="mixed materials" type="box">1</container><container id="e2bdfbbf78cdf50db8021a40247b3885" parent="42107b430b9d84c09f767fbc98823697" type="folder">2</container></did></c><c id="a1966bebfe5b4dd7a9f6ed1ad708f07c" level="file"><did><unittitle>Finance Committee</unittitle><unitdate normal="1969/1970" type="inclusive">FY 1969 July-1970 June</unitdate><container id="3ea45ec41d87222e945a2156c965521b" label="mixed materials" type="box">1</container><container id="b38654c7d8d2908bdee6c0b21e0af887" parent="3ea45ec41d87222e945a2156c965521b" type="folder">3</container></did></c><c id="295b50e2ccf7416ab8e4bfcfe0826e00" level="file"><did><unittitle>Finance Committee</unittitle><unitdate normal="1970/1971" type="inclusive">FY 1970 July-1971 June</unitdate><container id="a2ea3a672ccf21a654ff8397a80e424b" label="mixed materials" type="box">1</container><container id="426d1401b25761c4e25b669650827aa4" parent="a2ea3a672ccf21a654ff8397a80e424b" type="folder">4</container></did></c><c id="f1c4c81826fb43cf9b259a0206682323" level="file"><did><unittitle>Financial Report Supplement</unittitle><unitdate normal="1971/1971" type="inclusive">1971 June 30</unitdate><container id="6aa0c6f49158e4e7c475cbd4394db507" label="mixed materials" type="box">1</container><container id="2ecf9b7f681bd3bab38dfd407c49680a" parent="6aa0c6f49158e4e7c475cbd4394db507" type="folder">5</container></did></c><c id="31f5127574744e3eacbdb2ae9f41e3cf" level="file"><did><unittitle>Finance Committee</unittitle><unitdate normal="1971/1972" type="inclusive">1971 July-1972 June</unitdate><container id="b4b32e57b8e0a033e3eafb52f082a41e" label="mixed materials" type="box">1</container><container id="90cb7bb92b42182ffae3ec6c66998f1a" parent="b4b32e57b8e0a033e3eafb52f082a41e" type="folder">6</container></did></c><c id="ff925d758cc545e198f82a0808500db7" level="file"><did><unittitle>Finance Committee</unittitle><unitdate normal="1972/1972" type="inclusive">1972 May 17</unitdate><container id="c1d1c41497c9a0d50fd84593d6bf2a0d" label="mixed materials" type="box">1</container><container id="5a5b8e71636ed84492417e7ccf2eb955" parent="c1d1c41497c9a0d50fd84593d6bf2a0d" type="folder">7</container></did></c><c id="051b2de515c2454aa78e94c0ff53b2da" level="file"><did><unittitle>Finance Committee</unittitle><unitdate normal="1972/1973" type="inclusive">FY 1972 July-1973 June</unitdate><container id="85346e162c3579f675baec6f45d1bdbd" label="mixed materials" type="box">1</container><container id="24bde206a687255190f13cd06ad726b6" parent="85346e162c3579f675baec6f45d1bdbd" type="folder">8-9</container></did></c><c id="0706ec6c07e940e3987b32a40fee99f5" level="file"><did><unittitle>Analysis of financial resources</unittitle><unitdate normal="1973/1973" type="inclusive">1973 May 3</unitdate><container id="5ad8a71e7942cf3a879b2493a1d46448" label="mixed materials" type="box">1</container><container id="feceffee5e1a58fc84a0434c9ce22f38" parent="5ad8a71e7942cf3a879b2493a1d46448" type="folder">10</container></did></c><c id="13f7591917dd4104ad233a638302d72a" level="file"><did><unittitle>Financial Report Supplement</unittitle><unitdate normal="1973/1973" type="inclusive">1973 June 30</unitdate><container id="11a6e7bbda4c7e8001d6d826279c76b7" label="mixed materials" type="box">1</container><container id="bee201fe55e551bff47baea92932b521" parent="11a6e7bbda4c7e8001d6d826279c76b7" type="folder">11</container></did></c><c id="fc94d9b9c06a4d5c9a864d5b13fa8a1f" level="file"><did><unittitle>Finance Committee</unittitle><unitdate normal="1974/1974" type="inclusive">FY 1974</unitdate><container id="a476b894c0c0d4189495708405457168" label="mixed materials" type="box">1</container><container id="591b0bfa1dea57cf8056814fb548d344" parent="a476b894c0c0d4189495708405457168" type="folder">12</container></did></c><c id="968344256bbd4c658f3c81379a208ae1" level="file"><did><unittitle>Financial Report Supplement</unittitle><unitdate normal="1974/1974" type="inclusive">1974 June 30</unitdate><container id="aa5be820d1677153628aaedcad871246" label="mixed materials" type="box">1</container><container id="be2021f807551515699917828c179e4e" parent="aa5be820d1677153628aaedcad871246" type="folder">13</container></did></c><c id="889f7c039a844fce9b5c488ff4e0b80d" level="file"><did><unittitle>Committee for the Future of the University (Haggerty Committee)</unittitle><unitdate normal="1973/1974" type="inclusive">1973-1974</unitdate><container id="5dcc96dc07a8078c56a235464a12316d" label="mixed materials" type="box">1</container><container id="5ce2b628c13d0720a422451c6a0c3d5a" parent="5dcc96dc07a8078c56a235464a12316d" type="folder">14</container><container id="6e610445476e17a55c427b78f26d0723" label="mixed materials" type="box">2</container><container id="fdc4bdc90fa1848045e7abbecf95b9b8" parent="6e610445476e17a55c427b78f26d0723" type="folder">1-4</container></did></c><c id="bd5cb3170e1bc5bcb5b259911f5274a3" level="file"><did><unittitle>Finance Committee</unittitle><unitdate normal="1975/1976" type="inclusive">FY 1975</unitdate><container id="223fc93f4bb15afd8b1983219ddcf38d" label="mixed materials" type="box">2</container><container id="054b56154cea33cd2757ff4bcfd5126f" parent="223fc93f4bb15afd8b1983219ddcf38d" type="folder">5-6</container></did></c><c id="8f9c8474b1629010409e5885db38fb01" level="file"><did><unittitle>Finance Committee</unittitle><unitdate normal="1976/1976">1976</unitdate><container id="739b4c63eb8ad01cf1fc4af368524feb" label="mixed materials" type="box">2</container><container id="95b6e819c302f90ef871e52b35e54824" parent="739b4c63eb8ad01cf1fc4af368524feb" type="folder">7-10</container></did></c><c id="dc2562e14b014e178a59da50253e0965" level="file"><did><unittitle>Proceedings of seminar for trustees of educational institutions</unittitle><unitdate normal="1977/1977" type="inclusive">1977</unitdate><container id="84ecb2c7e3e8f9d35618a0c175a805d6" label="mixed materials" type="box">2</container><container id="5c64a977a840d3e6c2bf4b0572ff3635" parent="84ecb2c7e3e8f9d35618a0c175a805d6" type="folder">11</container></did></c><c id="0c98a2d6d17341fd84972d2333b3f643" level="file"><did><unittitle>Financial Report Supplement</unittitle><unitdate normal="1977/1977" type="inclusive">1977 June 30</unitdate><container id="03a8ecd69a3ee678e4723f1eb293be49" label="mixed materials" type="box">2</container><container id="30ad7043e2d8e7159e31090deeb39d60" parent="03a8ecd69a3ee678e4723f1eb293be49" type="folder">12</container></did></c><c id="fc899bab7d9f0dba100688b028562aa8" level="file"><did><unittitle>Finance Committee</unittitle><unitdate normal="1977/1977">1977</unitdate><container id="f8acaf5f90b218a0c56f8608307681de" label="mixed materials" type="box">2</container><container id="e54ec2fdc0afbcc0abdaaa51e18ba361" parent="f8acaf5f90b218a0c56f8608307681de" type="folder">13-14</container></did></c><c id="337dc7a2d9704cccb503eff25d44ff66" level="file"><did><unittitle>Joint Finance and Budget Committee</unittitle><unitdate normal="1983/1984" type="inclusive">1983-1984</unitdate><container id="c5088c8394de51c6380fbf9410d57455" label="mixed materials" type="box">2</container><container id="317bfe953ef8d2f73f2bc67b4c1a4276" parent="c5088c8394de51c6380fbf9410d57455" type="folder">15</container></did></c><c id="3b5492686c9a4d729dac3b1a46810188" level="file"><did><unittitle>Finance Committee</unittitle><unitdate normal="1984/1984">1984</unitdate><container id="5ada05afd9a287da6f37d52842b411d1" label="mixed materials" type="box">2</container><container id="b8345d537b53104624276dfc1664992e" parent="5ada05afd9a287da6f37d52842b411d1" type="folder">16</container></did></c><c id="037fff32fcf9408296758b47b77967dd" level="file"><did><unittitle>Finance Committee</unittitle><unitdate normal="1990/1990">1990</unitdate><container id="eede0ab83328a6ae29702953596f3a7b" label="mixed materials" type="box">3</container><container id="2349967862c17b342ec86c7572c6a158" parent="eede0ab83328a6ae29702953596f3a7b" type="folder">1</container></did></c><c id="f635cb62cd8f47a0ad913d469a19f753" level="file"><did><unittitle>New York State Coalition for Independent Colleges and Universities</unittitle><unitdate normal="1990/1990">1990</unitdate><container id="c41792b37522f7cae3d2a24b62b88aeb" label="mixed materials" type="box">3</container><container id="0707f6a6a4e9148f7e9490af0d103731" parent="c41792b37522f7cae3d2a24b62b88aeb" type="folder">2</container></did></c><c id="5306a38cc95d5fc72dc2b7ea580f2b13" level="file"><did><unittitle>Finance Committee</unittitle><unitdate normal="1991/1991">1991</unitdate><container id="a79d7dc5cd318ccf3cf3514fab70201b" label="mixed materials" type="box">3</container><container id="6b8752400b37bb878408af79de7ad4a2" parent="a79d7dc5cd318ccf3cf3514fab70201b" type="folder">3-5</container></did><accessrestrict id="2291577d05ee46e545321fda57c3b89a"><head>Conditions Governing Access</head><p>Restricted from scholarly research - Open in 2017</p></accessrestrict></c><c id="8cd3f37c866a5130e5c669e1a1b995bc" level="file"><did><unittitle>Finance Committee</unittitle><unitdate normal="1992/1992">1992</unitdate><container id="7ee5909fe8fe18c36089485247566295" label="mixed materials" type="box">3</container><container id="23b8932ea210c8acd1e89207c10bbbab" parent="7ee5909fe8fe18c36089485247566295" type="folder">6</container></did><accessrestrict id="e6c20bc8438e2ed24a1a05ecdf50352c"><head>Conditions Governing Access</head><p>Restricted from scholarly research - Open in 2018</p></accessrestrict></c><c id="6e6f40f688b2215f149cdc7a791d0442" level="file"><did><unittitle>Finance Committee</unittitle><unitdate normal="1993/1993">1993</unitdate><container id="9e96dc70e7c3a6aff5170ce625e3b54f" label="mixed materials" type="box">3</container><container id="4684d780e66240ee388c88809243d268" parent="9e96dc70e7c3a6aff5170ce625e3b54f" type="folder">7-8</container></did><accessrestrict id="8bd7f078f52b9d61ab6cfa31939574c5"><head>Conditions Governing Access</head><p>Restricted from scholarly access - Open in 2019</p></accessrestrict></c><c id="0af09f75baa366df5ac75ed3a7db1312" level="file"><did><unittitle>Development and Academic Planning Files</unittitle><unitdate normal="1990/1993" type="inclusive">1990-1993</unitdate><container id="8af4c1c95b3d5a6dc58ade4b597fe4c8" label="mixed materials" type="box">3</container><container id="554bd21760695aedadbfb6c58557c3bb" parent="8af4c1c95b3d5a6dc58ade4b597fe4c8" type="folder">9</container></did><accessrestrict id="c315fb7e58d5036f73d12910568490ef"><head>Conditions Governing Access</head><p>Restricted from scholarly access - Open in 2019</p></accessrestrict></c><c id="6232f4a599d8167495723377992cfdd2" level="file"><did><unittitle>Finance Committee</unittitle><unitdate normal="1994/1994">1994</unitdate><container id="e7d020e4e2a18c0b653769b9de1b99be" label="mixed materials" type="box">3</container><container id="be2d520d12625b62730f6626f9970770" parent="e7d020e4e2a18c0b653769b9de1b99be" type="folder">10</container></did><accessrestrict id="a92230daf79928ec6cd44fadbe1df111"><head>Conditions Governing Access</head><p>Restricted from scholarly access - Open in 2020</p></accessrestrict></c><c id="caf3b204024d7c3b2116424a15733aac" level="file"><did><unittitle>Finance Committee</unittitle><unitdate normal="1995/1995">1995</unitdate><container id="d7085a7d7c6500b5211d6aff6d0745d6" label="mixed materials" type="box">3</container><container id="22c306e3e2ecce59592bfdcbccfd7e0c" parent="d7085a7d7c6500b5211d6aff6d0745d6" type="folder">11</container></did><accessrestrict id="d844a5865f9f6868b14e885b4d96a4e6"><head>Conditions Governing Access</head><p>Restricted from scholarly access - Open in 2021</p></accessrestrict></c><c id="a4554248380e624cee48822d32b7d95f" level="file"><did><unittitle>Finance Committee</unittitle><unitdate normal="1996/1996">1996</unitdate><container id="e897a0a927b71724c4772923ba8c258a" label="mixed materials" type="box">3</container><container id="736b846f777520540384217309c83737" parent="e897a0a927b71724c4772923ba8c258a" type="folder">12-13</container></did><accessrestrict id="3c03fcee6cf956a7f9e12e1094b5d835"><head>Conditions Governing Access</head><p>Restricted from scholarly access - Open in 2022</p></accessrestrict></c><c id="9934e272dd1212549f2860b0d0406203" level="file"><did><unittitle>Finance Committee and Audit Files</unittitle><unitdate normal="1997/1998" type="inclusive">1997-1998</unitdate><container id="73b1658a4a7651d616316a99ed6ea001" label="mixed materials" type="box">3</container><container id="e1f3e6cd5bcf9e2252d41e394d891936" parent="73b1658a4a7651d616316a99ed6ea001" type="folder">14-17</container></did><accessrestrict id="458eb5d642ff75eca0c6236d917b37ce"><head>Conditions Governing Access</head><p>Restricted from scholarly access - Open in 2024</p></accessrestrict></c></dsc>
+</archdesc>
 </ead>
