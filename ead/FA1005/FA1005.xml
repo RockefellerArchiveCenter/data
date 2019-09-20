@@ -1,164 +1,47 @@
-<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
-  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" repositoryencoding="iso15511">
-    <eadid>FA1005.xml</eadid>
-    <filedesc>
-      <titlestmt>
-        <titleproper type="filing">Rockefeller University records, Corporation, Board of Trustees, Executive Committee, Minutes
-</titleproper>
-        <titleproper>A Guide to the Rockefeller University records, Corporation, Board of Trustees, Executive Committee, Minutes
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid>FA1005.xml</eadid><filedesc><titlestmt><titleproper type="filing">Rockefeller University records, Corporation, Board of Trustees, Executive Committee, Minutes
+</titleproper><titleproper>A Guide to the Rockefeller University records, Corporation, Board of Trustees, Executive Committee, Minutes
 
- <num>FA1005</num></titleproper>
-      </titlestmt>
-      <publicationstmt>
-        <publisher>Rockefeller Archive Center</publisher>
-        <address>
-          <addressline>15 Dayton Avenue</addressline>
-          <addressline>Sleepy Hollow 10591</addressline>
-          <addressline>archive@rockarch.org</addressline>
-          <addressline>URL: <extptr xlink:href="http://www.rockarch.org" xlink:show="new" xlink:title="http://www.rockarch.org" xlink:type="simple"/></addressline>
-        </address>
-      </publicationstmt>
-    </filedesc>
-    <profiledesc>
-      <creation>This finding aid was produced using ArchivesSpace on <date>2017-03-02 01:55:16 -0500</date>.</creation>
-      <langusage>English</langusage>
-      <descrules>Describing Archives: A Content Standard</descrules>
-    </profiledesc>
-  </eadheader>
-  <archdesc level="collection">
-    <did>
-      <langmaterial>
-        <language langcode="eng">English</language>
-      </langmaterial>
-      <repository>
-        <corpname>Rockefeller Archive Center</corpname>
-      </repository>
-      <unittitle>Rockefeller University records, Corporation, Board of Trustees, Executive Committee, Minutes</unittitle>
-      <origination label="creator">
-        <corpname role="aut" source="lcnaf">Rockefeller University</corpname>
-      </origination>
-      <unitid>FA1005</unitid>
-      <physdesc altrender="whole">
-        <extent altrender="materialtype spaceoccupied">2.2 Cubic Feet</extent>
-        <extent altrender="carrier">5 document boxes.</extent>
-      </physdesc>
-      <unitdate normal="1977/1993" type="inclusive">1977-1986, 1990-1993</unitdate>
-    </did>
-    <accessrestrict id="5851ac330feca624d8203fffe418d551">
-      <head>Conditions Governing Access</head>
-      <p>Records more than 25 years old are open for scholarly research. Brittle or damaged items are available at the discretion of RAC.</p>
-    </accessrestrict>
-    <fileplan id="bf1da7bf5890b733083ee2e6e4874f0a">
-      <head>File Plan</head>
-      <p>Former Classification: I 138-U</p>
-    </fileplan>
-    <otherfindaid id="d95934fd2d4ab0ec910f8644040136ed">
-      <head>Other Finding Aids</head>
-      <p>For additional Executive Committee Minutes please see:</p>
-      <p>FA1016 Rockefeller University records, Corporation, Board of Trustees, Executive Committee, Minutes, 1969-1986.</p>
-    </otherfindaid>
-    <prefercite id="c5136f8a7697e2d3efe87d5410f0189c">
-      <head>Preferred Citation</head>
-      <p>Information regarding the Rockefeller Archive Center's preferred elements and forms of citation can be found at <extref href="http://www.rockarch.org/research/citations.php">http://www.rockarch.org/research/citations.php</extref></p>
-    </prefercite>
-    <processinfo id="b3d017c09fa6ea93847127147174233f">
-      <head>Processing Information</head>
-      <p>Level 2 Minimal Processing Material. Some materials remain in original folders and storage boxes.</p>
-    </processinfo>
-    <scopecontent id="d057bcd0e27912a63e07b5092533069b">
-      <head>Scope and Contents</head>
-      <p>Includes Minutes and Working Files.</p>
-    </scopecontent>
-    <arrangement id="3f5ddcc9057f0d23143f0ccd214de8ac">
-      <head>Arrangement</head>
-      <p>As received.</p>
-    </arrangement>
-    <dsc>
-      <c id="2f1dd6568898452aa2638cb8ec773c71" level="file">
-        <did>
-          <unittitle>Executive Committee Minutes</unittitle>
-          <unitdate normal="1977/1977" type="inclusive">1977</unitdate>
-          <container id="bd7ade871ebf4420f0a3e637c4437e89" label="mixed materials" type="box">1</container>
-          <container id="b783f7af9d1277b1a619e3649345746b" parent="bd7ade871ebf4420f0a3e637c4437e89" type="folder">1</container>
-        </did>
-      </c>
-      <c id="3384fa97d474471ca673c78616528fb4" level="file">
-        <did>
-          <unittitle>Executive Committee Minutes</unittitle>
-          <unitdate normal="1978/1979" type="inclusive">1978-1979</unitdate>
-          <container id="14a4ce88d9c641a7d01172341887e783" label="mixed materials" type="box">1</container>
-          <container id="6b3cdf2578d14797dda66aef3646afec" parent="14a4ce88d9c641a7d01172341887e783" type="folder">2</container>
-        </did>
-      </c>
-      <c id="784b84b5599f414489375d8d690be2ac" level="file">
-        <did>
-          <unittitle>Executive Committee Minutes</unittitle>
-          <unitdate normal="1980/1981" type="inclusive">1980-1981</unitdate>
-          <container id="8bc42aaafdc82686b78a37ea04037a64" label="mixed materials" type="box">2</container>
-          <container id="1f24fc3ad5e475efa6b37bc1cdd302c1" parent="8bc42aaafdc82686b78a37ea04037a64" type="folder">3</container>
-        </did>
-      </c>
-      <c id="b344a6b04ab344fc8bdfba905e32f5fd" level="file">
-        <did>
-          <unittitle>Executive Committee Minutes</unittitle>
-          <unitdate normal="1982/1982">1982 March 19</unitdate>
-          <container id="bad9beae2f04f0e9bfb3e6ae8f6ad2c4" label="mixed materials" type="box">2</container>
-          <container id="d8957a15fcfdcf085e393f7c1237ba1d" parent="bad9beae2f04f0e9bfb3e6ae8f6ad2c4" type="folder">4</container>
-        </did>
-      </c>
-      <c id="30776481a5f249e298f469084bc427ab" level="file">
-        <did>
-          <unittitle>Executive Committee Minutes</unittitle>
-          <unitdate normal="1982/1986" type="inclusive">1982-1986</unitdate>
-          <physdesc id="0415d2c39b504c6a71eb7957c6e84c54">Bound volume.</physdesc>
-          <container id="f19c23830c7cb3a1198836444e1a50b1" label="mixed materials" type="box">3</container>
-          <container id="c159df9b37d894eb452d9eba2b657ee0" parent="f19c23830c7cb3a1198836444e1a50b1" type="folder">5</container>
-        </did>
-      </c>
-      <c id="f4b139507ea9402c8b3a897088cbef5f" level="file">
-        <did>
-          <unittitle>Executive Committee Minutes</unittitle>
-          <unitdate normal="1990/1990" type="inclusive">1990</unitdate>
-          <container id="155dbfd82e480c2ac7d59c3e1f4af852" label="mixed materials" type="box">3</container>
-          <container id="3f0c296638835835af1b749578a2efcd" parent="155dbfd82e480c2ac7d59c3e1f4af852" type="folder">6</container>
-        </did>
-      </c>
-      <c id="96904be266a3484bac860f0e713b9d87" level="file">
-        <did>
-          <unittitle>Executive Committee Minutes</unittitle>
-          <unitdate normal="1991/1991" type="inclusive">1991</unitdate>
-          <container id="0baf3691a02feae3836892612e000a9a" label="mixed materials" type="box">4</container>
-          <container id="37c07ca4fb8882452d791478c32091aa" parent="0baf3691a02feae3836892612e000a9a" type="folder">7</container>
-        </did>
-        <accessrestrict id="b0050c5525818a45cc82888a7ba32fb7">
-          <head>Conditions Governing Access</head>
-          <p>Restricted from scholarly access - Open in 2017</p>
-        </accessrestrict>
-      </c>
-      <c id="2d6d5efb51704be8be39dc3a8a5e1d5f" level="file">
-        <did>
-          <unittitle>Executive Committee Minutes</unittitle>
-          <unitdate normal="1992/1992" type="inclusive">1992</unitdate>
-          <container id="749f8000309323c1a551f4cd6f9ed256" label="mixed materials" type="box">4</container>
-          <container id="2a349ac3c44d89f25104276092ac857d" parent="749f8000309323c1a551f4cd6f9ed256" type="folder">8-10</container>
-        </did>
-        <accessrestrict id="6b093758b0978325d2118aca055fd072">
-          <head>Conditions Governing Access</head>
-          <p>Restricted from scholarly access - Open in 2018</p>
-        </accessrestrict>
-      </c>
-      <c id="2b4d6e3cee5c450db13e5dd994e1c6d9" level="file">
-        <did>
-          <unittitle>Executive Committee Minutes</unittitle>
-          <unitdate normal="1993/1993" type="inclusive">1993</unitdate>
-          <container id="8a1b73523e96ffdd2dc837c98b1ee813" label="mixed materials" type="box">5</container>
-          <container id="f6251f9b3f2bdd020a2e2eec8809b0e0" parent="8a1b73523e96ffdd2dc837c98b1ee813" type="folder">11-14</container>
-        </did>
-        <accessrestrict id="316cb36644d935231884ca672ed6af25">
-          <head>Conditions Governing Access</head>
-          <p>Restricted from scholarly access - Open in 2019</p>
-        </accessrestrict>
-      </c>
-    </dsc>
-  </archdesc>
+ <num>FA1005</num></titleproper></titlestmt><publicationstmt><publisher>Rockefeller Archive Center</publisher><address><addressline>15 Dayton Avenue</addressline><addressline>Sleepy Hollow 10591</addressline><addressline>archive@rockarch.org</addressline><addressline>URL: <extptr xlink:href="http://www.rockarch.org" xlink:show="new" xlink:title="http://www.rockarch.org" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2019-09-20 01:03:07 -0400</date>.</creation><langusage>English</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
+  <did>
+    <langmaterial>
+      <language langcode="eng">English</language>
+    </langmaterial>
+    <repository>
+      <corpname>Rockefeller Archive Center</corpname>
+    </repository>
+    <unittitle>Rockefeller University records, Corporation, Board of Trustees, Executive Committee, Minutes</unittitle>
+    <origination label="creator">
+      <corpname role="aut" source="naf">Rockefeller University</corpname>
+    </origination>
+    <unitid>FA1005</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">2.09 Cubic Feet</extent>
+      <extent altrender="carrier">5 document boxes.</extent>
+    </physdesc>
+    <unitdate normal="1977/1993" type="inclusive">1977-1986, 1990-1993</unitdate>
+  </did>
+  <accessrestrict id="5851ac330feca624d8203fffe418d551">
+    <head>Conditions Governing Access</head>
+<p>Records more than 25 years old are open for scholarly research. Brittle or damaged items are available at the discretion of RAC.</p>  </accessrestrict>
+  <fileplan id="bf1da7bf5890b733083ee2e6e4874f0a">
+    <head>File Plan</head>
+<p>Former Classification: I 138-U</p>  </fileplan>
+  <otherfindaid id="d95934fd2d4ab0ec910f8644040136ed">
+    <head>Other Finding Aids</head>
+<p>For additional Executive Committee Minutes please see:</p><p>FA1016 Rockefeller University records, Corporation, Board of Trustees, Executive Committee, Minutes, 1969-1986.</p>  </otherfindaid>
+  <prefercite id="c5136f8a7697e2d3efe87d5410f0189c">
+    <head>Preferred Citation</head>
+<p>Information regarding the Rockefeller Archive Center's preferred elements and forms of citation can be found at <extref href="http://www.rockarch.org/research/citations.php">http://www.rockarch.org/research/citations.php</extref></p>  </prefercite>
+  <processinfo id="b3d017c09fa6ea93847127147174233f">
+    <head>Processing Information</head>
+<p>Level 2 Minimal Processing Material. Some materials remain in original folders and storage boxes.</p>  </processinfo>
+  <scopecontent id="d057bcd0e27912a63e07b5092533069b">
+    <head>Scope and Contents</head>
+<p>Includes Minutes and Working Files.</p>  </scopecontent>
+  <arrangement id="3f5ddcc9057f0d23143f0ccd214de8ac">
+    <head>Arrangement</head>
+<p>As received.</p>  </arrangement>
+  <dsc><c id="2f1dd6568898452aa2638cb8ec773c71" level="file"><did><unittitle>Executive Committee Minutes</unittitle><unitdate normal="1977/1977" type="inclusive">1977</unitdate><container id="36b2607f64b45832701376aafd9326a1" label="mixed materials" type="box">1</container><container id="776e9eb7ed36df92ef95de826461ba15" parent="36b2607f64b45832701376aafd9326a1" type="folder">1</container></did></c><c id="3384fa97d474471ca673c78616528fb4" level="file"><did><unittitle>Executive Committee Minutes</unittitle><unitdate normal="1978/1979" type="inclusive">1978-1979</unitdate><container id="e30ca80b6313445056fdfb86ac561b55" label="mixed materials" type="box">1</container><container id="7ef948999b7ff48fa42610c41750ddd2" parent="e30ca80b6313445056fdfb86ac561b55" type="folder">2</container></did></c><c id="784b84b5599f414489375d8d690be2ac" level="file"><did><unittitle>Executive Committee Minutes</unittitle><unitdate normal="1980/1981" type="inclusive">1980-1981</unitdate><container id="8be044a2bdd5b45d11bcf7f72a51ffda" label="mixed materials" type="box">2</container><container id="e88ad80fef70ff08bb9b3257adaf0c77" parent="8be044a2bdd5b45d11bcf7f72a51ffda" type="folder">3</container></did></c><c id="b344a6b04ab344fc8bdfba905e32f5fd" level="file"><did><unittitle>Executive Committee Minutes</unittitle><unitdate normal="1982/1982">1982 March 19</unitdate><container id="cc4a76daff2466489a30305b8063b921" label="mixed materials" type="box">2</container><container id="729ecd17ca67f50b7d7e8a277146096f" parent="cc4a76daff2466489a30305b8063b921" type="folder">4</container></did></c><c id="30776481a5f249e298f469084bc427ab" level="file"><did><unittitle>Executive Committee Minutes</unittitle><unitdate normal="1982/1986" type="inclusive">1982-1986</unitdate><physdesc id="0415d2c39b504c6a71eb7957c6e84c54">Bound volume.</physdesc><container id="0a80ef9c0a04cb2aecebf4fb3eb39d3e" label="mixed materials" type="box">3</container><container id="b9e71a38de085c788aba61ebcaa9b180" parent="0a80ef9c0a04cb2aecebf4fb3eb39d3e" type="folder">5</container></did></c><c id="f4b139507ea9402c8b3a897088cbef5f" level="file"><did><unittitle>Executive Committee Minutes</unittitle><unitdate normal="1990/1990" type="inclusive">1990</unitdate><container id="2a7aafdc5cf82eb9fbbce60680428804" label="mixed materials" type="box">3</container><container id="77df8b927234468ef01216b0e690fe94" parent="2a7aafdc5cf82eb9fbbce60680428804" type="folder">6</container></did></c><c id="96904be266a3484bac860f0e713b9d87" level="file"><did><unittitle>Executive Committee Minutes</unittitle><unitdate normal="1991/1991" type="inclusive">1991</unitdate><container id="920d234c080f3dcd21e6e2a575664b6d" label="mixed materials" type="box">4</container><container id="0281a18b691cbdf44952059a3995df90" parent="920d234c080f3dcd21e6e2a575664b6d" type="folder">7</container></did><accessrestrict id="b0050c5525818a45cc82888a7ba32fb7"><head>Conditions Governing Access</head><p>Restricted from scholarly access - Open in 2017</p></accessrestrict></c><c id="2d6d5efb51704be8be39dc3a8a5e1d5f" level="file"><did><unittitle>Executive Committee Minutes</unittitle><unitdate normal="1992/1992" type="inclusive">1992</unitdate><container id="02e9d3a4393fc9164692fd6b689b45eb" label="mixed materials" type="box">4</container><container id="8e1c8ccea0b94a124c50c7ffe9d549ac" parent="02e9d3a4393fc9164692fd6b689b45eb" type="folder">8-10</container></did><accessrestrict id="6b093758b0978325d2118aca055fd072"><head>Conditions Governing Access</head><p>Restricted from scholarly access - Open in 2018</p></accessrestrict></c><c id="2b4d6e3cee5c450db13e5dd994e1c6d9" level="file"><did><unittitle>Executive Committee Minutes</unittitle><unitdate normal="1993/1993" type="inclusive">1993</unitdate><container id="62c82d6cfbd85c0a03f7caadfe62f1e1" label="mixed materials" type="box">5</container><container id="fdce0617f105b73179084d4d6c1e5c0f" parent="62c82d6cfbd85c0a03f7caadfe62f1e1" type="folder">11-14</container></did><accessrestrict id="316cb36644d935231884ca672ed6af25"><head>Conditions Governing Access</head><p>Restricted from scholarly access - Open in 2019</p></accessrestrict></c></dsc>
+</archdesc>
 </ead>
