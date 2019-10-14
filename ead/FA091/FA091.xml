@@ -1,208 +1,44 @@
-<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
-  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="in_progress" langencoding="iso639-2b" repositoryencoding="iso15511">
-    <eadid>FA091.xml</eadid>
-    <filedesc>
-      <titlestmt>
-        <titleproper type="filing">Sleepy Hollow Restoration photographs</titleproper>
-        <titleproper>A Guide to the Sleepy Hollow Restorations photographs
- <num>FA091</num></titleproper>
-      </titlestmt>
-      <publicationstmt>
-        <publisher>Rockefeller Archive Center</publisher>
-        <p>
-          <date>2009</date>
-        </p>
-        <address>
-          <addressline>15 Dayton Avenue</addressline>
-          <addressline>Sleepy Hollow 10591</addressline>
-          <addressline>archive@rockarch.org</addressline>
-          <addressline>URL: <extptr xlink:href="http://www.rockarch.org" xlink:show="new" xlink:title="http://www.rockarch.org" xlink:type="simple"/></addressline>
-        </address>
-      </publicationstmt>
-    </filedesc>
-    <profiledesc>
-      <creation>This finding aid was produced using ArchivesSpace on <date>2017-10-14 00:00:13 -0400</date>.</creation>
-    </profiledesc>
-  </eadheader>
-  <archdesc level="collection">
-    <did>
-      <langmaterial>
-        <language langcode="eng">English</language>
-      </langmaterial>
-      <repository>
-        <corpname>Rockefeller Archive Center</corpname>
-      </repository>
-      <unittitle>Sleepy Hollow Restorations photographs</unittitle>
-      <origination label="creator">
-        <corpname role="aut" source="naf">Historic Hudson Valley (Organization)</corpname>
-      </origination>
-      <unitid>FA091</unitid>
-      <physdesc altrender="whole">
-        <extent altrender="materialtype spaceoccupied">0.1 Cubic Feet</extent>
-      </physdesc>
-      <unitdate>undated</unitdate>
-    </did>
-    <prefercite id="c011fb24991d8930382970b065d9b677">
-      <head>Preferred Citation</head>
-      <p>Information regarding the Rockefeller Archive Center's preferred elements and forms of citation can be found at <extref href="http://www.rockarch.org/research/citations.php">http://www.rockarch.org/research/citations.php</extref></p>
-    </prefercite>
-    <arrangement id="b1ebfd7e8cdc663212ae6a3a082c2a5b">
-      <head>Arrangement</head>
-      <p>As received.</p>
-    </arrangement>
-    <accessrestrict id="7d583157c3d1ddbf9ca9ead4a55ca034">
-      <head>Conditions Governing Access</head>
-      <p>Open for research with select materials restricted as noted. Brittle or damaged items are available at the discretion of RAC.</p>
-    </accessrestrict>
-    <scopecontent id="b37986a835d95f2e676df09490e97d12">
-      <head>Scope and Contents</head>
-      <p>This collection is comprised entirely of photographs.</p>
-    </scopecontent>
-    <controlaccess>
-      <geogname source="lcsh">Hudson River Valley (N.Y. and N.J.)</geogname>
-      <genreform source="lcsh">Photographs</genreform>
-      <geogname source="lcsh">Westchester County (N.Y.)</geogname>
-      <geogname source="lcsh">New York (State)</geogname>
-    </controlaccess>
-    <dsc>
-      <c id="533037dda6ca4dfba666f8ef73beb77e" level="series">
-        <did>
-          <unittitle>Sleepy Hollow Restorations</unittitle>
-          <unitid>1028</unitid>
-        </did>
-        <c id="84836e18e54f4affbd07d2a8b28f5682" level="file">
-          <did>
-            <unittitle>Building Committee</unittitle>
-            <container id="501ed0dcefa1adabacb65ba3ea21152f" label="mixed materials (A0000000055098)" type="box">10</container>
-            <container id="8cf5d6c715c10f461393b17146071f7b" parent="501ed0dcefa1adabacb65ba3ea21152f" type="folder">94</container>
-          </did>
-          <scopecontent id="07369d5c3ed6085c7831126312365a33">
-            <head>Scope and Contents note</head>
-            <p>Bridges, flooding, dams.</p>
-          </scopecontent>
-        </c>
-        <c id="fe22f92a7938404fb1544807213aafd7" level="file">
-          <did>
-            <unittitle>Old Dutch Church</unittitle>
-            <container id="5be80c7b89ad45e14cfb8c0d8934f031" label="mixed materials (A0000000055098)" type="box">10</container>
-            <container id="ba4cf84aaaa748571595e949d6f0cda4" parent="5be80c7b89ad45e14cfb8c0d8934f031" type="folder">95</container>
-          </did>
-          <scopecontent id="50fbd8567ba9d87ca9aa914b9ffafd6e">
-            <head>Scope and Contents note</head>
-            <p>Silver objects, churches, interiors.</p>
-          </scopecontent>
-        </c>
-        <c id="7af70b7a48b64ce2935f504d52a17d0e" level="file">
-          <did>
-            <unittitle>Personnel</unittitle>
-            <container id="afca7125fefee7b63a12a8347d7529b7" label="mixed materials (A0000000055098)" type="box">10</container>
-            <container id="7e72e2ce34ad42152c34db76bef1d900" parent="afca7125fefee7b63a12a8347d7529b7" type="folder">96</container>
-          </did>
-          <scopecontent id="2b9853666b47d6f27554581e58e56189">
-            <head>Scope and Contents note</head>
-            <p>Sleepy Hollow Restorations staff.</p>
-          </scopecontent>
-        </c>
-        <c id="11f9df1e76734fde868be6da8fac5b9a" level="file">
-          <did>
-            <unittitle>Philipsburg Manor</unittitle>
-            <container id="368f2cabbdc0331817c8579263eea2ae" label="mixed materials (A0000000055098)" type="box">10</container>
-            <container id="f336c73da04a9a36cb52c19ddb39defe" parent="368f2cabbdc0331817c8579263eea2ae" type="folder">97</container>
-          </did>
-          <scopecontent id="12602c8034b34031438183a36d5c201c">
-            <head>Scope and Contents note</head>
-            <p>Manors, houses, aerial maps.</p>
-          </scopecontent>
-        </c>
-        <c id="b8278ca22f684e02bbd783eea33db220" level="file">
-          <did>
-            <unittitle>Philipsburg Manor - Archeological Dig</unittitle>
-            <container id="adca306668c90f6e56124442de1d6251" label="mixed materials (A0000000055098)" type="box">10</container>
-            <container id="0e3a88179f54173b56f7bd5f6d238de3" parent="adca306668c90f6e56124442de1d6251" type="folder">98</container>
-          </did>
-          <scopecontent id="0978b0c66e3411a49b5e58258b659a54">
-            <head>Scope and Contents note</head>
-            <p>Archaeology, excavations.</p>
-          </scopecontent>
-        </c>
-        <c id="1ca1612b6ea94c99854f2d419653a0a5" level="file">
-          <did>
-            <unittitle>Philipsburg Manor - Rockefeller Memorial Room</unittitle>
-            <container id="797958dfde7a055b55a623207d4fafe9" label="mixed materials (A0000000055098)" type="box">10</container>
-            <container id="64a21c95b2813acbf8b93109fca4e32e" parent="797958dfde7a055b55a623207d4fafe9" type="folder">99</container>
-          </did>
-          <scopecontent id="a578d4533a3913a172a93a89a900ba69">
-            <head>Scope and Contents note</head>
-            <p>Interiors, decoration, furniture, accessories, art.</p>
-          </scopecontent>
-        </c>
-        <c id="9248cc901e6842bfbef1000fb0e05dbe" level="file">
-          <did>
-            <unittitle>John D. Rockefeller Memorial Room</unittitle>
-            <container id="67491be77b1785cb94e0a3b06fe3862d" label="mixed materials (A0000000055098)" type="box">10</container>
-            <container id="7985ce591fb55d8aa5824cddc8ebcdb5" parent="67491be77b1785cb94e0a3b06fe3862d" type="folder">100</container>
-          </did>
-          <scopecontent id="72899e6aee5a0124c7267ba255143ccf">
-            <head>Scope and Contents note</head>
-            <p>Interiors, decoration, furniture, accessories, art.</p>
-          </scopecontent>
-        </c>
-        <c id="5c8f93e84d9d4e59a871af81c59126b3" level="file">
-          <did>
-            <unittitle>Property - Abraham Dump</unittitle>
-            <container id="81b177722dbc8de495df88c39600c271" label="mixed materials (A0000000055098)" type="box">10</container>
-            <container id="17f315b0c703b986fbf8c288a61e9277" parent="81b177722dbc8de495df88c39600c271" type="folder">101</container>
-          </did>
-          <scopecontent id="67bc945cde380443e0849e2322077f14">
-            <head>Scope and Contents note</head>
-            <p>Waste, land.</p>
-          </scopecontent>
-        </c>
-        <c id="fbc6e8d86e254c5eb8900faac17c834e" level="file">
-          <did>
-            <unittitle>Sunnyside</unittitle>
-            <container id="f79eb34eabae82092cc1274421841c0f" label="mixed materials (A0000000055098)" type="box">10</container>
-            <container id="c18fd503b2f39123cbf4b6e2b152f638" parent="f79eb34eabae82092cc1274421841c0f" type="folder">102</container>
-          </did>
-          <scopecontent id="ffe9b27a7d54cb91215879b68b6be598">
-            <head>Scope and Contents note</head>
-            <p>Sunnyside, exteriors, Washington Irving.</p>
-          </scopecontent>
-        </c>
-        <c id="9639d1d89def420b8ca39c054dc146e7" level="file">
-          <did>
-            <unittitle>Van Cortlandt Manor</unittitle>
-            <container id="d0fed1490d5c7980e1f214dc22461632" label="mixed materials (A0000000055098)" type="box">10</container>
-            <container id="772a5ba3063c42c313bb831f25267ce4" parent="d0fed1490d5c7980e1f214dc22461632" type="folder">103</container>
-          </did>
-          <scopecontent id="49ee04e0979d2b2e1ce474b48ee1f97c">
-            <head>Scope and Contents note</head>
-            <p>Manors, houses, exteriors.</p>
-          </scopecontent>
-        </c>
-        <c id="220009ab019d438aa9f79c4be02f3799" level="file">
-          <did>
-            <unittitle>Van Cortlandt Manor - Opening</unittitle>
-            <container id="0c9fcdd5d5146d3bf876824259484dfe" label="mixed materials (A0000000055098)" type="box">10</container>
-            <container id="265099f77997275655c232fb2a054b0a" parent="0c9fcdd5d5146d3bf876824259484dfe" type="folder">104</container>
-          </did>
-          <scopecontent id="3f66cc351d93cf7e2ffc0ba076295560">
-            <head>Scope and Contents note</head>
-            <p>Dinners, ceremonies.</p>
-          </scopecontent>
-        </c>
-        <c id="c2996547eb09482b88a52007e39567a0" level="file">
-          <did>
-            <unittitle>Miscellaneous</unittitle>
-            <container id="c8dbf850e4c77e379e2a99945b4f9a56" label="mixed materials (A0000000055098)" type="box">10</container>
-            <container id="1e4f0616974e869f931c67aca329ebd3" parent="c8dbf850e4c77e379e2a99945b4f9a56" type="folder">105</container>
-          </did>
-          <scopecontent id="72c0f091184a945d264d41fd7b15d222">
-            <head>Scope and Contents note</head>
-            <p>Models, machinery, houses, interiors, furniture.</p>
-          </scopecontent>
-        </c>
-      </c>
-    </dsc>
-  </archdesc>
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="in_progress" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid>FA091.xml</eadid><filedesc><titlestmt><titleproper type="filing">Sleepy Hollow Restoration photographs</titleproper><titleproper>A Guide to the Sleepy Hollow Restorations photographs
+ <num>FA091</num></titleproper></titlestmt><publicationstmt><publisher>Rockefeller Archive Center</publisher><p><date>2009</date></p><address><addressline>15 Dayton Avenue</addressline><addressline>Sleepy Hollow 10591</addressline><addressline>archive@rockarch.org</addressline><addressline>URL: <extptr xlink:href="http://www.rockarch.org" xlink:show="new" xlink:title="http://www.rockarch.org" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2019-10-11 02:24:43 -0400</date>.</creation></profiledesc></eadheader><archdesc level="collection">
+  <did>
+    <langmaterial>
+      <language langcode="eng">English</language>
+    </langmaterial>
+    <repository>
+      <corpname>Rockefeller Archive Center</corpname>
+    </repository>
+    <unittitle>Sleepy Hollow Restorations photographs</unittitle>
+    <origination label="creator">
+      <corpname role="aut" source="naf">Historic Hudson Valley (Organization)</corpname>
+    </origination>
+    <origination label="creator">
+      <corpname role="aut" source="naf">Sleepy Hollow Restorations (Organization)</corpname>
+    </origination>
+    <unitid>FA091</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">0.1 Cubic Feet</extent>
+    </physdesc>
+    <unitdate>undated</unitdate>
+  </did>
+  <prefercite id="c011fb24991d8930382970b065d9b677">
+    <head>Preferred Citation</head>
+<p>Information regarding the Rockefeller Archive Center's preferred elements and forms of citation can be found at <extref href="http://www.rockarch.org/research/citations.php">http://www.rockarch.org/research/citations.php</extref></p>  </prefercite>
+  <arrangement id="b1ebfd7e8cdc663212ae6a3a082c2a5b">
+    <head>Arrangement</head>
+<p>As received.</p>  </arrangement>
+  <accessrestrict id="7d583157c3d1ddbf9ca9ead4a55ca034">
+    <head>Conditions Governing Access</head>
+<p>Open for research with select materials restricted as noted. Brittle or damaged items are available at the discretion of RAC.</p>  </accessrestrict>
+  <scopecontent id="b37986a835d95f2e676df09490e97d12">
+    <head>Scope and Contents</head>
+<p>This collection is comprised entirely of photographs.</p>  </scopecontent>
+  <controlaccess>
+    <geogname source="lcsh">Hudson River Valley (N.Y. and N.J.)</geogname>
+    <genreform source="lcsh">Photographs</genreform>
+    <geogname source="lcsh">Westchester County (N.Y.)</geogname>
+    <geogname source="lcsh">New York (State)</geogname>
+  </controlaccess>
+  <dsc><c id="533037dda6ca4dfba666f8ef73beb77e" level="series"><did><unittitle>Sleepy Hollow Restorations</unittitle><unitid>1028</unitid></did><c id="84836e18e54f4affbd07d2a8b28f5682" level="file"><did><unittitle>Building Committee</unittitle><container altrender="Letter Document Box" id="58134eddce735afc3e97f61b785a7f64" label="mixed materials [A0000000055098]" type="box">10</container><container id="1857dcc7e5e33e68153c2ccb2795b9a1" parent="58134eddce735afc3e97f61b785a7f64" type="folder">94</container></did><scopecontent id="07369d5c3ed6085c7831126312365a33"><head>Scope and Contents note</head><p>Bridges, flooding, dams.</p></scopecontent></c><c id="fe22f92a7938404fb1544807213aafd7" level="file"><did><unittitle>Old Dutch Church</unittitle><container altrender="Letter Document Box" id="b3059ff38346c5c08cae9310ddc03e6c" label="mixed materials [A0000000055098]" type="box">10</container><container id="1fdd6e863a8e670ad4d15349f700eb93" parent="b3059ff38346c5c08cae9310ddc03e6c" type="folder">95</container></did><scopecontent id="50fbd8567ba9d87ca9aa914b9ffafd6e"><head>Scope and Contents note</head><p>Silver objects, churches, interiors.</p></scopecontent></c><c id="7af70b7a48b64ce2935f504d52a17d0e" level="file"><did><unittitle>Personnel</unittitle><container altrender="Letter Document Box" id="4460434bcaf3eed00b13cd30f1f78f15" label="mixed materials [A0000000055098]" type="box">10</container><container id="af1298ae814c6a1835ab4c7d8d8970be" parent="4460434bcaf3eed00b13cd30f1f78f15" type="folder">96</container></did><scopecontent id="2b9853666b47d6f27554581e58e56189"><head>Scope and Contents note</head><p>Sleepy Hollow Restorations staff.</p></scopecontent></c><c id="11f9df1e76734fde868be6da8fac5b9a" level="file"><did><unittitle>Philipsburg Manor</unittitle><container altrender="Letter Document Box" id="96f7799f77a2668a8880ae12f3940240" label="mixed materials [A0000000055098]" type="box">10</container><container id="ba4fadc57cb740d84a0c2f1699381ec5" parent="96f7799f77a2668a8880ae12f3940240" type="folder">97</container></did><scopecontent id="12602c8034b34031438183a36d5c201c"><head>Scope and Contents note</head><p>Manors, houses, aerial maps.</p></scopecontent></c><c id="b8278ca22f684e02bbd783eea33db220" level="file"><did><unittitle>Philipsburg Manor - Archeological Dig</unittitle><container altrender="Letter Document Box" id="0f1b4f8eab8f850e743ea73abb3fea28" label="mixed materials [A0000000055098]" type="box">10</container><container id="ce97c0103c34b38af347a3986f031f56" parent="0f1b4f8eab8f850e743ea73abb3fea28" type="folder">98</container></did><scopecontent id="0978b0c66e3411a49b5e58258b659a54"><head>Scope and Contents note</head><p>Archaeology, excavations.</p></scopecontent></c><c id="1ca1612b6ea94c99854f2d419653a0a5" level="file"><did><unittitle>Philipsburg Manor - Rockefeller Memorial Room</unittitle><container altrender="Letter Document Box" id="7fd5d5350716277a872d7fdb668c7d4a" label="mixed materials [A0000000055098]" type="box">10</container><container id="1b208dc1bcae5edc1be1b7ddc15a97a5" parent="7fd5d5350716277a872d7fdb668c7d4a" type="folder">99</container></did><scopecontent id="a578d4533a3913a172a93a89a900ba69"><head>Scope and Contents note</head><p>Interiors, decoration, furniture, accessories, art.</p></scopecontent></c><c id="9248cc901e6842bfbef1000fb0e05dbe" level="file"><did><unittitle>John D. Rockefeller Memorial Room</unittitle><container altrender="Letter Document Box" id="53b2210ce0c040a1b905c2c6719aba78" label="mixed materials [A0000000055098]" type="box">10</container><container id="3f9bcae75278fb1131194fcb69d9141b" parent="53b2210ce0c040a1b905c2c6719aba78" type="folder">100</container></did><scopecontent id="72899e6aee5a0124c7267ba255143ccf"><head>Scope and Contents note</head><p>Interiors, decoration, furniture, accessories, art.</p></scopecontent></c><c id="5c8f93e84d9d4e59a871af81c59126b3" level="file"><did><unittitle>Property - Abraham Dump</unittitle><container altrender="Letter Document Box" id="a81cc55a78b6115184a2901e2b46d636" label="mixed materials [A0000000055098]" type="box">10</container><container id="b99aa38c62ce33118328fd9d6abc4b27" parent="a81cc55a78b6115184a2901e2b46d636" type="folder">101</container></did><scopecontent id="67bc945cde380443e0849e2322077f14"><head>Scope and Contents note</head><p>Waste, land.</p></scopecontent></c><c id="fbc6e8d86e254c5eb8900faac17c834e" level="file"><did><unittitle>Sunnyside</unittitle><container altrender="Letter Document Box" id="9a214de67bec2024e93b0627cc63f2c8" label="mixed materials [A0000000055098]" type="box">10</container><container id="5e067e9f3a43d3c91f89d1608d9ec11b" parent="9a214de67bec2024e93b0627cc63f2c8" type="folder">102</container></did><scopecontent id="ffe9b27a7d54cb91215879b68b6be598"><head>Scope and Contents note</head><p>Sunnyside, exteriors, Washington Irving.</p></scopecontent></c><c id="9639d1d89def420b8ca39c054dc146e7" level="file"><did><unittitle>Van Cortlandt Manor</unittitle><container altrender="Letter Document Box" id="0e7d86f355f1fdc2becb76d9170c1326" label="mixed materials [A0000000055098]" type="box">10</container><container id="5472ca3312932da6a61ab51f066f37af" parent="0e7d86f355f1fdc2becb76d9170c1326" type="folder">103</container></did><scopecontent id="49ee04e0979d2b2e1ce474b48ee1f97c"><head>Scope and Contents note</head><p>Manors, houses, exteriors.</p></scopecontent></c><c id="220009ab019d438aa9f79c4be02f3799" level="file"><did><unittitle>Van Cortlandt Manor - Opening</unittitle><container altrender="Letter Document Box" id="32c1286c962f967581fc840d099d39e5" label="mixed materials [A0000000055098]" type="box">10</container><container id="284c8a69e32979c73f13a006452c14b5" parent="32c1286c962f967581fc840d099d39e5" type="folder">104</container></did><scopecontent id="3f66cc351d93cf7e2ffc0ba076295560"><head>Scope and Contents note</head><p>Dinners, ceremonies.</p></scopecontent></c><c id="c2996547eb09482b88a52007e39567a0" level="file"><did><unittitle>Miscellaneous</unittitle><container altrender="Letter Document Box" id="bf612e50b09181adc317839c46f67519" label="mixed materials [A0000000055098]" type="box">10</container><container id="42a6ec6fb455211085be23e3e59d169d" parent="bf612e50b09181adc317839c46f67519" type="folder">105</container></did><scopecontent id="72c0f091184a945d264d41fd7b15d222"><head>Scope and Contents note</head><p>Models, machinery, houses, interiors, furniture.</p></scopecontent></c></c></dsc>
+</archdesc>
 </ead>
