@@ -1,52 +1,52 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <mets xmlns="http://www.loc.gov/METS/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/mets/mets.xsd">
-  <metsHdr CREATEDATE="2019-10-15 00:08:42 -0400">
+  <metsHdr CREATEDATE="2019-10-15 00:08:49 -0400">
     <agent ROLE="CREATOR" TYPE="ORGANIZATION">
       <name>Rockefeller Archive Center</name>
       <note>http://www.rockarch.org</note>
       <note>Produced by ArchivesSpace</note>
     </agent>
   </metsHdr>
-  <dmdSec ID="3267">
+  <dmdSec ID="3277">
     <mdWrap MDTYPE="MODS">
       <xmlData>
         <mods version="3.4" xmlns="http://www.loc.gov/mods/v3">
           <mods:titleInfo>
-            <mods:title>7812ac71e0b14ed487bce7bbcd0db4dc.pdf</mods:title>
+            <mods:title>fce3d77493c0454c90bea99aaa58c25c.pdf</mods:title>
           </mods:titleInfo>
-          <mods:identifier type="local">aee7c01b-d05f-4791-9f19-898a60037c0b</mods:identifier>
+          <mods:identifier type="local">d285aa03-9baf-4fc6-a310-9bee8d4c467d</mods:identifier>
           <mods:typeOfResource/>
           <mods:originInfo/>
           <mods:physicalDescription/>
-          <mods:note type="originalsloc">7152397d-6009-4d57-8ce9-1a774f7abc12</mods:note>
+          <mods:note type="originalsloc">a68c59bb-07b4-4c57-886d-7d83024f4ee0</mods:note>
           <mods:note displayLabel="Digital object made available by">Rockefeller Archive Center, 15 Dayton Avenue, Sleepy Hollow, 10591, U.S.A. (http://www.rockarch.org)</mods:note>
           <mods:relatedItem displayLabel="resource" type="host">
             <mods:name>Rockefeller Foundation records, projects, SG 1.1, Series 100 International - Series 257 Virgin Islands, U.S.A.</mods:name>
             <mods:identifier>FA386a.xml</mods:identifier>
           </mods:relatedItem>
           <mods:relatedItem displayLabel="component" type="host">
-            <mods:name>Reischauer, Robert K. - (Far Eastern Studies), 1935-1937</mods:name>
-            <mods:identifier>7812ac71e0b14ed487bce7bbcd0db4dc</mods:identifier>
+            <mods:name>Yale University - Institute of Human Relations, 1926-1937</mods:name>
+            <mods:identifier>fce3d77493c0454c90bea99aaa58c25c</mods:identifier>
           </mods:relatedItem>
         </mods>
       </xmlData>
     </mdWrap>
   </dmdSec>
   <amdSec>
-    <techMD ID="8376">
+    <techMD ID="8386">
       <mdWrap MDTYPE="PREMIS:OBJECT">
         <xmlData>
           <object version="2.2" xmlns="info:lc/xmlns/premis-v2" xsi:schemaLocation="info:lc/xmlns/premis-v2 http://www.loc.gov/standards/premis/v2/premis-v2-2.xsd" xsi:type="file">
             <objectIdentifier>
               <objectIdentifierType>ArchivesSpace identifier</objectIdentifierType>
-              <objectIdentifierValue>8376</objectIdentifierValue>
+              <objectIdentifierValue>8386</objectIdentifierValue>
             </objectIdentifier>
             <objectCharacteristics>
               <fixity>
                 <messageDigestAlgorithm/>
                 <messageDigest/>
               </fixity>
-              <size>21731811</size>
+              <size>41513903</size>
               <format>
                 <formatDesignation>
                   <formatName>pdf</formatName>
@@ -61,19 +61,19 @@
   </amdSec>
   <fileSec>
     <fileGrp USE="">
-      <file AMDID="8376" GROUPID="3267" ID="8376">
-        <FLocat xlink:href="https://storage.rockarch.org/aee7c01b-d05f-4791-9f19-898a60037c0b-7812ac71e0b14ed487bce7bbcd0db4dc.pdf"/>
+      <file AMDID="8386" GROUPID="3277" ID="8386">
+        <FLocat xlink:href="https://storage.rockarch.org/d285aa03-9baf-4fc6-a310-9bee8d4c467d-fce3d77493c0454c90bea99aaa58c25c.pdf"/>
       </file>
     </fileGrp>
   </fileSec>
   <structMap TYPE="logical">
-    <div DMDID="3267" LABEL="7812ac71e0b14ed487bce7bbcd0db4dc.pdf" ORDER="1" TYPE="item">
-      <fptr FILEID="8376"/>
+    <div DMDID="3277" LABEL="fce3d77493c0454c90bea99aaa58c25c.pdf" ORDER="1" TYPE="item">
+      <fptr FILEID="8386"/>
     </div>
   </structMap>
   <structMap TYPE="physical">
-    <div DMDID="3267" LABEL="7812ac71e0b14ed487bce7bbcd0db4dc.pdf" ORDER="1" TYPE="item">
-      <fptr FILEID="8376"/>
+    <div DMDID="3277" LABEL="fce3d77493c0454c90bea99aaa58c25c.pdf" ORDER="1" TYPE="item">
+      <fptr FILEID="8386"/>
     </div>
   </structMap>
 </mets>
