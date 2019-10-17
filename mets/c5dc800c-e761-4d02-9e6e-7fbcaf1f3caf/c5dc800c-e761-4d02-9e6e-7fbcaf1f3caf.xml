@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mets xmlns="http://www.loc.gov/METS/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/mets/mets.xsd">
+  <metsHdr CREATEDATE="2019-10-17 04:10:57 -0400">
+    <agent ROLE="CREATOR" TYPE="ORGANIZATION">
+      <name>Rockefeller Archive Center</name>
+      <note>http://www.rockarch.org</note>
+      <note>Produced by ArchivesSpace</note>
+    </agent>
+  </metsHdr>
+  <dmdSec ID="3288">
+    <mdWrap MDTYPE="MODS">
+      <xmlData>
+        <mods version="3.4" xmlns="http://www.loc.gov/mods/v3">
+          <mods:titleInfo>
+            <mods:title>b74ef3ae11be4ea38f94aae550a69e43.pdf</mods:title>
+          </mods:titleInfo>
+          <mods:identifier type="local">c5dc800c-e761-4d02-9e6e-7fbcaf1f3caf</mods:identifier>
+          <mods:typeOfResource/>
+          <mods:originInfo/>
+          <mods:physicalDescription/>
+          <mods:note type="originalsloc">8135dd80-ade7-469d-8058-ea78d09e3258</mods:note>
+          <mods:note displayLabel="Digital object made available by">Rockefeller Archive Center, 15 Dayton Avenue, Sleepy Hollow, 10591, U.S.A. (http://www.rockarch.org)</mods:note>
+          <mods:relatedItem displayLabel="resource" type="host">
+            <mods:name>Rockefeller Foundation records, projects, SG 1.1, Series 100 International - Series 257 Virgin Islands, U.S.A.</mods:name>
+            <mods:identifier>FA386a.xml</mods:identifier>
+          </mods:relatedItem>
+          <mods:relatedItem displayLabel="component" type="host">
+            <mods:name>Nursing Education, Negro - Survey - "A Study of the Present Status of the Negro Woman in Nursing" - (and Supplementary Material 1920-1925) - NEN-2, 1920-1925</mods:name>
+            <mods:identifier>b74ef3ae11be4ea38f94aae550a69e43</mods:identifier>
+          </mods:relatedItem>
+        </mods>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec>
+    <techMD ID="8397">
+      <mdWrap MDTYPE="PREMIS:OBJECT">
+        <xmlData>
+          <object version="2.2" xmlns="info:lc/xmlns/premis-v2" xsi:schemaLocation="info:lc/xmlns/premis-v2 http://www.loc.gov/standards/premis/v2/premis-v2-2.xsd" xsi:type="file">
+            <objectIdentifier>
+              <objectIdentifierType>ArchivesSpace identifier</objectIdentifierType>
+              <objectIdentifierValue>8397</objectIdentifierValue>
+            </objectIdentifier>
+            <objectCharacteristics>
+              <fixity>
+                <messageDigestAlgorithm/>
+                <messageDigest/>
+              </fixity>
+              <size>46083509</size>
+              <format>
+                <formatDesignation>
+                  <formatName>pdf</formatName>
+                  <formatVersion>Generic PDF</formatVersion>
+                </formatDesignation>
+              </format>
+            </objectCharacteristics>
+          </object>
+        </xmlData>
+      </mdWrap>
+    </techMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="">
+      <file AMDID="8397" GROUPID="3288" ID="8397">
+        <FLocat xlink:href="https://storage.rockarch.org/c5dc800c-e761-4d02-9e6e-7fbcaf1f3caf-b74ef3ae11be4ea38f94aae550a69e43.pdf"/>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="logical">
+    <div DMDID="3288" LABEL="b74ef3ae11be4ea38f94aae550a69e43.pdf" ORDER="1" TYPE="item">
+      <fptr FILEID="8397"/>
+    </div>
+  </structMap>
+  <structMap TYPE="physical">
+    <div DMDID="3288" LABEL="b74ef3ae11be4ea38f94aae550a69e43.pdf" ORDER="1" TYPE="item">
+      <fptr FILEID="8397"/>
+    </div>
+  </structMap>
+</mets>
+
