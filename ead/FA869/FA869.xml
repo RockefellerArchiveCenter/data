@@ -1,67 +1,37 @@
-<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
-  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="under_revision" langencoding="iso639-2b" repositoryencoding="iso15511">
-    <eadid>FA869.xml</eadid>
-    <filedesc>
-      <titlestmt>
-        <titleproper type="filing">Rockefeller University records, Corporation, Auditor</titleproper>
-        <titleproper>A Guide to the Rockefeller University records, Corporation, Auditor
- <num>FA869</num></titleproper>
-      </titlestmt>
-      <publicationstmt>
-        <publisher>Rockefeller Archive Center</publisher>
-        <address>
-          <addressline>15 Dayton Avenue</addressline>
-          <addressline>Sleepy Hollow 10591</addressline>
-          <addressline>archive@rockarch.org</addressline>
-          <addressline>URL: <extptr xlink:href="http://www.rockarch.org" xlink:show="new" xlink:title="http://www.rockarch.org" xlink:type="simple"/></addressline>
-        </address>
-      </publicationstmt>
-    </filedesc>
-    <profiledesc>
-      <creation>This finding aid was produced using ArchivesSpace on <date>2017-03-02 14:25:37 -0500</date>.</creation>
-    </profiledesc>
-    <revisiondesc>
-      <date>2010 November 12</date>
-      <item>Paper finding aid converted to EAD/XML by AureXus in 2010. Imported into the Archvists’ Toolkit by Becky Robbins.</item>
-    </revisiondesc>
-  </eadheader>
-  <archdesc level="collection">
-    <did>
-      <langmaterial>
-        <language langcode="eng">English</language>
-      </langmaterial>
-      <repository>
-        <corpname>Rockefeller Archive Center</corpname>
-      </repository>
-      <unittitle>Rockefeller University records, Corporation, Auditor</unittitle>
-      <origination label="creator">
-        <corpname role="aut" source="lcnaf">Rockefeller University</corpname>
-      </origination>
-      <origination label="creator">
-        <corpname role="aut" source="lcnaf">Rockefeller Institute for Medical Research</corpname>
-      </origination>
-      <unitid>FA869</unitid>
-      <physdesc altrender="whole">
-        <extent altrender="materialtype spaceoccupied">1.08 Cubic Feet</extent>
-        <extent altrender="carrier">1 box and 2 packages</extent>
-      </physdesc>
-      <unitdate normal="1922/1980" type="inclusive">1922-1959, 1980</unitdate>
-      <physdesc id="c4f53765ff862e40b9e4a47f5bf90b1c">
-        <extent>1 box and 2 packages.</extent>
-      </physdesc>
-    </did>
-    <prefercite id="09de78c209bf122e3c23ef79cd53aeca">
-      <head>Preferred Citation note</head>
-      <p>Information regarding the Rockefeller Archive Center's preferred elements and forms of citation can be found at <extref href="http://www.rockarch.org/research/citations.php">http://www.rockarch.org/research/citations.php</extref></p>
-    </prefercite>
-    <fileplan id="db7b3ade78ed93fcc6b4080105d4844d">
-      <head>File Plan note</head>
-      <p>Former Classification: I 192</p>
-    </fileplan>
-    <scopecontent id="8e75ae7ee05bd723e52ddae8e55678ab">
-      <head>Scope and Contents</head>
-      <p>Collection does not include the following audit reports, but they are mentioned in minutes:</p>
-      <p>1910-1911 Haskins &amp; Sells.
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="under_revision" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid>FA869.xml</eadid><filedesc><titlestmt><titleproper type="filing">Rockefeller University records, Corporation, Auditor</titleproper><titleproper>A Guide to the Rockefeller University records, Corporation, Auditor
+ <num>FA869</num></titleproper></titlestmt><publicationstmt><publisher>Rockefeller Archive Center</publisher><address><addressline>15 Dayton Avenue</addressline><addressline>Sleepy Hollow 10591</addressline><addressline>archive@rockarch.org</addressline><addressline>URL: <extptr xlink:href="http://www.rockarch.org" xlink:show="new" xlink:title="http://www.rockarch.org" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2019-10-25 00:58:33 -0400</date>.</creation></profiledesc></eadheader><archdesc level="collection">
+  <did>
+    <langmaterial>
+      <language langcode="eng">English</language>
+    </langmaterial>
+    <repository>
+      <corpname>Rockefeller Archive Center</corpname>
+    </repository>
+    <unittitle>Rockefeller University records, Corporation, Auditor</unittitle>
+    <origination label="Creator">
+      <corpname role="aut" source="naf">Rockefeller University</corpname>
+    </origination>
+    <origination label="Creator">
+      <corpname role="ctb" source="naf">Rockefeller Institute for Medical Research</corpname>
+    </origination>
+    <unitid>FA869</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">1.08 Cubic Feet</extent>
+      <extent altrender="carrier">1 box and 2 packages</extent>
+    </physdesc>
+    <unitdate normal="1922/1980" type="inclusive">1922-1959, 1980</unitdate>
+    <physdesc id="c4f53765ff862e40b9e4a47f5bf90b1c" label="General Physical Description note"><extent>1 box and 2 packages.</extent></physdesc>
+  </did>
+  <prefercite id="09de78c209bf122e3c23ef79cd53aeca">
+    <head>Preferred Citation note</head>
+<p>Information regarding the Rockefeller Archive Center's preferred elements and forms of citation can be found at <extref href="http://www.rockarch.org/research/citations.php">http://www.rockarch.org/research/citations.php</extref></p>  </prefercite>
+  <fileplan id="db7b3ade78ed93fcc6b4080105d4844d">
+    <head>File Plan note</head>
+<p>Former Classification: I 192</p>  </fileplan>
+  <scopecontent id="8e75ae7ee05bd723e52ddae8e55678ab">
+    <head>Scope and Contents</head>
+<p>Collection does not include the following audit reports, but they are mentioned in minutes:</p><p>1910-1911 Haskins &amp; Sells.
 1911-1912 and 1912-1913 A.B. Bierck.
 1914 Price Waterhouse.
 1915 Bebbington, Higson....
@@ -70,51 +40,13 @@
 1918 A.B. Bierck.
 1919 Arthur Young.
 1920 A.B. Bierck.
-1921 Arthur Young.</p>
-    </scopecontent>
-    <bioghist id="1648d6556539ba0e0ceed70755c2b4b4">
-      <head>Biographical / Historical</head>
-      <p>The Rules of the Board of Trustees adopted in 1911 provided for an annual audit of the books of the Treasurer and also the books of account of the Board of Scientific Directors by an auditor or auditors appointed by the Board of Trustees who shall be a person or persons not connected with the Board.</p>
-      <p>Changes in By-Laws in 1966 provided that an Audit Committee consisting of not less than three and no more than five members of the Board of Trustees elected at the annual meeting recommend the appointment of independent public accountants to audit the accounts of the Corporation and review the reports submitted by such accountants and advise the Board of Trustees thereon.</p>
-    </bioghist>
-    <accessrestrict id="e6b76b4aa3d1cb5c63eb01873bb463e3">
-      <head>Conditions Governing Access note</head>
-      <p>This collection is open for research. Brittle or damaged items are available at the discretion of the RAC.</p>
-    </accessrestrict>
-    <dsc>
-      <c id="7ae6125f258d4cceb3c3ba066cb2622d" level="file">
-        <did>
-          <unittitle>"The Rockefeller University Financial Statements. (With Accountants' Report Thereon)" Peat, Marwick, Mitchell, and Co.</unittitle>
-          <unitdate>1980 June 30</unitdate>
-          <container id="e715307d249d44e6a273690e8becbb29" label="mixed materials" type="box">1</container>
-          <container id="98de0bd690ac71d78a2ae8333a7c236e" parent="e715307d249d44e6a273690e8becbb29" type="folder">1</container>
-        </did>
-      </c>
-      <c id="849f011f77774c4a98e97672e8641c92" level="file">
-        <did>
-          <unittitle>Auditor Reports</unittitle>
-        </did>
-        <c id="bf2fdc6ccf8b4e0e9cdacefc6a535f3e" level="file">
-          <did>
-            <unitdate normal="1922/1944" type="inclusive">1922-1944</unitdate>
-            <container id="4d25387b7119c5259431aa9b0796e351" label="mixed materials (559465.1.1296)" type="package">1</container>
-          </did>
-          <scopecontent id="1c98b769eab2df1a846ef6bce0bfc681">
-            <head>Scope and Contents</head>
-            <p>Does not include 1924.</p>
-          </scopecontent>
-        </c>
-        <c id="782dbb4ef41949e89565076aac053f3d" level="file">
-          <did>
-            <unitdate normal="1945/1959" type="inclusive">1945-1959</unitdate>
-            <container id="773c135b33aec1b251823a9661a18411" label="mixed materials (559465.2.1296)" type="package">2</container>
-          </did>
-          <scopecontent id="4bf93d61b65988d68d4b34ba928e7113">
-            <head>Scope and Contents</head>
-            <p>Does not include 1955.</p>
-          </scopecontent>
-        </c>
-      </c>
-    </dsc>
-  </archdesc>
+1921 Arthur Young.</p>  </scopecontent>
+  <bioghist id="1648d6556539ba0e0ceed70755c2b4b4">
+    <head>Biographical / Historical</head>
+<p>The Rules of the Board of Trustees adopted in 1911 provided for an annual audit of the books of the Treasurer and also the books of account of the Board of Scientific Directors by an auditor or auditors appointed by the Board of Trustees who shall be a person or persons not connected with the Board.</p><p>Changes in By-Laws in 1966 provided that an Audit Committee consisting of not less than three and no more than five members of the Board of Trustees elected at the annual meeting recommend the appointment of independent public accountants to audit the accounts of the Corporation and review the reports submitted by such accountants and advise the Board of Trustees thereon.</p>  </bioghist>
+  <accessrestrict id="e6b76b4aa3d1cb5c63eb01873bb463e3">
+    <head>Conditions Governing Access note</head>
+<p>This collection is open for research. Brittle or damaged items are available at the discretion of the RAC.</p>  </accessrestrict>
+  <dsc><c id="7ae6125f258d4cceb3c3ba066cb2622d" level="file"><did><unittitle>"The Rockefeller University Financial Statements. (With Accountants' Report Thereon)" Peat, Marwick, Mitchell, and Co.</unittitle><unitdate>1980 June 30</unitdate><container id="50598df31a6db7403af3bbbc71aef74c" label="mixed materials" type="box">1</container><container id="fab8e64bf1b54637279d8175c718687f" parent="50598df31a6db7403af3bbbc71aef74c" type="folder">1</container></did></c><c id="849f011f77774c4a98e97672e8641c92" level="file"><did><unittitle>Auditor Reports</unittitle></did><c id="bf2fdc6ccf8b4e0e9cdacefc6a535f3e" level="file"><did><unitdate normal="1922/1944" type="inclusive">1922-1944</unitdate><container id="e6235db44a5dc609f74b91d8f82027c0" label="mixed materials [559465.1.1296]" type="package">1</container></did><scopecontent id="1c98b769eab2df1a846ef6bce0bfc681"><head>Scope and Contents</head><p>Does not include 1924.</p></scopecontent></c><c id="782dbb4ef41949e89565076aac053f3d" level="file"><did><unitdate normal="1945/1959" type="inclusive">1945-1959</unitdate><container id="6e938cc69a6f1912a428ecd8f35c3b17" label="mixed materials [559465.2.1296]" type="package">2</container></did><scopecontent id="4bf93d61b65988d68d4b34ba928e7113"><head>Scope and Contents</head><p>Does not include 1955.</p></scopecontent></c></c></dsc>
+</archdesc>
 </ead>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="under_revision" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid>FA862.xml</eadid><filedesc><titlestmt><titleproper type="filing">Rockefeller University records, Corporation, Board of Trustees, Budget Committee</titleproper><titleproper>A Guide to the Rockefeller University records, Corporation, Board of Trustees, Budget Committee
- <num>FA862</num></titleproper></titlestmt><publicationstmt><publisher>Rockefeller Archive Center</publisher><address><addressline>15 Dayton Avenue</addressline><addressline>Sleepy Hollow 10591</addressline><addressline>archive@rockarch.org</addressline><addressline>URL: <extptr xlink:href="http://www.rockarch.org" xlink:show="new" xlink:title="http://www.rockarch.org" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2019-08-27 00:01:43 -0400</date>.</creation></profiledesc><revisiondesc><date>2010 November 12</date><item>Paper finding aid converted to EAD/XML by AureXus in 2010. Imported into the Archvists’ Toolkit by Becky Robbins.</item></revisiondesc></eadheader><archdesc level="collection">
+ <num>FA862</num></titleproper></titlestmt><publicationstmt><publisher>Rockefeller Archive Center</publisher><address><addressline>15 Dayton Avenue</addressline><addressline>Sleepy Hollow 10591</addressline><addressline>archive@rockarch.org</addressline><addressline>URL: <extptr xlink:href="http://www.rockarch.org" xlink:show="new" xlink:title="http://www.rockarch.org" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2019-10-25 00:57:17 -0400</date>.</creation></profiledesc></eadheader><archdesc level="collection">
   <did>
     <langmaterial>
       <language langcode="eng">English</language>
@@ -9,11 +9,11 @@
       <corpname>Rockefeller Archive Center</corpname>
     </repository>
     <unittitle>Rockefeller University records, Corporation, Board of Trustees, Budget Committee</unittitle>
-    <origination label="creator">
+    <origination label="Creator">
       <corpname role="aut" source="naf">Rockefeller University</corpname>
     </origination>
-    <origination label="creator">
-      <corpname role="aut" source="naf">Rockefeller Institute for Medical Research</corpname>
+    <origination label="Creator">
+      <corpname role="ctb" source="naf">Rockefeller Institute for Medical Research</corpname>
     </origination>
     <unitid>FA862</unitid>
     <physdesc altrender="whole">
@@ -21,7 +21,7 @@
       <extent altrender="carrier">1 half-letter document box</extent>
     </physdesc>
     <unitdate normal="1911/1955" type="inclusive">1911-1955</unitdate>
-    <physdesc id="3a157a9291e9fb88d3039cb6792d83e1">1 box.</physdesc>
+    <physdesc id="3a157a9291e9fb88d3039cb6792d83e1" label="General Physical Description note">1 box.</physdesc>
   </did>
   <bioghist id="0a4ff11a6669bf9da6ba821bced3944c">
     <head>Biographical/Historical note</head>
@@ -135,6 +135,6 @@
   <accessrestrict id="f5e89f161748e381923be902172b08ad">
     <head>Conditions Governing Access note</head>
 <p>This collection is open for research. Brittle or damaged items are available at the discretion of RAC.</p>  </accessrestrict>
-  <dsc><c id="4bc20cf640124a23b1f61edb7456bf5b" level="file"><did><unittitle>Administrative papers, minutes and correspondence</unittitle><unitdate normal="1911/1955" type="inclusive">1911-1955</unitdate><container altrender="Half Ltr Document Storage Box" id="9635d96e2698d16048b94c5a1e285b21" label="mixed materials [A0000000089829]" type="box">1</container></did><c id="aab711bf4c224b5290228066f5f7425e" level="file"><did><unittitle>Special items include:</unittitle></did><c id="3fa6036f24184098ae968b6a3c43f1a6" level="item"><did><unittitle>Copy of letter from John D. Rockefeller to Trustees replacing with a new group of bonds the Western Pacific First Mortgage Bonds on which interest was defaulted</unittitle><unitdate>1915 June 28</unitdate><container altrender="Half Ltr Document Storage Box" id="8f166569f5d2f8181c03898c161ff252" label="mixed materials [A0000000089829]" type="box">1</container></did></c><c id="6f0aac4c264c41108f306ce6bc394e6f" level="file"><did><unittitle>Minutes of meeting of Board of Trustees and special meeting of the Executive Committee of the Board of Scientific Directors and Budget Committee vote on matter of extra compensation and supplemental increases in salary for higher staff members</unittitle><unitdate>1919 June 17-December 8</unitdate><container altrender="Half Ltr Document Storage Box" id="e8e3c55438da813bb6fafbb2cb271bb5" label="mixed materials [A0000000089829]" type="box">1</container></did></c></c></c></dsc>
+  <dsc><c id="4bc20cf640124a23b1f61edb7456bf5b" level="file"><did><unittitle>Administrative papers, minutes and correspondence</unittitle><unitdate normal="1911/1955" type="inclusive">1911-1955</unitdate><container altrender="Half Letter Document Box" id="78618d8e27e473cd5b7f5057db78222d" label="mixed materials [A0000000089829]" type="box">1</container></did><c id="aab711bf4c224b5290228066f5f7425e" level="file"><did><unittitle>Special items include:</unittitle></did><c id="3fa6036f24184098ae968b6a3c43f1a6" level="item"><did><unittitle>Copy of letter from John D. Rockefeller to Trustees replacing with a new group of bonds the Western Pacific First Mortgage Bonds on which interest was defaulted</unittitle><unitdate>1915 June 28</unitdate><container altrender="Half Letter Document Box" id="4923ffc3de4940b0180822bc6c9fffbb" label="mixed materials [A0000000089829]" type="box">1</container></did></c><c id="6f0aac4c264c41108f306ce6bc394e6f" level="file"><did><unittitle>Minutes of meeting of Board of Trustees and special meeting of the Executive Committee of the Board of Scientific Directors and Budget Committee vote on matter of extra compensation and supplemental increases in salary for higher staff members</unittitle><unitdate>1919 June 17-December 8</unitdate><container altrender="Half Letter Document Box" id="c03aa62f58190dbef7f33a0ef735b704" label="mixed materials [A0000000089829]" type="box">1</container></did></c></c></c></dsc>
 </archdesc>
 </ead>
