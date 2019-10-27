@@ -1,380 +1,59 @@
-<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
-  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="under_revision" langencoding="iso639-2b" repositoryencoding="iso15511">
-    <eadid>FA598.xml</eadid>
-    <filedesc>
-      <titlestmt>
-        <titleproper type="filing">Ford Foundation records, Population Program, Office Files of Stuart Burden</titleproper>
-        <titleproper>A Guide to the Ford Foundation records, Population Program, Office Files of Stuart Burden
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="under_revision" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid>FA598.xml</eadid><filedesc><titlestmt><titleproper type="filing">Ford Foundation records, Population Program, Office Files of Stuart Burden</titleproper><titleproper>A Guide to the Ford Foundation records, Population Program, Office Files of Stuart Burden
 
- <num>FA598</num></titleproper>
-        <author>Finding aid prepared by Rachel Moskowitz and Brian Bleich, The Winthrop Group</author>
-      </titlestmt>
-      <publicationstmt>
-        <publisher>Rockefeller Archive Center</publisher>
-        <p>
-          <date>September 2011</date>
-        </p>
-        <address>
-          <addressline>15 Dayton Avenue</addressline>
-          <addressline>Sleepy Hollow 10591</addressline>
-          <addressline>archive@rockarch.org</addressline>
-          <addressline>URL: <extptr xlink:href="http://www.rockarch.org" xlink:show="new" xlink:title="http://www.rockarch.org" xlink:type="simple"/></addressline>
-        </address>
-      </publicationstmt>
-    </filedesc>
-    <profiledesc>
-      <creation>This finding aid was produced using ArchivesSpace on <date>2018-05-31 00:00:06 -0400</date>.</creation>
-    </profiledesc>
-  </eadheader>
-  <archdesc level="collection">
-    <did>
-      <langmaterial>
-        <language langcode="eng">English</language>
-      </langmaterial>
-      <repository>
-        <corpname>Rockefeller Archive Center</corpname>
-      </repository>
-      <unittitle>Ford Foundation records, Population Program, Office Files of Stuart Burden</unittitle>
-      <origination label="creator">
-        <corpname role="aut" rules="dacs" source="nad">Ford Foundation</corpname>
-      </origination>
-      <unitid>FA598</unitid>
-      <physdesc altrender="whole">
-        <extent altrender="materialtype spaceoccupied">0.8 Cubic Feet</extent>
-      </physdesc>
-      <unitdate normal="1984/1989" type="inclusive">1984-1989</unitdate>
-      <abstract id="b9703717173a26ccb6700a7934db4581">Stuart Burden served as a Program Associate in both the Population and the Human Rights and Governance programs from 1986 to 1989. During this time he guided the Foundation's activities related to the AIDS epidemic of the 1980s. He also handled grant requests concerning reproductive health issues, family planning programs and women's health initiatives. The Office Files of Stuart Burden span from 1986 to 1989 and document the work of Mr. Burden and his colleagues in the Population and the Human Rights and Governance programs. The collection is organized into three series: AIDS Files, General Health Files, and Trustees' Trip Files. The bulk of the collection consists of grant proposals, grant-related correspondence, and reviews of grant-funded projects concerning AIDS awareness and prevention, as well as additional health related issues. The collection also includes materials from conferences, symposia and workshops that Mr. Burden attended as a representative of the Ford Foundation. The minutes and materials document the Foundation's interest and involvement in the field of health sciences. Mr. Burden's files also contain correspondence, surveys, trustees' biographies and press releases about the 1987 trustees' trip to Kentucky and Mississippi to review grant projects and determine their success.</abstract>
-      <physdesc id="3b3cc73eb1e0ede0af24270e5797c31e">
-        <extent>(2 document boxes)</extent>
-      </physdesc>
-    </did>
-    <acqinfo id="16ab3fd2f273d155c29bc363c3d84b85">
-      <head>Immediate Source of Acquisition note</head>
-      <p>Ford Foundation archive was deposited at RAC in 2011. Ford Foundation records, correspondence, reports, program files and officers papers were transferred to, and accessioned by, RAC beginning in 2011. Accessions continue as necessary.</p>
-    </acqinfo>
-    <userestrict id="b986ffef17e5a6cde0ae6c0d4b68e925">
-      <head>Conditions Governing Use note</head>
-      <p>Completion of a use agreement is required prior to providing scholarly access. See RAC Head of Reference (or applicable designee) for details. Ford Foundation holds title, copyright and literary rights in the collection, in so far as it holds them. The Rockefeller Archive Center has authority to grant permission to cite and publish material from the collection for scholarly purposes. Permission to publish extensive excerpts, or material in its entirety, will be referred to the Ford Foundation.</p>
-    </userestrict>
-    <prefercite id="f72304c07473e501891812de9748e11f">
-      <head>Preferred Citation note</head>
-      <p>Information regarding the Rockefeller Archive Center's preferred elements and forms of citation can be found at <extref href="http://www.rockarch.org/research/citations.php">http://www.rockarch.org/research/citations.php</extref></p>
-    </prefercite>
-    <bioghist id="89c6d7d3059ce10c79276b2fc9af8b2f">
-      <head>Biographical Note</head>
-      <p>Stuart Burden served as a Program Associate in the Population and the Human Rights and Governance programs from 1986 to 1989. He graduated from Stanford University in 1984 with a Bachelor of Arts in Human Biology and later received a Master's of Health Sciences from Johns Hopkins University. He worked with a variety of health initiatives, focusing much of his efforts on the Foundation's interest in the AIDS epidemic of the 1980s. At a time when Foundation funding for research on specific diseases was relatively uncommon, he helped secure grants for several AIDS initiatives. In addition to his work with AIDS research and outreach, Mr. Burden also handled grant requests dealing with reproductive health issues, family planning programs and women's health initiatives.</p>
-      <p>Following his departure from the Ford Foundation, Mr. Burden worked for the John D. and Catherine T. MacArthur Foundation where he served as a senior program officer and chairman of their Africa Task Group. After 11 years at MacArthur, he moved to Levi Strauss &amp; Co. and the Levi Strauss Foundation. There he served in the Community Affairs Department as Director for the Americas and Europe. In addition, he managed the company's HIV/AIDS grant-making initiatives. He has served on the Board of Directors of the National Centers on Sexuality at San Francisco State University and the International Women's Health Coalition, and on the Presidential Advisory Council on HIV/AIDS under presidents Clinton and Bush. Mr. Burden currently works as a senior consultant for the Monitor Institute.</p>
-    </bioghist>
-    <bioghist id="b60e282b6cb1cf9ca32b758491c0b6e6">
-      <head>Organizational History</head>
-      <p>The Ford Foundation created a Population program in 1963 to better support research and more efficiently handle grant proposals pertaining to the health of communities in the United States and abroad. Three years later, in 1966, the program became a sub-division of the International Division and remained so until 1981 when it once again became an independent program. Following a reorganization of the Foundation in 1992, the newly formed Reproductive Health and Population program absorbed the existing Population program. The ASSETS program (Asset Building and Community Development Program) was introduced in 1997 and included a subdivision focused on Human Development and Reproductive Health. Though the Human Development and Reproductive Health program was canceled in 2002, in 2009 the Education, Creativity and Free Expression program restored the Foundation's work in population health through a subdivision focused on Sexuality and Reproductive Health and Rights.</p>
-      <p>Designed to focus on similar issues as the Population program, the Human Rights and Governance (HRG) program was created in 1981 as a subdivision of the United States and International Affairs Program (USIAP). Following a Foundation restructuring in 1989, the HRG program was separated from USIAP and divided into the Rights and Social Justice and the Governance and Public Policy programs. These two programs later merged in a subsequent 1997 corporate restructuring which created the Peace and Social Justice program. Following another restructuring in 2009, the Peace and Social Justice program became the Democracy, Rights and Justice program, and focused on three key issues: Democratic and Accountable Government, Human Rights, and Social Justice Philanthropy.</p>
-    </bioghist>
-    <separatedmaterial id="c9dd00fafba6869e784034f5ea0f9f68">
-      <head>Separated Materials</head>
-      <p>There are no separated materials.</p>
-    </separatedmaterial>
-    <arrangement id="18eec21941c105e659238e4cd3a26690">
-      <head>Arrangement</head>
-      <p>Records are arranged into 3 series.</p>
-    </arrangement>
-    <scopecontent id="faafabd96c4bbd3560f06be43e49baf6">
-      <head>Scope and Content Note</head>
-      <p>The Office Files of Stuart Burden span from 1984 to 1989 and document his work for both the Population and the Human Rights and Governance programs. The collection is organized into three series: AIDS Files, General Health Files, and Trustees' Trip Files. The bulk of the collection dates from 1986-1989 and consists of grant proposals and documentation of grant-funded projects, including initiatives in AIDS awareness and prevention, women's health and reproductive rights, family planning, and improved hygiene.</p>
-      <p>The grant proposals and related correspondence between applicants and Ford employees describe studies being implemented and conducted at a time when AIDS research was still in its nascent stage. The AIDS-related proposals found within the collection provide details of the Foundation's earliest responses to the epidemic and what was then known of the disease.</p>
-      <p>The collection also contains materials from conferences, symposia and workshops Mr. Burden attended as a representative of the Ford Foundation. The minutes and materials from these events provide an overview of the work being done in the health sciences field during the late 1980s and document the Foundation's interest and involvement. Mr. Burden's files also detail the 1987 trustees' trip to Kentucky and Mississippi during which trustees met with grant recipients to gauge the work accomplished through Foundation support.</p>
-    </scopecontent>
-    <processinfo id="1ca564a87f8f0cd577eb86c9e84c6986">
-      <head>Processing Information Note</head>
-      <p>The original volume of one cubic foot accessioned by the Ford Foundation was reduced to 0.8 cubic feet during processing. The collection is now stored in two archival document boxes. Reference and background materials provided with grant applications and correspondence, as well as duplicate grant proposals, grantee reports, and conference materials were discarded during processing.</p>
-    </processinfo>
-    <accessrestrict id="fd6a3bbf91e475a168e217d0f246663a">
-      <head>Conditions Governing Access</head>
-      <p>Records more than 10 years old are open for research with select materials restricted as noted. Brittle or damaged items are available at the discretion of RAC.</p>
-    </accessrestrict>
-    <bioghist id="87bffa281c15fc0824aaed658d356481">
-      <head>Biographical / Historical</head>
-      <p>
-        <emph render="bold">Segment One: International Activities of the Ford Foundation: An Overview</emph>
-      </p>
-      <p>The Foundation's aspiration to become a national and international philanthropy for the advancement of human welfare was first formally expressed in the seminal 1949 report of the Gaither Study Committee, <emph render="italic">Report of the Study for the Ford Foundation on Policy and Program</emph> (RAC Library, call letters 361.7 GAI ), which was commissioned by the Board of Trustees to chart the Foundation's future. Foundation Trustees launched Ford's international grantmaking activities in 1950 when they approved the committee's report and its embrace of peace, democracy, and freedom.  Since then, the Foundation has tackled these goals using a variety of strategies and responding to changing contexts, from the Cold War to the 1989 fall of the Berlin Wall and beyond.</p>
-      <p>Toward the Foundation's aspirational goal, "the establishment of peace", its international activities have comprised a wide range of conceptual approaches and focus areas. These include international affairs, international studies, international understanding, arms control and disarmament, international law, international economic concerns, and overseas development in nearly every region of the world. Three distinct periods emerge for the international grantmaking defined by external contextual changes and internal changes in Foundation leadership and structures: the expansion era of 1950-1965; the transition and restructuring years of 1966-1988; and the post-1989 shift away from Cold War dichotomies.  During each of the distinct historical periods the consistent objectives were: 1) to ensure freedom and democracy in developed countries; 2) to foster education and international understanding in all countries; and 3) to contribute to the social, economic, and political development of less developed countries.</p>
-    </bioghist>
-    <bioghist id="4ba1c4718bffca3a2dc2059021a43cbd">
-      <head>Biographical / Historical</head>
-      <p>
-        <emph render="bold">Segment 3. Period Sketch - Transition and Restructuring 1966-1988</emph>
-      </p>
-      <p>In the 1960s, the Ford Foundation Trustees began to rethink the role of the Foundation in the context of the era's dramatic political and cultural changes. For instance, the passage of the 1964 Civil Rights Act created a domestic policy context in which the Foundation could more deeply engage with issues of rights and social justice. Events overseas starting in the late 1960s would extend the rights agenda to international affairs and development operations at the Foundation -- all advanced by the leadership of McGeorge Bundy (president, 1966-1979). </p>
-      <p>McGeorge Bundy was appointed president in 1966, following a significant career in national security and academic administration. During World War II, he worked with the Army's intelligence division, and in the early post-war years was a political analyst at the Council on Foreign Relations. Even without a postgraduate degree, at the age of thirty -four he became dean of the Faculty of Arts and Science at Harvard University. In 1961, President Kennedy appointed Bundy to be Special Assistant to the President for National Security - a position he held for five years under both Kennedy and Johnson. Those significant years saw the Bay of Pigs invasion, the Cuban Missile Crisis, and the beginnings of the Vietnam War. </p>
-      <p>When Bundy arrived at the Foundation, he initiated a restructuring that modeled government departments rather than the academic ones President Henry Heald had established in the 1950s. At the same time, he had to contend with serious financial constraints due to Ford's overspending in the prior periods and to economic downturns in the global economy. The Board of Trustees mandated an annual spending of over $100 million. </p>
-      <p>These economic constraints meant that Foundation programs had to be more selective across the range of its programs. Nonetheless, international activities remained prominent with the new president and trustees. President Bundy and key trustees such Eugene Black (1960-1968, former head of the World Bank) and Robert S. McNamara (1968-1986, former U.S. Secretary of Defense and then head of the World Bank, 1968-1981) reflected a commitment to the international activities. Bundy also added to the board in 1972 the first trustee from a developing country, the Indonesian activist and scholar, Dr. Soedjakmoto, the former Ambassador to the United States from his country and then Special Adviser on Social and Cultural Affairs to the Chairman of Indonesia's National Development Planning Agency. </p>
-      <p>To create economies of scale, Bundy unified US-based international and overseas activities under one division: the International Division (using the name for the first time). That division comprised Resources for Development (area studies, languages, and exchanges), Population, International Relations, Planning and Evaluation, and the country programs. David Bell, an economist and the first administrator of the US Agency for International Development (1962-1966), was named vice president and served in that capacity until the end of Bundy presidency. </p>
-      <p>In 1966, Bundy terminated the long-standing internationally oriented but domestically based International Training and Research Program.   Several large domestic programs -- including support of centers of international studies - were phased out in the 1970s. Instead, Ford launched under its international affairs efforts a focused but robust program in security and arms control. Over Bundy's tenure, the overseas offices were reduced from twenty in 1966 to twelve in 1979, when he retired. </p>
-      <p>The Foundation increasingly turned its attention to different set of international issues including human rights and working in repressive societies, such as South Africa. The military coups in Latin America during the late 1960s and early 1970s led the Foundation to initiate in 1976 a human rights program housed in Vice President Bell's office. </p>
-      <p>In 1979, Franklin Thomas was named president of the Ford Foundation (1979-1996).  In contrast to Bundy's international and defense policy background, Franklin Thomas brought to the Ford Foundation his experience in law, housing, and community development. Prior to joining the Foundation, Thomas, a lawyer, was a Foundation trustee. He chaired the Rockefeller Foundation-funded Study Commission on U.S. Policy towards South Africa and led the Ford-funded Bedford-Stuyvesant Restoration Corporation in New York from its beginning in 1966 until he left in 1979. Earlier, he had been deputy police commissioner of NYC. </p>
-      <p>In the first decade of Thomas' tenure, the international work was still framed using the post-war East-West dichotomy. Several trustees brought to the board active engagement in international issues: Donald F. McHenry (trustee over the period 1981-1993) had served as ambassador to the U.N. and was active in the anti-apartheid movement; and General Olusegun Obasanjo (trustee over the period 1987-1999) had been Nigerian head of state from 1976-1979, and was then president of the African leadership Forum. Along with McNamara and Soedjakmoto, Rodrigo Botero, an internationally renowned economist from Colombia and former Colombian Minister of Finance and Credit from 1974 to1976, remained on the board over the period 1978-1989. </p>
-      <p>During the early years of the Thomas presidency, the scope and strategies of the Foundation's activities were also influenced by economic and global pressures, leading to reduced assets and further financial stringencies. Thomas' board-mandated reductions resulted, for example, the firing of twenty senior staff at the same time.  To achieve more effective and efficient programs, Thomas had a vision of Ford as one foundation, linking the domestic and overseas activities under new program themes: Urban Poverty, Rural Poverty and Resources, Human Rights and Social Justice, Governance and Public Policy, Education and Culture, and International Affairs. </p>
-      <p>The restructured Foundation comprised two programmatic divisions led by vice presidents: U.S. and International Affairs Programs (USIAP) headed by Susan Berresford; and Developing Countries Program (DCP), headed by William Carmichael. Berresford had been at the Foundation since 1970, coming from the U.S. Manpower Career Development Agency. She served in the National Affairs area, first as program assistant and then program officer (1972-1980), becoming head of women's programs in 1980. The main international efforts under USIAP were housed in Rural Poverty and Resources, Human Rights and Governance, and International Affairs. The other programs - Urban Poverty, Education and Culture, and Program-Related Investments - also addressed a scattering of international issues related to their main themes. </p>
-      <p>Carmichael had joined the Foundation in 1968 as Representative in Brazil. In July 1971, he was named Head of the Office of Latin America and the Caribbean, and in September of 1977, he became Head of the Middle East and Africa Office.  The DCP program was responsible for all the Field Offices: Andean and the Southern Cone, Brazil, Mexico and Central America, Bangladesh, India, Southeast Asia, West Africa, Eastern and Southern Africa, and Middle East and North Africa. </p>
-      <p>When the Foundation initiated a Human Rights and Governance program (HR&amp;G) in 1981, it was the first instance of a Ford program explicitly entitled "human rights," despite the fact that human rights grantmaking that had started officially in 1976. International Affairs remained separate from HR&amp;G. In 1987, however, the Board conceptually linked three programs, creating a Trustee committee called Human Rights, Governance, and International Affairs, which existed until 1992. Operationally, however, the programs relating to these fields did not often work together. </p>
-      <p>International governance remained a commitment under Thomas. The Foundation, for example, had a long-established relationship with the United Nations: from 1951 until 1988, the United Nations received ninety grants from the Foundation (it received another 198 over the period 1989-2009). </p>
-      <p>In these early years of the Thomas presidency, dramatic changes were occurring in the Soviet Union and Eastern Europe. Under President Mikhail Gorbachev's leadership since 1985, the USSR was opening up to the international community, the rule of law in society was taking prominence there, and press freedoms were spreading. The foundation developed new programs in the region, drawing on the $60 million already spent to promote human rights and free expression and increase Western understanding of developments there. </p>
-      <p>Given the continuing economic constraints facing the Foundation and rising debt in developing countries, the Foundation shifted support under DCP to smaller scale community-based initiatives in the field offices. Thomas was also charged by the Board to increase the diversity of grantees, especially to favor populations "most affected" by the problems of concern to the Ford Foundation. The Foundation built on earlier efforts and sharpened its focus on women's issues throughout the world, including shifting the focus of the population program to women' reproductive health and child survival. </p>
-      <p>In the 1980s, Carmichael and others, with strong support from Thomas and the board, continued the 1970s' support of South African grantees for training large numbers of black lawyers and litigating sensitive cases in the South African legal system. Recognizing the multifaceted nature of discrimination in South Africa, the Foundation not only advanced the rule of law, but also strengthened civic organizations, women's groups, and educational institutions. Further, it supported a number of activist organizations in the United States that were energetically advocating US governmental sanctions against South Africa and for private disinvestment. The Foundation also played a role in shaping US policy on apartheid through the role Thomas played from 1985 to 1987 chairing the US Secretary of State's Advisory Committee on South Africa. </p>
-      <p>The Foundation's overseas staff also sought to improve the economic situation in poor, marginalized communities through targeted loan programs particularly to women head of households, beginning with the innovative work in Bangladesh of Professor Mohammed Yunus, the founder of the Grameen Bank. The results led the way to establish the field of microfinance with the aim of empowering women living in poverty conditions, such as through a microfinance network in Latin America starting 1980 and a global lending program for women starting in 1987. </p>
-      <p>Thomas encouraged staff to share results at worldwide meetings. During those meetings, Ford staff in the country offices and in New York tried to follow the mandate to work as "one foundation." The persistent challenge toward meeting that goal, however, was that initiatives emerging from the New York-based programs, or indeed any program developed in one country, were not always adaptable, relevant or acceptable in other countries or regions. It remained a challenge to develop a unified program, despite the commitment at the highest level of foundation leadership. </p>
-    </bioghist>
-    <bioghist id="a6e381060627268b48e54af33e91513d">
-      <head>Biographical / Historical</head>
-      <p>
-        <emph render="bold">Segment 3. Period Summary - Transition and Restructuring 1966-1988</emph>
-      </p>
-      <p>During this era, the Foundation's earlier interest in business and the economy evolved into a commitment to improving conditions for people living on the margins of society. The Ford Foundation promoted advancements in women's rights around the globe and introduced micro-lending into grantmaking. At the same time, the economic issues that were shaping program strategies also affected the Foundation's assets. Severe cuts resulted in a significant restructuring of country programs and reduced budgets across all programs. </p>
-      <p>Even with the cuts in country offices, in the 1970s Ford grantees in developing countries received approximately 80% of the International Division budget. The remaining fifth went to Population, Development Studies, and International Affairs. Although representing a much smaller piece, the International Security and Arms Control program from 1973 was the Foundation's most concerted effort to make meaningful inroads in disarmament and nuclear issues - those challenges most directly linked to the Foundation's historic concern for peace. By 1979, the Ford Foundation was the biggest funder of arms control as a field, both in the U.S. and overseas. </p>
-    </bioghist>
-    <bioghist id="eb50fadeb6a44e97a29d1a19ab997fe3">
-      <head>Biographical / Historical</head>
-      <p>
-        <emph render="bold"> Segment 4. Period Sketch - The Post-1989 Shift Away from Cold War Dichotomies</emph>
-      </p>
-      <p>Between 1989 and 1991, dramatic changes in the external international conditions created a significantly different context for Ford Foundation's international activities both in the United States and overseas. In November, 1989, the Berlin Wall fell. In February 1990, in South Africa, Nelson Mandela was released from prison. In December 1991, the Soviet Union dissolved. As a consequence, the Cold War was over, Western Europe no longer had a special strategic role in the Foundation, and program-related activities in Eastern Europe and the former Soviet Union multiplied. The Foundation not only continued the earlier efforts to fund leadership in the region; from 1990-1994, Ford also spent $1 million on the training of newly-elected parliamentarians in Eastern Europe and the former USSR. By 1993, half of the funds for grantmaking related to the former Soviet bloc were going to in-country individuals and institutions.</p>
-      <p>In 1989, Thomas also instituted a major restructuring of the Foundation to fulfill his vision of "One Foundation." All programs were put into one division led by Vice President Susan Berresford. Carmichael joined the Institute of International Education to run a program on Soviet and Eastern European Affairs and then higher education in South Africa. All the Foundation grant programs - domestic and international - reported to Berresford: Africa and the Middle East (AME, formerly MEA), Asia (ASIA), Latin American and the Caribbean (LAC/OLAC), Human Rights and Governance (HRG), Education and Culture (EC), Program-Related Investments (PRI), and International Affairs (IA).</p>
-      <p>The change in South Africa opened up many new opportunities to work in partnership with a range of South Africa partners to promote and sustain the transition to democracy. The Foundation supported women's groups working on law, development and reproductive rights. It contributed, for example, to the groups working on the Women's Chatter in South Africa, resulting in the adoption in 1994 of the  first constitution anywhere that specifically included sections on women's rights.</p>
-      <p>During the 1990s, the promising political changes in African countries and elsewhere provided a positive perspective to counteract the continuing economic constraints facing the Foundation and the rising debt in developing countries. Both to reinforce local democratic initiatives and to address its economic challenges, the Foundation's field offices across Africa and the developing world shifted their support toward the promotion of smaller scale community-based initiatives.</p>
-      <p>Thomas supported work on arts and culture, not as a goal in itself, but, instead, as a means for promoting social justice, education, and human rights, both in the United States and in developing countries. At the same time, while reducing support for cultural institutions in the United States, such institutions received support overseas to preserve and celebrate national and local cultural heritages. While in South Africa, for example, the Foundation provided support for Johannesburg anti-apartheid theatre groups, in West Africa it funded for nearly two decades a program to preserve and make accessible cultural heritage by expand the training of museum leaders and strengthening museum exhibit and outreach capabilities.</p>
-      <p>In the early 1990s, the Foundation through its India office helped establish an independent foundation to enhance sustainability in the arts community. Ford envisioned new opportunities for cultural institution to rely on local resources focus on new forms of creativity and encourage young artists, in particular. Similar to the Indian effort, the Ford office in Egypt in 1993 provided support for an arts-focused foundation.</p>
-      <p>When Susan Berresford became president in 1996, with a strong commitment to globalization as well as concern for the uncertainty it created, she reorganized the Foundation in to three large program themes that would inform grantmaking in the United States and developing countries: Assets with a focus on poverty, Peace and Social Justice on rights issues, and Education, Media, Arts and Culture to pull together related endeavors. She also created a separate communications program. Each program was led by a vice president. Berresford strongly reinforced the institutional and grantmaking goal of affirmative action, an organizational goal that had been initiated in the Bundy era.</p>
-      <p>She maintained significant support, domestically and internationally for women's issues. She endorsed and encouraged the worldwide meetings staff members and grantees to continue to hold joint meetings in order to create a greater sense of partnership and shared purpose. The more promising international situation enabled the Ford Foundation in 1996 to open an office in Russia (Moscow) and in Vietnam (Hanoi). Berresford encouraged the development of local and regional peace and security programs in developing countries. A regional security, peace, and cooperation program in India, for instance, focused on the work of civil society groups as an increasingly prominent regional interest in South Asia.</p>
-      <p>In this period, the Foundation gave renewed the prominence of arts and culture in the US and maintained the commitment in developing countries. By 2000, funding levels for the Education, Media, Arts and Culture division were approaching parity with the other two, Assets and Peace and Justice.</p>
-      <p>Berresford also encouraged each of the programs to hold worldwide meeting to promote cross-program and cross-national collaboration in fields such as human rights, income generation, cultural preservation, and building capacity in the arts and arts management. One persistent question of such initiatives. Toward that end, and building on the earlier experiences in India and Egypt, Berresford worked closely with her senior vice president, Barry Gaberman and other staff to establish new foundations at the local and national levels, particularly in developing countries. Gaberman had been at the foundation since 1973, starting as assistant to the representative in Indonesia. After serving in a number of different positions, by 1984, under Thomas, he served as deputy vice president in the U.S. and International Affairs program. After the 1989, Thomas and Berresford appointed him deputy vice president. 1996, Berresford appointed him senior vice president.</p>
-      <p>As the twentieth century came to a close, the economic conditions of the 1970s and 1980s that had resulted in so much global debt, with special impact on the developing world, were slowly turning around. Many countries were experiencing economic growth and burgeoning democratic initiatives. Not only was the global economic situation improving but the Foundation's assets were also growing. Consequently, the Foundation was in a strong position to bring attention to long-standing issues holding back developing countries. The grants programs addressed the pressing need both for advanced training of young- to mid-career adults living in marginalized and disadvantaged conditions along the equally, and for strengthening and building sustainability of universities across sub-Saharan Africa, along with enhancing broadband access for improved internet communications, promoting women in higher education, and strengthening postgraduate education.</p>
-      <p>Reacting to the tragedy of September 11, 2001, the Foundation provided immediate relief to affected local institutions in the United States. The Foundation also helped launch support a fund at the Institute of International Education to support scholars at risk in countries in conflict and under terrorist threats, especially in, but not limited to, the Middle East.</p>
-    </bioghist>
-    <bioghist id="c12932cbc9276a272d92c442055c0692">
-      <head>Biographical / Historical</head>
-      <p>
-        <emph render="bold">Segment 4. Period Summary - The Post-1989 Shift Away from Cold War Dichotomies</emph>
-      </p>
-      <p>Franklin Thomas's presidency, lasting until his retirement in 1995, was defined by a commitment to connect the Foundation's US and international activities around a few key themes. These themes were addressed through grants that created private sector partnerships, enhanced support for local community groups, and enlarged initiatives to promote human rights, with special attention to women's rights. Throughout Thomas's tenure, Ford staff reinforced his special commitment to bolstering marginalized communities and broadening access to the law and educational opportunity. The Ford Foundation led the way in building the fields of international security studies, arms control, human rights, and governance. Moreover, in this period, Ford was innovative in drawing together the fields of international cooperation and human rights into one program.</p>
-      <p>Susan Berresford in her tenure as president from 1996-1997 continued and expanded the activities she helped initiate under Thomas. She and her colleagues increased support for the arts and established a variety of major international collaborative efforts implementing the concept of one foundation. Ford staff in this period drew on the Foundation's time-tested grantmaking strategies (supporting individuals and new institutions as needed), while concentrating on under-addressed issues and underserved populations. With Berresford's encouragement, Foundation staff explicitly took into account the new global context, increasing opportunities for inclusion of disadvantaged populations in all of their activities.</p>
-    </bioghist>
-    <bioghist id="0fa2da4de719773956158bd4b93ba6c4">
-      <head>Biographical / Historical</head>
-      <p>
-        <emph render="bold">Segment One: Population Activities of the Ford Foundation: An Overview</emph>
-      </p>
-      <p>The historical arc of the Ford Foundation's work in population covers the scientific, public health, social, cultural, economic, and policy issues associated with population growth, contraceptives, family planning, women's reproductive health, women's rights, gender rights, and related national policies and programs. Gradually, in response to changes internal and external to the Foundation, the program involved women in the research and policy aspects and of informing public debate and understanding. </p>
-      <p>In sum, the Foundation's broad swath of activities related to population and human reproduction represents a significant area of continuous attention from the 1950s until the present time. (It is important to note, however, that some aspects, such as the focus in in the 1960s on population-related scientific research, was an outlier in terms of the Foundation's overall emphasis.) Despite all the changes in leadership at the Foundation and consequent reorganizations, changes in local and global contexts, and changes in understanding of what constitutes effective work in population, the Ford Foundation has maintained a commitment to this field directly related to the health and well-being of women, their families, and their communities. </p>
-    </bioghist>
-    <bioghist id="f2e0639550dbf7ba597ae5b7f4607f25">
-      <head>Biographical / Historical</head>
-      <p>
-        <emph render="bold">Segment Four: Ford Foundation Population Activities, 1981-1992: Renaming and Refocusing the Population Program</emph>
-      </p>
-      <p> In 1980, the new president of the Ford Foundation, Franklin A. Thomas, created two new divisions, (1) United States and International Affairs and (2) Developing Countries, each led by a vice president (two long-time staff members, respectively, Susan Berresford and William Carmichael). He also identified six program areas for work both in the US and overseas- Urban Poverty and the Disadvantaged (soon called Urban Poverty), Rural Poverty and Resources, Human Rights and Social Justice (soon, Human Rights and Governance), Education (soon, Education and Culture), International Political and Economic Issues (soon, International Affairs), and Governance and Public Policy (soon moved to Human Rights, and replaced by Program-Related Investments). </p>
-      <p> He indicated that the population work as it was conducted would be closed. The work was absorbed into a new area called, "Health, Nutrition and Population," within the International Division. Grants began to support more explicitly the relationship of population and family planning to broader health and development issues. A new focus developed around giving a "fair start" to infants and children. Harkavy, now based in the Urban Poverty Program, remained the responsible program staff member with the title, "chief program officer." </p>
-      <p>By 1982, however, another change took place: population was separated from health and nutrition. The Population Program regained its distinctive status as a separate initiative under International Affairs. It maintained its traditional scope on limiting population growth, assessing the impact of such growth on social and economic development, and developing new approaches to demographic analyses, along with fostering basic research on contraceptives and fertility control. The work on health and nutrition was taken over by the Urban Poverty program, which addressed the population-related issues of teenage pregnancy and child survival both in the United States and developing countries. Grants concerned with refugees and migration, along with reproductive health rights, were supported under two programs, Human Rights and Governance, and International Affairs. </p>
-      <p>In 1989, President Thomas implemented another reorganization of the Foundation's programs. He coalesced all of the programs under one vice president, Susan Berresford. Harkavy had retired in 1988, and was replaced in 1989 by José Barzelatto, who joined after serving as director of the Special Program on Human Reproduction at the World Health Organization. He was appointed senior program advisor and placed in the Foundation's Urban Poverty Program. With his appointment, and in the context of the reorganization, the Foundation conducted an external review of the work in population. Following the review, in 1991 Barzelatto was named director of the newly named population program, Reproductive Health and Population. Once again, the program became free standing, and Barzelatto reported directly to Vice President Berresford. (An important staff note: Margaret Hempel was appointed in 1989 to work with Barzelatto, serving first with as assistant program officer and then moving with him to the new program, becoming deputy director in 1994.  Hempel continued to work on reproductive health and population grants until 1999, when she assumed leadership positions outside the foundation. She returned in 2008 to direct the newly configured population program on Sexuality and Reproductive Health and Rights. In 2013, she became the head of the enlarged program focusing on Gender, Racial, and Ethnic Justice. She left the foundation in 2018). </p>
-      <p>As described in the 1990 Annual Report, the new Reproductive Health and Population Program built on and expanded the traditional focus on contraceptive research, demographic and social science research, and institution strengthening related to population and family planning. As part of the social science research and training efforts, the team introduced culture as an influential component of family planning programs. The program also gave special focus to the reproductive health issues affecting disadvantaged women in both rural and urban areas. In addition, the program began to support community-based reproductive health programs, women-centered programs in reproductive health including issues associated with maternal morbidity and mortality, and reproductive health rights. </p>
-      <p>With the increasing spread of HIV-AIDS both in the United States and around the world, the Foundation began to address the complex of issues associated with sexually transmitted diseases. The initial grants fostered public dialogue on the theme of HIV-AIDS, as well as supported the development of culturally appropriate ethical and legal frameworks in the context of women's reproductive health. The Foundation also supported projects that explicitly addressed issues of sexuality and sexual behavior. </p>
-      <p>During this period, the program actively collaborated with the Human Rights and Governance Programs around grants to improve women's role in society and their legal status. The work on refugees and migrants continued under Urban Poverty and International Affairs. Increasingly over the next few years, the program targeted international level activities, providing support for the 1994 UN Conference on Population in Cairo and the 1995 UN Conference on Women in Beijing.  Under Barzelatto's leadership, the program's activities ranged from the most grassroots projects to global strategies, with women always at the center. </p>
-    </bioghist>
-    <dsc>
-      <c id="c6337714b64b46dab1e5dbafd0e4c2c2" level="series">
-        <did>
-          <unittitle>AIDS Files</unittitle>
-          <unitid>I</unitid>
-          <unitdate normal="1987/1989" type="inclusive">1987-1989</unitdate>
-        </did>
-        <arrangement id="b9351f2e40cc569fd1735e37dd6e2948">
-          <head>Arrangement</head>
-          <p>The grant-related files are arranged in alphabetical order by the name of the requesting agency.</p>
-        </arrangement>
-        <scopecontent id="28e54bc1a99e529ca47ce7fcb887b205">
-          <head>Scope and Contents</head>
-          <p>This series consists of grant proposals, funding requests, and correspondence related to AIDS research. There is also a file of charts concerning the Foundation's projected grant-making activity for AIDS-related requests. Though much of the correspondence regarding grant proposals was addressed directly to Shepard Forman, Director of the Human Rights and Governance program, Mr. Burden appears to have shared responsibility for handling the incoming mail. Responses by Mr. Forman and Mr. Burden to grant-related inquiries reveal the Foundation's burgeoning interest in AIDS research and contain information regarding the team of consultants hired by the Foundation to determine how best to initiate programs to respond to the epidemic. This series also includes one folder of materials from "AIDS and Reproductive Health," a workshop organized by Harvard University's School of Public Health. Mr. Burden participated in the workshop as a Ford Foundation representative.</p>
-        </scopecontent>
-        <c id="5635ad80ff2b46a7bb654a973737ac22" level="file">
-          <did>
-            <unittitle>Grant Proposals and Funding Requests -- Adolescent Treatment and Education Alliance</unittitle>
-            <unitdate normal="1987/1987" type="inclusive">1987</unitdate>
-            <container altrender="Letter Document Storage Box" id="280aa12427cac611dae2783dc50f31f6" label="documents [A0000000087772]" type="box">1</container>
-            <container id="a435e79767cae7a4f27fbddab36193b7" parent="280aa12427cac611dae2783dc50f31f6" type="folder">1</container>
-          </did>
-        </c>
-        <c id="454d97f83a65482d9befd659e3329e40" level="file">
-          <did>
-            <unittitle>Grant Proposals and Funding Requests -- Association of the Bar of the City of New York</unittitle>
-            <unitdate normal="1987/1987" type="inclusive">1987</unitdate>
-            <container altrender="Letter Document Storage Box" id="8ecc4338a095ec6de807b7de5a04df17" label="documents [A0000000087772]" type="box">1</container>
-            <container id="7aadbddda2d3d2bd62c7ecdaad1575e5" parent="8ecc4338a095ec6de807b7de5a04df17" type="folder">2</container>
-          </did>
-        </c>
-        <c id="fb6e436c468b471ca9acda1a5a0606a1" level="file">
-          <did>
-            <unittitle>Grant Proposals and Funding Requests -- Human Interaction Research Institute</unittitle>
-            <unitdate normal="1987/1987" type="inclusive">1987</unitdate>
-            <container altrender="Letter Document Storage Box" id="cbf12ff2f88c4dfe638094c0f12c1ba9" label="documents [A0000000087772]" type="box">1</container>
-            <container id="688fd6abfdd664efc02da11302c64755" parent="cbf12ff2f88c4dfe638094c0f12c1ba9" type="folder">3</container>
-          </did>
-        </c>
-        <c id="1e3aeca7ca404e13a71fe73f7a6c16b8" level="file">
-          <did>
-            <unittitle>Grant Proposals and Funding Requests -- World Future Society</unittitle>
-            <unitdate normal="1987/1987" type="inclusive">1987</unitdate>
-            <container altrender="Letter Document Storage Box" id="d36d8a19671624086ee0ebfe55cafee4" label="documents [A0000000087772]" type="box">1</container>
-            <container id="ac37b6f79e5f90b4435e8a21df27e087" parent="d36d8a19671624086ee0ebfe55cafee4" type="folder">4</container>
-          </did>
-        </c>
-        <c id="078682e227c149419b94ccd25c6fdfda" level="file">
-          <did>
-            <unittitle>Grant Spending Projections</unittitle>
-            <unitdate normal="1989/1989" type="inclusive">1989</unitdate>
-            <container altrender="Letter Document Storage Box" id="5d8059b638549f6b96f3e5eb5c3b083c" label="documents [A0000000087772]" type="box">1</container>
-            <container id="dc6202f11691a6444627f3ffd2ded478" parent="5d8059b638549f6b96f3e5eb5c3b083c" type="folder">5</container>
-          </did>
-        </c>
-        <c id="0c395d3cdcbe476b8c1518cd359e0edf" level="file">
-          <did>
-            <unittitle>Workshops, Symposia -- Woods Hole Workshop, "AIDS and Reproductive Health" (Harvard University School of Public Health)</unittitle>
-            <unitdate normal="1988/1988" type="inclusive">1988</unitdate>
-            <container altrender="Letter Document Storage Box" id="5d0696b81c3b061677467852f7f5e72c" label="documents [A0000000087772]" type="box">1</container>
-            <container id="0704ca80374a735fb6969c7756ff4977" parent="5d0696b81c3b061677467852f7f5e72c" type="folder">6</container>
-          </did>
-        </c>
-      </c>
-      <c id="e8e76edd95ea4dfd876836e816582e64" level="series">
-        <did>
-          <unittitle>General Health Files</unittitle>
-          <unitid>II</unitid>
-          <unitdate normal="1986/1989" type="inclusive">1986-1989</unitdate>
-        </did>
-        <arrangement id="493a2cf43ce6b8ce7a8e8b5d786ed380">
-          <head>Arrangement</head>
-          <p>Arranged alphabetically by the name of the requesting agency or individual.</p>
-        </arrangement>
-        <scopecontent id="5b1af7878900bbbe711b5ab5bd44a221">
-          <head>Scope and Contents</head>
-          <p>The General Health Files consist of grant proposals, funding requests, correspondence and grantee reports concerning non-AIDS related health issues. Most of the grant-requests found within this series received Foundation support and focus on women's health, family planning, nutrition and hygiene in underdeveloped countries and among at-risk populations. The funded projects include a television series designed to address public health issues proposed by the Center for Development and Communication in Cairo, Egypt; a compendium of family planning and child survival data of one hundred developing countries compiled by the Center for Population and Family Health at Columbia University; and the development of maternal morbidity studies in India, Bangladesh and Egypt. This series also contains materials pertaining to a panel discussion hosted by the International Women's Health Coalition and a Women for Women's Health meeting that Mr. Burden attended on behalf of the Ford Foundation.</p>
-        </scopecontent>
-        <c id="545b9df719854df19fb2ed86b350ab5f" level="file">
-          <did>
-            <unittitle>Grant Proposals and Funding Requests -- Boston Women's Health Book Collective</unittitle>
-            <unitdate normal="1989/1989" type="inclusive">1989</unitdate>
-            <container altrender="Letter Document Storage Box" id="1d7f02a5dca9fae0d5e739fab389482b" label="documents [A0000000087772]" type="box">1</container>
-            <container id="2e5ef19559245d5780da4912443e2ed8" parent="1d7f02a5dca9fae0d5e739fab389482b" type="folder">7</container>
-          </did>
-        </c>
-        <c id="062205cde78f4ecea461d102a7a69b00" level="file">
-          <did>
-            <unittitle>Grant Proposals and Funding Requests -- Center for Development Communication (Cairo)</unittitle>
-            <unitdate normal="1988/1988" type="inclusive">1988</unitdate>
-            <container altrender="Letter Document Storage Box" id="ced21c6c5b5884f08cfbfdb5a835ec9d" label="documents [A0000000087772]" type="box">1</container>
-            <container id="513ab3afc40c6152749227c1d0df57c3" parent="ced21c6c5b5884f08cfbfdb5a835ec9d" type="folder">8</container>
-          </did>
-        </c>
-        <c id="97f924bd844a40ebac7915026a8a72ff" level="file">
-          <did>
-            <unittitle>Grant Proposals and Funding Requests -- Center for Population and Family Health, Including Report from Previous Ford Funding</unittitle>
-            <unitdate normal="1988/1989" type="inclusive">1988-1989</unitdate>
-            <container altrender="Letter Document Storage Box" id="689c45df256b1e4e41f8fae881ac25cc" label="documents [A0000000087772]" type="box">1</container>
-            <container id="cc0abd17addc99bba7e5eeff13087790" parent="689c45df256b1e4e41f8fae881ac25cc" type="folder">9</container>
-          </did>
-        </c>
-        <c id="6a6655ef11ec4ad2a447c3c8ec1819db" level="file">
-          <did>
-            <unittitle>Grant Proposals and Funding Requests -- Family Health International</unittitle>
-            <unitdate normal="1988/1988" type="inclusive">1988</unitdate>
-            <container altrender="Letter Document Storage Box" id="1189c29a3d5d27c8aff54bc359cb626d" label="documents [A0000000087772]" type="box">1</container>
-            <container id="0bf2caa61d3195187fda0909c50cda7a" parent="1189c29a3d5d27c8aff54bc359cb626d" type="folder">10</container>
-          </did>
-        </c>
-        <c id="49642177242c4c9d91f14c50f306122c" level="file">
-          <did>
-            <unittitle>Grant Proposals and Funding Requests -- London School of Hygiene and Tropical Medicine, Centre for Population Studies, and Measurement of Maternal Health Luncheon Materials</unittitle>
-            <unitdate normal="1988/1989" type="inclusive">1988-1989</unitdate>
-            <container altrender="Letter Document Storage Box" id="9d63c38ef2b2b39d7c3aeb74dc2e8993" label="documents [A0000000087772]" type="box">1</container>
-            <container id="2263dea3d15ec5edbc160b632730c2f0" parent="9d63c38ef2b2b39d7c3aeb74dc2e8993" type="folder">11</container>
-          </did>
-        </c>
-        <c id="eb6c4f3a41654c66a312db67f9390d64" level="file">
-          <did>
-            <unittitle>Grant Proposals and Funding Requests -- Population Resource Center/Population Reference Bureau, "America in the 21st Century" Project</unittitle>
-            <unitdate normal="1989/1989" type="inclusive">1989</unitdate>
-            <container altrender="Letter Document Storage Box" id="74cb9d20ca4eeaff2f10e8891bcceff9" label="documents [A0000000087772]" type="box">1</container>
-            <container id="f7f25540a99df2b19c33996f45a7f056" parent="74cb9d20ca4eeaff2f10e8891bcceff9" type="folder">12</container>
-          </did>
-        </c>
-        <c id="eb59b046ef824237ac5623f6a1213a1a" level="file">
-          <did>
-            <unittitle>Grant Proposals and Funding Requests -- Program for Appropriate Technology in Health (PATH), Including Annual Report (folder 1 of 2)</unittitle>
-            <unitdate normal="1986/1989" type="inclusive">1986-1989</unitdate>
-            <container altrender="Letter Document Storage Box" id="3584ca9157b0e37b9bd0a1f7ca9323a2" label="documents [A0000000087772]" type="box">1</container>
-            <container id="3a7a6e6e1c9ed777156ef88bbe24ae75" parent="3584ca9157b0e37b9bd0a1f7ca9323a2" type="folder">13</container>
-          </did>
-        </c>
-        <c id="8859b6f1fbed4522879bd51a4cd52875" level="file">
-          <did>
-            <unittitle>Grant Proposals and Funding Requests -- Program for Appropriate Technology in Health (PATH), Including Annual Report (folder 2 of 2)</unittitle>
-            <unitdate normal="1986/1989" type="inclusive">1986-1989</unitdate>
-            <container altrender="Letter Document Storage Box" id="e11c2fc1c0b3f4e69b9136a55f9922a1" label="documents [A0000000087773]" type="box">2</container>
-            <container id="8ea1b3377a74057742a6219c6056ab9b" parent="e11c2fc1c0b3f4e69b9136a55f9922a1" type="folder">1</container>
-          </did>
-        </c>
-        <c id="2ed38b74c3c145918c4f1bc19c30ae27" level="file">
-          <did>
-            <unittitle>Workshops, Symposia -- International Women's Health Coalition</unittitle>
-            <unitdate normal="1989/1989" type="inclusive">1989</unitdate>
-            <container altrender="Letter Document Storage Box" id="eea3778a77de1e959dbaef6fabea6aea" label="documents [A0000000087773]" type="box">2</container>
-            <container id="ed3cbe628aa396850fcac64990d9c67f" parent="eea3778a77de1e959dbaef6fabea6aea" type="folder">2</container>
-          </did>
-        </c>
-        <c id="cf8db7d5c96f493e8349d8b241649cd7" level="file">
-          <did>
-            <unittitle>Workshops, Symposia -- Women for Women's Health</unittitle>
-            <unitdate normal="1989/1989" type="inclusive">1989</unitdate>
-            <container altrender="Letter Document Storage Box" id="6cdbe08e664b9c41b9f100ee42cee164" label="documents [A0000000087773]" type="box">2</container>
-            <container id="0a2f01a295a06219677e6c858b0e4227" parent="6cdbe08e664b9c41b9f100ee42cee164" type="folder">3</container>
-          </did>
-        </c>
-      </c>
-      <c id="3be7fc6778de48d4910dd217a04d4f3d" level="series">
-        <did>
-          <unittitle>Trustees Trip</unittitle>
-          <unitid>III</unitid>
-          <unitdate normal="1984/1987" type="inclusive">Bulk, 1986-1987 1984-1987</unitdate>
-          <unitdate normal="1986/1987" type="bulk">1986-1987</unitdate>
-        </did>
-        <scopecontent id="e3983eae70f90ce8de5f281bad672c75">
-          <head>Scope and Contents</head>
-          <p>Three folders of documents, arranged in chronological order, pertain to the October 1987 trustees' trip to Kentucky and Mississippi. Ford Foundation trustees met with Foundation grantees in both states to learn firsthand about their activities and judge their success. The correspondence for the trip suggests that Mr. Burden handled much of the planning, including coordinating with the grantees prior to the site visits. A press release from the 1984 Board of Trustees' trip to Arizona and New Mexico is also included within the series.</p>
-        </scopecontent>
-        <c id="4a519f1c2e0342caac85a40f8fc14787" level="file">
-          <did>
-            <unittitle>Correspondence Re: Trip Planning</unittitle>
-            <unitdate normal="1986/1987" type="inclusive">1986-1987</unitdate>
-            <container altrender="Letter Document Storage Box" id="007c6d140f8c0c27b5e70229d0087134" label="documents [A0000000087773]" type="box">2</container>
-            <container id="8e35ca18926a478fb37e51d9e5f8855f" parent="007c6d140f8c0c27b5e70229d0087134" type="folder">4</container>
-          </did>
-        </c>
-        <c id="677f3a7d77314103b1b3d6d5127e21ee" level="file">
-          <did>
-            <unittitle>Trustees' Biographies and Trip Scheduling Surveys</unittitle>
-            <unitdate normal="1987/1987" type="inclusive">1987</unitdate>
-            <container altrender="Letter Document Storage Box" id="78863eca56845dc379f9ee3b08a5e513" label="documents [A0000000087773]" type="box">2</container>
-            <container id="0e55f8499946fd23595eb6c5b350999c" parent="78863eca56845dc379f9ee3b08a5e513" type="folder">5</container>
-          </did>
-        </c>
-        <c id="e8690ec4fab24183bd3bb3a03479257e" level="file">
-          <did>
-            <unittitle>Press Releases and Press Reports Re: Board Trips</unittitle>
-            <unitdate normal="1984/1987" type="inclusive">1984, 1987</unitdate>
-            <container altrender="Letter Document Storage Box" id="3520126e74e429268d589f09182d31cf" label="documents [A0000000087773]" type="box">2</container>
-            <container id="4cdb63d66a2a7c54b7e87f4bf6badc33" parent="3520126e74e429268d589f09182d31cf" type="folder">6</container>
-          </did>
-        </c>
-      </c>
-    </dsc>
-  </archdesc>
+ <num>FA598</num></titleproper><author>Finding aid prepared by Rachel Moskowitz and Brian Bleich, The Winthrop Group</author></titlestmt><publicationstmt><publisher>Rockefeller Archive Center</publisher><p><date>September 2011</date></p><address><addressline>15 Dayton Avenue</addressline><addressline>Sleepy Hollow 10591</addressline><addressline>archive@rockarch.org</addressline><addressline>URL: <extptr xlink:href="http://www.rockarch.org" xlink:show="new" xlink:title="http://www.rockarch.org" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2019-10-27 00:32:13 -0400</date>.</creation></profiledesc></eadheader><archdesc level="collection">
+  <did>
+    <langmaterial>
+      <language langcode="eng">English</language>
+    </langmaterial>
+    <repository>
+      <corpname>Rockefeller Archive Center</corpname>
+    </repository>
+    <unittitle>Ford Foundation records, Population Program, Office Files of Stuart Burden</unittitle>
+    <origination label="Creator">
+      <corpname role="aut" rules="dacs" source="nad">Ford Foundation</corpname>
+    </origination>
+    <origination label="Creator">
+      <persname role="aut" source="local">Burden, Stuart</persname>
+    </origination>
+    <unitid>FA598</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">0.76 Cubic Feet</extent>
+    </physdesc>
+    <unitdate normal="1984/1989" type="inclusive">1984-1989</unitdate>
+    <abstract id="b9703717173a26ccb6700a7934db4581">Stuart Burden served as a Program Associate in both the Population and the Human Rights and Governance programs from 1986 to 1989. During this time he guided the Foundation's activities related to the AIDS epidemic of the 1980s. He also handled grant requests concerning reproductive health issues, family planning programs and women's health initiatives. The Office Files of Stuart Burden span from 1986 to 1989 and document the work of Mr. Burden and his colleagues in the Population and the Human Rights and Governance programs. The collection is organized into three series: AIDS Files, General Health Files, and Trustees' Trip Files. The bulk of the collection consists of grant proposals, grant-related correspondence, and reviews of grant-funded projects concerning AIDS awareness and prevention, as well as additional health related issues. The collection also includes materials from conferences, symposia and workshops that Mr. Burden attended as a representative of the Ford Foundation. The minutes and materials document the Foundation's interest and involvement in the field of health sciences. Mr. Burden's files also contain correspondence, surveys, trustees' biographies and press releases about the 1987 trustees' trip to Kentucky and Mississippi to review grant projects and determine their success.</abstract>
+    <physdesc id="3b3cc73eb1e0ede0af24270e5797c31e" label="General Physical Description note"><extent>(2 document boxes)</extent></physdesc>
+  </did>
+  <acqinfo id="16ab3fd2f273d155c29bc363c3d84b85">
+    <head>Immediate Source of Acquisition note</head>
+<p>Ford Foundation archive was deposited at RAC in 2011. Ford Foundation records, correspondence, reports, program files and officers papers were transferred to, and accessioned by, RAC beginning in 2011. Accessions continue as necessary.</p>  </acqinfo>
+  <userestrict id="b986ffef17e5a6cde0ae6c0d4b68e925">
+    <head>Conditions Governing Use note</head>
+<p>Completion of a use agreement is required prior to providing scholarly access. See RAC Head of Reference (or applicable designee) for details. Ford Foundation holds title, copyright and literary rights in the collection, in so far as it holds them. The Rockefeller Archive Center has authority to grant permission to cite and publish material from the collection for scholarly purposes. Permission to publish extensive excerpts, or material in its entirety, will be referred to the Ford Foundation.</p>  </userestrict>
+  <prefercite id="f72304c07473e501891812de9748e11f">
+    <head>Preferred Citation note</head>
+<p>Information regarding the Rockefeller Archive Center's preferred elements and forms of citation can be found at <extref href="http://www.rockarch.org/research/citations.php">http://www.rockarch.org/research/citations.php</extref></p>  </prefercite>
+  <bioghist id="89c6d7d3059ce10c79276b2fc9af8b2f">
+    <head>Biographical Note</head>
+<p>Stuart Burden served as a Program Associate in the Population and the Human Rights and Governance programs from 1986 to 1989. He graduated from Stanford University in 1984 with a Bachelor of Arts in Human Biology and later received a Master's of Health Sciences from Johns Hopkins University. He worked with a variety of health initiatives, focusing much of his efforts on the Foundation's interest in the AIDS epidemic of the 1980s. At a time when Foundation funding for research on specific diseases was relatively uncommon, he helped secure grants for several AIDS initiatives. In addition to his work with AIDS research and outreach, Mr. Burden also handled grant requests dealing with reproductive health issues, family planning programs and women's health initiatives.</p><p>Following his departure from the Ford Foundation, Mr. Burden worked for the John D. and Catherine T. MacArthur Foundation where he served as a senior program officer and chairman of their Africa Task Group. After 11 years at MacArthur, he moved to Levi Strauss &amp; Co. and the Levi Strauss Foundation. There he served in the Community Affairs Department as Director for the Americas and Europe. In addition, he managed the company's HIV/AIDS grant-making initiatives. He has served on the Board of Directors of the National Centers on Sexuality at San Francisco State University and the International Women's Health Coalition, and on the Presidential Advisory Council on HIV/AIDS under presidents Clinton and Bush. Mr. Burden currently works as a senior consultant for the Monitor Institute.</p>  </bioghist>
+  <bioghist id="b60e282b6cb1cf9ca32b758491c0b6e6">
+    <head>Organizational History</head>
+<p>The Ford Foundation created a Population program in 1963 to better support research and more efficiently handle grant proposals pertaining to the health of communities in the United States and abroad. Three years later, in 1966, the program became a sub-division of the International Division and remained so until 1981 when it once again became an independent program. Following a reorganization of the Foundation in 1992, the newly formed Reproductive Health and Population program absorbed the existing Population program. The ASSETS program (Asset Building and Community Development Program) was introduced in 1997 and included a subdivision focused on Human Development and Reproductive Health. Though the Human Development and Reproductive Health program was canceled in 2002, in 2009 the Education, Creativity and Free Expression program restored the Foundation's work in population health through a subdivision focused on Sexuality and Reproductive Health and Rights.</p><p>Designed to focus on similar issues as the Population program, the Human Rights and Governance (HRG) program was created in 1981 as a subdivision of the United States and International Affairs Program (USIAP). Following a Foundation restructuring in 1989, the HRG program was separated from USIAP and divided into the Rights and Social Justice and the Governance and Public Policy programs. These two programs later merged in a subsequent 1997 corporate restructuring which created the Peace and Social Justice program. Following another restructuring in 2009, the Peace and Social Justice program became the Democracy, Rights and Justice program, and focused on three key issues: Democratic and Accountable Government, Human Rights, and Social Justice Philanthropy.</p>  </bioghist>
+  <separatedmaterial id="c9dd00fafba6869e784034f5ea0f9f68">
+    <head>Separated Materials</head>
+<p>There are no separated materials.</p>  </separatedmaterial>
+  <arrangement id="18eec21941c105e659238e4cd3a26690">
+    <head>Arrangement</head>
+<p>Records are arranged into 3 series.</p>  </arrangement>
+  <scopecontent id="faafabd96c4bbd3560f06be43e49baf6">
+    <head>Scope and Content Note</head>
+<p>The Office Files of Stuart Burden span from 1984 to 1989 and document his work for both the Population and the Human Rights and Governance programs. The collection is organized into three series: AIDS Files, General Health Files, and Trustees' Trip Files. The bulk of the collection dates from 1986-1989 and consists of grant proposals and documentation of grant-funded projects, including initiatives in AIDS awareness and prevention, women's health and reproductive rights, family planning, and improved hygiene.</p><p>The grant proposals and related correspondence between applicants and Ford employees describe studies being implemented and conducted at a time when AIDS research was still in its nascent stage. The AIDS-related proposals found within the collection provide details of the Foundation's earliest responses to the epidemic and what was then known of the disease.</p><p>The collection also contains materials from conferences, symposia and workshops Mr. Burden attended as a representative of the Ford Foundation. The minutes and materials from these events provide an overview of the work being done in the health sciences field during the late 1980s and document the Foundation's interest and involvement. Mr. Burden's files also detail the 1987 trustees' trip to Kentucky and Mississippi during which trustees met with grant recipients to gauge the work accomplished through Foundation support.</p>  </scopecontent>
+  <processinfo id="1ca564a87f8f0cd577eb86c9e84c6986">
+    <head>Processing Information Note</head>
+<p>The original volume of one cubic foot accessioned by the Ford Foundation was reduced to 0.8 cubic feet during processing. The collection is now stored in two archival document boxes. Reference and background materials provided with grant applications and correspondence, as well as duplicate grant proposals, grantee reports, and conference materials were discarded during processing.</p>  </processinfo>
+  <accessrestrict id="fd6a3bbf91e475a168e217d0f246663a">
+    <head>Conditions Governing Access</head>
+<p>Records more than 10 years old are open for research with select materials restricted as noted. Brittle or damaged items are available at the discretion of RAC.</p>  </accessrestrict>
+  <dsc><c id="c6337714b64b46dab1e5dbafd0e4c2c2" level="series"><did><unittitle>AIDS Files</unittitle><unitid>I</unitid><unitdate normal="1987/1989" type="inclusive">1987-1989</unitdate></did><arrangement id="b9351f2e40cc569fd1735e37dd6e2948"><head>Arrangement</head><p>The grant-related files are arranged in alphabetical order by the name of the requesting agency.</p></arrangement><scopecontent id="28e54bc1a99e529ca47ce7fcb887b205"><head>Scope and Contents</head><p>This series consists of grant proposals, funding requests, and correspondence related to AIDS research. There is also a file of charts concerning the Foundation's projected grant-making activity for AIDS-related requests. Though much of the correspondence regarding grant proposals was addressed directly to Shepard Forman, Director of the Human Rights and Governance program, Mr. Burden appears to have shared responsibility for handling the incoming mail. Responses by Mr. Forman and Mr. Burden to grant-related inquiries reveal the Foundation's burgeoning interest in AIDS research and contain information regarding the team of consultants hired by the Foundation to determine how best to initiate programs to respond to the epidemic. This series also includes one folder of materials from "AIDS and Reproductive Health," a workshop organized by Harvard University's School of Public Health. Mr. Burden participated in the workshop as a Ford Foundation representative.</p></scopecontent><c id="5635ad80ff2b46a7bb654a973737ac22" level="file"><did><unittitle>Grant Proposals and Funding Requests -- Adolescent Treatment and Education Alliance</unittitle><unitdate normal="1987/1987" type="inclusive">1987</unitdate><container altrender="Letter Document Box" id="6c7917e7f2e4b7396c5b37a083c4fc57" label="documents [A0000000087772]" type="box">1</container><container id="b0db954dd32b54dacc323a68038e1738" parent="6c7917e7f2e4b7396c5b37a083c4fc57" type="folder">1</container></did></c><c id="454d97f83a65482d9befd659e3329e40" level="file"><did><unittitle>Grant Proposals and Funding Requests -- Association of the Bar of the City of New York</unittitle><unitdate normal="1987/1987" type="inclusive">1987</unitdate><container altrender="Letter Document Box" id="78b621e85a6989a3dd13086f6efe502c" label="documents [A0000000087772]" type="box">1</container><container id="df81b5e2c6d2e6a598714374211345e8" parent="78b621e85a6989a3dd13086f6efe502c" type="folder">2</container></did></c><c id="fb6e436c468b471ca9acda1a5a0606a1" level="file"><did><unittitle>Grant Proposals and Funding Requests -- Human Interaction Research Institute</unittitle><unitdate normal="1987/1987" type="inclusive">1987</unitdate><container altrender="Letter Document Box" id="0aa66cd321866ef5d85b98380c6f5804" label="documents [A0000000087772]" type="box">1</container><container id="72ad4a270568a693db725bbbd4d1cd4c" parent="0aa66cd321866ef5d85b98380c6f5804" type="folder">3</container></did></c><c id="1e3aeca7ca404e13a71fe73f7a6c16b8" level="file"><did><unittitle>Grant Proposals and Funding Requests -- World Future Society</unittitle><unitdate normal="1987/1987" type="inclusive">1987</unitdate><container altrender="Letter Document Box" id="b3293ecfad4ac2f4ee300344148ca7fd" label="documents [A0000000087772]" type="box">1</container><container id="db4361e61513c7ced8b0ea0c4ebae823" parent="b3293ecfad4ac2f4ee300344148ca7fd" type="folder">4</container></did></c><c id="078682e227c149419b94ccd25c6fdfda" level="file"><did><unittitle>Grant Spending Projections</unittitle><unitdate normal="1989/1989" type="inclusive">1989</unitdate><container altrender="Letter Document Box" id="50c0fa5e8e447bb56e0184766334af09" label="documents [A0000000087772]" type="box">1</container><container id="848cf839ed48893eee04dfaef6152d34" parent="50c0fa5e8e447bb56e0184766334af09" type="folder">5</container></did></c><c id="0c395d3cdcbe476b8c1518cd359e0edf" level="file"><did><unittitle>Workshops, Symposia -- Woods Hole Workshop, "AIDS and Reproductive Health" (Harvard University School of Public Health)</unittitle><unitdate normal="1988/1988" type="inclusive">1988</unitdate><container altrender="Letter Document Box" id="d6953cf5076acf87702639e1073b570b" label="documents [A0000000087772]" type="box">1</container><container id="be1ecf6f3b489e520922adde554af866" parent="d6953cf5076acf87702639e1073b570b" type="folder">6</container></did></c></c><c id="e8e76edd95ea4dfd876836e816582e64" level="series"><did><unittitle>General Health Files</unittitle><unitid>II</unitid><unitdate normal="1986/1989" type="inclusive">1986-1989</unitdate></did><arrangement id="493a2cf43ce6b8ce7a8e8b5d786ed380"><head>Arrangement</head><p>Arranged alphabetically by the name of the requesting agency or individual.</p></arrangement><scopecontent id="5b1af7878900bbbe711b5ab5bd44a221"><head>Scope and Contents</head><p>The General Health Files consist of grant proposals, funding requests, correspondence and grantee reports concerning non-AIDS related health issues. Most of the grant-requests found within this series received Foundation support and focus on women's health, family planning, nutrition and hygiene in underdeveloped countries and among at-risk populations. The funded projects include a television series designed to address public health issues proposed by the Center for Development and Communication in Cairo, Egypt; a compendium of family planning and child survival data of one hundred developing countries compiled by the Center for Population and Family Health at Columbia University; and the development of maternal morbidity studies in India, Bangladesh and Egypt. This series also contains materials pertaining to a panel discussion hosted by the International Women's Health Coalition and a Women for Women's Health meeting that Mr. Burden attended on behalf of the Ford Foundation.</p></scopecontent><c id="545b9df719854df19fb2ed86b350ab5f" level="file"><did><unittitle>Grant Proposals and Funding Requests -- Boston Women's Health Book Collective</unittitle><unitdate normal="1989/1989" type="inclusive">1989</unitdate><container altrender="Letter Document Box" id="2a2c0fd4090ba862adb9a2071e7c780c" label="documents [A0000000087772]" type="box">1</container><container id="93ffb8f7307d86567073c4cd41431393" parent="2a2c0fd4090ba862adb9a2071e7c780c" type="folder">7</container></did></c><c id="062205cde78f4ecea461d102a7a69b00" level="file"><did><unittitle>Grant Proposals and Funding Requests -- Center for Development Communication (Cairo)</unittitle><unitdate normal="1988/1988" type="inclusive">1988</unitdate><container altrender="Letter Document Box" id="4afd25b2b5a8c39223dc09fe27fc7c2f" label="documents [A0000000087772]" type="box">1</container><container id="a408214d34da988a423de5363646486a" parent="4afd25b2b5a8c39223dc09fe27fc7c2f" type="folder">8</container></did></c><c id="97f924bd844a40ebac7915026a8a72ff" level="file"><did><unittitle>Grant Proposals and Funding Requests -- Center for Population and Family Health, Including Report from Previous Ford Funding</unittitle><unitdate normal="1988/1989" type="inclusive">1988-1989</unitdate><container altrender="Letter Document Box" id="1a4c1e6b46dc6e43cc59baf9b6ad777f" label="documents [A0000000087772]" type="box">1</container><container id="b1e00f43460351ef57d5590968da4b7e" parent="1a4c1e6b46dc6e43cc59baf9b6ad777f" type="folder">9</container></did></c><c id="6a6655ef11ec4ad2a447c3c8ec1819db" level="file"><did><unittitle>Grant Proposals and Funding Requests -- Family Health International</unittitle><unitdate normal="1988/1988" type="inclusive">1988</unitdate><container altrender="Letter Document Box" id="159aeb44b530be17e72775e349014ec8" label="documents [A0000000087772]" type="box">1</container><container id="fdb940f5442d6549038e6bcb29de7a4a" parent="159aeb44b530be17e72775e349014ec8" type="folder">10</container></did></c><c id="49642177242c4c9d91f14c50f306122c" level="file"><did><unittitle>Grant Proposals and Funding Requests -- London School of Hygiene and Tropical Medicine, Centre for Population Studies, and Measurement of Maternal Health Luncheon Materials</unittitle><unitdate normal="1988/1989" type="inclusive">1988-1989</unitdate><container altrender="Letter Document Box" id="c9575b969d98ba2048e07b1b05313924" label="documents [A0000000087772]" type="box">1</container><container id="fa879b4f261631ebfd1195ab1d0addf4" parent="c9575b969d98ba2048e07b1b05313924" type="folder">11</container></did></c><c id="eb6c4f3a41654c66a312db67f9390d64" level="file"><did><unittitle>Grant Proposals and Funding Requests -- Population Resource Center/Population Reference Bureau, "America in the 21st Century" Project</unittitle><unitdate normal="1989/1989" type="inclusive">1989</unitdate><container altrender="Letter Document Box" id="8e66489225ebe4b99ef7fb41b335bdcd" label="documents [A0000000087772]" type="box">1</container><container id="125cd172fc4fd2576f68191962ec73f0" parent="8e66489225ebe4b99ef7fb41b335bdcd" type="folder">12</container></did></c><c id="eb59b046ef824237ac5623f6a1213a1a" level="file"><did><unittitle>Grant Proposals and Funding Requests -- Program for Appropriate Technology in Health (PATH), Including Annual Report (folder 1 of 2)</unittitle><unitdate normal="1986/1989" type="inclusive">1986-1989</unitdate><container altrender="Letter Document Box" id="407a51a7ce2fbd18df569765592b7678" label="documents [A0000000087772]" type="box">1</container><container id="33b625ba8edfc73791cfbee8ce2e2126" parent="407a51a7ce2fbd18df569765592b7678" type="folder">13</container></did></c><c id="8859b6f1fbed4522879bd51a4cd52875" level="file"><did><unittitle>Grant Proposals and Funding Requests -- Program for Appropriate Technology in Health (PATH), Including Annual Report (folder 2 of 2)</unittitle><unitdate normal="1986/1989" type="inclusive">1986-1989</unitdate><container altrender="Letter Document Box" id="7a41a94a4763247e8a646982cc507bde" label="documents [A0000000087773]" type="box">2</container><container id="b6da35fdd674ddc16d749671a9141fb2" parent="7a41a94a4763247e8a646982cc507bde" type="folder">1</container></did></c><c id="2ed38b74c3c145918c4f1bc19c30ae27" level="file"><did><unittitle>Workshops, Symposia -- International Women's Health Coalition</unittitle><unitdate normal="1989/1989" type="inclusive">1989</unitdate><container altrender="Letter Document Box" id="4c8a2b50d357c1e22f17e7545eee807a" label="documents [A0000000087773]" type="box">2</container><container id="79a49099a34cb409606b240b0c14cec6" parent="4c8a2b50d357c1e22f17e7545eee807a" type="folder">2</container></did></c><c id="cf8db7d5c96f493e8349d8b241649cd7" level="file"><did><unittitle>Workshops, Symposia -- Women for Women's Health</unittitle><unitdate normal="1989/1989" type="inclusive">1989</unitdate><container altrender="Letter Document Box" id="0079550ef11c6f1b2d0dab7089d445c8" label="documents [A0000000087773]" type="box">2</container><container id="f91a2856b456c58ab63555411bf99bb5" parent="0079550ef11c6f1b2d0dab7089d445c8" type="folder">3</container></did></c></c><c id="3be7fc6778de48d4910dd217a04d4f3d" level="series"><did><unittitle>Trustees Trip</unittitle><unitid>III</unitid><unitdate normal="1984/1987" type="inclusive">Bulk, 1986-1987 1984-1987</unitdate><unitdate normal="1986/1987" type="bulk">1986-1987</unitdate></did><scopecontent id="e3983eae70f90ce8de5f281bad672c75"><head>Scope and Contents</head><p>Three folders of documents, arranged in chronological order, pertain to the October 1987 trustees' trip to Kentucky and Mississippi. Ford Foundation trustees met with Foundation grantees in both states to learn firsthand about their activities and judge their success. The correspondence for the trip suggests that Mr. Burden handled much of the planning, including coordinating with the grantees prior to the site visits. A press release from the 1984 Board of Trustees' trip to Arizona and New Mexico is also included within the series.</p></scopecontent><c id="4a519f1c2e0342caac85a40f8fc14787" level="file"><did><unittitle>Correspondence Re: Trip Planning</unittitle><unitdate normal="1986/1987" type="inclusive">1986-1987</unitdate><container altrender="Letter Document Box" id="aba1f87ce02d852d3ee94fab01b11ba5" label="documents [A0000000087773]" type="box">2</container><container id="d863ca8f70bb6f637e8c5f878abceab5" parent="aba1f87ce02d852d3ee94fab01b11ba5" type="folder">4</container></did></c><c id="677f3a7d77314103b1b3d6d5127e21ee" level="file"><did><unittitle>Trustees' Biographies and Trip Scheduling Surveys</unittitle><unitdate normal="1987/1987" type="inclusive">1987</unitdate><container altrender="Letter Document Box" id="3e0033f26ac5100b784b2ffe9a3dcbb2" label="documents [A0000000087773]" type="box">2</container><container id="373476e708b1f53ea8e16fc363132968" parent="3e0033f26ac5100b784b2ffe9a3dcbb2" type="folder">5</container></did></c><c id="e8690ec4fab24183bd3bb3a03479257e" level="file"><did><unittitle>Press Releases and Press Reports Re: Board Trips</unittitle><unitdate normal="1984/1987" type="inclusive">1984, 1987</unitdate><container altrender="Letter Document Box" id="0d924195c744a2934512fa42d63bd91e" label="documents [A0000000087773]" type="box">2</container><container id="1cc9606aab5f80659392a8ddb2ffc81b" parent="0d924195c744a2934512fa42d63bd91e" type="folder">6</container></did></c></c></dsc>
+</archdesc>
 </ead>

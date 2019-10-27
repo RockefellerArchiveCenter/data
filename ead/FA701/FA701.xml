@@ -1,616 +1,67 @@
-<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
-  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" repositoryencoding="iso15511">
-    <eadid>FA701.xml</eadid>
-    <filedesc>
-      <titlestmt>
-        <titleproper type="filing">Ford Foundation records, Africa and Middle East Program, Office Files of Richard C. Robarts</titleproper>
-        <titleproper>A Guide to the Ford Foundation records, Africa and Middle East Program, Office Files of Richard C. Robarts
- <num>FA701</num></titleproper>
-        <author>Arranged by Daniel B. May, July 1984
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid>FA701.xml</eadid><filedesc><titlestmt><titleproper type="filing">Ford Foundation records, Africa and Middle East Program, Office Files of Richard C. Robarts</titleproper><titleproper>A Guide to the Ford Foundation records, Africa and Middle East Program, Office Files of Richard C. Robarts
+ <num>FA701</num></titleproper><author>Arranged by Daniel B. May, July 1984
 Description by Anneliese Ostendarp, June 1986
 Revised by Faith Coleman, January 1995
-Ford Foundation Archives</author>
-      </titlestmt>
-      <publicationstmt>
-        <publisher>Rockefeller Archive Center</publisher>
-        <address>
-          <addressline>15 Dayton Avenue</addressline>
-          <addressline>Sleepy Hollow 10591</addressline>
-          <addressline>archive@rockarch.org</addressline>
-          <addressline>URL: <extptr xlink:href="http://www.rockarch.org" xlink:show="new" xlink:title="http://www.rockarch.org" xlink:type="simple"/></addressline>
-        </address>
-      </publicationstmt>
-    </filedesc>
-    <profiledesc>
-      <creation>This finding aid was produced using ArchivesSpace on <date>2017-10-25 01:17:38 -0400</date>.</creation>
-      <langusage>English</langusage>
-      <descrules>Describing Archives: A Content Standard</descrules>
-    </profiledesc>
-  </eadheader>
-  <archdesc level="collection">
-    <did>
-      <langmaterial>
-        <language langcode="eng">English</language>
-      </langmaterial>
-      <repository>
-        <corpname>Rockefeller Archive Center</corpname>
-      </repository>
-      <unittitle>Ford Foundation records, Africa and Middle East Program, Office Files of Richard C. Robarts</unittitle>
-      <origination label="creator">
-        <corpname role="aut" rules="dacs" source="nad">Ford Foundation</corpname>
-      </origination>
-      <unitid>FA701</unitid>
-      <physdesc altrender="whole">
-        <extent altrender="materialtype spaceoccupied">2.2 Cubic Feet</extent>
-      </physdesc>
-      <unitdate normal="1966/1982" type="inclusive">1966-1982</unitdate>
-      <abstract id="ece9dc40e1ee28d403c97c5593f95c9d">The Middle East and Africa (MEA) Files from the Office of Richard C. Robarts were transferred to the Ford Foundation Archives in July 1982.
+Ford Foundation Archives</author></titlestmt><publicationstmt><publisher>Rockefeller Archive Center</publisher><address><addressline>15 Dayton Avenue</addressline><addressline>Sleepy Hollow 10591</addressline><addressline>archive@rockarch.org</addressline><addressline>URL: <extptr xlink:href="http://www.rockarch.org" xlink:show="new" xlink:title="http://www.rockarch.org" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2019-10-27 01:12:40 -0400</date>.</creation><langusage>English</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
+  <did>
+    <langmaterial>
+      <language langcode="eng">English</language>
+    </langmaterial>
+    <repository>
+      <corpname>Rockefeller Archive Center</corpname>
+    </repository>
+    <unittitle>Ford Foundation records, Africa and Middle East Program, Office Files of Richard C. Robarts</unittitle>
+    <origination label="Creator">
+      <corpname role="aut" rules="dacs" source="nad">Ford Foundation</corpname>
+    </origination>
+    <origination label="Creator">
+      <persname role="aut" source="naf">Robarts, Richard C.</persname>
+    </origination>
+    <unitid>FA701</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">2.2 Cubic Feet</extent>
+    </physdesc>
+    <unitdate normal="1966/1982" type="inclusive">1966-1982</unitdate>
+    <abstract id="ece9dc40e1ee28d403c97c5593f95c9d">The Middle East and Africa (MEA) Files from the Office of Richard C. Robarts were transferred to the Ford Foundation Archives in July 1982.
 
 The MEA Files include both the files which Robarts created and maintained (Series III) and those files that were created by MEA staff, including Robarts' successors Ann Lesch, Sidney Jones and Judy Barsalou, and maintained in Robarts' office (Series I and II).
 
 Arrangement within the series corresponds as closely as possible to the original order established by the MEA Office. 
 
 In 1995, the Archives received files from the office of Steven M. Riskin. Riskin was as assistant program officer and program officer in MEA, January 1984-June 1992 and subsequently, a Foundation consultant. These files proved to be MEA files that had remained in Robarts' office subsequent to the transfer of Robarts' files in 1982. They have been accessioned as ACC95/1 and now constitute Series IV.</abstract>
-    </did>
-    <separatedmaterial id="8b1ae824171affa06c5ddd5ef8250ed3">
-      <head>Separated Materials</head>
-      <p>Staff and consultant reports and publications have been transferred to the Archives' collections of unpublished staff and consultant reports and grant-related publications. Their locations have been noted on cross-reference sheets within the files. Papers not related to Ford Foundation activities have been discarded.</p>
-    </separatedmaterial>
-    <bioghist id="7c92a1bafb8eb9ca259aca3b160cf800">
-      <head>Biographical / Historical</head>
-      <p>Richard C. Robarts was a member of the Ford Foundation staff from March 1963 until September 1982. During this period, he held the following positions:</p>
-      <p>•  September 1980, Program Officer, MEA, N.Y., International Division
+  </did>
+  <separatedmaterial id="8b1ae824171affa06c5ddd5ef8250ed3">
+    <head>Separated Materials</head>
+<p>Staff and consultant reports and publications have been transferred to the Archives' collections of unpublished staff and consultant reports and grant-related publications. Their locations have been noted on cross-reference sheets within the files. Papers not related to Ford Foundation activities have been discarded.</p>  </separatedmaterial>
+  <bioghist id="7c92a1bafb8eb9ca259aca3b160cf800">
+    <head>Biographical / Historical</head>
+<p>Richard C. Robarts was a member of the Ford Foundation staff from March 1963 until September 1982. During this period, he held the following positions:</p><p>•  September 1980, Program Officer, MEA, N.Y., International Division
 •  July 1977, Deputy Representative, MEA, Cairo, International Division
 •  July 1973, Program Officer, MEA, N.Y., International Division
 •  July 1972, FF Study Leave, Paris
 •  October 1966, Asst. to the Rep., MEA, Lebanon, International Division
 •  October 1964, Asst. to the Rep., N.E. MEA, Lebanon, Overseas Development
-•  March 1963, Asst. to the Dir., N.Y., Administration</p>
-      <p>Richard Robarts was born July 22, 1932. He received his Bachelor of Arts (B.A.) degree in 1955 from Bowdoin College, and was elected Phi Beta Kappa. In 1956, Robarts was awarded the Master of Arts in Teaching degree from Yale University. In 1962, he received the Master in International Affairs degree from Columbia University. </p>
-      <p>Prior to his tenure at the Ford Foundation Mr. Robarts held the following positions: </p>
-      <p>•  1962-63, American Telephone and Telegraph, Public Relations Asst.
-•  1958-60, Press Herald, Portland, ME, Reporter</p>
-      <p>After his departure from the Ford Foundation, Mr. Robarts became the Executive Director of the Near East Foundation, New York, New York.</p>
-    </bioghist>
-    <scopecontent id="b139bf997bbe91e9dab756222ab93ab5">
-      <head>Scope and Contents</head>
-      <p>The MEA Files from the Office of Richard C. Robarts consist of four linear feet (10 archives boxes) of correspondence, inter-office memoranda and cables. The MEA files arranged and described 1984-1986, document the administration of the MEA office between 1966 and 1974. Records accessioned in 1995 and organized as Series IV, document various activities from 1966 to 1982.</p>
-    </scopecontent>
-    <arrangement id="c42c0b704582dccca12f5c50aa174ce5">
-      <head>Arrangement</head>
-      <p>The MEA Files from the Office of Richard C. Robarts are arranged in four series:</p>
-      <p>I. MEA Field Office Correspondence, 1967 - 1974</p>
-      <p>II. MEA Field Office Budget Correspondence, 1969 - 1974</p>
-      <p>III. Richard C. Robarts Office Correspondence, 1966 (1973 - 1974)</p>
-      <p>IV. MEA Field Office Correspondence, 1966 - 1982</p>
-    </arrangement>
-    <userestrict id="b16a0979066044cfa50e3e9b0f545210">
-      <head>Conditions Governing Use</head>
-      <p>Completion of a use agreement is required prior to providing scholarly access. See RAC Head of Reference (or applicable designee) for details. </p>
-      <p>Ford Foundation holds title, copyright and literary rights in the collection, in so far as it holds them.</p>
-      <p>The Rockefeller Archive Center has authority to grant permission to cite and publish material from the collection for scholarly purposes. Permission to publish extensive excerpts, or material in its entirety, will be referred to the Ford Foundation.</p>
-    </userestrict>
-    <acqinfo id="3282af8bba1abef8e3fc0735e4df39fe">
-      <head>Immediate Source of Acquisition</head>
-      <p>Ford Foundation archive was deposited at RAC in 2011. Ford Foundation records, correspondence, reports, program files and officers papers were transferred to, and accessioned by, RAC beginning in 2011. Accessions continue as necessary.</p>
-    </acqinfo>
-    <prefercite id="9844a10e661f2fbee9dd8eaadd3a7935">
-      <head>Preferred Citation</head>
-      <p>Information regarding the Rockefeller Archive Center's preferred elements and forms of citation can be found at <extref href="http://www.rockarch.org/research/citations.php">http://www.rockarch.org/research/citations.php</extref>.</p>
-    </prefercite>
-    <accessrestrict id="151513b2bfcbc8af67ec9f9fed308253">
-      <head>Conditions Governing Access</head>
-      <p>Records more than 10 years old are open for research with select materials restricted as noted. Brittle or damaged items are available at the discretion of RAC.</p>
-    </accessrestrict>
-    <bioghist id="6453be873711c5a37949d2cfb106ce07">
-      <head>Biographical / Historical</head>
-      <p>
-        <emph render="bold">Segment One: International Activities of the Ford Foundation: An Overview</emph>
-      </p>
-      <p>The Foundation's aspiration to become a national and international philanthropy for the advancement of human welfare was first formally expressed in the seminal 1949 report of the Gaither Study Committee, <emph render="italic">Report of the Study for the Ford Foundation on Policy and Program</emph> (RAC Library, call letters 361.7 GAI ), which was commissioned by the Board of Trustees to chart the Foundation's future. Foundation Trustees launched Ford's international grantmaking activities in 1950 when they approved the committee's report and its embrace of peace, democracy, and freedom.  Since then, the Foundation has tackled these goals using a variety of strategies and responding to changing contexts, from the Cold War to the 1989 fall of the Berlin Wall and beyond.</p>
-      <p>Toward the Foundation's aspirational goal, "the establishment of peace", its international activities have comprised a wide range of conceptual approaches and focus areas. These include international affairs, international studies, international understanding, arms control and disarmament, international law, international economic concerns, and overseas development in nearly every region of the world. Three distinct periods emerge for the international grantmaking defined by external contextual changes and internal changes in Foundation leadership and structures: the expansion era of 1950-1965; the transition and restructuring years of 1966-1988; and the post-1989 shift away from Cold War dichotomies.  During each of the distinct historical periods the consistent objectives were: 1) to ensure freedom and democracy in developed countries; 2) to foster education and international understanding in all countries; and 3) to contribute to the social, economic, and political development of less developed countries.</p>
-    </bioghist>
-    <bioghist id="a6df9d584aadc803bd2127bd7607eaaa">
-      <head>Biographical / Historical</head>
-      <p>
-        <emph render="bold">Segment 3. Period Sketch - Transition and Restructuring 1966-1988</emph>
-      </p>
-      <p>In the 1960s, the Ford Foundation Trustees began to rethink the role of the Foundation in the context of the era's dramatic political and cultural changes. For instance, the passage of the 1964 Civil Rights Act created a domestic policy context in which the Foundation could more deeply engage with issues of rights and social justice. Events overseas starting in the late 1960s would extend the rights agenda to international affairs and development operations at the Foundation -- all advanced by the leadership of McGeorge Bundy (president, 1966-1979). </p>
-      <p>McGeorge Bundy was appointed president in 1966, following a significant career in national security and academic administration. During World War II, he worked with the Army's intelligence division, and in the early post-war years was a political analyst at the Council on Foreign Relations. Even without a postgraduate degree, at the age of thirty -four he became dean of the Faculty of Arts and Science at Harvard University. In 1961, President Kennedy appointed Bundy to be Special Assistant to the President for National Security - a position he held for five years under both Kennedy and Johnson. Those significant years saw the Bay of Pigs invasion, the Cuban Missile Crisis, and the beginnings of the Vietnam War. </p>
-      <p>When Bundy arrived at the Foundation, he initiated a restructuring that modeled government departments rather than the academic ones President Henry Heald had established in the 1950s. At the same time, he had to contend with serious financial constraints due to Ford's overspending in the prior periods and to economic downturns in the global economy. The Board of Trustees mandated an annual spending of over $100 million. </p>
-      <p>These economic constraints meant that Foundation programs had to be more selective across the range of its programs. Nonetheless, international activities remained prominent with the new president and trustees. President Bundy and key trustees such Eugene Black (1960-1968, former head of the World Bank) and Robert S. McNamara (1968-1986, former U.S. Secretary of Defense and then head of the World Bank, 1968-1981) reflected a commitment to the international activities. Bundy also added to the board in 1972 the first trustee from a developing country, the Indonesian activist and scholar, Dr. Soedjakmoto, the former Ambassador to the United States from his country and then Special Adviser on Social and Cultural Affairs to the Chairman of Indonesia's National Development Planning Agency. </p>
-      <p>To create economies of scale, Bundy unified US-based international and overseas activities under one division: the International Division (using the name for the first time). That division comprised Resources for Development (area studies, languages, and exchanges), Population, International Relations, Planning and Evaluation, and the country programs. David Bell, an economist and the first administrator of the US Agency for International Development (1962-1966), was named vice president and served in that capacity until the end of Bundy presidency. </p>
-      <p>In 1966, Bundy terminated the long-standing internationally oriented but domestically based International Training and Research Program.   Several large domestic programs -- including support of centers of international studies - were phased out in the 1970s. Instead, Ford launched under its international affairs efforts a focused but robust program in security and arms control. Over Bundy's tenure, the overseas offices were reduced from twenty in 1966 to twelve in 1979, when he retired. </p>
-      <p>The Foundation increasingly turned its attention to different set of international issues including human rights and working in repressive societies, such as South Africa. The military coups in Latin America during the late 1960s and early 1970s led the Foundation to initiate in 1976 a human rights program housed in Vice President Bell's office. </p>
-      <p>In 1979, Franklin Thomas was named president of the Ford Foundation (1979-1996).  In contrast to Bundy's international and defense policy background, Franklin Thomas brought to the Ford Foundation his experience in law, housing, and community development. Prior to joining the Foundation, Thomas, a lawyer, was a Foundation trustee. He chaired the Rockefeller Foundation-funded Study Commission on U.S. Policy towards South Africa and led the Ford-funded Bedford-Stuyvesant Restoration Corporation in New York from its beginning in 1966 until he left in 1979. Earlier, he had been deputy police commissioner of NYC. </p>
-      <p>In the first decade of Thomas' tenure, the international work was still framed using the post-war East-West dichotomy. Several trustees brought to the board active engagement in international issues: Donald F. McHenry (trustee over the period 1981-1993) had served as ambassador to the U.N. and was active in the anti-apartheid movement; and General Olusegun Obasanjo (trustee over the period 1987-1999) had been Nigerian head of state from 1976-1979, and was then president of the African leadership Forum. Along with McNamara and Soedjakmoto, Rodrigo Botero, an internationally renowned economist from Colombia and former Colombian Minister of Finance and Credit from 1974 to1976, remained on the board over the period 1978-1989. </p>
-      <p>During the early years of the Thomas presidency, the scope and strategies of the Foundation's activities were also influenced by economic and global pressures, leading to reduced assets and further financial stringencies. Thomas' board-mandated reductions resulted, for example, the firing of twenty senior staff at the same time.  To achieve more effective and efficient programs, Thomas had a vision of Ford as one foundation, linking the domestic and overseas activities under new program themes: Urban Poverty, Rural Poverty and Resources, Human Rights and Social Justice, Governance and Public Policy, Education and Culture, and International Affairs. </p>
-      <p>The restructured Foundation comprised two programmatic divisions led by vice presidents: U.S. and International Affairs Programs (USIAP) headed by Susan Berresford; and Developing Countries Program (DCP), headed by William Carmichael. Berresford had been at the Foundation since 1970, coming from the U.S. Manpower Career Development Agency. She served in the National Affairs area, first as program assistant and then program officer (1972-1980), becoming head of women's programs in 1980. The main international efforts under USIAP were housed in Rural Poverty and Resources, Human Rights and Governance, and International Affairs. The other programs - Urban Poverty, Education and Culture, and Program-Related Investments - also addressed a scattering of international issues related to their main themes. </p>
-      <p>Carmichael had joined the Foundation in 1968 as Representative in Brazil. In July 1971, he was named Head of the Office of Latin America and the Caribbean, and in September of 1977, he became Head of the Middle East and Africa Office.  The DCP program was responsible for all the Field Offices: Andean and the Southern Cone, Brazil, Mexico and Central America, Bangladesh, India, Southeast Asia, West Africa, Eastern and Southern Africa, and Middle East and North Africa. </p>
-      <p>When the Foundation initiated a Human Rights and Governance program (HR&amp;G) in 1981, it was the first instance of a Ford program explicitly entitled "human rights," despite the fact that human rights grantmaking that had started officially in 1976. International Affairs remained separate from HR&amp;G. In 1987, however, the Board conceptually linked three programs, creating a Trustee committee called Human Rights, Governance, and International Affairs, which existed until 1992. Operationally, however, the programs relating to these fields did not often work together. </p>
-      <p>International governance remained a commitment under Thomas. The Foundation, for example, had a long-established relationship with the United Nations: from 1951 until 1988, the United Nations received ninety grants from the Foundation (it received another 198 over the period 1989-2009). </p>
-      <p>In these early years of the Thomas presidency, dramatic changes were occurring in the Soviet Union and Eastern Europe. Under President Mikhail Gorbachev's leadership since 1985, the USSR was opening up to the international community, the rule of law in society was taking prominence there, and press freedoms were spreading. The foundation developed new programs in the region, drawing on the $60 million already spent to promote human rights and free expression and increase Western understanding of developments there. </p>
-      <p>Given the continuing economic constraints facing the Foundation and rising debt in developing countries, the Foundation shifted support under DCP to smaller scale community-based initiatives in the field offices. Thomas was also charged by the Board to increase the diversity of grantees, especially to favor populations "most affected" by the problems of concern to the Ford Foundation. The Foundation built on earlier efforts and sharpened its focus on women's issues throughout the world, including shifting the focus of the population program to women' reproductive health and child survival. </p>
-      <p>In the 1980s, Carmichael and others, with strong support from Thomas and the board, continued the 1970s' support of South African grantees for training large numbers of black lawyers and litigating sensitive cases in the South African legal system. Recognizing the multifaceted nature of discrimination in South Africa, the Foundation not only advanced the rule of law, but also strengthened civic organizations, women's groups, and educational institutions. Further, it supported a number of activist organizations in the United States that were energetically advocating US governmental sanctions against South Africa and for private disinvestment. The Foundation also played a role in shaping US policy on apartheid through the role Thomas played from 1985 to 1987 chairing the US Secretary of State's Advisory Committee on South Africa. </p>
-      <p>The Foundation's overseas staff also sought to improve the economic situation in poor, marginalized communities through targeted loan programs particularly to women head of households, beginning with the innovative work in Bangladesh of Professor Mohammed Yunus, the founder of the Grameen Bank. The results led the way to establish the field of microfinance with the aim of empowering women living in poverty conditions, such as through a microfinance network in Latin America starting 1980 and a global lending program for women starting in 1987. </p>
-      <p>Thomas encouraged staff to share results at worldwide meetings. During those meetings, Ford staff in the country offices and in New York tried to follow the mandate to work as "one foundation." The persistent challenge toward meeting that goal, however, was that initiatives emerging from the New York-based programs, or indeed any program developed in one country, were not always adaptable, relevant or acceptable in other countries or regions. It remained a challenge to develop a unified program, despite the commitment at the highest level of foundation leadership. </p>
-    </bioghist>
-    <bioghist id="b4723dff304542110c842d061e487658">
-      <head>Biographical / Historical</head>
-      <p>
-        <emph render="bold">Segment 3. Period Summary - Transition and Restructuring 1966-1988</emph>
-      </p>
-      <p>During this era, the Foundation's earlier interest in business and the economy evolved into a commitment to improving conditions for people living on the margins of society. The Ford Foundation promoted advancements in women's rights around the globe and introduced micro-lending into grantmaking. At the same time, the economic issues that were shaping program strategies also affected the Foundation's assets. Severe cuts resulted in a significant restructuring of country programs and reduced budgets across all programs. </p>
-      <p>Even with the cuts in country offices, in the 1970s Ford grantees in developing countries received approximately 80% of the International Division budget. The remaining fifth went to Population, Development Studies, and International Affairs. Although representing a much smaller piece, the International Security and Arms Control program from 1973 was the Foundation's most concerted effort to make meaningful inroads in disarmament and nuclear issues - those challenges most directly linked to the Foundation's historic concern for peace. By 1979, the Ford Foundation was the biggest funder of arms control as a field, both in the U.S. and overseas. </p>
-    </bioghist>
-    <dsc>
-      <c id="d38be59539f4464d86f212868f591864" level="series">
-        <did>
-          <unittitle>MEA Field Office Correspondence</unittitle>
-          <unitid>I</unitid>
-          <unitdate normal="1967/1974" type="inclusive">1967 - 1974</unitdate>
-        </did>
-        <scopecontent id="8be3768d58ba67bd5fc7d92d780aa3eb">
-          <head>Scope and Contents</head>
-          <p>Series I deals with four field offices: Beirut, Cairo, Tunis and Israel.</p>
-        </scopecontent>
-        <arrangement id="b2744d49e63555aef106b5e8d69a7c2a">
-          <head>Arrangement</head>
-          <p>Series I, MEA Field Office Correspondence, 1967 - 1974, is divided by Field Office: Beirut, Cairo, Tunis, and Israel. For each field office the files are arranged in reverse chronological order. Within each folder the items are arranged in reverse chronological order.</p>
-        </arrangement>
-        <c id="ab294f92ec404cc2a204e8370b8c91a9" level="subseries">
-          <did>
-            <unittitle>Beirut</unittitle>
-            <unitid>1</unitid>
-            <unitdate normal="1972/1973" type="inclusive">1972 - 1973</unitdate>
-          </did>
-          <c id="af9c181c36e947e89815474027693b8b" level="file">
-            <did>
-              <unitdate normal="1973/1973" type="inclusive">1973</unitdate>
-              <container id="ee7eebee6235bc7c3ee28f01793cd831" label="mixed materials (A0000000069191)" type="box">1</container>
-              <container id="1b251405268412c670745c94cfab3397" parent="ee7eebee6235bc7c3ee28f01793cd831" type="folder">1-12</container>
-            </did>
-          </c>
-          <c id="a4cebc32c89a49d0bb88f7982acbc040" level="file">
-            <did>
-              <unitdate normal="1972/1972" type="inclusive">1972</unitdate>
-              <container id="bad5954f0ffb42cd913efd7d275281ab" label="mixed materials (A0000000069192)" type="box">2</container>
-              <container id="8ec37196e2b142cb278cbb6d6e207a3d" parent="bad5954f0ffb42cd913efd7d275281ab" type="folder">13-22</container>
-            </did>
-          </c>
-          <c id="f7ff3ab23530494784f3979cdb2a7c4a" level="file">
-            <did>
-              <unitdate normal="1971/1971" type="inclusive">1971</unitdate>
-              <container id="f22a6e028bba73bb28994f9a49dcf6b7" label="mixed materials (A0000000069192)" type="box">2</container>
-              <container id="88c5401fb95f1165a8252812f7b0c79e" parent="f22a6e028bba73bb28994f9a49dcf6b7" type="folder">23</container>
-            </did>
-          </c>
-          <c id="d39a0e31bc6c4de9bb24f5da46eeed84" level="file">
-            <did>
-              <unitdate normal="1968/1968" type="inclusive">1968</unitdate>
-              <container id="f0234cb26e227f851d192a8848111e8c" label="mixed materials (A0000000069192)" type="box">2</container>
-              <container id="0d2704217acb0388ed881f68b920b533" parent="f0234cb26e227f851d192a8848111e8c" type="folder">24</container>
-            </did>
-          </c>
-        </c>
-        <c id="d8a0ed0016c44b349f6f9bbb0e5db515" level="subseries">
-          <did>
-            <unittitle>Cairo</unittitle>
-            <unitid>2</unitid>
-            <unitdate normal="1972/1974" type="inclusive">1972 - 1974</unitdate>
-          </did>
-          <c id="3f12da7bfd854f9e9ae0f0a01d461e27" level="file">
-            <did>
-              <unitdate normal="1974/1974" type="inclusive">1974</unitdate>
-              <container id="76b6d4353a6c3f10f398325615017033" label="mixed materials (A0000000069192)" type="box">2</container>
-              <container id="17e135a76236c503db642817ec8c15ee" parent="76b6d4353a6c3f10f398325615017033" type="folder">25-27</container>
-            </did>
-          </c>
-          <c id="793e59b0f39d4c398bcfdafce45ab342" level="file">
-            <did>
-              <unitdate normal="1974/1974" type="inclusive">1974</unitdate>
-              <container id="5a4ba5cf16c2cd2af2f9f7ae7251b041" label="mixed materials (A0000000069193)" type="box">3</container>
-              <container id="dc49b753802e93eba436b823a61feb99" parent="5a4ba5cf16c2cd2af2f9f7ae7251b041" type="folder">28-36</container>
-            </did>
-          </c>
-          <c id="11cd343fc17e4488b67c8250fd49f0f6" level="file">
-            <did>
-              <unitdate normal="1973/1973" type="inclusive">1973</unitdate>
-              <container id="ef9830c9f4fd9e909fa1968bd73f5e25" label="mixed materials (A0000000069193)" type="box">3</container>
-              <container id="a51c44e2beab2c6c4ee719f2f6976d3f" parent="ef9830c9f4fd9e909fa1968bd73f5e25" type="folder">37-42</container>
-            </did>
-          </c>
-          <c id="f54d7e73e2c5425f8c1bcde7b8beb241" level="file">
-            <did>
-              <unitdate normal="1973/1973" type="inclusive">1973</unitdate>
-              <container id="5a15efc5c7221bc3bacef27538112b05" label="mixed materials (A0000000069194)" type="box">4</container>
-              <container id="153d6cb41a2faaecf68698625a46ee4c" parent="5a15efc5c7221bc3bacef27538112b05" type="folder">43-48</container>
-            </did>
-          </c>
-          <c id="294372aa19f8486189e3664f6f7b7cc7" level="file">
-            <did>
-              <unitdate normal="1972/1972" type="inclusive">1972</unitdate>
-              <container id="64708e8976fc72365202541f9f511e25" label="mixed materials (A0000000069194)" type="box">4</container>
-              <container id="29286ada7ecb5fb3094b1203d3ee22ad" parent="64708e8976fc72365202541f9f511e25" type="folder">49-57</container>
-            </did>
-          </c>
-        </c>
-        <c id="fa3058fbce8e42c792e5e38c21fbc255" level="subseries">
-          <did>
-            <unittitle>Tunis</unittitle>
-            <unitid>3</unitid>
-            <unitdate normal="1967/1974" type="inclusive">1967 - 1974</unitdate>
-          </did>
-          <c id="d38cccdfc0d54f9497fa0e604ac978f4" level="file">
-            <did>
-              <unitdate normal="1974/1974" type="inclusive">1974</unitdate>
-              <container id="36bff0b7cbc8a9f9df62ad57e6724c38" label="mixed materials (A0000000069195)" type="box">5</container>
-              <container id="c08ad446fd2f65fa2d6a4815011b1956" parent="36bff0b7cbc8a9f9df62ad57e6724c38" type="folder">58-69</container>
-            </did>
-          </c>
-          <c id="abb4b201a7614b3d9e636b1806596505" level="file">
-            <did>
-              <unitdate normal="1973/1973" type="inclusive">1973</unitdate>
-              <container id="89d887666605d31a81fd33661021b9f7" label="mixed materials (A0000000069195)" type="box">5</container>
-              <container id="7288171c5d2f20b5dcfdde8c5952f800" parent="89d887666605d31a81fd33661021b9f7" type="folder">70-81</container>
-            </did>
-          </c>
-          <c id="d3972f6dc3c7426da84f4498c2f96d3a" level="file">
-            <did>
-              <unitdate normal="1972/1972" type="inclusive">1972</unitdate>
-              <container id="e1e2c122d197231c66f6dabbbb8ccf52" label="mixed materials (A0000000069195)" type="box">5</container>
-              <container id="e2dce29a19e2fd0ddb46b153f0d37a2b" parent="e1e2c122d197231c66f6dabbbb8ccf52" type="folder">82-88</container>
-            </did>
-          </c>
-          <c id="773bd7a2913b4c16b2349d643e0171f0" level="file">
-            <did>
-              <unitdate normal="1971/1971" type="inclusive">1971</unitdate>
-              <container id="5a43496ded2b6851d6d88c5cdc0bff93" label="mixed materials (A0000000069195)" type="box">5</container>
-              <container id="dca935ff43bb04bd672ab7fbd801ad66" parent="5a43496ded2b6851d6d88c5cdc0bff93" type="folder">89-90</container>
-            </did>
-          </c>
-          <c id="005c540789394499b485fc4a3aa1af98" level="file">
-            <did>
-              <unitdate normal="1970/1970" type="inclusive">1970</unitdate>
-              <container id="28d0884147083aed2cb6e40555a28b06" label="mixed materials (A0000000069195)" type="box">5</container>
-              <container id="ab241ada38ceb836bb397b6e35b2ff32" parent="28d0884147083aed2cb6e40555a28b06" type="folder">91</container>
-            </did>
-          </c>
-          <c id="2e4a5149ab9841e9b043770552fbe61d" level="file">
-            <did>
-              <unitdate normal="1969/1969" type="inclusive">1969</unitdate>
-              <container id="bf9dade388b516b762cc71c186ddf079" label="mixed materials (A0000000069196)" type="box">6</container>
-              <container id="f52d3a70f2bc2a6bb2018778ec341156" parent="bf9dade388b516b762cc71c186ddf079" type="folder">92</container>
-            </did>
-          </c>
-          <c id="a07af078c94e4c77a142b83ac84577a6" level="file">
-            <did>
-              <unitdate normal="1968/1968" type="inclusive">1968</unitdate>
-              <container id="acf9521bd41cd3424d03a4d58be48abd" label="mixed materials (A0000000069196)" type="box">6</container>
-              <container id="a108181f8258068fd9eb8a5d4aa3f57b" parent="acf9521bd41cd3424d03a4d58be48abd" type="folder">93-104</container>
-            </did>
-          </c>
-          <c id="ec3cceda2b664b118ca6d053e3a1d5a2" level="file">
-            <did>
-              <unitdate normal="1967/1967" type="inclusive">1967</unitdate>
-              <container id="857c125c19b48a28ecd806d309eb535d" label="mixed materials (A0000000069196)" type="box">6</container>
-              <container id="bac4e68cd90bd9121809417005c9379f" parent="857c125c19b48a28ecd806d309eb535d" type="folder">105-106</container>
-            </did>
-          </c>
-        </c>
-        <c id="b60d52b3dc3b4de39ad69915c2746198" level="subseries">
-          <did>
-            <unittitle>Israel</unittitle>
-            <unitid>4</unitid>
-            <unitdate normal="1970/1973" type="inclusive">1970 - 1973</unitdate>
-          </did>
-          <c id="c0738534acc04030abb861775e64e7f0" level="file">
-            <did>
-              <unitdate normal="1973/1973" type="inclusive">1973</unitdate>
-              <container id="943f9f5a2ee40090b5cd9c64e3da196e" label="mixed materials (A0000000069196)" type="box">6</container>
-              <container id="ef56bd35500aa569e5e61621a873c727" parent="943f9f5a2ee40090b5cd9c64e3da196e" type="folder">107</container>
-            </did>
-          </c>
-          <c id="62dd1d3c0cf84a41b92db3301685cb06" level="file">
-            <did>
-              <unitdate normal="1972/1972" type="inclusive">1972</unitdate>
-              <container id="1db181c37c2ee360df712b1e32a467d4" label="mixed materials (A0000000069196)" type="box">6</container>
-              <container id="6f71f3b51c1ab044e8b98f2b014285aa" parent="1db181c37c2ee360df712b1e32a467d4" type="folder">108</container>
-            </did>
-          </c>
-          <c id="9eb6c829a59148eaa604968fdce5552e" level="file">
-            <did>
-              <unitdate normal="1971/1971" type="inclusive">1971</unitdate>
-              <container id="60aa4f925212c508bd526b64fbee19cf" label="mixed materials (A0000000069196)" type="box">6</container>
-              <container id="6a493f9d788dc32bdc6c4a6e0c0a7a36" parent="60aa4f925212c508bd526b64fbee19cf" type="folder">109</container>
-            </did>
-          </c>
-          <c id="7c6b6379049f41c38ea5d19ef6c0df60" level="file">
-            <did>
-              <unitdate normal="1970/1970" type="inclusive">1970</unitdate>
-              <container id="2534663773825682ef33e71a80a0cb11" label="mixed materials (A0000000069196)" type="box">6</container>
-              <container id="70f3fff8864c3b5ad024b6e1f432faea" parent="2534663773825682ef33e71a80a0cb11" type="folder">110</container>
-            </did>
-          </c>
-        </c>
-      </c>
-      <c id="ba8a7d0acd814b04836b8fefca693215" level="series">
-        <did>
-          <unittitle>MEA Field Office Budget Correspondence</unittitle>
-          <unitid>II</unitid>
-          <unitdate normal="1969/1974" type="inclusive">1969 - 1974</unitdate>
-        </did>
-        <scopecontent id="3ea5320c7561595ca466a872ace8bd71">
-          <head>Scope and Contents</head>
-          <p>Series II deals with two field offices: Tunis (1969 - 1973) and Beirut (1970 - 1974). This series contains correspondence concerning program management costs, manpower projections, and budget reports. Both this series and Series I include correspondence from Ford Foundation's field office staff: Piero Bronzi, Robert Edwards, Wesley S. Edwards, Melvin Fox, Wayne Fredericks, Wilbert J. Le Melle, Courtney A. Nelson, Thomas F. Olson, Thomas D. Scott, and Betty Skolnick.</p>
-        </scopecontent>
-        <arrangement id="2b7ff357060eced39b2a899fc1bb75a6">
-          <head>Arrangement</head>
-          <p>Series II, MEA Field Office Budget Correspondence, 1969 - 1974, contains budget-related correspondence from Tunis and Beirut. The files are divided by field office and are arranged in reverse chronological order. Within each folder the items are arranged in reverse chronological order.</p>
-        </arrangement>
-        <c id="2713fe6b6aba419fb674c30c54bd8c6f" level="subseries">
-          <did>
-            <unittitle>Tunis</unittitle>
-            <unitid>1</unitid>
-            <unitdate normal="1969/1973" type="inclusive">1969 - 1973</unitdate>
-          </did>
-          <c id="15113d4d9b864edd8703bcded5a137f7" level="file">
-            <did>
-              <unitdate normal="1973/1973" type="inclusive">1973</unitdate>
-              <container id="ab661fe70a47cac8f1550164cfc11e8b" label="mixed materials (A0000000069197)" type="box">7</container>
-              <container id="722a7dbef757f82a1a9caba6ed0c2799" parent="ab661fe70a47cac8f1550164cfc11e8b" type="folder">111</container>
-            </did>
-          </c>
-          <c id="a56c5ee3f4ea4576a876c44a8120ed6d" level="file">
-            <did>
-              <unitdate normal="1972/1972" type="inclusive">1972</unitdate>
-              <container id="379a09bf2ef28589a968c2fe8d9cbc06" label="mixed materials (A0000000069197)" type="box">7</container>
-              <container id="2069a329cebbd47ceef237ad33558878" parent="379a09bf2ef28589a968c2fe8d9cbc06" type="folder">112</container>
-            </did>
-          </c>
-          <c id="1266093d698440979a719f68cc6e1400" level="file">
-            <did>
-              <unitdate normal="1971/1971" type="inclusive">1971</unitdate>
-              <container id="9588f34d7f52ab7b78af5a5163c3ff5d" label="mixed materials (A0000000069197)" type="box">7</container>
-              <container id="11c6b18989c83aea76d9554b64217e91" parent="9588f34d7f52ab7b78af5a5163c3ff5d" type="folder">113</container>
-            </did>
-          </c>
-          <c id="87375f7e13314affb55d8a1c25638589" level="file">
-            <did>
-              <unitdate normal="1970/1970" type="inclusive">1970</unitdate>
-              <container id="92a52e5a793b41ddaaec80c5afa6781b" label="mixed materials (A0000000069197)" type="box">7</container>
-              <container id="e5b6b00877cb649275ae5201d4af74e0" parent="92a52e5a793b41ddaaec80c5afa6781b" type="folder">114</container>
-            </did>
-          </c>
-          <c id="6c62ca41b78243d0ac768d97de102166" level="file">
-            <did>
-              <unitdate normal="1969/1969" type="inclusive">1969</unitdate>
-              <container id="3b06537a0e23834b881cb769def8549f" label="mixed materials (A0000000069197)" type="box">7</container>
-              <container id="6882b4f108e02c5ff86aa3366f32a790" parent="3b06537a0e23834b881cb769def8549f" type="folder">115</container>
-            </did>
-          </c>
-        </c>
-        <c id="d00955dc88374df99b5ed29394122911" level="subseries">
-          <did>
-            <unittitle>Beirut</unittitle>
-            <unitid>2</unitid>
-            <unitdate normal="1970/1974" type="inclusive">1970 - 1974</unitdate>
-          </did>
-          <c id="a8c033af9eee436d902496841351aebc" level="file">
-            <did>
-              <unitdate normal="1974/1974" type="inclusive">1974</unitdate>
-              <container id="36d451295511c919b19eb700a082d7f7" label="mixed materials (A0000000069197)" type="box">7</container>
-              <container id="ae5b7353eaeec9b654bc119de912e4c1" parent="36d451295511c919b19eb700a082d7f7" type="folder">116</container>
-            </did>
-          </c>
-          <c id="b7b71a5a71df4a9aad441e22c16fee89" level="file">
-            <did>
-              <unitdate normal="1973/1973" type="inclusive">1973</unitdate>
-              <container id="f00950defb8769abdc1a53cdbc0856c9" label="mixed materials (A0000000069197)" type="box">7</container>
-              <container id="df3e74612337c7372f70ae54d65a0af7" parent="f00950defb8769abdc1a53cdbc0856c9" type="folder">117</container>
-            </did>
-          </c>
-          <c id="3aed658d9c42457fa6c78179e95a55db" level="file">
-            <did>
-              <unitdate normal="1972/1972" type="inclusive">1972</unitdate>
-              <container id="5ad882f51844487678841d073dee8344" label="mixed materials (A0000000069197)" type="box">7</container>
-              <container id="4a4b1edb3740c1556c85ad596f8afdae" parent="5ad882f51844487678841d073dee8344" type="folder">118</container>
-            </did>
-          </c>
-          <c id="6c9d552c4b064945b2f0da3086f59969" level="file">
-            <did>
-              <unitdate normal="1971/1971" type="inclusive">1971</unitdate>
-              <container id="183d1586bc9c1e8555a4815f13ac0d48" label="mixed materials (A0000000069197)" type="box">7</container>
-              <container id="59842c4ee34983795da24a1853b3b1f1" parent="183d1586bc9c1e8555a4815f13ac0d48" type="folder">119</container>
-            </did>
-          </c>
-          <c id="5c25c6a8241e46bb9d378c740d4a1e39" level="file">
-            <did>
-              <unitdate normal="1970/1970" type="inclusive">1970</unitdate>
-              <container id="0cd50cd855c10a84880d80822351eb9e" label="mixed materials (A0000000069197)" type="box">7</container>
-              <container id="147175f486425ced22135e1eb0d4a0c5" parent="0cd50cd855c10a84880d80822351eb9e" type="folder">120</container>
-            </did>
-          </c>
-        </c>
-      </c>
-      <c id="ebd8be487f214019afea5438a36fd4cb" level="series">
-        <did>
-          <unittitle>Richard C. Robarts Office Correspondence, 1966 (1973 - 1974)</unittitle>
-          <unitid>III</unitid>
-          <unitdate normal="1966/1974" type="inclusive">1966 (1973 - 1974)</unitdate>
-        </did>
-        <arrangement id="8688577381f0790442197c2893f03752">
-          <head>Arrangement</head>
-          <p>Series III, Richard C. Robarts Office Correspondence, 1966 (1973 - 1974), contains Robarts' outgoing correspondence, memoranda and cables as well as a very small amount of incoming correspondence. The files are arranged in reverse chronological order. Within each folder the items are arranged in reverse chronological order.</p>
-        </arrangement>
-        <scopecontent id="a0604f96ffe2623690946861903b8a22">
-          <head>Scope and Contents</head>
-          <p>Series III is the chronological file of Robarts' out-going letters and memoranda. This series documents Robart's administrative responsibilities.</p>
-        </scopecontent>
-        <c id="cd91c5a2488c4f2b98156409c05e4cdf" level="file">
-          <did>
-            <unitdate normal="1974/1974" type="inclusive">1974</unitdate>
-            <container id="691e815e03d667077e05ab5423079172" label="mixed materials (A0000000069197)" type="box">7</container>
-            <container id="b007545828ef5345e6ff6a55ecea4aea" parent="691e815e03d667077e05ab5423079172" type="folder">121-130</container>
-          </did>
-        </c>
-        <c id="be4c47eda19c439bafda95d953782489" level="file">
-          <did>
-            <unitdate normal="1974/1974" type="inclusive">1974</unitdate>
-            <container id="33da17dced96840c630d5f06041fa6be" label="mixed materials (A0000000069198)" type="box">8</container>
-            <container id="5842842b9d1e2dcddc7514ae94af9f2b" parent="33da17dced96840c630d5f06041fa6be" type="folder">130-132</container>
-          </did>
-        </c>
-        <c id="db425b01267d48c89c42e0ee9607e6f2" level="file">
-          <did>
-            <unitdate normal="1973/1973" type="inclusive">1973</unitdate>
-            <container id="e081286925d34b5f93f9b6cda45b9fa7" label="mixed materials (A0000000069198)" type="box">8</container>
-            <container id="993cb3bf2d9a2f1f9a89f1fa7e1955fa" parent="e081286925d34b5f93f9b6cda45b9fa7" type="folder">133-138</container>
-          </did>
-        </c>
-        <c id="e14be7aab9f54f299c1452ab253142d5" level="file">
-          <did>
-            <unitdate normal="1966/1966" type="inclusive">1966</unitdate>
-            <container id="57a3108da7ed90b8cf2da80a47467022" label="mixed materials (A0000000069198)" type="box">8</container>
-            <container id="5b8f555dd6092c79b5401d5d895aa576" parent="57a3108da7ed90b8cf2da80a47467022" type="folder">139</container>
-          </did>
-        </c>
-      </c>
-      <c id="00c4821dce6f43e5befdfd5af9367891" level="series">
-        <did>
-          <unittitle>MEA Field Office Correspondence</unittitle>
-          <unitid>IV</unitid>
-          <unitdate normal="1966/1982" type="inclusive">1966 - 1982</unitdate>
-        </did>
-        <scopecontent id="f9959f30589a5afba9179cc1524a24d8">
-          <head>Scope and Contents</head>
-          <p>Series IV (ACC95/1) contains Beirut quarterly forecast files, 1966-1967; correspondence concerning the Foundation's departure from Beirut, 1975-1977, including information on termination of staff; correspondence pertaining to the Foundation's departure from Saudi Arabia, 1976-1978; correspondence to/from Robarts and Foundation staff and others concerning the Foundation's interest in the Persian Gulf States, especially Kuwait and Bahrain, 1975-1976; material regarding the Foundation's response to the Arab boycott of Israel, 1975-1977; memoranda to/from Courtney Nelson, 1972-1976; memoranda and trip reports from Cynthia Myntti, 1981-1982; and correspondence from the Cairo Field Office regarding the human rights/legal aid consultancy of George Cooper, 1981-1982.</p>
-        </scopecontent>
-        <arrangement id="a5c4dcc64827ebbc1f31480560b9030b">
-          <head>Arrangement</head>
-          <p>Series IV, MEA Field Office Correspondence, 1966 - 1982, has not been arranged.</p>
-        </arrangement>
-        <c id="e55a3d535255442f800fa73bae9fca7b" level="file">
-          <did>
-            <unittitle>Beirut quarterly forecasts</unittitle>
-            <unitdate normal="1966/1966" type="inclusive">1966</unitdate>
-            <container id="1505bd085281ccb9e7ebbbd23e71a18d" label="mixed materials (A0000000069199)" type="box">9</container>
-            <container id="58129559090f6dc1c87bdc7b61160a6e" parent="1505bd085281ccb9e7ebbbd23e71a18d" type="folder">140</container>
-          </did>
-        </c>
-        <c id="95fd105ed46643b29bd69fbeb1d9b7d2" level="file">
-          <did>
-            <unittitle>Beirut quarterly forecasts</unittitle>
-            <unitdate normal="1967/1967" type="inclusive">1967 January - April</unitdate>
-            <container id="da7c2c10e10cbf9424bc8643f5ce8a1a" label="mixed materials (A0000000069199)" type="box">9</container>
-            <container id="ea4ec666be39b75044af7a46ee6f1dcf" parent="da7c2c10e10cbf9424bc8643f5ce8a1a" type="folder">141</container>
-          </did>
-        </c>
-        <c id="977308e3f1c4496692c688f59052dc78" level="file">
-          <did>
-            <unittitle>Beirut quarterly forecasts</unittitle>
-            <unitdate normal="1967/1968" type="inclusive">1967 October - 1968 February</unitdate>
-            <container id="f0996b2d2f6454897d8610efaac249a7" label="mixed materials (A0000000069199)" type="box">9</container>
-            <container id="f909d3d5bf7e62dfaf81213c013f9958" parent="f0996b2d2f6454897d8610efaac249a7" type="folder">142</container>
-          </did>
-        </c>
-        <c id="b79478a9ae584476badd8a27ea6199fa" level="file">
-          <did>
-            <unittitle>"Beirut Emergency File" (confidential)</unittitle>
-            <unitdate normal="1975/1977" type="inclusive">1975 - 1977</unitdate>
-            <container id="0cc5561b478754381b957c4a5605c999" label="mixed materials (A0000000069199)" type="box">9</container>
-            <container id="e937c316403b3bf6bebc57f9e57f56fc" parent="0cc5561b478754381b957c4a5605c999" type="folder">143</container>
-          </did>
-        </c>
-        <c id="8a5288ac674e42188f9bcac15112b3f2" level="file">
-          <did>
-            <unittitle>"Beirut Retrenchment File"</unittitle>
-            <unitdate normal="1975/1976" type="inclusive">1975 November - 1976 June</unitdate>
-            <container id="f77910f17fd0c2c75d837bdc937ed5cc" label="mixed materials (A0000000069199)" type="box">9</container>
-            <container id="32839a50ee77d5d8431611222eb96d09" parent="f77910f17fd0c2c75d837bdc937ed5cc" type="folder">144</container>
-          </did>
-        </c>
-        <c id="b3f83cb068fd4a2d8d1b8c86a5d06dc2" level="file">
-          <did>
-            <unittitle>"Beirut Retrenchment File"</unittitle>
-            <unitdate normal="1976/1977" type="inclusive">1976 July - 1977 May</unitdate>
-            <container id="fbb0b2accca3e9309c7cdd409a1d524f" label="mixed materials (A0000000069199)" type="box">9</container>
-            <container id="3481243de580956bb4763f3dbd6179eb" parent="fbb0b2accca3e9309c7cdd409a1d524f" type="folder">145</container>
-          </did>
-        </c>
-        <c id="d3fb494c75ec4dbe9c4e03b25e8c559e" level="file">
-          <did>
-            <unittitle>Saudi Arabia</unittitle>
-            <unitdate normal="1976/1978" type="inclusive">1976 - 1978</unitdate>
-            <container id="01de5c9ac08573f2c4a2a889833ca8eb" label="mixed materials (A0000000069199)" type="box">9</container>
-            <container id="e49bf17fcd461ba9e6ecf3b757984b36" parent="01de5c9ac08573f2c4a2a889833ca8eb" type="folder">146</container>
-          </did>
-        </c>
-        <c id="b4f2612bdc444fc482170ac41fd095c5" level="file">
-          <did>
-            <unittitle>Gulf Coast, Kuwait, Bahrain</unittitle>
-            <unitdate normal="1975/1976" type="inclusive">1975 - 1976</unitdate>
-            <container id="c2a0a53bd7e449346ff04799e9b4643f" label="mixed materials (A0000000069200)" type="box">10</container>
-            <container id="347d784dd5986d33ceb2757ff121969a" parent="c2a0a53bd7e449346ff04799e9b4643f" type="folder">147</container>
-          </did>
-        </c>
-        <c id="8279949ab79f4e13a804faf994d4c6cf" level="file">
-          <did>
-            <unittitle>Arab Boycott of Israel</unittitle>
-            <unitdate normal="1975/1977" type="inclusive">1975 - 1977</unitdate>
-            <container id="143d81697847567fbbb749ab2d913a88" label="mixed materials (A0000000069200)" type="box">10</container>
-            <container id="fb6fc44f25049e6eebb7dba37ffed789" parent="143d81697847567fbbb749ab2d913a88" type="folder">148</container>
-          </did>
-        </c>
-        <c id="7e4b3538a84b4725a842389b1929fee3" level="file">
-          <did>
-            <unittitle>Arab Boycott of Israel</unittitle>
-            <unitdate normal="1975/1977" type="inclusive">1975 - 1977</unitdate>
-            <container id="595c8710b4bac75351bd9d8b61b86dea" label="mixed materials (A0000000069200)" type="box">10</container>
-            <container id="c66f9508a147b87bd056621dec719645" parent="595c8710b4bac75351bd9d8b61b86dea" type="folder">149</container>
-          </did>
-        </c>
-        <c id="1e6a53bb6d1b444d82ef23bf38eecef4" level="file">
-          <did>
-            <unittitle>Arab Boycott of Israel (clippings)</unittitle>
-            <unitdate normal="1975/1977" type="inclusive">1975 - 1977</unitdate>
-            <container id="a90833154ee1ed6f62e786e8a222c8d0" label="mixed materials (A0000000069200)" type="box">10</container>
-            <container id="fb22ab27560f5722a4fc577dba6edb19" parent="a90833154ee1ed6f62e786e8a222c8d0" type="folder">150</container>
-          </did>
-        </c>
-        <c id="a01a39d05c9740858306830cf082e2d9" level="file">
-          <did>
-            <unittitle>Memoranda to/from Courtney Nelson</unittitle>
-            <unitdate normal="1972/1974" type="inclusive">1972 - 1974</unitdate>
-            <container id="d550cf829650498a5664f86a70de82bf" label="mixed materials (A0000000069200)" type="box">10</container>
-            <container id="baece79cc56eacf67bc2a5eb91ba2ed6" parent="d550cf829650498a5664f86a70de82bf" type="folder">151</container>
-          </did>
-        </c>
-        <c id="19d2173237074eb6b24753d6964969e4" level="file">
-          <did>
-            <unittitle>Memoranda to/from Courtney Nelson</unittitle>
-            <unitdate normal="1975/1976" type="inclusive">1975 - 1976</unitdate>
-            <container id="38924f028b56f8675252985ec634846d" label="mixed materials (A0000000069200)" type="box">10</container>
-            <container id="78530addfe7bd18f97d0adf22334187e" parent="38924f028b56f8675252985ec634846d" type="folder">152</container>
-          </did>
-        </c>
-        <c id="63c254383c664b299b65f6825b67b72a" level="file">
-          <did>
-            <unittitle>Memoranda and trip reports from Cynthia Myntti</unittitle>
-            <unitdate normal="1981/1982" type="inclusive">1981 - 1982</unitdate>
-            <container id="d4911769d3d0eb6312f83dee9b839e3b" label="mixed materials (A0000000069200)" type="box">10</container>
-            <container id="37a6b68efba07b6d60518d314ca77213" parent="d4911769d3d0eb6312f83dee9b839e3b" type="folder">153</container>
-          </did>
-        </c>
-        <c id="8329f9ddf01e41a49afec40efb0660d4" level="file">
-          <did>
-            <unittitle>Human rights/legal aid consultancy (George Cooper)</unittitle>
-            <unitdate normal="1981/1982" type="inclusive">1981 - 1982</unitdate>
-            <container id="5ce68d92c8834ef59fefdf084ed9e11e" label="mixed materials (A0000000069200)" type="box">10</container>
-            <container id="ee7e2cd91e2ba8d3144c4e7eb40513a5" parent="5ce68d92c8834ef59fefdf084ed9e11e" type="folder">154</container>
-          </did>
-        </c>
-      </c>
-    </dsc>
-  </archdesc>
+•  March 1963, Asst. to the Dir., N.Y., Administration</p><p>Richard Robarts was born July 22, 1932. He received his Bachelor of Arts (B.A.) degree in 1955 from Bowdoin College, and was elected Phi Beta Kappa. In 1956, Robarts was awarded the Master of Arts in Teaching degree from Yale University. In 1962, he received the Master in International Affairs degree from Columbia University. </p><p>Prior to his tenure at the Ford Foundation Mr. Robarts held the following positions: </p><p>•  1962-63, American Telephone and Telegraph, Public Relations Asst.
+•  1958-60, Press Herald, Portland, ME, Reporter</p><p>After his departure from the Ford Foundation, Mr. Robarts became the Executive Director of the Near East Foundation, New York, New York.</p>  </bioghist>
+  <scopecontent id="b139bf997bbe91e9dab756222ab93ab5">
+    <head>Scope and Contents</head>
+<p>The MEA Files from the Office of Richard C. Robarts consist of four linear feet (10 archives boxes) of correspondence, inter-office memoranda and cables. The MEA files arranged and described 1984-1986, document the administration of the MEA office between 1966 and 1974. Records accessioned in 1995 and organized as Series IV, document various activities from 1966 to 1982.</p>  </scopecontent>
+  <arrangement id="c42c0b704582dccca12f5c50aa174ce5">
+    <head>Arrangement</head>
+<p>The MEA Files from the Office of Richard C. Robarts are arranged in four series:</p><p>I. MEA Field Office Correspondence, 1967 - 1974</p><p>II. MEA Field Office Budget Correspondence, 1969 - 1974</p><p>III. Richard C. Robarts Office Correspondence, 1966 (1973 - 1974)</p><p>IV. MEA Field Office Correspondence, 1966 - 1982</p>  </arrangement>
+  <userestrict id="b16a0979066044cfa50e3e9b0f545210">
+    <head>Conditions Governing Use</head>
+<p>Completion of a use agreement is required prior to providing scholarly access. See RAC Head of Reference (or applicable designee) for details. </p><p>Ford Foundation holds title, copyright and literary rights in the collection, in so far as it holds them.</p><p>The Rockefeller Archive Center has authority to grant permission to cite and publish material from the collection for scholarly purposes. Permission to publish extensive excerpts, or material in its entirety, will be referred to the Ford Foundation.</p>  </userestrict>
+  <acqinfo id="3282af8bba1abef8e3fc0735e4df39fe">
+    <head>Immediate Source of Acquisition</head>
+<p>Ford Foundation archive was deposited at RAC in 2011. Ford Foundation records, correspondence, reports, program files and officers papers were transferred to, and accessioned by, RAC beginning in 2011. Accessions continue as necessary.</p>  </acqinfo>
+  <prefercite id="9844a10e661f2fbee9dd8eaadd3a7935">
+    <head>Preferred Citation</head>
+<p>Information regarding the Rockefeller Archive Center's preferred elements and forms of citation can be found at <extref href="http://www.rockarch.org/research/citations.php">http://www.rockarch.org/research/citations.php</extref>.</p>  </prefercite>
+  <accessrestrict id="151513b2bfcbc8af67ec9f9fed308253">
+    <head>Conditions Governing Access</head>
+<p>Records more than 10 years old are open for research with select materials restricted as noted. Brittle or damaged items are available at the discretion of RAC.</p>  </accessrestrict>
+  <dsc><c id="d38be59539f4464d86f212868f591864" level="series"><did><unittitle>MEA Field Office Correspondence</unittitle><unitid>I</unitid><unitdate normal="1967/1974" type="inclusive">1967 - 1974</unitdate></did><scopecontent id="8be3768d58ba67bd5fc7d92d780aa3eb"><head>Scope and Contents</head><p>Series I deals with four field offices: Beirut, Cairo, Tunis and Israel.</p></scopecontent><arrangement id="b2744d49e63555aef106b5e8d69a7c2a"><head>Arrangement</head><p>Series I, MEA Field Office Correspondence, 1967 - 1974, is divided by Field Office: Beirut, Cairo, Tunis, and Israel. For each field office the files are arranged in reverse chronological order. Within each folder the items are arranged in reverse chronological order.</p></arrangement><c id="ab294f92ec404cc2a204e8370b8c91a9" level="subseries"><did><unittitle>Beirut</unittitle><unitid>1</unitid><unitdate normal="1972/1973" type="inclusive">1972 - 1973</unitdate></did><c id="af9c181c36e947e89815474027693b8b" level="file"><did><unitdate normal="1973/1973" type="inclusive">1973</unitdate><container altrender="Letter Document Box" id="350db4ae04dea42e80a51e9bb9751319" label="mixed materials [A0000000069191]" type="box">1</container><container id="f623a492a4433782f70e9c317334cb20" parent="350db4ae04dea42e80a51e9bb9751319" type="folder">1-12</container></did></c><c id="a4cebc32c89a49d0bb88f7982acbc040" level="file"><did><unitdate normal="1972/1972" type="inclusive">1972</unitdate><container altrender="Letter Document Box" id="ea0bbcc7d6795abc36d5d7d6da7772eb" label="mixed materials [A0000000069192]" type="box">2</container><container id="97c87860bd809e5aecf5727bfe246327" parent="ea0bbcc7d6795abc36d5d7d6da7772eb" type="folder">13-22</container></did></c><c id="f7ff3ab23530494784f3979cdb2a7c4a" level="file"><did><unitdate normal="1971/1971" type="inclusive">1971</unitdate><container altrender="Letter Document Box" id="f290a6ccd11f4984d828213c5200ba1c" label="mixed materials [A0000000069192]" type="box">2</container><container id="78fbc47475d18407ef62328db06f9aac" parent="f290a6ccd11f4984d828213c5200ba1c" type="folder">23</container></did></c><c id="d39a0e31bc6c4de9bb24f5da46eeed84" level="file"><did><unitdate normal="1968/1968" type="inclusive">1968</unitdate><container altrender="Letter Document Box" id="9053472a95bf52dae0f63b1943c43a05" label="mixed materials [A0000000069192]" type="box">2</container><container id="0f3a5d6800318ac599f37c9382e2a093" parent="9053472a95bf52dae0f63b1943c43a05" type="folder">24</container></did></c></c><c id="d8a0ed0016c44b349f6f9bbb0e5db515" level="subseries"><did><unittitle>Cairo</unittitle><unitid>2</unitid><unitdate normal="1972/1974" type="inclusive">1972 - 1974</unitdate></did><c id="3f12da7bfd854f9e9ae0f0a01d461e27" level="file"><did><unitdate normal="1974/1974" type="inclusive">1974</unitdate><container altrender="Letter Document Box" id="def4a035bb2015173842a396a142c015" label="mixed materials [A0000000069192]" type="box">2</container><container id="af5da1681737ea47146ba7e0713ddaf6" parent="def4a035bb2015173842a396a142c015" type="folder">25-27</container></did></c><c id="793e59b0f39d4c398bcfdafce45ab342" level="file"><did><unitdate normal="1974/1974" type="inclusive">1974</unitdate><container altrender="Letter Document Box" id="071be72d6167ac2741a21520787ccb9a" label="mixed materials [A0000000069193]" type="box">3</container><container id="cc09fd9898fb39a5ce59f895ff49efc6" parent="071be72d6167ac2741a21520787ccb9a" type="folder">28-36</container></did></c><c id="11cd343fc17e4488b67c8250fd49f0f6" level="file"><did><unitdate normal="1973/1973" type="inclusive">1973</unitdate><container altrender="Letter Document Box" id="5cfb1b27cd94da0fbbe9b2f840620dd0" label="mixed materials [A0000000069193]" type="box">3</container><container id="f29b458c016691aa4341c41c22d00b85" parent="5cfb1b27cd94da0fbbe9b2f840620dd0" type="folder">37-42</container></did></c><c id="f54d7e73e2c5425f8c1bcde7b8beb241" level="file"><did><unitdate normal="1973/1973" type="inclusive">1973</unitdate><container altrender="Letter Document Box" id="980b7dea6a4cdc6b94afabb30003a579" label="mixed materials [A0000000069194]" type="box">4</container><container id="227f341906b35d99707eb5354b755eb1" parent="980b7dea6a4cdc6b94afabb30003a579" type="folder">43-48</container></did></c><c id="294372aa19f8486189e3664f6f7b7cc7" level="file"><did><unitdate normal="1972/1972" type="inclusive">1972</unitdate><container altrender="Letter Document Box" id="e3971cb6a6e946512392bdd5e827675f" label="mixed materials [A0000000069194]" type="box">4</container><container id="ec2c3f6b07e42626b5ae33569a7f7a79" parent="e3971cb6a6e946512392bdd5e827675f" type="folder">49-57</container></did></c></c><c id="fa3058fbce8e42c792e5e38c21fbc255" level="subseries"><did><unittitle>Tunis</unittitle><unitid>3</unitid><unitdate normal="1967/1974" type="inclusive">1967 - 1974</unitdate></did><c id="d38cccdfc0d54f9497fa0e604ac978f4" level="file"><did><unitdate normal="1974/1974" type="inclusive">1974</unitdate><container altrender="Letter Document Box" id="3a38bc0ea8ebccff36dbcf7233dc8b98" label="mixed materials [A0000000069195]" type="box">5</container><container id="59abd7d35a9b57dac1b6f3149bf9323e" parent="3a38bc0ea8ebccff36dbcf7233dc8b98" type="folder">58-69</container></did></c><c id="abb4b201a7614b3d9e636b1806596505" level="file"><did><unitdate normal="1973/1973" type="inclusive">1973</unitdate><container altrender="Letter Document Box" id="2786c28c41deaaae5782accc292512bf" label="mixed materials [A0000000069195]" type="box">5</container><container id="95163b94dbba52507475dca34f42e56e" parent="2786c28c41deaaae5782accc292512bf" type="folder">70-81</container></did></c><c id="d3972f6dc3c7426da84f4498c2f96d3a" level="file"><did><unitdate normal="1972/1972" type="inclusive">1972</unitdate><container altrender="Letter Document Box" id="ba8458f2cd32269fbf36af9a5ef7e363" label="mixed materials [A0000000069195]" type="box">5</container><container id="9870cf09b873127034bb694ee934459a" parent="ba8458f2cd32269fbf36af9a5ef7e363" type="folder">82-88</container></did></c><c id="773bd7a2913b4c16b2349d643e0171f0" level="file"><did><unitdate normal="1971/1971" type="inclusive">1971</unitdate><container altrender="Letter Document Box" id="947aee993b554bfaac010852cea933e0" label="mixed materials [A0000000069195]" type="box">5</container><container id="254406200e9808078ed84112d934c777" parent="947aee993b554bfaac010852cea933e0" type="folder">89-90</container></did></c><c id="005c540789394499b485fc4a3aa1af98" level="file"><did><unitdate normal="1970/1970" type="inclusive">1970</unitdate><container altrender="Letter Document Box" id="3d25efa3f3688f2f2d67f446c92ac0bc" label="mixed materials [A0000000069195]" type="box">5</container><container id="be9e90f98bcb088955d21be035b5f1a9" parent="3d25efa3f3688f2f2d67f446c92ac0bc" type="folder">91</container></did></c><c id="2e4a5149ab9841e9b043770552fbe61d" level="file"><did><unitdate normal="1969/1969" type="inclusive">1969</unitdate><container altrender="Half Letter Document Box" id="57256795e79c136aa7dddc4af5e11142" label="mixed materials [A0000000069196]" type="box">6</container><container id="6763b921eaed6fb181adb47eadafc506" parent="57256795e79c136aa7dddc4af5e11142" type="folder">92</container></did></c><c id="a07af078c94e4c77a142b83ac84577a6" level="file"><did><unitdate normal="1968/1968" type="inclusive">1968</unitdate><container altrender="Half Letter Document Box" id="34e69fe2177a84207dbb84b008c07bed" label="mixed materials [A0000000069196]" type="box">6</container><container id="f01ec7d6c07095941aecdb9fc59b546e" parent="34e69fe2177a84207dbb84b008c07bed" type="folder">93-104</container></did></c><c id="ec3cceda2b664b118ca6d053e3a1d5a2" level="file"><did><unitdate normal="1967/1967" type="inclusive">1967</unitdate><container altrender="Half Letter Document Box" id="583254f4515b82592638cf36727ed43d" label="mixed materials [A0000000069196]" type="box">6</container><container id="74426d01f9e0c72dfeb3e62634781882" parent="583254f4515b82592638cf36727ed43d" type="folder">105-106</container></did></c></c><c id="b60d52b3dc3b4de39ad69915c2746198" level="subseries"><did><unittitle>Israel</unittitle><unitid>4</unitid><unitdate normal="1970/1973" type="inclusive">1970 - 1973</unitdate></did><c id="c0738534acc04030abb861775e64e7f0" level="file"><did><unitdate normal="1973/1973" type="inclusive">1973</unitdate><container altrender="Half Letter Document Box" id="e23a33ba21de955fa48a55a20c2b47d9" label="mixed materials [A0000000069196]" type="box">6</container><container id="cc8861d9642b935e3fa5a65a7a48ee1d" parent="e23a33ba21de955fa48a55a20c2b47d9" type="folder">107</container></did></c><c id="62dd1d3c0cf84a41b92db3301685cb06" level="file"><did><unitdate normal="1972/1972" type="inclusive">1972</unitdate><container altrender="Half Letter Document Box" id="ed0265a893baafdc70c52be632a530b9" label="mixed materials [A0000000069196]" type="box">6</container><container id="46b756dd70bb8fd56ba58abdcf91fa1e" parent="ed0265a893baafdc70c52be632a530b9" type="folder">108</container></did></c><c id="9eb6c829a59148eaa604968fdce5552e" level="file"><did><unitdate normal="1971/1971" type="inclusive">1971</unitdate><container altrender="Half Letter Document Box" id="ac8e5ed9107b198f1aa7b73d0c87ea24" label="mixed materials [A0000000069196]" type="box">6</container><container id="a33300fa7b5cccf2100ac77253c0d02f" parent="ac8e5ed9107b198f1aa7b73d0c87ea24" type="folder">109</container></did></c><c id="7c6b6379049f41c38ea5d19ef6c0df60" level="file"><did><unitdate normal="1970/1970" type="inclusive">1970</unitdate><container altrender="Half Letter Document Box" id="37943a82a974899fa9e25974613ab143" label="mixed materials [A0000000069196]" type="box">6</container><container id="6043b0a2d01d00a426d60c258b17e2da" parent="37943a82a974899fa9e25974613ab143" type="folder">110</container></did></c></c></c><c id="ba8a7d0acd814b04836b8fefca693215" level="series"><did><unittitle>MEA Field Office Budget Correspondence</unittitle><unitid>II</unitid><unitdate normal="1969/1974" type="inclusive">1969 - 1974</unitdate></did><scopecontent id="3ea5320c7561595ca466a872ace8bd71"><head>Scope and Contents</head><p>Series II deals with two field offices: Tunis (1969 - 1973) and Beirut (1970 - 1974). This series contains correspondence concerning program management costs, manpower projections, and budget reports. Both this series and Series I include correspondence from Ford Foundation's field office staff: Piero Bronzi, Robert Edwards, Wesley S. Edwards, Melvin Fox, Wayne Fredericks, Wilbert J. Le Melle, Courtney A. Nelson, Thomas F. Olson, Thomas D. Scott, and Betty Skolnick.</p></scopecontent><arrangement id="2b7ff357060eced39b2a899fc1bb75a6"><head>Arrangement</head><p>Series II, MEA Field Office Budget Correspondence, 1969 - 1974, contains budget-related correspondence from Tunis and Beirut. The files are divided by field office and are arranged in reverse chronological order. Within each folder the items are arranged in reverse chronological order.</p></arrangement><c id="2713fe6b6aba419fb674c30c54bd8c6f" level="subseries"><did><unittitle>Tunis</unittitle><unitid>1</unitid><unitdate normal="1969/1973" type="inclusive">1969 - 1973</unitdate></did><c id="15113d4d9b864edd8703bcded5a137f7" level="file"><did><unitdate normal="1973/1973" type="inclusive">1973</unitdate><container altrender="Letter Document Box" id="fae4def47ae82a91d07e51e464fd5b08" label="mixed materials [A0000000069197]" type="box">7</container><container id="f062886315b7102870cbc1971bd71dd4" parent="fae4def47ae82a91d07e51e464fd5b08" type="folder">111</container></did></c><c id="a56c5ee3f4ea4576a876c44a8120ed6d" level="file"><did><unitdate normal="1972/1972" type="inclusive">1972</unitdate><container altrender="Letter Document Box" id="a874258a55812c6cfac967c04fcb71e2" label="mixed materials [A0000000069197]" type="box">7</container><container id="fb35acaae93e9b174d16998757cc5681" parent="a874258a55812c6cfac967c04fcb71e2" type="folder">112</container></did></c><c id="1266093d698440979a719f68cc6e1400" level="file"><did><unitdate normal="1971/1971" type="inclusive">1971</unitdate><container altrender="Letter Document Box" id="d12023255e1ca9a20a43f5589f74fbe8" label="mixed materials [A0000000069197]" type="box">7</container><container id="e9acac386da8e5175e26828b6d343bb8" parent="d12023255e1ca9a20a43f5589f74fbe8" type="folder">113</container></did></c><c id="87375f7e13314affb55d8a1c25638589" level="file"><did><unitdate normal="1970/1970" type="inclusive">1970</unitdate><container altrender="Letter Document Box" id="2627f98f0b6eaa24190145f41da6f0b3" label="mixed materials [A0000000069197]" type="box">7</container><container id="7eea9076d8a63dd33aeb2a6dad32d1a2" parent="2627f98f0b6eaa24190145f41da6f0b3" type="folder">114</container></did></c><c id="6c62ca41b78243d0ac768d97de102166" level="file"><did><unitdate normal="1969/1969" type="inclusive">1969</unitdate><container altrender="Letter Document Box" id="4d087baeb9b6e75c892d296677167a5d" label="mixed materials [A0000000069197]" type="box">7</container><container id="ff1c8e7cd18525243826788bb70224e5" parent="4d087baeb9b6e75c892d296677167a5d" type="folder">115</container></did></c></c><c id="d00955dc88374df99b5ed29394122911" level="subseries"><did><unittitle>Beirut</unittitle><unitid>2</unitid><unitdate normal="1970/1974" type="inclusive">1970 - 1974</unitdate></did><c id="a8c033af9eee436d902496841351aebc" level="file"><did><unitdate normal="1974/1974" type="inclusive">1974</unitdate><container altrender="Letter Document Box" id="b86a18e33a58edabf7c3bee51bc5c095" label="mixed materials [A0000000069197]" type="box">7</container><container id="fdc3fb7fffa5b1fa361fc1ddeecc8c4c" parent="b86a18e33a58edabf7c3bee51bc5c095" type="folder">116</container></did></c><c id="b7b71a5a71df4a9aad441e22c16fee89" level="file"><did><unitdate normal="1973/1973" type="inclusive">1973</unitdate><container altrender="Letter Document Box" id="2fb4e83138e449b70b0319a25c1f4344" label="mixed materials [A0000000069197]" type="box">7</container><container id="8081e0ef24165cf9f810409a6c84a7bb" parent="2fb4e83138e449b70b0319a25c1f4344" type="folder">117</container></did></c><c id="3aed658d9c42457fa6c78179e95a55db" level="file"><did><unitdate normal="1972/1972" type="inclusive">1972</unitdate><container altrender="Letter Document Box" id="a512a388da30814219ae40cfac01e70e" label="mixed materials [A0000000069197]" type="box">7</container><container id="1672b3a2bd222ac4bcd2e87ecb896851" parent="a512a388da30814219ae40cfac01e70e" type="folder">118</container></did></c><c id="6c9d552c4b064945b2f0da3086f59969" level="file"><did><unitdate normal="1971/1971" type="inclusive">1971</unitdate><container altrender="Letter Document Box" id="9640a397099a09d80d659d4194a3f6db" label="mixed materials [A0000000069197]" type="box">7</container><container id="4f4024cc351e734246bfd7516fc87648" parent="9640a397099a09d80d659d4194a3f6db" type="folder">119</container></did></c><c id="5c25c6a8241e46bb9d378c740d4a1e39" level="file"><did><unitdate normal="1970/1970" type="inclusive">1970</unitdate><container altrender="Letter Document Box" id="1975fd94dae1930d0c041e5bf5322d57" label="mixed materials [A0000000069197]" type="box">7</container><container id="ba9ec1fe99657cc8a18c29a734d8970b" parent="1975fd94dae1930d0c041e5bf5322d57" type="folder">120</container></did></c></c></c><c id="ebd8be487f214019afea5438a36fd4cb" level="series"><did><unittitle>Richard C. Robarts Office Correspondence, 1966 (1973 - 1974)</unittitle><unitid>III</unitid><unitdate normal="1966/1974" type="inclusive">1966 (1973 - 1974)</unitdate></did><arrangement id="8688577381f0790442197c2893f03752"><head>Arrangement</head><p>Series III, Richard C. Robarts Office Correspondence, 1966 (1973 - 1974), contains Robarts' outgoing correspondence, memoranda and cables as well as a very small amount of incoming correspondence. The files are arranged in reverse chronological order. Within each folder the items are arranged in reverse chronological order.</p></arrangement><scopecontent id="a0604f96ffe2623690946861903b8a22"><head>Scope and Contents</head><p>Series III is the chronological file of Robarts' out-going letters and memoranda. This series documents Robart's administrative responsibilities.</p></scopecontent><c id="cd91c5a2488c4f2b98156409c05e4cdf" level="file"><did><unitdate normal="1974/1974" type="inclusive">1974</unitdate><container altrender="Letter Document Box" id="e955f8c8be2ed92143e8d7205c8240f3" label="mixed materials [A0000000069197]" type="box">7</container><container id="5f8ea71664c8ad8ec83806cf75e8e4ed" parent="e955f8c8be2ed92143e8d7205c8240f3" type="folder">121-130</container></did></c><c id="be4c47eda19c439bafda95d953782489" level="file"><did><unitdate normal="1974/1974" type="inclusive">1974</unitdate><container altrender="Half Letter Document Box" id="4f77ee5810fdbfea4d9b4a7671e1347b" label="mixed materials [A0000000069198]" type="box">8</container><container id="834d0a3e5398c5b4818b2df1c5faa776" parent="4f77ee5810fdbfea4d9b4a7671e1347b" type="folder">130-132</container></did></c><c id="db425b01267d48c89c42e0ee9607e6f2" level="file"><did><unitdate normal="1973/1973" type="inclusive">1973</unitdate><container altrender="Half Letter Document Box" id="2a6e7f74853a5a47d63aba3f0fee917c" label="mixed materials [A0000000069198]" type="box">8</container><container id="b6452f4988729408f3b67b4ba41e6846" parent="2a6e7f74853a5a47d63aba3f0fee917c" type="folder">133-138</container></did></c><c id="e14be7aab9f54f299c1452ab253142d5" level="file"><did><unitdate normal="1966/1966" type="inclusive">1966</unitdate><container altrender="Half Letter Document Box" id="7e445e396471567a801832c34a50b3f1" label="mixed materials [A0000000069198]" type="box">8</container><container id="42721b20828108d55933e8bfb35214af" parent="7e445e396471567a801832c34a50b3f1" type="folder">139</container></did></c></c><c id="00c4821dce6f43e5befdfd5af9367891" level="series"><did><unittitle>MEA Field Office Correspondence</unittitle><unitid>IV</unitid><unitdate normal="1966/1982" type="inclusive">1966 - 1982</unitdate></did><scopecontent id="f9959f30589a5afba9179cc1524a24d8"><head>Scope and Contents</head><p>Series IV (ACC95/1) contains Beirut quarterly forecast files, 1966-1967; correspondence concerning the Foundation's departure from Beirut, 1975-1977, including information on termination of staff; correspondence pertaining to the Foundation's departure from Saudi Arabia, 1976-1978; correspondence to/from Robarts and Foundation staff and others concerning the Foundation's interest in the Persian Gulf States, especially Kuwait and Bahrain, 1975-1976; material regarding the Foundation's response to the Arab boycott of Israel, 1975-1977; memoranda to/from Courtney Nelson, 1972-1976; memoranda and trip reports from Cynthia Myntti, 1981-1982; and correspondence from the Cairo Field Office regarding the human rights/legal aid consultancy of George Cooper, 1981-1982.</p></scopecontent><arrangement id="a5c4dcc64827ebbc1f31480560b9030b"><head>Arrangement</head><p>Series IV, MEA Field Office Correspondence, 1966 - 1982, has not been arranged.</p></arrangement><c id="e55a3d535255442f800fa73bae9fca7b" level="file"><did><unittitle>Beirut quarterly forecasts</unittitle><unitdate normal="1966/1966" type="inclusive">1966</unitdate><container altrender="Letter Document Box" id="9cd4f6d46ccac4e16045b7129eda4fa6" label="mixed materials [A0000000069199]" type="box">9</container><container id="cb579a1a241726d3efe5588b86ac96c0" parent="9cd4f6d46ccac4e16045b7129eda4fa6" type="folder">140</container></did></c><c id="95fd105ed46643b29bd69fbeb1d9b7d2" level="file"><did><unittitle>Beirut quarterly forecasts</unittitle><unitdate normal="1967/1967" type="inclusive">1967 January - April</unitdate><container altrender="Letter Document Box" id="5d8c00bd1a338448f98defeecab239eb" label="mixed materials [A0000000069199]" type="box">9</container><container id="fbf69c6cea3e63c3cf786a7feadeefd9" parent="5d8c00bd1a338448f98defeecab239eb" type="folder">141</container></did></c><c id="977308e3f1c4496692c688f59052dc78" level="file"><did><unittitle>Beirut quarterly forecasts</unittitle><unitdate normal="1967/1968" type="inclusive">1967 October - 1968 February</unitdate><container altrender="Letter Document Box" id="b015577684159b74e46bce481585ec63" label="mixed materials [A0000000069199]" type="box">9</container><container id="8050dcec692a107b45387f942fbee96b" parent="b015577684159b74e46bce481585ec63" type="folder">142</container></did></c><c id="b79478a9ae584476badd8a27ea6199fa" level="file"><did><unittitle>"Beirut Emergency File" (confidential)</unittitle><unitdate normal="1975/1977" type="inclusive">1975 - 1977</unitdate><container altrender="Letter Document Box" id="0b37368798efd6f510ac6a9df97d1519" label="mixed materials [A0000000069199]" type="box">9</container><container id="b7b8dd64deafd5a7e5b2705163bd4358" parent="0b37368798efd6f510ac6a9df97d1519" type="folder">143</container></did></c><c id="8a5288ac674e42188f9bcac15112b3f2" level="file"><did><unittitle>"Beirut Retrenchment File"</unittitle><unitdate normal="1975/1976" type="inclusive">1975 November - 1976 June</unitdate><container altrender="Letter Document Box" id="efa1858078cf89903f93c514b6dd13ca" label="mixed materials [A0000000069199]" type="box">9</container><container id="ba0f09c9e2aac0f76ae74bb06a3508a9" parent="efa1858078cf89903f93c514b6dd13ca" type="folder">144</container></did></c><c id="b3f83cb068fd4a2d8d1b8c86a5d06dc2" level="file"><did><unittitle>"Beirut Retrenchment File"</unittitle><unitdate normal="1976/1977" type="inclusive">1976 July - 1977 May</unitdate><container altrender="Letter Document Box" id="7a65244b8aef52ce5c955e2b0ecfd5c0" label="mixed materials [A0000000069199]" type="box">9</container><container id="cdcb2195de0f4fc43d04f8d519abc792" parent="7a65244b8aef52ce5c955e2b0ecfd5c0" type="folder">145</container></did></c><c id="d3fb494c75ec4dbe9c4e03b25e8c559e" level="file"><did><unittitle>Saudi Arabia</unittitle><unitdate normal="1976/1978" type="inclusive">1976 - 1978</unitdate><container altrender="Letter Document Box" id="0f80289c942cefdaa59c891016ba8348" label="mixed materials [A0000000069199]" type="box">9</container><container id="a7c69a9ac5ca328f0cd68c4b0db95a91" parent="0f80289c942cefdaa59c891016ba8348" type="folder">146</container></did></c><c id="b4f2612bdc444fc482170ac41fd095c5" level="file"><did><unittitle>Gulf Coast, Kuwait, Bahrain</unittitle><unitdate normal="1975/1976" type="inclusive">1975 - 1976</unitdate><container altrender="Letter Document Box" id="1a90dce6c9a5514b733ac3c485db57eb" label="mixed materials [A0000000069200]" type="box">10</container><container id="8a18a0560818f8b1449eafd9e8f1ec3d" parent="1a90dce6c9a5514b733ac3c485db57eb" type="folder">147</container></did></c><c id="8279949ab79f4e13a804faf994d4c6cf" level="file"><did><unittitle>Arab Boycott of Israel</unittitle><unitdate normal="1975/1977" type="inclusive">1975 - 1977</unitdate><container altrender="Letter Document Box" id="b85a18eb2069c4cab636781e4f769ccf" label="mixed materials [A0000000069200]" type="box">10</container><container id="bda0e9520f7720eb8fff2cf57f63523e" parent="b85a18eb2069c4cab636781e4f769ccf" type="folder">148</container></did></c><c id="7e4b3538a84b4725a842389b1929fee3" level="file"><did><unittitle>Arab Boycott of Israel</unittitle><unitdate normal="1975/1977" type="inclusive">1975 - 1977</unitdate><container altrender="Letter Document Box" id="ef7f19e1f5a0d257be12060bc88b0296" label="mixed materials [A0000000069200]" type="box">10</container><container id="bee2761e7083be7d5f142f83c744f7d2" parent="ef7f19e1f5a0d257be12060bc88b0296" type="folder">149</container></did></c><c id="1e6a53bb6d1b444d82ef23bf38eecef4" level="file"><did><unittitle>Arab Boycott of Israel (clippings)</unittitle><unitdate normal="1975/1977" type="inclusive">1975 - 1977</unitdate><container altrender="Letter Document Box" id="96d71b27bbe4cc8ae45e279ccc41d7e0" label="mixed materials [A0000000069200]" type="box">10</container><container id="d3fab1d543afb5d8c820c9a14bb017f9" parent="96d71b27bbe4cc8ae45e279ccc41d7e0" type="folder">150</container></did></c><c id="a01a39d05c9740858306830cf082e2d9" level="file"><did><unittitle>Memoranda to/from Courtney Nelson</unittitle><unitdate normal="1972/1974" type="inclusive">1972 - 1974</unitdate><container altrender="Letter Document Box" id="8b9dc3979d26aa26352a49cb2da6123d" label="mixed materials [A0000000069200]" type="box">10</container><container id="900f70e96e28e51b336d3d27615fca77" parent="8b9dc3979d26aa26352a49cb2da6123d" type="folder">151</container></did></c><c id="19d2173237074eb6b24753d6964969e4" level="file"><did><unittitle>Memoranda to/from Courtney Nelson</unittitle><unitdate normal="1975/1976" type="inclusive">1975 - 1976</unitdate><container altrender="Letter Document Box" id="7ef80aaa72ada59be3ed25bd4db2fea0" label="mixed materials [A0000000069200]" type="box">10</container><container id="bfb1ccfb9f259ddff536b95375ba029b" parent="7ef80aaa72ada59be3ed25bd4db2fea0" type="folder">152</container></did></c><c id="63c254383c664b299b65f6825b67b72a" level="file"><did><unittitle>Memoranda and trip reports from Cynthia Myntti</unittitle><unitdate normal="1981/1982" type="inclusive">1981 - 1982</unitdate><container altrender="Letter Document Box" id="dd665bae3014c04adad236dc5b414942" label="mixed materials [A0000000069200]" type="box">10</container><container id="e29c4a9cfa45969a2243fe656e59d77f" parent="dd665bae3014c04adad236dc5b414942" type="folder">153</container></did></c><c id="8329f9ddf01e41a49afec40efb0660d4" level="file"><did><unittitle>Human rights/legal aid consultancy (George Cooper)</unittitle><unitdate normal="1981/1982" type="inclusive">1981 - 1982</unitdate><container altrender="Letter Document Box" id="250a340c2632e24e0f9a6162aaa2c634" label="mixed materials [A0000000069200]" type="box">10</container><container id="e5d088332318c9e41a0f27d97693b476" parent="250a340c2632e24e0f9a6162aaa2c634" type="folder">154</container></did></c></c></dsc>
+</archdesc>
 </ead>

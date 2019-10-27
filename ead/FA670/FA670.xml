@@ -1,320 +1,79 @@
-<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
-  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" repositoryencoding="iso15511">
-    <eadid>FA670.xml</eadid>
-    <filedesc>
-      <titlestmt>
-        <titleproper type="filing">Ford Foundation records, Overseas Development, Foreign Area Training and Research, Fellowship Files</titleproper>
-        <titleproper>A Guide to the Ford Foundation records, Overseas Development, Foreign Area Training and Research, Fellowship Files
- <num>FA670</num></titleproper>
-      </titlestmt>
-      <publicationstmt>
-        <publisher>Rockefeller Archive Center</publisher>
-        <address>
-          <addressline>15 Dayton Avenue</addressline>
-          <addressline>Sleepy Hollow 10591</addressline>
-          <addressline>archive@rockarch.org</addressline>
-          <addressline>URL: <extptr xlink:href="http://www.rockarch.org" xlink:show="new" xlink:title="http://www.rockarch.org" xlink:type="simple"/></addressline>
-        </address>
-      </publicationstmt>
-    </filedesc>
-    <profiledesc>
-      <creation>This finding aid was produced using ArchivesSpace on <date>2017-10-25 01:09:12 -0400</date>.</creation>
-    </profiledesc>
-  </eadheader>
-  <archdesc level="collection">
-    <did>
-      <langmaterial>
-        <language langcode="eng">English</language>
-      </langmaterial>
-      <repository>
-        <corpname>Rockefeller Archive Center</corpname>
-      </repository>
-      <unittitle>Ford Foundation records, Overseas Development, Foreign Area Training and Research, Fellowship Files</unittitle>
-      <origination label="creator">
-        <corpname role="aut" rules="dacs" source="nad">Ford Foundation</corpname>
-      </origination>
-      <unitid>FA670</unitid>
-      <physdesc altrender="whole">
-        <extent altrender="materialtype spaceoccupied">0.88 Cubic Feet</extent>
-      </physdesc>
-      <unitdate normal="1953/1955" type="inclusive">1953-1955</unitdate>
-      <physdesc id="e12e50406d62ebec1720095bccb185e9">
-        <extent>2 legal size document boxes.</extent>
-      </physdesc>
-    </did>
-    <userestrict id="f51cb2e4311bcaf99f78da0881b9de3a">
-      <head>Conditions Governing Use note</head>
-      <p>Completion of a use agreement is required prior to providing scholarly access. See RAC Head of Reference (or applicable designee) for details. Ford Foundation holds title, copyright and literary rights in the collection, in so far as it holds them. The Rockefeller Archive Center has authority to grant permission to cite and publish material from the collection for scholarly purposes. Permission to publish extensive excerpts, or material in its entirety, will be referred to the Ford Foundation.</p>
-    </userestrict>
-    <acqinfo id="f38506c91eae6a13825c050ce61a2ef5">
-      <head>Immediate Source of Acquisition note</head>
-      <p>Ford Foundation archive was deposited at RAC in 2011. Ford Foundation records, correspondence, reports, program files and officers papers were transferred to, and accessioned by, RAC beginning in 2011. Accessions continue as necessary.</p>
-    </acqinfo>
-    <processinfo id="a17f0ac0274677d2a43d780e8e917dea">
-      <head>Processing Information</head>
-      <p>Level 1 Minimal Processing has been conducted to establish basic intellectual and physical control of the material and assess immediate preservation and conservation needs. Material remains as received, in original folders and storage boxes.</p>
-    </processinfo>
-    <prefercite id="23e10a1defbecffff840e12516673fa5">
-      <head>Preferred Citation note</head>
-      <p>Information regarding the Rockefeller Archive Center's preferred elements and forms of citation can be found at <extref href="http://www.rockarch.org/research/citations.php">http://www.rockarch.org/research/citations.php</extref></p>
-    </prefercite>
-    <arrangement id="717081dd8482082d4b229b50e3d7d4be">
-      <head>Arrangement</head>
-      <p>Arranged in 2 series:
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid>FA670.xml</eadid><filedesc><titlestmt><titleproper type="filing">Ford Foundation records, Overseas Development, Foreign Area Training and Research, Fellowship Files</titleproper><titleproper>A Guide to the Ford Foundation records, Overseas Development, Foreign Area Training and Research, Fellowship Files
+ <num>FA670</num></titleproper></titlestmt><publicationstmt><publisher>Rockefeller Archive Center</publisher><address><addressline>15 Dayton Avenue</addressline><addressline>Sleepy Hollow 10591</addressline><addressline>archive@rockarch.org</addressline><addressline>URL: <extptr xlink:href="http://www.rockarch.org" xlink:show="new" xlink:title="http://www.rockarch.org" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2019-10-27 01:06:07 -0400</date>.</creation></profiledesc></eadheader><archdesc level="collection">
+  <did>
+    <langmaterial>
+      <language langcode="eng">English</language>
+    </langmaterial>
+    <repository>
+      <corpname>Rockefeller Archive Center</corpname>
+    </repository>
+    <unittitle>Ford Foundation records, Overseas Development, Foreign Area Training and Research, Fellowship Files</unittitle>
+    <origination label="Creator">
+      <corpname role="aut" rules="dacs" source="nad">Ford Foundation</corpname>
+    </origination>
+    <unitid>FA670</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">0.76 Cubic Feet</extent>
+    </physdesc>
+    <unitdate normal="1953/1955" type="inclusive">1953-1955</unitdate>
+    <physdesc id="e12e50406d62ebec1720095bccb185e9" label="General Physical Description note"><extent>2 legal size document boxes.</extent></physdesc>
+  </did>
+  <userestrict id="f51cb2e4311bcaf99f78da0881b9de3a">
+    <head>Conditions Governing Use note</head>
+<p>Completion of a use agreement is required prior to providing scholarly access. See RAC Head of Reference (or applicable designee) for details. Ford Foundation holds title, copyright and literary rights in the collection, in so far as it holds them. The Rockefeller Archive Center has authority to grant permission to cite and publish material from the collection for scholarly purposes. Permission to publish extensive excerpts, or material in its entirety, will be referred to the Ford Foundation.</p>  </userestrict>
+  <acqinfo id="f38506c91eae6a13825c050ce61a2ef5">
+    <head>Immediate Source of Acquisition note</head>
+<p>Ford Foundation archive was deposited at RAC in 2011. Ford Foundation records, correspondence, reports, program files and officers papers were transferred to, and accessioned by, RAC beginning in 2011. Accessions continue as necessary.</p>  </acqinfo>
+  <processinfo id="a17f0ac0274677d2a43d780e8e917dea">
+    <head>Processing Information</head>
+<p>Level 1 Minimal Processing has been conducted to establish basic intellectual and physical control of the material and assess immediate preservation and conservation needs. Material remains as received, in original folders and storage boxes.</p>  </processinfo>
+  <prefercite id="23e10a1defbecffff840e12516673fa5">
+    <head>Preferred Citation note</head>
+<p>Information regarding the Rockefeller Archive Center's preferred elements and forms of citation can be found at <extref href="http://www.rockarch.org/research/citations.php">http://www.rockarch.org/research/citations.php</extref></p>  </prefercite>
+  <arrangement id="717081dd8482082d4b229b50e3d7d4be">
+    <head>Arrangement</head>
+<p>Arranged in 2 series:
 1. University Visits.
-2. Sargeant, Howland: Working Files.</p>
-    </arrangement>
-    <accessrestrict id="c855b1553fdf0e537eaf5e4d26043304">
-      <head>Conditions Governing Access</head>
-      <p>Records more than 10 years old are open for research with select materials restricted as noted. Brittle or damaged items are available at the discretion of RAC.</p>
-    </accessrestrict>
-    <scopecontent id="3206923a436181f53bcad032b59fa8a5">
-      <head>Scope and Contents</head>
-      <p>Highligted by the Sargeant Survey, 1954.</p>
-    </scopecontent>
-    <bioghist id="d787fc9482e372df9d0b71eda6121001">
-      <head>Biographical / Historical</head>
-      <p>
-        <emph render="bold">Segment One: International Activities of the Ford Foundation: An Overview</emph>
-      </p>
-      <p>The Foundation's aspiration to become a national and international philanthropy for the advancement of human welfare was first formally expressed in the seminal 1949 report of the Gaither Study Committee, <emph render="italic">Report of the Study for the Ford Foundation on Policy and Program</emph> (RAC Library, call letters 361.7 GAI ), which was commissioned by the Board of Trustees to chart the Foundation's future. Foundation Trustees launched Ford's international grantmaking activities in 1950 when they approved the committee's report and its embrace of peace, democracy, and freedom.  Since then, the Foundation has tackled these goals using a variety of strategies and responding to changing contexts, from the Cold War to the 1989 fall of the Berlin Wall and beyond.</p>
-      <p>Toward the Foundation's aspiration‎al goal, "the establishment of peace", its international activities have comprised a wide range of conceptual approaches and focus areas. These include international affairs, international studies, international understanding, arms control and disarmament, international law, international economic concerns, and overseas development in nearly every region of the world. Three distinct periods emerge for the international grantmaking defined by external contextual changes and internal changes in Foundation leadership and structures: the expansion era of 1950-1965; the transition and restructuring years of 1966-1988; and the post-1989 shift away from Cold War dichotomies.  During each of the distinct historical periods the consistent objectives were: 1) to ensure freedom and democracy in developed countries; 2) to foster education and international understanding in all countries; and 3) to contribute to the social, economic, and political development of less developed countries.</p>
-    </bioghist>
-    <bioghist id="f38cbbc03bbe0272038b0eb78f498442">
-      <head>Biographical / Historical</head>
-      <p>
-        <emph render="bold">Segment 2.  Period Sketch - The Expansion Era 1950-1965</emph>
-      </p>
-      <p>The Ford Foundation's expansion era (1950-1965) began when the Gaither Study Committee Report placed "peace" as the area of top priority for the Foundation and set the Ford Foundation on a global course.  Board Chair Henry Ford II writing in the 1951 Annual Report of the Foundation, identified "the danger of war" as the "the prime threat to human welfare today." Under the leadership of the three Ford Foundation presidents in this period-- Paul Hoffman, H. Rowan Gaither and Henry Heald--and several key trustees, notably the two seriatim chairs, John J. McCloy and Julius A. Stratton, the Foundation programs were largely informed by the post-World War II desire to avoid nuclear war and promote greater understanding among the world's peoples, strengthening of the United Nations, and enhancing both private and public American participation in world affairs. The strong board presence of university presidents and former leaders of postwar reconstruction efforts in Europe also helped to inform Ford's approach to building the field of peace and international security in the United States and encouraged extensive overseas activities.</p>
-      <p>For example, the first three presidents of the expanded Foundation ranged from government and business leadership experience to academic and nonprofit: Paul Hoffman (at Ford, 1950-1953) ran the Marshall Plan in Europe; H. Rowan Gaither Staffer (1948-1953), President (1953-1956) and Trustee (1956-1958) had MIT and Rand experience; Henry Heald, former president, Illinois Institute of Technology and New York University, President (1956-1966). The trustees also ran the leadership gamut from government and nonprofits to academic: Trustee John J. McCloy (from 1953; chair, 1959-1965) was assistant Secretary of War during World War II and chairman of the Council on Foreign Relations; and Trustee Julius A. Stratton (Trustee from 1955; chair, 1966-1970) was president of MIT.</p>
-      <p>When Ford became an international foundation in 1950, it had a small staff and operated through separate funds. The expansive period in the 1950s and 1960s resulted in a large number of field offices, which increased Ford's global footprint. Support focused on a mix of US university-based programs for research and training; think-tanks for policy-oriented meetings and policy research; and action projects specifically in less developed countries. The Foundation's focus on peace, freedom, and democracy played out against the Cold War backdrop for scientific and military competition between the United States, the Soviet Union and China.</p>
-      <p>Under President Hoffman, the Foundation's work was organized by the areas identified in the Gaither Committee Report: Area One, the Establishment of Peace; Area Two, The Strengthening of Democracy; Area Three, The Strengthening of the Economy; Area Four, Education in a Democratic Society; and Area Five, Individual Behavior and Human Relations.</p>
-      <p>Program differentiation began in the Gaither era. When he began in 1953, he introduced the following programs, with international work under nearly all of them: International Programs, Public Affairs Programs, Program in Economic Development and Administration (mainly U.S. based), Education Program, The TV-Radio Workshop, and Behavioral Sciences Program. In 1954, the Foundation gave prominence to the international work explicitly through changing the program names and separating international affairs and overseas development. The 1954 program names were: The Advancement of Education, Education for Democracy, Increasing Knowledge of Foreign Areas, Economic Development and Administration, the Behavioral Sciences, and Overseas Development.  In 1955, Increasing Knowledge of Foreign Areas became Increasing International Understanding. In 1956, the last year of the Gaither presidency, the program roster read: Education in the United States, The Behavioral Sciences, Public Affairs, Hospital Aid (only in the U.S.), Economic Development and Administration, International Understanding, and Overseas Development. Names changed but the program focus often remained the same.</p>
-      <p>President Heald maintained the areas of international interest of Hoffman and Gaither. The International Affairs program housed the programs based in the United States, Europe and Japan, with a few activities linking American and developing countries institutions. The Overseas Training and Research Program took over the efforts to increase American understanding of international issues.  From 1957-1959, an International Legal Studies program, run from New York, helped build law programs in developing countries. Starting in 1959, the Overseas Development program comprised all the regional and country offices. In fiscal year 1964, Heald convinced the trustees to add a new focus on population, with grants both in the United States and overseas.</p>
-    </bioghist>
-    <bioghist id="b1636096609a692603212735ef3a0426">
-      <head>Biographical / Historical</head>
-      <p>
-        <emph render="bold">Segment 2.  Period Summary - The Expansion Era 1950-1965</emph>
-      </p>
-      <p>With the ever-increasing budget and trustee willingness to invade capital, presidents Hoffman, Gaither and Heald oversaw vast growth in the Foundation's international activities in the United States, other developed countries and developing countries. Activities crossed disciplines, institutions, and national boundaries, although few crossed intra-foundation boundaries. Under the three presidents, Foundation staff in various domestic and international offices from New York interacted with the regional and country offices headed by representatives. Usually in this period, however, these offices in fact worked more closely with local governments than with New York staff, reinforcing the commitment to locally led social and economic development in less-developed countries.</p>
-      <p>The shared values of this early period reflected as much the continuing competition between the Communist and capitalist worlds as the concerns about maintaining peace. The Cold War provided the contextual continuity for grantmaking on the core themes of increasing American understanding of the rest of the world, building and strengthening connections not only with European and Asian democracies but also with Eastern European countries, the Soviet Union, China, and Cuba.</p>
-    </bioghist>
-    <dsc>
-      <c id="62bf141e32d04b38885b7314d582be48" level="series">
-        <did>
-          <unittitle>University Visits</unittitle>
-          <unitid>I</unitid>
-        </did>
-        <c id="9b8e6dbbdc794162b64bb5f3b63e71e8" level="file">
-          <did>
-            <unittitle>California -- Stanford University</unittitle>
-            <unitdate>1954</unitdate>
-            <container id="353318d6cc7c485809af23c664b2c025" label="mixed materials (A0000000087741)" type="box">1</container>
-          </did>
-        </c>
-        <c id="2a1a5537be8a4fa49260b64fe2f5dc53" level="file">
-          <did>
-            <unittitle>California -- University of California Berkeley</unittitle>
-            <unitdate>1954</unitdate>
-            <container id="aa0a37cda379f848e3c98665e311b380" label="mixed materials (A0000000087741)" type="box">1</container>
-          </did>
-        </c>
-        <c id="5d8b7240c9074de891a01d3c9f0e37aa" level="file">
-          <did>
-            <unittitle>Connecticut -- Wesleyan University</unittitle>
-            <unitdate>1953</unitdate>
-            <container id="0345123cb137f1fa68d16710843ce1f2" label="mixed materials (A0000000087741)" type="box">1</container>
-          </did>
-        </c>
-        <c id="d2083d775c7b4c64b5f7fcfb4c9109ef" level="file">
-          <did>
-            <unittitle>Illinois -- Northwestern University</unittitle>
-            <unitdate>1953-1955</unitdate>
-            <container id="0462f33f6bbd0b7262b9df51e1eecc72" label="mixed materials (A0000000087741)" type="box">1</container>
-          </did>
-        </c>
-        <c id="515fffa4f5a34c1a9f04cae3b61485dc" level="file">
-          <did>
-            <unittitle>Illinois -- University of Illinois</unittitle>
-            <unitdate>1953-1955</unitdate>
-            <container id="0254c4868cbee24b44127322543e7569" label="mixed materials (A0000000087741)" type="box">1</container>
-          </did>
-        </c>
-        <c id="4b1927dc46be4fb9bf2f4b9e75748852" level="file">
-          <did>
-            <unittitle>Illinois -- University of Chicago</unittitle>
-            <unitdate>1953</unitdate>
-            <container id="cd0ecd9349230a6ea9cd2aff8447c098" label="mixed materials (A0000000087741)" type="box">1</container>
-          </did>
-        </c>
-        <c id="2b755c1ea1d14aac9628166c1406a761" level="file">
-          <did>
-            <unittitle>Indiana -- Purdue University</unittitle>
-            <unitdate>1953-1954</unitdate>
-            <container id="bd5ac4fb6c7aa3f06292ee44ba81e706" label="mixed materials (A0000000087741)" type="box">1</container>
-          </did>
-        </c>
-        <c id="695bf69e99384bf7a5eba3b1b34f65ff" level="file">
-          <did>
-            <unittitle>Indiana -- Indiana University</unittitle>
-            <unitdate>1954-1955</unitdate>
-            <container id="4dca5fe7d640828f04bac169e5641236" label="mixed materials (A0000000087741)" type="box">1</container>
-          </did>
-        </c>
-        <c id="0091341884544882ab076a5f566b47e2" level="file">
-          <did>
-            <unittitle>Massachusetts -- Harvard University</unittitle>
-            <unitdate>1953-1955</unitdate>
-            <container id="9f78aee0e3b1a291815d5c731f63fadb" label="mixed materials (A0000000087741)" type="box">1</container>
-          </did>
-        </c>
-        <c id="d6c24fef1beb4aefb0c895895058ab94" level="file">
-          <did>
-            <unittitle>Massachusetts -- Smith College</unittitle>
-            <unitdate>1953</unitdate>
-            <container id="891075f97836b06f435e82a4ae16835d" label="mixed materials (A0000000087741)" type="box">1</container>
-          </did>
-        </c>
-        <c id="ae004068332346cda5872c6351d1c60c" level="file">
-          <did>
-            <unittitle>Massachusetts -- Massachusetts Institute of Technology</unittitle>
-            <unitdate>1954</unitdate>
-            <container id="2e60e53e54709adfc85121ba9fdbd9f1" label="mixed materials (A0000000087741)" type="box">1</container>
-          </did>
-        </c>
-        <c id="b023ef4106c14356837a3259f5200722" level="file">
-          <did>
-            <unittitle>Michigan -- University of Michigan</unittitle>
-            <unitdate>1953-1954</unitdate>
-            <container id="42ef2272994970fde1ff51c94b4fc624" label="mixed materials (A0000000087741)" type="box">1</container>
-          </did>
-        </c>
-        <c id="52f95fc28bb44b149036e1ef8cbf08dc" level="file">
-          <did>
-            <unittitle>Minnesota -- University of Minnesota</unittitle>
-            <unitdate>1954-1955</unitdate>
-            <container id="da2a823adc60c693463ad89c3bd42d4d" label="mixed materials (A0000000087741)" type="box">1</container>
-          </did>
-        </c>
-        <c id="525a686c60784d899f41ad8309cb6536" level="file">
-          <did>
-            <unittitle>New York -- Columbia University</unittitle>
-            <unitdate>1953-1954</unitdate>
-            <container id="e49b0325a8dc70d7cd1cca39d04363b3" label="mixed materials (A0000000087741)" type="box">1</container>
-          </did>
-        </c>
-        <c id="c002acb433ed4c6eb97495c9f94755de" level="file">
-          <did>
-            <unittitle>Ohio -- Antioch College</unittitle>
-            <unitdate>1953</unitdate>
-            <container id="9fb854193890bcfc3f020c18e1aecfb3" label="mixed materials (A0000000087741)" type="box">1</container>
-          </did>
-        </c>
-        <c id="c3aaf15199f6484582b906137de408d7" level="file">
-          <did>
-            <unittitle>Ohio -- Oberlin College</unittitle>
-            <unitdate>1953-1955</unitdate>
-            <container id="5429fa55db7a211cd5285515b17c1cb8" label="mixed materials (A0000000087741)" type="box">1</container>
-          </did>
-        </c>
-        <c id="6694e8d7ac544ad4b4a08bd119d5326e" level="file">
-          <did>
-            <unittitle>Ohio -- Ohio State University</unittitle>
-            <unitdate>1953</unitdate>
-            <container id="3296c2120b64cf318d906b0686b86a55" label="mixed materials (A0000000087741)" type="box">1</container>
-          </did>
-        </c>
-        <c id="2349f8de6e7546988788183db3a017e8" level="file">
-          <did>
-            <unittitle>Washington -- University of Washington (Seattle)</unittitle>
-            <unitdate>1954-1955</unitdate>
-            <container id="0ff920aff5c41814b28dc276dd1d54cb" label="mixed materials (A0000000087741)" type="box">1</container>
-          </did>
-        </c>
-      </c>
-      <c id="3c6749e7133a4f1da199a6ea031e0a32" level="series">
-        <did>
-          <unittitle>Sargeant, Howland: Working Files</unittitle>
-          <unitid>II</unitid>
-        </did>
-        <c id="dd0c39e76b444deeb0e36b8f150ff46d" level="file">
-          <did>
-            <unittitle>USSR and Eastern Europe</unittitle>
-            <unitdate>1954</unitdate>
-            <container id="ff18e463265462807e5976fec321b661" label="mixed materials (A0000000087742)" type="box">2</container>
-          </did>
-        </c>
-        <c id="00103f3b4a494263bb34e521cdd96057" level="file">
-          <did>
-            <unittitle>National Requirements</unittitle>
-            <unitdate>1954</unitdate>
-            <container id="3609d779e7b69621126a546f8133b01a" label="mixed materials (A0000000087742)" type="box">2</container>
-          </did>
-        </c>
-        <c id="2323239f048847cea97c29f069b4bd57" level="file">
-          <did>
-            <unittitle>Miscellaneous</unittitle>
-            <unitdate>1954</unitdate>
-            <container id="5909e94672b9f8fefd2fa670bb8535d8" label="mixed materials (A0000000087742)" type="box">2</container>
-          </did>
-        </c>
-        <c id="53cc9e48c92b4ba8a01605a72ef999a2" level="file">
-          <did>
-            <unittitle>Material to Dig Up</unittitle>
-            <unitdate>1954</unitdate>
-            <container id="19aa5e2800b4b655183742f220c062eb" label="mixed materials (A0000000087742)" type="box">2</container>
-          </did>
-        </c>
-        <c id="d633f73d40394584b9f8f51b88b9a89e" level="file">
-          <did>
-            <unittitle>General Correspondence</unittitle>
-            <unitdate>1954</unitdate>
-            <container id="c2622004dde58415f0b3d5c308c63654" label="mixed materials (A0000000087742)" type="box">2</container>
-          </did>
-        </c>
-        <c id="719a835fc7774c0f981a3a8dd8d69d13" level="file">
-          <did>
-            <unittitle>Appointments</unittitle>
-            <unitdate>1954</unitdate>
-            <container id="56d272086297cca8519f8b8f3f8b53ed" label="mixed materials (A0000000087742)" type="box">2</container>
-          </did>
-        </c>
-        <c id="caed927a2bfb4ec4b2b0ce9e9231a0fb" level="file">
-          <did>
-            <unittitle>Sargeant Survey -- Annex 1 -- List of Persons Interviewed</unittitle>
-            <unitdate>1954</unitdate>
-            <container id="84f8be9adb7d9c8048c794c7c2cb25e0" label="mixed materials (A0000000087742)" type="box">2</container>
-          </did>
-        </c>
-        <c id="ac63cad7fcfa42ad9119d067011fc294" level="file">
-          <did>
-            <unittitle>Sargeant Survey -- Annex 2 -- Bibliography</unittitle>
-            <unitdate>1954</unitdate>
-            <container id="8aa241dea4bfc11954d2f2c205acb0a1" label="mixed materials (A0000000087742)" type="box">2</container>
-          </did>
-        </c>
-        <c id="6f1f626cbe944750a1b2e459462684cd" level="file">
-          <did>
-            <unittitle>Sargeant Survey -- Annex 3 -- Views of People in Writing</unittitle>
-            <unitdate>1954</unitdate>
-            <container id="9cb3c30137bdc714ddad4441710cf4f7" label="mixed materials (A0000000087742)" type="box">2</container>
-          </did>
-        </c>
-        <c id="2cb1746ceaeb47a8a1741c3b368fd5b9" level="file">
-          <did>
-            <unittitle>Sargeant Survey -- Annex 4 -- Memoranda -- Progress of Survey</unittitle>
-            <unitdate>1954</unitdate>
-            <container id="770ff90a2beafd6f72685cdc2e7681d2" label="mixed materials (A0000000087742)" type="box">2</container>
-          </did>
-        </c>
-        <c id="d54f8831421f4e5d8c7c4608f178e1a3" level="file">
-          <did>
-            <unittitle>Sargeant Survey -- Annex 5 -- Memoranda to Survey Files</unittitle>
-            <container id="3aa5a569bf34d27960144bcf74384677" label="mixed materials (A0000000087742)" type="box">2</container>
-          </did>
-        </c>
-      </c>
-    </dsc>
-  </archdesc>
+2. Sargeant, Howland: Working Files.</p>  </arrangement>
+  <accessrestrict id="c855b1553fdf0e537eaf5e4d26043304">
+    <head>Conditions Governing Access</head>
+<p>Records more than 10 years old are open for research with select materials restricted as noted. Brittle or damaged items are available at the discretion of RAC.</p>  </accessrestrict>
+  <scopecontent id="3206923a436181f53bcad032b59fa8a5">
+    <head>Scope and Contents</head>
+<p>Highligted by the Sargeant Survey, 1954.</p>  </scopecontent>
+  <bioghist id="d787fc9482e372df9d0b71eda6121001">
+    <head>Biographical / Historical</head>
+<p><emph render="bold">Segment One: International Activities of the Ford Foundation: An Overview</emph></p> 
+
+<p>The Foundation's aspiration to become a national and international philanthropy for the advancement of human welfare was first formally expressed in the seminal 1949 report of the Gaither Study Committee, <emph render="italic">Report of the Study for the Ford Foundation on Policy and Program</emph> (RAC Library, call letters 361.7 GAI ), which was commissioned by the Board of Trustees to chart the Foundation's future. Foundation Trustees launched Ford's international grantmaking activities in 1950 when they approved the committee's report and its embrace of peace, democracy, and freedom.  Since then, the Foundation has tackled these goals using a variety of strategies and responding to changing contexts, from the Cold War to the 1989 fall of the Berlin Wall and beyond.</p>
+
+<p>Toward the Foundation's aspiration‎al goal, "the establishment of peace", its international activities have comprised a wide range of conceptual approaches and focus areas. These include international affairs, international studies, international understanding, arms control and disarmament, international law, international economic concerns, and overseas development in nearly every region of the world. Three distinct periods emerge for the international grantmaking defined by external contextual changes and internal changes in Foundation leadership and structures: the expansion era of 1950-1965; the transition and restructuring years of 1966-1988; and the post-1989 shift away from Cold War dichotomies.  During each of the distinct historical periods the consistent objectives were: 1) to ensure freedom and democracy in developed countries; 2) to foster education and international understanding in all countries; and 3) to contribute to the social, economic, and political development of less developed countries.</p>
+  </bioghist>
+  <bioghist id="f38cbbc03bbe0272038b0eb78f498442">
+    <head>Biographical / Historical</head>
+<p><emph render="bold">Segment 2.  Period Sketch - The Expansion Era 1950-1965</emph></p>
+
+<p>The Ford Foundation's expansion era (1950-1965) began when the Gaither Study Committee Report placed "peace" as the area of top priority for the Foundation and set the Ford Foundation on a global course.  Board Chair Henry Ford II writing in the 1951 Annual Report of the Foundation, identified "the danger of war" as the "the prime threat to human welfare today." Under the leadership of the three Ford Foundation presidents in this period-- Paul Hoffman, H. Rowan Gaither and Henry Heald--and several key trustees, notably the two seriatim chairs, John J. McCloy and Julius A. Stratton, the Foundation programs were largely informed by the post-World War II desire to avoid nuclear war and promote greater understanding among the world's peoples, strengthening of the United Nations, and enhancing both private and public American participation in world affairs. The strong board presence of university presidents and former leaders of postwar reconstruction efforts in Europe also helped to inform Ford's approach to building the field of peace and international security in the United States and encouraged extensive overseas activities.</p>
+
+<p>For example, the first three presidents of the expanded Foundation ranged from government and business leadership experience to academic and nonprofit: Paul Hoffman (at Ford, 1950-1953) ran the Marshall Plan in Europe; H. Rowan Gaither Staffer (1948-1953), President (1953-1956) and Trustee (1956-1958) had MIT and Rand experience; Henry Heald, former president, Illinois Institute of Technology and New York University, President (1956-1966). The trustees also ran the leadership gamut from government and nonprofits to academic: Trustee John J. McCloy (from 1953; chair, 1959-1965) was assistant Secretary of War during World War II and chairman of the Council on Foreign Relations; and Trustee Julius A. Stratton (Trustee from 1955; chair, 1966-1970) was president of MIT.</p>
+
+<p>When Ford became an international foundation in 1950, it had a small staff and operated through separate funds. The expansive period in the 1950s and 1960s resulted in a large number of field offices, which increased Ford's global footprint. Support focused on a mix of US university-based programs for research and training; think-tanks for policy-oriented meetings and policy research; and action projects specifically in less developed countries. The Foundation's focus on peace, freedom, and democracy played out against the Cold War backdrop for scientific and military competition between the United States, the Soviet Union and China.</p>
+
+<p>Under President Hoffman, the Foundation's work was organized by the areas identified in the Gaither Committee Report: Area One, the Establishment of Peace; Area Two, The Strengthening of Democracy; Area Three, The Strengthening of the Economy; Area Four, Education in a Democratic Society; and Area Five, Individual Behavior and Human Relations.</p>
+
+<p>Program differentiation began in the Gaither era. When he began in 1953, he introduced the following programs, with international work under nearly all of them: International Programs, Public Affairs Programs, Program in Economic Development and Administration (mainly U.S. based), Education Program, The TV-Radio Workshop, and Behavioral Sciences Program. In 1954, the Foundation gave prominence to the international work explicitly through changing the program names and separating international affairs and overseas development. The 1954 program names were: The Advancement of Education, Education for Democracy, Increasing Knowledge of Foreign Areas, Economic Development and Administration, the Behavioral Sciences, and Overseas Development.  In 1955, Increasing Knowledge of Foreign Areas became Increasing International Understanding. In 1956, the last year of the Gaither presidency, the program roster read: Education in the United States, The Behavioral Sciences, Public Affairs, Hospital Aid (only in the U.S.), Economic Development and Administration, International Understanding, and Overseas Development. Names changed but the program focus often remained the same.</p>
+
+<p>President Heald maintained the areas of international interest of Hoffman and Gaither. The International Affairs program housed the programs based in the United States, Europe and Japan, with a few activities linking American and developing countries institutions. The Overseas Training and Research Program took over the efforts to increase American understanding of international issues.  From 1957-1959, an International Legal Studies program, run from New York, helped build law programs in developing countries. Starting in 1959, the Overseas Development program comprised all the regional and country offices. In fiscal year 1964, Heald convinced the trustees to add a new focus on population, with grants both in the United States and overseas.</p>
+  </bioghist>
+  <bioghist id="b1636096609a692603212735ef3a0426">
+    <head>Biographical / Historical</head>
+<p><emph render="bold">Segment 2.  Period Summary - The Expansion Era 1950-1965</emph></p>
+
+<p>With the ever-increasing budget and trustee willingness to invade capital, presidents Hoffman, Gaither and Heald oversaw vast growth in the Foundation's international activities in the United States, other developed countries and developing countries. Activities crossed disciplines, institutions, and national boundaries, although few crossed intra-foundation boundaries. Under the three presidents, Foundation staff in various domestic and international offices from New York interacted with the regional and country offices headed by representatives. Usually in this period, however, these offices in fact worked more closely with local governments than with New York staff, reinforcing the commitment to locally led social and economic development in less-developed countries.</p>
+
+<p>The shared values of this early period reflected as much the continuing competition between the Communist and capitalist worlds as the concerns about maintaining peace. The Cold War provided the contextual continuity for grantmaking on the core themes of increasing American understanding of the rest of the world, building and strengthening connections not only with European and Asian democracies but also with Eastern European countries, the Soviet Union, China, and Cuba.</p>
+  </bioghist>
+  <dsc><c id="62bf141e32d04b38885b7314d582be48" level="series"><did><unittitle>University Visits</unittitle><unitid>I</unitid></did><c id="9b8e6dbbdc794162b64bb5f3b63e71e8" level="file"><did><unittitle>California -- Stanford University</unittitle><unitdate>1954</unitdate><container altrender="Legal Document Box" id="526df1bdf5db82f1be4df754e85f23f8" label="mixed materials [A0000000087741]" type="box">1</container></did></c><c id="2a1a5537be8a4fa49260b64fe2f5dc53" level="file"><did><unittitle>California -- University of California Berkeley</unittitle><unitdate>1954</unitdate><container altrender="Legal Document Box" id="c9bc964ca559e7423d219a947ebc06af" label="mixed materials [A0000000087741]" type="box">1</container></did></c><c id="5d8b7240c9074de891a01d3c9f0e37aa" level="file"><did><unittitle>Connecticut -- Wesleyan University</unittitle><unitdate>1953</unitdate><container altrender="Legal Document Box" id="a04ca3daa3e5cb9ec8fd5e67381dc771" label="mixed materials [A0000000087741]" type="box">1</container></did></c><c id="d2083d775c7b4c64b5f7fcfb4c9109ef" level="file"><did><unittitle>Illinois -- Northwestern University</unittitle><unitdate>1953-1955</unitdate><container altrender="Legal Document Box" id="f740c01860065f41d40d5d69b6f8b013" label="mixed materials [A0000000087741]" type="box">1</container></did></c><c id="515fffa4f5a34c1a9f04cae3b61485dc" level="file"><did><unittitle>Illinois -- University of Illinois</unittitle><unitdate>1953-1955</unitdate><container altrender="Legal Document Box" id="5248ed802860f639fb76dff87df9c02b" label="mixed materials [A0000000087741]" type="box">1</container></did></c><c id="4b1927dc46be4fb9bf2f4b9e75748852" level="file"><did><unittitle>Illinois -- University of Chicago</unittitle><unitdate>1953</unitdate><container altrender="Legal Document Box" id="d3f6a8bc71b257b64f3e40734214a26c" label="mixed materials [A0000000087741]" type="box">1</container></did></c><c id="2b755c1ea1d14aac9628166c1406a761" level="file"><did><unittitle>Indiana -- Purdue University</unittitle><unitdate>1953-1954</unitdate><container altrender="Legal Document Box" id="04bbd1c6ab67ca074be7a17a8b60ee30" label="mixed materials [A0000000087741]" type="box">1</container></did></c><c id="695bf69e99384bf7a5eba3b1b34f65ff" level="file"><did><unittitle>Indiana -- Indiana University</unittitle><unitdate>1954-1955</unitdate><container altrender="Legal Document Box" id="a3a9e2680446a68573a04a3d1dbe9dbc" label="mixed materials [A0000000087741]" type="box">1</container></did></c><c id="0091341884544882ab076a5f566b47e2" level="file"><did><unittitle>Massachusetts -- Harvard University</unittitle><unitdate>1953-1955</unitdate><container altrender="Legal Document Box" id="bd4547c552aeba2ec5d7f189890d5241" label="mixed materials [A0000000087741]" type="box">1</container></did></c><c id="d6c24fef1beb4aefb0c895895058ab94" level="file"><did><unittitle>Massachusetts -- Smith College</unittitle><unitdate>1953</unitdate><container altrender="Legal Document Box" id="cd4a6ae2ff20e8c6f998e8d1811e8f01" label="mixed materials [A0000000087741]" type="box">1</container></did></c><c id="ae004068332346cda5872c6351d1c60c" level="file"><did><unittitle>Massachusetts -- Massachusetts Institute of Technology</unittitle><unitdate>1954</unitdate><container altrender="Legal Document Box" id="0b70bd332df197b3e01830ea6b4fdf40" label="mixed materials [A0000000087741]" type="box">1</container></did></c><c id="b023ef4106c14356837a3259f5200722" level="file"><did><unittitle>Michigan -- University of Michigan</unittitle><unitdate>1953-1954</unitdate><container altrender="Legal Document Box" id="84b077139dad68385e2754606742e811" label="mixed materials [A0000000087741]" type="box">1</container></did></c><c id="52f95fc28bb44b149036e1ef8cbf08dc" level="file"><did><unittitle>Minnesota -- University of Minnesota</unittitle><unitdate>1954-1955</unitdate><container altrender="Legal Document Box" id="7847090d7166ac4ddbff6d5eb367882d" label="mixed materials [A0000000087741]" type="box">1</container></did></c><c id="525a686c60784d899f41ad8309cb6536" level="file"><did><unittitle>New York -- Columbia University</unittitle><unitdate>1953-1954</unitdate><container altrender="Legal Document Box" id="3fe9543fe639207ed497fa776cdcc88a" label="mixed materials [A0000000087741]" type="box">1</container></did></c><c id="c002acb433ed4c6eb97495c9f94755de" level="file"><did><unittitle>Ohio -- Antioch College</unittitle><unitdate>1953</unitdate><container altrender="Legal Document Box" id="deb5c8b0c30970db20d5d1e5e5459b1e" label="mixed materials [A0000000087741]" type="box">1</container></did></c><c id="c3aaf15199f6484582b906137de408d7" level="file"><did><unittitle>Ohio -- Oberlin College</unittitle><unitdate>1953-1955</unitdate><container altrender="Legal Document Box" id="82f221bfed35374e4070387819d9ba72" label="mixed materials [A0000000087741]" type="box">1</container></did></c><c id="6694e8d7ac544ad4b4a08bd119d5326e" level="file"><did><unittitle>Ohio -- Ohio State University</unittitle><unitdate>1953</unitdate><container altrender="Legal Document Box" id="cfc670ab837370eea7b8e8da77f38516" label="mixed materials [A0000000087741]" type="box">1</container></did></c><c id="2349f8de6e7546988788183db3a017e8" level="file"><did><unittitle>Washington -- University of Washington (Seattle)</unittitle><unitdate>1954-1955</unitdate><container altrender="Legal Document Box" id="f3440d3bc08dee1f633f3cfa8daa6c73" label="mixed materials [A0000000087741]" type="box">1</container></did></c></c><c id="3c6749e7133a4f1da199a6ea031e0a32" level="series"><did><unittitle>Sargeant, Howland: Working Files</unittitle><unitid>II</unitid></did><c id="dd0c39e76b444deeb0e36b8f150ff46d" level="file"><did><unittitle>USSR and Eastern Europe</unittitle><unitdate>1954</unitdate><container altrender="Half Legal Document Box" id="1282004534b4d553b3843646c9c4c9d8" label="mixed materials [A0000000087742]" type="box">2</container></did></c><c id="00103f3b4a494263bb34e521cdd96057" level="file"><did><unittitle>National Requirements</unittitle><unitdate>1954</unitdate><container altrender="Half Legal Document Box" id="90425be93047ab80dd53ff45266157d5" label="mixed materials [A0000000087742]" type="box">2</container></did></c><c id="2323239f048847cea97c29f069b4bd57" level="file"><did><unittitle>Miscellaneous</unittitle><unitdate>1954</unitdate><container altrender="Half Legal Document Box" id="a12253aa487d0a2ce204f0783d8fee35" label="mixed materials [A0000000087742]" type="box">2</container></did></c><c id="53cc9e48c92b4ba8a01605a72ef999a2" level="file"><did><unittitle>Material to Dig Up</unittitle><unitdate>1954</unitdate><container altrender="Half Legal Document Box" id="e6859decf91206d9b8c8335d364bb8f5" label="mixed materials [A0000000087742]" type="box">2</container></did></c><c id="d633f73d40394584b9f8f51b88b9a89e" level="file"><did><unittitle>General Correspondence</unittitle><unitdate>1954</unitdate><container altrender="Half Legal Document Box" id="719e0373f79f78539209e253615eccf3" label="mixed materials [A0000000087742]" type="box">2</container></did></c><c id="719a835fc7774c0f981a3a8dd8d69d13" level="file"><did><unittitle>Appointments</unittitle><unitdate>1954</unitdate><container altrender="Half Legal Document Box" id="2bad9a076f100d51120f32085891cfc4" label="mixed materials [A0000000087742]" type="box">2</container></did></c><c id="caed927a2bfb4ec4b2b0ce9e9231a0fb" level="file"><did><unittitle>Sargeant Survey -- Annex 1 -- List of Persons Interviewed</unittitle><unitdate>1954</unitdate><container altrender="Half Legal Document Box" id="27f0e75d97f8d3f2dc9d33ff6ccb3019" label="mixed materials [A0000000087742]" type="box">2</container></did></c><c id="ac63cad7fcfa42ad9119d067011fc294" level="file"><did><unittitle>Sargeant Survey -- Annex 2 -- Bibliography</unittitle><unitdate>1954</unitdate><container altrender="Half Legal Document Box" id="e185a7e3e14f13a3cfc9d60ea2871ec1" label="mixed materials [A0000000087742]" type="box">2</container></did></c><c id="6f1f626cbe944750a1b2e459462684cd" level="file"><did><unittitle>Sargeant Survey -- Annex 3 -- Views of People in Writing</unittitle><unitdate>1954</unitdate><container altrender="Half Legal Document Box" id="36de1b4c0382bef6adfb58fea71ebbde" label="mixed materials [A0000000087742]" type="box">2</container></did></c><c id="2cb1746ceaeb47a8a1741c3b368fd5b9" level="file"><did><unittitle>Sargeant Survey -- Annex 4 -- Memoranda -- Progress of Survey</unittitle><unitdate>1954</unitdate><container altrender="Half Legal Document Box" id="ece88241eae84f189e647d7d890c01ba" label="mixed materials [A0000000087742]" type="box">2</container></did></c><c id="d54f8831421f4e5d8c7c4608f178e1a3" level="file"><did><unittitle>Sargeant Survey -- Annex 5 -- Memoranda to Survey Files</unittitle><container altrender="Half Legal Document Box" id="73b6407cd9b2417a157ec1ac9d47d3eb" label="mixed materials [A0000000087742]" type="box">2</container></did></c></c></dsc>
+</archdesc>
 </ead>

@@ -1,533 +1,61 @@
-<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
-  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" repositoryencoding="iso15511">
-    <eadid>FA714.xml</eadid>
-    <filedesc>
-      <titlestmt>
-        <titleproper type="filing">Ford Foundation records, Education and Research, Public Education, Office Files of Marjorie Martus</titleproper>
-        <titleproper>A Guide to the Ford Foundation records, Education and Research, Public Education, Office Files of Marjorie Martus
- <num>FA714</num></titleproper>
-        <author>Arranged and described by Daniel Bruce May, Ford Foundation Archives</author>
-      </titlestmt>
-      <publicationstmt>
-        <publisher>Rockefeller Archive Center</publisher>
-        <p>
-          <date>June 1985</date>
-        </p>
-        <address>
-          <addressline>15 Dayton Avenue</addressline>
-          <addressline>Sleepy Hollow 10591</addressline>
-          <addressline>archive@rockarch.org</addressline>
-          <addressline>URL: <extptr xlink:href="http://www.rockarch.org" xlink:show="new" xlink:title="http://www.rockarch.org" xlink:type="simple"/></addressline>
-        </address>
-      </publicationstmt>
-    </filedesc>
-    <profiledesc>
-      <creation>This finding aid was produced using ArchivesSpace on <date>2017-12-13 00:48:11 -0500</date>.</creation>
-      <langusage>English</langusage>
-      <descrules>Describing Archives: A Content Standard</descrules>
-    </profiledesc>
-  </eadheader>
-  <archdesc level="collection">
-    <did>
-      <langmaterial>
-        <language langcode="eng">English</language>
-      </langmaterial>
-      <repository>
-        <corpname>Rockefeller Archive Center</corpname>
-      </repository>
-      <unittitle>Ford Foundation records, Education and Research, Public Education, Office Files of Marjorie Martus</unittitle>
-      <origination label="creator">
-        <corpname role="aut" rules="dacs" source="nad">Ford Foundation</corpname>
-      </origination>
-      <unitid>FA714</unitid>
-      <physdesc altrender="whole">
-        <extent altrender="materialtype spaceoccupied">3.08 Cubic Feet</extent>
-      </physdesc>
-      <unitdate normal="1962/1975" type="inclusive">1962-1968, 1971-1975</unitdate>
-    </did>
-    <userestrict id="03f3780a442acca059c3cc0ecce12342">
-      <head>Conditions Governing Use</head>
-      <p>Completion of a use agreement is required prior to providing scholarly access. See RAC Head of Reference (or applicable designee) for details. </p>
-      <p>Ford Foundation holds title, copyright and literary rights in the collection, in so far as it holds them.</p>
-      <p>The Rockefeller Archive Center has authority to grant permission to cite and publish material from the collection for scholarly purposes. Permission to publish extensive excerpts, or material in its entirety, will be referred to the Ford Foundation.</p>
-    </userestrict>
-    <acqinfo id="8db87257e6d930ff3bbca1433ce05da2">
-      <head>Immediate Source of Acquisition</head>
-      <p>Ford Foundation archive was deposited at RAC in 2011. Ford Foundation records, correspondence, reports, program files and officers papers were transferred to, and accessioned by, RAC beginning in 2011. Accessions continue as necessary.</p>
-    </acqinfo>
-    <prefercite id="888b4550ad99257425597d09ec813726">
-      <head>Preferred Citation</head>
-      <p>Information regarding the Rockefeller Archive Center's preferred elements and forms of citation can be found at <extref href="http://www.rockarch.org/research/citations.php">http://www.rockarch.org/research/citations.php</extref>.</p>
-    </prefercite>
-    <separatedmaterial id="f644a5905ccf909cd2a49b7e0a4e7e46">
-      <head>Separated Materials</head>
-      <p>Staff and consultant reports and publications have been transferred to the appropriate collections. Crossreference sheets located within the folders, denote the new locations of these items which are listed in the back of this register. Papers not related to Ford Foundation activities have been removed.</p>
-    </separatedmaterial>
-    <bioghist id="0cb4459c81d72d0a8bc9e3c144482841"><head>Biographical / Historical</head>
-Marjorie Martus, Ford Foundation Program Officer in the Division of Education and Research (E&amp;R), was a member of the Foundation staff from 1958 until 1982.
-
-During this period, she held the following positions:
-
-•  October 1977, Program Officer, Division of Education and Research
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid>FA714.xml</eadid><filedesc><titlestmt><titleproper type="filing">Ford Foundation records, Education and Research, Public Education, Office Files of Marjorie Martus</titleproper><titleproper>A Guide to the Ford Foundation records, Education and Research, Public Education, Office Files of Marjorie Martus
+ <num>FA714</num></titleproper><author>Arranged and described by Daniel Bruce May, Ford Foundation Archives</author></titlestmt><publicationstmt><publisher>Rockefeller Archive Center</publisher><p><date>June 1985</date></p><address><addressline>15 Dayton Avenue</addressline><addressline>Sleepy Hollow 10591</addressline><addressline>archive@rockarch.org</addressline><addressline>URL: <extptr xlink:href="http://www.rockarch.org" xlink:show="new" xlink:title="http://www.rockarch.org" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2019-10-27 01:15:54 -0400</date>.</creation><langusage>English</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
+  <did>
+    <langmaterial>
+      <language langcode="eng">English</language>
+    </langmaterial>
+    <repository>
+      <corpname>Rockefeller Archive Center</corpname>
+    </repository>
+    <unittitle>Ford Foundation records, Education and Research, Public Education, Office Files of Marjorie Martus</unittitle>
+    <origination label="Creator">
+      <corpname role="aut" rules="dacs" source="nad">Ford Foundation</corpname>
+    </origination>
+    <origination label="Creator">
+      <persname role="aut" source="local">Martus, Marjorie</persname>
+    </origination>
+    <unitid>FA714</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">3.08 Cubic Feet</extent>
+    </physdesc>
+    <unitdate normal="1962/1975" type="inclusive">1962-1968, 1971-1975</unitdate>
+  </did>
+  <userestrict id="03f3780a442acca059c3cc0ecce12342">
+    <head>Conditions Governing Use</head>
+<p>Completion of a use agreement is required prior to providing scholarly access. See RAC Head of Reference (or applicable designee) for details. </p><p>Ford Foundation holds title, copyright and literary rights in the collection, in so far as it holds them.</p><p>The Rockefeller Archive Center has authority to grant permission to cite and publish material from the collection for scholarly purposes. Permission to publish extensive excerpts, or material in its entirety, will be referred to the Ford Foundation.</p>  </userestrict>
+  <acqinfo id="8db87257e6d930ff3bbca1433ce05da2">
+    <head>Immediate Source of Acquisition</head>
+<p>Ford Foundation archive was deposited at RAC in 2011. Ford Foundation records, correspondence, reports, program files and officers papers were transferred to, and accessioned by, RAC beginning in 2011. Accessions continue as necessary.</p>  </acqinfo>
+  <prefercite id="888b4550ad99257425597d09ec813726">
+    <head>Preferred Citation</head>
+<p>Information regarding the Rockefeller Archive Center's preferred elements and forms of citation can be found at <extref href="http://www.rockarch.org/research/citations.php">http://www.rockarch.org/research/citations.php</extref>.</p>  </prefercite>
+  <separatedmaterial id="f644a5905ccf909cd2a49b7e0a4e7e46">
+    <head>Separated Materials</head>
+<p>Staff and consultant reports and publications have been transferred to the appropriate collections. Crossreference sheets located within the folders, denote the new locations of these items which are listed in the back of this register. Papers not related to Ford Foundation activities have been removed.</p>  </separatedmaterial>
+  <bioghist id="0cb4459c81d72d0a8bc9e3c144482841">
+    <head>Biographical / Historical</head>
+<p>Marjorie Martus, Ford Foundation Program Officer in the Division of Education and Research (E&amp;R), was a member of the Foundation staff from 1958 until 1982.</p><p>During this period, she held the following positions:</p><p>•  October 1977, Program Officer, Division of Education and Research
 •  October 1968, Program Officer, PE (Public Education), Division of Education and Research
 •  October 1967, Assistant Program Officer, Division of Education and Research
 •  January 1967, Program Assistant, PE, Division of Education and Research
 •  October 1965, Program Assistant, Education Program
-•  January 1958, Research Assistant, Education Program
-
-Marjorie Martus was born July 13, 1923.  She received her B.A. degree in 1945 from Antioch College. She did additional course work at Columbia University, New York University, and the Bank Street College of Education.
-
-Prior to Martus' career with the Ford Foundation, she held the following positions:
-
-•  1945-1946, Office of War Information, Information Specialist
+•  January 1958, Research Assistant, Education Program</p><p>Marjorie Martus was born July 13, 1923.  She received her B.A. degree in 1945 from Antioch College. She did additional course work at Columbia University, New York University, and the Bank Street College of Education.</p><p>Prior to Martus' career with the Ford Foundation, she held the following positions:</p><p>•  1945-1946, Office of War Information, Information Specialist
 •  1946-1948, U.S. Department of State, Divisional Assistant, Division of International Exchange of Persons
 •  1948-1954, United States Government, Technical Assistance Specialist; Economic Cooperation Administration, The Hague, The Netherlands
 •  1954-1955, Douglas Williams Associates, Office Manager; Interviewer
 •  1955-1956, Milliontex, Inc., Officer Manager
-•  1956-1957, Rockefeller Bros. Fund, Staff Assistant
-
-Following her retirement from the Ford Foundation, Miss Martus was employed by the School of Education at Stanford University.  </bioghist>
-    <scopecontent id="fb25978aeaae8f8cbd2fdf900f17df6c">
-      <head>Scope and Contents</head>
-      <p>The Education and Research/Public Education Papers of Marjorie Martus were transferred to the Ford Foundation Archives in 1982.</p>
-      <p>The seven boxes of correspondence and reports which constitute the Education and Research/Public Education Papers of Marjorie Martus, document her activities and a number of those of the Education Program for the years 1962 to 1968; and from 1971 to 1975.</p>
-      <p>The papers include material related to Ford Foundation educational activities and projects; and correspondence with Foundation colleagues, and individuals in academic, grantee and other organizations.</p>
-      <p>The papers are broad in scope, but are rather disappointingly superficial, especially in light of Miss Martus' activity and reputation. It is recommended that the researcher consult the files of grants for which Miss Martus served as Responsible Program Officer, a list of which is included in the appendix to this register.</p>
-    </scopecontent>
-    <arrangement id="1bc0297dc42a9363f259ac9b4df3044f">
-      <head>Arrangement</head>
-      <p>The Education and Research/Public Education Papers of Marjorie Martus are divided into two series:</p>
-      <p>I. Correspondence Files, 1962-1968, 1971-1975
-II. Subject Files, 1962-1968</p>
-      <p>Arrangement within each series corresponds as closely as possible to the original order established by Martus' office.</p>
-    </arrangement>
-    <accessrestrict id="33cbb841f0a6e242937eb4b583d53c5d">
-      <head>Conditions Governing Access</head>
-      <p>Records more than 10 years old are open for research with select materials restricted as noted. Brittle or damaged items are available at the discretion of RAC.</p>
-    </accessrestrict>
-    <dsc>
-      <c id="effdb000d89a4befbf1cc6a2a172c09a" level="series">
-        <did>
-          <unittitle>Correspondence Files</unittitle>
-          <unitid>I</unitid>
-          <unitdate normal="1962/1975" type="inclusive">1962-1968, 1971-1975</unitdate>
-        </did>
-        <arrangement id="d4fc8f63696c79cfd41959029813e520">
-          <head>Arrangement</head>
-          <p>Series I, Correspondence Files (1962-1968; 1971-1975), contains correspondence generated by Miss Martus during her years at the Foundation. The correspondence is divided into two subseries:</p>
-          <p>A. Chronological Files, which are arranged in reverse calendar order; and</p>
-          <p>B. Alphabetical Files, which are arranged in alphabetical order by correspondent. Within each Alphabetical File folder, the papers are arranged in reverse chronological order</p>
-        </arrangement>
-        <c id="36a61810f56c4382850a53228d225a3c" level="subseries">
-          <did>
-            <unittitle>Chronological Files</unittitle>
-            <unitid>A</unitid>
-          </did>
-          <c id="ee3eb6933fa243ad99e77d4d6feb1c34" level="file">
-            <did>
-              <unitdate normal="1975/1975" type="inclusive">1975</unitdate>
-              <container id="4649b26a1d861790ae6756fc02ad69dc" label="mixed materials (A0000000087270)" type="box">1</container>
-              <container id="ff0c65c4e4f546bb60312cd6e6e5c806" parent="4649b26a1d861790ae6756fc02ad69dc" type="folder">1-12</container>
-            </did>
-          </c>
-          <c id="550b2b09440a4f7885c33c7f21bf9006" level="file">
-            <did>
-              <unitdate normal="1974/1974" type="inclusive">1974</unitdate>
-              <container id="e5a0587fd9da5918b6f1ac0a4b6122d1" label="mixed materials (A0000000087270)" type="box">1</container>
-              <container id="ce51e74d3fe9ab5f3bac356b3baf4e66" parent="e5a0587fd9da5918b6f1ac0a4b6122d1" type="folder">13-20</container>
-            </did>
-          </c>
-          <c id="11b0ffa93695473cb4956b7391c09e55" level="file">
-            <did>
-              <unitdate normal="1974/1974" type="inclusive">1974</unitdate>
-              <container id="f979c80fe66538a0e83e855ebbb3c2d2" label="mixed materials (A0000000087271)" type="box">2</container>
-              <container id="a1accb493a01872439fe695332838186" parent="f979c80fe66538a0e83e855ebbb3c2d2" type="folder">21-24</container>
-            </did>
-          </c>
-          <c id="064e20e28ef14c4fa6c3e71dbdb03b0c" level="file">
-            <did>
-              <unitdate normal="1973/1973" type="inclusive">1973</unitdate>
-              <container id="688390270a0c1cc41d0efb45f762e7e8" label="mixed materials (A0000000087271)" type="box">2</container>
-              <container id="1b73c9d77403b532ed2224a9ead5728e" parent="688390270a0c1cc41d0efb45f762e7e8" type="folder">25-36</container>
-            </did>
-          </c>
-          <c id="f3924ae28c3640e1b0897660fbe4ac9e" level="file">
-            <did>
-              <unitdate normal="1972/1972" type="inclusive">1972</unitdate>
-              <container id="968982492fd410617b3e6882aa720b30" label="mixed materials (A0000000087272)" type="box">3</container>
-              <container id="083788685b60b9be5b1e02666c3b1c3a" parent="968982492fd410617b3e6882aa720b30" type="folder">37-48</container>
-            </did>
-          </c>
-          <c id="a33da78a80c04763a5fb6768245abdcd" level="file">
-            <did>
-              <unitdate normal="1971/1971" type="inclusive">1971</unitdate>
-              <container id="3e48fc9901fd494b265e0f6575556822" label="mixed materials (A0000000087272)" type="box">3</container>
-              <container id="eaf16c536679d72742ae54928739d956" parent="3e48fc9901fd494b265e0f6575556822" type="folder">49-56</container>
-            </did>
-          </c>
-          <c id="b33849020f224cbd8ed8a8bce371b373" level="file">
-            <did>
-              <unitdate normal="1971/1971" type="inclusive">1971</unitdate>
-              <container id="619ea3981a27805b71674c51ad41e6e3" label="mixed materials (A0000000087273)" type="box">4</container>
-              <container id="dd85b7537292f91c3d77b501ba29fe61" parent="619ea3981a27805b71674c51ad41e6e3" type="folder">57-60</container>
-            </did>
-          </c>
-          <c id="cb7953850c54420c945b55eaa961f9e3" level="file">
-            <did>
-              <unitdate normal="1968/1968" type="inclusive">1968</unitdate>
-              <container id="35eb5abd3bc3027814324596c9225006" label="mixed materials (A0000000087273)" type="box">4</container>
-              <container id="a60dffa5c9269db5f51c476669d5d7dc" parent="35eb5abd3bc3027814324596c9225006" type="folder">61-72</container>
-            </did>
-          </c>
-          <c id="35aa06e9dc7b4c11a00d9093f3c2b4cf" level="file">
-            <did>
-              <unitdate normal="1967/1967" type="inclusive">1967</unitdate>
-              <container id="613cfd0daca6ca1e9ee8e44680c6a8d0" label="mixed materials (A0000000087273)" type="box">4</container>
-              <container id="5c23eead1343f8f88cbfda5eaab5f09b" parent="613cfd0daca6ca1e9ee8e44680c6a8d0" type="folder">73-84</container>
-            </did>
-          </c>
-          <c id="6cf8cd9234c944109877fbea7720c93c" level="file">
-            <did>
-              <unitdate normal="1966/1966" type="inclusive">1966</unitdate>
-              <container id="d457661a43a9d75f3e26e34adcffff6d" label="mixed materials (A0000000087274)" type="box">5</container>
-              <container id="899f268b8cb01abede91d79ce337e899" parent="d457661a43a9d75f3e26e34adcffff6d" type="folder">85-96</container>
-            </did>
-          </c>
-          <c id="f1295688bbb349a6a5a9c5cee2bc9e9f" level="file">
-            <did>
-              <unitdate normal="1965/1965" type="inclusive">1965</unitdate>
-              <container id="762bedb52b2a7c260380b0420ad37211" label="mixed materials (A0000000087274)" type="box">5</container>
-              <container id="6b7ec93112999b6b1f53fc0fbc424bfe" parent="762bedb52b2a7c260380b0420ad37211" type="folder">97-108</container>
-            </did>
-          </c>
-          <c id="c6c08aa51da3450182e1d1423d309ef0" level="file">
-            <did>
-              <unitdate normal="1964/1964" type="inclusive">1964 November - May</unitdate>
-              <container id="c2486241bafc847e872c471c06303ad0" label="mixed materials (A0000000087274)" type="box">5</container>
-              <container id="4b22e8ab11a71ea68fc02bc76935c92f" parent="c2486241bafc847e872c471c06303ad0" type="folder">109</container>
-            </did>
-          </c>
-          <c id="e970d24485c946328b9c6a4395452f42" level="file">
-            <did>
-              <unitdate normal="1964/1964" type="inclusive">1964 April - January</unitdate>
-              <container id="ce5a908cb579797c339565a5eb8c1953" label="mixed materials (A0000000087274)" type="box">5</container>
-              <container id="f9a58f33dc511cbd1eec4ba9e1ab02af" parent="ce5a908cb579797c339565a5eb8c1953" type="folder">110</container>
-            </did>
-          </c>
-          <c id="5f24655792514b879eaf931abdde04d3" level="file">
-            <did>
-              <unitdate normal="1962/1963" type="inclusive">1963 December - 1962 July</unitdate>
-              <container id="8d836c9ff95cf05de54a3057466b520e" label="mixed materials (A0000000087274)" type="box">5</container>
-              <container id="66516552879678da50c107ff79ff9ef1" parent="8d836c9ff95cf05de54a3057466b520e" type="folder">111</container>
-            </did>
-          </c>
-        </c>
-        <c id="d7ce17eee034442eb9a29c22e4ad690f" level="subseries">
-          <did>
-            <unittitle>Alphabetical Files</unittitle>
-            <unitid>B</unitid>
-          </did>
-          <c id="d1f3143f99124ced8721d3c1d42401b6" level="file">
-            <did>
-              <unittitle>Chilman, C.</unittitle>
-              <unitdate normal="1970/1970" type="inclusive">1970 June - February</unitdate>
-              <container id="f34d0aed8725afdc029bdbca27a221b1" label="mixed materials (A0000000087275)" type="box">6</container>
-              <container id="606a175d7fcc47817567faf964f299f2" parent="f34d0aed8725afdc029bdbca27a221b1" type="folder">112</container>
-            </did>
-          </c>
-          <c id="50370fa0a63445e39732790fdebb69a0" level="file">
-            <did>
-              <unittitle>Deutsch, M.</unittitle>
-              <unitdate normal="1965/1966" type="inclusive">1966 December - 1965</unitdate>
-              <container id="4cec9346c1cd1307ed8f6a156dce8757" label="mixed materials (A0000000087275)" type="box">6</container>
-              <container id="de8b36a3c01dfda09c2f180cec5693c8" parent="4cec9346c1cd1307ed8f6a156dce8757" type="folder">113</container>
-            </did>
-          </c>
-          <c id="eed40b48d88a41f795924207753e3840" level="file">
-            <did>
-              <unittitle>Farmer, J.</unittitle>
-              <unitdate normal="1965/1966" type="inclusive">1966 August - 1965 May</unitdate>
-              <container id="5fcf91ecfec434e47a19d1520bc08a8e" label="mixed materials (A0000000087275)" type="box">6</container>
-              <container id="03d6732d491da02c054cc1a5e8d8f526" parent="5fcf91ecfec434e47a19d1520bc08a8e" type="folder">114</container>
-            </did>
-          </c>
-          <c id="11d73b7cb7ee474bb461b767044db85a" level="file">
-            <did>
-              <unittitle>Gray, S.</unittitle>
-              <unitdate normal="1971/1972" type="inclusive">1972 June - 1971 October</unitdate>
-              <container id="2cc6a976afccd118ce44273e554930c8" label="mixed materials (A0000000087275)" type="box">6</container>
-              <container id="d1c23b1428157a20baa9b1c3f059d4f4" parent="2cc6a976afccd118ce44273e554930c8" type="folder">115</container>
-            </did>
-          </c>
-          <c id="8d21d424b85d475396cfedd26bf81fb1" level="file">
-            <did>
-              <unittitle>Guttentag, M.</unittitle>
-              <unitdate normal="1968/1969" type="inclusive">1969 August - 1968 November</unitdate>
-              <container id="f430d3dcc5c0b25328d0758e6c3cf03c" label="mixed materials (A0000000087275)" type="box">6</container>
-              <container id="e45246b976e73dc7e1e0d52c5313beff" parent="f430d3dcc5c0b25328d0758e6c3cf03c" type="folder">116</container>
-            </did>
-          </c>
-          <c id="424c0c3944f3498492c55e53b8691fb3" level="file">
-            <did>
-              <unittitle>Hobson, A.</unittitle>
-              <unitdate normal="1967/1968" type="inclusive">1968 February - 1967 November</unitdate>
-              <container id="62fe7a57f520c2bb712e9be953016e85" label="mixed materials (A0000000087275)" type="box">6</container>
-              <container id="2cbb5338a2c3937e79046c9dd0772994" parent="62fe7a57f520c2bb712e9be953016e85" type="folder">117</container>
-            </did>
-          </c>
-          <c id="7e687b83a9a74a71bca85e27df11fd61" level="file">
-            <did>
-              <unittitle>Hovet, M.</unittitle>
-              <unitdate normal="1966/1967" type="inclusive">1967 March - 1966 March</unitdate>
-              <container id="1c06203ec65c355f492a2e99a2b6f6a3" label="mixed materials (A0000000087275)" type="box">6</container>
-              <container id="5f9ab8b4bb8c5dea59b43586eb1b8f2b" parent="1c06203ec65c355f492a2e99a2b6f6a3" type="folder">118</container>
-            </did>
-          </c>
-          <c id="d8fd57d87c7c40f6a848410fcf2efe94" level="file">
-            <did>
-              <unittitle>Keeve, P.</unittitle>
-              <unitdate normal="1967/1968" type="inclusive">1968 January - 1967 January</unitdate>
-              <container id="347f29e725c1769c18bbc830c2ac8dcc" label="mixed materials (A0000000087275)" type="box">6</container>
-              <container id="53d7ea747bab934b5f1246e170a2cafa" parent="347f29e725c1769c18bbc830c2ac8dcc" type="folder">119</container>
-            </did>
-          </c>
-          <c id="c21257e3d1914833acaf78544dfb5aa5" level="file">
-            <did>
-              <unittitle>Miller, D.</unittitle>
-              <unitdate normal="1965/1966" type="inclusive">1966 April - 1965 October</unitdate>
-              <container id="3f0ef118d2ad64278bcba784c8aa238d" label="mixed materials (A0000000087275)" type="box">6</container>
-              <container id="bb5a3125d720be2dfdd631399a101cbe" parent="3f0ef118d2ad64278bcba784c8aa238d" type="folder">120</container>
-            </did>
-          </c>
-          <c id="7eb57bf9bbf84e0fb709b7ea3d56e9bf" level="file">
-            <did>
-              <unittitle>Mohan, B.</unittitle>
-              <unitdate normal="1967/1968" type="inclusive">1968 February - 1967 December</unitdate>
-              <container id="2383c6cd9133a6f1f00a4526881ee95c" label="mixed materials (A0000000087275)" type="box">6</container>
-              <container id="320ddaf189e8d28f6ed1e9c7328ca03d" parent="2383c6cd9133a6f1f00a4526881ee95c" type="folder">121</container>
-            </did>
-          </c>
-          <c id="9888c67db73c45a6bce8a0dbbb14c1d4" level="file">
-            <did>
-              <unittitle>Nicholls, J.</unittitle>
-              <unitdate normal="1967/1967" type="inclusive">1967 September - August</unitdate>
-              <container id="6eb75776f38222b9f51f1aa60aedaf45" label="mixed materials (A0000000087275)" type="box">6</container>
-              <container id="50fc0dd2cb98fbb2d0185ed8156181bd" parent="6eb75776f38222b9f51f1aa60aedaf45" type="folder">122</container>
-            </did>
-          </c>
-        </c>
-      </c>
-      <c id="d5e16e61e1ef489b90538b6d1be44cb3" level="series">
-        <did>
-          <unittitle>Subject Files</unittitle>
-          <unitid>II</unitid>
-          <unitdate normal="1962/1968" type="inclusive">1962-1968</unitdate>
-        </did>
-        <arrangement id="9f183b715abbc59f2e866a30065b0119">
-          <head>Arrangement</head>
-          <p>Series II, Subject Files (1962-1968), consists of correspondence and other material as it relates to each topic. The files are arranged in alphabetical order. Within each folder, the papers are arranged in reverse chronological order.</p>
-        </arrangement>
-        <c id="5879765716084191ade7953acf034747" level="file">
-          <did>
-            <unittitle>Arizona Laboratory</unittitle>
-            <unitdate normal="1967/1967" type="inclusive">1967 December - October</unitdate>
-            <container id="d66b5e87487d3d4deba3f036582224c9" label="mixed materials (A0000000087275)" type="box">6</container>
-            <container id="6b109fc7d14d79c5a88e4cbf7ee45d40" parent="d66b5e87487d3d4deba3f036582224c9" type="folder">123</container>
-          </did>
-        </c>
-        <c id="99581b24674144a19e8525b4fbfb975e" level="file">
-          <did>
-            <unittitle>Benjamin Franklin High School</unittitle>
-            <unitdate normal="1966/1966" type="inclusive">1966 June - April</unitdate>
-            <container id="88003a7d0f548952004ade904c8cbdb0" label="mixed materials (A0000000087275)" type="box">6</container>
-            <container id="7bce99773ae37f00e0dcf6509bdbf013" parent="88003a7d0f548952004ade904c8cbdb0" type="folder">124</container>
-          </did>
-        </c>
-        <c id="82e060cc29f54be79bc56f4e69b518c3" level="file">
-          <did>
-            <unittitle>Carolinas and Virginia Regional Laboratory</unittitle>
-            <unitdate normal="1967/1968" type="inclusive">1968 July - 1967 November</unitdate>
-            <container id="e2a26e7d86d5787a2dede70b8374ff18" label="mixed materials (A0000000087275)" type="box">6</container>
-            <container id="31485b619ee8015f5ef2c87b01662513" parent="e2a26e7d86d5787a2dede70b8374ff18" type="folder">125</container>
-          </did>
-        </c>
-        <c id="49472a288e7646bf812ba3446c25bb3f" level="file">
-          <did>
-            <unittitle>Child Development</unittitle>
-            <unitdate normal="1964/1965" type="inclusive">1965 January - 1964 December</unitdate>
-            <container id="7c2c228395abd4d93ff7ec0f923859bb" label="mixed materials (A0000000087275)" type="box">6</container>
-            <container id="399b56a872e133e49b470502ca8a04a5" parent="7c2c228395abd4d93ff7ec0f923859bb" type="folder">126</container>
-          </did>
-        </c>
-        <c id="556b648d50ea47bdbc2947b95bbad4ff" level="file">
-          <did>
-            <unittitle>Dyslexia</unittitle>
-            <unitdate normal="1964/1967" type="inclusive">1967 June - 1964 September</unitdate>
-            <container id="5b72836af2b5b8895b0dc7489499dc9b" label="mixed materials (A0000000087275)" type="box">6</container>
-            <container id="15d13a52728e1eb4c24c7b9a7b9f9d91" parent="5b72836af2b5b8895b0dc7489499dc9b" type="folder">127-128</container>
-          </did>
-        </c>
-        <c id="24d278e665504f6cb8c423da8240304b" level="file">
-          <did>
-            <unittitle>Early Childhood Education - DRAFT Material</unittitle>
-            <unitdate normal="1965/1966" type="inclusive">1966-1965</unitdate>
-            <container id="d749632740f9d37ebf64b5b69fdae027" label="mixed materials (A0000000087275)" type="box">6</container>
-            <container id="6975abb4fa82505e24cbd7dc31522087" parent="d749632740f9d37ebf64b5b69fdae027" type="folder">129-134</container>
-          </did>
-        </c>
-        <c id="91e2c2cd40ab4c148d8410c65ef08960" level="file">
-          <did>
-            <unittitle>Freyburg Academy (Reading Research Institute)</unittitle>
-            <unitdate normal="1962/1966" type="inclusive">1966 March - 1962 June</unitdate>
-            <container id="81b7630460215513f76e46bc712f2f5c" label="mixed materials (A0000000087276)" type="box">7</container>
-            <container id="919f8232bebb35fb15087a16e23fdb0f" parent="81b7630460215513f76e46bc712f2f5c" type="folder">135</container>
-          </did>
-        </c>
-        <c id="165e02f17e034cd2a192e64b40b038ec" level="file">
-          <did>
-            <unittitle>Institute for Developmental Studies</unittitle>
-            <unitdate normal="1966/1968" type="inclusive">1968 June - 1966 September</unitdate>
-            <container id="3bf6d8e80957d692042778ebad1b3715" label="mixed materials (A0000000087276)" type="box">7</container>
-            <container id="4a81ddba9d204f031863b47c917eabb0" parent="3bf6d8e80957d692042778ebad1b3715" type="folder">136</container>
-          </did>
-        </c>
-        <c id="240a00e737e5435fa4525b6492aa9916" level="file">
-          <did>
-            <unittitle>Language Consultants - BA-HA</unittitle>
-            <unitdate normal="1966/1967" type="inclusive">1967-1966</unitdate>
-            <container id="4ad3af3ad7522503ad959d99f64ba08f" label="mixed materials (A0000000087276)" type="box">7</container>
-            <container id="6e9156d1d244526739478dbfb2b024ac" parent="4ad3af3ad7522503ad959d99f64ba08f" type="folder">137</container>
-          </did>
-        </c>
-        <c id="c073c198e9d14493a35c25048bf18c3b" level="file">
-          <did>
-            <unittitle>Language Consultants - JO-SE</unittitle>
-            <unitdate normal="1966/1967" type="inclusive">1967-1966</unitdate>
-            <container id="069d7051a91e78b12cb146c386123ec1" label="mixed materials (A0000000087276)" type="box">7</container>
-            <container id="1de91a8c6b640e579db5ddd0463b663b" parent="069d7051a91e78b12cb146c386123ec1" type="folder">138</container>
-          </did>
-        </c>
-        <c id="51a42f829041414893ca353441400832" level="file">
-          <did>
-            <unittitle>Language Development Study</unittitle>
-            <unitdate normal="1967/1968" type="inclusive">1968 April - 1967 January</unitdate>
-            <container id="c2455f4a501fef0637df4c851671fb5a" label="mixed materials (A0000000087276)" type="box">7</container>
-            <container id="0903aaa1bc076f1e9621eca008b9efa4" parent="c2455f4a501fef0637df4c851671fb5a" type="folder">139</container>
-          </did>
-        </c>
-        <c id="44eb4d85c09e4cf199a37f973f4e04d2" level="file">
-          <did>
-            <unittitle>Lexington School for the Deaf</unittitle>
-            <unitdate normal="1965/1967" type="inclusive">1967 February - 1965 January</unitdate>
-            <container id="a6fbde0cf800e756d82f13fb1afd12fc" label="mixed materials (A0000000087276)" type="box">7</container>
-            <container id="402444de2e6aa1a13ae4d735306af9f2" parent="a6fbde0cf800e756d82f13fb1afd12fc" type="folder">140</container>
-          </did>
-        </c>
-        <c id="d5f1a35adc0641908f6948491935f080" level="file">
-          <did>
-            <unittitle>National Institute for Mental Health</unittitle>
-            <unitdate normal="1964/1968" type="inclusive">1968 August - 1964 December</unitdate>
-            <container id="298d4d17006f19ba4cf19fd1143b6b35" label="mixed materials (A0000000087276)" type="box">7</container>
-            <container id="4edb6e7213cf963c8931e0e8b88f67fd" parent="298d4d17006f19ba4cf19fd1143b6b35" type="folder">141</container>
-          </did>
-        </c>
-        <c id="78834989d04b46088cd6fc5d72581b05" level="file">
-          <did>
-            <unittitle>Organization for Economic Cooperation and Development</unittitle>
-            <unitdate normal="1969/1969" type="inclusive">1969 January</unitdate>
-            <container id="f0ca29d68a1a1aff97d429dd8aff2c6a" label="mixed materials (A0000000087276)" type="box">7</container>
-            <container id="0adabf2d4381cf8e35254b93245e33c2" parent="f0ca29d68a1a1aff97d429dd8aff2c6a" type="folder">142</container>
-          </did>
-        </c>
-        <c id="8706d8b504ab40319810b78c2a073c56" level="file">
-          <did>
-            <unittitle>Organization for Economic Cooperation and Development</unittitle>
-            <unitdate normal="1968/1969" type="inclusive">1969-1968</unitdate>
-            <container id="d043a74ece5a5377f5d0c9e7d263cce1" label="mixed materials (A0000000087276)" type="box">7</container>
-            <container id="b6a5bf6f7ca9a81f6cd608eb78bdd59e" parent="d043a74ece5a5377f5d0c9e7d263cce1" type="folder">143-144</container>
-          </did>
-        </c>
-        <c id="2fdfe852c3f24c46bbd20afa1d6d2bed" level="file">
-          <did>
-            <unittitle>Organization for Economic Cooperation and Development</unittitle>
-            <unitdate normal="1968/1969" type="inclusive">1969 January - 1968 December</unitdate>
-            <container id="357d20a7128ad0c283bd9d566ba083c2" label="mixed materials (A0000000087276)" type="box">7</container>
-            <container id="f7ec1f8a7a73cd0a84bbef2858e968f7" parent="357d20a7128ad0c283bd9d566ba083c2" type="folder">145</container>
-          </did>
-        </c>
-        <c id="5e199092d98640a8a902148868bb84df" level="file">
-          <did>
-            <unittitle>Organization for Economic Cooperation and Development</unittitle>
-            <unitdate normal="1968/1969" type="inclusive">1969 January - 1968 December</unitdate>
-            <container id="83224eaad964ad1d826cba5301590f34" label="mixed materials (A0000000087276)" type="box">7</container>
-            <container id="22a69cc54da8fb34587da69b431b0ef8" parent="83224eaad964ad1d826cba5301590f34" type="folder">146</container>
-          </did>
-        </c>
-        <c id="8ea7c53582ee4daf99406eee3a50f086" level="file">
-          <did>
-            <unittitle>Ohio State University Research Consortium</unittitle>
-            <unitdate normal="1967/1968" type="inclusive">1968 May - 1967 December</unitdate>
-            <container id="f28e0b64ecf0b1b08e9924da8dbb8e4e" label="mixed materials (A0000000087276)" type="box">7</container>
-            <container id="2982531af37f961d41cce626d6c6d56f" parent="f28e0b64ecf0b1b08e9924da8dbb8e4e" type="folder">147</container>
-          </did>
-        </c>
-        <c id="a5ab057ab3284594988c26d804a702d2" level="file">
-          <did>
-            <unittitle>Pre-School Television</unittitle>
-            <unitdate normal="1967/1968" type="inclusive">1968 April - 1967 April</unitdate>
-            <container id="5d76be0b7c60934aa97f8c122a34d18b" label="mixed materials (A0000000087276)" type="box">7</container>
-            <container id="85398bbae2b2de9f0fae20a898b02643" parent="5d76be0b7c60934aa97f8c122a34d18b" type="folder">148</container>
-          </did>
-        </c>
-        <c id="1b9cb4f80b8a44d9aa2e82f1c108522e" level="file">
-          <did>
-            <unittitle>Publication Orders</unittitle>
-            <unitdate normal="1966/1968" type="inclusive">1968 June - 1966 October</unitdate>
-            <container id="3da58ff90a184904390307f142ffec94" label="mixed materials (A0000000087276)" type="box">7</container>
-            <container id="9386df9ca95e4aec7377541e321727d9" parent="3da58ff90a184904390307f142ffec94" type="folder">149-150</container>
-          </did>
-        </c>
-        <c id="52fedd86edf64dd68fcab3475724b42f" level="file">
-          <did>
-            <unittitle>System Development Corporation</unittitle>
-            <unitdate normal="1964/1968" type="inclusive">1968 January - 1964 September</unitdate>
-            <container id="e751c3cf20744f6e84f7dfbe44955dad" label="mixed materials (A0000000087276)" type="box">7</container>
-            <container id="d11c9198dffc5c3b15193931503c2c54" parent="e751c3cf20744f6e84f7dfbe44955dad" type="folder">151</container>
-          </did>
-        </c>
-        <c id="19d00fa44c674c8d9efec4ee51ced22f" level="file">
-          <did>
-            <unittitle>Team Teaching</unittitle>
-            <unitdate normal="1964/1966" type="inclusive">1966 April - 1964 October</unitdate>
-            <container id="8db910c665912fad31745bc5df499a16" label="mixed materials (A0000000087276)" type="box">7</container>
-            <container id="7e6b96f4644bc6aad6ab7b348c0f4dff" parent="8db910c665912fad31745bc5df499a16" type="folder">152</container>
-          </did>
-        </c>
-        <c id="8b1d5e187b8f4d5ea3d1aacedc91b340" level="file">
-          <did>
-            <unittitle>Research and Development Centers - United States</unittitle>
-            <unitdate normal="1967/1969" type="inclusive">1969 November - 1967 March</unitdate>
-            <container id="c9e34326c6d4a1e3f002aa7874c3bcf4" label="mixed materials (A0000000087276)" type="box">7</container>
-            <container id="15bdfc008d141ce58036418bd2a4abe0" parent="c9e34326c6d4a1e3f002aa7874c3bcf4" type="folder">153</container>
-          </did>
-        </c>
-        <c id="241daf71d0c84c3bbfdc0bdb60ae229a" level="file">
-          <did>
-            <unittitle>School Improvement Work Conference, San Francisco, January 3-7, 1967</unittitle>
-            <unitdate normal="1967/1967" type="inclusive">1967 January</unitdate>
-            <container id="6e0dcb5836f1bdab32bb778ad5f40a1c" label="mixed materials (A0000000087276)" type="box">7</container>
-            <container id="55223b413240b3e4e1d13d0ff258583e" parent="6e0dcb5836f1bdab32bb778ad5f40a1c" type="folder">154</container>
-          </did>
-        </c>
-        <c id="6344a48e49e7416d904b75bd1cc73e0b" level="file">
-          <did>
-            <unittitle>Social Science Research Council Conference, Chicago, February 7-9, 1966</unittitle>
-            <unitdate normal="1965/1966" type="inclusive">1966 February - 1965 June</unitdate>
-            <container id="4321809c6d0c43b52d737642b945e1d7" label="mixed materials (A0000000087276)" type="box">7</container>
-            <container id="e9bbb9ddbad204147575aae3aea93cdf" parent="4321809c6d0c43b52d737642b945e1d7" type="folder">155</container>
-          </did>
-        </c>
-      </c>
-    </dsc>
-  </archdesc>
+•  1956-1957, Rockefeller Bros. Fund, Staff Assistant</p><p>Following her retirement from the Ford Foundation, Miss Martus was employed by the School of Education at Stanford University.</p>  </bioghist>
+  <scopecontent id="fb25978aeaae8f8cbd2fdf900f17df6c">
+    <head>Scope and Contents</head>
+<p>The Education and Research/Public Education Papers of Marjorie Martus were transferred to the Ford Foundation Archives in 1982.</p><p>The seven boxes of correspondence and reports which constitute the Education and Research/Public Education Papers of Marjorie Martus, document her activities and a number of those of the Education Program for the years 1962 to 1968; and from 1971 to 1975.</p><p>The papers include material related to Ford Foundation educational activities and projects; and correspondence with Foundation colleagues, and individuals in academic, grantee and other organizations.</p><p>The papers are broad in scope, but are rather disappointingly superficial, especially in light of Miss Martus' activity and reputation. It is recommended that the researcher consult the files of grants for which Miss Martus served as Responsible Program Officer, a list of which is included in the appendix to this register.</p>  </scopecontent>
+  <arrangement id="1bc0297dc42a9363f259ac9b4df3044f">
+    <head>Arrangement</head>
+<p>The Education and Research/Public Education Papers of Marjorie Martus are divided into two series:</p><p>I. Correspondence Files, 1962-1968, 1971-1975
+II. Subject Files, 1962-1968</p><p>Arrangement within each series corresponds as closely as possible to the original order established by Martus' office.</p>  </arrangement>
+  <accessrestrict id="33cbb841f0a6e242937eb4b583d53c5d">
+    <head>Conditions Governing Access</head>
+<p>Records more than 10 years old are open for research with select materials restricted as noted. Brittle or damaged items are available at the discretion of RAC.</p>  </accessrestrict>
+  <dsc><c id="effdb000d89a4befbf1cc6a2a172c09a" level="series"><did><unittitle>Correspondence Files</unittitle><unitid>I</unitid><unitdate normal="1962/1975" type="inclusive">1962-1968, 1971-1975</unitdate></did><arrangement id="d4fc8f63696c79cfd41959029813e520"><head>Arrangement</head><p>Series I, Correspondence Files (1962-1968; 1971-1975), contains correspondence generated by Miss Martus during her years at the Foundation. The correspondence is divided into two subseries:</p><p>A. Chronological Files, which are arranged in reverse calendar order; and</p><p>B. Alphabetical Files, which are arranged in alphabetical order by correspondent. Within each Alphabetical File folder, the papers are arranged in reverse chronological order</p></arrangement><c id="36a61810f56c4382850a53228d225a3c" level="subseries"><did><unittitle>Chronological Files</unittitle><unitid>A</unitid></did><c id="ee3eb6933fa243ad99e77d4d6feb1c34" level="file"><did><unitdate normal="1975/1975" type="inclusive">1975</unitdate><container altrender="Letter Document Box" id="2a08d0f8d892f6f47c267d2c5aad2a61" label="mixed materials [A0000000087270]" type="box">1</container><container id="88014c1447a160d747f6241dbe5931e8" parent="2a08d0f8d892f6f47c267d2c5aad2a61" type="folder">1-12</container></did></c><c id="550b2b09440a4f7885c33c7f21bf9006" level="file"><did><unitdate normal="1974/1974" type="inclusive">1974</unitdate><container altrender="Letter Document Box" id="fbfd975d56b8d9bb2bd8b9ed069b8eb8" label="mixed materials [A0000000087270]" type="box">1</container><container id="347c3228d028ac4a4bfdb84850553b17" parent="fbfd975d56b8d9bb2bd8b9ed069b8eb8" type="folder">13-20</container></did></c><c id="11b0ffa93695473cb4956b7391c09e55" level="file"><did><unitdate normal="1974/1974" type="inclusive">1974</unitdate><container altrender="Letter Document Box" id="af849ac3f0f5eac563bfff19114303d9" label="mixed materials [A0000000087271]" type="box">2</container><container id="bf340a9e689f0d57462d5afdd52b9052" parent="af849ac3f0f5eac563bfff19114303d9" type="folder">21-24</container></did></c><c id="064e20e28ef14c4fa6c3e71dbdb03b0c" level="file"><did><unitdate normal="1973/1973" type="inclusive">1973</unitdate><container altrender="Letter Document Box" id="bca4d1da7231294235a603d35c53036b" label="mixed materials [A0000000087271]" type="box">2</container><container id="1a8d33e60e779f0ffa00e0b27db76e0b" parent="bca4d1da7231294235a603d35c53036b" type="folder">25-36</container></did></c><c id="f3924ae28c3640e1b0897660fbe4ac9e" level="file"><did><unitdate normal="1972/1972" type="inclusive">1972</unitdate><container altrender="Letter Document Box" id="62ebe48b7da4b2f84d19bcbf3c7f1d83" label="mixed materials [A0000000087272]" type="box">3</container><container id="e57d6116d24adf2f533195fb2a23a9d5" parent="62ebe48b7da4b2f84d19bcbf3c7f1d83" type="folder">37-48</container></did></c><c id="a33da78a80c04763a5fb6768245abdcd" level="file"><did><unitdate normal="1971/1971" type="inclusive">1971</unitdate><container altrender="Letter Document Box" id="b5fae57b75a228e8325a5c75e39b1b00" label="mixed materials [A0000000087272]" type="box">3</container><container id="783c912b0b30b905b83e2b77166779ad" parent="b5fae57b75a228e8325a5c75e39b1b00" type="folder">49-56</container></did></c><c id="b33849020f224cbd8ed8a8bce371b373" level="file"><did><unitdate normal="1971/1971" type="inclusive">1971</unitdate><container altrender="Letter Document Box" id="6874d7ddbf190a8d0b7c8a030aa33827" label="mixed materials [A0000000087273]" type="box">4</container><container id="d6d26c6d7238175045c1b89817e7f8b5" parent="6874d7ddbf190a8d0b7c8a030aa33827" type="folder">57-60</container></did></c><c id="cb7953850c54420c945b55eaa961f9e3" level="file"><did><unitdate normal="1968/1968" type="inclusive">1968</unitdate><container altrender="Letter Document Box" id="b2a9957aaf84567e34e7f94a92a2930c" label="mixed materials [A0000000087273]" type="box">4</container><container id="5d8cd517fac20e1cdd926b0437498eb2" parent="b2a9957aaf84567e34e7f94a92a2930c" type="folder">61-72</container></did></c><c id="35aa06e9dc7b4c11a00d9093f3c2b4cf" level="file"><did><unitdate normal="1967/1967" type="inclusive">1967</unitdate><container altrender="Letter Document Box" id="8fbe1b3e658741f45fd3c077315b6c5d" label="mixed materials [A0000000087273]" type="box">4</container><container id="a1e4bc62537c365f9aa7b95b1908fe15" parent="8fbe1b3e658741f45fd3c077315b6c5d" type="folder">73-84</container></did></c><c id="6cf8cd9234c944109877fbea7720c93c" level="file"><did><unitdate normal="1966/1966" type="inclusive">1966</unitdate><container altrender="Letter Document Box" id="87c0939df17f7e166e76f87d9e98cf5e" label="mixed materials [A0000000087274]" type="box">5</container><container id="095185e183f3d9e9bcb76f04decf11c9" parent="87c0939df17f7e166e76f87d9e98cf5e" type="folder">85-96</container></did></c><c id="f1295688bbb349a6a5a9c5cee2bc9e9f" level="file"><did><unitdate normal="1965/1965" type="inclusive">1965</unitdate><container altrender="Letter Document Box" id="3b5cda585cb60c9debd4e13fa73a40bf" label="mixed materials [A0000000087274]" type="box">5</container><container id="9fbfbce87d5acdf2466b18ae38c4378a" parent="3b5cda585cb60c9debd4e13fa73a40bf" type="folder">97-108</container></did></c><c id="c6c08aa51da3450182e1d1423d309ef0" level="file"><did><unitdate normal="1964/1964" type="inclusive">1964 November - May</unitdate><container altrender="Letter Document Box" id="c8ca36714598bfce14728e5edab16a3e" label="mixed materials [A0000000087274]" type="box">5</container><container id="b2930133181d41d9a9a399824ef31075" parent="c8ca36714598bfce14728e5edab16a3e" type="folder">109</container></did></c><c id="e970d24485c946328b9c6a4395452f42" level="file"><did><unitdate normal="1964/1964" type="inclusive">1964 April - January</unitdate><container altrender="Letter Document Box" id="67dcad3b2f75d96cdff618f441125bb2" label="mixed materials [A0000000087274]" type="box">5</container><container id="20654e5ae10bc69a93537d252d57fd3d" parent="67dcad3b2f75d96cdff618f441125bb2" type="folder">110</container></did></c><c id="5f24655792514b879eaf931abdde04d3" level="file"><did><unitdate normal="1962/1963" type="inclusive">1963 December - 1962 July</unitdate><container altrender="Letter Document Box" id="021e872e6e729ed6abe09fc0531f759e" label="mixed materials [A0000000087274]" type="box">5</container><container id="a16e203e1a57b3edb1435ff4871142f0" parent="021e872e6e729ed6abe09fc0531f759e" type="folder">111</container></did></c></c><c id="d7ce17eee034442eb9a29c22e4ad690f" level="subseries"><did><unittitle>Alphabetical Files</unittitle><unitid>B</unitid></did><c id="d1f3143f99124ced8721d3c1d42401b6" level="file"><did><unittitle>Chilman, C.</unittitle><unitdate normal="1970/1970" type="inclusive">1970 June - February</unitdate><container altrender="Letter Document Box" id="9d874dca3bcfb18fa1707e2fed595b60" label="mixed materials [A0000000087275]" type="box">6</container><container id="50a6ec8bf122088c1006a1dde4d6e975" parent="9d874dca3bcfb18fa1707e2fed595b60" type="folder">112</container></did></c><c id="50370fa0a63445e39732790fdebb69a0" level="file"><did><unittitle>Deutsch, M.</unittitle><unitdate normal="1965/1966" type="inclusive">1966 December - 1965</unitdate><container altrender="Letter Document Box" id="0d12db457a66cc6e7918ec0675e8a608" label="mixed materials [A0000000087275]" type="box">6</container><container id="e468a78bb2ed9a913f5fe62241d0c202" parent="0d12db457a66cc6e7918ec0675e8a608" type="folder">113</container></did></c><c id="eed40b48d88a41f795924207753e3840" level="file"><did><unittitle>Farmer, J.</unittitle><unitdate normal="1965/1966" type="inclusive">1966 August - 1965 May</unitdate><container altrender="Letter Document Box" id="0232e5ee492e50e4d52898974d1827e7" label="mixed materials [A0000000087275]" type="box">6</container><container id="b49079ee6234278d1d61c6b5173271d3" parent="0232e5ee492e50e4d52898974d1827e7" type="folder">114</container></did></c><c id="11d73b7cb7ee474bb461b767044db85a" level="file"><did><unittitle>Gray, S.</unittitle><unitdate normal="1971/1972" type="inclusive">1972 June - 1971 October</unitdate><container altrender="Letter Document Box" id="b601275925d686c5db334b81df172171" label="mixed materials [A0000000087275]" type="box">6</container><container id="00633cfa3b1c492d8be4c6cdbf7f1ff4" parent="b601275925d686c5db334b81df172171" type="folder">115</container></did></c><c id="8d21d424b85d475396cfedd26bf81fb1" level="file"><did><unittitle>Guttentag, M.</unittitle><unitdate normal="1968/1969" type="inclusive">1969 August - 1968 November</unitdate><container altrender="Letter Document Box" id="75926bab139404bc903f10444bc8e7ce" label="mixed materials [A0000000087275]" type="box">6</container><container id="fc8a59cde8e4435e6c457ca0ad7dd802" parent="75926bab139404bc903f10444bc8e7ce" type="folder">116</container></did></c><c id="424c0c3944f3498492c55e53b8691fb3" level="file"><did><unittitle>Hobson, A.</unittitle><unitdate normal="1967/1968" type="inclusive">1968 February - 1967 November</unitdate><container altrender="Letter Document Box" id="86c5ec805f08bf1363f14f628d5914de" label="mixed materials [A0000000087275]" type="box">6</container><container id="9f47818318b30b234ba805b16648c0b7" parent="86c5ec805f08bf1363f14f628d5914de" type="folder">117</container></did></c><c id="7e687b83a9a74a71bca85e27df11fd61" level="file"><did><unittitle>Hovet, M.</unittitle><unitdate normal="1966/1967" type="inclusive">1967 March - 1966 March</unitdate><container altrender="Letter Document Box" id="643da8e6cbdaf66f89c6653648841e60" label="mixed materials [A0000000087275]" type="box">6</container><container id="5408d9a548c40a4622e7cca941d3895a" parent="643da8e6cbdaf66f89c6653648841e60" type="folder">118</container></did></c><c id="d8fd57d87c7c40f6a848410fcf2efe94" level="file"><did><unittitle>Keeve, P.</unittitle><unitdate normal="1967/1968" type="inclusive">1968 January - 1967 January</unitdate><container altrender="Letter Document Box" id="1d2e34994f01f638df057d0beb7c02f0" label="mixed materials [A0000000087275]" type="box">6</container><container id="1d4dcec6e76405692c4b6a64e5d4614b" parent="1d2e34994f01f638df057d0beb7c02f0" type="folder">119</container></did></c><c id="c21257e3d1914833acaf78544dfb5aa5" level="file"><did><unittitle>Miller, D.</unittitle><unitdate normal="1965/1966" type="inclusive">1966 April - 1965 October</unitdate><container altrender="Letter Document Box" id="49e07e52f7ac83e1519df8adad83c170" label="mixed materials [A0000000087275]" type="box">6</container><container id="73712c91b8c917f5f8af4fa1719d67fe" parent="49e07e52f7ac83e1519df8adad83c170" type="folder">120</container></did></c><c id="7eb57bf9bbf84e0fb709b7ea3d56e9bf" level="file"><did><unittitle>Mohan, B.</unittitle><unitdate normal="1967/1968" type="inclusive">1968 February - 1967 December</unitdate><container altrender="Letter Document Box" id="f5829a6668095f739548c00e8bfa31f2" label="mixed materials [A0000000087275]" type="box">6</container><container id="6ce5381c8733264f5fd4fefd183b58e1" parent="f5829a6668095f739548c00e8bfa31f2" type="folder">121</container></did></c><c id="9888c67db73c45a6bce8a0dbbb14c1d4" level="file"><did><unittitle>Nicholls, J.</unittitle><unitdate normal="1967/1967" type="inclusive">1967 September - August</unitdate><container altrender="Letter Document Box" id="b642201ddc8828d3eef81b2b1f7d4f69" label="mixed materials [A0000000087275]" type="box">6</container><container id="8d3c4ebe2d6234b2a0883eee3f7787f8" parent="b642201ddc8828d3eef81b2b1f7d4f69" type="folder">122</container></did></c></c></c><c id="d5e16e61e1ef489b90538b6d1be44cb3" level="series"><did><unittitle>Subject Files</unittitle><unitid>II</unitid><unitdate normal="1962/1968" type="inclusive">1962-1968</unitdate></did><arrangement id="9f183b715abbc59f2e866a30065b0119"><head>Arrangement</head><p>Series II, Subject Files (1962-1968), consists of correspondence and other material as it relates to each topic. The files are arranged in alphabetical order. Within each folder, the papers are arranged in reverse chronological order.</p></arrangement><c id="5879765716084191ade7953acf034747" level="file"><did><unittitle>Arizona Laboratory</unittitle><unitdate normal="1967/1967" type="inclusive">1967 December - October</unitdate><container altrender="Letter Document Box" id="fbe4f23b0db9a712f519437b53e3a4b9" label="mixed materials [A0000000087275]" type="box">6</container><container id="3da60885dfa8619469ca374588dbf402" parent="fbe4f23b0db9a712f519437b53e3a4b9" type="folder">123</container></did></c><c id="99581b24674144a19e8525b4fbfb975e" level="file"><did><unittitle>Benjamin Franklin High School</unittitle><unitdate normal="1966/1966" type="inclusive">1966 June - April</unitdate><container altrender="Letter Document Box" id="0d03849c0910f786621b52f93f5082ee" label="mixed materials [A0000000087275]" type="box">6</container><container id="e0882bd432c6e8cd3752d5d53abc363f" parent="0d03849c0910f786621b52f93f5082ee" type="folder">124</container></did></c><c id="82e060cc29f54be79bc56f4e69b518c3" level="file"><did><unittitle>Carolinas and Virginia Regional Laboratory</unittitle><unitdate normal="1967/1968" type="inclusive">1968 July - 1967 November</unitdate><container altrender="Letter Document Box" id="ecafe2811b476286ac7274fd1d0f022d" label="mixed materials [A0000000087275]" type="box">6</container><container id="36b7d15172e8b6225ce707af45849947" parent="ecafe2811b476286ac7274fd1d0f022d" type="folder">125</container></did></c><c id="49472a288e7646bf812ba3446c25bb3f" level="file"><did><unittitle>Child Development</unittitle><unitdate normal="1964/1965" type="inclusive">1965 January - 1964 December</unitdate><container altrender="Letter Document Box" id="583367f912de0b21acd081931384728f" label="mixed materials [A0000000087275]" type="box">6</container><container id="d9bd5883f5b75b1964b65251c82b4adf" parent="583367f912de0b21acd081931384728f" type="folder">126</container></did></c><c id="556b648d50ea47bdbc2947b95bbad4ff" level="file"><did><unittitle>Dyslexia</unittitle><unitdate normal="1964/1967" type="inclusive">1967 June - 1964 September</unitdate><container altrender="Letter Document Box" id="fa5e2b58646bd2e21bc034cfdc575d4d" label="mixed materials [A0000000087275]" type="box">6</container><container id="d326666c9179798cd3ed5bff17632da3" parent="fa5e2b58646bd2e21bc034cfdc575d4d" type="folder">127-128</container></did></c><c id="24d278e665504f6cb8c423da8240304b" level="file"><did><unittitle>Early Childhood Education - DRAFT Material</unittitle><unitdate normal="1965/1966" type="inclusive">1966-1965</unitdate><container altrender="Letter Document Box" id="9d12725a0ec33831303d677e5083c90d" label="mixed materials [A0000000087275]" type="box">6</container><container id="02010219dd0192aa1a404f1df1fcc501" parent="9d12725a0ec33831303d677e5083c90d" type="folder">129-134</container></did></c><c id="91e2c2cd40ab4c148d8410c65ef08960" level="file"><did><unittitle>Freyburg Academy (Reading Research Institute)</unittitle><unitdate normal="1962/1966" type="inclusive">1966 March - 1962 June</unitdate><container altrender="Letter Document Box" id="507d01baacb43b9e53cb2563cd0f1392" label="mixed materials [A0000000087276]" type="box">7</container><container id="795e644f25ddfa176d92f3ebf036b753" parent="507d01baacb43b9e53cb2563cd0f1392" type="folder">135</container></did></c><c id="165e02f17e034cd2a192e64b40b038ec" level="file"><did><unittitle>Institute for Developmental Studies</unittitle><unitdate normal="1966/1968" type="inclusive">1968 June - 1966 September</unitdate><container altrender="Letter Document Box" id="862577f4ead46d1cd9afa790647e2156" label="mixed materials [A0000000087276]" type="box">7</container><container id="221b59f8dca701cdad510dfcc8d36a37" parent="862577f4ead46d1cd9afa790647e2156" type="folder">136</container></did></c><c id="240a00e737e5435fa4525b6492aa9916" level="file"><did><unittitle>Language Consultants - BA-HA</unittitle><unitdate normal="1966/1967" type="inclusive">1967-1966</unitdate><container altrender="Letter Document Box" id="3af11f73d16c1bfdb82fd507b93f5a0a" label="mixed materials [A0000000087276]" type="box">7</container><container id="8c9b806fa9e8f9f5b838d7bf2dd67a42" parent="3af11f73d16c1bfdb82fd507b93f5a0a" type="folder">137</container></did></c><c id="c073c198e9d14493a35c25048bf18c3b" level="file"><did><unittitle>Language Consultants - JO-SE</unittitle><unitdate normal="1966/1967" type="inclusive">1967-1966</unitdate><container altrender="Letter Document Box" id="b179080b6f4aa14accf0472c9c8318e3" label="mixed materials [A0000000087276]" type="box">7</container><container id="20b1f388bfe7ba05fa1f7f4849f078f0" parent="b179080b6f4aa14accf0472c9c8318e3" type="folder">138</container></did></c><c id="51a42f829041414893ca353441400832" level="file"><did><unittitle>Language Development Study</unittitle><unitdate normal="1967/1968" type="inclusive">1968 April - 1967 January</unitdate><container altrender="Letter Document Box" id="08ea0dc732270c1acefa0639b6ce8c7d" label="mixed materials [A0000000087276]" type="box">7</container><container id="cb4310a65a843302ea1639e8c7d20789" parent="08ea0dc732270c1acefa0639b6ce8c7d" type="folder">139</container></did></c><c id="44eb4d85c09e4cf199a37f973f4e04d2" level="file"><did><unittitle>Lexington School for the Deaf</unittitle><unitdate normal="1965/1967" type="inclusive">1967 February - 1965 January</unitdate><container altrender="Letter Document Box" id="fb2cca13414b0232e39ea2a8098b6ee3" label="mixed materials [A0000000087276]" type="box">7</container><container id="a04473edd58db13b5cb5498d02556dcc" parent="fb2cca13414b0232e39ea2a8098b6ee3" type="folder">140</container></did></c><c id="d5f1a35adc0641908f6948491935f080" level="file"><did><unittitle>National Institute for Mental Health</unittitle><unitdate normal="1964/1968" type="inclusive">1968 August - 1964 December</unitdate><container altrender="Letter Document Box" id="7796873d3daefc7708669e0a342f0190" label="mixed materials [A0000000087276]" type="box">7</container><container id="1fa7da19b1bb474ff886d862a5b3e57f" parent="7796873d3daefc7708669e0a342f0190" type="folder">141</container></did></c><c id="78834989d04b46088cd6fc5d72581b05" level="file"><did><unittitle>Organization for Economic Cooperation and Development</unittitle><unitdate normal="1969/1969" type="inclusive">1969 January</unitdate><container altrender="Letter Document Box" id="a288726282d966ef2fc34d053db23e10" label="mixed materials [A0000000087276]" type="box">7</container><container id="52dd047361f21901aac79e0280fc0bf1" parent="a288726282d966ef2fc34d053db23e10" type="folder">142</container></did></c><c id="8706d8b504ab40319810b78c2a073c56" level="file"><did><unittitle>Organization for Economic Cooperation and Development</unittitle><unitdate normal="1968/1969" type="inclusive">1969-1968</unitdate><container altrender="Letter Document Box" id="9319ac3638916befb38d31452a41d9ef" label="mixed materials [A0000000087276]" type="box">7</container><container id="c80011d8e097b0ec5fdbaa33e6b7c9a6" parent="9319ac3638916befb38d31452a41d9ef" type="folder">143-144</container></did></c><c id="2fdfe852c3f24c46bbd20afa1d6d2bed" level="file"><did><unittitle>Organization for Economic Cooperation and Development</unittitle><unitdate normal="1968/1969" type="inclusive">1969 January - 1968 December</unitdate><container altrender="Letter Document Box" id="61dfb787d00b57b5697f6de31b303413" label="mixed materials [A0000000087276]" type="box">7</container><container id="9cf0262ce98ad29a3bc4f963f3d06bc3" parent="61dfb787d00b57b5697f6de31b303413" type="folder">145</container></did></c><c id="5e199092d98640a8a902148868bb84df" level="file"><did><unittitle>Organization for Economic Cooperation and Development</unittitle><unitdate normal="1968/1969" type="inclusive">1969 January - 1968 December</unitdate><container altrender="Letter Document Box" id="bf6ab37b9f0256735d1a1de36da10302" label="mixed materials [A0000000087276]" type="box">7</container><container id="dcf7d19f7e430c9212e117de95dfd718" parent="bf6ab37b9f0256735d1a1de36da10302" type="folder">146</container></did></c><c id="8ea7c53582ee4daf99406eee3a50f086" level="file"><did><unittitle>Ohio State University Research Consortium</unittitle><unitdate normal="1967/1968" type="inclusive">1968 May - 1967 December</unitdate><container altrender="Letter Document Box" id="8b08a2727b5be294a166f3c153728b01" label="mixed materials [A0000000087276]" type="box">7</container><container id="50dd541c79e4e9757b7418c7a6a46a10" parent="8b08a2727b5be294a166f3c153728b01" type="folder">147</container></did></c><c id="a5ab057ab3284594988c26d804a702d2" level="file"><did><unittitle>Pre-School Television</unittitle><unitdate normal="1967/1968" type="inclusive">1968 April - 1967 April</unitdate><container altrender="Letter Document Box" id="56de6e22bdc9cdc8a0860759a13cd1e4" label="mixed materials [A0000000087276]" type="box">7</container><container id="95b84713fd4ffcb223785bfd76f496be" parent="56de6e22bdc9cdc8a0860759a13cd1e4" type="folder">148</container></did></c><c id="1b9cb4f80b8a44d9aa2e82f1c108522e" level="file"><did><unittitle>Publication Orders</unittitle><unitdate normal="1966/1968" type="inclusive">1968 June - 1966 October</unitdate><container altrender="Letter Document Box" id="6aaed962063e865fb7dcce13b2c6a5ef" label="mixed materials [A0000000087276]" type="box">7</container><container id="554aa590f546a49cc9628951bcd52082" parent="6aaed962063e865fb7dcce13b2c6a5ef" type="folder">149-150</container></did></c><c id="52fedd86edf64dd68fcab3475724b42f" level="file"><did><unittitle>System Development Corporation</unittitle><unitdate normal="1964/1968" type="inclusive">1968 January - 1964 September</unitdate><container altrender="Letter Document Box" id="2d2d0f2172af4c85aacbd42f504a43ec" label="mixed materials [A0000000087276]" type="box">7</container><container id="840c5d0425fecce9b602d74f081a8c7b" parent="2d2d0f2172af4c85aacbd42f504a43ec" type="folder">151</container></did></c><c id="19d00fa44c674c8d9efec4ee51ced22f" level="file"><did><unittitle>Team Teaching</unittitle><unitdate normal="1964/1966" type="inclusive">1966 April - 1964 October</unitdate><container altrender="Letter Document Box" id="983894f78c4bff89dbf33819bf009f9d" label="mixed materials [A0000000087276]" type="box">7</container><container id="0321dbcff4ee0653d5bb3ced797c2600" parent="983894f78c4bff89dbf33819bf009f9d" type="folder">152</container></did></c><c id="8b1d5e187b8f4d5ea3d1aacedc91b340" level="file"><did><unittitle>Research and Development Centers - United States</unittitle><unitdate normal="1967/1969" type="inclusive">1969 November - 1967 March</unitdate><container altrender="Letter Document Box" id="5e6710865062f21b0d7baccd6f374b0a" label="mixed materials [A0000000087276]" type="box">7</container><container id="f3c8ff354c70f31242f19e69aaee0bbd" parent="5e6710865062f21b0d7baccd6f374b0a" type="folder">153</container></did></c><c id="241daf71d0c84c3bbfdc0bdb60ae229a" level="file"><did><unittitle>School Improvement Work Conference, San Francisco, January 3-7, 1967</unittitle><unitdate normal="1967/1967" type="inclusive">1967 January</unitdate><container altrender="Letter Document Box" id="be0e4aa2ef7a79ce93d9dc565fc03ad0" label="mixed materials [A0000000087276]" type="box">7</container><container id="b87b45747cd5e34cc02928c105669976" parent="be0e4aa2ef7a79ce93d9dc565fc03ad0" type="folder">154</container></did></c><c id="6344a48e49e7416d904b75bd1cc73e0b" level="file"><did><unittitle>Social Science Research Council Conference, Chicago, February 7-9, 1966</unittitle><unitdate normal="1965/1966" type="inclusive">1966 February - 1965 June</unitdate><container altrender="Letter Document Box" id="d26e35c2366c1a7ce761c049da20e358" label="mixed materials [A0000000087276]" type="box">7</container><container id="250b56176702a110573ef5491dd21bd8" parent="d26e35c2366c1a7ce761c049da20e358" type="folder">155</container></did></c></c></dsc>
+</archdesc>
 </ead>
