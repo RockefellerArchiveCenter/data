@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="under_revision" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid>FA911.xml</eadid><filedesc><titlestmt><titleproper type="filing">Rockefeller University records, History of the University, Visitor's Book</titleproper><titleproper>A Guide to the Rockefeller University records, History of the University, Visitor's Book
- <num>FA911</num></titleproper></titlestmt><publicationstmt><publisher>Rockefeller Archive Center</publisher><address><addressline>15 Dayton Avenue</addressline><addressline>Sleepy Hollow 10591</addressline><addressline>archive@rockarch.org</addressline><addressline>URL: <extptr xlink:href="http://www.rockarch.org" xlink:show="new" xlink:title="http://www.rockarch.org" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2019-03-14 02:53:39 -0400</date>.</creation></profiledesc><revisiondesc><date>2010 October 12</date><item>Paper finding aid converted to EAD/XML by AureXus in 2010. Imported into the Archvists’ Toolkit by Becky Robbins.</item></revisiondesc></eadheader><archdesc level="collection">
+ <num>FA911</num></titleproper></titlestmt><publicationstmt><publisher>Rockefeller Archive Center</publisher><address><addressline>15 Dayton Avenue</addressline><addressline>Sleepy Hollow 10591</addressline><addressline>archive@rockarch.org</addressline><addressline>URL: <extptr xlink:href="http://www.rockarch.org" xlink:show="new" xlink:title="http://www.rockarch.org" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2019-10-28 00:03:55 -0400</date>.</creation></profiledesc></eadheader><archdesc level="collection">
   <did>
     <langmaterial>
       <language langcode="eng">English</language>
@@ -9,10 +9,10 @@
       <corpname>Rockefeller Archive Center</corpname>
     </repository>
     <unittitle>Rockefeller University records, History of the University, Visitor's Book</unittitle>
-    <origination label="creator">
+    <origination label="Creator">
       <corpname role="ctb" source="naf">Rockefeller Institute for Medical Research</corpname>
     </origination>
-    <origination label="creator">
+    <origination label="Creator">
       <corpname role="aut" source="naf">Rockefeller University</corpname>
     </origination>
     <unitid>FA911</unitid>
@@ -21,7 +21,7 @@
       <extent altrender="carrier">1 volume</extent>
     </physdesc>
     <unitdate normal="1913/1955" type="inclusive">1913-1955</unitdate>
-    <physdesc id="ccc5fa564554a1f23895ab5963a9f0dd"><extent>1 volume.</extent></physdesc>
+    <physdesc id="ccc5fa564554a1f23895ab5963a9f0dd" label="General Physical Description note"><extent>1 volume.</extent></physdesc>
   </did>
   <bioghist id="78666ebc85c6d2bed3d1007f7eba179a">
     <head>Biographical/Historical note</head>
@@ -47,6 +47,6 @@
     <subject source="lcsh">Life sciences</subject>
     <subject source="lcsh">Cell and biomolecular sciences</subject>
   </controlaccess>
-  <dsc><c id="014f90f3b8214752b3e3e04abc33be95" level="file"><did><unittitle>Visitor's book</unittitle><unitdate normal="1913/1955" type="inclusive">1913-1955</unitdate><container id="a2a3dd49e8df6a6c3d598d2854768eed" label="mixed materials" type="package">1</container></did></c></dsc>
+  <dsc><c id="014f90f3b8214752b3e3e04abc33be95" level="file"><did><unittitle>Visitor's book</unittitle><unitdate normal="1913/1955" type="inclusive">1913-1955</unitdate><container id="4cafc0f1a07c66b5b852f3e083e86fe3" label="mixed materials" type="package">1</container></did></c></dsc>
 </archdesc>
 </ead>
