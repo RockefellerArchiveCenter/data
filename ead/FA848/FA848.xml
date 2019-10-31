@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="under_revision" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid>FA848.xml</eadid><filedesc><titlestmt><titleproper type="filing">Rockefeller University records, Women and Science</titleproper><titleproper>A Guide to the Rockefeller University records, Women and Science
- <num>FA848</num></titleproper></titlestmt><publicationstmt><publisher>Rockefeller Archive Center</publisher><address><addressline>15 Dayton Avenue</addressline><addressline>Sleepy Hollow 10591</addressline><addressline>archive@rockarch.org</addressline><addressline>URL: <extptr xlink:href="http://www.rockarch.org" xlink:show="new" xlink:title="http://www.rockarch.org" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2019-08-26 00:28:12 -0400</date>.</creation></profiledesc><revisiondesc><date>2010 October 25</date><item>Paper finding aid converted to EAD/XML by AureXus in 2010. Imported into the Archvists’ Toolkit by Becky Robbins.</item></revisiondesc></eadheader><archdesc level="collection">
+ <num>FA848</num></titleproper></titlestmt><publicationstmt><publisher>Rockefeller Archive Center</publisher><address><addressline>15 Dayton Avenue</addressline><addressline>Sleepy Hollow 10591</addressline><addressline>archive@rockarch.org</addressline><addressline>URL: <extptr xlink:href="http://www.rockarch.org" xlink:show="new" xlink:title="http://www.rockarch.org" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2019-10-31 02:08:36 -0400</date>.</creation></profiledesc></eadheader><archdesc level="collection">
   <did>
     <langmaterial>
       <language langcode="eng">English</language>
@@ -9,7 +9,7 @@
       <corpname>Rockefeller Archive Center</corpname>
     </repository>
     <unittitle>Rockefeller University records, Women and Science</unittitle>
-    <origination label="creator">
+    <origination label="Creator">
       <corpname role="aut" source="naf">Rockefeller University</corpname>
     </origination>
     <unitid>FA848</unitid>
@@ -18,7 +18,7 @@
       <extent altrender="carrier">1 half-letter document box.</extent>
     </physdesc>
     <unitdate normal="2000/2002" type="inclusive">2000-2002</unitdate>
-    <physdesc id="a5dc18f40d2fcb4305cd48971f56e13d"><extent>1 box.</extent></physdesc>
+    <physdesc id="a5dc18f40d2fcb4305cd48971f56e13d" label="General Physical Description note"><extent>1 box.</extent></physdesc>
   </did>
   <prefercite id="64339eb0398f652615d51fe0f26401d5">
     <head>Preferred Citation note</head>
@@ -46,6 +46,6 @@
     <subject source="lcsh">Medical education</subject>
     <subject source="lcsh">Medical sciences</subject>
   </controlaccess>
-  <dsc><c id="de13bfd77b1a4855afdbc1c2432f6b7a" level="file"><did><unittitle>Brochures</unittitle><unitdate normal="2000/2002" type="inclusive">2000-2002</unitdate><container altrender="Half Ltr Document Storage Box" id="47957e819f43267b82dc8bf8cd2f7b53" label="mixed materials [A0000000068019]" type="box">1</container><container id="f101b7bb0fa186c15d4f161ed251f457" parent="47957e819f43267b82dc8bf8cd2f7b53" type="folder">1</container></did></c><c id="961928ca0a5646808aaa59837ddd7365" level="file"><did><unittitle>Programs</unittitle><unitdate normal="2001/2001" type="inclusive">2001</unitdate><container altrender="Half Ltr Document Storage Box" id="e96ca570f95933f9bcf58ba8c6dde806" label="mixed materials [A0000000068019]" type="box">1</container><container id="ec1f39d511cf7a2d1345452d85cdbe39" parent="e96ca570f95933f9bcf58ba8c6dde806" type="folder">2</container></did></c></dsc>
+  <dsc><c id="de13bfd77b1a4855afdbc1c2432f6b7a" level="file"><did><unittitle>Brochures</unittitle><unitdate normal="2000/2002" type="inclusive">2000-2002</unitdate><container altrender="Half Letter Document Box" id="fcd681bde7615448f453ace76a794f38" label="mixed materials [A0000000068019]" type="box">1</container><container id="bd0efa4b25f21f91d28bc72afe135d0e" parent="fcd681bde7615448f453ace76a794f38" type="folder">1</container></did></c><c id="961928ca0a5646808aaa59837ddd7365" level="file"><did><unittitle>Programs</unittitle><unitdate normal="2001/2001" type="inclusive">2001</unitdate><container altrender="Half Letter Document Box" id="05d33abf5182c1bf831c3880e03aee07" label="mixed materials [A0000000068019]" type="box">1</container><container id="f6c63949a40140748e14045f1171d2d7" parent="05d33abf5182c1bf831c3880e03aee07" type="folder">2</container></did></c></dsc>
 </archdesc>
 </ead>

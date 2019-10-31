@@ -1,108 +1,42 @@
-<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
-  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="under_revision" langencoding="iso639-2b" repositoryencoding="iso15511">
-    <eadid>FA840.xml</eadid>
-    <filedesc>
-      <titlestmt>
-        <titleproper type="filing">Rockefeller University records, Photographic Directory</titleproper>
-        <titleproper>A Guide to the Rockefeller University records, Photographic Directory
- <num>FA840</num></titleproper>
-      </titlestmt>
-      <publicationstmt>
-        <publisher>Rockefeller Archive Center</publisher>
-        <address>
-          <addressline>15 Dayton Avenue</addressline>
-          <addressline>Sleepy Hollow 10591</addressline>
-          <addressline>archive@rockarch.org</addressline>
-          <addressline>URL: <extptr xlink:href="http://www.rockarch.org" xlink:show="new" xlink:title="http://www.rockarch.org" xlink:type="simple"/></addressline>
-        </address>
-      </publicationstmt>
-    </filedesc>
-    <profiledesc>
-      <creation>This finding aid was produced using ArchivesSpace on <date>2018-08-04 00:01:49 -0400</date>.</creation>
-    </profiledesc>
-    <revisiondesc>
-      <date>2010 October 18</date>
-      <item>Paper finding aid converted to EAD/XML by AureXus in 2010. Imported into the Archvists’ Toolkit by Becky Robbins.</item>
-    </revisiondesc>
-  </eadheader>
-  <archdesc level="collection">
-    <did>
-      <langmaterial>
-        <language langcode="eng">English</language>
-      </langmaterial>
-      <repository>
-        <corpname>Rockefeller Archive Center</corpname>
-      </repository>
-      <unittitle>Rockefeller University records, Photographic Directory</unittitle>
-      <origination label="creator">
-        <corpname role="ctb" source="naf">Rockefeller Institute for Medical Research</corpname>
-      </origination>
-      <origination label="creator">
-        <corpname role="aut" source="naf">Rockefeller University</corpname>
-      </origination>
-      <unitid>FA840</unitid>
-      <physdesc altrender="whole">
-        <extent altrender="materialtype spaceoccupied">4 box(es)</extent>
-      </physdesc>
-      <unitdate normal="1967/1974" type="inclusive">1967-1974</unitdate>
-      <physdesc id="cc98691742c4af703f29cdcf8c618f47">4 boxes.</physdesc>
-    </did>
-    <prefercite id="ff563bb7ff10f77ee6915a892ff3b908">
-      <head>Preferred Citation note</head>
-      <p>Information regarding the Rockefeller Archive Center's preferred elements and forms of citation can be found at <extref href="http://www.rockarch.org/research/citations.php">http://www.rockarch.org/research/citations.php</extref></p>
-    </prefercite>
-    <fileplan id="936e98a543c19526a6671cea1ce0e86d">
-      <head>File Plan note</head>
-      <p>Former Classification: I 459</p>
-    </fileplan>
-    <accessrestrict id="3635e1ee0895a79ff6946f0a25d18092">
-      <head>Conditions Governing Access note</head>
-      <p>This collection is open for research. Brittle or damaged items are available at the discretion of RAC.</p>
-    </accessrestrict>
-    <scopecontent id="af6a4c3056a2c5fc0e4cc404df28d8db">
-      <head>Scope and Contents</head>
-      <p>Boxes 2-4 contain pictures from a rolodex from the President's Office.</p>
-    </scopecontent>
-    <controlaccess>
-      <subject source="lcsh">Medical education</subject>
-    </controlaccess>
-    <dsc>
-      <c id="9445ed9d02e84e20ac1c83dfd09a89a2" level="file">
-        <did>
-          <unittitle>Photographic directory</unittitle>
-          <unitdate normal="1967/1974" type="inclusive">1967/1968-1973/1974</unitdate>
-          <container altrender="Letter Document Storage Box" id="da5bbc8a156022e9aa2294af726ab275" label="mixed materials [A0000000086301]" type="box">1</container>
-        </did>
-        <scopecontent id="30b927b716292adb865f7dc7a9d048e6">
-          <head>Scope and Contents note</head>
-          <p>Photographs of faculty, students, administration and staff.</p>
-        </scopecontent>
-        <arrangement id="9d50638f18bdca37fcb02e9aad532233">
-          <head>Arrangement note</head>
-          <p>Arranged in alphabetical order.</p>
-        </arrangement>
-      </c>
-      <c id="cdffa8a0fc19428a842dac2ba9a5f316" level="file">
-        <did>
-          <unittitle>A-G</unittitle>
-          <physdesc id="943c31d2a381b59e3755cbf34da791e2">Photographs</physdesc>
-          <container id="38c6251e903012283e8eec2ce5656071" label="mixed materials [A0000000086302]" type="box">2</container>
-        </did>
-      </c>
-      <c id="cbe03f14e6134ffd8e2e29b4b125ad5a" level="file">
-        <did>
-          <unittitle>H-O</unittitle>
-          <physdesc id="344efe841bad48f9e8cea336f670923e">Photographs</physdesc>
-          <container id="0c0479d187ec8bfb9ceb72244d3e4f90" label="mixed materials [A0000000086304]" type="box">3</container>
-        </did>
-      </c>
-      <c id="f9885a27c8514019b8f0927ed7509a12" level="file">
-        <did>
-          <unittitle>P-Z</unittitle>
-          <physdesc id="6f75ce4611009485c8feeee1dfe43444">Photographs</physdesc>
-          <container id="011d71d93154bbfb40be2a46408479ba" label="mixed materials [A0000000086303]" type="box">4</container>
-        </did>
-      </c>
-    </dsc>
-  </archdesc>
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="under_revision" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid>FA840.xml</eadid><filedesc><titlestmt><titleproper type="filing">Rockefeller University records, Photographic Directory</titleproper><titleproper>A Guide to the Rockefeller University records, Photographic Directory
+ <num>FA840</num></titleproper></titlestmt><publicationstmt><publisher>Rockefeller Archive Center</publisher><address><addressline>15 Dayton Avenue</addressline><addressline>Sleepy Hollow 10591</addressline><addressline>archive@rockarch.org</addressline><addressline>URL: <extptr xlink:href="http://www.rockarch.org" xlink:show="new" xlink:title="http://www.rockarch.org" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2019-10-31 02:06:43 -0400</date>.</creation></profiledesc></eadheader><archdesc level="collection">
+  <did>
+    <langmaterial>
+      <language langcode="eng">English</language>
+    </langmaterial>
+    <repository>
+      <corpname>Rockefeller Archive Center</corpname>
+    </repository>
+    <unittitle>Rockefeller University records, Photographic Directory</unittitle>
+    <origination label="Creator">
+      <corpname role="ctb" source="naf">Rockefeller Institute for Medical Research</corpname>
+    </origination>
+    <origination label="Creator">
+      <corpname role="aut" source="naf">Rockefeller University</corpname>
+    </origination>
+    <unitid>FA840</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">4 box(es)</extent>
+    </physdesc>
+    <unitdate normal="1967/1974" type="inclusive">1967-1974</unitdate>
+    <physdesc id="cc98691742c4af703f29cdcf8c618f47">4 boxes.</physdesc>
+  </did>
+  <prefercite id="ff563bb7ff10f77ee6915a892ff3b908">
+    <head>Preferred Citation note</head>
+<p>Information regarding the Rockefeller Archive Center's preferred elements and forms of citation can be found at <extref href="http://www.rockarch.org/research/citations.php">http://www.rockarch.org/research/citations.php</extref></p>  </prefercite>
+  <fileplan id="936e98a543c19526a6671cea1ce0e86d">
+    <head>File Plan note</head>
+<p>Former Classification: I 459</p>  </fileplan>
+  <accessrestrict id="3635e1ee0895a79ff6946f0a25d18092">
+    <head>Conditions Governing Access note</head>
+<p>This collection is open for research. Brittle or damaged items are available at the discretion of RAC.</p>  </accessrestrict>
+  <scopecontent id="af6a4c3056a2c5fc0e4cc404df28d8db">
+    <head>Scope and Contents</head>
+<p>Boxes 2-4 contain pictures from a rolodex from the President's Office.</p>  </scopecontent>
+  <controlaccess>
+    <subject source="lcsh">Medical education</subject>
+  </controlaccess>
+  <dsc><c id="9445ed9d02e84e20ac1c83dfd09a89a2" level="file"><did><unittitle>Photographic directory</unittitle><unitdate normal="1967/1974" type="inclusive">1967/1968-1973/1974</unitdate><container altrender="Letter Document Box" id="495ed83283d4e160a81efabc87e6759d" label="mixed materials [A0000000086301]" type="box">1</container></did><scopecontent id="30b927b716292adb865f7dc7a9d048e6"><head>Scope and Contents note</head><p>Photographs of faculty, students, administration and staff.</p></scopecontent><arrangement id="9d50638f18bdca37fcb02e9aad532233"><head>Arrangement note</head><p>Arranged in alphabetical order.</p></arrangement></c><c id="cdffa8a0fc19428a842dac2ba9a5f316" level="file"><did><unittitle>A-G</unittitle><physdesc id="943c31d2a381b59e3755cbf34da791e2">Photographs</physdesc><container id="b87d304bf5c131f1fbaa7f46eba04232" label="mixed materials [A0000000086302]" type="box">2</container></did></c><c id="cbe03f14e6134ffd8e2e29b4b125ad5a" level="file"><did><unittitle>H-O</unittitle><physdesc id="344efe841bad48f9e8cea336f670923e">Photographs</physdesc><container id="53b40c11e55cf713b48ffc6d57a3c971" label="mixed materials [A0000000086304]" type="box">3</container></did></c><c id="f9885a27c8514019b8f0927ed7509a12" level="file"><did><unittitle>P-Z</unittitle><physdesc id="6f75ce4611009485c8feeee1dfe43444">Photographs</physdesc><container id="e687bd93f7879bf8b2dc07bde7e9ebcf" label="mixed materials [A0000000086303]" type="box">4</container></did></c></dsc>
+</archdesc>
 </ead>
