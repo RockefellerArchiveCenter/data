@@ -1,393 +1,47 @@
-<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
-  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" repositoryencoding="iso15511">
-    <eadid>FA722.xml</eadid>
-    <filedesc>
-      <titlestmt>
-        <titleproper type="filing">Ford Foundation records, Media Policy collection</titleproper>
-        <titleproper>A Guide to the Ford Foundation records, Media Policy collection
- <num>FA722</num></titleproper>
-      </titlestmt>
-      <publicationstmt>
-        <publisher>Rockefeller Archive Center</publisher>
-        <p>
-          <date>July 2004</date>
-        </p>
-        <address>
-          <addressline>15 Dayton Avenue</addressline>
-          <addressline>Sleepy Hollow 10591</addressline>
-          <addressline>archive@rockarch.org</addressline>
-          <addressline>URL: <extptr xlink:href="http://www.rockarch.org" xlink:show="new" xlink:title="http://www.rockarch.org" xlink:type="simple"/></addressline>
-        </address>
-      </publicationstmt>
-    </filedesc>
-    <profiledesc>
-      <creation>This finding aid was produced using ArchivesSpace on <date>2017-10-25 01:26:54 -0400</date>.</creation>
-      <langusage>English</langusage>
-      <descrules>Describing Archives: A Content Standard</descrules>
-    </profiledesc>
-  </eadheader>
-  <archdesc level="collection">
-    <did>
-      <langmaterial>
-        <language langcode="eng">English</language>
-      </langmaterial>
-      <repository>
-        <corpname>Rockefeller Archive Center</corpname>
-      </repository>
-      <unittitle>Ford Foundation records, Media Policy collection</unittitle>
-      <origination label="creator">
-        <corpname role="aut" rules="dacs" source="nad">Ford Foundation</corpname>
-      </origination>
-      <unitid>FA722</unitid>
-      <physdesc altrender="whole">
-        <extent altrender="materialtype spaceoccupied">0.88 Cubic Feet</extent>
-      </physdesc>
-      <unitdate normal="1964/1980" type="inclusive">1964-1980</unitdate>
-    </did>
-    <accessrestrict id="d87f016219932ea2bbf86d019786079c">
-      <head>Conditions Governing Access</head>
-      <p>Records more than 10 years old are open for research with select materials restricted as noted. Brittle or damaged items are available at the discretion of RAC. Researchers interested in accessing digital media (floppy disks, CDs, DVDs, etc.) or audiovisual material (audio cassettes, VHS, etc.) in this collection must use an access surrogate. The original items may not be accessed because of preservation concerns. To request an access surrogate be made, or if you are unsure if there is an access surrogate, please contact an archivist.</p>
-    </accessrestrict>
-    <userestrict id="d6091a175e5fde2a02c10242e93e0565">
-      <head>Conditions Governing Use</head>
-      <p>Completion of a use agreement is required prior to providing scholarly access. See RAC Head of Reference (or applicable designee) for details. </p>
-      <p>Ford Foundation holds title, copyright and literary rights in the collection, in so far as it holds them.</p>
-      <p>The Rockefeller Archive Center has authority to grant permission to cite and publish material from the collection for scholarly purposes. Permission to publish extensive excerpts, or material in its entirety, will be referred to the Ford Foundation.</p>
-    </userestrict>
-    <acqinfo id="2004bba5843021c4a4c23226da06dca7">
-      <head>Immediate Source of Acquisition</head>
-      <p>Ford Foundation archive was deposited at RAC in 2011. Ford Foundation records, correspondence, reports, program files and officers papers were transferred to, and accessioned by, RAC beginning in 2011. Accessions continue as necessary.</p>
-    </acqinfo>
-    <prefercite id="f22fc32c8e24f2b6e8e3691b074245be">
-      <head>Preferred Citation</head>
-      <p>Information regarding the Rockefeller Archive Center's preferred elements and forms of citation can be found at <extref href="http://www.rockarch.org/research/citations.php">http://www.rockarch.org/research/citations.php</extref>.</p>
-    </prefercite>
-    <scopecontent id="0c4a849f5824f6f8cc3e9def015fb3ba">
-      <head>Scope and Contents</head>
-      <p>All of the materials in the Media Policy Collection pertain to Ford Foundation Grant 06800203 awarded to the United Church of Christ as of July 6, 2004. The materials were accessioned as Accession 2004/015 on July 6, 2004 and processed on July 7, 2004. Additional materials may be added to this collection in the future.</p>
-    </scopecontent>
-    <arrangement id="81caa31ae265db2b75e29a4281826d41">
-      <head>Arrangement</head>
-      <p>The Media Policy Collection consists of a single series: United Church of Christ.</p>
-    </arrangement>
-    <dsc>
-      <c id="dfa6b6e0020c43c6823c5addaa3c5d50" level="series">
-        <did>
-          <unittitle>United Church of Christ</unittitle>
-          <unitid>I</unitid>
-        </did>
-        <arrangement id="c6b117605c0b1c4d8832b54b492a455a">
-          <head>Arrangement</head>
-          <p>Series I, United Church of Christ, is arranged in the following subseries:</p>
-          <p>A. Broadcast Monitoring Study, 1964-1966
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid>FA722.xml</eadid><filedesc><titlestmt><titleproper type="filing">Ford Foundation records, Media Policy collection</titleproper><titleproper>A Guide to the Ford Foundation records, Media Policy collection
+ <num>FA722</num></titleproper></titlestmt><publicationstmt><publisher>Rockefeller Archive Center</publisher><p><date>July 2004</date></p><address><addressline>15 Dayton Avenue</addressline><addressline>Sleepy Hollow 10591</addressline><addressline>archive@rockarch.org</addressline><addressline>URL: <extptr xlink:href="http://www.rockarch.org" xlink:show="new" xlink:title="http://www.rockarch.org" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2019-11-19 01:00:38 -0500</date>.</creation><langusage>English</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
+  <did>
+    <langmaterial>
+      <language langcode="eng">English</language>
+    </langmaterial>
+    <repository>
+      <corpname>Rockefeller Archive Center</corpname>
+    </repository>
+    <unittitle>Ford Foundation records, Media Policy collection</unittitle>
+    <origination label="Creator">
+      <corpname role="aut" rules="dacs" source="naf">Ford Foundation</corpname>
+    </origination>
+    <unitid>FA722</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">0.88 Cubic Feet</extent>
+    </physdesc>
+    <unitdate normal="1964/1980" type="inclusive">1964-1980</unitdate>
+  </did>
+  <accessrestrict id="d87f016219932ea2bbf86d019786079c">
+    <head>Conditions Governing Access</head>
+<p>Records more than 10 years old are open for research with select materials restricted as noted. Brittle or damaged items are available at the discretion of RAC. Researchers interested in accessing digital media (floppy disks, CDs, DVDs, etc.) or audiovisual material (audio cassettes, VHS, etc.) in this collection must use an access surrogate. The original items may not be accessed because of preservation concerns. To request an access surrogate be made, or if you are unsure if there is an access surrogate, please contact an archivist.</p>  </accessrestrict>
+  <userestrict id="d6091a175e5fde2a02c10242e93e0565">
+    <head>Conditions Governing Use</head>
+<p>Completion of a use agreement is required prior to providing scholarly access. See RAC Head of Reference (or applicable designee) for details. </p><p>Ford Foundation holds title, copyright and literary rights in the collection, in so far as it holds them.</p><p>The Rockefeller Archive Center has authority to grant permission to cite and publish material from the collection for scholarly purposes. Permission to publish extensive excerpts, or material in its entirety, will be referred to the Ford Foundation.</p>  </userestrict>
+  <acqinfo id="2004bba5843021c4a4c23226da06dca7">
+    <head>Immediate Source of Acquisition</head>
+<p>Ford Foundation archive was deposited at RAC in 2011. Ford Foundation records, correspondence, reports, program files and officers papers were transferred to, and accessioned by, RAC beginning in 2011. Accessions continue as necessary.</p>  </acqinfo>
+  <prefercite id="f22fc32c8e24f2b6e8e3691b074245be">
+    <head>Preferred Citation</head>
+<p>Information regarding the Rockefeller Archive Center's preferred elements and forms of citation can be found at <extref href="http://www.rockarch.org/research/citations.php">http://www.rockarch.org/research/citations.php</extref>.</p>  </prefercite>
+  <scopecontent id="0c4a849f5824f6f8cc3e9def015fb3ba">
+    <head>Scope and Contents</head>
+<p>All of the materials in the Media Policy Collection pertain to Ford Foundation Grant 06800203 awarded to the United Church of Christ as of July 6, 2004. The materials were accessioned as Accession 2004/015 on July 6, 2004 and processed on July 7, 2004. Additional materials may be added to this collection in the future.</p>  </scopecontent>
+  <arrangement id="81caa31ae265db2b75e29a4281826d41">
+    <head>Arrangement</head>
+<p>The Media Policy Collection consists of a single series: United Church of Christ.</p>  </arrangement>
+  <dsc><c id="dfa6b6e0020c43c6823c5addaa3c5d50" level="series"><did><unittitle>United Church of Christ</unittitle><unitid>I</unitid></did><arrangement id="c6b117605c0b1c4d8832b54b492a455a"><head>Arrangement</head><p>Series I, United Church of Christ, is arranged in the following subseries:</p><p>A. Broadcast Monitoring Study, 1964-1966
 B. Letters, 1979-1980
 C. Lamar Life Broadcasting
 D. Check Your Local Stations
 E. Court Briefs
 F. Reports and statements
-G. Handbooks</p>
-        </arrangement>
-        <c id="ef2bc0522e004769a3bde95aa4a6253b" level="subseries">
-          <did>
-            <unittitle>Broadcast Monitoring Study</unittitle>
-            <unitid>A</unitid>
-            <unitdate normal="1964/1966" type="inclusive">1964-1966</unitdate>
-          </did>
-          <c id="d0704895ecdc439c9c91a02884db4cdb" level="item">
-            <did>
-              <unittitle>"Observation of Television Programming." Packet of instructions and an Observer's Log Sheet issued by the Office of Communication, United Church of Christ</unittitle>
-              <container id="0c53c523aeed3aa725e613710e2db457" label="mixed materials (A0000000037911)" type="box">1</container>
-              <container id="40cde890c8bc6c47ea3d9ee5825742d9" parent="0c53c523aeed3aa725e613710e2db457" type="folder">1</container>
-            </did>
-          </c>
-          <c id="1b4e0373874d4984bd3ffe4e525db593" level="item">
-            <did>
-              <unittitle>Attachment A. "Relevant facts concerning churches and instrumentalities of the United Church of Christ."  Includes exhibits 1 and 2</unittitle>
-              <container id="3ff3f77c409e0dbe965c144e4be26092" label="mixed materials (A0000000037911)" type="box">1</container>
-              <container id="28f72035e5915a7d451b8cd392ea31e4" parent="3ff3f77c409e0dbe965c144e4be26092" type="folder">1</container>
-            </did>
-          </c>
-          <c id="d62449388ff14b3f8015ec1983226b26" level="item">
-            <did>
-              <unittitle>Attachment B. "Documents relative to the monitoring study." Exhibit #1a-d and Exhibit #2 are listed, however, Exhibit #1d and Exhibit #2 are missing</unittitle>
-              <unitdate normal="1964/1964" type="inclusive">1964 March 1 - 7</unitdate>
-              <container id="da59fbf87ddb3ee2a2b286f191ba69b5" label="mixed materials (A0000000037911)" type="box">1</container>
-              <container id="fdf5eca294758e25d8efd49e38c6f884" parent="da59fbf87ddb3ee2a2b286f191ba69b5" type="folder">1</container>
-            </did>
-          </c>
-          <c id="11d0c9ac13ea4d429af83a2afa3b6850" level="item">
-            <did>
-              <unittitle>Budget – "Television Monitoring Study and Legal Briefs, Jackson, Mississippi, April, 1964 through May, 1966"</unittitle>
-              <unitdate normal="1964/1966" type="inclusive">1964 April - 1966 May</unitdate>
-              <container id="bf3cd7f0d13c53098e09b47535b593c4" label="mixed materials (A0000000037911)" type="box">1</container>
-              <container id="8d1f57fff7a81e0fc9644fcccacf6d7f" parent="bf3cd7f0d13c53098e09b47535b593c4" type="folder">1</container>
-            </did>
-          </c>
-        </c>
-        <c id="98afedcd449941ae879c71f17b8f5c3c" level="subseries">
-          <did>
-            <unittitle>Letters</unittitle>
-            <unitid>B</unitid>
-            <unitdate normal="1979/1980" type="inclusive">1979-1980</unitdate>
-          </did>
-          <c id="6ec95370afac4869aef01df8936c3f04" level="item">
-            <did>
-              <unittitle>Letter from George A. Owens, President and Robert O. Wilder, Chairman of Tougaloo College to Dr. C. Shelby Rooks, Chairman, Seminary Section of the CHE, Chicago Theological Seminary</unittitle>
-              <unitdate normal="1980/1980" type="inclusive">1980 September 12</unitdate>
-              <container id="09a8f0144c57a1cf766090c613c51a4a" label="mixed materials (A0000000037911)" type="box">1</container>
-              <container id="a099c60223501e58c2d22a5a793f7282" parent="09a8f0144c57a1cf766090c613c51a4a" type="folder">2</container>
-            </did>
-          </c>
-          <c id="8f7933ffb2744b9eb8420703ca782caf" level="item">
-            <did>
-              <unittitle>Two letters of support sent to Reverend Everett C. Parker, Director, Office of Communications, United Church of Christ</unittitle>
-              <unitdate normal="1979/1979" type="inclusive">1979</unitdate>
-              <container id="6bba0f5c24f5bacfe9f044dd071c5693" label="mixed materials (A0000000037911)" type="box">1</container>
-              <container id="0ed27f4da36276cdd4136e91e5e061f7" parent="6bba0f5c24f5bacfe9f044dd071c5693" type="folder">2</container>
-            </did>
-          </c>
-        </c>
-        <c id="3d23f7dc631048489fa305460af58eca" level="subseries">
-          <did>
-            <unittitle>Lamar Life Broadcasting</unittitle>
-            <unitid>C</unitid>
-          </did>
-          <scopecontent id="9542d78555a84797a4d3672842c21848">
-            <head>Scope and Contents</head>
-            <p>Folder 5 contains documents related to case number 19409 in the United States Court of Appeals for the District of Columbia Circuit. Office of Communications of the United Church of Christ, Aaron Henry Robert L.T. Smith, and United Church of Christ at Tougaloo, Appellants, v. Federal Communications Commission, Appellee, Lamar Life Broadcasting Company, Intervenor.</p>
-          </scopecontent>
-          <c id="bbf88efe3da641ea9fbab3515c2d6922" level="item">
-            <did>
-              <unittitle>"Analysis of Programming of WLBT, Channel 3 for period March 1 through March 7 inclusive by program type"</unittitle>
-              <container id="56aff82cb8736a9ca92bbf50c786f64a" label="mixed materials (A0000000037911)" type="box">1</container>
-              <container id="7bf807ad01adcb9451e24cb82b694593" parent="56aff82cb8736a9ca92bbf50c786f64a" type="folder">3</container>
-            </did>
-          </c>
-          <c id="e33f86d162b049f78bded98c3f3ce617" level="item">
-            <did>
-              <unittitle>Attachment J. "Use of Mr., Mrs., and Miss in the News." A statement by Dick Sanders, New Director of Station WLBT. Or the reverse side is Attachment K – List of local Negro Programs Scheduled on WLBT-TV since March 1, 1964: (Excluding Announcements, Local News and Local Sports)</unittitle>
-              <unitdate normal="1964/1964" type="inclusive">1964 May 1</unitdate>
-              <container id="c9ce08601e110d048b1c6bb4718216c2" label="mixed materials (A0000000037911)" type="box">1</container>
-              <container id="b31790706166c2c1c3fda28a84ba7136" parent="c9ce08601e110d048b1c6bb4718216c2" type="folder">3</container>
-            </did>
-          </c>
-          <c id="8db5ff1c82b3422ea416882916fcc222" level="item">
-            <did>
-              <unittitle>Petition to intervene and to deny application for renewal of operation license</unittitle>
-              <container id="4262bc22e99d49c459be18ae6de53671" label="mixed materials (A0000000037911)" type="box">1</container>
-              <container id="76cf0dbaa08de0351928185f1ce85e54" parent="4262bc22e99d49c459be18ae6de53671" type="folder">3</container>
-            </did>
-          </c>
-          <c id="77f1a8f077de4f22b2a524270924ded9" level="item">
-            <did>
-              <unittitle>Opposition to the petition</unittitle>
-              <container id="59d2448f5dec2aaa793eb13df65a5b4b" label="mixed materials (A0000000037911)" type="box">1</container>
-              <container id="0b5cfa76bfd707f0eccdf7a813c552fb" parent="59d2448f5dec2aaa793eb13df65a5b4b" type="folder">3</container>
-            </did>
-          </c>
-          <c id="178b4e7a59424b21a408b4d584ff2f48" level="item">
-            <did>
-              <unittitle>Reply to the opposition. All three documents were submitted to the Federal Communications Commission</unittitle>
-              <container id="f860470f7f082c7279fabc8414110104" label="mixed materials (A0000000037911)" type="box">1</container>
-              <container id="96df24d64cc3f089549c0c01ed14db99" parent="f860470f7f082c7279fabc8414110104" type="folder">3</container>
-            </did>
-          </c>
-          <c id="148a046b344240709c9e8711afc09c8b" level="file">
-            <did>
-              <unittitle>Dockets from hearing before the Federal Communications Commission regarding application of the Lamar Life Insurance Company for renewal of license of television station WLBT and auxiliary services, Jackson Mississippi</unittitle>
-              <unitdate normal="1967/1969" type="inclusive">1967-1979</unitdate>
-              <container id="3c0803079059f5513dcc39b29b232201" label="mixed materials (A0000000037911)" type="box">1</container>
-              <container id="9364757aa6abd1289443e762ea352b39" parent="3c0803079059f5513dcc39b29b232201" type="folder">4</container>
-            </did>
-          </c>
-          <c id="db2cbacc374442c49211fc3005f067e1" level="item">
-            <did>
-              <unittitle>Brief for Intervenor</unittitle>
-              <unitdate normal="1969/1969" type="inclusive">1969 January 10</unitdate>
-              <container id="d838a0bf5fb485c3bd9dc1428c29edff" label="mixed materials (A0000000037911)" type="box">1</container>
-              <container id="9ac14efd943c26c4b86cc24bf0267bae" parent="d838a0bf5fb485c3bd9dc1428c29edff" type="folder">5</container>
-            </did>
-          </c>
-          <c id="90551470db5b442a836ce198aa5bd7d2" level="item">
-            <did>
-              <unittitle>Reply Brief for Appellants</unittitle>
-              <unitdate normal="1965/1965" type="inclusive">1965 November 3</unitdate>
-              <container id="66b8143fbb1274efed56684efb65b31e" label="mixed materials (A0000000037911)" type="box">1</container>
-              <container id="06b35506ac1d170a3ff6a545f51f16fc" parent="66b8143fbb1274efed56684efb65b31e" type="folder">5</container>
-            </did>
-          </c>
-          <c id="1d3ff19e44664082b600b2f367887008" level="item">
-            <did>
-              <unittitle>Brief for Appellants (photocopy)</unittitle>
-              <container id="8152f6082cbaae68f1f3faa3b9373eb0" label="mixed materials (A0000000037911)" type="box">1</container>
-              <container id="32148cbaa9c699fc3edb8bd97de5b644" parent="8152f6082cbaae68f1f3faa3b9373eb0" type="folder">5</container>
-            </did>
-          </c>
-          <c id="2ae25275dd4b41f3821abc05000db62b" level="item">
-            <did>
-              <unittitle>"Broadcast Bureau's Comments on Petition for Reconsideration"</unittitle>
-              <container id="977e82ffd18c51fbb5217df607a1f2b8" label="mixed materials (A0000000037911)" type="box">1</container>
-              <container id="0f3184ab2d4e5b76a73fab98a0ac664c" parent="977e82ffd18c51fbb5217df607a1f2b8" type="folder">5</container>
-            </did>
-          </c>
-          <c id="776a0861a89f4268a32e0fb0c7f0fbdb" level="item">
-            <did>
-              <unittitle>"Opposition to Motion to Designate Place of Hearing"</unittitle>
-              <container id="6c28489026ece514de3f01c5b89a7a20" label="mixed materials (A0000000037911)" type="box">1</container>
-              <container id="a6fe58c8933feb14686d84b40fbcaf48" parent="6c28489026ece514de3f01c5b89a7a20" type="folder">5</container>
-            </did>
-          </c>
-          <c id="595a0a89913547d2908b419615ce4f4c" level="item">
-            <did>
-              <unittitle>"Reply of Appellants on Motion to clarify this Court's Opinion and Order"</unittitle>
-              <container id="e1f8de2feae0fd0378cb20788f7a70c5" label="mixed materials (A0000000037911)" type="box">1</container>
-              <container id="bb4e4cbd4b43d22ddc2d78e31a9727bc" parent="e1f8de2feae0fd0378cb20788f7a70c5" type="folder">5</container>
-            </did>
-          </c>
-          <c id="3e4fbe6e99d141b19d282861e1d27932" level="item">
-            <did>
-              <unittitle>"Statement of Commissioner Kenneth A. Cox Concurring in Part and Dissenting in Part"</unittitle>
-              <container id="911d0bc892e3aa6ab22a6ea6e7659d7c" label="mixed materials (A0000000037911)" type="box">1</container>
-              <container id="f9abe263b21373ce117292e6c256fbb5" parent="911d0bc892e3aa6ab22a6ea6e7659d7c" type="folder">5</container>
-            </did>
-          </c>
-          <c id="a1c66a8facaa4bd79a66bb2a7263ef3a" level="item">
-            <did>
-              <unittitle>"Memorandum Opinion and Order"</unittitle>
-              <container id="a705a756b95ac10f61bf7d7fdec13069" label="mixed materials (A0000000037911)" type="box">1</container>
-              <container id="da711466108f8f3ffe60873349564f9f" parent="a705a756b95ac10f61bf7d7fdec13069" type="folder">5</container>
-            </did>
-          </c>
-          <c id="90c3e4030270465285d892178a660e42" level="item">
-            <did>
-              <unittitle>"Notice of Appeal"</unittitle>
-              <container id="5a1c39a7d40630644fe1c1cfeff70c36" label="mixed materials (A0000000037911)" type="box">1</container>
-              <container id="27ac79a39e2020555add3cc625af2f2d" parent="5a1c39a7d40630644fe1c1cfeff70c36" type="folder">5</container>
-            </did>
-          </c>
-        </c>
-        <c id="5f6ddbc878814f82b7208e063f0dceb1" level="subseries">
-          <did>
-            <unittitle>Check Your Local Stations</unittitle>
-            <unitid>D</unitid>
-          </did>
-          <scopecontent id="cc8576f60a3b43b1217e10b3de98f467">
-            <head>Scope and Contents</head>
-            <p>Check Your Local Stations was a program created by the Office of Communications of the United Church of Christ to teach community leaders about communication law and ways to improve broadcasting services to minorities.</p>
-          </scopecontent>
-          <c id="ab13a3875eae4b30a4ae53b3776ac0e2" level="item">
-            <did>
-              <unittitle>Memo regarding Check Your Local Stations regional workshops to train community leaders to "negotiate with broadcasters for improved radio and television service and employment practices"</unittitle>
-              <container id="b2aeb5d1d35b283acece8faa73f9cc9e" label="mixed materials (A0000000037911)" type="box">1</container>
-              <container id="f03eaf9a2429c8b673e2e7cb2fa02924" parent="b2aeb5d1d35b283acece8faa73f9cc9e" type="folder">6</container>
-            </did>
-          </c>
-          <c id="f7fc88abf8fc4bbaafe288cec5a934c3" level="item">
-            <did>
-              <unittitle>Citizen Action in Telecommunications Workshop. Handbook for Participants by Robert Lewis Shayon. A joint program of Office of Communication, United Church of Christ and Media Reform Committee, National Organization for Women</unittitle>
-              <unitdate normal="1979/1979" type="inclusive">1979 March 30 - 31</unitdate>
-              <container id="93ac961d95b309fe9c1af972e6ee997c" label="mixed materials (A0000000037911)" type="box">1</container>
-              <container id="ca4e919a74f6149dda95ba5cea9ad2d3" parent="93ac961d95b309fe9c1af972e6ee997c" type="folder">6</container>
-            </did>
-          </c>
-          <c id="61a9dda1a26f49e09b8638dec068698d" level="file">
-            <did>
-              <unittitle>Report to the Veatch Program</unittitle>
-              <unitdate normal="1976/1977" type="inclusive">1976 January 30 - 1977 April 30</unitdate>
-              <container id="e3b92628ca1dc29f2426f3436cf94e59" label="mixed materials (A0000000037911)" type="box">1</container>
-              <container id="8a687898b51b872354abf40dc3f05873" parent="e3b92628ca1dc29f2426f3436cf94e59" type="folder">7</container>
-            </did>
-          </c>
-          <c id="cc26fc84e0fb47b78199470523555f2d" level="file">
-            <did>
-              <unittitle>Report to the Veatch Program</unittitle>
-              <unitdate normal="1978/1978" type="inclusive">1978 January 1 - December 15</unitdate>
-              <container id="cf2af752f82ed592aafbce5f84fe3d0f" label="mixed materials (A0000000037911)" type="box">1</container>
-              <container id="4abcb9a7ec484a63c129d50880ec9360" parent="cf2af752f82ed592aafbce5f84fe3d0f" type="folder">8</container>
-            </did>
-          </c>
-        </c>
-        <c id="dc2a8114e64d42d1b86ead2384a3cf04" level="subseries">
-          <did>
-            <unittitle>Court Briefs</unittitle>
-            <unitid>E</unitid>
-          </did>
-          <c id="fdcd4f9c7c874759970d61daedcd80e8" level="item">
-            <did>
-              <unittitle>Court Brief in the U.S. Court of Appeals for the Seventh Circuit, Nos. 16,369, 16498, and 16,499. Columbia Broadcasting System, Inc., National Broadcasting Company, Inc., and Radio Television News Directors Associations et al., Petitioners v. Unites States of America, and Federal Communications Commission, Respondents. On petition for Review of an Order of the Federal Communications Commission. (photocopy)</unittitle>
-              <container id="d84568ecbac515be2925588d458c520c" label="mixed materials (A0000000037912)" type="box">2</container>
-              <container id="5ddf993a9cb3c4833691d9bac87d8188" parent="d84568ecbac515be2925588d458c520c" type="folder">9</container>
-            </did>
-          </c>
-          <c id="d47ec4ff39804f0ea10665521b11cf1f" level="item">
-            <did>
-              <unittitle>Court Brief No. 2 and 717 in the Supreme Court of the United States. October Term, 1968. United States of America and Federal Communications Commission, Petitioners v. Radio Television news directors Association, et al., Respondents. Red Lion Broadcasting Co., Inc., et al., Petitioners, v. Federal Communications Commission, Respondent. (photocopy)</unittitle>
-              <unitdate normal="1968/1968" type="inclusive">1968 October</unitdate>
-              <container id="15f5a6b25e8d602ee043676611f6ad4d" label="mixed materials (A0000000037912)" type="box">2</container>
-              <container id="0430891fe884f51779dd090541dafccd" parent="15f5a6b25e8d602ee043676611f6ad4d" type="folder">9</container>
-            </did>
-          </c>
-        </c>
-        <c id="889e3c33d0534ab996ea7f4cea54dbde" level="subseries">
-          <did>
-            <unittitle>Reports and statements</unittitle>
-            <unitid>F</unitid>
-          </did>
-          <c id="4804d4feab384d25a9552b157bfa7cf0" level="file">
-            <did>
-              <unittitle>Grant No. 68-203. Report to the Ford Foundation. Exhibit #1 – Petition to Deny Renewal of License of KTAL-TV</unittitle>
-              <unitdate normal="1969/1969" type="inclusive">1969 March 7</unitdate>
-              <container id="17c69aca4727d1615f0ca6f561b1377d" label="mixed materials (A0000000037912)" type="box">2</container>
-              <container id="6bde1f81a9b056662d6d9b1ea59fc753" parent="17c69aca4727d1615f0ca6f561b1377d" type="folder">10</container>
-            </did>
-          </c>
-          <c id="433849edede946d9a17f61f5e7f6507f" level="file">
-            <did>
-              <unittitle>Grant No. 680-0203D. Report to the Ford Foundation. Office of Communications. United Church of Christ</unittitle>
-              <unitdate normal="1973/1973" type="inclusive">1973 October</unitdate>
-              <container id="1fa08399cbc63500aafe04a6d9132fef" label="mixed materials (A0000000037912)" type="box">2</container>
-              <container id="68839d3cb144c559a2a20408bcdd5d94" parent="1fa08399cbc63500aafe04a6d9132fef" type="folder">11</container>
-            </did>
-          </c>
-          <c id="5d8849f2e7474535b48b3baa0b7f7a68" level="file">
-            <did>
-              <unittitle>Report to Field Foundation AFL-CIO. Office of Communication. United Church of Christ</unittitle>
-              <unitdate normal="1970/1970" type="inclusive">1970</unitdate>
-              <container id="0c4198e1f4cbdbe6bd77ee4eb4542052" label="mixed materials (A0000000037912)" type="box">2</container>
-              <container id="bbd78c50cb08b6dc99c3eac22878631c" parent="0c4198e1f4cbdbe6bd77ee4eb4542052" type="folder">12</container>
-            </did>
-          </c>
-          <c id="7479ce5e62ae414cb70853581b4f6dc3" level="item">
-            <did>
-              <unittitle>"Excerpts from a statement by a joint committee of the World Association for Christian Communication and the National Council of the Churches of Christ in the U.S.A. on 'Communication in an Emerging World Order'"</unittitle>
-              <container id="4d923591a0a661877928dfc4c4cf59df" label="mixed materials (A0000000037912)" type="box">2</container>
-              <container id="9d095ef10d5d3ad80720ff27205a0ffb" parent="4d923591a0a661877928dfc4c4cf59df" type="folder">13</container>
-            </did>
-          </c>
-          <c id="c04b0e4dbf334562bcbecc991ba6f454" level="item">
-            <did>
-              <unittitle>"Broadcast Television in a Multichannel Marketplace" by Florence Setzer and Jonathan Levy. OPP Working Paper No. 26. Office of Plans and Policy. Federal Communications Commission</unittitle>
-              <unitdate normal="1991/1991" type="inclusive">1991 June</unitdate>
-              <container id="ea3b96009b0bbc71f4b125de2ad2da42" label="mixed materials (A0000000037912)" type="box">2</container>
-              <container id="0321fb4af3af440ffc8d00796e2f57f6" parent="ea3b96009b0bbc71f4b125de2ad2da42" type="folder">13</container>
-            </did>
-          </c>
-        </c>
-        <c id="efa47b852e344f35990f0df75719f830" level="subseries">
-          <did>
-            <unittitle>Handbooks</unittitle>
-            <unitid>G</unitid>
-          </did>
-          <c id="3441bb6053234772988926dc74a2ff10" level="file">
-            <did>
-              <unittitle>"Public Action for Radio Workshop." Handbook for Participants by Robert Lewis Shayon. A Project of Telecommunications Consumer Coalition</unittitle>
-              <unitdate normal="1979/1979" type="inclusive">1979 December 15</unitdate>
-              <container id="9e21fdf5a74bada246d8bed0b86cde45" label="mixed materials (A0000000037912)" type="box">2</container>
-              <container id="9d1f47e8a842636510d4d888177f6062" parent="9e21fdf5a74bada246d8bed0b86cde45" type="folder">14</container>
-            </did>
-          </c>
-        </c>
-      </c>
-    </dsc>
-  </archdesc>
+G. Handbooks</p></arrangement><c id="ef2bc0522e004769a3bde95aa4a6253b" level="subseries"><did><unittitle>Broadcast Monitoring Study</unittitle><unitid>A</unitid><unitdate normal="1964/1966" type="inclusive">1964-1966</unitdate></did><c id="d0704895ecdc439c9c91a02884db4cdb" level="item"><did><unittitle>"Observation of Television Programming." Packet of instructions and an Observer's Log Sheet issued by the Office of Communication, United Church of Christ</unittitle><container altrender="Legal Document Box" id="f4fcc49db00ecc5758d9e61a3d711478" label="mixed materials [A0000000037911]" type="box">1</container><container id="fa43ca2eb4cde1f126fd4e67e634946b" parent="f4fcc49db00ecc5758d9e61a3d711478" type="folder">1</container></did></c><c id="1b4e0373874d4984bd3ffe4e525db593" level="item"><did><unittitle>Attachment A. "Relevant facts concerning churches and instrumentalities of the United Church of Christ."  Includes exhibits 1 and 2</unittitle><container altrender="Legal Document Box" id="15d4705e505c98ec3fff550b7a04363a" label="mixed materials [A0000000037911]" type="box">1</container><container id="6aeb4766426f8c48decc9f454e072d30" parent="15d4705e505c98ec3fff550b7a04363a" type="folder">1</container></did></c><c id="d62449388ff14b3f8015ec1983226b26" level="item"><did><unittitle>Attachment B. "Documents relative to the monitoring study." Exhibit #1a-d and Exhibit #2 are listed, however, Exhibit #1d and Exhibit #2 are missing</unittitle><unitdate normal="1964/1964" type="inclusive">1964 March 1 - 7</unitdate><container altrender="Legal Document Box" id="0e7e2e21be87f42be5f103d00e53134e" label="mixed materials [A0000000037911]" type="box">1</container><container id="458e56cc1cc862c4323df0e9ca1b8b4c" parent="0e7e2e21be87f42be5f103d00e53134e" type="folder">1</container></did></c><c id="11d0c9ac13ea4d429af83a2afa3b6850" level="item"><did><unittitle>Budget – "Television Monitoring Study and Legal Briefs, Jackson, Mississippi, April, 1964 through May, 1966"</unittitle><unitdate normal="1964/1966" type="inclusive">1964 April - 1966 May</unitdate><container altrender="Legal Document Box" id="5e17efba51478ad0e00859ead3306da3" label="mixed materials [A0000000037911]" type="box">1</container><container id="7a84ab1b861e330d3094342841ae364a" parent="5e17efba51478ad0e00859ead3306da3" type="folder">1</container></did></c></c><c id="98afedcd449941ae879c71f17b8f5c3c" level="subseries"><did><unittitle>Letters</unittitle><unitid>B</unitid><unitdate normal="1979/1980" type="inclusive">1979-1980</unitdate></did><c id="6ec95370afac4869aef01df8936c3f04" level="item"><did><unittitle>Letter from George A. Owens, President and Robert O. Wilder, Chairman of Tougaloo College to Dr. C. Shelby Rooks, Chairman, Seminary Section of the CHE, Chicago Theological Seminary</unittitle><unitdate normal="1980/1980" type="inclusive">1980 September 12</unitdate><container altrender="Legal Document Box" id="24a760a2e7848991ba8d38c50d16ddcc" label="mixed materials [A0000000037911]" type="box">1</container><container id="549bbb9b5f07491397e99f25e25d842d" parent="24a760a2e7848991ba8d38c50d16ddcc" type="folder">2</container></did></c><c id="8f7933ffb2744b9eb8420703ca782caf" level="item"><did><unittitle>Two letters of support sent to Reverend Everett C. Parker, Director, Office of Communications, United Church of Christ</unittitle><unitdate normal="1979/1979" type="inclusive">1979</unitdate><container altrender="Legal Document Box" id="8ff6a57d92f57f9c3d9aaf34d012936b" label="mixed materials [A0000000037911]" type="box">1</container><container id="aa6684fb983aa778eb2bb5a8ecaa0a34" parent="8ff6a57d92f57f9c3d9aaf34d012936b" type="folder">2</container></did></c></c><c id="3d23f7dc631048489fa305460af58eca" level="subseries"><did><unittitle>Lamar Life Broadcasting</unittitle><unitid>C</unitid></did><scopecontent id="9542d78555a84797a4d3672842c21848"><head>Scope and Contents</head><p>Folder 5 contains documents related to case number 19409 in the United States Court of Appeals for the District of Columbia Circuit. Office of Communications of the United Church of Christ, Aaron Henry Robert L.T. Smith, and United Church of Christ at Tougaloo, Appellants, v. Federal Communications Commission, Appellee, Lamar Life Broadcasting Company, Intervenor.</p></scopecontent><c id="bbf88efe3da641ea9fbab3515c2d6922" level="item"><did><unittitle>"Analysis of Programming of WLBT, Channel 3 for period March 1 through March 7 inclusive by program type"</unittitle><container altrender="Legal Document Box" id="e67071fede10f529f9f660484ad58924" label="mixed materials [A0000000037911]" type="box">1</container><container id="902b99187086ddb612b77d3a1159f575" parent="e67071fede10f529f9f660484ad58924" type="folder">3</container></did></c><c id="e33f86d162b049f78bded98c3f3ce617" level="item"><did><unittitle>Attachment J. "Use of Mr., Mrs., and Miss in the News." A statement by Dick Sanders, New Director of Station WLBT. Or the reverse side is Attachment K – List of local Negro Programs Scheduled on WLBT-TV since March 1, 1964: (Excluding Announcements, Local News and Local Sports)</unittitle><unitdate normal="1964/1964" type="inclusive">1964 May 1</unitdate><container altrender="Legal Document Box" id="00e6abc33eb3a6eeec49fa1a7b18a679" label="mixed materials [A0000000037911]" type="box">1</container><container id="f7eb925fcaad2448ec96a1dde35bd2d9" parent="00e6abc33eb3a6eeec49fa1a7b18a679" type="folder">3</container></did></c><c id="8db5ff1c82b3422ea416882916fcc222" level="item"><did><unittitle>Petition to intervene and to deny application for renewal of operation license</unittitle><container altrender="Legal Document Box" id="af2ea2497d767eb313ce9e8c8758262c" label="mixed materials [A0000000037911]" type="box">1</container><container id="d22beac2e10f968e68db3573ed75724e" parent="af2ea2497d767eb313ce9e8c8758262c" type="folder">3</container></did></c><c id="77f1a8f077de4f22b2a524270924ded9" level="item"><did><unittitle>Opposition to the petition</unittitle><container altrender="Legal Document Box" id="c52a35302cea1fed2cef4af7dcfe269f" label="mixed materials [A0000000037911]" type="box">1</container><container id="fc7dc0e4b55af53324e0fb24acda1996" parent="c52a35302cea1fed2cef4af7dcfe269f" type="folder">3</container></did></c><c id="178b4e7a59424b21a408b4d584ff2f48" level="item"><did><unittitle>Reply to the opposition. All three documents were submitted to the Federal Communications Commission</unittitle><container altrender="Legal Document Box" id="7b89c260bfbbaead28d4d51a50bc5077" label="mixed materials [A0000000037911]" type="box">1</container><container id="d65a0ce17eb29eb1c5eaebf793f57faf" parent="7b89c260bfbbaead28d4d51a50bc5077" type="folder">3</container></did></c><c id="148a046b344240709c9e8711afc09c8b" level="file"><did><unittitle>Dockets from hearing before the Federal Communications Commission regarding application of the Lamar Life Insurance Company for renewal of license of television station WLBT and auxiliary services, Jackson Mississippi</unittitle><unitdate normal="1967/1969" type="inclusive">1967-1979</unitdate><container altrender="Legal Document Box" id="cf6f188123d5f4ce8f7967e32e1aabdf" label="mixed materials [A0000000037911]" type="box">1</container><container id="f5f30b60633f17f991712a7ac7eae91d" parent="cf6f188123d5f4ce8f7967e32e1aabdf" type="folder">4</container></did></c><c id="db2cbacc374442c49211fc3005f067e1" level="item"><did><unittitle>Brief for Intervenor</unittitle><unitdate normal="1969/1969" type="inclusive">1969 January 10</unitdate><container altrender="Legal Document Box" id="cfaaa161bbc2900c09c98872539f9e0d" label="mixed materials [A0000000037911]" type="box">1</container><container id="b606c6cdcb24a68373fed834c7ee5af7" parent="cfaaa161bbc2900c09c98872539f9e0d" type="folder">5</container></did></c><c id="90551470db5b442a836ce198aa5bd7d2" level="item"><did><unittitle>Reply Brief for Appellants</unittitle><unitdate normal="1965/1965" type="inclusive">1965 November 3</unitdate><container altrender="Legal Document Box" id="cc117c45818042f399a88b89287364b6" label="mixed materials [A0000000037911]" type="box">1</container><container id="4e8bcdc9ff8808d5de0782035947767e" parent="cc117c45818042f399a88b89287364b6" type="folder">5</container></did></c><c id="1d3ff19e44664082b600b2f367887008" level="item"><did><unittitle>Brief for Appellants (photocopy)</unittitle><container altrender="Legal Document Box" id="e5ecb87a86eef8a78ef87c1086da4597" label="mixed materials [A0000000037911]" type="box">1</container><container id="9cc0911ce749a8f837c2584a1487e826" parent="e5ecb87a86eef8a78ef87c1086da4597" type="folder">5</container></did></c><c id="2ae25275dd4b41f3821abc05000db62b" level="item"><did><unittitle>"Broadcast Bureau's Comments on Petition for Reconsideration"</unittitle><container altrender="Legal Document Box" id="5652884a3dd998b4b97cb245141c16c4" label="mixed materials [A0000000037911]" type="box">1</container><container id="019e6f2a5c99f26d8c098641b852689d" parent="5652884a3dd998b4b97cb245141c16c4" type="folder">5</container></did></c><c id="776a0861a89f4268a32e0fb0c7f0fbdb" level="item"><did><unittitle>"Opposition to Motion to Designate Place of Hearing"</unittitle><container altrender="Legal Document Box" id="5bbc5d4c077aec1ee2080ad0376ea233" label="mixed materials [A0000000037911]" type="box">1</container><container id="6945fe01619d64fc84c189e3707136c5" parent="5bbc5d4c077aec1ee2080ad0376ea233" type="folder">5</container></did></c><c id="595a0a89913547d2908b419615ce4f4c" level="item"><did><unittitle>"Reply of Appellants on Motion to clarify this Court's Opinion and Order"</unittitle><container altrender="Legal Document Box" id="9bceefc66f0a05155f3244d960ef1fb4" label="mixed materials [A0000000037911]" type="box">1</container><container id="8e68c3f832167379722a7dc07fef46a1" parent="9bceefc66f0a05155f3244d960ef1fb4" type="folder">5</container></did></c><c id="3e4fbe6e99d141b19d282861e1d27932" level="item"><did><unittitle>"Statement of Commissioner Kenneth A. Cox Concurring in Part and Dissenting in Part"</unittitle><container altrender="Legal Document Box" id="7459b1ee8b8cc8342aa5a705f5e665c2" label="mixed materials [A0000000037911]" type="box">1</container><container id="1362cc1bfaef941d64365cfcc16ab298" parent="7459b1ee8b8cc8342aa5a705f5e665c2" type="folder">5</container></did></c><c id="a1c66a8facaa4bd79a66bb2a7263ef3a" level="item"><did><unittitle>"Memorandum Opinion and Order"</unittitle><container altrender="Legal Document Box" id="47fad26c690aa7a4f0be2b38f8d61b7f" label="mixed materials [A0000000037911]" type="box">1</container><container id="787fecfb7a624487707847321b4b5ad1" parent="47fad26c690aa7a4f0be2b38f8d61b7f" type="folder">5</container></did></c><c id="90c3e4030270465285d892178a660e42" level="item"><did><unittitle>"Notice of Appeal"</unittitle><container altrender="Legal Document Box" id="e002a3775e1f8d5b2ff5c5ae152b48c4" label="mixed materials [A0000000037911]" type="box">1</container><container id="97984d474fa5e36fa26881d2acc1a2b2" parent="e002a3775e1f8d5b2ff5c5ae152b48c4" type="folder">5</container></did></c></c><c id="5f6ddbc878814f82b7208e063f0dceb1" level="subseries"><did><unittitle>Check Your Local Stations</unittitle><unitid>D</unitid></did><scopecontent id="cc8576f60a3b43b1217e10b3de98f467"><head>Scope and Contents</head><p>Check Your Local Stations was a program created by the Office of Communications of the United Church of Christ to teach community leaders about communication law and ways to improve broadcasting services to minorities.</p></scopecontent><c id="ab13a3875eae4b30a4ae53b3776ac0e2" level="item"><did><unittitle>Memo regarding Check Your Local Stations regional workshops to train community leaders to "negotiate with broadcasters for improved radio and television service and employment practices"</unittitle><container altrender="Legal Document Box" id="01bd48468dde9ce914f8397eacf4e7cb" label="mixed materials [A0000000037911]" type="box">1</container><container id="f0138fb886476292d951e0186a3fb27c" parent="01bd48468dde9ce914f8397eacf4e7cb" type="folder">6</container></did></c><c id="f7fc88abf8fc4bbaafe288cec5a934c3" level="item"><did><unittitle>Citizen Action in Telecommunications Workshop. Handbook for Participants by Robert Lewis Shayon. A joint program of Office of Communication, United Church of Christ and Media Reform Committee, National Organization for Women</unittitle><unitdate normal="1979/1979" type="inclusive">1979 March 30 - 31</unitdate><container altrender="Legal Document Box" id="97682a5b2621ad6306b3772936aa430f" label="mixed materials [A0000000037911]" type="box">1</container><container id="5562d919336b47aa1187c7d87f623f56" parent="97682a5b2621ad6306b3772936aa430f" type="folder">6</container></did></c><c id="61a9dda1a26f49e09b8638dec068698d" level="file"><did><unittitle>Report to the Veatch Program</unittitle><unitdate normal="1976/1977" type="inclusive">1976 January 30 - 1977 April 30</unitdate><container altrender="Legal Document Box" id="a49874a1d7db4c869c11e67370bccc46" label="mixed materials [A0000000037911]" type="box">1</container><container id="9588392c875c37ac370d9512c5166bf3" parent="a49874a1d7db4c869c11e67370bccc46" type="folder">7</container></did></c><c id="cc26fc84e0fb47b78199470523555f2d" level="file"><did><unittitle>Report to the Veatch Program</unittitle><unitdate normal="1978/1978" type="inclusive">1978 January 1 - December 15</unitdate><container altrender="Legal Document Box" id="1d3102879e92f2f3774ea8b2eecbd903" label="mixed materials [A0000000037911]" type="box">1</container><container id="fca9fd1328382ebc625367dace8ca86d" parent="1d3102879e92f2f3774ea8b2eecbd903" type="folder">8</container></did></c></c><c id="dc2a8114e64d42d1b86ead2384a3cf04" level="subseries"><did><unittitle>Court Briefs</unittitle><unitid>E</unitid></did><c id="fdcd4f9c7c874759970d61daedcd80e8" level="item"><did><unittitle>Court Brief in the U.S. Court of Appeals for the Seventh Circuit, Nos. 16,369, 16498, and 16,499. Columbia Broadcasting System, Inc., National Broadcasting Company, Inc., and Radio Television News Directors Associations et al., Petitioners v. Unites States of America, and Federal Communications Commission, Respondents. On petition for Review of an Order of the Federal Communications Commission. (photocopy)</unittitle><container altrender="Legal Document Box" id="eaf0bb24c93bab213cb3153ddfec338f" label="mixed materials [A0000000037912]" type="box">2</container><container id="48bcb842d9a21d4282af079bb55ba1f7" parent="eaf0bb24c93bab213cb3153ddfec338f" type="folder">9</container></did></c><c id="d47ec4ff39804f0ea10665521b11cf1f" level="item"><did><unittitle>Court Brief No. 2 and 717 in the Supreme Court of the United States. October Term, 1968. United States of America and Federal Communications Commission, Petitioners v. Radio Television news directors Association, et al., Respondents. Red Lion Broadcasting Co., Inc., et al., Petitioners, v. Federal Communications Commission, Respondent. (photocopy)</unittitle><unitdate normal="1968/1968" type="inclusive">1968 October</unitdate><container altrender="Legal Document Box" id="e34aab0658ea10b52bc36ee2f62ac39e" label="mixed materials [A0000000037912]" type="box">2</container><container id="31dd15464cd3b5a666e6d616f872e95c" parent="e34aab0658ea10b52bc36ee2f62ac39e" type="folder">9</container></did></c></c><c id="889e3c33d0534ab996ea7f4cea54dbde" level="subseries"><did><unittitle>Reports and statements</unittitle><unitid>F</unitid></did><c id="4804d4feab384d25a9552b157bfa7cf0" level="file"><did><unittitle>Grant No. 68-203. Report to the Ford Foundation. Exhibit #1 – Petition to Deny Renewal of License of KTAL-TV</unittitle><unitdate normal="1969/1969" type="inclusive">1969 March 7</unitdate><container altrender="Legal Document Box" id="46688b4d8a3660c6e3b08e1c2fa97966" label="mixed materials [A0000000037912]" type="box">2</container><container id="76181e38c9ff3ec40b791b8122677067" parent="46688b4d8a3660c6e3b08e1c2fa97966" type="folder">10</container></did></c><c id="433849edede946d9a17f61f5e7f6507f" level="file"><did><unittitle>Grant No. 680-0203D. Report to the Ford Foundation. Office of Communications. United Church of Christ</unittitle><unitdate normal="1973/1973" type="inclusive">1973 October</unitdate><container altrender="Legal Document Box" id="f94a67076c05be42a1f0335e108f8a5d" label="mixed materials [A0000000037912]" type="box">2</container><container id="0960eae6ea8ffd4595164e266d1e6c87" parent="f94a67076c05be42a1f0335e108f8a5d" type="folder">11</container></did></c><c id="5d8849f2e7474535b48b3baa0b7f7a68" level="file"><did><unittitle>Report to Field Foundation AFL-CIO. Office of Communication. United Church of Christ</unittitle><unitdate normal="1970/1970" type="inclusive">1970</unitdate><container altrender="Legal Document Box" id="432b931d1074afbe8715052a1fa888a5" label="mixed materials [A0000000037912]" type="box">2</container><container id="0a79bee88d9036830b6742ac17bc41a1" parent="432b931d1074afbe8715052a1fa888a5" type="folder">12</container></did></c><c id="7479ce5e62ae414cb70853581b4f6dc3" level="item"><did><unittitle>"Excerpts from a statement by a joint committee of the World Association for Christian Communication and the National Council of the Churches of Christ in the U.S.A. on 'Communication in an Emerging World Order'"</unittitle><container altrender="Legal Document Box" id="846dcb9f5a3943239051e4dd9b8dd3ac" label="mixed materials [A0000000037912]" type="box">2</container><container id="b02179226d01e03c03ef749ec86fbb4f" parent="846dcb9f5a3943239051e4dd9b8dd3ac" type="folder">13</container></did></c><c id="c04b0e4dbf334562bcbecc991ba6f454" level="item"><did><unittitle>"Broadcast Television in a Multichannel Marketplace" by Florence Setzer and Jonathan Levy. OPP Working Paper No. 26. Office of Plans and Policy. Federal Communications Commission</unittitle><unitdate normal="1991/1991" type="inclusive">1991 June</unitdate><container altrender="Legal Document Box" id="c48a02011bfe80e1198b255a74fb9180" label="mixed materials [A0000000037912]" type="box">2</container><container id="ee414dafa5dca48b33844b941ebf56d4" parent="c48a02011bfe80e1198b255a74fb9180" type="folder">13</container></did></c></c><c id="efa47b852e344f35990f0df75719f830" level="subseries"><did><unittitle>Handbooks</unittitle><unitid>G</unitid></did><c id="3441bb6053234772988926dc74a2ff10" level="file"><did><unittitle>"Public Action for Radio Workshop." Handbook for Participants by Robert Lewis Shayon. A Project of Telecommunications Consumer Coalition</unittitle><unitdate normal="1979/1979" type="inclusive">1979 December 15</unitdate><container altrender="Legal Document Box" id="251981eff64fc9ab187e4eda6d4c0a90" label="mixed materials [A0000000037912]" type="box">2</container><container id="c255cc5884bcc568269659bfc21e47ba" parent="251981eff64fc9ab187e4eda6d4c0a90" type="folder">14</container></did></c></c></c></dsc>
+</archdesc>
 </ead>
