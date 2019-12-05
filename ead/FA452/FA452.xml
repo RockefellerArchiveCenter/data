@@ -1,50 +1,27 @@
-<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
-  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" repositoryencoding="iso15511">
-    <eadid>FA452.xml</eadid>
-    <filedesc>
-      <titlestmt>
-        <titleproper type="filing">Laurance S. Rockefeller family photographs, Series 1009</titleproper>
-        <titleproper>A Guide to the Laurance S. Rockefeller family photographs, Series 1009
- <num>FA452</num></titleproper>
-      </titlestmt>
-      <publicationstmt>
-        <publisher>Rockefeller Archive Center</publisher>
-        <address>
-          <addressline>15 Dayton Avenue</addressline>
-          <addressline>Sleepy Hollow 10591</addressline>
-          <addressline>archive@rockarch.org</addressline>
-          <addressline>URL: <extptr xlink:href="http://www.rockarch.org" xlink:show="new" xlink:title="http://www.rockarch.org" xlink:type="simple"/></addressline>
-        </address>
-      </publicationstmt>
-    </filedesc>
-    <profiledesc>
-      <creation>This finding aid was produced using ArchivesSpace on <date>2017-03-02 08:56:36 -0500</date>.</creation>
-      <langusage>English</langusage>
-      <descrules>Describing Archives: A Content Standard</descrules>
-    </profiledesc>
-  </eadheader>
-  <archdesc level="series">
-    <did>
-      <langmaterial>
-        <language langcode="eng">English</language>
-      </langmaterial>
-      <repository>
-        <corpname>Rockefeller Archive Center</corpname>
-      </repository>
-      <unittitle>Laurance S. Rockefeller family photographs, Series 1009</unittitle>
-      <origination label="creator">
-        <persname role="aut" source="lcnaf">Rockefeller, Laurance Spelman</persname>
-      </origination>
-      <unitid>FA452</unitid>
-      <physdesc altrender="whole">
-        <extent altrender="materialtype spaceoccupied">6 Cubic Feet</extent>
-        <extent altrender="carrier">Extent is approximate.</extent>
-      </physdesc>
-      <unitdate>undated</unitdate>
-    </did>
-    <arrangement id="e67044bf2785712c97db3686c401faf5">
-      <head>Arrangement</head>
-      <p>Rockefeller family photographic holdings are arranged into the following series:
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid>FA452.xml</eadid><filedesc><titlestmt><titleproper type="filing">Laurance S. Rockefeller family photographs, Series 1009</titleproper><titleproper>A Guide to the Laurance S. Rockefeller family photographs, Series 1009
+ <num>FA452</num></titleproper></titlestmt><publicationstmt><publisher>Rockefeller Archive Center</publisher><address><addressline>15 Dayton Avenue</addressline><addressline>Sleepy Hollow 10591</addressline><addressline>archive@rockarch.org</addressline><addressline>URL: <extptr xlink:href="http://www.rockarch.org" xlink:show="new" xlink:title="http://www.rockarch.org" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2019-12-05 00:36:10 -0500</date>.</creation><langusage>English</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="series">
+  <did>
+    <langmaterial>
+      <language langcode="eng">English</language>
+    </langmaterial>
+    <repository>
+      <corpname>Rockefeller Archive Center</corpname>
+    </repository>
+    <unittitle>Laurance S. Rockefeller family photographs, Series 1009</unittitle>
+    <origination label="Creator">
+      <persname role="aut" source="naf">Rockefeller, Laurance Spelman</persname>
+    </origination>
+    <unitid>FA452</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">6 Cubic Feet</extent>
+      <extent altrender="carrier">Extent is approximate.</extent>
+    </physdesc>
+    <unitdate>undated</unitdate>
+  </did>
+  <arrangement id="e67044bf2785712c97db3686c401faf5">
+    <head>Arrangement</head>
+<p>Rockefeller family photographic holdings are arranged into the following series:
  
 Rockefeller family and Avery family photographs, Series 1001.
 William Avery Rockefeller family photographs, Series 1002.
@@ -55,217 +32,24 @@ Pocantico Hills photographs, Series 1006.
 John D. Rockefeller 3rd family photographs, Series 1007.
 Nelson A. Rockefeller family photographs, Series 1008.
 Laurance S. Rockefeller family photographs, Series 1009.
-David Rockefeller family photographs, Series 1010.</p>
-    </arrangement>
-    <otherfindaid id="9dc3525c5c0da7c7ac0c256a4a177a7c">
-      <head>Other Finding Aids</head>
-      <p>For other Rockefeller family photographic holdings, please see the following finding aids:</p>
-      <p>
-        <extref href="../FA445/overview"> FA445 Rockefeller family and Avery family photographs, Series 1001</extref>
-      </p>
-      <p>
-        <extref href="../FA446/overview"> FA446 William Avery Rockefeller family photographs, Series 1002</extref>
-      </p>
-      <p>
-        <extref href="../FA447/overview"> FA447 John D. Rockefeller family photographs, Series 1003</extref>
-      </p>
-      <p>
-        <extref href="../FA448/overview"> FA448 William Rockefeller family photographs, Series 1004</extref>
-      </p>
-      <p>
-        <extref href="../FA449/overview"> FA449 John D. Rockefeller Jr. family photographs, Series 1005</extref>
-      </p>
-      <p>
-        <extref href="../FA450/overview"> FA450 Pocantico Hills photographs, Series 1006</extref>
-      </p>
-      <p>
-        <extref href="../FA451/overview"> FA451 John D. Rockefeller 3rd family photographs, Series 1007</extref>
-      </p>
-      <p>
-        <extref href="../FA454/overview"> FA454 Nelson A. Rockefeller photographs, Series 1008</extref>
-      </p>
-      <p>
-        <extref href="../FA453/overview"> FA453 David Rockefeller family photographs, Series 1010</extref>
-      </p>
-    </otherfindaid>
-    <prefercite id="fe762823ea553d345b7fb6ce3a9c291b">
-      <head>Preferred Citation</head>
-      <p>Information regarding the Rockefeller Archive Center's preferred elements and forms of citation can be found at <extref href="http://www.rockarch.org/research/citations.php">http://www.rockarch.org/research/citations.php</extref></p>
-    </prefercite>
-    <accessrestrict id="0814c1ccbd373d908af53b7fe240cfee">
-      <head>Conditions Governing Access</head>
-      <p>Open for research with select materials restricted as noted. Brittle or damaged items are available at the discretion of RAC. Researchers interested in accessing digital media (floppy disks, CDs, DVDs, etc.) or audiovisual material (audio cassettes, VHS, etc.) in this collection must use an access surrogate. The original items may not be accessed because of preservation concerns. To request an access surrogate be made, or if you are unsure if there is an access surrogate, please contact an archivist.</p>
-    </accessrestrict>
-    <userestrict id="ed14ec9af369a2f9c0753ed2d4658058">
-      <head>Conditions Governing Use</head>
-      <p>Permission is required in order to publish or otherwise use photographs and other visual materials of living members of the Rockefeller family. See RAC Head of Reference for details. </p>
-      <p>RAC users must abide by all applicable provisions of United States copyright law.</p>
-    </userestrict>
-    <scopecontent id="4481fd1deaee75f1e47480866ef6be32">
-      <head>Scope and Contents</head>
-      <p>Types of records include: photographs.</p>
-    </scopecontent>
-    <dsc>
-      <c id="630858aa07c641f2b061cee5f2a5ebb7" level="series">
-        <did>
-          <unittitle>Laurance S. Rockefeller family photographs</unittitle>
-          <unitid>1009</unitid>
-        </did>
-        <arrangement id="211c88f1457de1aace367b24386e5ca8">
-          <head>Arrangement</head>
-          <p>For ease of access, the material is further arranged by:</p>
-          <p>Prints (Boxes P 1, P 2, P 3, etc.).
+David Rockefeller family photographs, Series 1010.</p>  </arrangement>
+  <otherfindaid id="9dc3525c5c0da7c7ac0c256a4a177a7c">
+    <head>Other Finding Aids</head>
+<p>For other Rockefeller family photographic holdings, please see the following finding aids:</p><p><extref href="../FA445/overview"> FA445 Rockefeller family and Avery family photographs, Series 1001</extref></p><p><extref href="../FA446/overview"> FA446 William Avery Rockefeller family photographs, Series 1002</extref></p><p><extref href="../FA447/overview"> FA447 John D. Rockefeller family photographs, Series 1003</extref></p><p><extref href="../FA448/overview"> FA448 William Rockefeller family photographs, Series 1004</extref></p><p><extref href="../FA449/overview"> FA449 John D. Rockefeller Jr. family photographs, Series 1005</extref></p><p><extref href="../FA450/overview"> FA450 Pocantico Hills photographs, Series 1006</extref></p><p><extref href="../FA451/overview"> FA451 John D. Rockefeller 3rd family photographs, Series 1007</extref></p><p><extref href="../FA454/overview"> FA454 Nelson A. Rockefeller photographs, Series 1008</extref></p><p><extref href="../FA453/overview"> FA453 David Rockefeller family photographs, Series 1010</extref></p>  </otherfindaid>
+  <prefercite id="fe762823ea553d345b7fb6ce3a9c291b">
+    <head>Preferred Citation</head>
+<p>Information regarding the Rockefeller Archive Center's preferred elements and forms of citation can be found at <extref href="http://www.rockarch.org/research/citations.php">http://www.rockarch.org/research/citations.php</extref></p>  </prefercite>
+  <accessrestrict id="0814c1ccbd373d908af53b7fe240cfee">
+    <head>Conditions Governing Access</head>
+<p>Open for research with select materials restricted as noted. Brittle or damaged items are available at the discretion of RAC. Researchers interested in accessing digital media (floppy disks, CDs, DVDs, etc.) or audiovisual material (audio cassettes, VHS, etc.) in this collection must use an access surrogate. The original items may not be accessed because of preservation concerns. To request an access surrogate be made, or if you are unsure if there is an access surrogate, please contact an archivist.</p>  </accessrestrict>
+  <userestrict id="ed14ec9af369a2f9c0753ed2d4658058">
+    <head>Conditions Governing Use</head>
+<p>Permission is required in order to publish or otherwise use photographs and other visual materials of living members of the Rockefeller family. See RAC Head of Reference for details. </p><p>RAC users must abide by all applicable provisions of United States copyright law.</p>  </userestrict>
+  <scopecontent id="4481fd1deaee75f1e47480866ef6be32">
+    <head>Scope and Contents</head>
+<p>Types of records include: photographs.</p>  </scopecontent>
+  <dsc><c id="630858aa07c641f2b061cee5f2a5ebb7" level="series"><did><unittitle>Laurance S. Rockefeller family photographs</unittitle><unitid>1009</unitid></did><arrangement id="211c88f1457de1aace367b24386e5ca8"><head>Arrangement</head><p>For ease of access, the material is further arranged by:</p><p>Prints (Boxes P 1, P 2, P 3, etc.).
 Oversized (Boxes: O 1, O 2, O 3, C 1, C 2, C 3, etc.).
-Scrapbooks (Boxes S 1, S 2, S 3, etc.).</p>
-        </arrangement>
-        <c id="723011ae4a9f46a1bc3f0fc46f499949" level="otherlevel" otherlevel="unspecified">
-          <did>
-            <unittitle>Prints</unittitle>
-          </did>
-          <c id="fc8a604b04c84e5d9037f88b8ed77317" level="file">
-            <did>
-              <unittitle>Boat</unittitle>
-              <container id="cfcfc537b5fe68ff5353434354053946" label="Still Image (470594.P 155.318)" type="box">P 155</container>
-            </did>
-          </c>
-          <c id="bf89c5642d024292872d50d01285e095" level="file">
-            <did>
-              <unittitle>Group Portraits - Family</unittitle>
-              <container id="3356fc3730d96ae30f9f978cadc8f923" label="Still Image (470594.P 155.318)" type="box">P 155</container>
-            </did>
-          </c>
-          <c id="dec6152d6ed2481995cb48e242377680" level="file">
-            <did>
-              <unittitle>LSR - Business</unittitle>
-              <container id="41e35fafb17c47238b3b3db7653975b5" label="Still Image (470594.P 155.318)" type="box">P 155</container>
-            </did>
-          </c>
-          <c id="2ed4d91cb5c544368a0438475313fad5" level="file">
-            <did>
-              <unittitle>LSR - Conservation - Outdoor Recreation Resource Review Commission (ORRRC)</unittitle>
-              <container id="1b2da3fcccc6d229425f2ba3a9182e0b" label="Still Image (470594.P 155.318)" type="box">P 155</container>
-            </did>
-          </c>
-          <c id="91ef637dcf6d451a89f3d081f4b50852" level="file">
-            <did>
-              <unittitle>LSR - Miscellaneous</unittitle>
-              <container id="658798686a660682927fdfcd5572f025" label="Still Image (470594.P 155.318)" type="box">P 155</container>
-            </did>
-          </c>
-          <c id="b0df40695fed4841bb535b454b1dc5a5" level="file">
-            <did>
-              <unittitle>LSR - Philanthropies</unittitle>
-              <container id="acfdf51c4744e586630f797e4d36f8ed" label="Still Image (470594.P 155.318)" type="box">P 155</container>
-            </did>
-          </c>
-          <c id="42bead68f3d0439c94bc954fc4c11005" level="file">
-            <did>
-              <unittitle>LSR - Philanthropies - Ramon Magsaysay Award Foundation</unittitle>
-              <container id="2b06e0245a0b3e25cc92f98252c010d7" label="Still Image (470594.P 155.318)" type="box">P 155</container>
-            </did>
-          </c>
-          <c id="037bd3dff16148dda27edb1be0118791" level="file">
-            <did>
-              <unittitle>LSR - Portraits</unittitle>
-              <container id="a29d845880a85cd1c0bfabab72e23238" label="Still Image (470594.P 155.318)" type="box">P 155</container>
-            </did>
-          </c>
-        </c>
-        <c id="efca9140b7204dbf86591487e67e323a" level="otherlevel" otherlevel="unspecified">
-          <did>
-            <unittitle>Oversized</unittitle>
-          </did>
-          <c id="19f09d8456bd42c0a402cd34782b9df9" level="file">
-            <did>
-              <unittitle>LSR family</unittitle>
-              <container id="148a9ef38b0cbe0cfc44bfc3552bf7f8" label="Still Image (470603.C 5.318)" type="box">C 5</container>
-            </did>
-            <processinfo id="a9a95d8d02d6cc81122419458e0d72cd">
-              <head>Processing Information</head>
-              <p>Material has been boxed; otherwise remains as received.</p>
-            </processinfo>
-            <userestrict id="f4e54fc3bc5b8f98cab7bf3f65c9f8c5">
-              <head>Conditions Governing Use</head>
-              <p>Permission is required in order to publish or otherwise use photographs and other visual materials of living members of the Rockefeller family. See RAC Head of Reference for details. </p>
-              <p>RAC users must abide by all applicable provisions of United States copyright law.</p>
-            </userestrict>
-          </c>
-          <c id="c85f930bc3b74061b34fd22b12a554c5" level="file">
-            <did>
-              <unittitle>LSR - Philanthropies</unittitle>
-              <container id="fd6309a718ff065f4ffa629bf98f8e28" label="Still Image (470603.C 6.318)" type="box">C 6</container>
-            </did>
-          </c>
-        </c>
-        <c id="e77472c66419458dad89adedd8c13339" level="otherlevel" otherlevel="unspecified">
-          <did>
-            <unittitle>Scrapbooks</unittitle>
-          </did>
-          <c id="b55625d7b4a643058ed34ed33ca08f53" level="file">
-            <did>
-              <unittitle>Outdoor Recreation Resource Review Commission (ORRRC) Scrapbooks</unittitle>
-              <container id="16fa741d0c8106978858d96e4512662f" label="Still Image (470606.S 1.318)" type="box">S 1</container>
-            </did>
-          </c>
-          <c id="3268beb48c6a49f480c645c1272236b4" level="file">
-            <did>
-              <unittitle>Outdoor Recreation Resource Review Commission (ORRRC) Scrapbooks</unittitle>
-              <container id="655718d3d7cf12465238defcd9b22fbd" label="Still Image (470606.S 2.318)" type="box">S 2</container>
-            </did>
-          </c>
-          <c id="4c8dc5d7e7fb4e938ff676154fcc8568" level="file">
-            <did>
-              <unittitle>Outdoor Recreation Resource Review Commission (ORRRC) Scrapbooks</unittitle>
-              <container id="b7a610901d0eae7016f63a34af95c7e9" label="Still Image (470606.S 3.318)" type="box">S 3</container>
-            </did>
-          </c>
-          <c id="56c38c60af6f4ae89b57c993b063ed0f" level="file">
-            <did>
-              <unittitle>Outdoor Recreation Resource Review Commission (ORRRC) Scrapbooks</unittitle>
-              <container id="e944b7df6b93d0f1d71b875abf7797c7" label="Still Image (470606.S 4.318)" type="box">S 4</container>
-            </did>
-          </c>
-          <c id="0ad62bc2c48047fa984cafdafb308e58" level="file">
-            <did>
-              <unittitle>Resorts</unittitle>
-              <container id="8d103721dd067f63e36aa4532705fd71" label="Still Image (470606.S 7.318)" type="box">S 7</container>
-            </did>
-          </c>
-          <c id="6869a6a1166e44a98b023ffe61b21944" level="file">
-            <did>
-              <unittitle>Resorts - Caneel Bay</unittitle>
-              <physdesc id="fe6e0a65c1810a66f33a177409e3f150">2 books</physdesc>
-              <container id="d239112e4d593c4be7ff5f038e95b982" label="Still Image (470606.S 5.318)" type="box">S 5</container>
-            </did>
-          </c>
-          <c id="1b85ee2dd0dc4420a6b9aa754c8208a5" level="file">
-            <did>
-              <unittitle>Resorts - Caneel Bay</unittitle>
-              <physdesc id="4efcb06b86011283535323aee8391af2">3 books</physdesc>
-              <container id="a0a5ba9f6b17b5386c7975905c1dcd0f" label="Still Image (470606.S 9.318)" type="box">S 9</container>
-            </did>
-          </c>
-          <c id="2e760b47ff354110a1e6659ef25443f1" level="file">
-            <did>
-              <unittitle>Resorts - Cerromar Beach</unittitle>
-              <physdesc id="8f7c2e7950b8a9c12b6f832a59aa8cd3">2 books</physdesc>
-              <container id="2bc34078524c05f5064adb5bf87a9f9c" label="Still Image (470606.S 6.318)" type="box">S 6</container>
-            </did>
-          </c>
-          <c id="f3723d1da14547789065ff57f172ee40" level="file">
-            <did>
-              <unittitle>Resorts - Dorado Beach</unittitle>
-              <container id="796dcea575ce353f5376d16a266f3ffe" label="Still Image (470606.S 8.318)" type="box">S 8</container>
-            </did>
-          </c>
-          <c id="3104551141904629868504f060e84dcc" level="file">
-            <did>
-              <unittitle>Resorts - Woodstock</unittitle>
-              <container id="5c92658d7ed1caffcb523ec28e91e6a4" label="Still Image (470606.S 8.318)" type="box">S 8</container>
-            </did>
-          </c>
-        </c>
-      </c>
-    </dsc>
-  </archdesc>
+Scrapbooks (Boxes S 1, S 2, S 3, etc.).</p></arrangement><c id="723011ae4a9f46a1bc3f0fc46f499949" level="otherlevel" otherlevel="unspecified"><did><unittitle>Prints</unittitle></did><c id="fc8a604b04c84e5d9037f88b8ed77317" level="file"><did><unittitle>Boat</unittitle><container id="3e0943d2320e688cc71d066af907950e" label="Still Image [470594.P 155.318]" type="box">P 155</container></did></c><c id="bf89c5642d024292872d50d01285e095" level="file"><did><unittitle>Group Portraits - Family</unittitle><container id="6eceb10c7fd2dbcb759983b3d72cf4fc" label="Still Image [470594.P 155.318]" type="box">P 155</container></did></c><c id="dec6152d6ed2481995cb48e242377680" level="file"><did><unittitle>LSR - Business</unittitle><container id="642a952f446bdd4eeac5122e54e54c79" label="Still Image [470594.P 155.318]" type="box">P 155</container></did></c><c id="2ed4d91cb5c544368a0438475313fad5" level="file"><did><unittitle>LSR - Conservation - Outdoor Recreation Resource Review Commission (ORRRC)</unittitle><container id="a8a6832ca94607ab8e5e411171e3ee60" label="Still Image [470594.P 155.318]" type="box">P 155</container></did></c><c id="91ef637dcf6d451a89f3d081f4b50852" level="file"><did><unittitle>LSR - Miscellaneous</unittitle><container id="0e25fd2f949ffbf1028fa13d533283a7" label="Still Image [470594.P 155.318]" type="box">P 155</container></did></c><c id="b0df40695fed4841bb535b454b1dc5a5" level="file"><did><unittitle>LSR - Philanthropies</unittitle><container id="e10e26e72fda4c302ff62cc867283854" label="Still Image [470594.P 155.318]" type="box">P 155</container></did></c><c id="42bead68f3d0439c94bc954fc4c11005" level="file"><did><unittitle>LSR - Philanthropies - Ramon Magsaysay Award Foundation</unittitle><container id="b22e615be1f6a95f1eb1827c8fe18124" label="Still Image [470594.P 155.318]" type="box">P 155</container></did></c><c id="037bd3dff16148dda27edb1be0118791" level="file"><did><unittitle>LSR - Portraits</unittitle><container id="3612eb80f208e3a720e9e62e8deaaaa8" label="Still Image [470594.P 155.318]" type="box">P 155</container></did></c></c><c id="efca9140b7204dbf86591487e67e323a" level="otherlevel" otherlevel="unspecified"><did><unittitle>Oversized</unittitle></did><c id="19f09d8456bd42c0a402cd34782b9df9" level="file"><did><unittitle>LSR family</unittitle><container id="2f2b074524ae9616293c6770f73ca478" label="Still Image [470603.C 5.318]" type="box">C 5</container></did><processinfo id="a9a95d8d02d6cc81122419458e0d72cd"><head>Processing Information</head><p>Material has been boxed; otherwise remains as received.</p></processinfo><userestrict id="f4e54fc3bc5b8f98cab7bf3f65c9f8c5"><head>Conditions Governing Use</head><p>Permission is required in order to publish or otherwise use photographs and other visual materials of living members of the Rockefeller family. See RAC Head of Reference for details. </p><p>RAC users must abide by all applicable provisions of United States copyright law.</p></userestrict></c><c id="c85f930bc3b74061b34fd22b12a554c5" level="file"><did><unittitle>LSR - Philanthropies</unittitle><container id="d7f50beefb1346d203aa051dd41d4901" label="Still Image [470603.C 6.318]" type="box">C 6</container></did></c></c><c id="e77472c66419458dad89adedd8c13339" level="otherlevel" otherlevel="unspecified"><did><unittitle>Scrapbooks</unittitle></did><c id="b55625d7b4a643058ed34ed33ca08f53" level="file"><did><unittitle>Outdoor Recreation Resource Review Commission (ORRRC) Scrapbooks</unittitle><container id="2b6982ce1b00afac6766d2b38d90087a" label="Still Image [470606.S 1.318]" type="box">S 1</container></did></c><c id="3268beb48c6a49f480c645c1272236b4" level="file"><did><unittitle>Outdoor Recreation Resource Review Commission (ORRRC) Scrapbooks</unittitle><container id="01e08743d81785d2196121f0a437f1d8" label="Still Image [470606.S 2.318]" type="box">S 2</container></did></c><c id="4c8dc5d7e7fb4e938ff676154fcc8568" level="file"><did><unittitle>Outdoor Recreation Resource Review Commission (ORRRC) Scrapbooks</unittitle><container id="db14faa6ae7b676f9a4860754bbcec45" label="Still Image [470606.S 3.318]" type="box">S 3</container></did></c><c id="56c38c60af6f4ae89b57c993b063ed0f" level="file"><did><unittitle>Outdoor Recreation Resource Review Commission (ORRRC) Scrapbooks</unittitle><container id="194e616570fb66ae9070ad05c8bdd34c" label="Still Image [470606.S 4.318]" type="box">S 4</container></did></c><c id="0ad62bc2c48047fa984cafdafb308e58" level="file"><did><unittitle>Resorts</unittitle><container id="347c6e6b8e366706f86776416ba6dbd4" label="Still Image [470606.S 7.318]" type="box">S 7</container></did></c><c id="6869a6a1166e44a98b023ffe61b21944" level="file"><did><unittitle>Resorts - Caneel Bay</unittitle><physdesc id="fe6e0a65c1810a66f33a177409e3f150">2 books</physdesc><container id="9c50f99ec863b826c494a840e6d8b152" label="Still Image [470606.S 5.318]" type="box">S 5</container></did></c><c id="1b85ee2dd0dc4420a6b9aa754c8208a5" level="file"><did><unittitle>Resorts - Caneel Bay</unittitle><physdesc id="4efcb06b86011283535323aee8391af2">3 books</physdesc><container id="ff4c348bd51c88176d4eea08379356d6" label="Still Image [470606.S 9.318]" type="box">S 9</container></did></c><c id="2e760b47ff354110a1e6659ef25443f1" level="file"><did><unittitle>Resorts - Cerromar Beach</unittitle><physdesc id="8f7c2e7950b8a9c12b6f832a59aa8cd3">2 books</physdesc><container id="4b006d34fef6d9d72eae6542ac81d19b" label="Still Image [470606.S 6.318]" type="box">S 6</container></did></c><c id="f3723d1da14547789065ff57f172ee40" level="file"><did><unittitle>Resorts - Dorado Beach</unittitle><container id="ecfa56d953ae2aed087ce43128254077" label="Still Image [470606.S 8.318]" type="box">S 8</container></did></c><c id="3104551141904629868504f060e84dcc" level="file"><did><unittitle>Resorts - Woodstock</unittitle><container id="ad72868362859d40db9a53ece2e796e8" label="Still Image [470606.S 8.318]" type="box">S 8</container></did></c></c></c></dsc>
+</archdesc>
 </ead>
