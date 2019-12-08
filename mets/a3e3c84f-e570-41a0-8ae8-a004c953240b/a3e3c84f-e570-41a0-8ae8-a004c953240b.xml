@@ -1,52 +1,52 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <mets xmlns="http://www.loc.gov/METS/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/mets/mets.xsd">
-  <metsHdr CREATEDATE="2019-12-08 00:02:53 -0500">
+  <metsHdr CREATEDATE="2019-12-08 00:02:56 -0500">
     <agent ROLE="CREATOR" TYPE="ORGANIZATION">
       <name>Rockefeller Archive Center</name>
       <note>http://www.rockarch.org</note>
       <note>Produced by ArchivesSpace</note>
     </agent>
   </metsHdr>
-  <dmdSec ID="3306">
+  <dmdSec ID="3310">
     <mdWrap MDTYPE="MODS">
       <xmlData>
         <mods version="3.4" xmlns="http://www.loc.gov/mods/v3">
           <mods:titleInfo>
-            <mods:title>RF_Davidson_1973-09_1973-12.pdf</mods:title>
+            <mods:title>RF_Davidson_1970-05_1970-10.pdf</mods:title>
           </mods:titleInfo>
-          <mods:identifier type="local">f7766c5a-2f7f-4666-aeaa-3458ca7f1b5a</mods:identifier>
+          <mods:identifier type="local">a3e3c84f-e570-41a0-8ae8-a004c953240b</mods:identifier>
           <mods:typeOfResource/>
           <mods:originInfo/>
           <mods:physicalDescription/>
-          <mods:note type="originalsloc">26ee6c67-930d-4556-a64b-4ddf908d6b13</mods:note>
+          <mods:note type="originalsloc">d4509f65-9f40-4648-abb0-06388712f479</mods:note>
           <mods:note displayLabel="Digital object made available by">Rockefeller Archive Center, 15 Dayton Avenue, Sleepy Hollow, 10591, U.S.A. (http://www.rockarch.org)</mods:note>
           <mods:relatedItem displayLabel="resource" type="host">
             <mods:name>Rockefeller Foundation records, officers' diaries, RG 12, A-E</mods:name>
             <mods:identifier>FA391.xml</mods:identifier>
           </mods:relatedItem>
           <mods:relatedItem displayLabel="component" type="host">
-            <mods:name>1973 September-December</mods:name>
-            <mods:identifier>4f94b4c50624458092d4a49abb58ee00</mods:identifier>
+            <mods:name>1970 May-October</mods:name>
+            <mods:identifier>aafcf0b1bcc24026b689835437a7218e</mods:identifier>
           </mods:relatedItem>
         </mods>
       </xmlData>
     </mdWrap>
   </dmdSec>
   <amdSec>
-    <techMD ID="8415">
+    <techMD ID="8419">
       <mdWrap MDTYPE="PREMIS:OBJECT">
         <xmlData>
           <object version="2.2" xmlns="info:lc/xmlns/premis-v2" xsi:schemaLocation="info:lc/xmlns/premis-v2 http://www.loc.gov/standards/premis/v2/premis-v2-2.xsd" xsi:type="file">
             <objectIdentifier>
               <objectIdentifierType>ArchivesSpace identifier</objectIdentifierType>
-              <objectIdentifierValue>8415</objectIdentifierValue>
+              <objectIdentifierValue>8419</objectIdentifierValue>
             </objectIdentifier>
             <objectCharacteristics>
               <fixity>
                 <messageDigestAlgorithm/>
                 <messageDigest/>
               </fixity>
-              <size>182053143</size>
+              <size>245450643</size>
               <format>
                 <formatDesignation>
                   <formatName>pdf</formatName>
@@ -61,19 +61,19 @@
   </amdSec>
   <fileSec>
     <fileGrp USE="">
-      <file AMDID="8415" GROUPID="3306" ID="8415">
-        <FLocat xlink:href="https://storage.rockarch.org/f7766c5a-2f7f-4666-aeaa-3458ca7f1b5a-RF_Davidson_1973-09_1973-12.pdf"/>
+      <file AMDID="8419" GROUPID="3310" ID="8419">
+        <FLocat xlink:href="https://storage.rockarch.org/a3e3c84f-e570-41a0-8ae8-a004c953240b-RF_Davidson_1970-05_1970-10.pdf"/>
       </file>
     </fileGrp>
   </fileSec>
   <structMap TYPE="logical">
-    <div DMDID="3306" LABEL="RF_Davidson_1973-09_1973-12.pdf" ORDER="1" TYPE="item">
-      <fptr FILEID="8415"/>
+    <div DMDID="3310" LABEL="RF_Davidson_1970-05_1970-10.pdf" ORDER="1" TYPE="item">
+      <fptr FILEID="8419"/>
     </div>
   </structMap>
   <structMap TYPE="physical">
-    <div DMDID="3306" LABEL="RF_Davidson_1973-09_1973-12.pdf" ORDER="1" TYPE="item">
-      <fptr FILEID="8415"/>
+    <div DMDID="3310" LABEL="RF_Davidson_1970-05_1970-10.pdf" ORDER="1" TYPE="item">
+      <fptr FILEID="8419"/>
     </div>
   </structMap>
 </mets>
