@@ -1,50 +1,27 @@
-<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
-  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" repositoryencoding="iso15511">
-    <eadid>FA446.xml</eadid>
-    <filedesc>
-      <titlestmt>
-        <titleproper type="filing">William Avery Rockefeller family photographs, Series 1002</titleproper>
-        <titleproper>A Guide to the William Avery Rockefeller family photographs, Series 1002
- <num>FA446</num></titleproper>
-      </titlestmt>
-      <publicationstmt>
-        <publisher>Rockefeller Archive Center</publisher>
-        <address>
-          <addressline>15 Dayton Avenue</addressline>
-          <addressline>Sleepy Hollow 10591</addressline>
-          <addressline>archive@rockarch.org</addressline>
-          <addressline>URL: <extptr xlink:href="http://www.rockarch.org" xlink:show="new" xlink:title="http://www.rockarch.org" xlink:type="simple"/></addressline>
-        </address>
-      </publicationstmt>
-    </filedesc>
-    <profiledesc>
-      <creation>This finding aid was produced using ArchivesSpace on <date>2017-03-02 08:54:08 -0500</date>.</creation>
-      <langusage>English</langusage>
-      <descrules>Describing Archives: A Content Standard</descrules>
-    </profiledesc>
-  </eadheader>
-  <archdesc level="series">
-    <did>
-      <langmaterial>
-        <language langcode="eng">English</language>
-      </langmaterial>
-      <repository>
-        <corpname>Rockefeller Archive Center</corpname>
-      </repository>
-      <unittitle>William Avery Rockefeller family photographs, Series 1002</unittitle>
-      <origination label="creator">
-        <persname role="aut" source="lcnaf">Rockefeller, William Avery</persname>
-      </origination>
-      <unitid>FA446</unitid>
-      <physdesc altrender="whole">
-        <extent altrender="materialtype spaceoccupied">7 box(es)</extent>
-        <extent altrender="carrier">Extent is approximate.</extent>
-      </physdesc>
-      <unitdate>undated</unitdate>
-    </did>
-    <arrangement id="ec37b043dd4db55859f390a619b32436">
-      <head>Arrangement</head>
-      <p>Rockefeller family photographic holdings are arranged into the following series:
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid>FA446.xml</eadid><filedesc><titlestmt><titleproper type="filing">William Avery Rockefeller family photographs, Series 1002</titleproper><titleproper>A Guide to the William Avery Rockefeller family photographs, Series 1002
+ <num>FA446</num></titleproper></titlestmt><publicationstmt><publisher>Rockefeller Archive Center</publisher><address><addressline>15 Dayton Avenue</addressline><addressline>Sleepy Hollow 10591</addressline><addressline>archive@rockarch.org</addressline><addressline>URL: <extptr xlink:href="http://www.rockarch.org" xlink:show="new" xlink:title="http://www.rockarch.org" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2019-12-19 00:09:20 -0500</date>.</creation><langusage>English</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="series">
+  <did>
+    <langmaterial>
+      <language langcode="eng">English</language>
+    </langmaterial>
+    <repository>
+      <corpname>Rockefeller Archive Center</corpname>
+    </repository>
+    <unittitle>William Avery Rockefeller family photographs, Series 1002</unittitle>
+    <origination label="Creator">
+      <persname role="aut" source="naf">Rockefeller, William Avery</persname>
+    </origination>
+    <unitid>FA446</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">7 box(es)</extent>
+      <extent altrender="carrier">Extent is approximate.</extent>
+    </physdesc>
+    <unitdate>undated</unitdate>
+  </did>
+  <arrangement id="ec37b043dd4db55859f390a619b32436">
+    <head>Arrangement</head>
+<p>Rockefeller family photographic holdings are arranged into the following series:
  
 Rockefeller family and Avery family photographs, Series 1001.
 William Avery Rockefeller family photographs, Series 1002.
@@ -55,237 +32,22 @@ Pocantico Hills photographs, Series 1006.
 John D. Rockefeller 3rd family photographs, Series 1007.
 Nelson A. Rockefeller family photographs, Series 1008.
 Laurance S. Rockefeller family photographs, Series 1009.
-David Rockefeller family photographs, Series 1010.</p>
-    </arrangement>
-    <otherfindaid id="8bb8c4a1d7a7a146184983115db36780">
-      <head>Other Finding Aids</head>
-      <p>For other Rockefeller family photographic holdings, please see the following finding aids:</p>
-      <p>
-        <extref href="../FA445/overview"> FA445 Rockefeller family and Avery family photographs, Series 1001</extref>
-      </p>
-      <p>
-        <extref href="../FA447/overview"> FA447 John D. Rockefeller family photographs, Series 1003</extref>
-      </p>
-      <p>
-        <extref href="../FA448/overview"> FA448 William Rockefeller family photographs, Series 1004</extref>
-      </p>
-      <p>
-        <extref href="../FA449/overview"> FA449 John D. Rockefeller Jr. family photographs, Series 1005</extref>
-      </p>
-      <p>
-        <extref href="../FA450/overview"> FA450 Pocantico Hills photographs, Series 1006</extref>
-      </p>
-      <p>
-        <extref href="../FA451/overview"> FA451 John D. Rockefeller 3rd family photographs, Series 1007</extref>
-      </p>
-      <p>
-        <extref href="../FA454/overview"> FA454 Nelson A. Rockefeller photographs, Series 1008</extref>
-      </p>
-      <p>
-        <extref href="../FA452/overview"> FA452 Laurance S. Rockefeller family photographs, Series 1009</extref>
-      </p>
-      <p>
-        <extref href="../FA453/overview"> FA453 David Rockefeller family photographs, Series 1010</extref>
-      </p>
-    </otherfindaid>
-    <prefercite id="adcc132a869692f1b3367ee05647a305">
-      <head>Preferred Citation</head>
-      <p>Information regarding the Rockefeller Archive Center's preferred elements and forms of citation can be found at <extref href="http://www.rockarch.org/research/citations.php">http://www.rockarch.org/research/citations.php</extref></p>
-    </prefercite>
-    <accessrestrict id="51af33a25d2f49add3b4b74ea6d7d024">
-      <head>Conditions Governing Access</head>
-      <p>Open for research with select materials restricted as noted. Brittle or damaged items are available at the discretion of RAC. Researchers interested in accessing digital media (floppy disks, CDs, DVDs, etc.) or audiovisual material (audio cassettes, VHS, etc.) in this collection must use an access surrogate. The original items may not be accessed because of preservation concerns. To request an access surrogate be made, or if you are unsure if there is an access surrogate, please contact an archivist.</p>
-    </accessrestrict>
-    <scopecontent id="41eca4b268b956eaf2fa92235f92964f">
-      <head>Scope and Contents</head>
-      <p>Types of records include: photographs.</p>
-    </scopecontent>
-    <dsc>
-      <c id="f439acd3369642f3850865114a7beb52" level="series">
-        <did>
-          <unittitle>William Avery Rockefeller family photographs</unittitle>
-          <unitid>1002</unitid>
-        </did>
-        <arrangement id="0c035e9c6ba17f6662d0abec6af9f955">
-          <head>Arrangement</head>
-          <p>The series contains 3 subseries:</p>
-          <p>1002A Lucy Rockefeller Briggs family.
+David Rockefeller family photographs, Series 1010.</p>  </arrangement>
+  <otherfindaid id="8bb8c4a1d7a7a146184983115db36780">
+    <head>Other Finding Aids</head>
+<p>For other Rockefeller family photographic holdings, please see the following finding aids:</p><p><extref href="../FA445/overview"> FA445 Rockefeller family and Avery family photographs, Series 1001</extref></p><p><extref href="../FA447/overview"> FA447 John D. Rockefeller family photographs, Series 1003</extref></p><p><extref href="../FA448/overview"> FA448 William Rockefeller family photographs, Series 1004</extref></p><p><extref href="../FA449/overview"> FA449 John D. Rockefeller Jr. family photographs, Series 1005</extref></p><p><extref href="../FA450/overview"> FA450 Pocantico Hills photographs, Series 1006</extref></p><p><extref href="../FA451/overview"> FA451 John D. Rockefeller 3rd family photographs, Series 1007</extref></p><p><extref href="../FA454/overview"> FA454 Nelson A. Rockefeller photographs, Series 1008</extref></p><p><extref href="../FA452/overview"> FA452 Laurance S. Rockefeller family photographs, Series 1009</extref></p><p><extref href="../FA453/overview"> FA453 David Rockefeller family photographs, Series 1010</extref></p>  </otherfindaid>
+  <prefercite id="adcc132a869692f1b3367ee05647a305">
+    <head>Preferred Citation</head>
+<p>Information regarding the Rockefeller Archive Center's preferred elements and forms of citation can be found at <extref href="http://www.rockarch.org/research/citations.php">http://www.rockarch.org/research/citations.php</extref></p>  </prefercite>
+  <accessrestrict id="51af33a25d2f49add3b4b74ea6d7d024">
+    <head>Conditions Governing Access</head>
+<p>Open for research with select materials restricted as noted. Brittle or damaged items are available at the discretion of RAC. Researchers interested in accessing digital media (floppy disks, CDs, DVDs, etc.) or audiovisual material (audio cassettes, VHS, etc.) in this collection must use an access surrogate. The original items may not be accessed because of preservation concerns. To request an access surrogate be made, or if you are unsure if there is an access surrogate, please contact an archivist.</p>  </accessrestrict>
+  <scopecontent id="41eca4b268b956eaf2fa92235f92964f">
+    <head>Scope and Contents</head>
+<p>Types of records include: photographs.</p>  </scopecontent>
+  <dsc><c id="f439acd3369642f3850865114a7beb52" level="series"><did><unittitle>William Avery Rockefeller family photographs</unittitle><unitid>1002</unitid></did><arrangement id="0c035e9c6ba17f6662d0abec6af9f955"><head>Arrangement</head><p>The series contains 3 subseries:</p><p>1002A Lucy Rockefeller Briggs family.
 1002B Mary Ann Rockefeller Rudd family.
-1002C Franklin Rockefeller family.</p>
-          <p>For ease of access, the material is further arranged by:</p>
-          <p>Prints (Boxes P 1, P 2, P 3, etc.).
-Oversized (Boxes: O 1, O 2, O 3, etc.).</p>
-        </arrangement>
-        <c id="d5ac6c88f7d54ebcb4d8dba21939d828" level="otherlevel" otherlevel="unspecified">
-          <did>
-            <unittitle>Prints</unittitle>
-          </did>
-          <c id="5c92b8e184b2444191aa93fe25ab813d" level="file">
-            <did>
-              <unittitle>Eliza Davison Rockefeller</unittitle>
-              <container id="c7169e03c51ddddc11fe70fdb3b545b8" label="Still Image (469745.P 1.318)" type="box">P 1</container>
-            </did>
-          </c>
-          <c id="a90c3d20a693405e9f907c5e316e35df" level="file">
-            <did>
-              <unittitle>Group Portraits - Children</unittitle>
-              <container id="ee54332455de1516ba27c12741b97799" label="Still Image (469745.P 1.318)" type="box">P 1</container>
-            </did>
-          </c>
-          <c id="5d49f2ac9ba541d5944a059422d364c5" level="file">
-            <did>
-              <unittitle>Group Portraits - Children</unittitle>
-              <container id="c5d9ea845fbfdc178fd2e4fea32e6020" label="Still Image (469745.P 157.318)" type="box">P 157</container>
-              <container id="6f56de0702b6e115396264316023a1a5" parent="c5d9ea845fbfdc178fd2e4fea32e6020" type="folder">1</container>
-            </did>
-          </c>
-          <c id="a4efd608b1ec4bf1abf3a78abfdf9ced" level="file">
-            <did>
-              <unittitle>Group Portraits - Family</unittitle>
-              <container id="2cec9d0061acdf9ed2c839e901d372cc" label="Still Image (469745.P 1.318)" type="box">P 1</container>
-            </did>
-          </c>
-          <c id="1fef412500724309921d577afbba7f07" level="file">
-            <did>
-              <unittitle>Homes - Cleveland</unittitle>
-              <container id="37614145f3b7b1dc1ab5cb9ea261dbd0" label="Still Image (469745.P 1.318)" type="box">P 1</container>
-            </did>
-          </c>
-          <c id="b7e02e394e884db4ae61b3a153e2b710" level="file">
-            <did>
-              <unittitle>Homes - Moravia, NY</unittitle>
-              <container id="7490cabf850383a5e64b2768cf2a7919" label="Still Image (469745.P 1.318)" type="box">P 1</container>
-            </did>
-          </c>
-          <c id="dc2ef43abf474d35b3cc79acd201f741" level="file">
-            <did>
-              <unittitle>Homes - Owego, NY</unittitle>
-              <container id="c1f2ad79010828a1fd11d58bba160afe" label="Still Image (469745.P 2.318)" type="box">P 2</container>
-            </did>
-          </c>
-          <c id="b4e2f35d1a6b4c34ac56c801c635f0bf" level="file">
-            <did>
-              <unittitle>Homes - Richford, NY</unittitle>
-              <container id="b718493128c50c5112c0f5b34685eca4" label="Still Image (469745.P 2.318)" type="box">P 2</container>
-            </did>
-          </c>
-          <c id="d2ada08fb28645be977c631bd3e91fd4" level="file">
-            <did>
-              <unittitle>Homes - Strongville, OH</unittitle>
-              <container id="e1c94ea467d3be73af59ef05d01d5d75" label="Still Image (469745.P 3.318)" type="box">P 3</container>
-            </did>
-          </c>
-          <c id="d1b131762e3e495eb03d1c7a861b16b1" level="file">
-            <did>
-              <unittitle>Mrs. Levingston</unittitle>
-              <container id="00b917c29d5c9625eecfd926c7733c0c" label="Still Image (469745.P 3.318)" type="box">P 3</container>
-            </did>
-          </c>
-          <c id="a00063dd34ec46938da436871b6edf86" level="file">
-            <did>
-              <unittitle>Relatives</unittitle>
-              <container id="c833e6ea7882c0d937bc9bea7f74a4b6" label="Still Image (469745.P 3.318)" type="box">P 3</container>
-            </did>
-          </c>
-          <c id="cfe7a191aae941fc86303c8204d0633d" level="file">
-            <did>
-              <unittitle>William Avery Rockefeller</unittitle>
-              <container id="01b4ef7f298020cb9b94b8fb18b6594c" label="Still Image (469745.P 3.318)" type="box">P 3</container>
-            </did>
-          </c>
-        </c>
-        <c id="f9bdc5d9717944feaca505ee05adf2c1" level="otherlevel" otherlevel="unspecified">
-          <did>
-            <unittitle>Oversized</unittitle>
-          </did>
-          <c id="30cbaf0bdb3b4c54b52f31924b925983" level="file">
-            <did>
-              <unittitle>William Avery Rockefeller family</unittitle>
-              <container id="0196396ee7709c74aec7d50845185401" label="Still Image (469758.O 1.318)" type="box">O 1</container>
-            </did>
-          </c>
-          <c id="232d8149e3fa46a1b301ee6f50dc59a4" level="file">
-            <did>
-              <unittitle>Group Portraits</unittitle>
-              <container id="1f703d0ce6ddecdba98b8208469ee11e" label="Still Image (469758.O 2.318)" type="box">O 2</container>
-            </did>
-          </c>
-          <c id="a53dd7bf223e4fc494e8fd9108a994ee" level="file">
-            <did>
-              <unittitle>Homes</unittitle>
-              <container id="8b3217fc383ffc37a9a78fcc63883f5c" label="Still Image (469758.O 2.318)" type="box">O 2</container>
-            </did>
-          </c>
-          <c id="f6b384fe4a3a43418d2c65b758354d30" level="file">
-            <did>
-              <unittitle>William Avery Rockefeller family</unittitle>
-              <container id="ece7f289a6a378b81d23a8964d520167" label="Still Image (469758.O 3.318)" type="box">O 3</container>
-            </did>
-          </c>
-        </c>
-        <c id="70c357ed0b484c169d5cd6d794f2f14a" level="subseries">
-          <did>
-            <unittitle>Lucy Rockefeller Briggs famly</unittitle>
-            <unitid>1002A</unitid>
-          </did>
-          <c id="db4228552d5348858911a2f9023966f4" level="otherlevel" otherlevel="unspecified">
-            <did>
-              <unittitle>Prints</unittitle>
-            </did>
-            <c id="9cb3b916174f46b3a87f6758482eae3d" level="file">
-              <did>
-                <unittitle>Lucy Rockefeller Briggs family</unittitle>
-                <container id="ab2d5373fde1a11d5c6742c94dc154cf" label="Still Image (469764.P 3.318)" type="box">P 3</container>
-              </did>
-            </c>
-          </c>
-        </c>
-        <c id="41ed04e163944d5abb255ab38a0f2e2b" level="subseries">
-          <did>
-            <unittitle>Mary Ann Rockefeller Rudd family</unittitle>
-            <unitid>1002B</unitid>
-          </did>
-          <c id="0e84653a372e4d6184bff8a52187c78f" level="otherlevel" otherlevel="unspecified">
-            <did>
-              <unittitle>Prints</unittitle>
-            </did>
-            <c id="774f09f59db64b3ea6c31297b4548c01" level="file">
-              <did>
-                <unittitle>Mary Ann Rockefeller Rudd family</unittitle>
-                <container id="b0a3b2f36771156265464417c929e6db" label="Still Image (469767.P 3.318)" type="box">P 3</container>
-              </did>
-            </c>
-          </c>
-        </c>
-        <c id="c4d0f3e2475e4412a1a2ce1272c028b3" level="subseries">
-          <did>
-            <unittitle>Franklin Rockefeller family</unittitle>
-            <unitid>1002C</unitid>
-          </did>
-          <c id="237097fedc494a2a92d5501821001f4d" level="otherlevel" otherlevel="unspecified">
-            <did>
-              <unittitle>Prints</unittitle>
-            </did>
-            <c id="1c77375a528546ae9db382dff214b411" level="file">
-              <did>
-                <unittitle>Franklin Rockefeller family</unittitle>
-                <container id="dcea50d8b26dd08732d85158904b78c4" label="Still Image (469770.P 3.318)" type="box">P 3</container>
-              </did>
-            </c>
-          </c>
-          <c id="2529a77ddc9848e28a98a98e127437fa" level="otherlevel" otherlevel="unspecified">
-            <did>
-              <unittitle>Oversized</unittitle>
-            </did>
-            <c id="bd44548fe1374952a92453303dd4d30d" level="file">
-              <did>
-                <unittitle>Franklin Rockefeller family</unittitle>
-                <container id="11cdac7f389254675e315b7ca0f6b4b9" label="Still Image (469772.O 1.318)" type="box">O 1</container>
-              </did>
-            </c>
-          </c>
-        </c>
-      </c>
-    </dsc>
-  </archdesc>
+1002C Franklin Rockefeller family.</p><p>For ease of access, the material is further arranged by:</p><p>Prints (Boxes P 1, P 2, P 3, etc.).
+Oversized (Boxes: O 1, O 2, O 3, etc.).</p></arrangement><c id="d5ac6c88f7d54ebcb4d8dba21939d828" level="otherlevel" otherlevel="unspecified"><did><unittitle>Prints</unittitle></did><c id="5c92b8e184b2444191aa93fe25ab813d" level="file"><did><unittitle>Eliza Davison Rockefeller</unittitle><container id="57c0b0408902c5a7b778b742b9c106bd" label="Still Image [A0000000093479]" type="box">P 1</container></did></c><c id="a90c3d20a693405e9f907c5e316e35df" level="file"><did><unittitle>Group Portraits - Children</unittitle><container id="974da642711bf4325dd7ea7696bfb252" label="Still Image [469745.P 1.318]" type="box">P 1</container></did></c><c id="5d49f2ac9ba541d5944a059422d364c5" level="file"><did><unittitle>Group Portraits - Children</unittitle><container id="380bfcfc1b030a76844eb074dfe73262" label="Still Image [A0000000093477]" type="box">P 157</container><container id="ce86abc3b0728da7726c74fcd20f2b0e" parent="380bfcfc1b030a76844eb074dfe73262" type="folder">1</container></did></c><c id="a4efd608b1ec4bf1abf3a78abfdf9ced" level="file"><did><unittitle>Group Portraits - Family</unittitle><container id="9256366e8f25101c7bb68e2ff7de9bb9" label="Still Image [469745.P 1.318]" type="box">P 1</container></did></c><c id="1fef412500724309921d577afbba7f07" level="file"><did><unittitle>Homes - Cleveland</unittitle><container id="515dc46525e2b33d350c68d5b18472fc" label="Still Image [469745.P 1.318]" type="box">P 1</container></did></c><c id="b7e02e394e884db4ae61b3a153e2b710" level="file"><did><unittitle>Homes - Moravia, NY</unittitle><container id="24430c0425ed6a70368887f39642d1f8" label="Still Image [469745.P 1.318]" type="box">P 1</container></did></c><c id="dc2ef43abf474d35b3cc79acd201f741" level="file"><did><unittitle>Homes - Owego, NY</unittitle><container id="5802cc0720c95b7753bbe6e5792f866b" label="Still Image [A0000000093480]" type="box">P 2</container></did></c><c id="b4e2f35d1a6b4c34ac56c801c635f0bf" level="file"><did><unittitle>Homes - Richford, NY</unittitle><container id="30925fe86c2c8c0ce402664c7ba72c91" label="Still Image [A0000000093480]" type="box">P 2</container></did></c><c id="d2ada08fb28645be977c631bd3e91fd4" level="file"><did><unittitle>Homes - Strongville, OH</unittitle><container id="c3b4020e1d96c4a6030504e011b4dc38" label="Still Image [A0000000093481]" type="box">P 3</container></did></c><c id="d1b131762e3e495eb03d1c7a861b16b1" level="file"><did><unittitle>Mrs. Levingston</unittitle><container id="43eeecf65a0e45f97a895805c98f353d" label="Still Image [A0000000093481]" type="box">P 3</container></did></c><c id="a00063dd34ec46938da436871b6edf86" level="file"><did><unittitle>Relatives</unittitle><container id="7acd96349b79ad37147813a7f4f7bdb4" label="Still Image [A0000000093481]" type="box">P 3</container></did></c><c id="cfe7a191aae941fc86303c8204d0633d" level="file"><did><unittitle>William Avery Rockefeller</unittitle><container id="566b3c7b0628f78cbf182f0bef295ebf" label="Still Image [A0000000093481]" type="box">P 3</container></did></c></c><c id="f9bdc5d9717944feaca505ee05adf2c1" level="otherlevel" otherlevel="unspecified"><did><unittitle>Oversized</unittitle></did><c id="30cbaf0bdb3b4c54b52f31924b925983" level="file"><did><unittitle>William Avery Rockefeller family</unittitle><container id="5a7bb2071211eb5ab0987ab76b942809" label="Still Image [469758.O 1.318]" type="box">O 1</container></did></c><c id="232d8149e3fa46a1b301ee6f50dc59a4" level="file"><did><unittitle>Group Portraits</unittitle><container id="55b91ff5cdd4226a0fd1a7bcaba3e80e" label="Still Image [469758.O 2.318]" type="box">O 2</container></did></c><c id="a53dd7bf223e4fc494e8fd9108a994ee" level="file"><did><unittitle>Homes</unittitle><container id="1ab053a4d4771a3941dc3de73dc21999" label="Still Image [469758.O 2.318]" type="box">O 2</container></did></c><c id="f6b384fe4a3a43418d2c65b758354d30" level="file"><did><unittitle>William Avery Rockefeller family</unittitle><container id="d5527c2eec0ffd2eeb2dabfacab91d87" label="Still Image [469758.O 3.318]" type="box">O 3</container></did></c></c><c id="70c357ed0b484c169d5cd6d794f2f14a" level="subseries"><did><unittitle>Lucy Rockefeller Briggs famly</unittitle><unitid>1002A</unitid></did><c id="db4228552d5348858911a2f9023966f4" level="otherlevel" otherlevel="unspecified"><did><unittitle>Prints</unittitle></did><c id="9cb3b916174f46b3a87f6758482eae3d" level="file"><did><unittitle>Lucy Rockefeller Briggs family</unittitle><container id="6febd4da875403bb06997386354c6083" label="Still Image [469764.P 3.318]" type="box">P 3</container></did></c></c></c><c id="41ed04e163944d5abb255ab38a0f2e2b" level="subseries"><did><unittitle>Mary Ann Rockefeller Rudd family</unittitle><unitid>1002B</unitid></did><c id="0e84653a372e4d6184bff8a52187c78f" level="otherlevel" otherlevel="unspecified"><did><unittitle>Prints</unittitle></did><c id="774f09f59db64b3ea6c31297b4548c01" level="file"><did><unittitle>Mary Ann Rockefeller Rudd family</unittitle><container id="9e13b422c8bb800411b44986a708fbe2" label="Still Image [469767.P 3.318]" type="box">P 3</container></did></c></c></c><c id="c4d0f3e2475e4412a1a2ce1272c028b3" level="subseries"><did><unittitle>Franklin Rockefeller family</unittitle><unitid>1002C</unitid></did><c id="237097fedc494a2a92d5501821001f4d" level="otherlevel" otherlevel="unspecified"><did><unittitle>Prints</unittitle></did><c id="1c77375a528546ae9db382dff214b411" level="file"><did><unittitle>Franklin Rockefeller family</unittitle><container id="43b12676390aea99fa384a5b20633608" label="Still Image [469770.P 3.318]" type="box">P 3</container></did></c></c><c id="2529a77ddc9848e28a98a98e127437fa" level="otherlevel" otherlevel="unspecified"><did><unittitle>Oversized</unittitle></did><c id="bd44548fe1374952a92453303dd4d30d" level="file"><did><unittitle>Franklin Rockefeller family</unittitle><container id="09b46646d9580f9d99d821378ce6eda9" label="Still Image [469772.O 1.318]" type="box">O 1</container></did></c></c></c></c></dsc>
+</archdesc>
 </ead>
