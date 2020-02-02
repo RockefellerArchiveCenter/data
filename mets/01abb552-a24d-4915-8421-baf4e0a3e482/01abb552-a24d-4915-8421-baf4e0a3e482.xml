@@ -7,46 +7,46 @@
       <note>Produced by ArchivesSpace</note>
     </agent>
   </metsHdr>
-  <dmdSec ID="3454">
+  <dmdSec ID="3455">
     <mdWrap MDTYPE="MODS">
       <xmlData>
         <mods version="3.4" xmlns="http://www.loc.gov/mods/v3">
           <mods:titleInfo>
-            <mods:title>RF_Mahaffy_1941_1946.pdf</mods:title>
+            <mods:title>RF_Grant_1965_1968.pdf</mods:title>
           </mods:titleInfo>
-          <mods:identifier type="local">2f53fb96-5972-4b05-a560-34ff143d616c</mods:identifier>
+          <mods:identifier type="local">01abb552-a24d-4915-8421-baf4e0a3e482</mods:identifier>
           <mods:typeOfResource/>
           <mods:originInfo/>
           <mods:physicalDescription/>
-          <mods:note type="originalsloc">6a0dba41-5236-460e-92b1-c9fea8f19d3e</mods:note>
+          <mods:note type="originalsloc">10d70d86-f3b4-4b52-ad4b-bf7bd61df1e7</mods:note>
           <mods:note displayLabel="Digital object made available by">Rockefeller Archive Center, 15 Dayton Avenue, Sleepy Hollow, 10591, U.S.A. (http://www.rockarch.org)</mods:note>
           <mods:relatedItem displayLabel="resource" type="host">
-            <mods:name>Rockefeller Foundation records, officers' diaries, RG 12, M-R</mods:name>
-            <mods:identifier>FA393.xml</mods:identifier>
+            <mods:name>Rockefeller Foundation records, officers' diaries, RG 12, F-L</mods:name>
+            <mods:identifier>FA392.xml</mods:identifier>
           </mods:relatedItem>
           <mods:relatedItem displayLabel="component" type="host">
-            <mods:name>1941-1946</mods:name>
-            <mods:identifier>1639758a46c943599ea129b98489e6a8</mods:identifier>
+            <mods:name>1965-1968</mods:name>
+            <mods:identifier>f43971d7894e4dce9be6a154426137b4</mods:identifier>
           </mods:relatedItem>
         </mods>
       </xmlData>
     </mdWrap>
   </dmdSec>
   <amdSec>
-    <techMD ID="8563">
+    <techMD ID="8564">
       <mdWrap MDTYPE="PREMIS:OBJECT">
         <xmlData>
           <object version="2.2" xmlns="info:lc/xmlns/premis-v2" xsi:schemaLocation="info:lc/xmlns/premis-v2 http://www.loc.gov/standards/premis/v2/premis-v2-2.xsd" xsi:type="file">
             <objectIdentifier>
               <objectIdentifierType>ArchivesSpace identifier</objectIdentifierType>
-              <objectIdentifierValue>8563</objectIdentifierValue>
+              <objectIdentifierValue>8564</objectIdentifierValue>
             </objectIdentifier>
             <objectCharacteristics>
               <fixity>
                 <messageDigestAlgorithm/>
                 <messageDigest/>
               </fixity>
-              <size>515854560</size>
+              <size>337783196</size>
               <format>
                 <formatDesignation>
                   <formatName>pdf</formatName>
@@ -61,19 +61,19 @@
   </amdSec>
   <fileSec>
     <fileGrp USE="">
-      <file AMDID="8563" GROUPID="3454" ID="8563">
-        <FLocat xlink:href="https://storage.rockarch.org/2f53fb96-5972-4b05-a560-34ff143d616c-RF_Mahaffy_1941_1946.pdf"/>
+      <file AMDID="8564" GROUPID="3455" ID="8564">
+        <FLocat xlink:href="https://storage.rockarch.org/01abb552-a24d-4915-8421-baf4e0a3e482-RF_Grant_1965_1968.pdf"/>
       </file>
     </fileGrp>
   </fileSec>
   <structMap TYPE="logical">
-    <div DMDID="3454" LABEL="RF_Mahaffy_1941_1946.pdf" ORDER="1" TYPE="item">
-      <fptr FILEID="8563"/>
+    <div DMDID="3455" LABEL="RF_Grant_1965_1968.pdf" ORDER="1" TYPE="item">
+      <fptr FILEID="8564"/>
     </div>
   </structMap>
   <structMap TYPE="physical">
-    <div DMDID="3454" LABEL="RF_Mahaffy_1941_1946.pdf" ORDER="1" TYPE="item">
-      <fptr FILEID="8563"/>
+    <div DMDID="3455" LABEL="RF_Grant_1965_1968.pdf" ORDER="1" TYPE="item">
+      <fptr FILEID="8564"/>
     </div>
   </structMap>
 </mets>
