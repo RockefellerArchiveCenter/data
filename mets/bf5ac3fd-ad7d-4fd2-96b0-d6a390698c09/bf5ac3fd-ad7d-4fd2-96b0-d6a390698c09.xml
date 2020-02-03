@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mets xmlns="http://www.loc.gov/METS/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/mets/mets.xsd">
+  <metsHdr CREATEDATE="2020-02-03 00:02:58 -0500">
+    <agent ROLE="CREATOR" TYPE="ORGANIZATION">
+      <name>Rockefeller Archive Center</name>
+      <note>http://www.rockarch.org</note>
+      <note>Produced by ArchivesSpace</note>
+    </agent>
+  </metsHdr>
+  <dmdSec ID="3459">
+    <mdWrap MDTYPE="MODS">
+      <xmlData>
+        <mods version="3.4" xmlns="http://www.loc.gov/mods/v3">
+          <mods:titleInfo>
+            <mods:title>RF_Hydrick_1938_1939.pdf</mods:title>
+          </mods:titleInfo>
+          <mods:identifier type="local">bf5ac3fd-ad7d-4fd2-96b0-d6a390698c09</mods:identifier>
+          <mods:typeOfResource/>
+          <mods:originInfo/>
+          <mods:physicalDescription/>
+          <mods:note type="originalsloc">4cac3b07-a298-4930-a02e-e57bb279494a</mods:note>
+          <mods:note displayLabel="Digital object made available by">Rockefeller Archive Center, 15 Dayton Avenue, Sleepy Hollow, 10591, U.S.A. (http://www.rockarch.org)</mods:note>
+          <mods:relatedItem displayLabel="resource" type="host">
+            <mods:name>Rockefeller Foundation records, officers' diaries, RG 12, F-L</mods:name>
+            <mods:identifier>FA392.xml</mods:identifier>
+          </mods:relatedItem>
+          <mods:relatedItem displayLabel="component" type="host">
+            <mods:name>1938-1939</mods:name>
+            <mods:identifier>add6b4f533284fc98db68a3fd10a8b94</mods:identifier>
+          </mods:relatedItem>
+        </mods>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec>
+    <techMD ID="8568">
+      <mdWrap MDTYPE="PREMIS:OBJECT">
+        <xmlData>
+          <object version="2.2" xmlns="info:lc/xmlns/premis-v2" xsi:schemaLocation="info:lc/xmlns/premis-v2 http://www.loc.gov/standards/premis/v2/premis-v2-2.xsd" xsi:type="file">
+            <objectIdentifier>
+              <objectIdentifierType>ArchivesSpace identifier</objectIdentifierType>
+              <objectIdentifierValue>8568</objectIdentifierValue>
+            </objectIdentifier>
+            <objectCharacteristics>
+              <fixity>
+                <messageDigestAlgorithm/>
+                <messageDigest/>
+              </fixity>
+              <size>433935020</size>
+              <format>
+                <formatDesignation>
+                  <formatName>pdf</formatName>
+                  <formatVersion>Generic PDF</formatVersion>
+                </formatDesignation>
+              </format>
+            </objectCharacteristics>
+          </object>
+        </xmlData>
+      </mdWrap>
+    </techMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="">
+      <file AMDID="8568" GROUPID="3459" ID="8568">
+        <FLocat xlink:href="https://storage.rockarch.org/bf5ac3fd-ad7d-4fd2-96b0-d6a390698c09-RF_Hydrick_1938_1939.pdf"/>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="logical">
+    <div DMDID="3459" LABEL="RF_Hydrick_1938_1939.pdf" ORDER="1" TYPE="item">
+      <fptr FILEID="8568"/>
+    </div>
+  </structMap>
+  <structMap TYPE="physical">
+    <div DMDID="3459" LABEL="RF_Hydrick_1938_1939.pdf" ORDER="1" TYPE="item">
+      <fptr FILEID="8568"/>
+    </div>
+  </structMap>
+</mets>
+
