@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <mets xmlns="http://www.loc.gov/METS/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/mets/mets.xsd">
-  <metsHdr CREATEDATE="2020-03-25 08:37:26 -0400">
+  <metsHdr CREATEDATE="2020-09-21 09:38:17 -0400">
     <agent ROLE="CREATOR" TYPE="ORGANIZATION">
       <name>Rockefeller Archive Center</name>
       <note>http://www.rockarch.org</note>
@@ -11,28 +11,28 @@
     <mdWrap MDTYPE="MODS">
       <xmlData>
         <mods version="3.4" xmlns="http://www.loc.gov/mods/v3">
-          <mods:titleInfo>
-            <mods:title>RF_Arnold_1966-1967.pdf</mods:title>
+          <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3">
+            <mods:title xmlns:mods="http://www.loc.gov/mods/v3">RF_Arnold_1966-1967.pdf</mods:title>
           </mods:titleInfo>
-          <mods:identifier type="local">27c5e54a-1e1c-4dd3-be8f-9f4e4bc33c42</mods:identifier>
-          <mods:typeOfResource/>
-          <mods:originInfo/>
-          <mods:physicalDescription/>
-          <mods:note type="originalsloc">59de82cb-67fb-4502-b87d-e35a32c7b9f0</mods:note>
-          <mods:note displayLabel="Digital object made available by">Rockefeller Archive Center, 15 Dayton Avenue, Sleepy Hollow, 10591, U.S.A. (http://www.rockarch.org)</mods:note>
-          <mods:subject authority="lcsh">
-            <mods:geographic>Colombia</mods:geographic>
+          <mods:identifier type="local" xmlns:mods="http://www.loc.gov/mods/v3">27c5e54a-1e1c-4dd3-be8f-9f4e4bc33c42</mods:identifier>
+          <mods:typeOfResource xmlns:mods="http://www.loc.gov/mods/v3"/>
+          <mods:originInfo xmlns:mods="http://www.loc.gov/mods/v3"/>
+          <mods:physicalDescription xmlns:mods="http://www.loc.gov/mods/v3"/>
+          <mods:note type="originalsloc" xmlns:mods="http://www.loc.gov/mods/v3">59de82cb-67fb-4502-b87d-e35a32c7b9f0</mods:note>
+          <mods:note displayLabel="Digital object made available by" xmlns:mods="http://www.loc.gov/mods/v3">Rockefeller Archive Center, 15 Dayton Avenue, Sleepy Hollow, 10591, U.S.A. (http://www.rockarch.org)</mods:note>
+          <mods:subject authority="lcsh" xmlns:mods="http://www.loc.gov/mods/v3">
+            <mods:geographic xmlns:mods="http://www.loc.gov/mods/v3">Colombia</mods:geographic>
           </mods:subject>
-          <mods:subject authority="lcsh">
-            <mods:geographic>Nigeria</mods:geographic>
+          <mods:subject authority="lcsh" xmlns:mods="http://www.loc.gov/mods/v3">
+            <mods:geographic xmlns:mods="http://www.loc.gov/mods/v3">Nigeria</mods:geographic>
           </mods:subject>
-          <mods:relatedItem displayLabel="resource" type="host">
-            <mods:name>Rockefeller Foundation records, officers' diaries, RG 12, A-E</mods:name>
-            <mods:identifier>FA391.xml</mods:identifier>
+          <mods:relatedItem displayLabel="resource" type="host" xmlns:mods="http://www.loc.gov/mods/v3">
+            <mods:name xmlns:mods="http://www.loc.gov/mods/v3">Rockefeller Foundation records, officers' diaries, RG 12, A-E</mods:name>
+            <mods:identifier xmlns:mods="http://www.loc.gov/mods/v3">FA391.xml</mods:identifier>
           </mods:relatedItem>
-          <mods:relatedItem displayLabel="component" type="host">
-            <mods:name>1966-1967</mods:name>
-            <mods:identifier>e732ee2ebcbb4e18b3ab0f15de750a81</mods:identifier>
+          <mods:relatedItem displayLabel="component" type="host" xmlns:mods="http://www.loc.gov/mods/v3">
+            <mods:name xmlns:mods="http://www.loc.gov/mods/v3">1966-1967</mods:name>
+            <mods:identifier xmlns:mods="http://www.loc.gov/mods/v3">e732ee2ebcbb4e18b3ab0f15de750a81</mods:identifier>
           </mods:relatedItem>
         </mods>
       </xmlData>
@@ -43,11 +43,11 @@
       <mdWrap MDTYPE="PREMIS:OBJECT">
         <xmlData>
           <object version="2.2" xmlns="info:lc/xmlns/premis-v2" xsi:schemaLocation="info:lc/xmlns/premis-v2 http://www.loc.gov/standards/premis/v2/premis-v2-2.xsd" xsi:type="file">
-            <objectIdentifier>
+            <objectIdentifier xmlns="http://www.loc.gov/METS/">
               <objectIdentifierType>ArchivesSpace identifier</objectIdentifierType>
               <objectIdentifierValue>8106</objectIdentifierValue>
             </objectIdentifier>
-            <objectCharacteristics>
+            <objectCharacteristics xmlns="http://www.loc.gov/METS/">
               <fixity>
                 <messageDigestAlgorithm/>
                 <messageDigest/>
