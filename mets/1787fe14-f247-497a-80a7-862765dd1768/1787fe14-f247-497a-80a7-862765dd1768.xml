@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mets xmlns="http://www.loc.gov/METS/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/mets/mets.xsd">
+  <metsHdr CREATEDATE="2020-12-05 00:06:05 -0500">
+    <agent ROLE="CREATOR" TYPE="ORGANIZATION">
+      <name>Rockefeller Archive Center</name>
+      <note>http://www.rockarch.org</note>
+      <note>Produced by ArchivesSpace</note>
+    </agent>
+  </metsHdr>
+  <dmdSec ID="3581">
+    <mdWrap MDTYPE="MODS">
+      <xmlData>
+        <mods version="3.4" xmlns="http://www.loc.gov/mods/v3">
+          <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3">
+            <mods:title xmlns:mods="http://www.loc.gov/mods/v3">FA057_ReelM07_Series2_Box10_Folder163.pdf</mods:title>
+          </mods:titleInfo>
+          <mods:identifier type="local" xmlns:mods="http://www.loc.gov/mods/v3">1787fe14-f247-497a-80a7-862765dd1768</mods:identifier>
+          <mods:typeOfResource xmlns:mods="http://www.loc.gov/mods/v3"/>
+          <mods:originInfo xmlns:mods="http://www.loc.gov/mods/v3"/>
+          <mods:physicalDescription xmlns:mods="http://www.loc.gov/mods/v3"/>
+          <mods:note type="originalsloc" xmlns:mods="http://www.loc.gov/mods/v3">25eec3c4-bd9b-4faa-a47b-09f99b18bf3b</mods:note>
+          <mods:note displayLabel="Digital object made available by" xmlns:mods="http://www.loc.gov/mods/v3">Rockefeller Archive Center, 15 Dayton Avenue, Sleepy Hollow, 10591, U.S.A. (http://www.rockarch.org)</mods:note>
+          <mods:relatedItem displayLabel="resource" type="host" xmlns:mods="http://www.loc.gov/mods/v3">
+            <mods:name xmlns:mods="http://www.loc.gov/mods/v3">Rockefeller Sanitary Commission for the Eradication of Hookworm Disease records</mods:name>
+            <mods:identifier xmlns:mods="http://www.loc.gov/mods/v3">FA057.xml</mods:identifier>
+          </mods:relatedItem>
+          <mods:relatedItem displayLabel="component" type="host" xmlns:mods="http://www.loc.gov/mods/v3">
+            <mods:name xmlns:mods="http://www.loc.gov/mods/v3">Puerto Rico, 1910-1914</mods:name>
+            <mods:identifier xmlns:mods="http://www.loc.gov/mods/v3">eed1daf89fda472286832aa2a592d136</mods:identifier>
+          </mods:relatedItem>
+        </mods>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec>
+    <techMD ID="8692">
+      <mdWrap MDTYPE="PREMIS:OBJECT">
+        <xmlData>
+          <object version="2.2" xmlns="info:lc/xmlns/premis-v2" xsi:schemaLocation="info:lc/xmlns/premis-v2 http://www.loc.gov/standards/premis/v2/premis-v2-2.xsd" xsi:type="file">
+            <objectIdentifier xmlns="http://www.loc.gov/METS/">
+              <objectIdentifierType>ArchivesSpace identifier</objectIdentifierType>
+              <objectIdentifierValue>8692</objectIdentifierValue>
+            </objectIdentifier>
+            <objectCharacteristics xmlns="http://www.loc.gov/METS/">
+              <fixity>
+                <messageDigestAlgorithm/>
+                <messageDigest/>
+              </fixity>
+              <size>18990185</size>
+              <format>
+                <formatDesignation>
+                  <formatName>pdf</formatName>
+                  <formatVersion>Generic PDF</formatVersion>
+                </formatDesignation>
+              </format>
+            </objectCharacteristics>
+          </object>
+        </xmlData>
+      </mdWrap>
+    </techMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="">
+      <file AMDID="8692" GROUPID="3581" ID="8692">
+        <FLocat xlink:href="https://storage.rockarch.org/1787fe14-f247-497a-80a7-862765dd1768-FA057_ReelM07_Series2_Box10_Folder163.pdf"/>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="logical">
+    <div DMDID="3581" LABEL="FA057_ReelM07_Series2_Box10_Folder163.pdf" ORDER="1" TYPE="item">
+      <fptr FILEID="8692"/>
+    </div>
+  </structMap>
+  <structMap TYPE="physical">
+    <div DMDID="3581" LABEL="FA057_ReelM07_Series2_Box10_Folder163.pdf" ORDER="1" TYPE="item">
+      <fptr FILEID="8692"/>
+    </div>
+  </structMap>
+</mets>
+
