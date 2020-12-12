@@ -1,52 +1,52 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <mets xmlns="http://www.loc.gov/METS/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/mets/mets.xsd">
-  <metsHdr CREATEDATE="2020-12-12 00:08:03 -0500">
+  <metsHdr CREATEDATE="2020-12-12 00:08:10 -0500">
     <agent ROLE="CREATOR" TYPE="ORGANIZATION">
       <name>Rockefeller Archive Center</name>
       <note>http://www.rockarch.org</note>
       <note>Produced by ArchivesSpace</note>
     </agent>
   </metsHdr>
-  <dmdSec ID="3282">
+  <dmdSec ID="3735">
     <mdWrap MDTYPE="MODS">
       <xmlData>
         <mods version="3.4" xmlns="http://www.loc.gov/mods/v3">
           <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3">
-            <mods:title xmlns:mods="http://www.loc.gov/mods/v3">1ec65f6a49384aaeb03076b795a94620.pdf</mods:title>
+            <mods:title xmlns:mods="http://www.loc.gov/mods/v3">BSH_FA060_S3_1_B1_F99.pdf</mods:title>
           </mods:titleInfo>
-          <mods:identifier type="local" xmlns:mods="http://www.loc.gov/mods/v3">bf74534d-3273-4fff-8403-dd88ac639ba8</mods:identifier>
+          <mods:identifier type="local" xmlns:mods="http://www.loc.gov/mods/v3">cd111fe0-e30e-4e43-8c69-8fc0eb7dd107</mods:identifier>
           <mods:typeOfResource xmlns:mods="http://www.loc.gov/mods/v3"/>
           <mods:originInfo xmlns:mods="http://www.loc.gov/mods/v3"/>
           <mods:physicalDescription xmlns:mods="http://www.loc.gov/mods/v3"/>
-          <mods:note type="originalsloc" xmlns:mods="http://www.loc.gov/mods/v3">dcf19cb5-14ed-478d-a50d-8f9c4ad4658c</mods:note>
+          <mods:note type="originalsloc" xmlns:mods="http://www.loc.gov/mods/v3">fdaa1d63-bf95-4055-baa0-39ae98b7e21d</mods:note>
           <mods:note displayLabel="Digital object made available by" xmlns:mods="http://www.loc.gov/mods/v3">Rockefeller Archive Center, 15 Dayton Avenue, Sleepy Hollow, 10591, U.S.A. (http://www.rockarch.org)</mods:note>
           <mods:relatedItem displayLabel="resource" type="host" xmlns:mods="http://www.loc.gov/mods/v3">
-            <mods:name xmlns:mods="http://www.loc.gov/mods/v3">Rockefeller Foundation records, projects, SG 1.1, Series 100 International - Series 257 Virgin Islands, U.S.A.</mods:name>
-            <mods:identifier xmlns:mods="http://www.loc.gov/mods/v3">FA386a.xml</mods:identifier>
+            <mods:name xmlns:mods="http://www.loc.gov/mods/v3">Bureau of Social Hygiene records</mods:name>
+            <mods:identifier xmlns:mods="http://www.loc.gov/mods/v3">FA060.xml</mods:identifier>
           </mods:relatedItem>
           <mods:relatedItem displayLabel="component" type="host" xmlns:mods="http://www.loc.gov/mods/v3">
-            <mods:name xmlns:mods="http://www.loc.gov/mods/v3">Johns Hopkins University - Biological Research, 1924-1938</mods:name>
-            <mods:identifier xmlns:mods="http://www.loc.gov/mods/v3">1ec65f6a49384aaeb03076b795a94620</mods:identifier>
+            <mods:name xmlns:mods="http://www.loc.gov/mods/v3">"Dangerous Drugs" by Arthur Woods, 1930-1932</mods:name>
+            <mods:identifier xmlns:mods="http://www.loc.gov/mods/v3">55f1953a6bc5412fb4eb1e1d118df59c</mods:identifier>
           </mods:relatedItem>
         </mods>
       </xmlData>
     </mdWrap>
   </dmdSec>
   <amdSec>
-    <techMD ID="8391">
+    <techMD ID="8846">
       <mdWrap MDTYPE="PREMIS:OBJECT">
         <xmlData>
           <object version="2.2" xmlns="info:lc/xmlns/premis-v2" xsi:schemaLocation="info:lc/xmlns/premis-v2 http://www.loc.gov/standards/premis/v2/premis-v2-2.xsd" xsi:type="file">
             <objectIdentifier xmlns="http://www.loc.gov/METS/">
               <objectIdentifierType>ArchivesSpace identifier</objectIdentifierType>
-              <objectIdentifierValue>8391</objectIdentifierValue>
+              <objectIdentifierValue>8846</objectIdentifierValue>
             </objectIdentifier>
             <objectCharacteristics xmlns="http://www.loc.gov/METS/">
               <fixity>
                 <messageDigestAlgorithm/>
                 <messageDigest/>
               </fixity>
-              <size>39840140</size>
+              <size>14025689</size>
               <format>
                 <formatDesignation>
                   <formatName>pdf</formatName>
@@ -61,19 +61,19 @@
   </amdSec>
   <fileSec>
     <fileGrp USE="">
-      <file AMDID="8391" GROUPID="3282" ID="8391">
-        <FLocat xlink:href="https://storage.rockarch.org/bf74534d-3273-4fff-8403-dd88ac639ba8-1ec65f6a49384aaeb03076b795a94620.pdf"/>
+      <file AMDID="8846" GROUPID="3735" ID="8846">
+        <FLocat xlink:href="https://storage.rockarch.org/cd111fe0-e30e-4e43-8c69-8fc0eb7dd107-BSH_FA060_S3_1_B1_F99.pdf"/>
       </file>
     </fileGrp>
   </fileSec>
   <structMap TYPE="logical">
-    <div DMDID="3282" LABEL="1ec65f6a49384aaeb03076b795a94620.pdf" ORDER="1" TYPE="item">
-      <fptr FILEID="8391"/>
+    <div DMDID="3735" LABEL="BSH_FA060_S3_1_B1_F99.pdf" ORDER="1" TYPE="item">
+      <fptr FILEID="8846"/>
     </div>
   </structMap>
   <structMap TYPE="physical">
-    <div DMDID="3282" LABEL="1ec65f6a49384aaeb03076b795a94620.pdf" ORDER="1" TYPE="item">
-      <fptr FILEID="8391"/>
+    <div DMDID="3735" LABEL="BSH_FA060_S3_1_B1_F99.pdf" ORDER="1" TYPE="item">
+      <fptr FILEID="8846"/>
     </div>
   </structMap>
 </mets>
