@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mets xmlns="http://www.loc.gov/METS/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/mets/mets.xsd">
+  <metsHdr CREATEDATE="2020-12-14 00:05:37 -0500">
+    <agent ROLE="CREATOR" TYPE="ORGANIZATION">
+      <name>Rockefeller Archive Center</name>
+      <note>http://www.rockarch.org</note>
+      <note>Produced by ArchivesSpace</note>
+    </agent>
+  </metsHdr>
+  <dmdSec ID="3807">
+    <mdWrap MDTYPE="MODS">
+      <xmlData>
+        <mods version="3.4" xmlns="http://www.loc.gov/mods/v3">
+          <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3">
+            <mods:title xmlns:mods="http://www.loc.gov/mods/v3">BSH_FA060_S3_2_B8_F181.pdf</mods:title>
+          </mods:titleInfo>
+          <mods:identifier type="local" xmlns:mods="http://www.loc.gov/mods/v3">f4332699-d3d7-485b-8db6-6bfef1789b7c</mods:identifier>
+          <mods:typeOfResource xmlns:mods="http://www.loc.gov/mods/v3"/>
+          <mods:originInfo xmlns:mods="http://www.loc.gov/mods/v3"/>
+          <mods:physicalDescription xmlns:mods="http://www.loc.gov/mods/v3"/>
+          <mods:note type="originalsloc" xmlns:mods="http://www.loc.gov/mods/v3">cc2beb8c-2924-43b5-b324-19890e4a2fb5</mods:note>
+          <mods:note displayLabel="Digital object made available by" xmlns:mods="http://www.loc.gov/mods/v3">Rockefeller Archive Center, 15 Dayton Avenue, Sleepy Hollow, 10591, U.S.A. (http://www.rockarch.org)</mods:note>
+          <mods:relatedItem displayLabel="resource" type="host" xmlns:mods="http://www.loc.gov/mods/v3">
+            <mods:name xmlns:mods="http://www.loc.gov/mods/v3">Bureau of Social Hygiene records</mods:name>
+            <mods:identifier xmlns:mods="http://www.loc.gov/mods/v3">FA060.xml</mods:identifier>
+          </mods:relatedItem>
+          <mods:relatedItem displayLabel="component" type="host" xmlns:mods="http://www.loc.gov/mods/v3">
+            <mods:name xmlns:mods="http://www.loc.gov/mods/v3">International Federation of Eugenical Organization, 1932</mods:name>
+            <mods:identifier xmlns:mods="http://www.loc.gov/mods/v3">bf3175a813114d478352fbfc70626bb1</mods:identifier>
+          </mods:relatedItem>
+        </mods>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec>
+    <techMD ID="8918">
+      <mdWrap MDTYPE="PREMIS:OBJECT">
+        <xmlData>
+          <object version="2.2" xmlns="info:lc/xmlns/premis-v2" xsi:schemaLocation="info:lc/xmlns/premis-v2 http://www.loc.gov/standards/premis/v2/premis-v2-2.xsd" xsi:type="file">
+            <objectIdentifier xmlns="http://www.loc.gov/METS/">
+              <objectIdentifierType>ArchivesSpace identifier</objectIdentifierType>
+              <objectIdentifierValue>8918</objectIdentifierValue>
+            </objectIdentifier>
+            <objectCharacteristics xmlns="http://www.loc.gov/METS/">
+              <fixity>
+                <messageDigestAlgorithm/>
+                <messageDigest/>
+              </fixity>
+              <size>7758440</size>
+              <format>
+                <formatDesignation>
+                  <formatName>pdf</formatName>
+                  <formatVersion>Generic PDF</formatVersion>
+                </formatDesignation>
+              </format>
+            </objectCharacteristics>
+          </object>
+        </xmlData>
+      </mdWrap>
+    </techMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="">
+      <file AMDID="8918" GROUPID="3807" ID="8918">
+        <FLocat xlink:href="https://storage.rockarch.org/f4332699-d3d7-485b-8db6-6bfef1789b7c-BSH_FA060_S3_2_B8_F181.pdf"/>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="logical">
+    <div DMDID="3807" LABEL="BSH_FA060_S3_2_B8_F181.pdf" ORDER="1" TYPE="item">
+      <fptr FILEID="8918"/>
+    </div>
+  </structMap>
+  <structMap TYPE="physical">
+    <div DMDID="3807" LABEL="BSH_FA060_S3_2_B8_F181.pdf" ORDER="1" TYPE="item">
+      <fptr FILEID="8918"/>
+    </div>
+  </structMap>
+</mets>
+
