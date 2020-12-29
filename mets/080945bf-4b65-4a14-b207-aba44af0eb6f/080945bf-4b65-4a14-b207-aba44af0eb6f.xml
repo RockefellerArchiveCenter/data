@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <mets xmlns="http://www.loc.gov/METS/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/mets/mets.xsd">
-  <metsHdr CREATEDATE="2020-03-25 08:35:22 -0400">
+  <metsHdr CREATEDATE="2020-12-29 04:28:46 -0500">
     <agent ROLE="CREATOR" TYPE="ORGANIZATION">
       <name>Rockefeller Archive Center</name>
       <note>http://www.rockarch.org</note>
@@ -11,22 +11,22 @@
     <mdWrap MDTYPE="MODS">
       <xmlData>
         <mods version="3.4" xmlns="http://www.loc.gov/mods/v3">
-          <mods:titleInfo>
-            <mods:title>RF_Freund_1966.pdf</mods:title>
+          <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3">
+            <mods:title xmlns:mods="http://www.loc.gov/mods/v3">RF_Freund_1966.pdf</mods:title>
           </mods:titleInfo>
-          <mods:identifier type="local">080945bf-4b65-4a14-b207-aba44af0eb6f</mods:identifier>
-          <mods:typeOfResource/>
-          <mods:originInfo/>
-          <mods:physicalDescription/>
-          <mods:note type="originalsloc">cd6e8b2d-2c18-4ac1-9c86-1afb93fa5919</mods:note>
-          <mods:note displayLabel="Digital object made available by">Rockefeller Archive Center, 15 Dayton Avenue, Sleepy Hollow, 10591, U.S.A. (http://www.rockarch.org)</mods:note>
-          <mods:relatedItem displayLabel="resource" type="host">
-            <mods:name>Rockefeller Foundation records, officers' diaries, RG 12, F-L</mods:name>
-            <mods:identifier>FA392.xml</mods:identifier>
+          <mods:identifier type="local" xmlns:mods="http://www.loc.gov/mods/v3">080945bf-4b65-4a14-b207-aba44af0eb6f</mods:identifier>
+          <mods:typeOfResource xmlns:mods="http://www.loc.gov/mods/v3"/>
+          <mods:originInfo xmlns:mods="http://www.loc.gov/mods/v3"/>
+          <mods:physicalDescription xmlns:mods="http://www.loc.gov/mods/v3"/>
+          <mods:note type="originalsloc" xmlns:mods="http://www.loc.gov/mods/v3">cd6e8b2d-2c18-4ac1-9c86-1afb93fa5919</mods:note>
+          <mods:note displayLabel="Digital object made available by" xmlns:mods="http://www.loc.gov/mods/v3">Rockefeller Archive Center, 15 Dayton Avenue, Sleepy Hollow, 10591, U.S.A. (http://www.rockarch.org)</mods:note>
+          <mods:relatedItem displayLabel="resource" type="host" xmlns:mods="http://www.loc.gov/mods/v3">
+            <mods:name xmlns:mods="http://www.loc.gov/mods/v3">Rockefeller Foundation records, officers' diaries, RG 12, F-L</mods:name>
+            <mods:identifier xmlns:mods="http://www.loc.gov/mods/v3">FA392.xml</mods:identifier>
           </mods:relatedItem>
-          <mods:relatedItem displayLabel="component" type="host">
-            <mods:name>1966</mods:name>
-            <mods:identifier>b2e740eacc1241deacef1f9fe16ee33c</mods:identifier>
+          <mods:relatedItem displayLabel="component" type="host" xmlns:mods="http://www.loc.gov/mods/v3">
+            <mods:name xmlns:mods="http://www.loc.gov/mods/v3">1966</mods:name>
+            <mods:identifier xmlns:mods="http://www.loc.gov/mods/v3">b2e740eacc1241deacef1f9fe16ee33c</mods:identifier>
           </mods:relatedItem>
         </mods>
       </xmlData>
@@ -37,11 +37,11 @@
       <mdWrap MDTYPE="PREMIS:OBJECT">
         <xmlData>
           <object version="2.2" xmlns="info:lc/xmlns/premis-v2" xsi:schemaLocation="info:lc/xmlns/premis-v2 http://www.loc.gov/standards/premis/v2/premis-v2-2.xsd" xsi:type="file">
-            <objectIdentifier>
+            <objectIdentifier xmlns="http://www.loc.gov/METS/">
               <objectIdentifierType>ArchivesSpace identifier</objectIdentifierType>
               <objectIdentifierValue>8498</objectIdentifierValue>
             </objectIdentifier>
-            <objectCharacteristics>
+            <objectCharacteristics xmlns="http://www.loc.gov/METS/">
               <fixity>
                 <messageDigestAlgorithm/>
                 <messageDigest/>

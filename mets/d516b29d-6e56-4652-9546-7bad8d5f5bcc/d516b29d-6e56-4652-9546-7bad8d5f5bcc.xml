@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <mets xmlns="http://www.loc.gov/METS/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/mets/mets.xsd">
-  <metsHdr CREATEDATE="2019-04-23 00:50:40 -0400">
+  <metsHdr CREATEDATE="2020-12-29 04:06:01 -0500">
     <agent ROLE="CREATOR" TYPE="ORGANIZATION">
       <name>Rockefeller Archive Center</name>
       <note>http://www.rockarch.org</note>
@@ -11,30 +11,30 @@
     <mdWrap MDTYPE="MODS">
       <xmlData>
         <mods version="3.4" xmlns="http://www.loc.gov/mods/v3">
-          <mods:titleInfo>
-            <mods:title>New York City School Volunteer Program</mods:title>
+          <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3">
+            <mods:title xmlns:mods="http://www.loc.gov/mods/v3">New York City School Volunteer Program</mods:title>
           </mods:titleInfo>
-          <mods:identifier type="local">d516b29d-6e56-4652-9546-7bad8d5f5bcc</mods:identifier>
-          <mods:typeOfResource>Text</mods:typeOfResource>
-          <mods:originInfo>
-            <mods:dateCreated>1983-1985</mods:dateCreated>
+          <mods:identifier type="local" xmlns:mods="http://www.loc.gov/mods/v3">d516b29d-6e56-4652-9546-7bad8d5f5bcc</mods:identifier>
+          <mods:typeOfResource xmlns:mods="http://www.loc.gov/mods/v3">Text</mods:typeOfResource>
+          <mods:originInfo xmlns:mods="http://www.loc.gov/mods/v3">
+            <mods:dateCreated xmlns:mods="http://www.loc.gov/mods/v3">1983-1985</mods:dateCreated>
           </mods:originInfo>
-          <mods:language>
-            <mods:languageTerm authority="iso639-2b" type="text">English</mods:languageTerm>
-            <mods:languageTerm authority="iso639-2b" type="code">eng</mods:languageTerm>
+          <mods:language xmlns:mods="http://www.loc.gov/mods/v3">
+            <mods:languageTerm authority="iso639-2b" type="text" xmlns:mods="http://www.loc.gov/mods/v3">English</mods:languageTerm>
+            <mods:languageTerm authority="iso639-2b" type="code" xmlns:mods="http://www.loc.gov/mods/v3">eng</mods:languageTerm>
           </mods:language>
-          <mods:physicalDescription/>
-          <mods:note type="originalsloc">974a4c4a-fc81-4767-ae7a-59a92409bf15</mods:note>
-          <mods:accessCondition type="restrictionOnAccess">No restrictions on access.</mods:accessCondition>
-          <mods:accessCondition type="useAndReproduction">To the extent that the donor owns copyright in these materials, he/she has given the Rockefeller Archive Center the authority to grant permission to cite and publish material from the collection for scholarly purposes; however, copyright in some items may be held by their respective creators.  Please consult an archivist for further details.</mods:accessCondition>
-          <mods:note displayLabel="Digital object made available by">Rockefeller Archive Center, 15 Dayton Avenue, Sleepy Hollow, 10591, U.S.A. (http://www.rockarch.org)</mods:note>
-          <mods:relatedItem displayLabel="resource" type="host">
-            <mods:name>Foundation for Child Development records</mods:name>
-            <mods:identifier>FA019.xml</mods:identifier>
+          <mods:physicalDescription xmlns:mods="http://www.loc.gov/mods/v3"/>
+          <mods:note type="originalsloc" xmlns:mods="http://www.loc.gov/mods/v3">974a4c4a-fc81-4767-ae7a-59a92409bf15</mods:note>
+          <mods:accessCondition type="restrictionOnAccess" xmlns:mods="http://www.loc.gov/mods/v3">No restrictions on access.</mods:accessCondition>
+          <mods:accessCondition type="useAndReproduction" xmlns:mods="http://www.loc.gov/mods/v3">To the extent that the donor owns copyright in these materials, he/she has given the Rockefeller Archive Center the authority to grant permission to cite and publish material from the collection for scholarly purposes; however, copyright in some items may be held by their respective creators.  Please consult an archivist for further details.</mods:accessCondition>
+          <mods:note displayLabel="Digital object made available by" xmlns:mods="http://www.loc.gov/mods/v3">Rockefeller Archive Center, 15 Dayton Avenue, Sleepy Hollow, 10591, U.S.A. (http://www.rockarch.org)</mods:note>
+          <mods:relatedItem displayLabel="resource" type="host" xmlns:mods="http://www.loc.gov/mods/v3">
+            <mods:name xmlns:mods="http://www.loc.gov/mods/v3">Foundation for Child Development records</mods:name>
+            <mods:identifier xmlns:mods="http://www.loc.gov/mods/v3">FA019.xml</mods:identifier>
           </mods:relatedItem>
-          <mods:relatedItem displayLabel="component" type="host">
-            <mods:name>New York City School Volunteer Program, 1983-1985</mods:name>
-            <mods:identifier>6095c73c29344d3bb692c7349c20da91</mods:identifier>
+          <mods:relatedItem displayLabel="component" type="host" xmlns:mods="http://www.loc.gov/mods/v3">
+            <mods:name xmlns:mods="http://www.loc.gov/mods/v3">New York City School Volunteer Program, 1983-1985</mods:name>
+            <mods:identifier xmlns:mods="http://www.loc.gov/mods/v3">6095c73c29344d3bb692c7349c20da91</mods:identifier>
           </mods:relatedItem>
         </mods>
       </xmlData>
@@ -45,11 +45,11 @@
       <mdWrap MDTYPE="PREMIS:OBJECT">
         <xmlData>
           <object version="2.2" xmlns="info:lc/xmlns/premis-v2" xsi:schemaLocation="info:lc/xmlns/premis-v2 http://www.loc.gov/standards/premis/v2/premis-v2-2.xsd" xsi:type="file">
-            <objectIdentifier>
+            <objectIdentifier xmlns="http://www.loc.gov/METS/">
               <objectIdentifierType>ArchivesSpace identifier</objectIdentifierType>
               <objectIdentifierValue>7345</objectIdentifierValue>
             </objectIdentifier>
-            <objectCharacteristics>
+            <objectCharacteristics xmlns="http://www.loc.gov/METS/">
               <fixity>
                 <messageDigestAlgorithm/>
                 <messageDigest/>

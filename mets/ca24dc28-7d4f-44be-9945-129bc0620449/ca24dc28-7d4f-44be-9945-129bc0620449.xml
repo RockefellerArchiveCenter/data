@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <mets xmlns="http://www.loc.gov/METS/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/mets/mets.xsd">
-  <metsHdr CREATEDATE="2020-03-25 08:47:07 -0400">
+  <metsHdr CREATEDATE="2020-12-29 04:21:24 -0500">
     <agent ROLE="CREATOR" TYPE="ORGANIZATION">
       <name>Rockefeller Archive Center</name>
       <note>http://www.rockarch.org</note>
@@ -11,30 +11,30 @@
     <mdWrap MDTYPE="MODS">
       <xmlData>
         <mods version="3.4" xmlns="http://www.loc.gov/mods/v3">
-          <mods:titleInfo>
-            <mods:title>Diary: Gladys E. Russell</mods:title>
+          <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3">
+            <mods:title xmlns:mods="http://www.loc.gov/mods/v3">Diary: Gladys E. Russell</mods:title>
           </mods:titleInfo>
-          <mods:identifier type="local">ca24dc28-7d4f-44be-9945-129bc0620449</mods:identifier>
-          <mods:typeOfResource>Text</mods:typeOfResource>
-          <mods:originInfo>
-            <mods:dateCreated>3 January - September 18 1929</mods:dateCreated>
+          <mods:identifier type="local" xmlns:mods="http://www.loc.gov/mods/v3">ca24dc28-7d4f-44be-9945-129bc0620449</mods:identifier>
+          <mods:typeOfResource xmlns:mods="http://www.loc.gov/mods/v3">Text</mods:typeOfResource>
+          <mods:originInfo xmlns:mods="http://www.loc.gov/mods/v3">
+            <mods:dateCreated xmlns:mods="http://www.loc.gov/mods/v3">3 January - September 18 1929</mods:dateCreated>
           </mods:originInfo>
-          <mods:language>
-            <mods:languageTerm authority="iso639-2b" type="text">English</mods:languageTerm>
-            <mods:languageTerm authority="iso639-2b" type="code">eng</mods:languageTerm>
+          <mods:language xmlns:mods="http://www.loc.gov/mods/v3">
+            <mods:languageTerm authority="iso639-2b" type="text" xmlns:mods="http://www.loc.gov/mods/v3">English</mods:languageTerm>
+            <mods:languageTerm authority="iso639-2b" type="code" xmlns:mods="http://www.loc.gov/mods/v3">eng</mods:languageTerm>
           </mods:language>
-          <mods:physicalDescription/>
-          <mods:note type="originalsloc">d43c66e0-ab1e-4258-bc34-4b87d66f2f8f</mods:note>
-          <mods:accessCondition type="restrictionOnAccess">As the author is deceased, the Rockefeller Foundation restriction on the diaries of living officers no longer applies. The Rockefeller Foundation twenty-year embargo has also expired for these materials.</mods:accessCondition>
-          <mods:accessCondition type="useAndReproduction">To the extent that the Rockefeller Foundation owns copyright in these materials, it has given the Rockefeller Archive Center the authority to grant permission to cite and publish material from the collection for scholarly purposes.</mods:accessCondition>
-          <mods:note displayLabel="Digital object made available by">Rockefeller Archive Center, 15 Dayton Avenue, Sleepy Hollow, 10591, U.S.A. (http://www.rockarch.org)</mods:note>
-          <mods:relatedItem displayLabel="resource" type="host">
-            <mods:name>Rockefeller Foundation records, officers' diaries, RG 12, S-Z</mods:name>
-            <mods:identifier>FA394.xml</mods:identifier>
+          <mods:physicalDescription xmlns:mods="http://www.loc.gov/mods/v3"/>
+          <mods:note type="originalsloc" xmlns:mods="http://www.loc.gov/mods/v3">d43c66e0-ab1e-4258-bc34-4b87d66f2f8f</mods:note>
+          <mods:accessCondition type="restrictionOnAccess" xmlns:mods="http://www.loc.gov/mods/v3">As the author is deceased, the Rockefeller Foundation restriction on the diaries of living officers no longer applies. The Rockefeller Foundation twenty-year embargo has also expired for these materials.</mods:accessCondition>
+          <mods:accessCondition type="useAndReproduction" xmlns:mods="http://www.loc.gov/mods/v3">To the extent that the Rockefeller Foundation owns copyright in these materials, it has given the Rockefeller Archive Center the authority to grant permission to cite and publish material from the collection for scholarly purposes.</mods:accessCondition>
+          <mods:note displayLabel="Digital object made available by" xmlns:mods="http://www.loc.gov/mods/v3">Rockefeller Archive Center, 15 Dayton Avenue, Sleepy Hollow, 10591, U.S.A. (http://www.rockarch.org)</mods:note>
+          <mods:relatedItem displayLabel="resource" type="host" xmlns:mods="http://www.loc.gov/mods/v3">
+            <mods:name xmlns:mods="http://www.loc.gov/mods/v3">Rockefeller Foundation records, officers' diaries, RG 12, S-Z</mods:name>
+            <mods:identifier xmlns:mods="http://www.loc.gov/mods/v3">FA394.xml</mods:identifier>
           </mods:relatedItem>
-          <mods:relatedItem displayLabel="component" type="host">
-            <mods:name>Diary: Gladys E. Russell, 1929 January 3-September 18</mods:name>
-            <mods:identifier>f8bd9fa4452a4b2dab071e1a459ebb0f</mods:identifier>
+          <mods:relatedItem displayLabel="component" type="host" xmlns:mods="http://www.loc.gov/mods/v3">
+            <mods:name xmlns:mods="http://www.loc.gov/mods/v3">Diary: Gladys E. Russell, 1929 January 3-September 18</mods:name>
+            <mods:identifier xmlns:mods="http://www.loc.gov/mods/v3">f8bd9fa4452a4b2dab071e1a459ebb0f</mods:identifier>
           </mods:relatedItem>
         </mods>
       </xmlData>
@@ -45,11 +45,11 @@
       <mdWrap MDTYPE="PREMIS:OBJECT">
         <xmlData>
           <object version="2.2" xmlns="info:lc/xmlns/premis-v2" xsi:schemaLocation="info:lc/xmlns/premis-v2 http://www.loc.gov/standards/premis/v2/premis-v2-2.xsd" xsi:type="file">
-            <objectIdentifier>
+            <objectIdentifier xmlns="http://www.loc.gov/METS/">
               <objectIdentifierType>ArchivesSpace identifier</objectIdentifierType>
               <objectIdentifierValue>7224</objectIdentifierValue>
             </objectIdentifier>
-            <objectCharacteristics>
+            <objectCharacteristics xmlns="http://www.loc.gov/METS/">
               <fixity>
                 <messageDigestAlgorithm/>
                 <messageDigest/>

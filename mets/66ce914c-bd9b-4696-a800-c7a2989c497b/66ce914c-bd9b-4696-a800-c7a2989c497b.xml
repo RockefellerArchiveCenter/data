@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <mets xmlns="http://www.loc.gov/METS/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/mets/mets.xsd">
-  <metsHdr CREATEDATE="2020-03-05 03:44:20 -0500">
+  <metsHdr CREATEDATE="2020-12-29 04:26:58 -0500">
     <agent ROLE="CREATOR" TYPE="ORGANIZATION">
       <name>Rockefeller Archive Center</name>
       <note>http://www.rockarch.org</note>
@@ -11,22 +11,22 @@
     <mdWrap MDTYPE="MODS">
       <xmlData>
         <mods version="3.4" xmlns="http://www.loc.gov/mods/v3">
-          <mods:titleInfo>
-            <mods:title>GEB_July-R_1951.pdf</mods:title>
+          <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3">
+            <mods:title xmlns:mods="http://www.loc.gov/mods/v3">GEB_July-R_1951.pdf</mods:title>
           </mods:titleInfo>
-          <mods:identifier type="local">66ce914c-bd9b-4696-a800-c7a2989c497b</mods:identifier>
-          <mods:typeOfResource/>
-          <mods:originInfo/>
-          <mods:physicalDescription/>
-          <mods:note type="originalsloc">1ea0dab5-a3f7-4c12-9028-07b0426d23f3</mods:note>
-          <mods:note displayLabel="Digital object made available by">Rockefeller Archive Center, 15 Dayton Avenue, Sleepy Hollow, 10591, U.S.A. (http://www.rockarch.org)</mods:note>
-          <mods:relatedItem displayLabel="resource" type="host">
-            <mods:name>General Education Board records</mods:name>
-            <mods:identifier>FA058.xml</mods:identifier>
+          <mods:identifier type="local" xmlns:mods="http://www.loc.gov/mods/v3">66ce914c-bd9b-4696-a800-c7a2989c497b</mods:identifier>
+          <mods:typeOfResource xmlns:mods="http://www.loc.gov/mods/v3"/>
+          <mods:originInfo xmlns:mods="http://www.loc.gov/mods/v3"/>
+          <mods:physicalDescription xmlns:mods="http://www.loc.gov/mods/v3"/>
+          <mods:note type="originalsloc" xmlns:mods="http://www.loc.gov/mods/v3">1ea0dab5-a3f7-4c12-9028-07b0426d23f3</mods:note>
+          <mods:note displayLabel="Digital object made available by" xmlns:mods="http://www.loc.gov/mods/v3">Rockefeller Archive Center, 15 Dayton Avenue, Sleepy Hollow, 10591, U.S.A. (http://www.rockarch.org)</mods:note>
+          <mods:relatedItem displayLabel="resource" type="host" xmlns:mods="http://www.loc.gov/mods/v3">
+            <mods:name xmlns:mods="http://www.loc.gov/mods/v3">General Education Board records</mods:name>
+            <mods:identifier xmlns:mods="http://www.loc.gov/mods/v3">FA058.xml</mods:identifier>
           </mods:relatedItem>
-          <mods:relatedItem displayLabel="component" type="host">
-            <mods:name>1951 - 1951</mods:name>
-            <mods:identifier>b73833c876864656b008a26642480a62</mods:identifier>
+          <mods:relatedItem displayLabel="component" type="host" xmlns:mods="http://www.loc.gov/mods/v3">
+            <mods:name xmlns:mods="http://www.loc.gov/mods/v3">1951 - 1951</mods:name>
+            <mods:identifier xmlns:mods="http://www.loc.gov/mods/v3">b73833c876864656b008a26642480a62</mods:identifier>
           </mods:relatedItem>
         </mods>
       </xmlData>
@@ -37,11 +37,11 @@
       <mdWrap MDTYPE="PREMIS:OBJECT">
         <xmlData>
           <object version="2.2" xmlns="info:lc/xmlns/premis-v2" xsi:schemaLocation="info:lc/xmlns/premis-v2 http://www.loc.gov/standards/premis/v2/premis-v2-2.xsd" xsi:type="file">
-            <objectIdentifier>
+            <objectIdentifier xmlns="http://www.loc.gov/METS/">
               <objectIdentifierType>ArchivesSpace identifier</objectIdentifierType>
               <objectIdentifierValue>8174</objectIdentifierValue>
             </objectIdentifier>
-            <objectCharacteristics>
+            <objectCharacteristics xmlns="http://www.loc.gov/METS/">
               <fixity>
                 <messageDigestAlgorithm/>
                 <messageDigest/>

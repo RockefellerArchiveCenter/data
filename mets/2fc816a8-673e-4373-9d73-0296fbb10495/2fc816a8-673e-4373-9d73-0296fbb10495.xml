@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <mets xmlns="http://www.loc.gov/METS/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/mets/mets.xsd">
-  <metsHdr CREATEDATE="2020-03-13 20:28:55 -0400">
+  <metsHdr CREATEDATE="2020-12-29 04:26:16 -0500">
     <agent ROLE="CREATOR" TYPE="ORGANIZATION">
       <name>Rockefeller Archive Center</name>
       <note>http://www.rockarch.org</note>
@@ -11,22 +11,22 @@
     <mdWrap MDTYPE="MODS">
       <xmlData>
         <mods version="3.4" xmlns="http://www.loc.gov/mods/v3">
-          <mods:titleInfo>
-            <mods:title>c58997cb69a74f7cbc67f436226c7532.pdf</mods:title>
+          <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3">
+            <mods:title xmlns:mods="http://www.loc.gov/mods/v3">c58997cb69a74f7cbc67f436226c7532.pdf</mods:title>
           </mods:titleInfo>
-          <mods:identifier type="local">2fc816a8-673e-4373-9d73-0296fbb10495</mods:identifier>
-          <mods:typeOfResource/>
-          <mods:originInfo/>
-          <mods:physicalDescription/>
-          <mods:note type="originalsloc">80e1a2e5-5113-4afb-9190-88b1f3b8ce89</mods:note>
-          <mods:note displayLabel="Digital object made available by">Rockefeller Archive Center, 15 Dayton Avenue, Sleepy Hollow, 10591, U.S.A. (http://www.rockarch.org)</mods:note>
-          <mods:relatedItem displayLabel="resource" type="host">
-            <mods:name>Office of the Messrs. Rockefeller records, Business Interests, Series C</mods:name>
-            <mods:identifier>FA312.xml</mods:identifier>
+          <mods:identifier type="local" xmlns:mods="http://www.loc.gov/mods/v3">2fc816a8-673e-4373-9d73-0296fbb10495</mods:identifier>
+          <mods:typeOfResource xmlns:mods="http://www.loc.gov/mods/v3"/>
+          <mods:originInfo xmlns:mods="http://www.loc.gov/mods/v3"/>
+          <mods:physicalDescription xmlns:mods="http://www.loc.gov/mods/v3"/>
+          <mods:note type="originalsloc" xmlns:mods="http://www.loc.gov/mods/v3">80e1a2e5-5113-4afb-9190-88b1f3b8ce89</mods:note>
+          <mods:note displayLabel="Digital object made available by" xmlns:mods="http://www.loc.gov/mods/v3">Rockefeller Archive Center, 15 Dayton Avenue, Sleepy Hollow, 10591, U.S.A. (http://www.rockarch.org)</mods:note>
+          <mods:relatedItem displayLabel="resource" type="host" xmlns:mods="http://www.loc.gov/mods/v3">
+            <mods:name xmlns:mods="http://www.loc.gov/mods/v3">Office of the Messrs. Rockefeller records, Business Interests, Series C</mods:name>
+            <mods:identifier xmlns:mods="http://www.loc.gov/mods/v3">FA312.xml</mods:identifier>
           </mods:relatedItem>
-          <mods:relatedItem displayLabel="component" type="host">
-            <mods:name>Rockefeller Center, Inc. - Murals - Jose Sert, 1933-1943</mods:name>
-            <mods:identifier>c58997cb69a74f7cbc67f436226c7532</mods:identifier>
+          <mods:relatedItem displayLabel="component" type="host" xmlns:mods="http://www.loc.gov/mods/v3">
+            <mods:name xmlns:mods="http://www.loc.gov/mods/v3">Rockefeller Center, Inc. - Murals - Jose Sert, 1933-1943</mods:name>
+            <mods:identifier xmlns:mods="http://www.loc.gov/mods/v3">c58997cb69a74f7cbc67f436226c7532</mods:identifier>
           </mods:relatedItem>
         </mods>
       </xmlData>
@@ -37,11 +37,11 @@
       <mdWrap MDTYPE="PREMIS:OBJECT">
         <xmlData>
           <object version="2.2" xmlns="info:lc/xmlns/premis-v2" xsi:schemaLocation="info:lc/xmlns/premis-v2 http://www.loc.gov/standards/premis/v2/premis-v2-2.xsd" xsi:type="file">
-            <objectIdentifier>
+            <objectIdentifier xmlns="http://www.loc.gov/METS/">
               <objectIdentifierType>ArchivesSpace identifier</objectIdentifierType>
               <objectIdentifierValue>8096</objectIdentifierValue>
             </objectIdentifier>
-            <objectCharacteristics>
+            <objectCharacteristics xmlns="http://www.loc.gov/METS/">
               <fixity>
                 <messageDigestAlgorithm/>
                 <messageDigest/>
