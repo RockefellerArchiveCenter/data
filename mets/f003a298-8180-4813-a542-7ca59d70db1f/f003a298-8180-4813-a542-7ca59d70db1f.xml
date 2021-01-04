@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mets xmlns="http://www.loc.gov/METS/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/mets/mets.xsd">
+  <metsHdr CREATEDATE="2021-01-04 08:42:11 -0500">
+    <agent ROLE="CREATOR" TYPE="ORGANIZATION">
+      <name>Rockefeller Archive Center</name>
+      <note>http://www.rockarch.org</note>
+      <note>Produced by ArchivesSpace</note>
+    </agent>
+  </metsHdr>
+  <dmdSec ID="4392">
+    <mdWrap MDTYPE="MODS">
+      <xmlData>
+        <mods version="3.4" xmlns="http://www.loc.gov/mods/v3">
+          <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3">
+            <mods:title xmlns:mods="http://www.loc.gov/mods/v3">BSH_FA060_S4_5_B25_F761.pdf</mods:title>
+          </mods:titleInfo>
+          <mods:identifier type="local" xmlns:mods="http://www.loc.gov/mods/v3">f003a298-8180-4813-a542-7ca59d70db1f</mods:identifier>
+          <mods:typeOfResource xmlns:mods="http://www.loc.gov/mods/v3"/>
+          <mods:originInfo xmlns:mods="http://www.loc.gov/mods/v3"/>
+          <mods:physicalDescription xmlns:mods="http://www.loc.gov/mods/v3"/>
+          <mods:note type="originalsloc" xmlns:mods="http://www.loc.gov/mods/v3">85cb69ff-5417-4dee-ab5e-798b805b98d8</mods:note>
+          <mods:note displayLabel="Digital object made available by" xmlns:mods="http://www.loc.gov/mods/v3">Rockefeller Archive Center, 15 Dayton Avenue, Sleepy Hollow, 10591, U.S.A. (http://www.rockarch.org)</mods:note>
+          <mods:relatedItem displayLabel="resource" type="host" xmlns:mods="http://www.loc.gov/mods/v3">
+            <mods:name xmlns:mods="http://www.loc.gov/mods/v3">Bureau of Social Hygiene records</mods:name>
+            <mods:identifier xmlns:mods="http://www.loc.gov/mods/v3">FA060.xml</mods:identifier>
+          </mods:relatedItem>
+          <mods:relatedItem displayLabel="component" type="host" xmlns:mods="http://www.loc.gov/mods/v3">
+            <mods:name xmlns:mods="http://www.loc.gov/mods/v3">American Peace Society, 1928-1931</mods:name>
+            <mods:identifier xmlns:mods="http://www.loc.gov/mods/v3">fc7242ca70da4ee0bedc2f08853410a7</mods:identifier>
+          </mods:relatedItem>
+        </mods>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec>
+    <techMD ID="9503">
+      <mdWrap MDTYPE="PREMIS:OBJECT">
+        <xmlData>
+          <object version="2.2" xmlns="info:lc/xmlns/premis-v2" xsi:schemaLocation="info:lc/xmlns/premis-v2 http://www.loc.gov/standards/premis/v2/premis-v2-2.xsd" xsi:type="file">
+            <objectIdentifier xmlns="http://www.loc.gov/METS/">
+              <objectIdentifierType>ArchivesSpace identifier</objectIdentifierType>
+              <objectIdentifierValue>9503</objectIdentifierValue>
+            </objectIdentifier>
+            <objectCharacteristics xmlns="http://www.loc.gov/METS/">
+              <fixity>
+                <messageDigestAlgorithm/>
+                <messageDigest/>
+              </fixity>
+              <size>5461470</size>
+              <format>
+                <formatDesignation>
+                  <formatName>pdf</formatName>
+                  <formatVersion>Generic PDF</formatVersion>
+                </formatDesignation>
+              </format>
+            </objectCharacteristics>
+          </object>
+        </xmlData>
+      </mdWrap>
+    </techMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="">
+      <file AMDID="9503" GROUPID="4392" ID="9503">
+        <FLocat xlink:href="https://storage.rockarch.org/f003a298-8180-4813-a542-7ca59d70db1f-BSH_FA060_S4_5_B25_F761.pdf"/>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="logical">
+    <div DMDID="4392" LABEL="BSH_FA060_S4_5_B25_F761.pdf" ORDER="1" TYPE="item">
+      <fptr FILEID="9503"/>
+    </div>
+  </structMap>
+  <structMap TYPE="physical">
+    <div DMDID="4392" LABEL="BSH_FA060_S4_5_B25_F761.pdf" ORDER="1" TYPE="item">
+      <fptr FILEID="9503"/>
+    </div>
+  </structMap>
+</mets>
+
