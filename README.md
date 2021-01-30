@@ -8,4 +8,7 @@ This data is released under a Creative Commons Zero (CC0) public domain dedicati
 Our data is currently exported on a bi-monthly basis in the following formats:
 
 ### Encoded Archival Description (EAD) version 2002
-Contains EAD files for all published resources.
+EAD files for published resources.
+
+### Metadata Encoding and Transmission Standard (METS)
+METS files for published digital objects.
