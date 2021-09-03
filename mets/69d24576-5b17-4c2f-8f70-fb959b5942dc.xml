@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mets xmlns="http://www.loc.gov/METS/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/mets/mets.xsd">
+  <metsHdr CREATEDATE="2021-09-03 18:24:50 -0400">
+    <agent ROLE="CREATOR" TYPE="ORGANIZATION">
+      <name>Rockefeller Archive Center</name>
+      <note>http://www.rockarch.org</note>
+      <note>Produced by ArchivesSpace</note>
+    </agent>
+  </metsHdr>
+  <dmdSec ID="3546">
+    <mdWrap MDTYPE="MODS">
+      <xmlData>
+        <mods version="3.4" xmlns="http://www.loc.gov/mods/v3">
+          <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3">
+            <mods:title xmlns:mods="http://www.loc.gov/mods/v3">FA057_ReelM04_Series2_Box5_Folder105.pdf</mods:title>
+          </mods:titleInfo>
+          <mods:identifier type="local" xmlns:mods="http://www.loc.gov/mods/v3">69d24576-5b17-4c2f-8f70-fb959b5942dc</mods:identifier>
+          <mods:typeOfResource xmlns:mods="http://www.loc.gov/mods/v3"/>
+          <mods:originInfo xmlns:mods="http://www.loc.gov/mods/v3"/>
+          <mods:physicalDescription xmlns:mods="http://www.loc.gov/mods/v3"/>
+          <mods:note type="originalsloc" xmlns:mods="http://www.loc.gov/mods/v3">45b889d5-f613-4d0d-9646-20b6ddb18957</mods:note>
+          <mods:note displayLabel="Digital object made available by" xmlns:mods="http://www.loc.gov/mods/v3">Rockefeller Archive Center, 15 Dayton Avenue, Sleepy Hollow, 10591, U.S.A. (http://www.rockarch.org)</mods:note>
+          <mods:relatedItem displayLabel="resource" type="host" xmlns:mods="http://www.loc.gov/mods/v3">
+            <mods:name xmlns:mods="http://www.loc.gov/mods/v3">Rockefeller Sanitary Commission for the Eradication of Hookworm Disease records</mods:name>
+            <mods:identifier xmlns:mods="http://www.loc.gov/mods/v3">FA057.xml</mods:identifier>
+          </mods:relatedItem>
+          <mods:relatedItem displayLabel="component" type="host" xmlns:mods="http://www.loc.gov/mods/v3">
+            <mods:name xmlns:mods="http://www.loc.gov/mods/v3">Georgia - Reports, 1911-1913</mods:name>
+            <mods:identifier xmlns:mods="http://www.loc.gov/mods/v3">7b6224dd04e1461a9ccfa05ce1efed08</mods:identifier>
+          </mods:relatedItem>
+        </mods>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec>
+    <techMD ID="8657">
+      <mdWrap MDTYPE="PREMIS:OBJECT">
+        <xmlData>
+          <object version="2.2" xmlns="info:lc/xmlns/premis-v2" xsi:schemaLocation="info:lc/xmlns/premis-v2 http://www.loc.gov/standards/premis/v2/premis-v2-2.xsd" xsi:type="file">
+            <objectIdentifier xmlns="http://www.loc.gov/METS/">
+              <objectIdentifierType>ArchivesSpace identifier</objectIdentifierType>
+              <objectIdentifierValue>8657</objectIdentifierValue>
+            </objectIdentifier>
+            <objectCharacteristics xmlns="http://www.loc.gov/METS/">
+              <fixity>
+                <messageDigestAlgorithm/>
+                <messageDigest/>
+              </fixity>
+              <size>20971272</size>
+              <format>
+                <formatDesignation>
+                  <formatName>pdf</formatName>
+                  <formatVersion>Generic PDF</formatVersion>
+                </formatDesignation>
+              </format>
+            </objectCharacteristics>
+          </object>
+        </xmlData>
+      </mdWrap>
+    </techMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="">
+      <file AMDID="8657" GROUPID="3546" ID="8657">
+        <FLocat xlink:href="https://storage.rockarch.org/69d24576-5b17-4c2f-8f70-fb959b5942dc-FA057_ReelM04_Series2_Box5_Folder105.pdf"/>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="logical">
+    <div DMDID="3546" LABEL="FA057_ReelM04_Series2_Box5_Folder105.pdf" ORDER="1" TYPE="item">
+      <fptr FILEID="8657"/>
+    </div>
+  </structMap>
+  <structMap TYPE="physical">
+    <div DMDID="3546" LABEL="FA057_ReelM04_Series2_Box5_Folder105.pdf" ORDER="1" TYPE="item">
+      <fptr FILEID="8657"/>
+    </div>
+  </structMap>
+</mets>
+
