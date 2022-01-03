@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mets xmlns="http://www.loc.gov/METS/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/mets/mets.xsd">
+  <metsHdr CREATEDATE="2022-01-03 05:53:08 -0500">
+    <agent ROLE="CREATOR" TYPE="ORGANIZATION">
+      <name>Rockefeller Archive Center</name>
+      <note>http://www.rockarch.org</note>
+      <note>Produced by ArchivesSpace</note>
+    </agent>
+  </metsHdr>
+  <dmdSec ID="1328">
+    <mdWrap MDTYPE="MODS">
+      <xmlData>
+        <mods version="3.4" xmlns="http://www.loc.gov/mods/v3">
+          <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3">
+            <mods:title xmlns:mods="http://www.loc.gov/mods/v3">Exhibits</mods:title>
+          </mods:titleInfo>
+          <mods:identifier type="local" xmlns:mods="http://www.loc.gov/mods/v3">888faf49-392d-44a7-863f-b47bfc1e2cc7</mods:identifier>
+          <mods:typeOfResource xmlns:mods="http://www.loc.gov/mods/v3">Text</mods:typeOfResource>
+          <mods:originInfo xmlns:mods="http://www.loc.gov/mods/v3">
+            <mods:dateCreated xmlns:mods="http://www.loc.gov/mods/v3">1943-1946</mods:dateCreated>
+          </mods:originInfo>
+          <mods:language xmlns:mods="http://www.loc.gov/mods/v3">
+            <mods:languageTerm authority="iso639-2b" type="text" xmlns:mods="http://www.loc.gov/mods/v3">English</mods:languageTerm>
+            <mods:languageTerm authority="iso639-2b" type="code" xmlns:mods="http://www.loc.gov/mods/v3">eng</mods:languageTerm>
+          </mods:language>
+          <mods:physicalDescription xmlns:mods="http://www.loc.gov/mods/v3"/>
+          <mods:note type="originalsloc" xmlns:mods="http://www.loc.gov/mods/v3">32a56128-3b8a-4534-9f89-22e92b74663e</mods:note>
+          <mods:accessCondition type="restrictionOnAccess" xmlns:mods="http://www.loc.gov/mods/v3">As the author is deceased, the Rockefeller Foundation restriction on the diaries of living officers no longer applies. The Rockefeller Foundation twenty-year embargo has also expired for these materials.</mods:accessCondition>
+          <mods:accessCondition type="useAndReproduction" xmlns:mods="http://www.loc.gov/mods/v3">To the extent that the Rockefeller Foundation owns copyright in these materials, it has given the Rockefeller Archive Center the authority to grant permission to cite and publish material from the collection for scholarly purposes.</mods:accessCondition>
+          <mods:note displayLabel="Digital object made available by" xmlns:mods="http://www.loc.gov/mods/v3">Rockefeller Archive Center, 15 Dayton Avenue, Sleepy Hollow, 10591, U.S.A. (http://www.rockarch.org)</mods:note>
+          <mods:relatedItem displayLabel="resource" type="host" xmlns:mods="http://www.loc.gov/mods/v3">
+            <mods:name xmlns:mods="http://www.loc.gov/mods/v3">Rockefeller Foundation records, officers' diaries, RG 12, S-Z</mods:name>
+            <mods:identifier xmlns:mods="http://www.loc.gov/mods/v3">FA394.xml</mods:identifier>
+          </mods:relatedItem>
+          <mods:relatedItem displayLabel="component" type="host" xmlns:mods="http://www.loc.gov/mods/v3">
+            <mods:name xmlns:mods="http://www.loc.gov/mods/v3">Exhibits, 1943-1946</mods:name>
+            <mods:identifier xmlns:mods="http://www.loc.gov/mods/v3">fe8874419b84457dafae87c668dc5912</mods:identifier>
+          </mods:relatedItem>
+        </mods>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec>
+    <techMD ID="6558">
+      <mdWrap MDTYPE="PREMIS:OBJECT">
+        <xmlData>
+          <object version="2.2" xmlns="info:lc/xmlns/premis-v2" xsi:schemaLocation="info:lc/xmlns/premis-v2 http://www.loc.gov/standards/premis/v2/premis-v2-2.xsd" xsi:type="file">
+            <objectIdentifier xmlns="http://www.loc.gov/METS/">
+              <objectIdentifierType>ArchivesSpace identifier</objectIdentifierType>
+              <objectIdentifierValue>6558</objectIdentifierValue>
+            </objectIdentifier>
+            <objectCharacteristics xmlns="http://www.loc.gov/METS/">
+              <fixity>
+                <messageDigestAlgorithm/>
+                <messageDigest/>
+              </fixity>
+              <size/>
+              <format>
+                <formatDesignation>
+                  <formatName/>
+                  <formatVersion/>
+                </formatDesignation>
+              </format>
+            </objectCharacteristics>
+          </object>
+        </xmlData>
+      </mdWrap>
+    </techMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="translation missing: en.enumerations.file_version_use_statement.service-edited">
+      <file AMDID="6558" GROUPID="1328" ID="6558">
+        <FLocat xlink:href="https://storage.rockarch.org/888faf49-392d-44a7-863f-b47bfc1e2cc7-rac_rfdiaries_12-2_willits_1939-1954_003.pdf"/>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="logical">
+    <div DMDID="1328" LABEL="Exhibits" ORDER="1" TYPE="item">
+      <fptr FILEID="6558"/>
+    </div>
+  </structMap>
+  <structMap TYPE="physical">
+    <div DMDID="1328" LABEL="Exhibits" ORDER="1" TYPE="item">
+      <fptr FILEID="6558"/>
+    </div>
+  </structMap>
+</mets>
+

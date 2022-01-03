@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mets xmlns="http://www.loc.gov/METS/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/mets/mets.xsd">
+  <metsHdr CREATEDATE="2022-01-03 05:17:56 -0500">
+    <agent ROLE="CREATOR" TYPE="ORGANIZATION">
+      <name>Rockefeller Archive Center</name>
+      <note>http://www.rockarch.org</note>
+      <note>Produced by ArchivesSpace</note>
+    </agent>
+  </metsHdr>
+  <dmdSec ID="309">
+    <mdWrap MDTYPE="MODS">
+      <xmlData>
+        <mods version="3.4" xmlns="http://www.loc.gov/mods/v3">
+          <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3">
+            <mods:title xmlns:mods="http://www.loc.gov/mods/v3">Personnel Committee</mods:title>
+          </mods:titleInfo>
+          <mods:identifier type="local" xmlns:mods="http://www.loc.gov/mods/v3">81949469-aa5b-4673-ada3-a5deceb8b51b</mods:identifier>
+          <mods:typeOfResource xmlns:mods="http://www.loc.gov/mods/v3">Text</mods:typeOfResource>
+          <mods:originInfo xmlns:mods="http://www.loc.gov/mods/v3">
+            <mods:dateCreated xmlns:mods="http://www.loc.gov/mods/v3">May 15, 1963</mods:dateCreated>
+          </mods:originInfo>
+          <mods:language xmlns:mods="http://www.loc.gov/mods/v3">
+            <mods:languageTerm authority="iso639-2b" type="text" xmlns:mods="http://www.loc.gov/mods/v3">English</mods:languageTerm>
+            <mods:languageTerm authority="iso639-2b" type="code" xmlns:mods="http://www.loc.gov/mods/v3">eng</mods:languageTerm>
+          </mods:language>
+          <mods:physicalDescription xmlns:mods="http://www.loc.gov/mods/v3"/>
+          <mods:note type="originalsloc" xmlns:mods="http://www.loc.gov/mods/v3">58fe15c3-af53-4eb1-b0f5-7d3d96b86976</mods:note>
+          <mods:accessCondition type="restrictionOnAccess" xmlns:mods="http://www.loc.gov/mods/v3">No restrictions on access.</mods:accessCondition>
+          <mods:accessCondition type="useAndReproduction" xmlns:mods="http://www.loc.gov/mods/v3">To the extent that the donor owns copyright in these materials, he/she has given the Rockefeller Archive Center the authority to grant permission to cite and publish material from the collection for scholarly purposes; however, copyright in some items may be held by their respective creators.  Please consult an archivist for further details.</mods:accessCondition>
+          <mods:note displayLabel="Digital object made available by" xmlns:mods="http://www.loc.gov/mods/v3">Rockefeller Archive Center, 15 Dayton Avenue, Sleepy Hollow, 10591, U.S.A. (http://www.rockarch.org)</mods:note>
+          <mods:relatedItem displayLabel="resource" type="host" xmlns:mods="http://www.loc.gov/mods/v3">
+            <mods:name xmlns:mods="http://www.loc.gov/mods/v3">Foundation for Child Development records</mods:name>
+            <mods:identifier xmlns:mods="http://www.loc.gov/mods/v3">FA019.xml</mods:identifier>
+          </mods:relatedItem>
+          <mods:relatedItem displayLabel="component" type="host" xmlns:mods="http://www.loc.gov/mods/v3">
+            <mods:name xmlns:mods="http://www.loc.gov/mods/v3">Personnel Committee, May 15, 1963</mods:name>
+            <mods:identifier xmlns:mods="http://www.loc.gov/mods/v3">ec300c8402f04bcda4c59826826e5ff9</mods:identifier>
+          </mods:relatedItem>
+        </mods>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec>
+    <techMD ID="6483">
+      <mdWrap MDTYPE="PREMIS:OBJECT">
+        <xmlData>
+          <object version="2.2" xmlns="info:lc/xmlns/premis-v2" xsi:schemaLocation="info:lc/xmlns/premis-v2 http://www.loc.gov/standards/premis/v2/premis-v2-2.xsd" xsi:type="file">
+            <objectIdentifier xmlns="http://www.loc.gov/METS/">
+              <objectIdentifierType>ArchivesSpace identifier</objectIdentifierType>
+              <objectIdentifierValue>6483</objectIdentifierValue>
+            </objectIdentifier>
+            <objectCharacteristics xmlns="http://www.loc.gov/METS/">
+              <fixity>
+                <messageDigestAlgorithm/>
+                <messageDigest/>
+              </fixity>
+              <size/>
+              <format>
+                <formatDesignation>
+                  <formatName/>
+                  <formatVersion/>
+                </formatDesignation>
+              </format>
+            </objectCharacteristics>
+          </object>
+        </xmlData>
+      </mdWrap>
+    </techMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="Image-Service">
+      <file AMDID="6483" GROUPID="309" ID="6483">
+        <FLocat xlink:href="https://storage.rockarch.org/81949469-aa5b-4673-ada3-a5deceb8b51b-FCD001_023_00084.pdf"/>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="logical">
+    <div DMDID="309" LABEL="Personnel Committee" ORDER="1" TYPE="item">
+      <fptr FILEID="6483"/>
+    </div>
+  </structMap>
+  <structMap TYPE="physical">
+    <div DMDID="309" LABEL="Personnel Committee" ORDER="1" TYPE="item">
+      <fptr FILEID="6483"/>
+    </div>
+  </structMap>
+</mets>
+
