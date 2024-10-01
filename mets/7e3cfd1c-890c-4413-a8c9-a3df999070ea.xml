@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mets xmlns="https://www.loc.gov/METS/" xmlns:dc="https://purl.org/dc/elements/1.1/" xmlns:mods="https://www.loc.gov/mods/v3" xmlns:xlink="https://www.w3.org/1999/xlink" xmlns:xsi="https://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://www.loc.gov/standards/mets/mets.xsd">
+  <metsHdr CREATEDATE="2024-10-01 18:29:16 UTC">
+    <agent ROLE="CREATOR" TYPE="ORGANIZATION">
+      <name>Rockefeller Archive Center</name>
+      <note>http://www.rockarch.org</note>
+      <note>Produced by ArchivesSpace</note>
+    </agent>
+  </metsHdr>
+  <dmdSec ID="16704">
+    <mdWrap MDTYPE="MODS">
+      <xmlData>
+        <mods version="3.4" xmlns="https://www.loc.gov/mods/v3">
+          <mods:titleInfo xmlns:mods="https://www.loc.gov/mods/v3">
+            <mods:title xmlns:mods="https://www.loc.gov/mods/v3">Lund, Hakon (Denmark)</mods:title>
+          </mods:titleInfo>
+          <mods:identifier type="local" xmlns:mods="https://www.loc.gov/mods/v3">7e3cfd1c-890c-4413-a8c9-a3df999070ea</mods:identifier>
+          <mods:typeOfResource xmlns:mods="https://www.loc.gov/mods/v3"/>
+          <mods:originInfo xmlns:mods="https://www.loc.gov/mods/v3"/>
+          <mods:physicalDescription xmlns:mods="https://www.loc.gov/mods/v3"/>
+          <mods:note displayLabel="Digital object made available by" xmlns:mods="https://www.loc.gov/mods/v3">Rockefeller Archive Center, 15 Dayton Avenue, Sleepy Hollow, 10591, U.S.A. (http://www.rockarch.org)</mods:note>
+          <mods:relatedItem displayLabel="resource" type="host" xmlns:mods="https://www.loc.gov/mods/v3">
+            <mods:name xmlns:mods="https://www.loc.gov/mods/v3">Rockefeller Foundation records, fellowships, fellowship recorder cards, SG 10.2</mods:name>
+            <mods:identifier xmlns:mods="https://www.loc.gov/mods/v3">FA426.xml</mods:identifier>
+          </mods:relatedItem>
+          <mods:relatedItem displayLabel="component" type="host" xmlns:mods="https://www.loc.gov/mods/v3">
+            <mods:name xmlns:mods="https://www.loc.gov/mods/v3">Lund, Hakon (Denmark)</mods:name>
+            <mods:identifier xmlns:mods="https://www.loc.gov/mods/v3">4d98986599994ba09bb0f916d9c62c60</mods:identifier>
+          </mods:relatedItem>
+        </mods>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec>
+    <techMD ID="44416">
+      <mdWrap MDTYPE="PREMIS:OBJECT">
+        <xmlData>
+          <object version="2.2" xmlns="info:lc/xmlns/premis-v2" xsi:schemaLocation="info:lc/xmlns/premis-v2 http://www.loc.gov/standards/premis/v2/premis-v2-2.xsd" xsi:type="file">
+            <objectIdentifier xmlns="https://www.loc.gov/METS/">
+              <objectIdentifierType>ArchivesSpace identifier</objectIdentifierType>
+              <objectIdentifierValue>44416</objectIdentifierValue>
+            </objectIdentifier>
+            <objectCharacteristics xmlns="https://www.loc.gov/METS/">
+              <fixity>
+                <messageDigestAlgorithm/>
+                <messageDigest/>
+              </fixity>
+              <size/>
+              <format>
+                <formatDesignation>
+                  <formatName/>
+                  <formatVersion/>
+                </formatDesignation>
+              </format>
+            </objectCharacteristics>
+          </object>
+        </xmlData>
+      </mdWrap>
+    </techMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="translation missing: en.enumerations.file_version_use_statement.master">
+      <file AMDID="44416" GROUPID="16704" ID="44416">
+        <FLocat xlink:href="http://fedora.rockarch.org:8080/fedora/rest/7e3cfd1c-890c-4413-a8c9-a3df999070ea"/>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="logical">
+    <div DMDID="16704" LABEL="Lund, Hakon (Denmark)" ORDER="1" TYPE="item">
+      <fptr FILEID="44416"/>
+    </div>
+  </structMap>
+  <structMap TYPE="physical">
+    <div DMDID="16704" LABEL="Lund, Hakon (Denmark)" ORDER="1" TYPE="item">
+      <fptr FILEID="44416"/>
+    </div>
+  </structMap>
+</mets>
+

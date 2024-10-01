@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<mets xmlns="http://www.loc.gov/METS/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/mets/mets.xsd">
-  <metsHdr CREATEDATE="2022-01-03 07:32:37 -0500">
+<mets xmlns="https://www.loc.gov/METS/" xmlns:dc="https://purl.org/dc/elements/1.1/" xmlns:mods="https://www.loc.gov/mods/v3" xmlns:xlink="https://www.w3.org/1999/xlink" xmlns:xsi="https://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://www.loc.gov/standards/mets/mets.xsd">
+  <metsHdr CREATEDATE="2024-10-01 12:23:42 UTC">
     <agent ROLE="CREATOR" TYPE="ORGANIZATION">
       <name>Rockefeller Archive Center</name>
       <note>http://www.rockarch.org</note>
@@ -10,38 +10,38 @@
   <dmdSec ID="3686">
     <mdWrap MDTYPE="MODS">
       <xmlData>
-        <mods version="3.4" xmlns="http://www.loc.gov/mods/v3">
-          <mods:titleInfo xmlns:mods="http://www.loc.gov/mods/v3">
-            <mods:title xmlns:mods="http://www.loc.gov/mods/v3">FA057_ReelM02_Series1_Box2_Folder50.pdf</mods:title>
+        <mods version="3.4" xmlns="https://www.loc.gov/mods/v3">
+          <mods:titleInfo xmlns:mods="https://www.loc.gov/mods/v3">
+            <mods:title xmlns:mods="https://www.loc.gov/mods/v3">Myers, L. G., 1910-1915</mods:title>
           </mods:titleInfo>
-          <mods:identifier type="local" xmlns:mods="http://www.loc.gov/mods/v3">3fe06046-f8f9-43d6-9ab4-ce519e885c99</mods:identifier>
-          <mods:typeOfResource xmlns:mods="http://www.loc.gov/mods/v3"/>
-          <mods:originInfo xmlns:mods="http://www.loc.gov/mods/v3"/>
-          <mods:physicalDescription xmlns:mods="http://www.loc.gov/mods/v3"/>
-          <mods:note type="originalsloc" xmlns:mods="http://www.loc.gov/mods/v3">264584c7-de96-46f1-860e-2b052c315391</mods:note>
-          <mods:note displayLabel="Digital object made available by" xmlns:mods="http://www.loc.gov/mods/v3">Rockefeller Archive Center, 15 Dayton Avenue, Sleepy Hollow, 10591, U.S.A. (http://www.rockarch.org)</mods:note>
-          <mods:relatedItem displayLabel="resource" type="host" xmlns:mods="http://www.loc.gov/mods/v3">
-            <mods:name xmlns:mods="http://www.loc.gov/mods/v3">Rockefeller Sanitary Commission for the Eradication of Hookworm Disease records</mods:name>
-            <mods:identifier xmlns:mods="http://www.loc.gov/mods/v3">FA057.xml</mods:identifier>
+          <mods:identifier type="local" xmlns:mods="https://www.loc.gov/mods/v3">3fe06046-f8f9-43d6-9ab4-ce519e885c99</mods:identifier>
+          <mods:typeOfResource xmlns:mods="https://www.loc.gov/mods/v3"/>
+          <mods:originInfo xmlns:mods="https://www.loc.gov/mods/v3"/>
+          <mods:physicalDescription xmlns:mods="https://www.loc.gov/mods/v3"/>
+          <mods:note type="originalsloc" xmlns:mods="https://www.loc.gov/mods/v3">264584c7-de96-46f1-860e-2b052c315391</mods:note>
+          <mods:note displayLabel="Digital object made available by" xmlns:mods="https://www.loc.gov/mods/v3">Rockefeller Archive Center, 15 Dayton Avenue, Sleepy Hollow, 10591, U.S.A. (http://www.rockarch.org)</mods:note>
+          <mods:relatedItem displayLabel="resource" type="host" xmlns:mods="https://www.loc.gov/mods/v3">
+            <mods:name xmlns:mods="https://www.loc.gov/mods/v3">Rockefeller Sanitary Commission for the Eradication of Hookworm Disease records</mods:name>
+            <mods:identifier xmlns:mods="https://www.loc.gov/mods/v3">FA057.xml</mods:identifier>
           </mods:relatedItem>
-          <mods:relatedItem displayLabel="component" type="host" xmlns:mods="http://www.loc.gov/mods/v3">
-            <mods:name xmlns:mods="http://www.loc.gov/mods/v3">Myers, L. G., 1910-1915</mods:name>
-            <mods:identifier xmlns:mods="http://www.loc.gov/mods/v3">c6441a0784114f9d818ba0d62bccd41b</mods:identifier>
+          <mods:relatedItem displayLabel="component" type="host" xmlns:mods="https://www.loc.gov/mods/v3">
+            <mods:name xmlns:mods="https://www.loc.gov/mods/v3">Myers, L. G., 1910-1915</mods:name>
+            <mods:identifier xmlns:mods="https://www.loc.gov/mods/v3">c6441a0784114f9d818ba0d62bccd41b</mods:identifier>
           </mods:relatedItem>
         </mods>
       </xmlData>
     </mdWrap>
   </dmdSec>
   <amdSec>
-    <techMD ID="8797">
+    <techMD ID="33067">
       <mdWrap MDTYPE="PREMIS:OBJECT">
         <xmlData>
           <object version="2.2" xmlns="info:lc/xmlns/premis-v2" xsi:schemaLocation="info:lc/xmlns/premis-v2 http://www.loc.gov/standards/premis/v2/premis-v2-2.xsd" xsi:type="file">
-            <objectIdentifier xmlns="http://www.loc.gov/METS/">
+            <objectIdentifier xmlns="https://www.loc.gov/METS/">
               <objectIdentifierType>ArchivesSpace identifier</objectIdentifierType>
-              <objectIdentifierValue>8797</objectIdentifierValue>
+              <objectIdentifierValue>33067</objectIdentifierValue>
             </objectIdentifier>
-            <objectCharacteristics xmlns="http://www.loc.gov/METS/">
+            <objectCharacteristics xmlns="https://www.loc.gov/METS/">
               <fixity>
                 <messageDigestAlgorithm/>
                 <messageDigest/>
@@ -61,19 +61,19 @@
   </amdSec>
   <fileSec>
     <fileGrp USE="">
-      <file AMDID="8797" GROUPID="3686" ID="8797">
+      <file AMDID="33067" GROUPID="3686" ID="33067">
         <FLocat xlink:href="https://storage.rockarch.org/3fe06046-f8f9-43d6-9ab4-ce519e885c99-FA057_ReelM02_Series1_Box2_Folder50.pdf"/>
       </file>
     </fileGrp>
   </fileSec>
   <structMap TYPE="logical">
-    <div DMDID="3686" LABEL="FA057_ReelM02_Series1_Box2_Folder50.pdf" ORDER="1" TYPE="item">
-      <fptr FILEID="8797"/>
+    <div DMDID="3686" LABEL="Myers, L. G., 1910-1915" ORDER="1" TYPE="item">
+      <fptr FILEID="33067"/>
     </div>
   </structMap>
   <structMap TYPE="physical">
-    <div DMDID="3686" LABEL="FA057_ReelM02_Series1_Box2_Folder50.pdf" ORDER="1" TYPE="item">
-      <fptr FILEID="8797"/>
+    <div DMDID="3686" LABEL="Myers, L. G., 1910-1915" ORDER="1" TYPE="item">
+      <fptr FILEID="33067"/>
     </div>
   </structMap>
 </mets>

@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mets xmlns="https://www.loc.gov/METS/" xmlns:dc="https://purl.org/dc/elements/1.1/" xmlns:mods="https://www.loc.gov/mods/v3" xmlns:xlink="https://www.w3.org/1999/xlink" xmlns:xsi="https://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://www.loc.gov/standards/mets/mets.xsd">
+  <metsHdr CREATEDATE="2024-10-01 11:29:53 UTC">
+    <agent ROLE="CREATOR" TYPE="ORGANIZATION">
+      <name>Rockefeller Archive Center</name>
+      <note>http://www.rockarch.org</note>
+      <note>Produced by ArchivesSpace</note>
+    </agent>
+  </metsHdr>
+  <dmdSec ID="1200">
+    <mdWrap MDTYPE="MODS">
+      <xmlData>
+        <mods version="3.4" xmlns="https://www.loc.gov/mods/v3">
+          <mods:titleInfo xmlns:mods="https://www.loc.gov/mods/v3">
+            <mods:title xmlns:mods="https://www.loc.gov/mods/v3">Ruth Linn, 1983-1984</mods:title>
+          </mods:titleInfo>
+          <mods:identifier type="local" xmlns:mods="https://www.loc.gov/mods/v3">ec40a7e7-7562-4f33-b289-24cd93caa54a</mods:identifier>
+          <mods:typeOfResource xmlns:mods="https://www.loc.gov/mods/v3">Text</mods:typeOfResource>
+          <mods:originInfo xmlns:mods="https://www.loc.gov/mods/v3">
+            <mods:dateCreated xmlns:mods="https://www.loc.gov/mods/v3">1983-1984</mods:dateCreated>
+          </mods:originInfo>
+          <mods:language xmlns:mods="https://www.loc.gov/mods/v3">
+            <mods:languageTerm authority="iso639-2b" type="text" xmlns:mods="https://www.loc.gov/mods/v3">English</mods:languageTerm>
+            <mods:languageTerm authority="iso639-2b" type="code" xmlns:mods="https://www.loc.gov/mods/v3">eng</mods:languageTerm>
+          </mods:language>
+          <mods:physicalDescription xmlns:mods="https://www.loc.gov/mods/v3"/>
+          <mods:note type="originalsloc" xmlns:mods="https://www.loc.gov/mods/v3">fd5b21d6-9c0b-4469-8c4d-4dc29908e8b4</mods:note>
+          <mods:accessCondition type="restrictionOnAccess" xmlns:mods="https://www.loc.gov/mods/v3">Online access restricted November 21, 2013 at the request of Jack Meyers.</mods:accessCondition>
+          <mods:accessCondition type="useAndReproduction" xmlns:mods="https://www.loc.gov/mods/v3">To the extent that the donor owns copyright in these materials, he/she has given the Rockefeller Archive Center the authority to grant permission to cite and publish material from the collection for scholarly purposes; however, copyright in some items may be held by their respective creators. Please consult an archivist for further details.</mods:accessCondition>
+          <mods:accessCondition type="restrictionOnAccess" xmlns:mods="https://www.loc.gov/mods/v3">This file is not available for viewing online.</mods:accessCondition>
+          <mods:note displayLabel="Digital object made available by" xmlns:mods="https://www.loc.gov/mods/v3">Rockefeller Archive Center, 15 Dayton Avenue, Sleepy Hollow, 10591, U.S.A. (http://www.rockarch.org)</mods:note>
+          <mods:relatedItem displayLabel="resource" type="host" xmlns:mods="https://www.loc.gov/mods/v3">
+            <mods:name xmlns:mods="https://www.loc.gov/mods/v3">Foundation for Child Development records</mods:name>
+            <mods:identifier xmlns:mods="https://www.loc.gov/mods/v3">FA019.xml</mods:identifier>
+          </mods:relatedItem>
+          <mods:relatedItem displayLabel="component" type="host" xmlns:mods="https://www.loc.gov/mods/v3">
+            <mods:name xmlns:mods="https://www.loc.gov/mods/v3">Ruth Linn, 1983-1984</mods:name>
+            <mods:identifier xmlns:mods="https://www.loc.gov/mods/v3">e67c0c7bb2b046a9b1d15a10ae9c49ea</mods:identifier>
+          </mods:relatedItem>
+        </mods>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec>
+    <techMD ID="30913">
+      <mdWrap MDTYPE="PREMIS:OBJECT">
+        <xmlData>
+          <object version="2.2" xmlns="info:lc/xmlns/premis-v2" xsi:schemaLocation="info:lc/xmlns/premis-v2 http://www.loc.gov/standards/premis/v2/premis-v2-2.xsd" xsi:type="file">
+            <objectIdentifier xmlns="https://www.loc.gov/METS/">
+              <objectIdentifierType>ArchivesSpace identifier</objectIdentifierType>
+              <objectIdentifierValue>30913</objectIdentifierValue>
+            </objectIdentifier>
+            <objectCharacteristics xmlns="https://www.loc.gov/METS/">
+              <fixity>
+                <messageDigestAlgorithm/>
+                <messageDigest/>
+              </fixity>
+              <size/>
+              <format>
+                <formatDesignation>
+                  <formatName/>
+                  <formatVersion/>
+                </formatDesignation>
+              </format>
+            </objectCharacteristics>
+          </object>
+        </xmlData>
+      </mdWrap>
+    </techMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="Image-Service">
+      <file AMDID="30913" GROUPID="1200" ID="30913">
+        <FLocat xlink:href="https://storage.rockarch.org/ec40a7e7-7562-4f33-b289-24cd93caa54a-FCD001_103_01015.pdf"/>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="logical">
+    <div DMDID="1200" LABEL="Ruth Linn, 1983-1984" ORDER="1" TYPE="item">
+      <fptr FILEID="30913"/>
+    </div>
+  </structMap>
+  <structMap TYPE="physical">
+    <div DMDID="1200" LABEL="Ruth Linn, 1983-1984" ORDER="1" TYPE="item">
+      <fptr FILEID="30913"/>
+    </div>
+  </structMap>
+</mets>
+

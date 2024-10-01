@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mets xmlns="https://www.loc.gov/METS/" xmlns:dc="https://purl.org/dc/elements/1.1/" xmlns:mods="https://www.loc.gov/mods/v3" xmlns:xlink="https://www.w3.org/1999/xlink" xmlns:xsi="https://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://www.loc.gov/standards/mets/mets.xsd">
+  <metsHdr CREATEDATE="2024-10-01 15:49:38 UTC">
+    <agent ROLE="CREATOR" TYPE="ORGANIZATION">
+      <name>Rockefeller Archive Center</name>
+      <note>http://www.rockarch.org</note>
+      <note>Produced by ArchivesSpace</note>
+    </agent>
+  </metsHdr>
+  <dmdSec ID="11934">
+    <mdWrap MDTYPE="MODS">
+      <xmlData>
+        <mods version="3.4" xmlns="https://www.loc.gov/mods/v3">
+          <mods:titleInfo xmlns:mods="https://www.loc.gov/mods/v3">
+            <mods:title xmlns:mods="https://www.loc.gov/mods/v3">Upegui Estrada, Josue (Colombia)</mods:title>
+          </mods:titleInfo>
+          <mods:identifier type="local" xmlns:mods="https://www.loc.gov/mods/v3">b27d7ab1-96ec-4181-84e2-019f8eee8799</mods:identifier>
+          <mods:typeOfResource xmlns:mods="https://www.loc.gov/mods/v3"/>
+          <mods:originInfo xmlns:mods="https://www.loc.gov/mods/v3"/>
+          <mods:physicalDescription xmlns:mods="https://www.loc.gov/mods/v3"/>
+          <mods:note displayLabel="Digital object made available by" xmlns:mods="https://www.loc.gov/mods/v3">Rockefeller Archive Center, 15 Dayton Avenue, Sleepy Hollow, 10591, U.S.A. (http://www.rockarch.org)</mods:note>
+          <mods:relatedItem displayLabel="resource" type="host" xmlns:mods="https://www.loc.gov/mods/v3">
+            <mods:name xmlns:mods="https://www.loc.gov/mods/v3">Rockefeller Foundation records, fellowships, fellowship recorder cards, SG 10.2</mods:name>
+            <mods:identifier xmlns:mods="https://www.loc.gov/mods/v3">FA426.xml</mods:identifier>
+          </mods:relatedItem>
+          <mods:relatedItem displayLabel="component" type="host" xmlns:mods="https://www.loc.gov/mods/v3">
+            <mods:name xmlns:mods="https://www.loc.gov/mods/v3">Upegui Estrada, Josue (Colombia)</mods:name>
+            <mods:identifier xmlns:mods="https://www.loc.gov/mods/v3">80487626404547cb9ecec14151dc9eed</mods:identifier>
+          </mods:relatedItem>
+        </mods>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec>
+    <techMD ID="39898">
+      <mdWrap MDTYPE="PREMIS:OBJECT">
+        <xmlData>
+          <object version="2.2" xmlns="info:lc/xmlns/premis-v2" xsi:schemaLocation="info:lc/xmlns/premis-v2 http://www.loc.gov/standards/premis/v2/premis-v2-2.xsd" xsi:type="file">
+            <objectIdentifier xmlns="https://www.loc.gov/METS/">
+              <objectIdentifierType>ArchivesSpace identifier</objectIdentifierType>
+              <objectIdentifierValue>39898</objectIdentifierValue>
+            </objectIdentifier>
+            <objectCharacteristics xmlns="https://www.loc.gov/METS/">
+              <fixity>
+                <messageDigestAlgorithm/>
+                <messageDigest/>
+              </fixity>
+              <size/>
+              <format>
+                <formatDesignation>
+                  <formatName/>
+                  <formatVersion/>
+                </formatDesignation>
+              </format>
+            </objectCharacteristics>
+          </object>
+        </xmlData>
+      </mdWrap>
+    </techMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="translation missing: en.enumerations.file_version_use_statement.master">
+      <file AMDID="39898" GROUPID="11934" ID="39898">
+        <FLocat xlink:href="http://fedora.rockarch.org:8080/fedora/rest/b27d7ab1-96ec-4181-84e2-019f8eee8799"/>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="logical">
+    <div DMDID="11934" LABEL="Upegui Estrada, Josue (Colombia)" ORDER="1" TYPE="item">
+      <fptr FILEID="39898"/>
+    </div>
+  </structMap>
+  <structMap TYPE="physical">
+    <div DMDID="11934" LABEL="Upegui Estrada, Josue (Colombia)" ORDER="1" TYPE="item">
+      <fptr FILEID="39898"/>
+    </div>
+  </structMap>
+</mets>
+

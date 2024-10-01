@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mets xmlns="https://www.loc.gov/METS/" xmlns:dc="https://purl.org/dc/elements/1.1/" xmlns:mods="https://www.loc.gov/mods/v3" xmlns:xlink="https://www.w3.org/1999/xlink" xmlns:xsi="https://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://www.loc.gov/standards/mets/mets.xsd">
+  <metsHdr CREATEDATE="2024-10-01 14:12:46 UTC">
+    <agent ROLE="CREATOR" TYPE="ORGANIZATION">
+      <name>Rockefeller Archive Center</name>
+      <note>http://www.rockarch.org</note>
+      <note>Produced by ArchivesSpace</note>
+    </agent>
+  </metsHdr>
+  <dmdSec ID="8917">
+    <mdWrap MDTYPE="MODS">
+      <xmlData>
+        <mods version="3.4" xmlns="https://www.loc.gov/mods/v3">
+          <mods:titleInfo xmlns:mods="https://www.loc.gov/mods/v3">
+            <mods:title xmlns:mods="https://www.loc.gov/mods/v3">Orsi, Eujandir Wilson de Lima (Brazil)</mods:title>
+          </mods:titleInfo>
+          <mods:identifier type="local" xmlns:mods="https://www.loc.gov/mods/v3">52d4e6ac-aea1-45e8-956b-72023b6c9606</mods:identifier>
+          <mods:typeOfResource xmlns:mods="https://www.loc.gov/mods/v3"/>
+          <mods:originInfo xmlns:mods="https://www.loc.gov/mods/v3"/>
+          <mods:physicalDescription xmlns:mods="https://www.loc.gov/mods/v3"/>
+          <mods:note displayLabel="Digital object made available by" xmlns:mods="https://www.loc.gov/mods/v3">Rockefeller Archive Center, 15 Dayton Avenue, Sleepy Hollow, 10591, U.S.A. (http://www.rockarch.org)</mods:note>
+          <mods:relatedItem displayLabel="resource" type="host" xmlns:mods="https://www.loc.gov/mods/v3">
+            <mods:name xmlns:mods="https://www.loc.gov/mods/v3">Rockefeller Foundation records, fellowships, fellowship recorder cards, SG 10.2</mods:name>
+            <mods:identifier xmlns:mods="https://www.loc.gov/mods/v3">FA426.xml</mods:identifier>
+          </mods:relatedItem>
+          <mods:relatedItem displayLabel="component" type="host" xmlns:mods="https://www.loc.gov/mods/v3">
+            <mods:name xmlns:mods="https://www.loc.gov/mods/v3">Orsi, Eujandir Wilson de Lima (Brazil)</mods:name>
+            <mods:identifier xmlns:mods="https://www.loc.gov/mods/v3">bfe1578ce1284b30882aa417d8eb4591</mods:identifier>
+          </mods:relatedItem>
+        </mods>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec>
+    <techMD ID="37061">
+      <mdWrap MDTYPE="PREMIS:OBJECT">
+        <xmlData>
+          <object version="2.2" xmlns="info:lc/xmlns/premis-v2" xsi:schemaLocation="info:lc/xmlns/premis-v2 http://www.loc.gov/standards/premis/v2/premis-v2-2.xsd" xsi:type="file">
+            <objectIdentifier xmlns="https://www.loc.gov/METS/">
+              <objectIdentifierType>ArchivesSpace identifier</objectIdentifierType>
+              <objectIdentifierValue>37061</objectIdentifierValue>
+            </objectIdentifier>
+            <objectCharacteristics xmlns="https://www.loc.gov/METS/">
+              <fixity>
+                <messageDigestAlgorithm/>
+                <messageDigest/>
+              </fixity>
+              <size/>
+              <format>
+                <formatDesignation>
+                  <formatName/>
+                  <formatVersion/>
+                </formatDesignation>
+              </format>
+            </objectCharacteristics>
+          </object>
+        </xmlData>
+      </mdWrap>
+    </techMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="translation missing: en.enumerations.file_version_use_statement.master">
+      <file AMDID="37061" GROUPID="8917" ID="37061">
+        <FLocat xlink:href="http://fedora.rockarch.org:8080/fedora/rest/52d4e6ac-aea1-45e8-956b-72023b6c9606"/>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="logical">
+    <div DMDID="8917" LABEL="Orsi, Eujandir Wilson de Lima (Brazil)" ORDER="1" TYPE="item">
+      <fptr FILEID="37061"/>
+    </div>
+  </structMap>
+  <structMap TYPE="physical">
+    <div DMDID="8917" LABEL="Orsi, Eujandir Wilson de Lima (Brazil)" ORDER="1" TYPE="item">
+      <fptr FILEID="37061"/>
+    </div>
+  </structMap>
+</mets>
+

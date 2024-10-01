@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mets xmlns="https://www.loc.gov/METS/" xmlns:dc="https://purl.org/dc/elements/1.1/" xmlns:mods="https://www.loc.gov/mods/v3" xmlns:xlink="https://www.w3.org/1999/xlink" xmlns:xsi="https://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://www.loc.gov/standards/mets/mets.xsd">
+  <metsHdr CREATEDATE="2024-10-01 16:05:49 UTC">
+    <agent ROLE="CREATOR" TYPE="ORGANIZATION">
+      <name>Rockefeller Archive Center</name>
+      <note>http://www.rockarch.org</note>
+      <note>Produced by ArchivesSpace</note>
+    </agent>
+  </metsHdr>
+  <dmdSec ID="12441">
+    <mdWrap MDTYPE="MODS">
+      <xmlData>
+        <mods version="3.4" xmlns="https://www.loc.gov/mods/v3">
+          <mods:titleInfo xmlns:mods="https://www.loc.gov/mods/v3">
+            <mods:title xmlns:mods="https://www.loc.gov/mods/v3">Kraitz, Dr. Sergei Valentinowitch (USSR (Russia))</mods:title>
+          </mods:titleInfo>
+          <mods:identifier type="local" xmlns:mods="https://www.loc.gov/mods/v3">5358d1f8-eb13-42f9-bfc4-d50238f18395</mods:identifier>
+          <mods:typeOfResource xmlns:mods="https://www.loc.gov/mods/v3"/>
+          <mods:originInfo xmlns:mods="https://www.loc.gov/mods/v3"/>
+          <mods:physicalDescription xmlns:mods="https://www.loc.gov/mods/v3"/>
+          <mods:note displayLabel="Digital object made available by" xmlns:mods="https://www.loc.gov/mods/v3">Rockefeller Archive Center, 15 Dayton Avenue, Sleepy Hollow, 10591, U.S.A. (http://www.rockarch.org)</mods:note>
+          <mods:relatedItem displayLabel="resource" type="host" xmlns:mods="https://www.loc.gov/mods/v3">
+            <mods:name xmlns:mods="https://www.loc.gov/mods/v3">Rockefeller Foundation records, fellowships, fellowship recorder cards, SG 10.2</mods:name>
+            <mods:identifier xmlns:mods="https://www.loc.gov/mods/v3">FA426.xml</mods:identifier>
+          </mods:relatedItem>
+          <mods:relatedItem displayLabel="component" type="host" xmlns:mods="https://www.loc.gov/mods/v3">
+            <mods:name xmlns:mods="https://www.loc.gov/mods/v3">Kraitz, Dr. Sergei Valentinowitch (USSR (Russia))</mods:name>
+            <mods:identifier xmlns:mods="https://www.loc.gov/mods/v3">588af5ad4cb2483b99100a0eccbebe5f</mods:identifier>
+          </mods:relatedItem>
+        </mods>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec>
+    <techMD ID="40375">
+      <mdWrap MDTYPE="PREMIS:OBJECT">
+        <xmlData>
+          <object version="2.2" xmlns="info:lc/xmlns/premis-v2" xsi:schemaLocation="info:lc/xmlns/premis-v2 http://www.loc.gov/standards/premis/v2/premis-v2-2.xsd" xsi:type="file">
+            <objectIdentifier xmlns="https://www.loc.gov/METS/">
+              <objectIdentifierType>ArchivesSpace identifier</objectIdentifierType>
+              <objectIdentifierValue>40375</objectIdentifierValue>
+            </objectIdentifier>
+            <objectCharacteristics xmlns="https://www.loc.gov/METS/">
+              <fixity>
+                <messageDigestAlgorithm/>
+                <messageDigest/>
+              </fixity>
+              <size/>
+              <format>
+                <formatDesignation>
+                  <formatName/>
+                  <formatVersion/>
+                </formatDesignation>
+              </format>
+            </objectCharacteristics>
+          </object>
+        </xmlData>
+      </mdWrap>
+    </techMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="translation missing: en.enumerations.file_version_use_statement.master">
+      <file AMDID="40375" GROUPID="12441" ID="40375">
+        <FLocat xlink:href="http://fedora.rockarch.org:8080/fedora/rest/5358d1f8-eb13-42f9-bfc4-d50238f18395"/>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="logical">
+    <div DMDID="12441" LABEL="Kraitz, Dr. Sergei Valentinowitch (USSR (Russia))" ORDER="1" TYPE="item">
+      <fptr FILEID="40375"/>
+    </div>
+  </structMap>
+  <structMap TYPE="physical">
+    <div DMDID="12441" LABEL="Kraitz, Dr. Sergei Valentinowitch (USSR (Russia))" ORDER="1" TYPE="item">
+      <fptr FILEID="40375"/>
+    </div>
+  </structMap>
+</mets>
+

@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mets xmlns="https://www.loc.gov/METS/" xmlns:dc="https://purl.org/dc/elements/1.1/" xmlns:mods="https://www.loc.gov/mods/v3" xmlns:xlink="https://www.w3.org/1999/xlink" xmlns:xsi="https://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://www.loc.gov/standards/mets/mets.xsd">
+  <metsHdr CREATEDATE="2024-10-01 11:31:50 UTC">
+    <agent ROLE="CREATOR" TYPE="ORGANIZATION">
+      <name>Rockefeller Archive Center</name>
+      <note>http://www.rockarch.org</note>
+      <note>Produced by ArchivesSpace</note>
+    </agent>
+  </metsHdr>
+  <dmdSec ID="1280">
+    <mdWrap MDTYPE="MODS">
+      <xmlData>
+        <mods version="3.4" xmlns="https://www.loc.gov/mods/v3">
+          <mods:titleInfo xmlns:mods="https://www.loc.gov/mods/v3">
+            <mods:title xmlns:mods="https://www.loc.gov/mods/v3">Lewis B. Cuyler - Oral History Interview Transcript, 1972</mods:title>
+          </mods:titleInfo>
+          <mods:identifier type="local" xmlns:mods="https://www.loc.gov/mods/v3">0d6c85cf-ec12-4098-a19a-cef476e2040d</mods:identifier>
+          <mods:typeOfResource xmlns:mods="https://www.loc.gov/mods/v3">Text</mods:typeOfResource>
+          <mods:originInfo xmlns:mods="https://www.loc.gov/mods/v3">
+            <mods:dateCreated xmlns:mods="https://www.loc.gov/mods/v3">1972</mods:dateCreated>
+          </mods:originInfo>
+          <mods:language xmlns:mods="https://www.loc.gov/mods/v3">
+            <mods:languageTerm authority="iso639-2b" type="text" xmlns:mods="https://www.loc.gov/mods/v3">English</mods:languageTerm>
+            <mods:languageTerm authority="iso639-2b" type="code" xmlns:mods="https://www.loc.gov/mods/v3">eng</mods:languageTerm>
+          </mods:language>
+          <mods:physicalDescription xmlns:mods="https://www.loc.gov/mods/v3"/>
+          <mods:note type="originalsloc" xmlns:mods="https://www.loc.gov/mods/v3">1e1542ba-f06c-4561-bb6c-cbf3b52476f4</mods:note>
+          <mods:accessCondition type="restrictionOnAccess" xmlns:mods="https://www.loc.gov/mods/v3">This file is not available for viewing online.</mods:accessCondition>
+          <mods:accessCondition type="useAndReproduction" xmlns:mods="https://www.loc.gov/mods/v3">All oral histories restrict reproduction without permission from author, heirs, or representative.</mods:accessCondition>
+          <mods:accessCondition type="restrictionOnAccess" xmlns:mods="https://www.loc.gov/mods/v3">Restricted from public viewing - confidential</mods:accessCondition>
+          <mods:note displayLabel="Digital object made available by" xmlns:mods="https://www.loc.gov/mods/v3">Rockefeller Archive Center, 15 Dayton Avenue, Sleepy Hollow, 10591, U.S.A. (http://www.rockarch.org)</mods:note>
+          <mods:relatedItem displayLabel="resource" type="host" xmlns:mods="https://www.loc.gov/mods/v3">
+            <mods:name xmlns:mods="https://www.loc.gov/mods/v3">Foundation for Child Development records</mods:name>
+            <mods:identifier xmlns:mods="https://www.loc.gov/mods/v3">FA019.xml</mods:identifier>
+          </mods:relatedItem>
+          <mods:relatedItem displayLabel="component" type="host" xmlns:mods="https://www.loc.gov/mods/v3">
+            <mods:name xmlns:mods="https://www.loc.gov/mods/v3">Lewis B. Cuyler - Oral History Interview Transcript, 1972</mods:name>
+            <mods:identifier xmlns:mods="https://www.loc.gov/mods/v3">b0698797c39b4b1eac26ee06bba1cb76</mods:identifier>
+          </mods:relatedItem>
+        </mods>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec>
+    <techMD ID="30993">
+      <mdWrap MDTYPE="PREMIS:OBJECT">
+        <xmlData>
+          <object version="2.2" xmlns="info:lc/xmlns/premis-v2" xsi:schemaLocation="info:lc/xmlns/premis-v2 http://www.loc.gov/standards/premis/v2/premis-v2-2.xsd" xsi:type="file">
+            <objectIdentifier xmlns="https://www.loc.gov/METS/">
+              <objectIdentifierType>ArchivesSpace identifier</objectIdentifierType>
+              <objectIdentifierValue>30993</objectIdentifierValue>
+            </objectIdentifier>
+            <objectCharacteristics xmlns="https://www.loc.gov/METS/">
+              <fixity>
+                <messageDigestAlgorithm/>
+                <messageDigest/>
+              </fixity>
+              <size/>
+              <format>
+                <formatDesignation>
+                  <formatName/>
+                  <formatVersion/>
+                </formatDesignation>
+              </format>
+            </objectCharacteristics>
+          </object>
+        </xmlData>
+      </mdWrap>
+    </techMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="Image-Service">
+      <file AMDID="30993" GROUPID="1280" ID="30993">
+        <FLocat xlink:href="https://storage.rockarch.org/0d6c85cf-ec12-4098-a19a-cef476e2040d-FCD001_025_00577.pdf"/>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="logical">
+    <div DMDID="1280" LABEL="Lewis B. Cuyler - Oral History Interview Transcript, 1972" ORDER="1" TYPE="item">
+      <fptr FILEID="30993"/>
+    </div>
+  </structMap>
+  <structMap TYPE="physical">
+    <div DMDID="1280" LABEL="Lewis B. Cuyler - Oral History Interview Transcript, 1972" ORDER="1" TYPE="item">
+      <fptr FILEID="30993"/>
+    </div>
+  </structMap>
+</mets>
+
