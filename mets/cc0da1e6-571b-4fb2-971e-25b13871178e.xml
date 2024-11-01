@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <mets xmlns="https://www.loc.gov/METS/" xmlns:dc="https://purl.org/dc/elements/1.1/" xmlns:mods="https://www.loc.gov/mods/v3" xmlns:xlink="https://www.w3.org/1999/xlink" xmlns:xsi="https://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://www.loc.gov/standards/mets/mets.xsd">
-  <metsHdr CREATEDATE="2024-10-01 13:25:16 UTC">
+  <metsHdr CREATEDATE="2024-11-01 05:38:04 UTC">
     <agent ROLE="CREATOR" TYPE="ORGANIZATION">
       <name>Rockefeller Archive Center</name>
       <note>http://www.rockarch.org</note>
@@ -12,7 +12,7 @@
       <xmlData>
         <mods version="3.4" xmlns="https://www.loc.gov/mods/v3">
           <mods:titleInfo xmlns:mods="https://www.loc.gov/mods/v3">
-            <mods:title xmlns:mods="https://www.loc.gov/mods/v3">Harvard University - Entrepeneurial History - (Cole, Arthur E.), 1952-1959</mods:title>
+            <mods:title xmlns:mods="https://www.loc.gov/mods/v3">Harvard University - Entrepreneurial History - (Cole, Arthur E.), 1952-1959</mods:title>
           </mods:titleInfo>
           <mods:identifier type="local" xmlns:mods="https://www.loc.gov/mods/v3">cc0da1e6-571b-4fb2-971e-25b13871178e</mods:identifier>
           <mods:typeOfResource xmlns:mods="https://www.loc.gov/mods/v3"/>
@@ -24,7 +24,7 @@
             <mods:identifier xmlns:mods="https://www.loc.gov/mods/v3">FA387a.xml</mods:identifier>
           </mods:relatedItem>
           <mods:relatedItem displayLabel="component" type="host" xmlns:mods="https://www.loc.gov/mods/v3">
-            <mods:name xmlns:mods="https://www.loc.gov/mods/v3">Harvard University - Entrepeneurial History - (Cole, Arthur E.), 1952-1959</mods:name>
+            <mods:name xmlns:mods="https://www.loc.gov/mods/v3">Harvard University - Entrepreneurial History - (Cole, Arthur E.), 1952-1959</mods:name>
             <mods:identifier xmlns:mods="https://www.loc.gov/mods/v3">57ad0dc0b3224c9db4e9ad3cf88ce909</mods:identifier>
           </mods:relatedItem>
         </mods>
@@ -32,13 +32,13 @@
     </mdWrap>
   </dmdSec>
   <amdSec>
-    <techMD ID="35562">
+    <techMD ID="53666">
       <mdWrap MDTYPE="PREMIS:OBJECT">
         <xmlData>
           <object version="2.2" xmlns="info:lc/xmlns/premis-v2" xsi:schemaLocation="info:lc/xmlns/premis-v2 http://www.loc.gov/standards/premis/v2/premis-v2-2.xsd" xsi:type="file">
             <objectIdentifier xmlns="https://www.loc.gov/METS/">
               <objectIdentifierType>ArchivesSpace identifier</objectIdentifierType>
-              <objectIdentifierValue>35562</objectIdentifierValue>
+              <objectIdentifierValue>53666</objectIdentifierValue>
             </objectIdentifier>
             <objectCharacteristics xmlns="https://www.loc.gov/METS/">
               <fixity>
@@ -60,19 +60,19 @@
   </amdSec>
   <fileSec>
     <fileGrp USE="translation missing: en.enumerations.file_version_use_statement.master">
-      <file AMDID="35562" GROUPID="6778" ID="35562">
+      <file AMDID="53666" GROUPID="6778" ID="53666">
         <FLocat xlink:href="http://fedora.rockarch.org:8080/fedora/rest/cc0da1e6-571b-4fb2-971e-25b13871178e"/>
       </file>
     </fileGrp>
   </fileSec>
   <structMap TYPE="logical">
-    <div DMDID="6778" LABEL="Harvard University - Entrepeneurial History - (Cole, Arthur E.), 1952-1959" ORDER="1" TYPE="item">
-      <fptr FILEID="35562"/>
+    <div DMDID="6778" LABEL="Harvard University - Entrepreneurial History - (Cole, Arthur E.), 1952-1959" ORDER="1" TYPE="item">
+      <fptr FILEID="53666"/>
     </div>
   </structMap>
   <structMap TYPE="physical">
-    <div DMDID="6778" LABEL="Harvard University - Entrepeneurial History - (Cole, Arthur E.), 1952-1959" ORDER="1" TYPE="item">
-      <fptr FILEID="35562"/>
+    <div DMDID="6778" LABEL="Harvard University - Entrepreneurial History - (Cole, Arthur E.), 1952-1959" ORDER="1" TYPE="item">
+      <fptr FILEID="53666"/>
     </div>
   </structMap>
 </mets>
